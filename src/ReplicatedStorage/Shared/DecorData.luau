@@ -77,10 +77,6 @@ DecorData.Bundles = {
 	{ key = "StarterPack", id = 0, robux = 99, label = "Starter Pack", tag = "One time only", once = true,
 		desc = "2,500 coins, 10 Spark Balls, 5 Mini Tonics and a Leafy Garden",
 		give = { coins = 2500, items = { SwiftBall = 10, Potion = 5 }, decor = { GrassGarden = 1 } } },
-	{ key = "BallBundle", id = 0, robux = 49, label = "Spark Ball Bundle",
-		desc = "15 Spark Balls", give = { items = { SwiftBall = 15 } } },
-	{ key = "MedicineKit", id = 0, robux = 59, label = "Medicine Kit",
-		desc = "5 Mini Tonics and 2 Revival Seeds", give = { items = { Potion = 5, Revive = 2 } } },
 	{ key = "ShardPouch", id = 0, robux = 149, label = "Shard Pouch",
 		desc = "100 shards: trade them for any crate item you choose", give = { shards = 100 } },
 	{ key = "FountainDeal", id = 0, robux = 129, label = "Coin Fountain Deal",
@@ -140,7 +136,7 @@ DecorData.Items = {
 		add({ s = { 1.1, 1.3, 1.1 }, p = { 0, 6.8, 0 }, c = rgb(255, 235, 170), m = "Neon", fx = "light" })
 		add({ s = { 1.4, 0.3, 1.4 }, p = { 0, 7.55, 0 }, c = rgb(45, 45, 50), m = "Metal" })
 	end },
-	PicnicTable = { name = "Picnic Table", price = 150, sold = "shop", rarity = "Common", size = { 6, 5 }, build = function(add)
+	PicnicTable = { name = "Picnic Table", price = 150, sold = "retired", rarity = "Common", size = { 6, 5 }, build = function(add)
 		add({ s = { 5.6, 0.3, 2.4 }, p = { 0, 2.4, 0 }, c = rgb(230, 80, 70) })
 		add({ s = { 5.6, 0.31, 0.4 }, p = { 0, 2.42, 0.4 }, c = rgb(245, 245, 245) })
 		for _, z in { -1.9, 1.9 } do
@@ -151,7 +147,7 @@ DecorData.Items = {
 			add({ s = { 0.3, 0.3, 4.6 }, p = { x, 1, 0 }, c = DARKWOOD, m = "Wood" })
 		end
 	end },
-	Campfire = { name = "Campfire", price = 180, sold = "shop", rarity = "Common", size = { 4, 4 }, build = function(add)
+	Campfire = { name = "Campfire", price = 180, sold = "retired", rarity = "Common", size = { 4, 4 }, build = function(add)
 		for i = 1, 6 do
 			local a = i * math.pi / 3
 			add({ s = { 0.7, 0.6, 0.7 }, p = { math.cos(a) * 1.4, 0.3, math.sin(a) * 1.4 }, c = STONE, m = "Slate", sh = "Ball" })
@@ -164,13 +160,6 @@ DecorData.Items = {
 		add({ s = { 6, 5, 6 }, p = { 0, 8.2, 0 }, c = LEAF, m = "Grass", sh = "Ball", nc = true })
 		add({ s = { 4, 3.5, 4 }, p = { 1.4, 10, 0.8 }, c = rgb(85, 175, 80), m = "Grass", sh = "Ball", nc = true })
 	end },
-	Pond = { name = "Garden Pond", price = 300, sold = "shop", rarity = "Common", size = { 8, 8 }, flat = true, build = function(add)
-		add({ s = { 0.3, 7.6, 7.6 }, p = { 0, 0.12, 0 }, c = STONE, m = "Slate", sh = "Cylinder", r = { 0, 0, 90 }, nc = true })
-		add({ s = { 0.32, 6.6, 6.6 }, p = { 0, 0.14, 0 }, c = rgb(70, 150, 220), m = "Glass", sh = "Cylinder", r = { 0, 0, 90 }, t = 0.2, nc = true })
-		add({ s = { 0.1, 1.4, 1.4 }, p = { 1.5, 0.32, -1 }, c = rgb(90, 180, 80), sh = "Cylinder", r = { 0, 0, 90 }, nc = true })
-	end },
-
-	-- shop: habitats (coins per minute for each matching creature on your team) ----------------
 	GrassGarden = { name = "Leafy Garden", price = 600, sold = "shop", rarity = "Rare", size = { 6, 6 }, habitat = { "Grass" }, build = function(add)
 		add({ s = { 6, 0.4, 6 }, p = { 0, 0.2, 0 }, c = rgb(95, 65, 40), m = "Ground" })
 		for _, o in { { -1.7, -1.7 }, { 1.7, -1.7 }, { -1.7, 1.7 }, { 1.7, 1.7 }, { 0, 0 } } do

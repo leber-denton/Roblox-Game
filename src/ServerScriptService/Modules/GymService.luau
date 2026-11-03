@@ -63,8 +63,14 @@ local function setup(key: string, leader)
 			if count == GameData.League.badges and not champion then
 				opened = GameData.VictoryRoads.League .. " (the Creature League)"
 			end
+			local prize = disc and disc.name or leader.item
+			local earned = ("the %s and %s"):format(leader.badge, prize)
+			if leader.charm then
+				PlayerData.addItem(player, leader.charm, 1)
+				earned = ("the %s, %s and a %s"):format(leader.badge, prize, GameData.Items[leader.charm].name)
+			end
 			task.delay(4, function()
-				Notify:FireClient(player, ("You earned the %s and %s! Sprint speed increased."):format(leader.badge, disc and disc.name or leader.item), "success")
+				Notify:FireClient(player, ("You earned %s! Sprint speed increased."):format(earned), "success")
 				if opened then
 					Notify:FireClient(player, ("%s is now open!"):format(opened), "success")
 				end

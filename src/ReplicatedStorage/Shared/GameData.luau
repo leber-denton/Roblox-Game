@@ -60,7 +60,7 @@ GameData.StatusInfo = {
 
 -- Balls. multiplier scales the catch chance; the Loop Ball is the free, unlimited baseline.
 -- Shop balls (below) cost coins and are used up when thrown.
--- kind = nil (flat multiplier) | "quick" | "level" | "heavy" | "type" (see GameData.ballMultiplier)
+-- kind = nil (flat multiplier) | "quick" | "heavy" | "type" (see GameData.ballMultiplier)
 GameData.Balls = {
 	LoopBall = {
 		name = "Loop Ball", multiplier = 1, unlimited = true, rareMult = 0.5, color = Color3.fromRGB(225, 45, 45), order = 1,
@@ -85,10 +85,6 @@ GameData.Balls = {
 		name = "Dawn Ball", kind = "quick", multiplier = 1, firstTurn = 4, color = Color3.fromRGB(70, 190, 230), band = Color3.fromRGB(250, 220, 60), order = 10,
 		description = "Strikes first: catch rate x4 if you throw it on the very first turn of a battle (before doing anything else). After that it's only x1.",
 	},
-	LevelBall = {
-		name = "Mentor Ball", kind = "level", multiplier = 1, color = Color3.fromRGB(240, 200, 60), band = Color3.fromRGB(200, 50, 50), order = 11,
-		description = "Better the more your creature out-levels the wild one: catch rate x2 if yours is a higher level, x4 if it's at least double, x8 if it's at least four times the level. x1 if yours isn't higher.",
-	},
 	HeavyBall = {
 		name = "Titan Ball", kind = "heavy", multiplier = 1, color = Color3.fromRGB(110, 115, 125), band = Color3.fromRGB(60, 120, 200), order = 12,
 		description = "Made for big creatures: catch rate x1.5 on medium ones, x2.5 on big ones and x4 on huge ones (Large and Huge size variants count). x1 on small creatures.",
@@ -96,16 +92,13 @@ GameData.Balls = {
 }
 -- type balls: x3.5 against their types, x1 otherwise
 for id, d in {
-	AquaBall  = { name = "Aqua Ball",  types = { "Water" },             color = Color3.fromRGB(60, 140, 230),  band = Color3.fromRGB(200, 235, 255), order = 20 },
+	AquaBall  = { name = "Aqua Ball",  types = { "Water", "Ice" },      color = Color3.fromRGB(60, 140, 230),  band = Color3.fromRGB(200, 235, 255), order = 20 },
 	BlazeBall = { name = "Blaze Ball", types = { "Fire" },              color = Color3.fromRGB(235, 95, 40),   band = Color3.fromRGB(255, 210, 80),  order = 21 },
-	LeafBall  = { name = "Leaf Ball",  types = { "Grass" },             color = Color3.fromRGB(90, 185, 80),   band = Color3.fromRGB(230, 240, 150), order = 22 },
+	LeafBall  = { name = "Leaf Ball",  types = { "Grass", "Bug", "Poison" }, color = Color3.fromRGB(90, 185, 80),   band = Color3.fromRGB(230, 240, 150), order = 22 },
 	VoltBall  = { name = "Volt Ball",  types = { "Electric" },          color = Color3.fromRGB(240, 205, 40),  band = Color3.fromRGB(60, 60, 70),    order = 23 },
-	FrostBall = { name = "Frost Ball", types = { "Ice" },               color = Color3.fromRGB(160, 220, 240), band = Color3.fromRGB(70, 130, 200),  order = 24 },
 	StoneBall = { name = "Stone Ball", types = { "Rock", "Ground" },    color = Color3.fromRGB(165, 140, 100), band = Color3.fromRGB(90, 75, 55),    order = 25 },
-	ShadeBall = { name = "Shade Ball", types = { "Ghost", "Dark" },    color = Color3.fromRGB(70, 50, 100),   band = Color3.fromRGB(180, 120, 255), order = 26 },
+	ShadeBall = { name = "Shade Ball", types = { "Ghost", "Dark", "Psychic", "Fairy" }, color = Color3.fromRGB(70, 50, 100),   band = Color3.fromRGB(180, 120, 255), order = 26 },
 	SkyBall   = { name = "Sky Ball",   types = { "Flying", "Dragon" }, color = Color3.fromRGB(150, 190, 245), band = Color3.fromRGB(250, 250, 255), order = 27 },
-	HiveBall  = { name = "Hive Ball",  types = { "Bug", "Poison" },    color = Color3.fromRGB(165, 190, 50),  band = Color3.fromRGB(130, 60, 150),  order = 28 },
-	MindBall  = { name = "Mind Ball",  types = { "Psychic", "Fairy" }, color = Color3.fromRGB(235, 110, 170), band = Color3.fromRGB(255, 230, 245), order = 29 },
 } do
 	d.kind = "type"
 	d.multiplier = 1
@@ -141,16 +134,6 @@ function GameData.ballMultiplier(ballId: string, ctx): (number, string)
 			return ball.firstTurn, "first turn"
 		end
 		return ball.multiplier, "too late"
-	elseif ball.kind == "level" then
-		local a, w = ctx.allyLevel or 1, math.max(1, ctx.wildLevel or 1)
-		if a >= w * 4 then
-			return 8, "4x level"
-		elseif a >= w * 2 then
-			return 4, "2x level"
-		elseif a > w then
-			return 2, "higher level"
-		end
-		return 1, "not higher"
 	elseif ball.kind == "heavy" then
 		local bulk = ctx.wildName and GameData.creatureBulk(ctx.wildName, ctx.wildSize) or 4
 		if bulk >= 7 then
@@ -500,27 +483,18 @@ end
 -- tonics: five strengths
 med("Potion",      { name = "Mini Tonic",   heal = 20,    order = 1, color = Color3.fromRGB(170, 90, 220),  description = "A little herbal tonic that restores 20 HP to one creature." })
 med("SuperPotion", { name = "Tonic",        heal = 60,    order = 2, color = Color3.fromRGB(235, 140, 50),  description = "An herbal tonic that restores 60 HP to one creature." })
-med("HyperPotion", { name = "Strong Tonic", heal = 150,   order = 3, color = Color3.fromRGB(230, 80, 140),  description = "A strong herbal tonic that restores 150 HP to one creature." })
-med("MegaPotion",  { name = "Mega Tonic",   heal = 300,   order = 4, color = Color3.fromRGB(60, 170, 220),  description = "An extra-strong tonic that restores 300 HP to one creature." })
+med("HyperPotion", { name = "Strong Tonic", heal = 200,   order = 3, color = Color3.fromRGB(230, 80, 140),  description = "A strong herbal tonic that restores 200 HP to one creature." })
 med("MaxPotion",   { name = "Grand Tonic",  heal = "max", order = 5, color = Color3.fromRGB(80, 200, 140),  description = "Restores all of one creature's HP." })
 med("FullRestore", { name = "Miracle Tonic", heal = "max", cure = "all", order = 6, color = Color3.fromRGB(240, 210, 70), description = "Restores all of one creature's HP and cures any status condition." })
 -- revival seeds
 med("Revive",       { name = "Revival Seed",  revive = 0.5, order = 10, color = Color3.fromRGB(250, 220, 90),  description = "A glowing seed that brings a fainted creature back with half its HP." })
-med("MaxRevive",    { name = "Revival Bloom", revive = 1,   order = 11, color = Color3.fromRGB(255, 185, 60),  description = "A rare flower that brings a fainted creature back with all of its HP." })
-med("PhoenixPlume", { name = "Phoenix Plume", revive = 1, cure = "all", order = 12, color = Color3.fromRGB(255, 120, 60), description = "A blazing feather. Brings a fainted creature back with all of its HP and clears any status condition." })
+med("MaxRevive",    { name = "Revival Bloom", revive = 1, cure = "all", order = 11, color = Color3.fromRGB(255, 185, 60),  description = "Brings a fainted creature back with all of its HP and clears any status condition." })
 -- status cures
-med("Antidote",     { name = "Antidote",      cure = "psn", order = 20, color = Color3.fromRGB(165, 70, 175),  description = "Cures poison." })
-med("BurnSalve",    { name = "Burn Salve",    cure = "brn", order = 21, color = Color3.fromRGB(235, 110, 50),  description = "A cooling cream that heals a burn." })
-med("ThawSpray",    { name = "Thaw Spray",    cure = "frz", order = 22, color = Color3.fromRGB(110, 200, 235), description = "A warm spray that thaws a frozen creature." })
-med("WakeBell",     { name = "Wake-Up Bell",  cure = "slp", order = 23, color = Color3.fromRGB(150, 150, 175), description = "A loud little bell that wakes a sleeping creature." })
-med("ParalyzeBalm", { name = "Paralyze Balm", cure = "par", order = 24, color = Color3.fromRGB(225, 195, 40),  description = "A tingly balm that cures paralysis." })
 med("FullHeal",     { name = "Cure-All Drops", cure = "all", order = 25, color = Color3.fromRGB(240, 120, 160), description = "Cures every status condition: burn, poison, paralysis, sleep and freeze." })
 
 -- Battle draughts: used in battle on your active creature (uses your turn). boost = { stat, stages }.
 for id, d in {
 	PowerDraught = { name = "Power Draught", stat = "atk", color = Color3.fromRGB(225, 80, 60) },
-	GuardDraught = { name = "Guard Draught", stat = "def", color = Color3.fromRGB(70, 130, 220) },
-	SwiftDraught = { name = "Swift Draught", stat = "spd", color = Color3.fromRGB(80, 200, 120) },
 } do
 	local statName = ({ atk = "Attack", def = "Defense", spd = "Speed" })[d.stat]
 	GameData.Items[id] = {
@@ -574,9 +548,6 @@ for _, t in { "Normal", "Fire", "Water", "Grass", "Electric", "Ice", "Fighting",
 		description = ("Give it to a creature to hold: its %s-type moves do 20%% more damage. Never used up."):format(t),
 	}
 end
-GameData.Items.SweetrootBerry = { name = "Sweetroot Berry", category = "Held Items", order = 1, color = Color3.fromRGB(235, 120, 150),
-	held = { berry = true, below = 0.5, healHP = 10 },
-	description = "Give it to a creature to hold. When its HP drops below half in battle, it eats the berry and restores 10 HP. Eaten once." }
 GameData.Items.SunrootBerry = { name = "Sunroot Berry", category = "Held Items", order = 2, color = Color3.fromRGB(245, 190, 60),
 	held = { berry = true, below = 0.5, healFrac = 0.25 },
 	description = "Give it to a creature to hold. When its HP drops below half in battle, it eats the berry and restores a quarter of its HP. Eaten once." }
@@ -599,7 +570,7 @@ GameData.Coliseum = {
 	bpCooldown = 300,    -- seconds before the same two players earn BP from each other again
 	shop = {
 		{ id = "DiscTorrentBlast", bp = 250 }, { id = "DiscBloomBurst", bp = 250 }, { id = "DiscAstralGale", bp = 300 },
-		{ id = "DiscSkyDive", bp = 200 }, { id = "DiscMoonbeam", bp = 150 },
+		{ id = "DiscSkyDive", bp = 200 },
 		{ id = "ArenaBand", bp = 400 }, { id = "ExpertCrest", bp = 450 }, { id = "GuardPlate", bp = 400 }, { id = "ArenaBerry", bp = 60 },
 	},
 }
@@ -636,8 +607,6 @@ function GameData.itemSummary(id: string): string
 	if ball then
 		if ball.kind == "quick" then
 			return "Catch x4 on turn 1"
-		elseif ball.kind == "level" then
-			return "Up to x8 if you out-level it"
 		elseif ball.kind == "heavy" then
 			return "Up to x4 on big creatures"
 		elseif ball.kind == "type" then
@@ -745,15 +714,10 @@ GameData.Shop = {
 	-- from the start
 	{ id = "Potion", price = 30, badges = 0 },
 	{ id = "SwiftBall", price = 50, badges = 0 },
-	{ id = "Antidote", price = 40, badges = 0 },
-	{ id = "ParalyzeBalm", price = 50, badges = 0 },
+	{ id = "FullHeal", price = 60, badges = 0 },
 	-- 1 badge
 	{ id = "SuperPotion", price = 90, badges = 1 },
 	{ id = "QuickBall", price = 90, badges = 1 },
-	{ id = "LevelBall", price = 100, badges = 1 },
-	{ id = "BurnSalve", price = 50, badges = 1 },
-	{ id = "ThawSpray", price = 50, badges = 1 },
-	{ id = "WakeBell", price = 50, badges = 1 },
 	-- 2 badges
 	{ id = "Revive", price = 250, badges = 2 },
 	{ id = "HeavyBall", price = 120, badges = 2 },
@@ -761,41 +725,36 @@ GameData.Shop = {
 	{ id = "BlazeBall", price = 120, badges = 2 },
 	{ id = "LeafBall", price = 120, badges = 2 },
 	{ id = "VoltBall", price = 120, badges = 2 },
-	{ id = "HiveBall", price = 120, badges = 2 },
 	{ id = "StoneBall", price = 120, badges = 2 },
 	-- 3+ badges
 	{ id = "UltraBall", price = 150, badges = 3 },
-	{ id = "FullHeal", price = 150, badges = 3 },
-	{ id = "FrostBall", price = 120, badges = 3 },
 	{ id = "SkyBall", price = 120, badges = 3 },
 	{ id = "ShadeBall", price = 120, badges = 4 },
-	{ id = "MindBall", price = 120, badges = 4 },
-	{ id = "HyperPotion", price = 220, badges = 4 },
-	{ id = "MegaPotion", price = 350, badges = 5 },
+	{ id = "HyperPotion", price = 280, badges = 4 },
 	{ id = "ApexBall", price = 300, badges = 5 },
 	{ id = "MaxPotion", price = 450, badges = 6 },
 	{ id = "MaxRevive", price = 600, badges = 6 },
 	{ id = "FullRestore", price = 650, badges = 7 },
-	{ id = "PhoenixPlume", price = 900, badges = 8 },
 	-- battle draughts
 	{ id = "PowerDraught", price = 100, badges = 1 },
-	{ id = "GuardDraught", price = 100, badges = 1 },
-	{ id = "SwiftDraught", price = 100, badges = 1 },
 	-- held items
-	{ id = "SweetrootBerry", price = 60, badges = 0 },
 	{ id = "MintleafBerry", price = 120, badges = 1 },
-	{ id = "SunrootBerry", price = 180, badges = 2 },
+	{ id = "SunrootBerry", price = 90, badges = 0 },
 	{ id = "GrowthClover", price = 1500, badges = 3 },
 }
--- a charm for every type (2 badges)
-for _, t in { "Normal", "Fire", "Water", "Grass", "Electric", "Ice", "Fighting", "Poison", "Ground",
-	"Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy" } do
-	table.insert(GameData.Shop, { id = t .. "Charm", price = 450, badges = 2 })
-end
 -- evolution crystals (3 badges)
 for _, id in { "EmberCrystal", "VoltCrystal", "FrostCrystal", "GloomCrystal", "GaleCrystal" } do
 	table.insert(GameData.Shop, { id = id, price = 1200, badges = 3 })
 end
+
+-- Items that were cut from the game, and what old saves get instead (1:1)
+GameData.RetiredItems = {
+	LevelBall = "QuickBall", FrostBall = "AquaBall", HiveBall = "LeafBall", MindBall = "ShadeBall",
+	MegaPotion = "HyperPotion", PhoenixPlume = "MaxRevive",
+	Antidote = "FullHeal", BurnSalve = "FullHeal", ThawSpray = "FullHeal", WakeBell = "FullHeal", ParalyzeBalm = "FullHeal",
+	GuardDraught = "PowerDraught", SwiftDraught = "PowerDraught",
+	SweetrootBerry = "SunrootBerry",
+}
 
 -- One Skill Disc per gym (same rules as Rockfall)
 for id, d in {
@@ -939,7 +898,7 @@ GameData.GymLeaders = {
 	Meadow = {
 		name = "Gym Leader Slate", specialty = "Rock", model = "MeadowGym", npc = "Slate", lane = "Lane1",
 		team = { { "Pebblit", 9 }, { "Cragmaul", 12 } },
-		badge = "Quarry Badge", item = "DiscRockfall",
+		badge = "Quarry Badge", item = "DiscRockfall", charm = "RockCharm",
 		coins = 300, xp = 300, rematchCoins = 60, rematchXP = 60,
 		intro = "I'm Slate! My Rock creatures are tough as bedrock. Show me what you've got!",
 		rematch = "Back for more? My rocks never crumble!",
@@ -948,7 +907,7 @@ GameData.GymLeaders = {
 	Brook = {
 		name = "Gym Leader Duna", specialty = "Ground", model = "BrookGym", npc = "Duna", lane = "Lane1B",
 		team = { { "Sandsnip", 15 }, { "Pinchard", 16 }, { "Dunehorn", 18 } },
-		badge = "Dune Badge", item = "DiscQuakeStomp",
+		badge = "Dune Badge", item = "DiscQuakeStomp", charm = "GroundCharm",
 		coins = 400, xp = 400, rematchCoins = 80, rematchXP = 80,
 		intro = "Welcome to Boulder Pass! My Ground creatures stand firm. Can you move a mountain?",
 		rematch = "Solid ground, fresh battle!",
@@ -957,7 +916,7 @@ GameData.GymLeaders = {
 	Tide = {
 		name = "Gym Leader Coralie", specialty = "Water", model = "TideGym", npc = "Coralie", lane = "Lane3",
 		team = { { "Puddlepup", 21 }, { "Ripplefin", 22 }, { "Tidecrest", 25 } },
-		badge = "Ripple Badge", item = "DiscTidePulse",
+		badge = "Ripple Badge", item = "DiscTidePulse", charm = "WaterCharm",
 		coins = 500, xp = 500, rematchCoins = 100, rematchXP = 100,
 		intro = "Welcome to Tide Coast! My Water creatures go with the flow. Can you keep up?",
 		rematch = "The tide is back in. Ready for another splash?",
@@ -966,7 +925,7 @@ GameData.GymLeaders = {
 	Volt = {
 		name = "Gym Leader Jolt", specialty = "Electric", model = "VoltGym", npc = "Jolt", lane = "Lane4",
 		team = { { "Zapkit", 27 }, { "Buzzbolt", 28 }, { "Stormane", 31 } },
-		badge = "Spark Badge", item = "DiscThunderLash",
+		badge = "Spark Badge", item = "DiscThunderLash", charm = "ElectricCharm",
 		coins = 600, xp = 600, rematchCoins = 120, rematchXP = 120,
 		intro = "Bzzt! I'm Jolt, and my team runs at a million volts. Try not to get shocked!",
 		rematch = "Recharged and ready!",
@@ -975,7 +934,7 @@ GameData.GymLeaders = {
 	Ember = {
 		name = "Gym Leader Ignatia", specialty = "Fire", model = "EmberGym", npc = "Ignatia", lane = "Lane2",
 		team = { { "Cinderock", 33 }, { "Scorchling", 34 }, { "Cindrake", 37 } },
-		badge = "Cinder Badge", item = "DiscInfernoDive",
+		badge = "Cinder Badge", item = "DiscInfernoDive", charm = "FireCharm",
 		coins = 700, xp = 700, rematchCoins = 140, rematchXP = 140,
 		intro = "The ridge is burning hot, and so is my team. Step into the fire!",
 		rematch = "Still warm from last time? Let's turn up the heat!",
@@ -984,7 +943,7 @@ GameData.GymLeaders = {
 	Frost = {
 		name = "Gym Leader Hale", specialty = "Ice", model = "FrostGym", npc = "Hale", lane = "Lane5",
 		team = { { "Frostpaw", 39 }, { "Icicrest", 40 }, { "Glaciorn", 43 } },
-		badge = "Glacier Badge", item = "DiscHailLance",
+		badge = "Glacier Badge", item = "DiscHailLance", charm = "IceCharm",
 		coins = 800, xp = 800, rematchCoins = 160, rematchXP = 160,
 		intro = "Cold hands, colder creatures. Only the steady survive the peak!",
 		rematch = "The blizzard never really stops.",
@@ -993,7 +952,7 @@ GameData.GymLeaders = {
 	Shadow = {
 		name = "Gym Leader Morrow", specialty = "Ghost", model = "ShadowGym", npc = "Morrow", lane = "Lane6",
 		team = { { "Gloomwisp", 45 }, { "Nightfang", 46 }, { "Phantorb", 49 } },
-		badge = "Eclipse Badge", item = "DiscPhantomWail",
+		badge = "Eclipse Badge", item = "DiscPhantomWail", charm = "GhostCharm",
 		coins = 900, xp = 900, rematchCoins = 180, rematchXP = 180,
 		intro = "Shh... the woods are listening. My creatures live in the dark between the trees.",
 		rematch = "The shadows remember you...",
@@ -1002,7 +961,7 @@ GameData.GymLeaders = {
 	Sky = {
 		name = "Gym Leader Aero", specialty = "Dragon", model = "SkyGym", npc = "Aero", lane = "Lane7",
 		team = { { "Galewing", 50 }, { "Nimbuff", 51 }, { "Skydrake", 55 } },
-		badge = "Zenith Badge", item = "DiscDragonRush",
+		badge = "Zenith Badge", item = "DiscDragonRush", charm = "DragonCharm",
 		coins = 1200, xp = 1200, rematchCoins = 240, rematchXP = 240,
 		intro = "You climbed all the way to the top of the spire. Now face the dragons who live here!",
 		rematch = "The sky is wide. Let's fly again!",
@@ -1150,7 +1109,7 @@ local function leader(t)
 	return t
 end
 GameData.GymLeaders.Bloom = leader({ name = "Gym Leader Fern", specialty = "Grass", model = "BloomGym", npc = "Fern", lane = "Lane9",
-	team = { { "Bramblet", 69 }, { "Sporelet", 69 }, { "Nimbuff", 70 }, { "Thornwarden", 73 } }, badge = "Petal Badge", item = "GrowthClover",
+	team = { { "Bramblet", 69 }, { "Sporelet", 69 }, { "Nimbuff", 70 }, { "Thornwarden", 73 } }, badge = "Petal Badge", item = "GrowthClover", charm = "GrassCharm",
 	coins = 1600, xp = 1600, intro = "Welcome to Summit's first gym! My garden grows stronger every season. Ready?",
 	rematch = "The flowers bloomed again. Let's battle!", win = "Your team blossomed beautifully. The Petal Badge is yours!" })
 GameData.GymLeaders.Mirage = leader({ name = "Gym Leader Sahra", specialty = "Ground", model = "MirageGym", npc = "Sahra", lane = "Lane10",
@@ -1166,11 +1125,11 @@ GameData.GymLeaders.Mesa = leader({ name = "Gym Leader Volta", specialty = "Elec
 	coins = 2200, xp = 2200, intro = "Thunder rolls across the mesa every day. Today it rolls over you!",
 	rematch = "Feel that static? Rematch!", win = "Shocking! The Thunder Badge is yours." })
 GameData.GymLeaders.Bog = leader({ name = "Gym Leader Hemlock", specialty = "Poison", model = "BogGym", npc = "Hemlock", lane = "Lane13",
-	team = { { "Echoling", 86 }, { "Shadeshroom", 86 }, { "Thornwarden", 88 }, { "Thornwarden", 89 } }, badge = "Venom Badge", item = "FullHeal",
+	team = { { "Echoling", 86 }, { "Shadeshroom", 86 }, { "Thornwarden", 88 }, { "Thornwarden", 89 } }, badge = "Venom Badge", item = "FullHeal", charm = "PoisonCharm",
 	coins = 2400, xp = 2400, intro = "Careful where you step. Everything in this bog is poisonous, including me.",
 	rematch = "Back for another dose?", win = "You've got an iron stomach. Take the Venom Badge." })
 GameData.GymLeaders.Crystal = leader({ name = "Gym Leader Gemma", specialty = "Fairy", model = "CrystalGym", npc = "Gemma", lane = "Lane14",
-	team = { { "Glintle", 90 }, { "Nimbuff", 90 }, { "Glaciorn", 92 }, { "Lunaryx", 93 } }, badge = "Prism Badge", item = "PhoenixPlume",
+	team = { { "Glintle", 90 }, { "Nimbuff", 90 }, { "Glaciorn", 92 }, { "Lunaryx", 93 } }, badge = "Prism Badge", item = "MaxRevive", charm = "FairyCharm",
 	coins = 2600, xp = 2600, intro = "The crystals here sing when a strong trainer walks in. They're singing for you.",
 	rematch = "The crystals are humming again!", win = "Dazzling! The Prism Badge is yours." })
 GameData.GymLeaders.Manor = leader({ name = "Gym Leader Silas", specialty = "Ghost", model = "ManorGym", npc = "Silas", lane = "Lane15",
@@ -1178,7 +1137,7 @@ GameData.GymLeaders.Manor = leader({ name = "Gym Leader Silas", specialty = "Gho
 	coins = 2800, xp = 2800, intro = "Welcome to my manor. Most guests never leave... shall we find out why?",
 	rematch = "The ghosts missed you.", win = "You've escaped the manor. Take the Spectre Badge." })
 GameData.GymLeaders.Peak = leader({ name = "Gym Leader Drakon", specialty = "Dragon", model = "PeakGym", npc = "Drakon", lane = "Lane16",
-	team = { { "Galewing", 95 }, { "Cindrake", 96 }, { "Tidecrest", 97 }, { "Skydrake", 100 } }, badge = "Summit Badge", item = "PhoenixPlume",
+	team = { { "Galewing", 95 }, { "Cindrake", 96 }, { "Tidecrest", 97 }, { "Skydrake", 100 } }, badge = "Summit Badge", item = "MaxRevive",
 	coins = 3200, xp = 3200, intro = "Only the strongest reach Dragon Peaks. I'm the final gym of Summit. Show me everything!",
 	rematch = "The dragons are restless. Again!", win = "Sixteen badges... You're a true legend." })
 
@@ -1259,7 +1218,7 @@ GameData.League = {
 		team = { { "Stormane", 66 }, { "Glaciorn", 66 }, { "Galewing", 67 }, { "Tidecrest", 67 }, { "Skydrake", 68 } },
 		starterLevel = 70,
 		coins = 5000, xp = 5000, rematchCoins = 1200, rematchXP = 1200,
-		firstRewards = { ApexBall = 5, MaxRevive = 3 },
+		firstRewards = { ApexBall = 5, MaxRevive = 3, BugCharm = 1, FightingCharm = 1, DarkCharm = 1, NormalCharm = 1 },
 		intro = "Took you long enough! I became Champion while you were catching bugs. Let's settle this for real!",
 		win = "No way... You beat me. You're the Champion now. I'll be back stronger, I promise.",
 	},
@@ -1306,7 +1265,7 @@ GameData.League2 = {
 		team = { { "Stormane", 100, 2 }, { "Glaciorn", 100, 2 }, { "Galewing", 100, 2 }, { "Tidecrest", 100, 3 }, { "Skydrake", 100, 3 } },
 		starterLevel = 100, starterStars = 3,
 		coins = 12000, xp = 12000, rematchCoins = 3000, rematchXP = 3000,
-		firstRewards = { ApexBall = 10, MaxRevive = 5 },
+		firstRewards = { ApexBall = 10, MaxRevive = 5, SteelCharm = 1, FlyingCharm = 1, PsychicCharm = 1 },
 		intro = "You again! I went to the second region too, and I trained every one of these to three stars. Ready?",
 		win = "...Okay. You're the real deal. Grand Champion. I'll keep chasing you.",
 	},
