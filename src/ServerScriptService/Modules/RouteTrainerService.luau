@@ -165,6 +165,9 @@ function RouteTrainerService.init()
 		end
 		local t = byId[b.trainer.trainerId]
 		if result == "won" and t then
+			if (player:GetAttribute("BeatenTrainers") or "[]") == "[]" then
+				require(script.Parent.TutorialService).logFunnel(player, 4, "First route trainer")
+			end
 			PlayerData.markTrainerBeaten(player, t.id)
 			local model = models[t.id]
 			if model then

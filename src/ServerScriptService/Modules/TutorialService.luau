@@ -24,6 +24,7 @@
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local AnalyticsService = game:GetService("AnalyticsService")
 local GameData = require(ReplicatedStorage.Shared.GameData)
 local WildSpawner = require(script.Parent.WildSpawner)
 local BattleService = require(script.Parent.BattleService)
@@ -47,6 +48,12 @@ local PROF = GameData.ProfessorName
 local RIVAL = GameData.RivalName
 
 local TutorialService = {}
+
+-- Onboarding funnel, numbered in the order a new player reaches each step:
+-- 1 picked starter, 2 first catch, 3 tutorial done, 4 first route trainer, 5 first badge
+function TutorialService.logFunnel(player: Player, step: number, stepName: string)
+	pcall(AnalyticsService.LogOnboardingFunnelStepEvent, AnalyticsService, player, step, stepName)
+end
 
 local folder = workspace:FindFirstChild("TutorialCreatures")
 if not folder then
@@ -318,6 +325,7 @@ TutorialRemote.OnServerEvent:Connect(function(player: Player, action, arg)
 			setStep(player, "done", nil)
 			return
 		end
+		TutorialService.logFunnel(player, 1, "Picked starter")
 		dialogue(player, "afterPick", PROF, {
 			("%s! Great choice. Now let's catch your first wild creature!"):format(s.name),
 		})
@@ -342,6 +350,7 @@ BattleService.onEnded(function(player: Player, battle, result: string)
 		return
 	end
 	if result == "caught" then
+		TutorialService.logFunnel(player, 2, "First catch")
 		models[player] = {}
 		local nurse = workspace.Map.Hub.HealingCenter:FindFirstChild("Nurse")
 		setStep(player, "heal", nurse)
@@ -396,6 +405,7 @@ end
 
 function TutorialService.finishGuide(player: Player)
 	setStep(player, "done", nil)
+	TutorialService.logFunnel(player, 3, "Tutorial done")
 	PlayerData.addCoins(player, GUIDE_COINS)
 	local ok, DecorService = pcall(require, script.Parent.DecorService)
 	if ok and DecorService.giveBox then

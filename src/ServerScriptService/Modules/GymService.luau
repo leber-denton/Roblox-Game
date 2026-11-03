@@ -52,6 +52,9 @@ local function setup(key: string, leader)
 			PlayerData.addItem(player, leader.item, 1)
 			local disc = GameData.Items[leader.item] or GameData.Balls[leader.item]
 			local count = player:GetAttribute("Badges") or 0
+			if count == 1 then
+				require(script.Parent.TutorialService).logFunnel(player, 5, "First badge")
+			end
 			-- which region did this open?
 			local opened
 			local champion = (player:GetAttribute("Stat_leagueWins") or 0) > 0
