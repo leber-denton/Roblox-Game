@@ -824,7 +824,7 @@ end
 -- The Dungeon tower: one trainer per floor, 1.10 is the boss, 2.1 is the end for now
 GameData.Dungeon = {
 	floors = {
-		{ label = "1.1",  trainer = "Tower Trainee Pip",  team = { { "Nibbit", 3 } },                          coins = 20,  xp = 30 },
+		{ label = "1.1",  trainer = "Tower Trainee Pip",  team = { { "Nibbit", 2 } },                          coins = 20,  xp = 30 },
 		{ label = "1.2",  trainer = "Tower Trainee Rue",  team = { { "Fluttle", 4 }, { "Wigglet", 3 } },       coins = 25,  xp = 35 },
 		{ label = "1.3",  trainer = "Tower Trainee Bo",   team = { { "Squawkit", 5 } },                        coins = 30,  xp = 40 },
 		{ label = "1.4",  trainer = "Tower Adept Lin",    team = { { "Thornip", 5 }, { "Nibbit", 5 } },        coins = 35,  xp = 45 },

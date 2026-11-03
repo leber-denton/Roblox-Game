@@ -1395,6 +1395,22 @@ function BattleService.isInBattle(player: Player): boolean
 	return battles[player] ~= nil or pending[player] ~= nil
 end
 
+-- Read-only view of a live PvP battle for the Coliseum's watch list. Other battles aren't public.
+function BattleService.getPublicBattle(player: Player)
+	local b = battles[player]
+	if not b or not b.pvp then
+		return nil
+	end
+	local other = b.trainer.opponent
+	return {
+		player = player.DisplayName,
+		opponent = other.DisplayName,
+		opponentId = other.UserId,
+		ally = snapshot(b.ally),
+		wild = snapshot(b.wild),
+	}
+end
+
 -- Shared checks before any battle. Returns character, hrp, humanoid, lead creature (or nil).
 local function ready(player: Player)
 	if battles[player] or pending[player] or player:GetAttribute("Trading") then
