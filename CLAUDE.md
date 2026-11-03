@@ -16,7 +16,7 @@ Roblox catch-and-battle game, written in Luau. See `README.md` for status and kn
 - Research from the Claude Project comes through the Google Drive folder `claude`.
 
 ## Tooling
-- `rokit install` installs the pinned tools in `rokit.toml`: `rojo`, `selene` and `gh`.
+- `rokit install` installs the pinned tools in `rokit.toml`: `rojo`, `selene`, `stylua` and `gh`. `stylua --check <file>` previews formatting; the codebase is not formatted with it yet, so only run it on files you are already changing.
 - `selene src tests` lints the Luau. Config is in `selene.toml`; run `selene generate-roblox-std` once to create the git-ignored `roblox.yml`.
 - `gh` needs a one-time `gh auth login` before `/ship` can open PRs.
 
