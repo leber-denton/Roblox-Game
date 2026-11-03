@@ -7,6 +7,14 @@ Roblox catch-and-battle game, written in Luau. See `README.md` for status and kn
 - Sync only into `CQ_NewestSource_TEST.rbxl`, one folder above this repo. The published place has older scripts, so never connect Rojo to it or publish without asking.
 - Map, models and UI live in the place file, not this repo. Things like `Remotes` and `Shared.BallModels` exist only in Studio.
 
+## Workflow
+- Start each change on a new branch from the latest `main`. Don't reuse a merged branch.
+- Rojo sends saved files to Studio, so Play test there before committing.
+- Push the branch and open a PR. Graphify reviews it, usually in 20-30 minutes.
+- Check the review with Graphify's `review_status` before merging. The user decides when to merge.
+- After a merge, the user clicks **Sync now** in the Claude Project so it sees the new `main`.
+- Research from the Claude Project comes through the Google Drive folder `claude`.
+
 ## File endings
 - `.server.luau` is a Script, `.client.luau` is a LocalScript, plain `.luau` is a ModuleScript.
 - Keep these endings when adding files, or the script won't run.
