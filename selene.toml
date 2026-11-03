@@ -1,0 +1,8 @@
+std = "roblox"
+
+[lints]
+# Style-only noise in this codebase; keep the signal for real mistakes.
+multiple_statements = "allow"
+roblox_manual_fromscale_or_fromoffset = "allow"
+# Luau accepts assert(cond) with no message; Selene's std wants two arguments.
+incorrect_standard_library_use = "allow"
