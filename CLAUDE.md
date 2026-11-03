@@ -10,10 +10,15 @@ Roblox catch-and-battle game, written in Luau. See `README.md` for status and kn
 ## Workflow
 - Start each change on a new branch from the latest `main`. Don't reuse a merged branch.
 - Rojo sends saved files to Studio, so Play test there before committing.
-- Push the branch and open a PR. Graphify reviews it, usually in 20-30 minutes.
+- Run `/ship` to lint, branch, commit, push and open the PR in one step (see `.claude/skills/ship/SKILL.md`). Graphify reviews the PR, usually in 20-30 minutes.
 - Check the review with Graphify's `review_status` before merging. The user decides when to merge.
 - After a merge, the user clicks **Sync now** in the Claude Project so it sees the new `main`.
 - Research from the Claude Project comes through the Google Drive folder `claude`.
+
+## Tooling
+- `rokit install` installs the pinned tools in `rokit.toml`: `rojo`, `selene`, `stylua` and `gh`. `stylua --check <file>` previews formatting; the codebase is not formatted with it yet, so only run it on files you are already changing.
+- `selene src tests` lints the Luau. Config is in `selene.toml`; run `selene generate-roblox-std` once to create the git-ignored `roblox.yml`.
+- `gh` needs a one-time `gh auth login` before `/ship` can open PRs.
 
 ## File endings
 - `.server.luau` is a Script, `.client.luau` is a LocalScript, plain `.luau` is a ModuleScript.

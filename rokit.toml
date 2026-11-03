@@ -5,3 +5,6 @@
 
 [tools]
 rojo = "rojo-rbx/rojo@7.7.1"
+selene = "Kampfkarren/selene@0.32.0"
+gh = "cli/cli@2.103.3"
+stylua = "JohnnyMorganz/StyLua@2.6.0"

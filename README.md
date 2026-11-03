@@ -14,6 +14,10 @@ Code a Creature Quest: Catch &amp; Battle Roblox Game
 
 File endings set the script type: `.server.luau` is a Script, `.client.luau` is a LocalScript, and plain `.luau` is a ModuleScript. Anything in Studio that isn't in `src/`, such as `Remotes` and `Shared.BallModels`, is left alone.
 
+## Tools
+
+`rokit install` sets up everything pinned in `rokit.toml`: Rojo (Studio sync), Selene (Luau linter) and the GitHub CLI (`gh`). Run `selene generate-roblox-std` once, then `selene src tests` to lint. Run `gh auth login` once so PRs can be opened from the terminal. In Claude Code, `/ship` lints, commits on a new branch, pushes and opens the PR.
+
 ## Status
 
 Tested in single-player Studio only. Trading, Coliseum matches, multiplayer saving and a full playthrough are untested.
