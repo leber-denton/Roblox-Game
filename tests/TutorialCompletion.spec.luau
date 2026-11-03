@@ -1,4 +1,4 @@
--- Run from Studio's Command Bar after applying Tutorial.luau.
+-- Run from Studio's Command Bar after applying Tutorial.client.luau.
 -- Exercises the actual completion listener with simulated attribute replication.
 -- Does not touch real player state, DataStores, or instances.
 local source = game.StarterPlayer.StarterPlayerScripts.Tutorial.Source
