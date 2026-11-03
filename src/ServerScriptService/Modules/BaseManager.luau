@@ -426,8 +426,9 @@ function BaseManager.restore(player: Player, saved)
 			if typeof(s.status) == "string" and GameData.StatusInfo[s.status] then
 				record.status = s.status
 			end
-			if typeof(s.held) == "string" and GameData.Items[s.held] and GameData.Items[s.held].held then
-				record.held = s.held
+			local held = GameData.RetiredItems[s.held] or s.held -- cut items become their replacement
+			if typeof(held) == "string" and GameData.Items[held] and GameData.Items[held].held then
+				record.held = held
 			end
 			BaseManager.addCreature(player, record, { skipIndex = true, force = true })
 		end

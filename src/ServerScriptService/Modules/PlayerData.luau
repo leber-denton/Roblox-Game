@@ -96,6 +96,16 @@ function PlayerData.load(player: Player, saved)
 				clean[id] = math.floor(n)
 			end
 		end
+		-- items cut from the game turn into their replacements
+		for old, new in GameData.RetiredItems do
+			local n = clean[old]
+			if n then
+				clean[old] = nil
+				if n > 0 then
+					clean[new] = (clean[new] or 0) + n
+				end
+			end
+		end
 		d.items = clean
 		d.items.LoopBall = -1
 	end

@@ -1249,6 +1249,11 @@ local function loadSaved(player: Player, saved)
 			d[k] = saved[k]
 		end
 	end
+	-- the Garden Pond was merged into the Tide Pool
+	if d.owned.Pond then
+		d.owned.WaterPool = (d.owned.WaterPool or 0) + d.owned.Pond
+		d.owned.Pond = nil
+	end
 	-- drop anything that no longer exists
 	for id in d.owned do
 		if not Items[id] then
@@ -1257,6 +1262,9 @@ local function loadSaved(player: Player, saved)
 	end
 	local keep = {}
 	for _, p in d.placed do
+		if typeof(p) == "table" and p.id == "Pond" then
+			p.id = "WaterPool"
+		end
 		if typeof(p) == "table" and Items[p.id] and typeof(p.x) == "number" then
 			table.insert(keep, p)
 		end
