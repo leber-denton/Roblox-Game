@@ -132,7 +132,8 @@ local MOVE_STYLE = {
 	["Quake Stomp"] = "quake", ["Sand Burst"] = "quake", ["Volt Burrow"] = "quake",
 	Spark = "bolt", ["Static Buzz"] = "bolt", ["Thunder Lash"] = "bolt",
 	Moonbeam = "beam", ["Glimmer Beam"] = "beam", ["Drake Breath"] = "beam", ["Tide Pulse"] = "beam",
-	["Astral Gale"] = "beam", ["Torrent Blast"] = "beam",
+	["Astral Gale"] = "beam", ["Torrent Blast"] = "beam", ["Steel Beam"] = "beam", ["Umbra Pulse"] = "beam",
+	["Pixie Burst"] = "beam",
 }
 local TYPE_STYLE = {
 	Normal = "lunge", Fighting = "lunge", Bug = "lunge", Dark = "lunge", Steel = "lunge",

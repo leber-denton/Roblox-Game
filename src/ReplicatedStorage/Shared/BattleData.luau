@@ -136,6 +136,10 @@ BattleData.Moves = {
 	["Tailwind"]       = { type = "Flying",   power = 0,  accuracy = 1.00, category = "status", effect = { target = "self", stat = "spd", stages = 1 } },
 	["Bloom Burst"]    = { type = "Grass",    power = 90, accuracy = 0.90 },
 	["Torrent Blast"]  = { type = "Water",    power = 90, accuracy = 0.90 },
+	["Iron Claw"]      = { type = "Steel",    power = 55, accuracy = 1.00 },
+	["Steel Beam"]     = { type = "Steel",    power = 80, accuracy = 0.90 },
+	["Umbra Pulse"]    = { type = "Dark",     power = 80, accuracy = 0.90 },
+	["Pixie Burst"]    = { type = "Fairy",    power = 75, accuracy = 0.90 },
 }
 
 -- Base stats and the moves each creature learns, with the level it learns them at.
@@ -151,15 +155,15 @@ BattleData.Species = {
 	Brawlet   = { hp = 40,  atk = 78,  def = 35,  spd = 70,  xpYield = 65,
 		learnset = { { "Tackle", 1 }, { "Jab", 1 }, { "Power Punch", 9 } } },
 	Wigglet   = { hp = 45,  atk = 30,  def = 35,  spd = 45,  xpYield = 40,
-		learnset = { { "Tackle", 1 }, { "Bug Nibble", 1 } } },
+		learnset = { { "Tackle", 1 }, { "Bug Nibble", 1 }, { "Harden", 3 }, { "Gnaw", 5 } } },
 	Stingle   = { hp = 40,  atk = 35,  def = 30,  spd = 50,  xpYield = 40,
-		learnset = { { "Stinger", 1 }, { "Poison Prick", 1 } } },
+		learnset = { { "Stinger", 1 }, { "Poison Prick", 1 }, { "Echo Screech", 8 }, { "Toxic Thorn", 12 } } },
 	Shellum   = { hp = 50,  atk = 22,  def = 62,  spd = 30,  xpYield = 70,
 		learnset = { { "Tackle", 1 }, { "Harden", 1 }, { "Shell Slam", 1 } } },
 	Voltmole  = { hp = 50,  atk = 62,  def = 52,  spd = 80,  xpYield = 110,
 		learnset = { { "Tackle", 1 }, { "Spark", 1 }, { "Volt Burrow", 8 } } },
 	Lunaryx   = { hp = 100, atk = 110, def = 100, spd = 100, xpYield = 250,
-		learnset = { { "Quick Peck", 1 }, { "Gust", 1 }, { "Moonbeam", 1 }, { "Astral Gale", 1 } } },
+		learnset = { { "Quick Peck", 1 }, { "Gust", 8 }, { "Moonbeam", 16 }, { "Astral Gale", 24 } } },
 	Pebblit   = { hp = 45,  atk = 60,  def = 80,  spd = 25,  xpYield = 75,
 		learnset = { { "Tackle", 1 }, { "Rock Throw", 1 }, { "Harden", 5 } } },
 	Cragmaul  = { hp = 70,  atk = 85,  def = 95,  spd = 30,  xpYield = 140,
@@ -193,7 +197,7 @@ BattleData.Species = {
 	Echoling  = { hp = 40, atk = 50, def = 35, spd = 70, xpYield = 60,
 		learnset = { { "Quick Peck", 1 }, { "Poison Prick", 1 }, { "Echo Screech", 11 } } },
 	Glintle   = { hp = 60, atk = 40, def = 55, spd = 45, xpYield = 80,
-		learnset = { { "Tackle", 1 }, { "Fairy Wink", 1 }, { "Glimmer Beam", 10 } } },
+		learnset = { { "Tackle", 1 }, { "Fairy Wink", 1 }, { "Glimmer Beam", 10 }, { "Pixie Burst", 18 } } },
 	-- Tide Coast
 	Ripplefin    = { hp = 45, atk = 50, def = 45, spd = 60, xpYield = 65,
 		learnset = { { "Splash Jet", 1 }, { "Tackle", 1 }, { "Tide Pulse", 16 } } },
@@ -236,7 +240,7 @@ BattleData.Species = {
 	Shadeshroom = { hp = 60, atk = 65, def = 65, spd = 40, xpYield = 95,
 		learnset = { { "Spore Puff", 1 }, { "Toxic Thorn", 1 }, { "Leaf Swirl", 1 } } },
 	Nightfang = { hp = 65, atk = 90, def = 60, spd = 85, xpYield = 130,
-		learnset = { { "Gnaw", 1 }, { "Night Snap", 1 }, { "Shade Claw", 34 } } },
+		learnset = { { "Gnaw", 1 }, { "Night Snap", 1 }, { "Shade Claw", 34 }, { "Umbra Pulse", 42 } } },
 	-- Sky Spire
 	Zephlet  = { hp = 50, atk = 60, def = 50, spd = 80, xpYield = 95,
 		learnset = { { "Quick Peck", 1 }, { "Gust", 1 }, { "Tailwind", 1 }, { "Wing Slash", 1 } } },
@@ -336,7 +340,7 @@ end
 -- Most XP a creature can hold (3 stars)
 function BattleData.maxXP(): number
 	BattleData.Species.Chronowisp = { hp = 80, atk = 95, def = 95, spd = 90, xpYield = 200,
-    learnset = { { "Shade Claw", 1 }, { "Night Snap", 1 }, { "Squeak", 1 }, { "Phantom Wail", 36 } } }
+    learnset = { { "Squeak", 1 }, { "Shade Claw", 1 }, { "Night Snap", 1 }, { "Phantom Wail", 36 }, { "Iron Claw", 40 }, { "Steel Beam", 60 } } }
 
 return BattleData.xpForLevel(BattleData.MaxLevel) + BattleData.StarXP[BattleData.MaxStars]
 end
@@ -406,6 +410,6 @@ function BattleData.xpForLevel(level: number): number
 end
 
 BattleData.Species.Chronowisp = { hp = 80, atk = 95, def = 95, spd = 90, xpYield = 200,
-    learnset = { { "Shade Claw", 1 }, { "Night Snap", 1 }, { "Squeak", 1 }, { "Phantom Wail", 36 } } }
+    learnset = { { "Squeak", 1 }, { "Shade Claw", 1 }, { "Night Snap", 1 }, { "Phantom Wail", 36 }, { "Iron Claw", 40 }, { "Steel Beam", 60 } } }
 
 return BattleData
