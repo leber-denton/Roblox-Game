@@ -12,8 +12,7 @@ Roblox catch-and-battle game, written in Luau. See `README.md` for status and kn
 ## Workflow
 - Start each change on a new branch from the latest `main`. Don't reuse a merged branch.
 - Rojo sends saved files to Studio, so Play test there before committing.
-- Run `/ship` to lint, branch, commit, push and open the PR in one step (see `.claude/skills/ship/SKILL.md`). Graphify reviews the PR, usually in 20-30 minutes.
-- Check the review with Graphify's `review_status` before merging. The user decides when to merge.
+- Run `/ship` to lint, branch, commit, push and open the PR in one step (see `.claude/skills/ship/SKILL.md`). The user reviews the PR and decides when to merge.
 - After a merge, the user clicks **Sync now** in the Claude Project so it sees the new `main`.
 - Research from the Claude Project comes through the Google Drive folder `claude`.
 
@@ -36,9 +35,9 @@ Roblox catch-and-battle game, written in Luau. See `README.md` for status and kn
 
 ## Reading code
 - `GameData.luau` is very large, so search it instead of reading all of it.
-- Query Graphify (`leber-denton/Roblox-Game`) before grepping the codebase. Use it for "where is X defined", "who calls X", "what depends on this file" and "where is Y handled" (`graphify_find`, `graphify_callers`, `graphify_file_neighbors`, `query_graph`). Use grep for literal strings and config values.
-- Graphify is the connected MCP only. There is no local install and no generated Markdown graph report, so don't create one.
-- It covers pushed commits only, so uncommitted or unpushed edits won't appear. It ranks by semantic match, so it won't give an architecture overview or startup order. It can also miss calls, so confirm in the file before editing.
+- Project notes (design, code map, decisions) live in the Obsidian vault at `~/Desktop/Roblox/Roblox`. Read the relevant note there before grepping the codebase, and add or update notes there when something non-obvious is learned. Link notes with `[[wikilinks]]`.
+- The vault is plain Markdown on disk, so read and write it with the normal file tools. It is separate from this repo and not committed here.
+- Notes can go stale. Confirm against the source file before editing code. Use grep for literal strings and config values.
 - `docs/` holds written notes for the repo.
 
 ## Testing
