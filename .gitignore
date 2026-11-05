@@ -4,3 +4,8 @@
 *.rbxm
 *.rbxmx
 roblox.yml
+
+# Obsidian local state
+vault/.obsidian/workspace*.json
+vault/.obsidian/cache
+.trash/
