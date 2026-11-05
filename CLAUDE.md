@@ -35,9 +35,9 @@ Roblox catch-and-battle game, written in Luau. See `README.md` for status and kn
 
 ## Reading code
 - `GameData.luau` is very large, so search it instead of reading all of it.
-- Project notes (design, code map, decisions) live in the Obsidian vault at `~/Desktop/Roblox/Roblox`. Read the relevant note there before grepping the codebase, and add or update notes there when something non-obvious is learned. Link notes with `[[wikilinks]]`.
-- The vault is plain Markdown on disk, so read and write it with the normal file tools. It is separate from this repo and not committed here.
-- Notes can go stale. Confirm against the source file before editing code. Use grep for literal strings and config values.
+- Query Graphify (`leber-denton/Roblox-Game`) for code structure before grepping: "where is X defined", "who calls X", "what depends on this file" (`graphify_find`, `graphify_callers`, `graphify_file_neighbors`, `query_graph`). Use grep for literal strings and config values. Graphify covers pushed commits on `main` only, so unpushed edits won't appear, and it can miss calls; confirm in the file before editing.
+- Project notes (design, code map, decisions) live in the Obsidian vault at `vault/` in this repo, so Graphify and GitHub can see them. Start at `vault/Index.md`, read the relevant note before changing a system, and add or update notes there when something non-obvious is learned. Link notes with `[[wikilinks]]` and name a note after the script it describes.
+- Notes can go stale. Confirm against the source file before editing code.
 - `docs/` holds written notes for the repo.
 
 ## Testing

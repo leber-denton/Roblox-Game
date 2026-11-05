@@ -1,3 +1,3 @@
 # Docs
 
-Written notes for Creature Quest. Design notes, the code map and decisions live in the Obsidian vault at `~/Desktop/Roblox/Roblox` (see `CLAUDE.md`), so no generated graph report is stored here.
+Written notes for Creature Quest live in the Obsidian vault at `vault/` (see `CLAUDE.md`). Code structure is queried through the connected Graphify MCP, so no graph report is stored here.
