@@ -7,6 +7,7 @@ This vault lives in the `Roblox-Game` repo so Claude + Graphify can read it from
 - [[Decisions/Decision Log]] — why we chose X over Y
 - [[Pipeline/Dev Pipeline]] — how we build and ship
 - [[Todo/Current Priorities]] — what's next
+- [[Code Map]] — every script, its dependencies and dependents (auto-generated)
 
 ## Rules for notes
 1. One topic per note, plain markdown.
