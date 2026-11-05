@@ -7,6 +7,7 @@ Roblox catch-and-battle game, written in Luau. See `README.md` for status and kn
 - Sync only into `CQ_NewestSource_TEST.rbxl`, one folder above this repo. The published place has older scripts, so never connect Rojo to it or publish without asking.
 - Map, models and UI live in the place file, not this repo. Things like `Remotes` and `Shared.BallModels` exist only in Studio.
 - The Gallery (`Workspace.ModelGallery`, standing on `GalleryPlatform`) is where every model, sprite or other asset created in Studio goes, lined up side by side so versions can be compared. Name items `<Name> vN`, give each a `Label_<Name>` part, space them 30 studs apart along X, and widen `GalleryPlatform` and `Backdrop` when it fills up. Like other models, it lives in the place file only. World content (`Workspace.Map`, `HavocBlimp`) stays out of it.
+- Model sync: edit one reference copy in `Workspace.ShowcaseArea` and push it to every real copy. `ServerStorage.ShowcaseBuilder` builds the showcase (`.build()`); `ServerStorage.ModelSync` does `preview`/`apply`/`restore`/`addToMap`/`audit`; `ServerStorage.ModelSyncLookup` is the table of where each model's real copies live (trainers, gym leaders, NPCs by map path; balls, creatures, companions by template; decorations and map props by name). Add new models to that table, then run `ModelSync.audit()` and rebuild the showcase. `/showcase` (owner only) teleports there. Tests: `tests/ModelSyncTests.luau`. Edit-mode `execute_luau` can't `require` these modules; use the command bar, or load them with `loadstring`.
 
 ## Workflow
 - Start each change on a new branch from the latest `main`. Don't reuse a merged branch.
@@ -27,6 +28,7 @@ Roblox catch-and-battle game, written in Luau. See `README.md` for status and kn
 
 ## Layout
 - `src/ServerScriptService/Main.server.luau`: server entry point
+- `src/ServerStorage/`: Studio-only tools (`ModelSync`, `ModelSyncLookup`, `ShowcaseBuilder`, `MeshIntake`)
 - `src/ServerScriptService/Modules/`: server systems, such as `BattleService`, `PlayerData` and `SaveService`
 - `src/ReplicatedStorage/Shared/`: data shared with clients
 - `src/StarterPlayer/StarterPlayerScripts/`: client scripts and UI
