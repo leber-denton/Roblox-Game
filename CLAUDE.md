@@ -6,6 +6,7 @@ Roblox catch-and-battle game, written in Luau. See `README.md` for status and kn
 - Rojo syncs `src/` into Studio. Edit the files here, not scripts in Studio, or the next sync can overwrite the change.
 - Sync only into `CQ_NewestSource_TEST.rbxl`, one folder above this repo. The published place has older scripts, so never connect Rojo to it or publish without asking.
 - Map, models and UI live in the place file, not this repo. Things like `Remotes` and `Shared.BallModels` exist only in Studio.
+- The Gallery (`Workspace.ModelGallery`, standing on `GalleryPlatform`) is where every model, sprite or other asset created in Studio goes, lined up side by side so versions can be compared. Name items `<Name> vN`, give each a `Label_<Name>` part, space them 30 studs apart along X, and widen `GalleryPlatform` and `Backdrop` when it fills up. Like other models, it lives in the place file only. World content (`Workspace.Map`, `HavocBlimp`) stays out of it.
 
 ## Workflow
 - Start each change on a new branch from the latest `main`. Don't reuse a merged branch.
