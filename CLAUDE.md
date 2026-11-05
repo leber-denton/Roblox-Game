@@ -36,7 +36,10 @@ Roblox catch-and-battle game, written in Luau. See `README.md` for status and kn
 
 ## Reading code
 - `GameData.luau` is very large, so search it instead of reading all of it.
-- Use Graphify (`leber-denton/Roblox-Game`) to find code and callers. It covers indexed commits only and can miss calls, so confirm in the file before editing.
+- Query Graphify (`leber-denton/Roblox-Game`) before grepping the codebase. Use it for "where is X defined", "who calls X", "what depends on this file" and "where is Y handled" (`graphify_find`, `graphify_callers`, `graphify_file_neighbors`, `query_graph`). Use grep for literal strings and config values.
+- Graphify is the connected MCP only. There is no local install and no generated Markdown graph report, so don't create one.
+- It covers pushed commits only, so uncommitted or unpushed edits won't appear. It ranks by semantic match, so it won't give an architecture overview or startup order. It can also miss calls, so confirm in the file before editing.
+- `docs/` holds written notes for the repo.
 
 ## Testing
 - Saving doesn't work in `CQ_NewestSource_TEST.rbxl` because it's unpublished. Don't treat a Play test as proof that saving works.
