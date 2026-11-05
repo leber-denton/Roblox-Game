@@ -162,6 +162,8 @@ BattleData.Species = {
 		learnset = { { "Tackle", 1 }, { "Harden", 1 }, { "Shell Slam", 1 } } },
 	Voltmole  = { hp = 50,  atk = 62,  def = 52,  spd = 80,  xpYield = 110,
 		learnset = { { "Tackle", 1 }, { "Spark", 1 }, { "Volt Burrow", 8 } } },
+	Lumifawn  = { hp = 55,  atk = 52,  def = 58,  spd = 62,  xpYield = 95,
+		learnset = { { "Tackle", 1 }, { "Fairy Wink", 1 }, { "Vine Snap", 5 }, { "Glimmer Beam", 12 }, { "Leaf Swirl", 18 }, { "Pixie Burst", 28 } } },
 	Lunaryx   = { hp = 100, atk = 110, def = 100, spd = 100, xpYield = 250,
 		learnset = { { "Quick Peck", 1 }, { "Gust", 8 }, { "Moonbeam", 16 }, { "Astral Gale", 24 } } },
 	Pebblit   = { hp = 45,  atk = 60,  def = 80,  spd = 25,  xpYield = 75,
