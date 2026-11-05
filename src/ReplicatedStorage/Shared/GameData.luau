@@ -27,7 +27,7 @@ GameData.IndexOrder = {
 	-- Starters
 	"Sproutle", "Bramblet", "Thornwarden", "Kindlit", "Blazefox", "Infernyx", "Drizzlet", "Torrentail", "Tidalgon",
 	-- Meadow Route
-	"Fluttle", "Nibbit", "Squawkit", "Thornip", "Brawlet", "Wigglet", "Stingle", "Shellum", "Voltmole", "Lunaryx",
+	"Fluttle", "Nibbit", "Squawkit", "Thornip", "Brawlet", "Wigglet", "Stingle", "Shellum", "Voltmole", "Lunaryx", "Lumifawn",
 	-- Boulder Pass, Glimmer Cavern, Brook Town
 	"Pebblit", "Cragmaul", "Sporelet", "Echoling", "Glintle", "Puddlepup",
 	-- Tide Coast
@@ -178,6 +178,8 @@ GameData.Creatures = {
 	Stingle  = { type = "Bug", type2 = "Poison", rarity = "Common",   shape = "larva",   size = 3.0, color = Color3.fromRGB(60, 130, 140),  accent = Color3.fromRGB(250, 210, 60), stinger = true },
 	Shellum  = { type = "Bug",      rarity = "Uncommon", shape = "cocoon",  size = 3.2, color = Color3.fromRGB(175, 125, 75),  accent = Color3.fromRGB(120, 85, 50) },
 	Voltmole = { type = "Electric", rarity = "Rare",     shape = "blob",    size = 4.4, color = Color3.fromRGB(55, 85, 155),   accent = Color3.fromRGB(255, 230, 70) },
+	-- Sculpted mesh: ReplicatedStorage.CreatureMeshes.Lumifawn (shape/colours are the fallback)
+	Lumifawn = { type = "Grass",    type2 = "Fairy", rarity = "Uncommon", shape = "quad", size = 3.8, color = Color3.fromRGB(135, 185, 120), accent = Color3.fromRGB(90, 220, 205) },
 	-- Legendary
 	Lunaryx  = { type = "Psychic", type2 = "Flying", rarity = "Legendary", shape = "bird",   size = 7,   color = Color3.fromRGB(200, 180, 255), accent = Color3.fromRGB(255, 240, 200), floats = true },
 	-- Rock creatures (used by Gym Leader Slate for now)
@@ -266,6 +268,7 @@ GameData.Lanes = {
 			{ name = "Stingle",  weight = 38, minDepth = 0.65, maxDepth = 1 },
 			{ name = "Shellum",  weight = 19, minDepth = 0.65, maxDepth = 1 },
 			{ name = "Voltmole", weight = 5,  minDepth = 0.65, maxDepth = 1 },
+			{ name = "Lumifawn", weight = 8,  minDepth = 0.65, maxDepth = 1 },
 			{ name = "Lunaryx",  weight = 0.5, minDepth = 0.9, maxDepth = 1, level = 15 },
 		},
 	},
@@ -1008,7 +1011,7 @@ GameData.Evolutions = {
 -- Creature Index regions: catch every creature listed to earn the reward once
 GameData.IndexRegions = {
 	{ id = "Meadow", name = "Meadow Route", creatures = { "Fluttle", "Nibbit", "Squawkit", "Thornip", "Brawlet" }, coins = 250 },
-	{ id = "Whisperwood", name = "Whisperwood", creatures = { "Wigglet", "Stingle", "Shellum", "Voltmole" }, coins = 400 },
+	{ id = "Whisperwood", name = "Whisperwood", creatures = { "Wigglet", "Stingle", "Shellum", "Voltmole", "Lumifawn" }, coins = 400 },
 	{ id = "Boulder", name = "Boulder Pass & Glimmer Cavern", creatures = { "Pebblit", "Cragmaul", "Sporelet", "Echoling", "Glintle", "Puddlepup" }, coins = 500 },
 	{ id = "TideCoast", name = "Tide Coast", creatures = { "Ripplefin", "Tidecrest", "Sandsnip", "Dunehorn", "Pinchard" }, coins = 600 },
 	{ id = "VoltPlains", name = "Volt Plains", creatures = { "Zapkit", "Stormane", "Buzzbolt" }, coins = 700 },
