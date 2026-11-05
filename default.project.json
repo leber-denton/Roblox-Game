@@ -23,6 +23,24 @@
         "$path": "src/StarterPlayer/StarterPlayerScripts",
         "$ignoreUnknownInstances": true
       }
+    },
+    "Workspace": {
+      "$className": "Workspace",
+      "$ignoreUnknownInstances": true,
+      "Map": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "TradePlazaBeach": {
+          "$path": "src/Workspace/TradePlazaBeach.model.json"
+        },
+        "Coliseum": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "RomanShell": {
+            "$path": "src/Workspace/ColiseumRoman.model.json"
+          }
+        }
+      }
     }
   }
 }
