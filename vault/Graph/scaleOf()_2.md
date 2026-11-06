@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/scaleOf().md"
+source_file: "vault/Graph/scaleOf()_1.md"
 type: "document"
-community: "Community 140"
-location: "L1"
+community: "Community 112"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_140
+  - community/Community_112
 ---
 
-# scaleOf().md
+# scaleOf()
 
 ## Connections
-- [[Tests.run()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
-- [[scaleOf()_3]] - `contains` [EXTRACTED]
+- [[Connections_281]] - `contains` [EXTRACTED]
+- [[scaleOf()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_140
+#graphify/document #graphify/EXTRACTED #community/Community_112

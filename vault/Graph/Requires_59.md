@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/ProgressService.md"
+source_file: "vault/Code/RareEventService.md"
 type: "document"
-community: "Community 21"
+community: "Community 2"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_2
 ---
 
 # Requires
 
 ## Connections
-- [[ProgressService]] - `contains` [EXTRACTED]
+- [[RareEventService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_2

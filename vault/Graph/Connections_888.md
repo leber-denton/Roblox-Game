@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/script_parent_tutorialservice.md"
+source_file: "vault/Graph/Connections_652.md"
 type: "document"
-community: "Community 361"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_361
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[script_parent_tutorialservice_1]] - `contains` [EXTRACTED]
+- [[Connections_889]] - `contains` [EXTRACTED]
+- [[Connections_652]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_361
+#graphify/document #graphify/EXTRACTED #community/Community_12

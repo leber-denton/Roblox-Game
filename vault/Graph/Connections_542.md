@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_3.md"
+source_file: "vault/Graph/showcaseArea()_1.md"
 type: "document"
-community: "Community 188"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_188
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[Requires_54]] - `contains` [EXTRACTED]
+- [[showcaseArea()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_188
+#graphify/document #graphify/EXTRACTED #community/Community_117

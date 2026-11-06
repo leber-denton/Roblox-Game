@@ -1,18 +1,25 @@
 ---
 source_file: "vault/Graph/tabs.Themes().md"
 type: "document"
-community: "Community 395"
-location: "L12"
+community: "Community 63"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_395
+  - community/Community_63
 ---
 
-# tabs.Themes()
+# tabs.Themes().md
 
 ## Connections
-- [[Connections_922]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
+- [[button()_3]] - `references` [EXTRACTED]
+- [[buyResult()_4]] - `references` [EXTRACTED]
+- [[call()_1]] - `references` [EXTRACTED]
+- [[heading()_1]] - `references` [EXTRACTED]
+- [[label()_1_2]] - `references` [EXTRACTED]
+- [[listLayout()_1]] - `references` [EXTRACTED]
+- [[new()_3_3]] - `references` [EXTRACTED]
 - [[tabs.Themes()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_395
+#graphify/document #graphify/EXTRACTED #community/Community_63

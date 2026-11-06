@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/animate().md"
+source_file: "vault/Graph/setVisible()_1.md"
 type: "document"
-community: "Community 99"
+community: "Community 122"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_99
+  - community/Community_122
 ---
 
 # Connections
 
 ## Connections
-- [[animate()_2]] - `contains` [EXTRACTED]
+- [[setVisible()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_99
+#graphify/document #graphify/EXTRACTED #community/Community_122

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/laneSpot().md"
+source_file: "vault/Graph/laneSpot()_1.md"
 type: "document"
-community: "Community 24"
+community: "Community 1154"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1154
 ---
 
-# laneSpot()
+# laneSpot().md
 
 ## Connections
-- [[Connections_702]] - `contains` [EXTRACTED]
+- [[Connections_383]] - `contains` [EXTRACTED]
 - [[laneSpot()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1154

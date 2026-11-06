@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Code/FirstSpawnLock.md"
+source_file: "vault/Graph/Required by_86.md"
 type: "document"
-community: "Community 35"
-location: "L7"
+community: "Community 161"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_35
+  - community/Community_161
 ---
 
-# Required by
+# Required by_86.md
 
 ## Connections
-- [[FirstSpawnLock]] - `contains` [EXTRACTED]
+- [[Required by_35]] - `contains` [EXTRACTED]
+- [[Required by_52_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 345]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_35
+#graphify/document #graphify/EXTRACTED #community/Community_161

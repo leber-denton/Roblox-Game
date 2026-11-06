@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/floorOf().md"
+source_file: "vault/Graph/entryFor()_1.md"
 type: "document"
-community: "Community 175"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_175
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[floorOf()_2]] - `contains` [EXTRACTED]
+- [[entryFor()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_175
+#graphify/document #graphify/EXTRACTED #community/Community_117

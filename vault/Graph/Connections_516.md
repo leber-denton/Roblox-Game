@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/zeroStages().md"
+source_file: "vault/Graph/ModelSync.apply()_1.md"
 type: "document"
-community: "Community 177"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_177
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[zeroStages()_2]] - `contains` [EXTRACTED]
+- [[ModelSync.apply()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_177
+#graphify/document #graphify/EXTRACTED #community/Community_117

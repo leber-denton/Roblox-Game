@@ -1,17 +1,22 @@
 ---
-source_file: "vault/Code/BattleData.md"
+source_file: "vault/Code/HUD.md"
 type: "document"
-community: "Community 25"
-location: "L19"
+community: "Community 214"
+location: "L10"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Community_25
+  - graphify/INFERRED
+  - community/Community_214
 ---
 
 # Functions
 
 ## Connections
-- [[BattleData]] - `contains` [EXTRACTED]
+- [[HUD_3]] - `contains` [EXTRACTED]
+- [[updateCoins()]] - `references` [INFERRED]
+- [[updateLevel()]] - `references` [INFERRED]
+- [[updateTeam()]] - `references` [INFERRED]
+- [[updateTopBar()]] - `references` [INFERRED]
+- [[updateWildShiftTimer()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_25
+#graphify/document #graphify/INFERRED #community/Community_214

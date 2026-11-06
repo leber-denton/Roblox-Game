@@ -12,6 +12,7 @@ tags:
 # onRareCatch().md
 
 ## Connections
+- [[EventHUD.client.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 45]] - `references` [EXTRACTED]
 - [[describe()_1]] - `references` [EXTRACTED]
 - [[new()_8_1]] - `references` [EXTRACTED]

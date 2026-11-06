@@ -12,7 +12,7 @@ tags:
 # unqueue()
 
 ## Connections
-- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
 - [[practice()]] - `calls` [EXTRACTED]
 - [[setupActivities()]] - `calls` [EXTRACTED]
 - [[tickQueue()]] - `calls` [EXTRACTED]

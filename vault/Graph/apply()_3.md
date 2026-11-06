@@ -12,6 +12,8 @@ tags:
 # apply().md
 
 ## Connections
+- [[Regions.client.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
 - [[apply()_4]] - `contains` [EXTRACTED]
 - [[applyAll()_1]] - `references` [EXTRACTED]
 - [[setSign()_1_1]] - `references` [EXTRACTED]

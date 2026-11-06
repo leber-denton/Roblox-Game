@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/run().md"
+source_file: "vault/Graph/run()_1.md"
 type: "document"
-community: "Community 63"
+community: "Community 1218"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_63
+  - community/Community_1218
 ---
 
-# run().md
+# run()_1.md
 
 ## Connections
-- [[AdminPanel.client.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[load()_1]] - `references` [EXTRACTED]
+- [[Connections_789_1]] - `references` [EXTRACTED]
 - [[run()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_63
+#graphify/document #graphify/EXTRACTED #community/Community_1218

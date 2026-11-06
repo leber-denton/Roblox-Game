@@ -12,10 +12,10 @@ tags:
 # Code/Menus.md
 
 ## Connections
-- [[CodeBattleData]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[CodeCreatureBuilder]] - `references` [EXTRACTED]
-- [[CodeGameData]] - `references` [EXTRACTED]
+- [[CodeBattleData_2]] - `references` [EXTRACTED]
+- [[CodeCode Map_2]] - `references` [EXTRACTED]
+- [[CodeCreatureBuilder_2]] - `references` [EXTRACTED]
+- [[CodeGameData_2]] - `references` [EXTRACTED]
 - [[Menus]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_13

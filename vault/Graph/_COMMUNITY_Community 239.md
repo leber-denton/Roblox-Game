@@ -1,20 +1,28 @@
 ---
 type: community
-members: 7
+members: 15
 ---
 
 # Community 239
 
-**Members:** 7 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[ColiseumUI.client.luau_2]] - code - src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau
-- [[build()]] - code - src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau
-- [[header()]] - code - src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau
-- [[hideOwn()]] - code - src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau
-- [[new()_5]] - code - src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau
-- [[round()_2]] - code - src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau
-- [[row()_1]] - code - src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau
+- [[Connections_3314]] - document - vault/Graph/Functions_47_1.md
+- [[Connections_3315]] - document - vault/Graph/Functions_47.md
+- [[Connections_3316]] - document - vault/Graph/GraphModelSyncLookup.md
+- [[Connections_3317]] - document - vault/Graph/ModelSyncLookup_1_1.md
+- [[Connections_3318]] - document - vault/Graph/ModelSyncLookup_1.md
+- [[Functions_47_1]] - document - vault/Graph/Functions_47.md
+- [[Functions_47_2]] - document - vault/Graph/Functions_47_1.md
+- [[Functions_47_3]] - document - vault/Graph/Functions_47.md
+- [[Functions_47_1_1]] - document - vault/Graph/Functions_47_1.md
+- [[GraphModelSyncLookup_1]] - document - vault/Graph/GraphModelSyncLookup.md
+- [[GraphModelSyncLookup_2]] - document - vault/Graph/GraphModelSyncLookup.md
+- [[ModelSyncLookup_1]] - document - vault/Graph/ModelSyncLookup_1.md
+- [[ModelSyncLookup_1_2]] - document - vault/Graph/ModelSyncLookup_1_1.md
+- [[ModelSyncLookup_1_3]] - document - vault/Graph/ModelSyncLookup_1.md
+- [[ModelSyncLookup_1_1]] - document - vault/Graph/ModelSyncLookup_1_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,10 +32,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 7]]
-- 1 edge to [[_COMMUNITY_Community 240]]
-- 1 edge to [[_COMMUNITY_Community 251]]
+- 6 edges to [[_COMMUNITY_Community 158]]
+- 2 edges to [[_COMMUNITY_Community 293]]
+- 1 edge to [[_COMMUNITY_Community 470]]
+- 1 edge to [[_COMMUNITY_Community 343]]
 
 ## Top bridge nodes
-- [[ColiseumUI.client.luau_2]] - degree 8, connects to 2 communities
-- [[build()]] - degree 6, connects to 1 community
+- [[ModelSyncLookup_1]] - degree 8, connects to 3 communities
+- [[Functions_47_1]] - degree 6, connects to 3 communities
+- [[GraphModelSyncLookup_1]] - degree 3, connects to 1 community
+- [[Functions_47_1_1]] - degree 3, connects to 1 community
+- [[ModelSyncLookup_1_1]] - degree 3, connects to 1 community

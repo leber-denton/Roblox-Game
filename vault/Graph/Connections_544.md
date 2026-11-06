@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/find().md"
+source_file: "vault/Graph/showcaseModels()_1.md"
 type: "document"
-community: "Community 190"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_190
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[find()_2]] - `contains` [EXTRACTED]
+- [[showcaseModels()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_190
+#graphify/document #graphify/EXTRACTED #community/Community_117

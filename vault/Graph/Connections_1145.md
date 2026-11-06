@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/FirstSpawnLock.client.luau.md"
+source_file: "vault/Graph/Connections_1145.md"
 type: "document"
-community: "Community 92"
-location: "L14"
+community: "Community 1071"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_92
+  - community/Community_1071
 ---
 
-# Connections
+# Connections_1145.md
 
 ## Connections
-- [[FirstSpawnLock.client.luau_2]] - `contains` [EXTRACTED]
+- [[Connections_178]] - `contains` [EXTRACTED]
+- [[Connections_1144]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_92
+#graphify/document #graphify/EXTRACTED #community/Community_1071

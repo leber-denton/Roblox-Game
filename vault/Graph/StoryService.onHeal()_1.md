@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[StoryService.luau_1]] - `references` [EXTRACTED]
-- [[StoryService.onHeal()_2]] - `contains` [EXTRACTED]
+- [[StoryService.luau_2]] - `references` [EXTRACTED]
+- [[StoryService.onHeal()_4]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
 - [[get()_1]] - `references` [EXTRACTED]
 

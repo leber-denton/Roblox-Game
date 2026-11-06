@@ -12,6 +12,7 @@ tags:
 # TrainerAnimations.new().md
 
 ## Connections
+- [[TrainerAnimations.luau_1]] - `references` [EXTRACTED]
 - [[TrainerAnimations.new()_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 48]] - `references` [EXTRACTED]
 

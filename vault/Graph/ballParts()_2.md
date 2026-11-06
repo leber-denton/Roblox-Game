@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/ballParts().md"
 type: "document"
-community: "Community 241"
+community: "Community 21"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_241
+  - community/Community_21
 ---
 
 # ballParts()
 
 ## Connections
-- [[Connections_716]] - `contains` [EXTRACTED]
+- [[Connections_3043]] - `contains` [EXTRACTED]
 - [[ballParts()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_241
+#graphify/document #graphify/EXTRACTED #community/Community_21

@@ -17,6 +17,6 @@ tags:
 - [[DecorData.toLocal()_1]] - `references` [EXTRACTED]
 - [[DecorData.toWorld()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[buildBaseProps()_1]] - `references` [EXTRACTED]
+- [[buildBaseProps()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_86

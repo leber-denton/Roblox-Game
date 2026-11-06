@@ -12,7 +12,7 @@ tags:
 # SocialService
 
 ## Connections
-- [[CodeSocialService]] - `contains` [EXTRACTED]
+- [[CodeSocialService_2]] - `contains` [EXTRACTED]
 - [[Functions_1]] - `contains` [EXTRACTED]
 - [[Required by_1]] - `contains` [EXTRACTED]
 - [[Requires_1]] - `contains` [EXTRACTED]

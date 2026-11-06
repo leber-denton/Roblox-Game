@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/SocialService.luau.md"
+source_file: "vault/Graph/hideOwn().md"
 type: "document"
-community: "Community 9"
+community: "Community 121"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_121
 ---
 
 # Connections
 
 ## Connections
-- [[SocialService.luau_2]] - `contains` [EXTRACTED]
+- [[hideOwn()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_121

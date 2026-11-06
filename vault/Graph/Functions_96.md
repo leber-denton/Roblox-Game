@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/DungeonClient.md"
+source_file: "vault/Code/CreatureBuilder.md"
 type: "document"
-community: "Community 52"
-location: "L10"
+community: "Community 294"
+location: "L18"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_52
+  - community/Community_294
 ---
 
 # Functions
 
 ## Connections
-- [[DungeonClient_2]] - `contains` [EXTRACTED]
+- [[CreatureBuilder]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_52
+#graphify/document #graphify/EXTRACTED #community/Community_294

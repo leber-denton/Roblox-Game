@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[DecorData.luau]] - `contains` [EXTRACTED]
 - [[makeGhost()]] - `calls` [INFERRED]
-- [[preview()_2]] - `calls` [INFERRED]
+- [[preview()]] - `calls` [INFERRED]
 - [[spawnPlaced()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/INFERRED #community/Community_3

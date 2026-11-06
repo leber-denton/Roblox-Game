@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/round()_5.md"
+source_file: "vault/Graph/BaseManager.assign()_1.md"
 type: "document"
-community: "Community 122"
+community: "Community 1075"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_122
+  - community/Community_1075
 ---
 
 # Connections
 
 ## Connections
-- [[round()_8]] - `contains` [EXTRACTED]
+- [[BaseManager.assign()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_122
+#graphify/document #graphify/EXTRACTED #community/Community_1075

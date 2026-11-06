@@ -12,7 +12,7 @@ tags:
 # addEffect()
 
 ## Connections
-- [[Connections_1036]] - `contains` [EXTRACTED]
+- [[Connections_5653]] - `contains` [EXTRACTED]
 - [[addEffect()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_86

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Code/ProgressService.md"
+source_file: "vault/Code/Bag.md"
 type: "document"
-community: "Community 21"
-location: "L14"
+community: "Community 20"
+location: "L10"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Community_21
+  - graphify/INFERRED
+  - community/Community_20
 ---
 
 # Functions
 
 ## Connections
-- [[ProgressService]] - `contains` [EXTRACTED]
-- [[today()]] - `references` [INFERRED]
+- [[Bag]] - `contains` [EXTRACTED]
+- [[getInventory()]] - `references` [INFERRED]
+- [[showTradeHistory()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/INFERRED #community/Community_20

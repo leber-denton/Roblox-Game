@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/setupStats().md"
+source_file: "vault/Graph/setupStats()_1.md"
 type: "document"
-community: "Community 233"
-location: "L1"
+community: "Community 1468"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_233
+  - community/Community_1468
 ---
 
 # setupStats().md
 
 ## Connections
-- [[LeaderboardService.onJoin()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
-- [[setupStats()_2]] - `contains` [EXTRACTED]
+- [[Connections_1929]] - `contains` [EXTRACTED]
+- [[setupStats()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_233
+#graphify/document #graphify/EXTRACTED #community/Community_1468

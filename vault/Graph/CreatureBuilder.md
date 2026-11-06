@@ -12,9 +12,9 @@ tags:
 # CreatureBuilder
 
 ## Connections
-- [[CodeCreatureBuilder]] - `contains` [EXTRACTED]
-- [[Functions_75]] - `contains` [EXTRACTED]
-- [[Required by_77]] - `contains` [EXTRACTED]
-- [[Requires_75]] - `contains` [EXTRACTED]
+- [[CodeCreatureBuilder_2]] - `contains` [EXTRACTED]
+- [[Functions_96]] - `contains` [EXTRACTED]
+- [[Required by_75]] - `contains` [EXTRACTED]
+- [[Requires_79]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_294

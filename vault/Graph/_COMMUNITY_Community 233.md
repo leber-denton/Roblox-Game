@@ -1,19 +1,28 @@
 ---
 type: community
-members: 6
+members: 15
 ---
 
 # Community 233
 
-**Members:** 6 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_674]] - document - vault/Graph/LeaderboardService.onJoin().md
-- [[Connections_675]] - document - vault/Graph/setupStats().md
-- [[LeaderboardService.onJoin()_2]] - document - vault/Graph/LeaderboardService.onJoin().md
-- [[LeaderboardService.onJoin()_1]] - document - vault/Graph/LeaderboardService.onJoin().md
-- [[setupStats()_2]] - document - vault/Graph/setupStats().md
-- [[setupStats()_1]] - document - vault/Graph/setupStats().md
+- [[Community 74_2]] - document - vault/Graph/Community 74.md
+- [[Community 74_1]] - document - vault/Graph/Community 74.md
+- [[Connections_3279]] - document - vault/Graph/Community 74.md
+- [[Connections_3280]] - document - vault/Graph/Connections to other communities_18.md
+- [[Connections_3281]] - document - vault/Graph/Live Query (requires Dataview plugin)_22.md
+- [[Connections_3282]] - document - vault/Graph/Members_21.md
+- [[Connections_3283]] - document - vault/Graph/Top bridge nodes_19.md
+- [[Connections to other communities_183]] - document - vault/Graph/Connections to other communities_18.md
+- [[Connections to other communities_18_1]] - document - vault/Graph/Connections to other communities_18.md
+- [[Live Query (requires Dataview plugin)_214]] - document - vault/Graph/Live Query (requires Dataview plugin)_22.md
+- [[Live Query (requires Dataview plugin)_22_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_22.md
+- [[Members_217]] - document - vault/Graph/Members_21.md
+- [[Members_21_1]] - document - vault/Graph/Members_21.md
+- [[Top bridge nodes_189]] - document - vault/Graph/Top bridge nodes_19.md
+- [[Top bridge nodes_19_1]] - document - vault/Graph/Top bridge nodes_19.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +32,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 103]]
-- 1 edge to [[_COMMUNITY_Community 41]]
+- 6 edges to [[_COMMUNITY_Community 162]]
 
 ## Top bridge nodes
-- [[LeaderboardService.onJoin()_1]] - degree 4, connects to 2 communities
-- [[setupStats()_1]] - degree 3, connects to 1 community
+- [[Community 74_1]] - degree 7, connects to 1 community
+- [[Members_21_1]] - degree 3, connects to 1 community
+- [[Live Query (requires Dataview plugin)_22_1]] - degree 3, connects to 1 community
+- [[Top bridge nodes_19_1]] - degree 3, connects to 1 community
+- [[Connections to other communities_18_1]] - degree 3, connects to 1 community

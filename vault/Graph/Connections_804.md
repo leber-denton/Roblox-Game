@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/script_parent_wildspawner.md"
+source_file: "vault/Graph/Connections_610.md"
 type: "document"
-community: "Community 316"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_316
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[script_parent_wildspawner_1]] - `contains` [EXTRACTED]
+- [[Connections_805]] - `contains` [EXTRACTED]
+- [[Connections_610_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_316
+#graphify/document #graphify/EXTRACTED #community/Community_12

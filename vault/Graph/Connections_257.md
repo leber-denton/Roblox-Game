@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/MeshIntake_1.md"
+source_file: "vault/Graph/canPersist()_2.md"
 type: "document"
-community: "Community 130"
+community: "Community 1118"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_130
+  - community/Community_1118
 ---
 
 # Connections
 
 ## Connections
-- [[MeshIntake_1_1]] - `contains` [EXTRACTED]
+- [[canPersist()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_130
+#graphify/document #graphify/EXTRACTED #community/Community_1118

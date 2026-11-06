@@ -12,6 +12,6 @@ tags:
 # unlockRegion()
 
 ## Connections
-- [[LockedLanes.client.luau_2]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_3]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_185

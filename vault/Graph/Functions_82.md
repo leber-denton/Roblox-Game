@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_50.md"
+source_file: "vault/Code/BattleData.md"
 type: "document"
-community: "Community 326"
-location: "L12"
+community: "Community 25"
+location: "L19"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_326
+  - community/Community_25
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_818]] - `contains` [EXTRACTED]
-- [[Functions_50_1]] - `contains` [EXTRACTED]
+- [[BattleData]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_326
+#graphify/document #graphify/EXTRACTED #community/Community_25

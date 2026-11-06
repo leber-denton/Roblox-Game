@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GameData.badgesForLane().md"
+source_file: "vault/Graph/Connections_559.md"
 type: "document"
-community: "Community 27"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_27
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[GameData.badgesForLane()_2]] - `contains` [EXTRACTED]
+- [[Connections_743]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_27
+#graphify/document #graphify/EXTRACTED #community/Community_12

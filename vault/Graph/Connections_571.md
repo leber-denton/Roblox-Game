@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleFX.statusMove().md"
+source_file: "vault/Graph/ArenaManager_2.md"
 type: "document"
-community: "Community 197"
+community: "Community 118"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_197
+  - community/Community_118
 ---
 
 # Connections
 
 ## Connections
-- [[BattleFX.statusMove()_2]] - `contains` [EXTRACTED]
+- [[ArenaManager_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_197
+#graphify/document #graphify/EXTRACTED #community/Community_118

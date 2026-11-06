@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/applyTheme().md"
+source_file: "vault/Graph/applyTheme()_2.md"
 type: "document"
-community: "Community 152"
-location: "L12"
+community: "Community 249"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_152
+  - community/Community_249
 ---
 
-# applyTheme()
+# applyTheme()_2.md
 
 ## Connections
-- [[Connections_387]] - `contains` [EXTRACTED]
-- [[applyTheme()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 249]] - `references` [EXTRACTED]
+- [[applyTheme()_1]] - `references` [EXTRACTED]
+- [[applyTheme()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_152
+#graphify/document #graphify/EXTRACTED #community/Community_249

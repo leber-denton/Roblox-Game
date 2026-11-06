@@ -12,7 +12,9 @@ tags:
 # Docs.md
 
 ## Connections
-- [[Docs_1]] - `contains` [EXTRACTED]
+- [[Docs_3]] - `contains` [EXTRACTED]
+- [[Docs_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 218]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 81]] - `references` [EXTRACTED]
 - [[docsREADME]] - `references` [EXTRACTED]
 

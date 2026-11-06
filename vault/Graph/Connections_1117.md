@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/openTrade().md"
+source_file: "vault/Graph/Requires_18.md"
 type: "document"
-community: "Community 9"
+community: "Community 1208"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_1208
 ---
 
 # Connections
 
 ## Connections
-- [[openTrade()_2]] - `contains` [EXTRACTED]
+- [[Requires_18_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_1208

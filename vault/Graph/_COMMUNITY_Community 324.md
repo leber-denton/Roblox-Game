@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Connections_816]] - document - vault/Graph/Functions_48.md
-- [[Functions_80]] - document - vault/Graph/Functions_48.md
-- [[Functions_48_1]] - document - vault/Graph/Functions_48.md
+- [[Connections_3866]] - document - vault/Graph/Connections_587.md
+- [[Connections_3867]] - document - vault/Graph/Connections_587.md
+- [[Connections_587_1]] - document - vault/Graph/Connections_587.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 158]]
+- 1 edge to [[_COMMUNITY_Community 12]]
 
 ## Top bridge nodes
-- [[Functions_48_1]] - degree 2, connects to 1 community
+- [[Connections_587_1]] - degree 2, connects to 1 community

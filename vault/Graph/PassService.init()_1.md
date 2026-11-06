@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/PassService.init().md"
+source_file: "vault/Graph/PassService.init()_1.md"
 type: "document"
-community: "Community 41"
+community: "Community 1170"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_1170
 ---
 
-# PassService.init().md
+# PassService.init()_1.md
 
 ## Connections
+- [[Connections_483_1]] - `references` [EXTRACTED]
 - [[PassService.init()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[apply()_1_1]] - `references` [EXTRACTED]
-- [[setupProducts()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/document #graphify/EXTRACTED #community/Community_1170

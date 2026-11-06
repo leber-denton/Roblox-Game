@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/CreatureLife.client.luau.md"
+source_file: "vault/Graph/CreatureLife.client.luau_1.md"
 type: "document"
 community: "Community 191"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_191
 ---
 
-# CreatureLife.client.luau.md
+# CreatureLife.client.luau_1.md
 
 ## Connections
-- [[Connections_547]] - `contains` [EXTRACTED]
-- [[CreatureLife.client.luau]] - `contains` [EXTRACTED]
+- [[CreatureLife.client.luau_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 191]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 80]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_191

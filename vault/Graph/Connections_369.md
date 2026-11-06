@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/script_parent_socialservice.md"
+source_file: "vault/Graph/Connections_1187.md"
 type: "document"
-community: "Community 148"
-location: "L14"
+community: "Community 1150"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_148
+  - community/Community_1150
 ---
 
 # Connections
 
 ## Connections
-- [[script_parent_socialservice_1]] - `contains` [EXTRACTED]
+- [[Connections_370]] - `contains` [EXTRACTED]
+- [[Connections_1187]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_148
+#graphify/document #graphify/EXTRACTED #community/Community_1150

@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/Showcase_2.md"
+type: "document"
+community: "Community 293"
+location: "L14"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_293
+---
+
+# Connections
+
+## Connections
+- [[Showcase_2_1]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_293

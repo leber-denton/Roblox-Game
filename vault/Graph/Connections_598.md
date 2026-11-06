@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/dress().md"
+source_file: "vault/Graph/Connections_45.md"
 type: "document"
-community: "Community 205"
+community: "Community 1188"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_205
+  - community/Community_1188
 ---
 
 # Connections
 
 ## Connections
-- [[dress()_2]] - `contains` [EXTRACTED]
+- [[Connections_597]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_205
+#graphify/document #graphify/EXTRACTED #community/Community_1188

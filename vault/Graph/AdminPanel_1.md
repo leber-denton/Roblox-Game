@@ -12,8 +12,11 @@ tags:
 # AdminPanel_1.md
 
 ## Connections
-- [[AdminPanel]] - `contains` [EXTRACTED]
+- [[AdminPanel_1_1]] - `contains` [EXTRACTED]
+- [[GraphAdminPanel]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 145]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 27]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 299]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 63]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_145

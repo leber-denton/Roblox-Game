@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Code/LeagueService.md"
+source_file: "vault/Graph/LeagueService_2.md"
 type: "document"
-community: "Community 68"
+community: "Community 1286"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_68
+  - community/Community_1286
 ---
 
-# LeagueService
+# LeagueService_2.md
 
 ## Connections
-- [[CodeLeagueService]] - `contains` [EXTRACTED]
-- [[Functions_108]] - `contains` [EXTRACTED]
-- [[Required by_105]] - `contains` [EXTRACTED]
-- [[Requires_106]] - `contains` [EXTRACTED]
+- [[CodeLeagueService]] - `references` [EXTRACTED]
+- [[LeagueService_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 68]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_68
+#graphify/document #graphify/EXTRACTED #community/Community_1286

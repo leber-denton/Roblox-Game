@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/syncQuests().md"
+source_file: "vault/Graph/syncQuests()_2.md"
 type: "document"
-community: "Community 34"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_34
+  - community/Community_168
 ---
 
-# syncQuests()
+# syncQuests()_2.md
 
 ## Connections
-- [[Connections_864]] - `contains` [EXTRACTED]
-- [[syncQuests()_1]] - `contains` [EXTRACTED]
+- [[Connections_404_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[syncQuests()_3]] - `contains` [EXTRACTED]
+- [[syncQuests()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_34
+#graphify/document #graphify/EXTRACTED #community/Community_168

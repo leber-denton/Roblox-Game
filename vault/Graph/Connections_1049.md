@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/overlaps().md"
+source_file: "vault/Graph/act().md"
 type: "document"
-community: "Community 86"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[overlaps()_4]] - `contains` [EXTRACTED]
+- [[act()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_120

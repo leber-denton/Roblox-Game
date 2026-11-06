@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_51.md"
+source_file: "vault/Code/RareEventService.md"
 type: "document"
-community: "Community 161"
-location: "L1"
+community: "Community 2"
+location: "L8"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_161
+  - community/Community_2
 ---
 
-# Required by_51.md
+# Required by
 
 ## Connections
-- [[Required by_52]] - `contains` [EXTRACTED]
-- [[Required by_50_1]] - `references` [EXTRACTED]
+- [[RareEventService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_161
+#graphify/document #graphify/EXTRACTED #community/Community_2

@@ -17,7 +17,7 @@ tags:
 - [[DecorData.toWorld()_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
 - [[canPlace()_1]] - `references` [EXTRACTED]
-- [[check()_5]] - `references` [EXTRACTED]
-- [[spawnPlaced()_1]] - `references` [EXTRACTED]
+- [[check()_7]] - `references` [EXTRACTED]
+- [[spawnPlaced()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_86

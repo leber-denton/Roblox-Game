@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 363
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_890]] - document - vault/Graph/Shapes.cocoon().md
-- [[Shapes.cocoon()_2]] - document - vault/Graph/Shapes.cocoon().md
-- [[Shapes.cocoon()_1]] - document - vault/Graph/Shapes.cocoon().md
+- [[Community 258]] - document - vault/Graph/_COMMUNITY_Community 258.md
+- [[Connections to other communities_280]] - document - vault/Graph/_COMMUNITY_Community 258.md
+- [[Live Query (requires Dataview plugin)_312]] - document - vault/Graph/_COMMUNITY_Community 258.md
+- [[Members_316]] - document - vault/Graph/_COMMUNITY_Community 258.md
+- [[Top bridge nodes_285]] - document - vault/Graph/_COMMUNITY_Community 258.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,8 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 133]]
-- 1 edge to [[_COMMUNITY_Community 171]]
+- 1 edge to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[Shapes.cocoon()_1]] - degree 3, connects to 2 communities
+- [[Community 258]] - degree 5, connects to 1 community

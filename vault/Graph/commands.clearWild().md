@@ -1,18 +1,18 @@
 ---
 source_file: "src/ServerScriptService/Modules/AdminService.luau"
 type: "code"
-community: "Community 6"
+community: "Community 22"
 location: "L310"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_6
+  - community/Community_22
 ---
 
 # commands.clearWild()
 
 ## Connections
-- [[AdminService.luau_2]] - `contains` [EXTRACTED]
+- [[AdminService.luau_3]] - `contains` [EXTRACTED]
 - [[WildSpawner.clear()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_6
+#graphify/code #graphify/EXTRACTED #community/Community_22

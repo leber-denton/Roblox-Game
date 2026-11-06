@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/lighter().md"
+source_file: "vault/Graph/lighter()_2.md"
 type: "document"
-community: "Community 137"
-location: "L12"
+community: "Community 133"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_133
 ---
 
-# lighter()
+# lighter()_2.md
 
 ## Connections
-- [[Connections_298]] - `contains` [EXTRACTED]
-- [[lighter()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
+- [[lighter()_1]] - `references` [EXTRACTED]
+- [[lighter()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_133

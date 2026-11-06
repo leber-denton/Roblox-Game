@@ -1,21 +1,23 @@
 ---
-source_file: "vault/Graph/isLocked().md"
+source_file: "vault/Graph/isLocked()_1.md"
 type: "document"
-community: "Community 92"
+community: "Community 328"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_92
+  - community/Community_328
 ---
 
-# isLocked().md
+# isLocked()_1.md
 
 ## Connections
 - [[FirstSpawnLock.client.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 328]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 35]] - `references` [EXTRACTED]
-- [[isLocked()_2]] - `contains` [EXTRACTED]
-- [[lockPrompt()_1]] - `references` [EXTRACTED]
-- [[update()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 92]] - `references` [EXTRACTED]
+- [[isLocked()_1_1]] - `contains` [EXTRACTED]
+- [[isLocked()_2]] - `references` [EXTRACTED]
+- [[update()_1_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_92
+#graphify/document #graphify/EXTRACTED #community/Community_328

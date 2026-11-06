@@ -1,22 +1,18 @@
 ---
 source_file: "vault/Graph/gen_trade_beach.py.md"
 type: "document"
-community: "Community 89"
-location: "L1"
+community: "Community 244"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_89
+  - community/Community_244
 ---
 
-# gen_trade_beach.py.md
+# gen_trade_beach.py
 
 ## Connections
-- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 29]] - `references` [EXTRACTED]
-- [[gen_trade_beach.py_2]] - `contains` [EXTRACTED]
-- [[node()_1]] - `references` [EXTRACTED]
-- [[part()_2_1]] - `references` [EXTRACTED]
-- [[ring()_1]] - `references` [EXTRACTED]
+- [[Connections_3425]] - `contains` [EXTRACTED]
+- [[gen_trade_beach.py]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_89
+#graphify/document #graphify/EXTRACTED #community/Community_244

@@ -12,7 +12,7 @@ tags:
 # lockOther()
 
 ## Connections
-- [[Connections_53]] - `contains` [EXTRACTED]
+- [[Connections_130]] - `contains` [EXTRACTED]
 - [[lockOther()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_105

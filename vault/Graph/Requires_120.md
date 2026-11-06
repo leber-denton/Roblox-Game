@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Code/ShowcaseBuilder.md"
+source_file: "vault/Graph/Requires_120.md"
 type: "document"
-community: "Community 8"
-location: "L4"
+community: "Community 248"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_248
 ---
 
-# Requires
+# Requires_120.md
 
 ## Connections
-- [[ShowcaseBuilder_2]] - `contains` [EXTRACTED]
+- [[Requires_120_1]] - `contains` [EXTRACTED]
+- [[Requires_36_1]] - `references` [EXTRACTED]
+- [[ShowcaseBuilder_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 212]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_8
+#graphify/document #graphify/EXTRACTED #community/Community_248

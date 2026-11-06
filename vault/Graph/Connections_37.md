@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/inventory()_1.md"
+source_file: "vault/Graph/AdminPanel.client.luau_1.md"
 type: "document"
-community: "Community 103"
+community: "Community 1010"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_103
+  - community/Community_1010
 ---
 
 # Connections
 
 ## Connections
-- [[inventory()_2]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_103
+#graphify/document #graphify/EXTRACTED #community/Community_1010

@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/Functions_32.md"
+source_file: "vault/Graph/Functions_32_1.md"
 type: "document"
 community: "Community 126"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,9 +12,7 @@ tags:
 # Functions_32.md
 
 ## Connections
-- [[EventHUD_1]] - `references` [EXTRACTED]
-- [[Functions_10]] - `references` [EXTRACTED]
+- [[Connections_1303]] - `contains` [EXTRACTED]
 - [[Functions_32_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 53]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_126

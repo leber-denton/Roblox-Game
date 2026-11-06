@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/ColiseumUI.client.luau.md"
+source_file: "vault/Graph/ColiseumUI.client.luau_1.md"
 type: "document"
-community: "Community 203"
-location: "L1"
+community: "Community 121"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_121
 ---
 
-# ColiseumUI.client.luau.md
+# ColiseumUI.client.luau
 
 ## Connections
 - [[ColiseumUI.client.luau_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[replicatedstorage_waitforchild]] - `references` [EXTRACTED]
+- [[Connections_1124]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_121

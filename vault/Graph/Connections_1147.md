@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/isLocked().md"
+source_file: "vault/Graph/Connections_783.md"
 type: "document"
-community: "Community 92"
-location: "L14"
+community: "Community 1212"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_92
+  - community/Community_1212
 ---
 
 # Connections
 
 ## Connections
-- [[isLocked()_2]] - `contains` [EXTRACTED]
+- [[Connections_1148]] - `contains` [EXTRACTED]
+- [[Connections_783_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_92
+#graphify/document #graphify/EXTRACTED #community/Community_1212

@@ -12,7 +12,7 @@ tags:
 # Bag
 
 ## Connections
-- [[Connections_781]] - `contains` [EXTRACTED]
+- [[Connections_3693]] - `contains` [EXTRACTED]
 - [[GraphBag]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_300

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/standInFront().md"
+source_file: "vault/Graph/Connections_654.md"
 type: "document"
-community: "Community 366"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_366
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[standInFront()_2]] - `contains` [EXTRACTED]
+- [[Connections_892]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_366
+#graphify/document #graphify/EXTRACTED #community/Community_12

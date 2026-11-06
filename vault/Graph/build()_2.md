@@ -12,7 +12,7 @@ tags:
 # build()
 
 ## Connections
-- [[Connections_113]] - `contains` [EXTRACTED]
+- [[Connections_308]] - `contains` [EXTRACTED]
 - [[build()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_113

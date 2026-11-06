@@ -12,8 +12,8 @@ tags:
 # button()
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
-- [[label()_3]] - `calls` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[label()_4]] - `calls` [EXTRACTED]
 - [[new()_9]] - `calls` [EXTRACTED]
 - [[pad()]] - `calls` [EXTRACTED]
 - [[showMenu()]] - `calls` [EXTRACTED]

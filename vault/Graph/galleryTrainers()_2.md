@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/galleryTrainers().md"
 type: "document"
-community: "Community 228"
+community: "Community 136"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_228
+  - community/Community_136
 ---
 
 # galleryTrainers()
 
 ## Connections
-- [[Connections_658]] - `contains` [EXTRACTED]
+- [[Connections_1603]] - `contains` [EXTRACTED]
 - [[galleryTrainers()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_228
+#graphify/document #graphify/EXTRACTED #community/Community_136

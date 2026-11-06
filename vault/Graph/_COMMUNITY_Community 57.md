@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[CodeMeshIntake]] - document - vault/Code/MeshIntake.md
-- [[Functions_100]] - document - vault/Code/MeshIntake.md
-- [[MeshIntake_2]] - document - vault/Code/MeshIntake.md
-- [[Required by_97]] - document - vault/Code/MeshIntake.md
-- [[Requires_98]] - document - vault/Code/MeshIntake.md
+- [[CodeMeshIntake_2]] - document - vault/Code/MeshIntake.md
+- [[Functions_159]] - document - vault/Code/MeshIntake.md
+- [[MeshIntake_3]] - document - vault/Code/MeshIntake.md
+- [[Required by_149]] - document - vault/Code/MeshIntake.md
+- [[Requires_155]] - document - vault/Code/MeshIntake.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,4 +25,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[CodeMeshIntake]] - degree 2, connects to 1 community
+- [[CodeMeshIntake_2]] - degree 2, connects to 1 community

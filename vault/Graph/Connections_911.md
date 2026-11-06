@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/listLayout().md"
+source_file: "vault/Graph/Connections_663.md"
 type: "document"
-community: "Community 384"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_384
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[listLayout()_1]] - `contains` [EXTRACTED]
+- [[Connections_910]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_384
+#graphify/document #graphify/EXTRACTED #community/Community_12

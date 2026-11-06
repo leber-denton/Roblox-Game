@@ -1,18 +1,18 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/HUD.client.luau"
 type: "code"
-community: "Community 8"
+community: "Community 214"
 location: "L336"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_214
 ---
 
 # floatText()
 
 ## Connections
-- [[HUD.client.luau_2]] - `contains` [EXTRACTED]
+- [[HUD.client.luau]] - `contains` [EXTRACTED]
 - [[updateCoins()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_8
+#graphify/code #graphify/EXTRACTED #community/Community_214

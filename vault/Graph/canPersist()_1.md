@@ -1,22 +1,22 @@
 ---
 source_file: "vault/Graph/canPersist().md"
 type: "document"
-community: "Community 9"
+community: "Community 49"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_49
 ---
 
 # canPersist().md
 
 ## Connections
-- [[SocialService.luau_1]] - `references` [EXTRACTED]
+- [[SocialService.luau_4]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[canPersist()_2]] - `contains` [EXTRACTED]
-- [[execute()_1]] - `references` [EXTRACTED]
-- [[onRequest()_1]] - `references` [EXTRACTED]
-- [[onRespond()_1]] - `references` [EXTRACTED]
+- [[canPersist()_3]] - `contains` [EXTRACTED]
+- [[execute()_3]] - `references` [EXTRACTED]
+- [[onRequest()_3]] - `references` [EXTRACTED]
+- [[onRespond()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_49

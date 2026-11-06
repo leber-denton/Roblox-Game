@@ -1,18 +1,19 @@
 ---
 source_file: "vault/Graph/boardLabel().md"
 type: "document"
-community: "Community 123"
-location: "L12"
+community: "Community 642"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_642
 ---
 
-# boardLabel()
+# boardLabel().md
 
 ## Connections
-- [[Connections_185]] - `contains` [EXTRACTED]
-- [[boardLabel()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
+- [[boardLabel()_3]] - `contains` [EXTRACTED]
+- [[setupArenaFixtures()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_642

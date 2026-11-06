@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/RareEventService.md"
+source_file: "vault/Code/Sprint.md"
 type: "document"
-community: "Community 2"
-location: "L8"
+community: "Community 215"
+location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Community_215
 ---
 
 # Required by
 
 ## Connections
-- [[RareEventService]] - `contains` [EXTRACTED]
+- [[Sprint_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_2
+#graphify/document #graphify/EXTRACTED #community/Community_215

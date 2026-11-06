@@ -1,31 +1,21 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Menus.client.luau"
-type: "code"
-community: "Community 19"
+source_file: "vault/Graph/Menus.client.luau.md"
+type: "document"
+community: "Community 203"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_203
 ---
 
-# Menus.client.luau
+# Menus.client.luau.md
 
 ## Connections
-- [[clear()]] - `contains` [EXTRACTED]
-- [[creatureText()]] - `contains` [EXTRACTED]
-- [[fillBox()]] - `contains` [EXTRACTED]
-- [[incoming()]] - `contains` [EXTRACTED]
-- [[inventory()]] - `contains` [EXTRACTED]
-- [[new()_1]] - `contains` [EXTRACTED]
-- [[offerBox()]] - `contains` [EXTRACTED]
-- [[playEvolution()]] - `contains` [EXTRACTED]
-- [[rebuildBoard()]] - `contains` [EXTRACTED]
-- [[refresh()]] - `contains` [EXTRACTED]
-- [[render()_1]] - `contains` [EXTRACTED]
-- [[shared_waitforchild_2]] - `imports` [EXTRACTED]
-- [[trade.close()]] - `contains` [EXTRACTED]
-- [[trade.update()]] - `contains` [EXTRACTED]
-- [[viewport()]] - `contains` [EXTRACTED]
+- [[Menus.client.luau_2]] - `contains` [EXTRACTED]
+- [[Menus.client.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 180]] - `references` [EXTRACTED]
+- [[new()_1_2]] - `references` [EXTRACTED]
+- [[refresh()_6]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_19
+#graphify/document #graphify/EXTRACTED #community/Community_203

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/applyState().md"
+source_file: "vault/Graph/getShowcase()_2.md"
 type: "document"
-community: "Community 177"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_177
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[applyState()_2]] - `contains` [EXTRACTED]
+- [[getShowcase()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_177
+#graphify/document #graphify/EXTRACTED #community/Community_117

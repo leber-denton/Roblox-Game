@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/plainBall().md"
+source_file: "vault/Graph/Connections_112.md"
 type: "document"
-community: "Community 114"
+community: "Community 1046"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_114
+  - community/Community_1046
 ---
 
 # Connections
 
 ## Connections
-- [[plainBall()_2]] - `contains` [EXTRACTED]
+- [[Connections_119]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_114
+#graphify/document #graphify/EXTRACTED #community/Community_1046

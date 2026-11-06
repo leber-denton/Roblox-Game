@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/themeTargets().md"
+source_file: "vault/Graph/lockPrompt()_1.md"
 type: "document"
-community: "Community 152"
+community: "Community 1156"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_152
+  - community/Community_1156
 ---
 
 # Connections
 
 ## Connections
-- [[themeTargets()_2]] - `contains` [EXTRACTED]
+- [[lockPrompt()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_152
+#graphify/document #graphify/EXTRACTED #community/Community_1156

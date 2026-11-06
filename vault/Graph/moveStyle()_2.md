@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/moveStyle().md"
 type: "document"
-community: "Community 103"
+community: "Community 120"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_103
+  - community/Community_120
 ---
 
 # moveStyle()
 
 ## Connections
-- [[Connections_40]] - `contains` [EXTRACTED]
+- [[Connections_1075]] - `contains` [EXTRACTED]
 - [[moveStyle()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_103
+#graphify/document #graphify/EXTRACTED #community/Community_120

@@ -1,17 +1,19 @@
 ---
 source_file: "vault/Graph/unlockRegion().md"
 type: "document"
-community: "Community 372"
+community: "Community 105"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_372
+  - community/Community_105
 ---
 
 # unlockRegion().md
 
 ## Connections
+- [[LockedLanes.client.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 185]] - `references` [EXTRACTED]
 - [[unlockRegion()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_372
+#graphify/document #graphify/EXTRACTED #community/Community_105

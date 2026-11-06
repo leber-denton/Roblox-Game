@@ -12,7 +12,7 @@ tags:
 # openMenu()
 
 ## Connections
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[call()]] - `calls` [EXTRACTED]
 - [[setStatus()]] - `calls` [EXTRACTED]
 - [[stopBuild()]] - `calls` [EXTRACTED]

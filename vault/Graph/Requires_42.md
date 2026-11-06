@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_42.md"
+source_file: "vault/Code/BaseManager.md"
 type: "document"
-community: "Community 154"
-location: "L1"
+community: "Community 16"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_154
+  - community/Community_16
 ---
 
-# Requires_42.md
+# Requires
 
 ## Connections
-- [[DungeonService_1]] - `references` [EXTRACTED]
-- [[Requires_21_1]] - `references` [EXTRACTED]
-- [[Requires_42_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 66]] - `references` [EXTRACTED]
+- [[BaseManager]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_154
+#graphify/document #graphify/EXTRACTED #community/Community_16

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/playerStarter().md"
+source_file: "vault/Graph/Connections_764.md"
 type: "document"
-community: "Community 30"
-location: "L14"
+community: "Community 1088"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_1088
 ---
 
-# Connections
+# Connections_764.md
 
 ## Connections
-- [[playerStarter()_2]] - `contains` [EXTRACTED]
+- [[Connections_200]] - `contains` [EXTRACTED]
+- [[RareEventService.setPaidHandler()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_1088

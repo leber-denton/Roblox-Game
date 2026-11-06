@@ -13,11 +13,11 @@ tags:
 
 ## Connections
 - [[DecorData.describe()]] - `calls` [INFERRED]
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[button()]] - `calls` [EXTRACTED]
 - [[label()_2]] - `calls` [EXTRACTED]
-- [[new()_7]] - `calls` [EXTRACTED]
-- [[preview()_2]] - `calls` [EXTRACTED]
+- [[new()_4]] - `calls` [EXTRACTED]
+- [[preview()]] - `calls` [EXTRACTED]
 - [[tabs.Crates()]] - `calls` [EXTRACTED]
 - [[tabs.Daily()]] - `calls` [EXTRACTED]
 - [[tabs.Items()]] - `calls` [EXTRACTED]

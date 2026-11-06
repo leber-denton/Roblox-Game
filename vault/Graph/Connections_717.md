@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/fadeBall().md"
+source_file: "vault/Graph/BattleData.maxXP()_2.md"
 type: "document"
-community: "Community 241"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_241
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[fadeBall()_2]] - `contains` [EXTRACTED]
+- [[BattleData.maxXP()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_241
+#graphify/document #graphify/EXTRACTED #community/Community_12

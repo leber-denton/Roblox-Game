@@ -1,42 +1,28 @@
 ---
 type: community
-members: 30
+members: 16
 ---
 
 # Community 118
 
-**Members:** 30 nodes
+**Members:** 16 nodes
 
 ## Members
-- [[ArenaManager]] - document - vault/Graph/ArenaManager.md
 - [[ArenaManager_1]] - document - vault/Graph/ArenaManager_1.md
 - [[ArenaManager_1_1]] - document - vault/Graph/ArenaManager_1.md
-- [[Community 50]] - document - vault/Graph/_COMMUNITY_Community 50.md
-- [[Connections_141]] - document - vault/Graph/ArenaManager_1.md
-- [[Connections_142]] - document - vault/Graph/ArenaManager.md
-- [[Connections_143]] - document - vault/Graph/Functions_29.md
-- [[Connections_144]] - document - vault/Graph/Functions_7.md
-- [[Connections_145]] - document - vault/Graph/Required by_29.md
-- [[Connections_146]] - document - vault/Graph/Required by_5.md
-- [[Connections_147]] - document - vault/Graph/Requires_29.md
-- [[Connections_148]] - document - vault/Graph/Requires_5.md
-- [[Connections to other communities_2]] - document - vault/Graph/_COMMUNITY_Community 50.md
-- [[Functions_8]] - document - vault/Graph/Functions_7.md
-- [[Functions_29]] - document - vault/Graph/Functions_29.md
-- [[Functions_29_1]] - document - vault/Graph/Functions_29.md
-- [[Functions_7]] - document - vault/Graph/Functions_7.md
-- [[GraphArenaManager]] - document - vault/Graph/ArenaManager.md
-- [[Live Query (requires Dataview plugin)_6]] - document - vault/Graph/_COMMUNITY_Community 50.md
-- [[Members_6]] - document - vault/Graph/_COMMUNITY_Community 50.md
-- [[Required by_6]] - document - vault/Graph/Required by_5.md
-- [[Required by_29]] - document - vault/Graph/Required by_29.md
-- [[Required by_29_1]] - document - vault/Graph/Required by_29.md
-- [[Required by_5_1]] - document - vault/Graph/Required by_5.md
-- [[Requires_6]] - document - vault/Graph/Requires_5.md
-- [[Requires_29]] - document - vault/Graph/Requires_29.md
-- [[Requires_29_1]] - document - vault/Graph/Requires_29.md
-- [[Requires_5_1]] - document - vault/Graph/Requires_5.md
-- [[Top bridge nodes_2]] - document - vault/Graph/_COMMUNITY_Community 50.md
+- [[ArenaManager_2]] - document - vault/Graph/ArenaManager_2.md
+- [[ArenaManager_2_1]] - document - vault/Graph/ArenaManager_2.md
+- [[CodeArenaManager]] - document - vault/Graph/CodeArenaManager.md
+- [[CodeArenaManager_1]] - document - vault/Graph/CodeArenaManager.md
+- [[Connections_570]] - document - vault/Graph/ArenaManager_1.md
+- [[Connections_571]] - document - vault/Graph/ArenaManager_2.md
+- [[Connections_572]] - document - vault/Graph/CodeArenaManager.md
+- [[Connections_573]] - document - vault/Graph/Required by_92.md
+- [[Connections_574]] - document - vault/Graph/Requires_93.md
+- [[Required by_92]] - document - vault/Graph/Required by_92.md
+- [[Required by_92_1]] - document - vault/Graph/Required by_92.md
+- [[Requires_93]] - document - vault/Graph/Requires_93.md
+- [[Requires_93_1]] - document - vault/Graph/Requires_93.md
 - [[_COMMUNITY_Community 50]] - document - vault/Graph/_COMMUNITY_Community 50.md
 
 ## Live Query (requires Dataview plugin)
@@ -47,8 +33,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 256]]
-- 1 edge to [[_COMMUNITY_Community 69]]
+- 6 edges to [[_COMMUNITY_Community 540]]
+- 3 edges to [[_COMMUNITY_Community 271]]
+- 2 edges to [[_COMMUNITY_Community 1140]]
+- 2 edges to [[_COMMUNITY_Community 119]]
+- 1 edge to [[_COMMUNITY_Community 1100]]
+- 1 edge to [[_COMMUNITY_Community 690]]
+- 1 edge to [[_COMMUNITY_Community 866]]
+- 1 edge to [[_COMMUNITY_Community 243]]
+- 1 edge to [[_COMMUNITY_Community 446]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 50]] - degree 7, connects to 2 communities
+- [[_COMMUNITY_Community 50]] - degree 14, connects to 6 communities
+- [[ArenaManager_2]] - degree 8, connects to 3 communities
+- [[CodeArenaManager]] - degree 5, connects to 2 communities
+- [[Required by_92]] - degree 5, connects to 2 communities
+- [[Requires_93]] - degree 5, connects to 2 communities

@@ -12,7 +12,9 @@ tags:
 # Requires_8.md
 
 ## Connections
-- [[Requires_7]] - `contains` [EXTRACTED]
 - [[Requires_32]] - `references` [EXTRACTED]
+- [[Requires_7_1]] - `references` [EXTRACTED]
+- [[Requires_8_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 126]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_126

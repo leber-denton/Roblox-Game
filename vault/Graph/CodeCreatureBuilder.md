@@ -1,28 +1,18 @@
 ---
-source_file: "vault/Code/CreatureBuilder.md"
+source_file: "vault/Graph/CodeCreatureBuilder.md"
 type: "document"
-community: "Community 13"
+community: "Community 1040"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_1040
 ---
 
-# Code/CreatureBuilder.md
+# CodeCreatureBuilder.md
 
 ## Connections
-- [[CodeBaseManager]] - `references` [EXTRACTED]
-- [[CodeBattleData]] - `references` [EXTRACTED]
-- [[CodeBattleService]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[CodeCreatureIndex]] - `references` [EXTRACTED]
-- [[CodeDecorService]] - `references` [EXTRACTED]
-- [[CodeGameData]] - `references` [EXTRACTED]
-- [[CodeMenus]] - `references` [EXTRACTED]
-- [[CodeSocialService]] - `references` [EXTRACTED]
-- [[CodeTutorial]] - `references` [EXTRACTED]
-- [[CodeWildSpawner]] - `references` [EXTRACTED]
-- [[CreatureBuilder]] - `contains` [EXTRACTED]
+- [[CodeCreatureBuilder_1]] - `contains` [EXTRACTED]
+- [[Connections_106]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_1040

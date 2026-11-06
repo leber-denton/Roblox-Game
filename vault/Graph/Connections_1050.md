@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/rgb().md"
+source_file: "vault/Graph/animateXP().md"
 type: "document"
-community: "Community 86"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[rgb()_2]] - `contains` [EXTRACTED]
+- [[animateXP()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_120

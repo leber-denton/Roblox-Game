@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/caption().md"
+source_file: "vault/Graph/caption()_2.md"
 type: "document"
-community: "Community 9"
-location: "L12"
+community: "Community 1033"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_1033
 ---
 
-# caption()
+# caption()_2.md
 
 ## Connections
-- [[Connections_1108]] - `contains` [EXTRACTED]
+- [[Connections_92]] - `references` [EXTRACTED]
 - [[caption()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_1033

@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[GraphSprint]] - `references` [EXTRACTED]
-- [[Sprint_1_1]] - `contains` [EXTRACTED]
+- [[Sprint_1_3]] - `contains` [EXTRACTED]
+- [[Sprint_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 141]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_141

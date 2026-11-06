@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/WeeklyEventService.md"
+source_file: "vault/Code/Regions.md"
 type: "document"
-community: "Community 77"
-location: "L13"
+community: "Community 338"
+location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_77
+  - community/Community_338
 ---
 
 # Functions
 
 ## Connections
-- [[WeeklyEventService_2]] - `contains` [EXTRACTED]
+- [[Regions]] - `contains` [EXTRACTED]
+- [[applyAll()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_77
+#graphify/document #graphify/EXTRACTED #community/Community_338

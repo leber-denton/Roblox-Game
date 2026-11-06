@@ -12,7 +12,7 @@ tags:
 # NPCLife_1.md
 
 ## Connections
-- [[Connections_265]] - `contains` [EXTRACTED]
+- [[Connections_1377]] - `contains` [EXTRACTED]
 - [[NPCLife_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_131

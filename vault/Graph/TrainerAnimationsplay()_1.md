@@ -12,6 +12,7 @@ tags:
 # TrainerAnimationsplay().md
 
 ## Connections
+- [[TrainerAnimations.luau_1]] - `references` [EXTRACTED]
 - [[TrainerAnimationsplay()_2]] - `contains` [EXTRACTED]
 - [[TrainerAnimations_track()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 48]] - `references` [EXTRACTED]

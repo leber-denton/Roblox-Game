@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_33.md"
+source_file: "vault/Code/BaseManager.md"
 type: "document"
-community: "Community 127"
-location: "L1"
+community: "Community 16"
+location: "L11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_127
+  - community/Community_16
 ---
 
-# Required by_33.md
+# Required by
 
 ## Connections
-- [[HavocBlimpFlight_1]] - `references` [EXTRACTED]
-- [[Required by_33_1]] - `contains` [EXTRACTED]
-- [[Required by_9_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 54]] - `references` [EXTRACTED]
+- [[BaseManager]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_127
+#graphify/document #graphify/EXTRACTED #community/Community_16

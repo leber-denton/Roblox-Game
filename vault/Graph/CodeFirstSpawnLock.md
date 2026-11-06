@@ -12,7 +12,7 @@ tags:
 # Code/FirstSpawnLock.md
 
 ## Connections
-- [[CodeCode Map]] - `references` [EXTRACTED]
+- [[CodeCode Map_2]] - `references` [EXTRACTED]
 - [[FirstSpawnLock]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_35

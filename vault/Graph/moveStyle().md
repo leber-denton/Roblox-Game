@@ -12,7 +12,7 @@ tags:
 # moveStyle()
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[showMenu()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_7

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/gen_coliseum.py.md"
+source_file: "vault/Graph/spawnsFrom().md"
 type: "document"
-community: "Community 89"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_89
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[gen_coliseum.py_2]] - `contains` [EXTRACTED]
+- [[spawnsFrom()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_89
+#graphify/document #graphify/EXTRACTED #community/Community_120

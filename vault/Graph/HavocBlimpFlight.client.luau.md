@@ -12,7 +12,9 @@ tags:
 # HavocBlimpFlight.client.luau.md
 
 ## Connections
-- [[HavocBlimpFlight.client.luau_1]] - `contains` [EXTRACTED]
+- [[HavocBlimpFlight.client.luau_3]] - `contains` [EXTRACTED]
+- [[HavocBlimpFlight.client.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 245]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 85]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_245

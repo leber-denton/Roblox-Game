@@ -12,8 +12,8 @@ tags:
 # toggle()
 
 ## Connections
-- [[AdminPanel.client.luau]] - `contains` [EXTRACTED]
-- [[Functions_76]] - `references` [INFERRED]
+- [[AdminPanel.client.luau_3]] - `contains` [EXTRACTED]
+- [[Functions_98]] - `references` [INFERRED]
 - [[load()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

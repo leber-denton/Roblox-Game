@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/setupStats().md"
+source_file: "vault/Graph/BaseManager.assign()_2.md"
 type: "document"
-community: "Community 233"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_233
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[setupStats()_2]] - `contains` [EXTRACTED]
+- [[BaseManager.assign()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_233
+#graphify/document #graphify/EXTRACTED #community/Community_12

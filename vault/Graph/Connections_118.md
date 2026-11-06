@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/glow().md"
+source_file: "vault/Graph/CodeWildSpawner.md"
 type: "document"
-community: "Community 114"
+community: "Community 1046"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_114
+  - community/Community_1046
 ---
 
 # Connections
 
 ## Connections
-- [[glow()_2]] - `contains` [EXTRACTED]
+- [[CodeWildSpawner_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_114
+#graphify/document #graphify/EXTRACTED #community/Community_1046

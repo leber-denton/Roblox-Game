@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/grant().md"
+source_file: "vault/Graph/Functions_54.md"
 type: "document"
-community: "Community 97"
+community: "Community 122"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_97
+  - community/Community_122
 ---
 
 # Connections
 
 ## Connections
-- [[grant()_2]] - `contains` [EXTRACTED]
+- [[Functions_11]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_97
+#graphify/document #graphify/EXTRACTED #community/Community_122

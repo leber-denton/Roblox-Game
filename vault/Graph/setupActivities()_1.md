@@ -1,30 +1,18 @@
 ---
-source_file: "vault/Graph/setupActivities().md"
+source_file: "vault/Graph/setupActivities()_1.md"
 type: "document"
-community: "Community 123"
-location: "L1"
+community: "Community 1463"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_1463
 ---
 
 # setupActivities().md
 
 ## Connections
-- [[BattleService.onEnded()_1]] - `references` [EXTRACTED]
-- [[ColiseumService.init()_1]] - `references` [EXTRACTED]
-- [[PlayerData.addBP()_1]] - `references` [EXTRACTED]
-- [[SaveService.requestSave()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[available()_1]] - `references` [EXTRACTED]
-- [[finishRanked()_1]] - `references` [EXTRACTED]
-- [[practice()_1]] - `references` [EXTRACTED]
-- [[publicBattles()_1]] - `references` [EXTRACTED]
-- [[recordFor()_1]] - `references` [EXTRACTED]
-- [[setupActivities()_2]] - `contains` [EXTRACTED]
-- [[setupArenaFixtures()_1]] - `references` [EXTRACTED]
-- [[tickQueue()_1]] - `references` [EXTRACTED]
-- [[unqueue()_1]] - `references` [EXTRACTED]
+- [[Connections_1924]] - `contains` [EXTRACTED]
+- [[setupActivities()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_1463

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/updateJourney().md"
+source_file: "vault/Graph/BattleData.xpForLevel()_1.md"
 type: "document"
-community: "Community 246"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_246
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[updateJourney()_2]] - `contains` [EXTRACTED]
+- [[BattleData.xpForLevel()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_246
+#graphify/document #graphify/EXTRACTED #community/Community_12

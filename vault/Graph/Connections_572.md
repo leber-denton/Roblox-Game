@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/burst()_1.md"
+source_file: "vault/Graph/CodeArenaManager.md"
 type: "document"
-community: "Community 197"
+community: "Community 118"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_197
+  - community/Community_118
 ---
 
 # Connections
 
 ## Connections
-- [[burst()_2]] - `contains` [EXTRACTED]
+- [[CodeArenaManager_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_197
+#graphify/document #graphify/EXTRACTED #community/Community_118

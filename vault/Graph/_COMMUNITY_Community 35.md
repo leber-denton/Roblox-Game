@@ -11,9 +11,9 @@ members: 10
 - [[CodeFirstSpawnLock]] - document - vault/Code/FirstSpawnLock.md
 - [[FirstSpawnLock]] - document - vault/Code/FirstSpawnLock.md
 - [[FirstSpawnLock.client.luau]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
-- [[Functions_89]] - document - vault/Code/FirstSpawnLock.md
-- [[Required by_86]] - document - vault/Code/FirstSpawnLock.md
-- [[Requires_79]] - document - vault/Code/FirstSpawnLock.md
+- [[Functions_125]] - document - vault/Code/FirstSpawnLock.md
+- [[Required by_94]] - document - vault/Code/FirstSpawnLock.md
+- [[Requires_116]] - document - vault/Code/FirstSpawnLock.md
 - [[isLocked()]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
 - [[lockPrompt()]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
 - [[unlockAll()]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau

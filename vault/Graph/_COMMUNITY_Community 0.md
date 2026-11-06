@@ -21,6 +21,7 @@ members: 74
 - [[DecorData.toWorld()]] - code - src/ReplicatedStorage/Shared/DecorData.luau
 - [[DecorData.today()]] - code - src/ReplicatedStorage/Shared/DecorData.luau
 - [[DecorData.zRange()]] - code - src/ReplicatedStorage/Shared/DecorData.luau
+- [[DecorService.giveBox()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[DecorService.init()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[DecorService.initPlayer()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[DecorService.luau]] - code - src/ServerScriptService/Modules/DecorService.luau
@@ -66,14 +67,13 @@ members: 74
 - [[overlaps()_1]] - code - src/StarterPlayer/StarterPlayerScripts/DecorUI.client.luau
 - [[ownerOf()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[placedCount()]] - code - src/ServerScriptService/Modules/DecorService.luau
-- [[playbackTime()]] - code - src/ServerScriptService/Modules/BattleService.luau
+- [[processReceipt()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[publicState()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[refreshBaseLabels()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[release()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[rememberOriginals()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[rgb()]] - code - src/ReplicatedStorage/Shared/DecorData.luau
 - [[rollBox()]] - code - src/ServerScriptService/Modules/DecorService.luau
-- [[serialize()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[spawnPlaced()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[staticParts()]] - code - src/StarterPlayer/StarterPlayerScripts/DecorUI.client.luau
 - [[strongest()]] - code - src/ServerScriptService/Modules/DecorService.luau
@@ -91,21 +91,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 13 edges to [[_COMMUNITY_Community 16]]
-- 8 edges to [[_COMMUNITY_Community 11]]
-- 7 edges to [[_COMMUNITY_Community 3]]
-- 5 edges to [[_COMMUNITY_Community 12]]
-- 4 edges to [[_COMMUNITY_Community 21]]
-- 4 edges to [[_COMMUNITY_Community 22]]
-- 3 edges to [[_COMMUNITY_Community 18]]
-- 2 edges to [[_COMMUNITY_Community 15]]
-- 1 edge to [[_COMMUNITY_Community 135]]
-- 1 edge to [[_COMMUNITY_Community 7]]
+- 15 edges to [[_COMMUNITY_Community 16]]
+- 11 edges to [[_COMMUNITY_Community 11]]
+- 8 edges to [[_COMMUNITY_Community 3]]
+- 5 edges to [[_COMMUNITY_Community 15]]
+- 4 edges to [[_COMMUNITY_Community 4]]
+- 3 edges to [[_COMMUNITY_Community 2]]
+- 1 edge to [[_COMMUNITY_Community 41]]
+- 1 edge to [[_COMMUNITY_Community 22]]
 - 1 edge to [[_COMMUNITY_Community 6]]
 
 ## Top bridge nodes
-- [[DecorService.luau]] - degree 65, connects to 9 communities
-- [[buildBaseProps()]] - degree 14, connects to 3 communities
-- [[DecorService.init()]] - degree 11, connects to 3 communities
+- [[DecorService.luau]] - degree 65, connects to 7 communities
 - [[DecorService.onLoaded()]] - degree 17, connects to 2 communities
-- [[sync()]] - degree 11, connects to 2 communities
+- [[buildBaseProps()]] - degree 14, connects to 2 communities
+- [[DecorService.init()]] - degree 11, connects to 2 communities
+- [[DecorService.giveBox()]] - degree 5, connects to 2 communities

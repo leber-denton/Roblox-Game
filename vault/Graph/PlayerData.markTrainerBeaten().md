@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/PlayerData.luau"
 type: "code"
-community: "Community 15"
+community: "Community 17"
 location: "L169"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_15
+  - community/Community_17
 ---
 
 # PlayerData.markTrainerBeaten()
@@ -16,4 +16,4 @@ tags:
 - [[RouteTrainerService.init()]] - `calls` [INFERRED]
 - [[commands.beatTrainers()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_15
+#graphify/code #graphify/INFERRED #community/Community_17

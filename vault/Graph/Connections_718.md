@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/paidPick().md"
+source_file: "vault/Graph/BattleData.rollIVs()_1.md"
 type: "document"
-community: "Community 242"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_242
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[paidPick()_2]] - `contains` [EXTRACTED]
+- [[BattleData.rollIVs()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_242
+#graphify/document #graphify/EXTRACTED #community/Community_12

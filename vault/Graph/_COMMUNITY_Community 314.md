@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 314
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_800]] - document - vault/Graph/Dev Pipeline_1.md
-- [[Dev Pipeline]] - document - vault/Graph/Dev Pipeline_1.md
-- [[Dev Pipeline_1]] - document - vault/Graph/Dev Pipeline_1.md
+- [[Community 314]] - document - vault/Graph/_COMMUNITY_Community 314.md
+- [[Connections to other communities_244]] - document - vault/Graph/_COMMUNITY_Community 314.md
+- [[Live Query (requires Dataview plugin)_277]] - document - vault/Graph/_COMMUNITY_Community 314.md
+- [[Members_281]] - document - vault/Graph/_COMMUNITY_Community 314.md
+- [[Top bridge nodes_250]] - document - vault/Graph/_COMMUNITY_Community 314.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,4 +25,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 88]]
 
 ## Top bridge nodes
-- [[Dev Pipeline_1]] - degree 2, connects to 1 community
+- [[Community 314]] - degree 5, connects to 1 community

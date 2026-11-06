@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/hubCFrame().md"
+source_file: "vault/Graph/What you need to do before it makes money.md"
 type: "document"
-community: "Community 123"
+community: "Community 108"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_108
 ---
 
 # Connections
 
 ## Connections
-- [[hubCFrame()_2]] - `contains` [EXTRACTED]
+- [[What you need to do before it makes money_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_108

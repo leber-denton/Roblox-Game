@@ -1,31 +1,142 @@
 ---
 type: community
-members: 18
+members: 129
 ---
 
 # Community 27
 
-**Members:** 18 nodes
+**Members:** 129 nodes
 
 ## Members
-- [[Connections_742]] - document - vault/Graph/commands.allBadges().md
-- [[Connections_743]] - document - vault/Graph/commands.badges().md
-- [[Connections_744]] - document - vault/Graph/GameData.badgesForLane().md
-- [[Connections_745]] - document - vault/Graph/PlayerData.addBadge().md
-- [[Connections_746]] - document - vault/Graph/PlayerData.hasBadge().md
-- [[Connections_747]] - document - vault/Graph/setup().md
-- [[GameData.badgesForLane()_2]] - document - vault/Graph/GameData.badgesForLane().md
-- [[GameData.badgesForLane()_1]] - document - vault/Graph/GameData.badgesForLane().md
-- [[PlayerData.addBadge()_2]] - document - vault/Graph/PlayerData.addBadge().md
-- [[PlayerData.addBadge()_1]] - document - vault/Graph/PlayerData.addBadge().md
-- [[PlayerData.hasBadge()_2]] - document - vault/Graph/PlayerData.hasBadge().md
-- [[PlayerData.hasBadge()_1]] - document - vault/Graph/PlayerData.hasBadge().md
-- [[commands.allBadges()_2]] - document - vault/Graph/commands.allBadges().md
-- [[commands.allBadges()_1]] - document - vault/Graph/commands.allBadges().md
-- [[commands.badges()_2]] - document - vault/Graph/commands.badges().md
-- [[commands.badges()_1]] - document - vault/Graph/commands.badges().md
-- [[setup()_3]] - document - vault/Graph/setup().md
-- [[setup()_2]] - document - vault/Graph/setup().md
+- [[Community 120]] - document - vault/Graph/_COMMUNITY_Community 120.md
+- [[Community 231]] - document - vault/Graph/_COMMUNITY_Community 231.md
+- [[Community 341]] - document - vault/Graph/_COMMUNITY_Community 341.md
+- [[Connections_3489]] - document - vault/Graph/act()_2.md
+- [[Connections_3490]] - document - vault/Graph/animateXP()_1.md
+- [[Connections_3491]] - document - vault/Graph/animateXP()_2.md
+- [[Connections_3492]] - document - vault/Graph/Connections_686.md
+- [[Connections_3493]] - document - vault/Graph/Connections_686.md
+- [[Connections_3494]] - document - vault/Graph/Connections_687.md
+- [[Connections_3495]] - document - vault/Graph/Connections_687.md
+- [[Connections_3496]] - document - vault/Graph/Connections_688.md
+- [[Connections_3497]] - document - vault/Graph/Connections_688.md
+- [[Connections_3498]] - document - vault/Graph/Connections_689.md
+- [[Connections_3499]] - document - vault/Graph/Connections_689.md
+- [[Connections_3500]] - document - vault/Graph/Connections_712.md
+- [[Connections_3501]] - document - vault/Graph/Connections_712.md
+- [[Connections_3502]] - document - vault/Graph/Connections_717.md
+- [[Connections_3503]] - document - vault/Graph/Connections_717.md
+- [[Connections_3504]] - document - vault/Graph/Connections_721.md
+- [[Connections_3505]] - document - vault/Graph/Connections_721.md
+- [[Connections_3506]] - document - vault/Graph/Connections_723.md
+- [[Connections_3507]] - document - vault/Graph/Connections_723.md
+- [[Connections_3508]] - document - vault/Graph/Connections_729.md
+- [[Connections_3509]] - document - vault/Graph/Connections_729.md
+- [[Connections_3510]] - document - vault/Graph/Connections_731.md
+- [[Connections_3511]] - document - vault/Graph/Connections_731.md
+- [[Connections_3512]] - document - vault/Graph/Connections_733.md
+- [[Connections_3513]] - document - vault/Graph/Connections_733.md
+- [[Connections_3514]] - document - vault/Graph/Connections_736.md
+- [[Connections_3515]] - document - vault/Graph/Connections_736.md
+- [[Connections_3516]] - document - vault/Graph/Connections_738.md
+- [[Connections_3517]] - document - vault/Graph/Connections_738.md
+- [[Connections_3518]] - document - vault/Graph/Connections_740.md
+- [[Connections_3519]] - document - vault/Graph/Connections_740.md
+- [[Connections_3520]] - document - vault/Graph/Connections_749.md
+- [[Connections_3521]] - document - vault/Graph/Connections_749.md
+- [[Connections_3522]] - document - vault/Graph/Connections_750.md
+- [[Connections_3523]] - document - vault/Graph/Connections_750.md
+- [[Connections_3524]] - document - vault/Graph/Connections_754.md
+- [[Connections_3525]] - document - vault/Graph/Connections_754.md
+- [[Connections_3526]] - document - vault/Graph/Connections_755.md
+- [[Connections_3527]] - document - vault/Graph/Connections_755.md
+- [[Connections_3528]] - document - vault/Graph/Connections_758.md
+- [[Connections_3529]] - document - vault/Graph/Connections_758.md
+- [[Connections_3530]] - document - vault/Graph/Connections_759.md
+- [[Connections_3531]] - document - vault/Graph/Connections_759.md
+- [[Connections_3532]] - document - vault/Graph/Connections_763.md
+- [[Connections_3533]] - document - vault/Graph/Connections_763.md
+- [[Connections_3534]] - document - vault/Graph/Functions_13.md
+- [[Connections_3535]] - document - vault/Graph/GameData.medicineOrder()_1.md
+- [[Connections_3536]] - document - vault/Graph/GameData.medicineOrder()_2.md
+- [[Connections_3537]] - document - vault/Graph/handle()_2.md
+- [[Connections_3538]] - document - vault/Graph/lockButton()_2.md
+- [[Connections_3539]] - document - vault/Graph/moveStyle()_2.md
+- [[Connections_3540]] - document - vault/Graph/pad()_2.md
+- [[Connections_3541]] - document - vault/Graph/promptText()_2.md
+- [[Connections_3542]] - document - vault/Graph/rearBack()_1.md
+- [[Connections_3543]] - document - vault/Graph/rearBack()_2.md
+- [[Connections_3544]] - document - vault/Graph/setStatus()_4.md
+- [[Connections_3545]] - document - vault/Graph/showMenu()_2.md
+- [[Connections_3546]] - document - vault/Graph/showOwnTag()_2.md
+- [[Connections to other communities_213]] - document - vault/Graph/_COMMUNITY_Community 120.md
+- [[Connections to other communities_214]] - document - vault/Graph/_COMMUNITY_Community 231.md
+- [[Connections to other communities_215]] - document - vault/Graph/_COMMUNITY_Community 341.md
+- [[Connections_686_1]] - document - vault/Graph/Connections_686.md
+- [[Connections_687_1]] - document - vault/Graph/Connections_687.md
+- [[Connections_688_1]] - document - vault/Graph/Connections_688.md
+- [[Connections_689_1]] - document - vault/Graph/Connections_689.md
+- [[Connections_712_1]] - document - vault/Graph/Connections_712.md
+- [[Connections_717_1]] - document - vault/Graph/Connections_717.md
+- [[Connections_721_1]] - document - vault/Graph/Connections_721.md
+- [[Connections_723_1]] - document - vault/Graph/Connections_723.md
+- [[Connections_729_1]] - document - vault/Graph/Connections_729.md
+- [[Connections_731_1]] - document - vault/Graph/Connections_731.md
+- [[Connections_733_1]] - document - vault/Graph/Connections_733.md
+- [[Connections_736_1]] - document - vault/Graph/Connections_736.md
+- [[Connections_738_1]] - document - vault/Graph/Connections_738.md
+- [[Connections_740_1]] - document - vault/Graph/Connections_740.md
+- [[Connections_749_1]] - document - vault/Graph/Connections_749.md
+- [[Connections_750_1]] - document - vault/Graph/Connections_750.md
+- [[Connections_754_1]] - document - vault/Graph/Connections_754.md
+- [[Connections_755_1]] - document - vault/Graph/Connections_755.md
+- [[Connections_758_1]] - document - vault/Graph/Connections_758.md
+- [[Connections_759_1]] - document - vault/Graph/Connections_759.md
+- [[Connections_763_1]] - document - vault/Graph/Connections_763.md
+- [[Functions_85]] - document - vault/Graph/Functions_13.md
+- [[Functions_13_1]] - document - vault/Graph/Functions_13.md
+- [[GameData.medicineOrder()_4]] - document - vault/Graph/GameData.medicineOrder()_2.md
+- [[GameData.medicineOrder()_3]] - document - vault/Graph/GameData.medicineOrder()_1.md
+- [[GameData.medicineOrder()_1_1]] - document - vault/Graph/GameData.medicineOrder()_1.md
+- [[GameData.medicineOrder()_2_1]] - document - vault/Graph/GameData.medicineOrder()_2.md
+- [[Live Query (requires Dataview plugin)_244]] - document - vault/Graph/_COMMUNITY_Community 120.md
+- [[Live Query (requires Dataview plugin)_245]] - document - vault/Graph/_COMMUNITY_Community 231.md
+- [[Live Query (requires Dataview plugin)_246]] - document - vault/Graph/_COMMUNITY_Community 341.md
+- [[Members_248]] - document - vault/Graph/_COMMUNITY_Community 120.md
+- [[Members_249]] - document - vault/Graph/_COMMUNITY_Community 231.md
+- [[Members_250]] - document - vault/Graph/_COMMUNITY_Community 341.md
+- [[Top bridge nodes_219]] - document - vault/Graph/_COMMUNITY_Community 120.md
+- [[Top bridge nodes_220]] - document - vault/Graph/_COMMUNITY_Community 231.md
+- [[Top bridge nodes_221]] - document - vault/Graph/_COMMUNITY_Community 341.md
+- [[_COMMUNITY_Community 120]] - document - vault/Graph/_COMMUNITY_Community 120.md
+- [[_COMMUNITY_Community 231]] - document - vault/Graph/_COMMUNITY_Community 231.md
+- [[_COMMUNITY_Community 341]] - document - vault/Graph/_COMMUNITY_Community 341.md
+- [[act()_4]] - document - vault/Graph/act()_2.md
+- [[act()_2_1]] - document - vault/Graph/act()_2.md
+- [[animateXP()_4]] - document - vault/Graph/animateXP()_2.md
+- [[animateXP()_3]] - document - vault/Graph/animateXP()_1.md
+- [[animateXP()_1_1]] - document - vault/Graph/animateXP()_1.md
+- [[animateXP()_2_1]] - document - vault/Graph/animateXP()_2.md
+- [[handle()_4]] - document - vault/Graph/handle()_2.md
+- [[handle()_2_1]] - document - vault/Graph/handle()_2.md
+- [[lockButton()_4]] - document - vault/Graph/lockButton()_2.md
+- [[lockButton()_2_1]] - document - vault/Graph/lockButton()_2.md
+- [[moveStyle()_4]] - document - vault/Graph/moveStyle()_2.md
+- [[moveStyle()_2_1]] - document - vault/Graph/moveStyle()_2.md
+- [[pad()_4]] - document - vault/Graph/pad()_2.md
+- [[pad()_2_1]] - document - vault/Graph/pad()_2.md
+- [[promptText()_4]] - document - vault/Graph/promptText()_2.md
+- [[promptText()_2_1]] - document - vault/Graph/promptText()_2.md
+- [[rearBack()_4]] - document - vault/Graph/rearBack()_2.md
+- [[rearBack()_3]] - document - vault/Graph/rearBack()_1.md
+- [[rearBack()_1_1]] - document - vault/Graph/rearBack()_1.md
+- [[rearBack()_2_1]] - document - vault/Graph/rearBack()_2.md
+- [[setStatus()_3]] - document - vault/Graph/setStatus()_4.md
+- [[setStatus()_4]] - document - vault/Graph/setStatus()_4.md
+- [[showMenu()_4]] - document - vault/Graph/showMenu()_2.md
+- [[showMenu()_2_1]] - document - vault/Graph/showMenu()_2.md
+- [[showOwnTag()_4]] - document - vault/Graph/showOwnTag()_2.md
+- [[showOwnTag()_2_1]] - document - vault/Graph/showOwnTag()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -35,16 +146,69 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 7 edges to [[_COMMUNITY_Community 87]]
-- 4 edges to [[_COMMUNITY_Community 49]]
-- 2 edges to [[_COMMUNITY_Community 107]]
-- 2 edges to [[_COMMUNITY_Community 168]]
-- 2 edges to [[_COMMUNITY_Community 30]]
-- 1 edge to [[_COMMUNITY_Community 193]]
+- 37 edges to [[_COMMUNITY_Community 138]]
+- 29 edges to [[_COMMUNITY_Community 18]]
+- 18 edges to [[_COMMUNITY_Community 167]]
+- 15 edges to [[_COMMUNITY_Community 223]]
+- 12 edges to [[_COMMUNITY_Community 168]]
+- 12 edges to [[_COMMUNITY_Community 790]]
+- 9 edges to [[_COMMUNITY_Community 207]]
+- 9 edges to [[_COMMUNITY_Community 711]]
+- 6 edges to [[_COMMUNITY_Community 348]]
+- 6 edges to [[_COMMUNITY_Community 335]]
+- 6 edges to [[_COMMUNITY_Community 697]]
+- 5 edges to [[_COMMUNITY_Community 134]]
+- 4 edges to [[_COMMUNITY_Community 120]]
+- 4 edges to [[_COMMUNITY_Community 341]]
+- 3 edges to [[_COMMUNITY_Community 1084]]
+- 3 edges to [[_COMMUNITY_Community 149]]
+- 3 edges to [[_COMMUNITY_Community 461]]
+- 3 edges to [[_COMMUNITY_Community 796]]
+- 3 edges to [[_COMMUNITY_Community 797]]
+- 3 edges to [[_COMMUNITY_Community 419]]
+- 2 edges to [[_COMMUNITY_Community 1081]]
+- 2 edges to [[_COMMUNITY_Community 21]]
+- 2 edges to [[_COMMUNITY_Community 892]]
+- 2 edges to [[_COMMUNITY_Community 893]]
+- 2 edges to [[_COMMUNITY_Community 558]]
+- 2 edges to [[_COMMUNITY_Community 791]]
+- 2 edges to [[_COMMUNITY_Community 794]]
+- 2 edges to [[_COMMUNITY_Community 693]]
+- 2 edges to [[_COMMUNITY_Community 327]]
+- 2 edges to [[_COMMUNITY_Community 881]]
+- 2 edges to [[_COMMUNITY_Community 884]]
+- 2 edges to [[_COMMUNITY_Community 503]]
+- 2 edges to [[_COMMUNITY_Community 885]]
+- 2 edges to [[_COMMUNITY_Community 886]]
+- 2 edges to [[_COMMUNITY_Community 888]]
+- 2 edges to [[_COMMUNITY_Community 789]]
+- 1 edge to [[_COMMUNITY_Community 101]]
+- 1 edge to [[_COMMUNITY_Community 12]]
+- 1 edge to [[_COMMUNITY_Community 122]]
+- 1 edge to [[_COMMUNITY_Community 152]]
+- 1 edge to [[_COMMUNITY_Community 162]]
+- 1 edge to [[_COMMUNITY_Community 184]]
+- 1 edge to [[_COMMUNITY_Community 186]]
+- 1 edge to [[_COMMUNITY_Community 197]]
+- 1 edge to [[_COMMUNITY_Community 202]]
+- 1 edge to [[_COMMUNITY_Community 226]]
+- 1 edge to [[_COMMUNITY_Community 240]]
+- 1 edge to [[_COMMUNITY_Community 26]]
+- 1 edge to [[_COMMUNITY_Community 75]]
+- 1 edge to [[_COMMUNITY_Community 527]]
+- 1 edge to [[_COMMUNITY_Community 91]]
+- 1 edge to [[_COMMUNITY_Community 899]]
+- 1 edge to [[_COMMUNITY_Community 467]]
+- 1 edge to [[_COMMUNITY_Community 571]]
+- 1 edge to [[_COMMUNITY_Community 313]]
+- 1 edge to [[_COMMUNITY_Community 93]]
+- 1 edge to [[_COMMUNITY_Community 292]]
+- 1 edge to [[_COMMUNITY_Community 310]]
+- 1 edge to [[_COMMUNITY_Community 97]]
 
 ## Top bridge nodes
-- [[setup()_2]] - degree 12, connects to 5 communities
-- [[PlayerData.addBadge()_1]] - degree 7, connects to 2 communities
-- [[PlayerData.hasBadge()_1]] - degree 6, connects to 2 communities
-- [[commands.badges()_1]] - degree 5, connects to 2 communities
-- [[commands.allBadges()_1]] - degree 5, connects to 2 communities
+- [[_COMMUNITY_Community 120]] - degree 260, connects to 58 communities
+- [[_COMMUNITY_Community 231]] - degree 9, connects to 3 communities
+- [[rearBack()_1_1]] - degree 7, connects to 3 communities
+- [[GameData.medicineOrder()_1_1]] - degree 5, connects to 2 communities
+- [[animateXP()_1_1]] - degree 5, connects to 2 communities

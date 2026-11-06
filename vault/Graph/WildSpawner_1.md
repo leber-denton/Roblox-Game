@@ -12,8 +12,10 @@ tags:
 # WildSpawner_1.md
 
 ## Connections
-- [[GraphWildSpawner]] - `references` [EXTRACTED]
-- [[WildSpawner_1_1]] - `contains` [EXTRACTED]
+- [[GraphWildSpawner_1]] - `references` [EXTRACTED]
+- [[WildSpawner_1_3]] - `contains` [EXTRACTED]
+- [[WildSpawner_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 166]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 78]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_166

@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/setStatus().md"
+source_file: "vault/Graph/setStatus()_4.md"
 type: "document"
-community: "Community 93"
+community: "Community 27"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_27
 ---
 
-# setStatus().md
+# setStatus()_4.md
 
 ## Connections
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[buyResult()_2]] - `references` [EXTRACTED]
-- [[openMenu()_2]] - `references` [EXTRACTED]
+- [[Connections_755_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
 - [[setStatus()_3]] - `contains` [EXTRACTED]
-- [[tabs.Crates()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_27

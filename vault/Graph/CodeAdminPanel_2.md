@@ -1,0 +1,18 @@
+---
+source_file: "vault/Graph/CodeAdminPanel.md"
+type: "document"
+community: "Community 493"
+location: "L12"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_493
+---
+
+# Code/AdminPanel.md
+
+## Connections
+- [[CodeAdminPanel_1]] - `contains` [EXTRACTED]
+- [[Connections_4428]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_493

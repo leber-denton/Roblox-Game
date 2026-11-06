@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/promptText().md"
 type: "document"
-community: "Community 195"
+community: "Community 120"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_120
 ---
 
 # promptText()
 
 ## Connections
-- [[Connections_561]] - `contains` [EXTRACTED]
+- [[Connections_1078]] - `contains` [EXTRACTED]
 - [[promptText()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_120

@@ -12,10 +12,10 @@ tags:
 # regionTour()
 
 ## Connections
-- [[Functions_52]] - `references` [INFERRED]
-- [[Story.client.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_53]] - `references` [INFERRED]
+- [[Story.client.luau_3]] - `contains` [EXTRACTED]
 - [[glow()]] - `calls` [INFERRED]
-- [[new()_2]] - `calls` [EXTRACTED]
+- [[new()]] - `calls` [EXTRACTED]
 - [[play()]] - `calls` [EXTRACTED]
 - [[waitUntilFree()]] - `calls` [EXTRACTED]
 

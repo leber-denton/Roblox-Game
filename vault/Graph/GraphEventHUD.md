@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/EventHUD.md"
+source_file: "vault/Graph/GraphEventHUD.md"
 type: "document"
 community: "Community 126"
 location: "L1"
@@ -9,10 +9,10 @@ tags:
   - community/Community_126
 ---
 
-# Graph/EventHUD.md
+# GraphEventHUD.md
 
 ## Connections
-- [[EventHUD]] - `contains` [EXTRACTED]
-- [[EventHUD_1]] - `references` [EXTRACTED]
+- [[GraphEventHUD_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 126]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_126

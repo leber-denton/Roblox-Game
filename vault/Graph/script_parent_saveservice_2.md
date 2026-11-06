@@ -1,20 +1,19 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 21"
+source_file: "vault/Graph/script_parent_saveservice_2.md"
+type: "document"
+community: "Community 168"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_168
 ---
 
-# script_parent_saveservice
+# script_parent_saveservice_2.md
 
 ## Connections
-- [[ColiseumService.luau_2]] - `imports` [EXTRACTED]
-- [[DecorService.luau]] - `imports` [EXTRACTED]
-- [[ProgressService.luau]] - `imports` [EXTRACTED]
-- [[SocialService.luau]] - `imports` [EXTRACTED]
-- [[StoryService.luau]] - `imports` [EXTRACTED]
+- [[_COMMUNITY_Community 148]] - `references` [EXTRACTED]
+- [[script_parent_saveservice_3]] - `contains` [EXTRACTED]
+- [[script_parent_saveservice_1]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_168

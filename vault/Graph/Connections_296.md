@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.finEars().md"
+source_file: "vault/Graph/Functions_27_1.md"
 type: "document"
-community: "Community 137"
+community: "Community 1127"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1127
 ---
 
 # Connections
 
 ## Connections
-- [[Features.finEars()_2]] - `contains` [EXTRACTED]
+- [[Functions_27]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1127

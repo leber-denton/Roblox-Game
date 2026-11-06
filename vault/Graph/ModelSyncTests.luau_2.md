@@ -1,22 +1,18 @@
 ---
-source_file: "tests/ModelSyncTests.luau"
-type: "code"
-community: "Community 5"
-location: "L1"
+source_file: "vault/Graph/ModelSyncTests.luau_2.md"
+type: "document"
+community: "Community 1429"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_5
+  - community/Community_1429
 ---
 
-# ModelSyncTests.luau
+# ModelSyncTests.luau_2.md
 
 ## Connections
-- [[Tests.run()]] - `contains` [EXTRACTED]
-- [[near()]] - `contains` [EXTRACTED]
-- [[pivotOf()]] - `contains` [EXTRACTED]
-- [[sameCF()]] - `contains` [EXTRACTED]
-- [[scaleOf()]] - `contains` [EXTRACTED]
-- [[snapshotReal()]] - `contains` [EXTRACTED]
+- [[Connections_1786]] - `contains` [EXTRACTED]
+- [[ModelSyncTests.luau_2_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_5
+#graphify/document #graphify/EXTRACTED #community/Community_1429

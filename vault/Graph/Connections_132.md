@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/EventHUD.client.luau.md"
+source_file: "vault/Graph/lockRegion().md"
 type: "document"
-community: "Community 116"
+community: "Community 105"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_116
+  - community/Community_105
 ---
 
 # Connections
 
 ## Connections
-- [[EventHUD.client.luau_1]] - `contains` [EXTRACTED]
+- [[lockRegion()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_116
+#graphify/document #graphify/EXTRACTED #community/Community_105

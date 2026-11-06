@@ -12,7 +12,7 @@ tags:
 # TrainerAnimations.new()
 
 ## Connections
-- [[Connections_336]] - `contains` [EXTRACTED]
+- [[Connections_1788]] - `contains` [EXTRACTED]
 - [[TrainerAnimations.new()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_143

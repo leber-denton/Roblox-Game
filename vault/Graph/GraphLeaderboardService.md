@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/LeaderboardService.md"
+source_file: "vault/Graph/GraphLeaderboardService.md"
 type: "document"
 community: "Community 128"
 location: "L1"
@@ -9,10 +9,11 @@ tags:
   - community/Community_128
 ---
 
-# Graph/LeaderboardService.md
+# GraphLeaderboardService.md
 
 ## Connections
-- [[LeaderboardService]] - `contains` [EXTRACTED]
+- [[GraphLeaderboardService_1]] - `contains` [EXTRACTED]
 - [[LeaderboardService_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 128]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_128

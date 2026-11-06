@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GameData.medicineOrder().md"
+source_file: "vault/Graph/zeroStages()_1.md"
 type: "document"
-community: "Community 103"
+community: "Community 101"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_103
+  - community/Community_101
 ---
 
 # Connections
 
 ## Connections
-- [[GameData.medicineOrder()_2]] - `contains` [EXTRACTED]
+- [[zeroStages()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_103
+#graphify/document #graphify/EXTRACTED #community/Community_101

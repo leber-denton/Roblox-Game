@@ -12,7 +12,9 @@ tags:
 # Showcase.server.luau.md
 
 ## Connections
-- [[Showcase.server.luau_1]] - `contains` [EXTRACTED]
+- [[Showcase.server.luau_3]] - `contains` [EXTRACTED]
+- [[Showcase.server.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 220]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 83]] - `references` [EXTRACTED]
 - [[serverstorage_waitforchild]] - `references` [EXTRACTED]
 

@@ -13,8 +13,9 @@ tags:
 
 ## Connections
 - [[StoryService.luau_1]] - `references` [EXTRACTED]
+- [[StoryService.luau_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
-- [[atBadge()_1]] - `references` [EXTRACTED]
+- [[atBadge()_3]] - `references` [EXTRACTED]
 - [[count()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

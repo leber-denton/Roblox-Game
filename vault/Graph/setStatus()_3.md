@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/setStatus().md"
+source_file: "vault/Graph/setStatus()_4.md"
 type: "document"
-community: "Community 387"
+community: "Community 27"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_387
+  - community/Community_27
 ---
 
 # setStatus()
 
 ## Connections
-- [[Connections_914]] - `contains` [EXTRACTED]
+- [[Connections_3544]] - `contains` [EXTRACTED]
 - [[setStatus()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_387
+#graphify/document #graphify/EXTRACTED #community/Community_27

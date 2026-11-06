@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/skipped().md"
+source_file: "vault/Graph/NpcGuard_2.md"
 type: "document"
-community: "Community 105"
+community: "Community 102"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_105
+  - community/Community_102
 ---
 
 # Connections
 
 ## Connections
-- [[skipped()_2]] - `contains` [EXTRACTED]
+- [[NpcGuard_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_105
+#graphify/document #graphify/EXTRACTED #community/Community_102

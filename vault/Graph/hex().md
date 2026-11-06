@@ -12,7 +12,7 @@ tags:
 # hex()
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[typeText()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_7

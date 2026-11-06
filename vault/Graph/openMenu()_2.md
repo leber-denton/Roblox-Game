@@ -1,21 +1,18 @@
 ---
 source_file: "vault/Graph/openMenu().md"
 type: "document"
-community: "Community 93"
-location: "L1"
+community: "Community 63"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_63
 ---
 
-# openMenu().md
+# openMenu()
 
 ## Connections
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[call()_2]] - `references` [EXTRACTED]
+- [[Connections_4856]] - `contains` [EXTRACTED]
 - [[openMenu()_1]] - `contains` [EXTRACTED]
-- [[setStatus()_4]] - `references` [EXTRACTED]
-- [[stopBuild()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_63

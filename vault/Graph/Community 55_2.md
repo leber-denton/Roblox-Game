@@ -1,0 +1,21 @@
+---
+source_file: "vault/Graph/_COMMUNITY_Community 55.md"
+type: "document"
+community: "Community 926"
+location: "L6"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_926
+---
+
+# Community 55
+
+## Connections
+- [[Connections to other communities_411]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_455]] - `contains` [EXTRACTED]
+- [[Members_455]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_413]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 55]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_926

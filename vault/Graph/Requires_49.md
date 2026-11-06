@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_49.md"
+source_file: "vault/Code/AdminService.md"
 type: "document"
-community: "Community 160"
-location: "L1"
+community: "Community 17"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_160
+  - community/Community_17
 ---
 
-# Requires_49.md
+# Requires
 
 ## Connections
-- [[PlayerData_1]] - `references` [EXTRACTED]
-- [[Requires_46]] - `references` [EXTRACTED]
-- [[Requires_49_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 72]] - `references` [EXTRACTED]
+- [[AdminService_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_160
+#graphify/document #graphify/EXTRACTED #community/Community_17

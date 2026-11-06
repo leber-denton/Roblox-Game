@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 349
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_876]] - document - vault/Graph/Requires_15.md
-- [[Requires_78]] - document - vault/Graph/Requires_15.md
-- [[Requires_15_1]] - document - vault/Graph/Requires_15.md
+- [[Connections_4045]] - document - vault/Graph/Connections_274.md
+- [[Connections_4046]] - document - vault/Graph/Connections_274.md
+- [[Connections_4047]] - document - vault/Graph/Connections_275.md
+- [[Connections_4048]] - document - vault/Graph/Connections_275.md
+- [[Connections_274_1]] - document - vault/Graph/Connections_274.md
+- [[Connections_275_1]] - document - vault/Graph/Connections_275.md
 
 ## Live Query (requires Dataview plugin)
 

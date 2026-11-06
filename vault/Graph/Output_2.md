@@ -12,6 +12,6 @@ tags:
 # Output
 
 ## Connections
-- [[ship_2]] - `contains` [EXTRACTED]
+- [[ship_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_60

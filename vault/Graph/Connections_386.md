@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/tryPutAway().md"
+source_file: "vault/Graph/linesFor()_1.md"
 type: "document"
-community: "Community 151"
+community: "Community 1155"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_151
+  - community/Community_1155
 ---
 
 # Connections
 
 ## Connections
-- [[tryPutAway()_2]] - `contains` [EXTRACTED]
+- [[linesFor()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_151
+#graphify/document #graphify/EXTRACTED #community/Community_1155

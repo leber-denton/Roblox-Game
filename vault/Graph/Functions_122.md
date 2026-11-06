@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Code/ShowcaseBuilder.md"
+source_file: "vault/Graph/Functions_122.md"
 type: "document"
-community: "Community 8"
-location: "L11"
+community: "Community 189"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_189
 ---
 
-# Functions
+# Functions_122.md
 
 ## Connections
-- [[ShowcaseBuilder_2]] - `contains` [EXTRACTED]
-- [[categories()]] - `references` [INFERRED]
+- [[Functions_122_1]] - `contains` [EXTRACTED]
+- [[Functions_17_1]] - `references` [EXTRACTED]
+- [[ShowcaseBuilder_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 136]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
+- [[categories()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_8
+#graphify/document #graphify/EXTRACTED #community/Community_189

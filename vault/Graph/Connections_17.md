@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_24.md"
+source_file: "vault/Graph/Connections_17.md"
 type: "document"
-community: "Community 102"
-location: "L14"
+community: "Community 1007"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_102
+  - community/Community_1007
 ---
 
-# Connections
+# Connections_17.md
 
 ## Connections
-- [[Functions_24_1]] - `contains` [EXTRACTED]
+- [[Connections_15]] - `contains` [EXTRACTED]
+- [[script_parent_arenamanager]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_102
+#graphify/document #graphify/EXTRACTED #community/Community_1007

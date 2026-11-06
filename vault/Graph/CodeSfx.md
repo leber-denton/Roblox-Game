@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/Sfx.md"
+source_file: "vault/Graph/CodeSfx.md"
 type: "document"
-community: "Community 74"
-location: "L1"
+community: "Community 1392"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_74
+  - community/Community_1392
 ---
 
-# Code/Sfx.md
+# CodeSfx.md
 
 ## Connections
-- [[CodeBattleUI]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[CodeHUD]] - `references` [EXTRACTED]
-- [[Sfx_2]] - `contains` [EXTRACTED]
+- [[CodeSfx_1]] - `contains` [EXTRACTED]
+- [[Connections_1719]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_74
+#graphify/document #graphify/EXTRACTED #community/Community_1392

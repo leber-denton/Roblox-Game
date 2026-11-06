@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/AdminService.init().md"
+source_file: "vault/Graph/AdminService.init()_2.md"
 type: "document"
-community: "Community 95"
-location: "L12"
+community: "Community 334"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_95
+  - community/Community_334
 ---
 
-# AdminService.init()
+# AdminService.init()_2.md
 
 ## Connections
-- [[AdminService.init()_1]] - `contains` [EXTRACTED]
-- [[Connections_1157]] - `contains` [EXTRACTED]
+- [[AdminService.init()_1]] - `references` [EXTRACTED]
+- [[AdminService.init()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 334]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 95]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_95
+#graphify/document #graphify/EXTRACTED #community/Community_334

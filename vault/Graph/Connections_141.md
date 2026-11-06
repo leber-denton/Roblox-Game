@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ArenaManager_1.md"
+source_file: "vault/Graph/clearBody().md"
 type: "document"
-community: "Community 118"
+community: "Community 106"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_118
+  - community/Community_106
 ---
 
 # Connections
 
 ## Connections
-- [[ArenaManager_1_1]] - `contains` [EXTRACTED]
+- [[clearBody()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_118
+#graphify/document #graphify/EXTRACTED #community/Community_106

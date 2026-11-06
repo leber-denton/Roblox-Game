@@ -1,17 +1,18 @@
 ---
-source_file: "claude/launch-checklist.md"
+source_file: "vault/Graph/Assumptions_2.md"
 type: "document"
-community: "Community 40"
-location: "L27"
+community: "Community 1381"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_40
+  - community/Community_1381
 ---
 
-# Assumptions
+# Assumptions_2.md
 
 ## Connections
-- [[Creature Quest Catch & Battle Launch Checklist_2]] - `contains` [EXTRACTED]
+- [[Assumptions_2_1]] - `contains` [EXTRACTED]
+- [[Connections_1696]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_40
+#graphify/document #graphify/EXTRACTED #community/Community_1381

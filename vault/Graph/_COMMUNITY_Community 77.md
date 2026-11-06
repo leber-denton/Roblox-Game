@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Functions_118]] - document - vault/Code/WeeklyEventService.md
-- [[Required by_115]] - document - vault/Code/WeeklyEventService.md
-- [[Requires_116]] - document - vault/Code/WeeklyEventService.md
-- [[WeeklyEventService_2]] - document - vault/Code/WeeklyEventService.md
+- [[Functions_180]] - document - vault/Code/WeeklyEventService.md
+- [[Required by_174]] - document - vault/Code/WeeklyEventService.md
+- [[Requires_180]] - document - vault/Code/WeeklyEventService.md
+- [[WeeklyEventService_3]] - document - vault/Code/WeeklyEventService.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,4 +24,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[WeeklyEventService_2]] - degree 4, connects to 1 community
+- [[WeeklyEventService_3]] - degree 4, connects to 1 community

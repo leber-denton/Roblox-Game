@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.dragon().md"
+source_file: "vault/Graph/Connections_357.md"
 type: "document"
-community: "Community 137"
+community: "Community 1128"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1128
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.dragon()_2]] - `contains` [EXTRACTED]
+- [[Connections_299]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1128

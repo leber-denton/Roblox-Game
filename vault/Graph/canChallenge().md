@@ -16,6 +16,6 @@ tags:
 - [[GameData.canEnter()]] - `calls` [INFERRED]
 - [[PlayerData.hasBeatenTrainer()]] - `calls` [INFERRED]
 - [[RouteTrainerService.init()]] - `calls` [EXTRACTED]
-- [[RouteTrainerService.luau]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.luau_3]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/INFERRED #community/Community_15

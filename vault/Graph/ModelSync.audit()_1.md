@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/ModelSync.audit().md"
 type: "document"
-community: "Community 226"
+community: "Community 112"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_112
 ---
 
 # ModelSync.audit().md
@@ -19,4 +19,4 @@ tags:
 - [[resolvePath()_1]] - `references` [EXTRACTED]
 - [[showcaseModels()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_112

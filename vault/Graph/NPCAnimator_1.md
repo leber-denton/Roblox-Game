@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/NPCAnimator_1.md"
+source_file: "vault/Code/NPCAnimator.md"
 type: "document"
-community: "Community 99"
+community: "Community 39"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_99
+  - community/Community_39
 ---
 
-# NPCAnimator_1.md
+# NPCAnimator
 
 ## Connections
-- [[NPCAnimator_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 39]] - `references` [EXTRACTED]
+- [[CodeNPCAnimator]] - `contains` [EXTRACTED]
+- [[Functions_129]] - `contains` [EXTRACTED]
+- [[Required by_115]] - `contains` [EXTRACTED]
+- [[Requires_125]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_99
+#graphify/document #graphify/EXTRACTED #community/Community_39

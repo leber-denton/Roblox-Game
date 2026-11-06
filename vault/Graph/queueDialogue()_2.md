@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/queueDialogue().md"
 type: "document"
-community: "Community 341"
+community: "Community 1315"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_341
+  - community/Community_1315
 ---
 
 # queueDialogue()
 
 ## Connections
-- [[Connections_868]] - `contains` [EXTRACTED]
+- [[Connections_1385]] - `contains` [EXTRACTED]
 - [[queueDialogue()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_341
+#graphify/document #graphify/EXTRACTED #community/Community_1315

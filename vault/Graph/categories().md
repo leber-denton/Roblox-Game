@@ -1,21 +1,21 @@
 ---
 source_file: "src/ServerStorage/ShowcaseBuilder.luau"
 type: "code"
-community: "Community 8"
+community: "Community 250"
 location: "L97"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_250
 ---
 
 # categories()
 
 ## Connections
-- [[Functions_122]] - `references` [INFERRED]
+- [[Functions_173]] - `references` [INFERRED]
 - [[ShowcaseBuilder.build()]] - `calls` [EXTRACTED]
-- [[ShowcaseBuilder.luau_2]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.luau_3]] - `contains` [EXTRACTED]
 - [[galleryTrainers()]] - `calls` [EXTRACTED]
 - [[sourceOf()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_8
+#graphify/code #graphify/EXTRACTED #community/Community_250

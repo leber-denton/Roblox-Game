@@ -12,7 +12,7 @@ tags:
 # DecorData.footprint()
 
 ## Connections
-- [[Connections_1041]] - `contains` [EXTRACTED]
+- [[Connections_5734]] - `contains` [EXTRACTED]
 - [[DecorData.footprint()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_86

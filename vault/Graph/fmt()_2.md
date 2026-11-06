@@ -12,7 +12,7 @@ tags:
 # fmt()
 
 ## Connections
-- [[Connections_133]] - `contains` [EXTRACTED]
+- [[Connections_399]] - `contains` [EXTRACTED]
 - [[fmt()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_116

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CreatureBuilder.luau.md"
+source_file: "vault/Graph/Connections_186.md"
 type: "document"
-community: "Community 144"
+community: "Community 1142"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_144
+  - community/Community_1142
 ---
 
 # Connections
 
 ## Connections
-- [[CreatureBuilder.luau_1]] - `contains` [EXTRACTED]
+- [[Connections_339]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_144
+#graphify/document #graphify/EXTRACTED #community/Community_1142

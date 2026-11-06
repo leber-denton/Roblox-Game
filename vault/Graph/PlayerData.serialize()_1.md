@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/PlayerData.serialize().md"
+source_file: "vault/Graph/PlayerData.serialize()_1.md"
 type: "document"
-community: "Community 41"
+community: "Community 835"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_835
 ---
 
-# PlayerData.serialize().md
+# PlayerData.serialize()_1.md
 
 ## Connections
-- [[PlayerData.luau_1]] - `references` [EXTRACTED]
-- [[PlayerData.serialize()_2]] - `contains` [EXTRACTED]
-- [[SaveService.save()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
+- [[PlayerData.serialize()_3]] - `contains` [EXTRACTED]
+- [[PlayerData.serialize()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/document #graphify/EXTRACTED #community/Community_835

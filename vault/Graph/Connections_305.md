@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/makeGhost().md"
+source_file: "vault/Graph/ArenaManager.acquire().md"
 type: "document"
-community: "Community 138"
+community: "Community 113"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_113
 ---
 
 # Connections
 
 ## Connections
-- [[makeGhost()_2]] - `contains` [EXTRACTED]
+- [[ArenaManager.acquire()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_113

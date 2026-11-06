@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/DecorService.initPlayer().md"
+source_file: "vault/Graph/DecorService.initPlayer()_1.md"
 type: "document"
 community: "Community 199"
 location: "L1"
@@ -9,13 +9,14 @@ tags:
   - community/Community_199
 ---
 
-# DecorService.initPlayer().md
+# DecorService.initPlayer()_1.md
 
 ## Connections
-- [[DecorService.initPlayer()_2]] - `contains` [EXTRACTED]
-- [[DecorService.luau_1]] - `references` [EXTRACTED]
+- [[DecorService.initPlayer()_1_1]] - `contains` [EXTRACTED]
+- [[DecorService.initPlayer()_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 199]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 291]] - `references` [EXTRACTED]
 - [[defaults()_2]] - `references` [EXTRACTED]
-- [[onPlayerAdded()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_199

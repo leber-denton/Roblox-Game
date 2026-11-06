@@ -1,19 +1,17 @@
 ---
-source_file: "vault/Code/FirstSpawnLock.md"
+source_file: "vault/Code/CreatureLife.md"
 type: "document"
-community: "Community 35"
+community: "Community 28"
 location: "L10"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_35
+  - graphify/EXTRACTED
+  - community/Community_28
 ---
 
 # Functions
 
 ## Connections
-- [[FirstSpawnLock]] - `contains` [EXTRACTED]
-- [[isLocked()]] - `references` [INFERRED]
-- [[unlockAll()]] - `references` [INFERRED]
+- [[CreatureLife]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_35
+#graphify/document #graphify/EXTRACTED #community/Community_28

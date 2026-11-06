@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/HavocBlimpFlight.md"
+source_file: "vault/Code/FirstSpawnLock.md"
 type: "document"
-community: "Community 54"
+community: "Community 35"
 location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_54
+  - community/Community_35
 ---
 
 # Required by
 
 ## Connections
-- [[HavocBlimpFlight_2]] - `contains` [EXTRACTED]
+- [[FirstSpawnLock]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_54
+#graphify/document #graphify/EXTRACTED #community/Community_35

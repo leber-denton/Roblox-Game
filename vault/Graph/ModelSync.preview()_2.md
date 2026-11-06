@@ -12,7 +12,7 @@ tags:
 # ModelSync.preview()
 
 ## Connections
-- [[Connections_105]] - `contains` [EXTRACTED]
+- [[Connections_271]] - `contains` [EXTRACTED]
 - [[ModelSync.preview()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_112

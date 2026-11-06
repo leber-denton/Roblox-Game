@@ -1,24 +1,23 @@
 ---
-source_file: "vault/Graph/BaseManager.recalcCapacity().md"
+source_file: "vault/Graph/BaseManager.recalcCapacity()_1.md"
 type: "document"
-community: "Community 42"
+community: "Community 12"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_12
 ---
 
-# BaseManager.recalcCapacity().md
+# BaseManager.recalcCapacity()_1.md
 
 ## Connections
-- [[BaseManager.assign()_1]] - `references` [EXTRACTED]
 - [[BaseManager.isExpansionUnlocked()_1]] - `references` [EXTRACTED]
 - [[BaseManager.luau_1]] - `references` [EXTRACTED]
-- [[BaseManager.recalcCapacity()_2]] - `contains` [EXTRACTED]
-- [[BaseManager.restore()_1]] - `references` [EXTRACTED]
-- [[BaseManager.unlockExpansion()_1]] - `references` [EXTRACTED]
+- [[BaseManager.recalcCapacity()_1_1]] - `contains` [EXTRACTED]
+- [[BaseManager.recalcCapacity()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[apply()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_12

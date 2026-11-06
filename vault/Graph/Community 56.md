@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 56.md"
+source_file: "vault/Graph/Community 56.md"
 type: "document"
-community: "Community 129"
-location: "L6"
+community: "Community 449"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_129
+  - community/Community_449
 ---
 
-# Community 56
+# Community 56.md
 
 ## Connections
-- [[Connections to other communities_6]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_10]] - `contains` [EXTRACTED]
-- [[Members_10]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_6]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 56]] - `contains` [EXTRACTED]
+- [[Community 56_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 129]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 56]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_129
+#graphify/document #graphify/EXTRACTED #community/Community_449

@@ -1,28 +1,18 @@
 ---
-source_file: "vault/Graph/setup().md"
+source_file: "vault/Graph/setup()_4.md"
 type: "document"
-community: "Community 27"
-location: "L1"
+community: "Community 734"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_27
+  - community/Community_734
 ---
 
 # setup().md
 
 ## Connections
-- [[BattleService.onEnded()_1]] - `references` [EXTRACTED]
-- [[GameData.badgesForLane()_1]] - `references` [EXTRACTED]
-- [[GameData.canEnter()_1]] - `references` [EXTRACTED]
-- [[GymService.init()_1]] - `references` [EXTRACTED]
-- [[GymService.luau]] - `references` [EXTRACTED]
-- [[NPC.prompt()_1]] - `references` [EXTRACTED]
-- [[NPC.say()_1]] - `references` [EXTRACTED]
-- [[PlayerData.addBadge()_1]] - `references` [EXTRACTED]
-- [[PlayerData.addItem()_1]] - `references` [EXTRACTED]
-- [[PlayerData.hasBadge()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
-- [[setup()_3]] - `contains` [EXTRACTED]
+- [[Connections_5209]] - `contains` [EXTRACTED]
+- [[setup()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_27
+#graphify/document #graphify/EXTRACTED #community/Community_734

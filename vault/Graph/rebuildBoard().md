@@ -1,18 +1,18 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/Menus.client.luau"
 type: "code"
-community: "Community 19"
+community: "Community 418"
 location: "L778"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_418
 ---
 
 # rebuildBoard()
 
 ## Connections
-- [[Menus.client.luau]] - `contains` [EXTRACTED]
+- [[Menus.client.luau_4]] - `contains` [EXTRACTED]
 - [[rebuildBoard()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_19
+#graphify/code #graphify/EXTRACTED #community/Community_418

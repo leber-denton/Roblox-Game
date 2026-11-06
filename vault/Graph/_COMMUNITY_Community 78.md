@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Functions_119]] - document - vault/Code/WildSpawner.md
-- [[Required by_116]] - document - vault/Code/WildSpawner.md
-- [[Requires_117]] - document - vault/Code/WildSpawner.md
-- [[WildSpawner_2]] - document - vault/Code/WildSpawner.md
+- [[Functions_181]] - document - vault/Code/WildSpawner.md
+- [[Required by_175]] - document - vault/Code/WildSpawner.md
+- [[Requires_181]] - document - vault/Code/WildSpawner.md
+- [[WildSpawner_3]] - document - vault/Code/WildSpawner.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,4 +24,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[WildSpawner_2]] - degree 4, connects to 1 community
+- [[WildSpawner_3]] - degree 4, connects to 1 community

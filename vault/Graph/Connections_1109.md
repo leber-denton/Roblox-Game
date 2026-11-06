@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/closeEnough().md"
+source_file: "vault/Graph/Connections_551.md"
 type: "document"
-community: "Community 9"
+community: "Community 1205"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_1205
 ---
 
 # Connections
 
 ## Connections
-- [[closeEnough()_2]] - `contains` [EXTRACTED]
+- [[Connections_1107]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_1205

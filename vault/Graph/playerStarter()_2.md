@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/playerStarter().md"
+source_file: "vault/Graph/playerStarter()_1.md"
 type: "document"
-community: "Community 30"
+community: "Community 1185"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_1185
 ---
 
-# playerStarter()
+# playerStarter().md
 
 ## Connections
-- [[Connections_764]] - `contains` [EXTRACTED]
+- [[Connections_591]] - `contains` [EXTRACTED]
 - [[playerStarter()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_1185

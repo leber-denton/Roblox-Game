@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/CreatureIndex.md"
+source_file: "vault/Graph/Requires_4.md"
 type: "document"
-community: "Community 19"
-location: "L4"
+community: "Community 194"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_194
 ---
 
 # Requires
 
 ## Connections
-- [[CreatureIndex_1]] - `contains` [EXTRACTED]
+- [[Connections_2838]] - `contains` [EXTRACTED]
+- [[Requires_4_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_19
+#graphify/document #graphify/EXTRACTED #community/Community_194

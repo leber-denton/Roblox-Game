@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 307
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_792]] - document - vault/Graph/commands.capacity().md
-- [[commands.capacity()_2]] - document - vault/Graph/commands.capacity().md
-- [[commands.capacity()_1]] - document - vault/Graph/commands.capacity().md
+- [[Connections_3706]] - document - vault/Graph/Connections_830.md
+- [[Connections_3707]] - document - vault/Graph/Connections_830.md
+- [[Connections_3708]] - document - vault/Graph/ServerScriptService_1.md
+- [[Connections_830_1]] - document - vault/Graph/Connections_830.md
+- [[ServerScriptService_3]] - document - vault/Graph/ServerScriptService_1.md
+- [[ServerScriptService_1_1]] - document - vault/Graph/ServerScriptService_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,8 +23,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 224]]
+- 1 edge to [[_COMMUNITY_Community 110]]
 
 ## Top bridge nodes
-- [[commands.capacity()_1]] - degree 3, connects to 2 communities
+- [[ServerScriptService_1_1]] - degree 3, connects to 1 community

@@ -1,29 +1,27 @@
 ---
-source_file: "vault/Code/AdminService.md"
+source_file: "vault/Graph/CodeAdminService.md"
 type: "document"
-community: "Community 13"
+community: "Community 119"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_119
 ---
 
-# Code/AdminService.md
+# CodeAdminService.md
 
 ## Connections
-- [[AdminService_2]] - `contains` [EXTRACTED]
-- [[CodeBaseManager]] - `references` [EXTRACTED]
+- [[CodeAdminService_1]] - `contains` [EXTRACTED]
 - [[CodeBattleData]] - `references` [EXTRACTED]
 - [[CodeBattleService]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
 - [[CodeGameData]] - `references` [EXTRACTED]
 - [[CodeMain]] - `references` [EXTRACTED]
 - [[CodePlayerData]] - `references` [EXTRACTED]
 - [[CodeRareEventService]] - `references` [EXTRACTED]
-- [[CodeStoryService]] - `references` [EXTRACTED]
 - [[CodeTutorialService]] - `references` [EXTRACTED]
 - [[CodeWeeklyEventService]] - `references` [EXTRACTED]
-- [[CodeWildSpawner]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_119

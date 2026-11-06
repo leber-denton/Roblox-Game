@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/commands.storm().md"
 type: "document"
-community: "Community 168"
+community: "Community 1122"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1122
 ---
 
 # commands.storm()
 
 ## Connections
-- [[Connections_466]] - `contains` [EXTRACTED]
+- [[Connections_286]] - `contains` [EXTRACTED]
 - [[commands.storm()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1122

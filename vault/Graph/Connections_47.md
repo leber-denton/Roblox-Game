@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/LeaderboardService.refresh().md"
+source_file: "vault/Graph/atBadge()_1.md"
 type: "document"
-community: "Community 104"
+community: "Community 1015"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_104
+  - community/Community_1015
 ---
 
 # Connections
 
 ## Connections
-- [[LeaderboardService.refresh()_2]] - `contains` [EXTRACTED]
+- [[atBadge()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_104
+#graphify/document #graphify/EXTRACTED #community/Community_1015

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_18.md"
+source_file: "vault/Graph/BattleData.movesAt()_1.md"
 type: "document"
-community: "Community 107"
+community: "Community 1024"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_107
+  - community/Community_1024
 ---
 
 # Connections
 
 ## Connections
-- [[Required by_4]] - `contains` [EXTRACTED]
+- [[BattleData.movesAt()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_107
+#graphify/document #graphify/EXTRACTED #community/Community_1024

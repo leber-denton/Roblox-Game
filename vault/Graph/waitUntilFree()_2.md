@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/waitUntilFree().md"
+source_file: "vault/Graph/waitUntilFree()_2.md"
 type: "document"
-community: "Community 234"
-location: "L12"
+community: "Community 122"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_122
 ---
 
-# waitUntilFree()
+# waitUntilFree()_2.md
 
 ## Connections
-- [[Connections_686]] - `contains` [EXTRACTED]
-- [[waitUntilFree()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 234]] - `references` [EXTRACTED]
+- [[waitUntilFree()_1]] - `references` [EXTRACTED]
+- [[waitUntilFree()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_122

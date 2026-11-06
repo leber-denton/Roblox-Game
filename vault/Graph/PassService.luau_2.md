@@ -1,28 +1,18 @@
 ---
-source_file: "src/ServerScriptService/Modules/PassService.luau"
-type: "code"
-community: "Community 22"
-location: "L1"
+source_file: "vault/Graph/PassService.luau.md"
+type: "document"
+community: "Community 144"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_22
+  - community/Community_144
 ---
 
-# PassService.luau
+# PassService.luau.md
 
 ## Connections
-- [[GameData.luau_2]] - `imports` [EXTRACTED]
-- [[Main.server.luau_2]] - `imports` [EXTRACTED]
-- [[PassService.check()]] - `contains` [EXTRACTED]
-- [[PassService.init()]] - `contains` [EXTRACTED]
-- [[PassService.onCharacter()]] - `contains` [EXTRACTED]
-- [[PassService.onLoaded()]] - `contains` [EXTRACTED]
-- [[addTrail()]] - `contains` [EXTRACTED]
-- [[apply()_1]] - `contains` [EXTRACTED]
-- [[heal()]] - `contains` [EXTRACTED]
-- [[requestSave()]] - `contains` [EXTRACTED]
-- [[script_parent_basemanager_2]] - `imports` [EXTRACTED]
-- [[setupProducts()]] - `contains` [EXTRACTED]
+- [[Connections_1812]] - `contains` [EXTRACTED]
+- [[PassService.luau]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_22
+#graphify/document #graphify/EXTRACTED #community/Community_144

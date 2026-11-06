@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/NPCLife.md"
+source_file: "vault/Graph/Required by_98.md"
 type: "document"
-community: "Community 58"
-location: "L7"
+community: "Community 1332"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_58
+  - community/Community_1332
 ---
 
-# Required by
+# Required by_98.md
 
 ## Connections
-- [[NPCLife_2]] - `contains` [EXTRACTED]
+- [[Required by_21]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_58
+#graphify/document #graphify/EXTRACTED #community/Community_1332

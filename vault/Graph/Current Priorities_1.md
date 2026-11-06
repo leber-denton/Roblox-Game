@@ -12,7 +12,10 @@ tags:
 # Current Priorities_1.md
 
 ## Connections
-- [[Current Priorities_2]] - `contains` [EXTRACTED]
+- [[Current Priorities_1_1]] - `contains` [EXTRACTED]
+- [[Current Priorities_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 216]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 32]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 88]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_88

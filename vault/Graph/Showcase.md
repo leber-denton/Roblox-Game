@@ -12,7 +12,7 @@ tags:
 # Showcase
 
 ## Connections
-- [[Connections_729]] - `contains` [EXTRACTED]
-- [[GraphShowcase]] - `contains` [EXTRACTED]
+- [[Connections_3446]] - `contains` [EXTRACTED]
+- [[GraphShowcase_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_247

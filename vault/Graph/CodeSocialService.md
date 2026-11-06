@@ -1,25 +1,24 @@
 ---
-source_file: "vault/Code/SocialService.md"
+source_file: "vault/Graph/CodeSocialService.md"
 type: "document"
-community: "Community 13"
+community: "Community 119"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_119
 ---
 
-# Code/SocialService.md
+# CodeSocialService.md
 
 ## Connections
-- [[CodeBaseManager]] - `references` [EXTRACTED]
 - [[CodeBattleService]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
 - [[CodeColiseumService]] - `references` [EXTRACTED]
-- [[CodeCreatureBuilder]] - `references` [EXTRACTED]
 - [[CodeGameData]] - `references` [EXTRACTED]
 - [[CodeMain]] - `references` [EXTRACTED]
 - [[CodeSaveService]] - `references` [EXTRACTED]
-- [[SocialService]] - `contains` [EXTRACTED]
+- [[CodeSocialService_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_119

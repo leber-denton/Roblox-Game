@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/promptAt().md"
+source_file: "vault/Graph/promptAt()_1.md"
 type: "document"
-community: "Community 9"
+community: "Community 780"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_780
 ---
 
-# promptAt().md
+# promptAt()_1.md
 
 ## Connections
-- [[SocialService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
+- [[Connections_548_1]] - `references` [EXTRACTED]
 - [[promptAt()_2]] - `contains` [EXTRACTED]
-- [[setupCommunity()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_780

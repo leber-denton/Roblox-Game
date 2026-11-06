@@ -12,7 +12,7 @@ tags:
 # check()
 
 ## Connections
-- [[Connections_317]] - `contains` [EXTRACTED]
-- [[check()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_1729]] - `contains` [EXTRACTED]
+- [[check()_2_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_140

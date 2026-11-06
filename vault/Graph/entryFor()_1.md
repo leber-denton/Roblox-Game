@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/entryFor().md"
 type: "document"
-community: "Community 226"
+community: "Community 112"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_112
 ---
 
 # entryFor().md
@@ -18,4 +18,4 @@ tags:
 - [[findTargets()_1]] - `references` [EXTRACTED]
 - [[isReference()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_112

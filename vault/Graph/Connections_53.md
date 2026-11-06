@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/lockOther().md"
+source_file: "vault/Graph/BaseManager.findById()_2.md"
 type: "document"
-community: "Community 105"
+community: "Community 1018"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_105
+  - community/Community_1018
 ---
 
 # Connections
 
 ## Connections
-- [[lockOther()_2]] - `contains` [EXTRACTED]
+- [[BaseManager.findById()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_105
+#graphify/document #graphify/EXTRACTED #community/Community_1018

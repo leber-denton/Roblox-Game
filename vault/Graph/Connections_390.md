@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/DecorService_1.md"
+source_file: "vault/Graph/Connections_428.md"
 type: "document"
-community: "Community 153"
-location: "L14"
+community: "Community 1157"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_153
+  - community/Community_1157
 ---
 
 # Connections
 
 ## Connections
-- [[DecorService_1_1]] - `contains` [EXTRACTED]
+- [[Connections_391]] - `contains` [EXTRACTED]
+- [[Connections_428]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_153
+#graphify/document #graphify/EXTRACTED #community/Community_1157

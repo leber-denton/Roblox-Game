@@ -1,19 +1,22 @@
 ---
-source_file: "vault/Graph/WildSpawner.rollVariant().md"
+source_file: "vault/Graph/WildSpawner.rollVariant()_1.md"
 type: "document"
-community: "Community 23"
+community: "Community 265"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_23
+  - community/Community_265
 ---
 
-# WildSpawner.rollVariant().md
+# WildSpawner.rollVariant()_1.md
 
 ## Connections
-- [[WildSpawner.rollVariant()_2]] - `contains` [EXTRACTED]
+- [[WildSpawner.rollVariant()_1_1]] - `contains` [EXTRACTED]
+- [[WildSpawner.rollVariant()_2]] - `references` [EXTRACTED]
 - [[WildSpawner.spawnOne()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 23]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 26]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 265]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_23
+#graphify/document #graphify/EXTRACTED #community/Community_265

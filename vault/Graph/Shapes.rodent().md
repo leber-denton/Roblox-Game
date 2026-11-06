@@ -12,7 +12,7 @@ tags:
 # Shapes.rodent()
 
 ## Connections
-- [[CreatureBuilder.luau_2]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_5]] - `contains` [EXTRACTED]
 - [[darker()]] - `calls` [EXTRACTED]
 - [[lighter()]] - `calls` [EXTRACTED]
 

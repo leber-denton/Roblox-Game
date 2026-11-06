@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/WildSpawner.luau.md"
+source_file: "vault/Graph/Connections_1056.md"
 type: "document"
-community: "Community 144"
+community: "Community 1145"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_144
+  - community/Community_1145
 ---
 
 # Connections
 
 ## Connections
-- [[WildSpawner.luau_1]] - `contains` [EXTRACTED]
+- [[Connections_346]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_144
+#graphify/document #graphify/EXTRACTED #community/Community_1145

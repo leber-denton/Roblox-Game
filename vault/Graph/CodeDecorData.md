@@ -13,9 +13,9 @@ tags:
 
 ## Connections
 - [[CodeBaseManager]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[CodeDecorService]] - `references` [EXTRACTED]
+- [[CodeCode Map_2]] - `references` [EXTRACTED]
+- [[CodeDecorService_2]] - `references` [EXTRACTED]
 - [[CodeDecorUI]] - `references` [EXTRACTED]
-- [[DecorData_2]] - `contains` [EXTRACTED]
+- [[DecorData_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_13

@@ -12,7 +12,7 @@ tags:
 # DungeonService.enter()
 
 ## Connections
-- [[DungeonService.luau]] - `contains` [EXTRACTED]
+- [[DungeonService.luau_3]] - `contains` [EXTRACTED]
 - [[hipHeight()]] - `calls` [EXTRACTED]
 - [[room()]] - `calls` [EXTRACTED]
 - [[streamTo()]] - `calls` [EXTRACTED]

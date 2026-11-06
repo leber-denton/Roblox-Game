@@ -12,7 +12,7 @@ tags:
 # TrainerAnimations:play()
 
 ## Connections
-- [[Connections_338]] - `contains` [EXTRACTED]
+- [[Connections_1790]] - `contains` [EXTRACTED]
 - [[TrainerAnimationsplay()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_143

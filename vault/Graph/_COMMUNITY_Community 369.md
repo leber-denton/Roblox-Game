@@ -1,16 +1,22 @@
 ---
 type: community
-members: 3
+members: 9
 ---
 
 # Community 369
 
-**Members:** 3 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_896]] - document - vault/Graph/trainerTag().md
-- [[trainerTag()_2]] - document - vault/Graph/trainerTag().md
-- [[trainerTag()_1]] - document - vault/Graph/trainerTag().md
+- [[Connections_4094]] - document - vault/Graph/Connections_1099.md
+- [[Connections_4095]] - document - vault/Graph/Connections_1099.md
+- [[Connections_4096]] - document - vault/Graph/Features.blush()_1.md
+- [[Connections_4097]] - document - vault/Graph/Features.blush()_2.md
+- [[Connections_1099_1]] - document - vault/Graph/Connections_1099.md
+- [[Features.blush()_4]] - document - vault/Graph/Features.blush()_2.md
+- [[Features.blush()_3]] - document - vault/Graph/Features.blush()_1.md
+- [[Features.blush()_1_1]] - document - vault/Graph/Features.blush()_1.md
+- [[Features.blush()_2_1]] - document - vault/Graph/Features.blush()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +26,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 23]]
+- 3 edges to [[_COMMUNITY_Community 151]]
+- 1 edge to [[_COMMUNITY_Community 137]]
+- 1 edge to [[_COMMUNITY_Community 176]]
 
 ## Top bridge nodes
-- [[trainerTag()_1]] - degree 2, connects to 1 community
+- [[Features.blush()_1_1]] - degree 5, connects to 3 communities
+- [[Features.blush()_2_1]] - degree 4, connects to 1 community
+- [[Connections_1099_1]] - degree 3, connects to 1 community

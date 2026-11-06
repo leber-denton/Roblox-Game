@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Code/Sprint.md"
+source_file: "vault/Graph/Functions_65.md"
 type: "document"
-community: "Community 222"
-location: "L10"
+community: "Community 1420"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_222
+  - community/Community_1420
 ---
 
-# Functions
+# Functions_65.md
 
 ## Connections
-- [[Sprint_2]] - `contains` [EXTRACTED]
-- [[targetSpeed()]] - `references` [INFERRED]
+- [[Connections_1777]] - `contains` [EXTRACTED]
+- [[Functions_65_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_222
+#graphify/document #graphify/EXTRACTED #community/Community_1420

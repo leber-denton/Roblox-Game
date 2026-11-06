@@ -12,7 +12,7 @@ tags:
 # hubCFrame()
 
 ## Connections
-- [[Connections_192]] - `contains` [EXTRACTED]
+- [[Connections_1222]] - `contains` [EXTRACTED]
 - [[hubCFrame()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_123

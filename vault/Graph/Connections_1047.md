@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DecorData.zRange().md"
+source_file: "vault/Graph/spawnModel()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[DecorData.zRange()_2]] - `contains` [EXTRACTED]
+- [[spawnModel()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_12

@@ -1,16 +1,28 @@
 ---
 type: community
-members: 3
+members: 15
 ---
 
 # Community 375
 
-**Members:** 3 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_902]] - document - vault/Graph/updateVisible().md
-- [[updateVisible()_7]] - document - vault/Graph/updateVisible().md
-- [[updateVisible()_6]] - document - vault/Graph/updateVisible().md
+- [[Community 21_2]] - document - vault/Graph/Community 21.md
+- [[Community 21_1]] - document - vault/Graph/Community 21.md
+- [[Community 263]] - document - vault/Graph/_COMMUNITY_Community 263.md
+- [[Community 375]] - document - vault/Graph/_COMMUNITY_Community 375.md
+- [[Connections_4117]] - document - vault/Graph/Community 21.md
+- [[Connections to other communities_289]] - document - vault/Graph/_COMMUNITY_Community 263.md
+- [[Connections to other communities_290]] - document - vault/Graph/_COMMUNITY_Community 375.md
+- [[Live Query (requires Dataview plugin)_321]] - document - vault/Graph/_COMMUNITY_Community 263.md
+- [[Live Query (requires Dataview plugin)_322]] - document - vault/Graph/_COMMUNITY_Community 375.md
+- [[Members_326]] - document - vault/Graph/_COMMUNITY_Community 263.md
+- [[Members_327]] - document - vault/Graph/_COMMUNITY_Community 375.md
+- [[Top bridge nodes_294]] - document - vault/Graph/_COMMUNITY_Community 263.md
+- [[Top bridge nodes_295]] - document - vault/Graph/_COMMUNITY_Community 375.md
+- [[_COMMUNITY_Community 263]] - document - vault/Graph/_COMMUNITY_Community 263.md
+- [[_COMMUNITY_Community 375]] - document - vault/Graph/_COMMUNITY_Community 375.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,8 +32,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 100]]
-- 1 edge to [[_COMMUNITY_Community 178]]
+- 3 edges to [[_COMMUNITY_Community 168]]
 
 ## Top bridge nodes
-- [[updateVisible()_6]] - degree 3, connects to 2 communities
+- [[_COMMUNITY_Community 263]] - degree 4, connects to 1 community
+- [[Community 21_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 375]] - degree 3, connects to 1 community

@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/script_parent_weeklyeventservice.md"
+source_file: "vault/Graph/script_parent_weeklyeventservice_1.md"
 type: "document"
-community: "Community 148"
-location: "L1"
+community: "Community 168"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_148
+  - community/Community_168
 ---
 
 # script_parent_weeklyeventservice.md
 
 ## Connections
-- [[ColiseumService.luau]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
+- [[Connections_2416]] - `contains` [EXTRACTED]
 - [[script_parent_weeklyeventservice_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_148
+#graphify/document #graphify/EXTRACTED #community/Community_168

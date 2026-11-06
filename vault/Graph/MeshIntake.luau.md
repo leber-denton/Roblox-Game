@@ -12,7 +12,8 @@ tags:
 # MeshIntake.luau.md
 
 ## Connections
-- [[MeshIntake.luau_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 79]] - `references` [EXTRACTED]
+- [[MeshIntake.luau_4]] - `contains` [EXTRACTED]
+- [[MeshIntake.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 190]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_190

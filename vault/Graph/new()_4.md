@@ -1,24 +1,30 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Bag.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/DecorUI.client.luau"
 type: "code"
-community: "Community 20"
-location: "L21"
+community: "Community 3"
+location: "L40"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_20
+  - community/Community_3
 ---
 
 # new()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
-- [[ballIcon()]] - `calls` [EXTRACTED]
-- [[label()_1]] - `calls` [EXTRACTED]
-- [[refresh()_1]] - `calls` [EXTRACTED]
-- [[round()_1]] - `calls` [EXTRACTED]
-- [[showDetail()_1]] - `calls` [EXTRACTED]
-- [[showPicker()_1]] - `calls` [EXTRACTED]
-- [[showTradeHistory()]] - `calls` [EXTRACTED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[button()]] - `calls` [EXTRACTED]
+- [[gridLayout()]] - `calls` [EXTRACTED]
+- [[itemCard()]] - `calls` [EXTRACTED]
+- [[label()_2]] - `calls` [EXTRACTED]
+- [[listLayout()]] - `calls` [EXTRACTED]
+- [[makeGhost()]] - `calls` [EXTRACTED]
+- [[preview()]] - `calls` [EXTRACTED]
+- [[round()_2]] - `calls` [EXTRACTED]
+- [[tabs.Crates()]] - `calls` [EXTRACTED]
+- [[tabs.Daily()]] - `calls` [EXTRACTED]
+- [[tabs.Items()]] - `calls` [EXTRACTED]
+- [[tabs.Robux()]] - `calls` [EXTRACTED]
+- [[tabs.Themes()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_20
+#graphify/code #graphify/EXTRACTED #community/Community_3

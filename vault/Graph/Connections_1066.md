@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/fire().md"
+source_file: "vault/Graph/handle().md"
 type: "document"
-community: "Community 87"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_87
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[fire()_2]] - `contains` [EXTRACTED]
+- [[handle()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_87
+#graphify/document #graphify/EXTRACTED #community/Community_120

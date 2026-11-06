@@ -15,6 +15,6 @@ tags:
 - [[DecorData.boxOdds()_2]] - `contains` [EXTRACTED]
 - [[DecorData.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[tabs.Crates()_2]] - `references` [EXTRACTED]
+- [[tabs.Crates()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_86

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/go().md"
+source_file: "vault/Graph/CodeSocialService.md"
 type: "document"
-community: "Community 212"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_212
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[go()_2]] - `contains` [EXTRACTED]
+- [[CodeSocialService_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_212
+#graphify/document #graphify/EXTRACTED #community/Community_119

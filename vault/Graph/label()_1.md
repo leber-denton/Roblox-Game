@@ -1,23 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Bag.client.luau"
+source_file: "src/ServerStorage/ShowcaseBuilder.luau"
 type: "code"
-community: "Community 20"
-location: "L32"
+community: "Community 250"
+location: "L130"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_20
+  - community/Community_250
 ---
 
 # label()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
-- [[ballIcon()]] - `calls` [EXTRACTED]
-- [[new()_4]] - `calls` [EXTRACTED]
-- [[refresh()_1]] - `calls` [EXTRACTED]
-- [[showDetail()_1]] - `calls` [EXTRACTED]
-- [[showPicker()_1]] - `calls` [EXTRACTED]
-- [[showTradeHistory()]] - `calls` [EXTRACTED]
+- [[ShowcaseBuilder.build()]] - `calls` [EXTRACTED]
+- [[ShowcaseBuilder.luau_3]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_20
+#graphify/code #graphify/EXTRACTED #community/Community_250

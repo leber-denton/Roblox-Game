@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/BattleService.onEnded().md"
+source_file: "vault/Graph/BattleService.onEnded()_2.md"
 type: "document"
-community: "Community 87"
-location: "L12"
+community: "Community 134"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_87
+  - community/Community_134
 ---
 
-# BattleService.onEnded()
+# BattleService.onEnded()_2.md
 
 ## Connections
-- [[BattleService.onEnded()_1]] - `contains` [EXTRACTED]
-- [[Connections_1055]] - `contains` [EXTRACTED]
+- [[BattleService.onEnded()_4]] - `contains` [EXTRACTED]
+- [[BattleService.onEnded()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_87
+#graphify/document #graphify/EXTRACTED #community/Community_134

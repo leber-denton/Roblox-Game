@@ -9,11 +9,11 @@ members: 8
 
 ## Members
 - [[CodeNPCAnimator]] - document - vault/Code/NPCAnimator.md
-- [[Functions_92]] - document - vault/Code/NPCAnimator.md
-- [[NPCAnimator]] - document - vault/Code/NPCAnimator.md
+- [[Functions_129]] - document - vault/Code/NPCAnimator.md
+- [[NPCAnimator_1]] - document - vault/Code/NPCAnimator.md
 - [[NPCAnimator.server.luau]] - code - src/ServerScriptService/NPCAnimator.server.luau
-- [[Required by_89]] - document - vault/Code/NPCAnimator.md
-- [[Requires_90]] - document - vault/Code/NPCAnimator.md
+- [[Required by_115]] - document - vault/Code/NPCAnimator.md
+- [[Requires_125]] - document - vault/Code/NPCAnimator.md
 - [[animate()]] - code - src/ServerScriptService/NPCAnimator.server.luau
 - [[buildQuestWorld()]] - code - src/ServerScriptService/NPCAnimator.server.luau
 

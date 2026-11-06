@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/NPCAnimator.md"
+source_file: "vault/Graph/Connections_1187.md"
 type: "document"
-community: "Community 99"
-location: "L14"
+community: "Community 1150"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_99
+  - community/Community_1150
 ---
 
-# Connections
+# Connections_1187.md
 
 ## Connections
-- [[NPCAnimator_3]] - `contains` [EXTRACTED]
+- [[Connections_369]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 139]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_99
+#graphify/document #graphify/EXTRACTED #community/Community_1150

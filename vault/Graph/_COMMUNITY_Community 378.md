@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 378
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_905]] - document - vault/Graph/WildSpawner.setHotZone().md
-- [[WildSpawner.setHotZone()_2]] - document - vault/Graph/WildSpawner.setHotZone().md
-- [[WildSpawner.setHotZone()_1]] - document - vault/Graph/WildSpawner.setHotZone().md
+- [[Community 265]] - document - vault/Graph/_COMMUNITY_Community 265.md
+- [[Connections to other communities_293]] - document - vault/Graph/_COMMUNITY_Community 265.md
+- [[Live Query (requires Dataview plugin)_325]] - document - vault/Graph/_COMMUNITY_Community 265.md
+- [[Members_330]] - document - vault/Graph/_COMMUNITY_Community 265.md
+- [[Top bridge nodes_298]] - document - vault/Graph/_COMMUNITY_Community 265.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 23]]
+- 1 edge to [[_COMMUNITY_Community 168]]
 
 ## Top bridge nodes
-- [[WildSpawner.setHotZone()_1]] - degree 2, connects to 1 community
+- [[Community 265]] - degree 5, connects to 1 community

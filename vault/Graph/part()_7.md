@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/part()_1.md"
+source_file: "vault/Graph/part().md"
 type: "document"
-community: "Community 89"
-location: "L12"
+community: "Community 24"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_89
+  - community/Community_24
 ---
 
-# part()
+# part().md
 
 ## Connections
-- [[Connections_1097]] - `contains` [EXTRACTED]
-- [[part()_1_1]] - `contains` [EXTRACTED]
+- [[StoryService.luau_1]] - `references` [EXTRACTED]
+- [[StoryService.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
+- [[part()_11]] - `contains` [EXTRACTED]
+- [[setupWorld()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_89
+#graphify/document #graphify/EXTRACTED #community/Community_24

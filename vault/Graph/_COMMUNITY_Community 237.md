@@ -1,19 +1,22 @@
 ---
 type: community
-members: 6
+members: 9
 ---
 
 # Community 237
 
-**Members:** 6 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_690]] - document - vault/Graph/openLanes().md
-- [[Connections_691]] - document - vault/Graph/RareEventService.summon().md
-- [[RareEventService.summon()_2]] - document - vault/Graph/RareEventService.summon().md
-- [[RareEventService.summon()_1]] - document - vault/Graph/RareEventService.summon().md
-- [[openLanes()_2]] - document - vault/Graph/openLanes().md
-- [[openLanes()_1]] - document - vault/Graph/openLanes().md
+- [[Connections_3307]] - document - vault/Graph/btn()_1.md
+- [[Connections_3308]] - document - vault/Graph/btn()_2.md
+- [[Connections_3309]] - document - vault/Graph/Connections_89.md
+- [[Connections_3310]] - document - vault/Graph/Connections_89.md
+- [[Connections_89_1]] - document - vault/Graph/Connections_89.md
+- [[btn()_3]] - document - vault/Graph/btn()_1.md
+- [[btn()_1]] - document - vault/Graph/btn()_1.md
+- [[btn()_2]] - document - vault/Graph/btn()_2.md
+- [[btn()_2_1]] - document - vault/Graph/btn()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,11 +26,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 53]]
-- 2 edges to [[_COMMUNITY_Community 316]]
-- 2 edges to [[_COMMUNITY_Community 41]]
-- 1 edge to [[_COMMUNITY_Community 242]]
+- 1 edge to [[_COMMUNITY_Community 98]]
+- 1 edge to [[_COMMUNITY_Community 292]]
 
 ## Top bridge nodes
-- [[RareEventService.summon()_1]] - degree 7, connects to 3 communities
-- [[openLanes()_1]] - degree 6, connects to 3 communities
+- [[btn()_2]] - degree 4, connects to 2 communities

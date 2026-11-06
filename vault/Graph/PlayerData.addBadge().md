@@ -15,7 +15,7 @@ tags:
 - [[PlayerData.luau]] - `contains` [EXTRACTED]
 - [[commands.allBadges()]] - `calls` [INFERRED]
 - [[commands.badges()]] - `calls` [INFERRED]
-- [[setup()_1]] - `calls` [INFERRED]
+- [[setup()]] - `calls` [INFERRED]
 - [[sync()_1]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/INFERRED #community/Community_11

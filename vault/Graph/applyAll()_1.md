@@ -12,6 +12,10 @@ tags:
 # applyAll().md
 
 ## Connections
+- [[Functions_39_2]] - `references` [EXTRACTED]
+- [[Functions_64]] - `references` [EXTRACTED]
+- [[Regions.client.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 215]] - `references` [EXTRACTED]
 - [[apply()_3]] - `references` [EXTRACTED]
 - [[applyAll()_2]] - `contains` [EXTRACTED]
 

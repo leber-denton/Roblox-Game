@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/script_parent_socialservice.md"
+source_file: "vault/Graph/script_parent_socialservice_1.md"
 type: "document"
-community: "Community 148"
-location: "L1"
+community: "Community 168"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_148
+  - community/Community_168
 ---
 
 # script_parent_socialservice.md
 
 ## Connections
-- [[ColiseumService.luau]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
+- [[Connections_2415]] - `contains` [EXTRACTED]
 - [[script_parent_socialservice_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_148
+#graphify/document #graphify/EXTRACTED #community/Community_168

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/sundayKey().md"
+source_file: "vault/Graph/arrowPart().md"
 type: "document"
-community: "Community 123"
+community: "Community 109"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_109
 ---
 
 # Connections
 
 ## Connections
-- [[sundayKey()_2]] - `contains` [EXTRACTED]
+- [[arrowPart()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_109

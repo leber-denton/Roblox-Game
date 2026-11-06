@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Index.md"
+source_file: "vault/Graph/Map_2.md"
 type: "document"
-community: "Community 32"
-location: "L5"
+community: "Community 88"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_32
+  - community/Community_88
 ---
 
-# Map
+# Map_2.md
 
 ## Connections
-- [[Creature Quest Vault — Start Here_2]] - `contains` [EXTRACTED]
+- [[Map_3]] - `contains` [EXTRACTED]
+- [[Map_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 196]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_32
+#graphify/document #graphify/EXTRACTED #community/Community_88

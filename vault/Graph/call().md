@@ -12,7 +12,7 @@ tags:
 # call()
 
 ## Connections
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[openMenu()]] - `calls` [EXTRACTED]
 - [[tabs.Base()]] - `calls` [EXTRACTED]
 - [[tabs.Crates()]] - `calls` [EXTRACTED]

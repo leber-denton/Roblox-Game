@@ -1,20 +1,20 @@
 ---
 source_file: "vault/Graph/closeEnough().md"
 type: "document"
-community: "Community 9"
+community: "Community 49"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_49
 ---
 
 # closeEnough().md
 
 ## Connections
-- [[SocialService.luau_1]] - `references` [EXTRACTED]
+- [[SocialService.luau_4]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
 - [[closeEnough()_2]] - `contains` [EXTRACTED]
-- [[tradeLocation()_1]] - `references` [EXTRACTED]
+- [[tradeLocation()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_49

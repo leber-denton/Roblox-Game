@@ -1,17 +1,18 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 29"
+source_file: "vault/Graph/json_2.md"
+type: "document"
+community: "Community 582"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_29
+  - community/Community_582
 ---
 
-# json
+# json_2.md
 
 ## Connections
-- [[gen_coliseum.py]] - `imports` [EXTRACTED]
-- [[gen_trade_beach.py]] - `imports` [EXTRACTED]
+- [[json_3]] - `contains` [EXTRACTED]
+- [[json_1]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_29
+#graphify/document #graphify/EXTRACTED #community/Community_582

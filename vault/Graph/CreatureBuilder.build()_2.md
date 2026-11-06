@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/CreatureBuilder.build().md"
+source_file: "vault/Graph/CreatureBuilder.build()_2.md"
 type: "document"
-community: "Community 167"
-location: "L12"
+community: "Community 176"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_167
+  - community/Community_176
 ---
 
-# CreatureBuilder.build()
+# CreatureBuilder.build()_2.md
 
 ## Connections
-- [[Connections_458]] - `contains` [EXTRACTED]
-- [[CreatureBuilder.build()_1]] - `contains` [EXTRACTED]
+- [[Connections_1094_1]] - `references` [EXTRACTED]
+- [[CreatureBuilder.build()_4]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.build()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_167
+#graphify/document #graphify/EXTRACTED #community/Community_176

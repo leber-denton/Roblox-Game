@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/LeaderboardService.luau.md"
+source_file: "vault/Graph/LeaderboardService.luau_1.md"
 type: "document"
 community: "Community 144"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,9 +12,7 @@ tags:
 # LeaderboardService.luau.md
 
 ## Connections
-- [[GameData.luau]] - `references` [EXTRACTED]
+- [[Connections_1806]] - `contains` [EXTRACTED]
 - [[LeaderboardService.luau_1]] - `contains` [EXTRACTED]
-- [[Main.server.luau]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_144

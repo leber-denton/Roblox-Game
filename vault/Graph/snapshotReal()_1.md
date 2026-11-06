@@ -12,7 +12,8 @@ tags:
 # snapshotReal().md
 
 ## Connections
-- [[Tests.run()_1]] - `references` [EXTRACTED]
+- [[ModelSyncTests.luau_1]] - `references` [EXTRACTED]
+- [[Tests.run()_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
 - [[snapshotReal()_2]] - `contains` [EXTRACTED]
 

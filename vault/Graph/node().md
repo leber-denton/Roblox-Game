@@ -12,6 +12,6 @@ tags:
 # node()
 
 ## Connections
-- [[gen_trade_beach.py]] - `contains` [EXTRACTED]
+- [[gen_trade_beach.py_2]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_29

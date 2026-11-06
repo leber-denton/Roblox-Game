@@ -1,21 +1,23 @@
 ---
 type: community
-members: 27
+members: 29
 ---
 
 # Community 17
 
-**Members:** 27 nodes
+**Members:** 29 nodes
 
 ## Members
 - [[AdminService_2]] - document - vault/Code/AdminService.md
 - [[AdminService.init()]] - code - src/ServerScriptService/Modules/AdminService.luau
 - [[AdminService.isAdmin()]] - code - src/ServerScriptService/Modules/AdminService.luau
-- [[AdminService.luau_2]] - code - src/ServerScriptService/Modules/AdminService.luau
-- [[Functions_48]] - document - vault/Code/AdminService.md
-- [[Required by_53]] - document - vault/Code/AdminService.md
-- [[Requires_53]] - document - vault/Code/AdminService.md
+- [[AdminService.luau_3]] - code - src/ServerScriptService/Modules/AdminService.luau
+- [[Functions_45]] - document - vault/Code/AdminService.md
+- [[PlayerData.markTrainerBeaten()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[Required by_43]] - document - vault/Code/AdminService.md
+- [[Requires_49]] - document - vault/Code/AdminService.md
 - [[StoryService.chat()]] - code - src/ServerScriptService/Modules/StoryService.luau
+- [[commands.beatTrainers()]] - code - src/ServerScriptService/Modules/AdminService.luau
 - [[commands.bp()]] - code - src/ServerScriptService/Modules/AdminService.luau
 - [[commands.capacity()]] - code - src/ServerScriptService/Modules/AdminService.luau
 - [[commands.coins()]] - code - src/ServerScriptService/Modules/AdminService.luau
@@ -44,22 +46,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 8 edges to [[_COMMUNITY_Community 16]]
-- 4 edges to [[_COMMUNITY_Community 11]]
-- 3 edges to [[_COMMUNITY_Community 21]]
+- 10 edges to [[_COMMUNITY_Community 16]]
+- 8 edges to [[_COMMUNITY_Community 11]]
+- 4 edges to [[_COMMUNITY_Community 15]]
 - 3 edges to [[_COMMUNITY_Community 2]]
-- 2 edges to [[_COMMUNITY_Community 15]]
-- 2 edges to [[_COMMUNITY_Community 12]]
-- 1 edge to [[_COMMUNITY_Community 135]]
+- 2 edges to [[_COMMUNITY_Community 22]]
 - 1 edge to [[_COMMUNITY_Community 14]]
-- 1 edge to [[_COMMUNITY_Community 6]]
 - 1 edge to [[_COMMUNITY_Community 13]]
-- 1 edge to [[_COMMUNITY_Community 22]]
-- 1 edge to [[_COMMUNITY_Community 7]]
 
 ## Top bridge nodes
-- [[AdminService.luau_2]] - degree 39, connects to 10 communities
+- [[AdminService.luau_3]] - degree 39, connects to 5 communities
+- [[PlayerData.markTrainerBeaten()]] - degree 3, connects to 2 communities
 - [[give()]] - degree 6, connects to 1 community
 - [[AdminService_2]] - degree 4, connects to 1 community
 - [[commands.finishTutorial()]] - degree 3, connects to 1 community
-- [[commands.bp()]] - degree 2, connects to 1 community

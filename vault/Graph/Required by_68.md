@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/ColiseumUI.md"
+source_file: "vault/Code/BattleData.md"
 type: "document"
-community: "Community 240"
+community: "Community 25"
 location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_25
 ---
 
 # Required by
 
 ## Connections
-- [[ColiseumUI_2]] - `contains` [EXTRACTED]
+- [[BattleData]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_25

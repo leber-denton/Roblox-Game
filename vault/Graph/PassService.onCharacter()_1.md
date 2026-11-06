@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/PassService.onCharacter().md"
+source_file: "vault/Graph/PassService.onCharacter()_1.md"
 type: "document"
-community: "Community 41"
+community: "Community 624"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_624
 ---
 
-# PassService.onCharacter().md
+# PassService.onCharacter()_1.md
 
 ## Connections
+- [[Connections_485_1]] - `references` [EXTRACTED]
 - [[PassService.onCharacter()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[addTrail()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/document #graphify/EXTRACTED #community/Community_624

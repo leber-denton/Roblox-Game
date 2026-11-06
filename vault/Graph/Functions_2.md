@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/Functions_4.md"
+source_file: "vault/Graph/Functions.md"
 type: "document"
-community: "Community 102"
-location: "L12"
+community: "Community 100"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_102
+  - community/Community_100
 ---
 
-# Functions
+# Functions.md
 
 ## Connections
-- [[Connections_18]] - `contains` [EXTRACTED]
-- [[Functions_4]] - `contains` [EXTRACTED]
+- [[Functions_3]] - `contains` [EXTRACTED]
+- [[GraphMusic]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[applyMute()_1]] - `references` [EXTRACTED]
+- [[targetVolume()_1]] - `references` [EXTRACTED]
+- [[wanted()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_102
+#graphify/document #graphify/EXTRACTED #community/Community_100

@@ -12,7 +12,7 @@ tags:
 # consider()
 
 ## Connections
-- [[LockedLanes.client.luau_2]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_3]] - `contains` [EXTRACTED]
 - [[isOther()]] - `calls` [EXTRACTED]
 - [[lockOther()]] - `calls` [EXTRACTED]
 - [[lockPart()]] - `calls` [EXTRACTED]

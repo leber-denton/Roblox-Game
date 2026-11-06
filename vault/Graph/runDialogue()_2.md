@@ -12,7 +12,7 @@ tags:
 # runDialogue()
 
 ## Connections
-- [[Connections_82]] - `contains` [EXTRACTED]
+- [[Connections_211]] - `contains` [EXTRACTED]
 - [[runDialogue()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_109

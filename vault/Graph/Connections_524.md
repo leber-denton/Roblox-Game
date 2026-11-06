@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.blob().md"
+source_file: "vault/Graph/ModelSync.preview()_1.md"
 type: "document"
-community: "Community 180"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_180
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.blob()_2]] - `contains` [EXTRACTED]
+- [[ModelSync.preview()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_180
+#graphify/document #graphify/EXTRACTED #community/Community_117

@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/hex().md"
 type: "document"
-community: "Community 250"
+community: "Community 120"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_250
+  - community/Community_120
 ---
 
 # hex().md
@@ -16,4 +16,4 @@ tags:
 - [[hex()_2]] - `contains` [EXTRACTED]
 - [[typeText()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_250
+#graphify/document #graphify/EXTRACTED #community/Community_120

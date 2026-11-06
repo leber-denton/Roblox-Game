@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/clear().md"
 type: "document"
-community: "Community 201"
+community: "Community 203"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_201
+  - community/Community_203
 ---
 
 # clear()
 
 ## Connections
-- [[Connections_584]] - `contains` [EXTRACTED]
+- [[Connections_2968]] - `contains` [EXTRACTED]
 - [[clear()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_201
+#graphify/document #graphify/EXTRACTED #community/Community_203

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/game_replicatedstorage_shared_gamedata.md"
+source_file: "vault/Graph/game_replicatedstorage_shared_gamedata_1.md"
 type: "document"
-community: "Community 140"
-location: "L12"
+community: "Community 413"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_140
+  - community/Community_413
 ---
 
-# game_replicatedstorage_shared_gamedata.md
+# game_replicatedstorage_shared_gamedata_1.md
 
 ## Connections
-- [[Connections_318]] - `contains` [EXTRACTED]
+- [[WildShiftTests.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 140]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
 - [[game_replicatedstorage_shared_gamedata]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_140
+#graphify/document #graphify/EXTRACTED #community/Community_413

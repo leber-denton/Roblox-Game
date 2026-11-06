@@ -12,7 +12,7 @@ tags:
 # TrainerAnimations:stopAll()
 
 ## Connections
-- [[Connections_339]] - `contains` [EXTRACTED]
+- [[Connections_1791]] - `contains` [EXTRACTED]
 - [[TrainerAnimationsstopAll()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_143

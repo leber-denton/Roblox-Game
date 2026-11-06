@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Assumptions.md"
+source_file: "vault/Graph/Assumptions_1.md"
 type: "document"
-community: "Community 108"
-location: "L12"
+community: "Community 1117"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_1117
 ---
 
-# Assumptions.md
+# Assumptions_1.md
 
 ## Connections
 - [[Assumptions]] - `contains` [EXTRACTED]
-- [[Connections_72]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 40]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_1117

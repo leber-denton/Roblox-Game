@@ -1,18 +1,18 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau"
 type: "code"
-community: "Community 19"
+community: "Community 421"
 location: "L244"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_421
 ---
 
 # targetValue()
 
 ## Connections
-- [[Functions_53]] - `references` [INFERRED]
-- [[Tutorial.client.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_137]] - `references` [INFERRED]
+- [[Tutorial.client.luau_5]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_19
+#graphify/code #graphify/EXTRACTED #community/Community_421

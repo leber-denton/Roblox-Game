@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[CreatureBuilder.build()]] - `calls` [EXTRACTED]
-- [[CreatureBuilder.luau_2]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_5]] - `contains` [EXTRACTED]
 - [[Features.finEars()]] - `calls` [EXTRACTED]
 - [[Features.swirlTail()]] - `calls` [EXTRACTED]
 - [[Shapes.crystal()]] - `calls` [EXTRACTED]

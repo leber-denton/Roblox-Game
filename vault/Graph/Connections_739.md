@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/script_parent_waitforchild.md"
+source_file: "vault/Graph/Connections_554.md"
 type: "document"
-community: "Community 26"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_26
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[script_parent_waitforchild_1]] - `contains` [EXTRACTED]
+- [[Connections_740]] - `contains` [EXTRACTED]
+- [[Connections_554_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_26
+#graphify/document #graphify/EXTRACTED #community/Community_12

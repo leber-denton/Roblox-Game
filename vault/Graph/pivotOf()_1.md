@@ -12,6 +12,7 @@ tags:
 # pivotOf().md
 
 ## Connections
+- [[ModelSyncTests.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
 - [[pivotOf()_2]] - `contains` [EXTRACTED]
 

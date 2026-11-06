@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/grey().md"
+source_file: "vault/Graph/BaseManager.findById()_1.md"
 type: "document"
-community: "Community 105"
+community: "Community 1017"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_105
+  - community/Community_1017
 ---
 
 # Connections
 
 ## Connections
-- [[grey()_2]] - `contains` [EXTRACTED]
+- [[BaseManager.findById()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_105
+#graphify/document #graphify/EXTRACTED #community/Community_1017

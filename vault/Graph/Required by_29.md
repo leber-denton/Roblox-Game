@@ -1,20 +1,18 @@
 ---
 source_file: "vault/Graph/Required by_29.md"
 type: "document"
-community: "Community 118"
+community: "Community 156"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_118
+  - community/Community_156
 ---
 
 # Required by_29.md
 
 ## Connections
-- [[ArenaManager_1]] - `references` [EXTRACTED]
-- [[Required by_29_1]] - `contains` [EXTRACTED]
-- [[Required by_5_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 50]] - `references` [EXTRACTED]
+- [[Required by_28]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 187]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_118
+#graphify/document #graphify/EXTRACTED #community/Community_156

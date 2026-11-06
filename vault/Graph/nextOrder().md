@@ -12,10 +12,10 @@ tags:
 # nextOrder()
 
 ## Connections
-- [[AdminPanel.client.luau]] - `contains` [EXTRACTED]
-- [[Functions_76]] - `references` [INFERRED]
-- [[header()_1]] - `calls` [EXTRACTED]
-- [[row()_2]] - `calls` [EXTRACTED]
+- [[AdminPanel.client.luau_3]] - `contains` [EXTRACTED]
+- [[Functions_98]] - `references` [INFERRED]
+- [[header()_2]] - `calls` [EXTRACTED]
+- [[row()_3]] - `calls` [EXTRACTED]
 - [[tabs.Crates()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

@@ -9,9 +9,9 @@ members: 4
 
 ## Members
 - [[CreatureBuilder]] - document - vault/Code/CreatureBuilder.md
-- [[Functions_75]] - document - vault/Code/CreatureBuilder.md
-- [[Required by_77]] - document - vault/Code/CreatureBuilder.md
-- [[Requires_75]] - document - vault/Code/CreatureBuilder.md
+- [[Functions_96]] - document - vault/Code/CreatureBuilder.md
+- [[Required by_75]] - document - vault/Code/CreatureBuilder.md
+- [[Requires_79]] - document - vault/Code/CreatureBuilder.md
 
 ## Live Query (requires Dataview plugin)
 

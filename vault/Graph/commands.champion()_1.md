@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/commands.champion().md"
+source_file: "vault/Graph/commands.champion()_2.md"
 type: "document"
-community: "Community 34"
-location: "L1"
+community: "Community 168"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_34
+  - community/Community_168
 ---
 
 # commands.champion().md
 
 ## Connections
-- [[AdminService.luau]] - `references` [EXTRACTED]
-- [[PlayerData.addStat()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 21]] - `references` [EXTRACTED]
+- [[Connections_2203]] - `contains` [EXTRACTED]
 - [[commands.champion()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_34
+#graphify/document #graphify/EXTRACTED #community/Community_168

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/flash().md"
+source_file: "vault/Graph/Required by_92.md"
 type: "document"
-community: "Community 197"
+community: "Community 118"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_197
+  - community/Community_118
 ---
 
 # Connections
 
 ## Connections
-- [[flash()_2]] - `contains` [EXTRACTED]
+- [[Required by_92_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_197
+#graphify/document #graphify/EXTRACTED #community/Community_118

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/LeagueService_1.md"
+source_file: "vault/Graph/LeagueService_1_1.md"
 type: "document"
 community: "Community 156"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_156
 ---
 
-# LeagueService_1.md
+# LeagueService_1_1.md
 
 ## Connections
-- [[Connections_416]] - `contains` [EXTRACTED]
-- [[LeagueService_1]] - `contains` [EXTRACTED]
+- [[LeagueService_1_2]] - `contains` [EXTRACTED]
+- [[LeagueService_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 156]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_156

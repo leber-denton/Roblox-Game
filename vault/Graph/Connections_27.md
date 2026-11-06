@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_24.md"
+source_file: "vault/Graph/hpColor()_1.md"
 type: "document"
-community: "Community 102"
+community: "Community 101"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_102
+  - community/Community_101
 ---
 
 # Connections
 
 ## Connections
-- [[Requires_24_1]] - `contains` [EXTRACTED]
+- [[hpColor()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_102
+#graphify/document #graphify/EXTRACTED #community/Community_101

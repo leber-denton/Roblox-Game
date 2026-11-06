@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/Requires_40.md"
+source_file: "vault/Graph/Requires_40_1.md"
 type: "document"
 community: "Community 150"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,9 +12,7 @@ tags:
 # Requires_40.md
 
 ## Connections
-- [[BattleService_1]] - `references` [EXTRACTED]
-- [[Requires_19_1]] - `references` [EXTRACTED]
+- [[Connections_2002]] - `contains` [EXTRACTED]
 - [[Requires_40_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 64]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_150

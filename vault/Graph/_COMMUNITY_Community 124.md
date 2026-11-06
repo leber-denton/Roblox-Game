@@ -1,31 +1,25 @@
 ---
 type: community
-members: 18
+members: 12
 ---
 
 # Community 124
 
-**Members:** 18 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_213]] - document - vault/Graph/CreatureLife_1.md
-- [[Connections_214]] - document - vault/Graph/CreatureLife.md
-- [[Connections_215]] - document - vault/Graph/Functions_30.md
-- [[Connections_216]] - document - vault/Graph/Functions_8.md
-- [[Connections_217]] - document - vault/Graph/Required by_30.md
-- [[Connections_218]] - document - vault/Graph/Required by_6.md
-- [[CreatureLife]] - document - vault/Graph/CreatureLife.md
+- [[Connections_1250]] - document - vault/Graph/Connections_891.md
+- [[Connections_1251]] - document - vault/Graph/Connections_891.md
+- [[Connections_1252]] - document - vault/Graph/CreatureLife_1_1.md
+- [[Connections_1253]] - document - vault/Graph/CreatureLife_1.md
+- [[Connections_1254]] - document - vault/Graph/GraphCreatureLife.md
+- [[Connections_891_1]] - document - vault/Graph/Connections_891.md
 - [[CreatureLife_1]] - document - vault/Graph/CreatureLife_1.md
-- [[CreatureLife_1_1]] - document - vault/Graph/CreatureLife_1.md
-- [[Functions_9]] - document - vault/Graph/Functions_8.md
-- [[Functions_30]] - document - vault/Graph/Functions_30.md
-- [[Functions_30_1]] - document - vault/Graph/Functions_30.md
-- [[Functions_8_1]] - document - vault/Graph/Functions_8.md
-- [[GraphCreatureLife]] - document - vault/Graph/CreatureLife.md
-- [[Required by_7]] - document - vault/Graph/Required by_6.md
-- [[Required by_30]] - document - vault/Graph/Required by_30.md
-- [[Required by_30_1]] - document - vault/Graph/Required by_30.md
-- [[Required by_6_1]] - document - vault/Graph/Required by_6.md
+- [[CreatureLife_1_2]] - document - vault/Graph/CreatureLife_1_1.md
+- [[CreatureLife_1_3]] - document - vault/Graph/CreatureLife_1.md
+- [[CreatureLife_1_1]] - document - vault/Graph/CreatureLife_1_1.md
+- [[GraphCreatureLife]] - document - vault/Graph/GraphCreatureLife.md
+- [[GraphCreatureLife_1]] - document - vault/Graph/GraphCreatureLife.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -35,10 +29,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 51]]
-- 1 edge to [[_COMMUNITY_Community 243]]
+- 4 edges to [[_COMMUNITY_Community 669]]
+- 1 edge to [[_COMMUNITY_Community 675]]
+- 1 edge to [[_COMMUNITY_Community 428]]
+- 1 edge to [[_COMMUNITY_Community 351]]
 
 ## Top bridge nodes
-- [[CreatureLife_1]] - degree 6, connects to 2 communities
-- [[Functions_30]] - degree 4, connects to 1 community
-- [[Required by_30]] - degree 4, connects to 1 community
+- [[CreatureLife_1]] - degree 7, connects to 4 communities
+- [[CreatureLife_1_1]] - degree 4, connects to 1 community
+- [[GraphCreatureLife]] - degree 3, connects to 1 community
+- [[Connections_891_1]] - degree 3, connects to 1 community

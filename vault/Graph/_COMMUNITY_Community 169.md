@@ -1,29 +1,25 @@
 ---
 type: community
-members: 16
+members: 12
 ---
 
 # Community 169
 
-**Members:** 16 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Community 61]] - document - vault/Graph/_COMMUNITY_Community 61.md
-- [[Connections_467]] - document - vault/Graph/addNpc().md
-- [[Connections_468]] - document - vault/Graph/addTemplates().md
-- [[Connections_469]] - document - vault/Graph/ModelSyncLookup.luau.md
-- [[Connections_470]] - document - vault/Graph/npcName().md
-- [[Live Query (requires Dataview plugin)_30]] - document - vault/Graph/_COMMUNITY_Community 61.md
-- [[Members_30]] - document - vault/Graph/_COMMUNITY_Community 61.md
-- [[ModelSyncLookup.luau]] - document - vault/Graph/ModelSyncLookup.luau.md
-- [[ModelSyncLookup.luau_1]] - document - vault/Graph/ModelSyncLookup.luau.md
-- [[_COMMUNITY_Community 61]] - document - vault/Graph/_COMMUNITY_Community 61.md
+- [[Connections_2447]] - document - vault/Graph/addNpc().md
+- [[Connections_2448]] - document - vault/Graph/addTemplates().md
+- [[Connections_2449]] - document - vault/Graph/ModelSyncLookup.luau_1.md
+- [[Connections_2450]] - document - vault/Graph/npcName().md
+- [[ModelSyncLookup.luau]] - document - vault/Graph/ModelSyncLookup.luau_1.md
+- [[ModelSyncLookup.luau_1]] - document - vault/Graph/ModelSyncLookup.luau_1.md
 - [[addNpc()_2]] - document - vault/Graph/addNpc().md
 - [[addNpc()_1]] - document - vault/Graph/addNpc().md
-- [[addTemplates()_2]] - document - vault/Graph/addTemplates().md
-- [[addTemplates()_1]] - document - vault/Graph/addTemplates().md
+- [[addTemplates()_5]] - document - vault/Graph/addTemplates().md
+- [[addTemplates()_4]] - document - vault/Graph/addTemplates().md
+- [[npcName()_3]] - document - vault/Graph/npcName().md
 - [[npcName()_2]] - document - vault/Graph/npcName().md
-- [[npcName()_1]] - document - vault/Graph/npcName().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -31,3 +27,12 @@ members: 16
 TABLE source_file, type FROM #community/Community_169
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 4 edges to [[_COMMUNITY_Community 689]]
+
+## Top bridge nodes
+- [[ModelSyncLookup.luau_1]] - degree 5, connects to 1 community
+- [[npcName()_2]] - degree 4, connects to 1 community
+- [[addNpc()_1]] - degree 4, connects to 1 community
+- [[addTemplates()_4]] - degree 3, connects to 1 community

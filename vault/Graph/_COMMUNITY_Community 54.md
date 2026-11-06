@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[CodeHavocBlimpFlight]] - document - vault/Code/HavocBlimpFlight.md
-- [[Functions_97]] - document - vault/Code/HavocBlimpFlight.md
-- [[HavocBlimpFlight_2]] - document - vault/Code/HavocBlimpFlight.md
-- [[Required by_94]] - document - vault/Code/HavocBlimpFlight.md
-- [[Requires_95]] - document - vault/Code/HavocBlimpFlight.md
+- [[CodeHavocBlimpFlight_2]] - document - vault/Code/HavocBlimpFlight.md
+- [[Functions_156]] - document - vault/Code/HavocBlimpFlight.md
+- [[HavocBlimpFlight]] - document - vault/Code/HavocBlimpFlight.md
+- [[Required by_146]] - document - vault/Code/HavocBlimpFlight.md
+- [[Requires_150]] - document - vault/Code/HavocBlimpFlight.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,4 +25,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[CodeHavocBlimpFlight]] - degree 2, connects to 1 community
+- [[CodeHavocBlimpFlight_2]] - degree 2, connects to 1 community

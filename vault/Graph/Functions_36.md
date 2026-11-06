@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/Functions_36.md"
+source_file: "vault/Graph/Functions_36_1.md"
 type: "document"
 community: "Community 130"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,9 +12,7 @@ tags:
 # Functions_36.md
 
 ## Connections
-- [[Functions_14_1]] - `references` [EXTRACTED]
+- [[Connections_1364]] - `contains` [EXTRACTED]
 - [[Functions_36_1]] - `contains` [EXTRACTED]
-- [[MeshIntake_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 57]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_130

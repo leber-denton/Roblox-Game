@@ -1,19 +1,19 @@
 ---
 source_file: "src/ServerScriptService/Main.server.luau"
 type: "code"
-community: "Community 22"
+community: "Community 16"
 location: "L101"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_22
+  - community/Community_16
 ---
 
 # onCharacter()
 
 ## Connections
 - [[BaseManager.spawnCFrame()]] - `calls` [INFERRED]
-- [[Main.server.luau_2]] - `contains` [EXTRACTED]
+- [[Main.server.luau_3]] - `contains` [EXTRACTED]
 - [[onPlayerAdded()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_22
+#graphify/code #graphify/EXTRACTED #community/Community_16

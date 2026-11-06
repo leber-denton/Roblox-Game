@@ -1,22 +1,19 @@
 ---
-source_file: "vault/Graph/btn().md"
+source_file: "vault/Graph/btn()_1.md"
 type: "document"
-community: "Community 63"
+community: "Community 237"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_63
+  - community/Community_237
 ---
 
-# btn().md
+# btn()_1.md
 
 ## Connections
-- [[AdminPanel.client.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[btn()_2]] - `contains` [EXTRACTED]
-- [[corner()_1]] - `references` [EXTRACTED]
-- [[load()_1]] - `references` [EXTRACTED]
-- [[new()_6_1]] - `references` [EXTRACTED]
+- [[Connections_89_1]] - `references` [EXTRACTED]
+- [[btn()_3]] - `contains` [EXTRACTED]
+- [[btn()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_63
+#graphify/document #graphify/EXTRACTED #community/Community_237

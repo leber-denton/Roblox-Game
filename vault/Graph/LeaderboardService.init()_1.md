@@ -14,6 +14,5 @@ tags:
 ## Connections
 - [[LeaderboardService.init()_2]] - `contains` [EXTRACTED]
 - [[LeaderboardService.refresh()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_104

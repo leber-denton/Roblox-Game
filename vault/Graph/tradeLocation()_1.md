@@ -1,24 +1,21 @@
 ---
-source_file: "vault/Graph/tradeLocation().md"
+source_file: "vault/Graph/tradeLocation()_1.md"
 type: "document"
-community: "Community 9"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_168
 ---
 
-# tradeLocation().md
+# tradeLocation()_1.md
 
 ## Connections
-- [[SocialService.init()_1]] - `references` [EXTRACTED]
-- [[SocialService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[closeEnough()_1]] - `references` [EXTRACTED]
-- [[execute()_1]] - `references` [EXTRACTED]
-- [[onRequest()_1]] - `references` [EXTRACTED]
-- [[onRespond()_1]] - `references` [EXTRACTED]
-- [[tradeLocation()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 151]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
+- [[tradeLocation()_1_1]] - `contains` [EXTRACTED]
+- [[tradeLocation()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_168

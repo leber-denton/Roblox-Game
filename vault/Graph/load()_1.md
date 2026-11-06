@@ -1,22 +1,21 @@
 ---
 source_file: "vault/Graph/load().md"
 type: "document"
-community: "Community 63"
+community: "Community 30"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_63
+  - community/Community_30
 ---
 
 # load().md
 
 ## Connections
-- [[AdminPanel.client.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[btn()_1]] - `references` [EXTRACTED]
+- [[Functions_96_1]] - `references` [EXTRACTED]
+- [[btn()_4]] - `references` [EXTRACTED]
 - [[load()_2]] - `contains` [EXTRACTED]
-- [[run()_1]] - `references` [EXTRACTED]
+- [[run()_4]] - `references` [EXTRACTED]
 - [[toggle()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_63
+#graphify/document #graphify/EXTRACTED #community/Community_30

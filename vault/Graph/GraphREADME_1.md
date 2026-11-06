@@ -12,7 +12,7 @@ tags:
 # Graph/README.md
 
 ## Connections
-- [[Connections_126]] - `contains` [EXTRACTED]
+- [[Connections_360]] - `contains` [EXTRACTED]
 - [[GraphREADME]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_115

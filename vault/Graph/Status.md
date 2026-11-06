@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Status.md"
+source_file: "vault/Graph/Status_1.md"
 type: "document"
 community: "Community 115"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_115
 ---
 
-# Status.md
+# Status
 
 ## Connections
-- [[Roblox-Game]] - `references` [EXTRACTED]
+- [[Connections_362]] - `contains` [EXTRACTED]
 - [[Status_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 43]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_115

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Steps.md"
+source_file: "vault/Graph/Steps_1.md"
 type: "document"
 community: "Community 172"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_172
 ---
 
-# Steps.md
+# Steps_1.md
 
 ## Connections
-- [[Connections_485]] - `contains` [EXTRACTED]
 - [[Steps]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 60]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_172

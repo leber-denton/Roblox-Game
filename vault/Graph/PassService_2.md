@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/PassService.md"
+source_file: "vault/Graph/PassService.md"
 type: "document"
-community: "Community 285"
-location: "L1"
+community: "Community 208"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_285
+  - community/Community_208
 ---
 
 # PassService
 
 ## Connections
-- [[CodePassService]] - `contains` [EXTRACTED]
-- [[Functions_73]] - `contains` [EXTRACTED]
-- [[Required by_75]] - `contains` [EXTRACTED]
-- [[Requires_73]] - `contains` [EXTRACTED]
+- [[Connections_3037]] - `contains` [EXTRACTED]
+- [[GraphPassService_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_285
+#graphify/document #graphify/EXTRACTED #community/Community_208

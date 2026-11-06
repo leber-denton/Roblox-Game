@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Code/LockedLanes.md"
+source_file: "vault/Graph/CodeLockedLanes.md"
 type: "document"
-community: "Community 56"
+community: "Community 425"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_56
+  - community/Community_425
 ---
 
-# Code/LockedLanes.md
+# CodeLockedLanes.md
 
 ## Connections
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[LockedLanes_2]] - `contains` [EXTRACTED]
+- [[CodeLockedLanes_1]] - `contains` [EXTRACTED]
+- [[LockedLanes_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 56]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_56
+#graphify/document #graphify/EXTRACTED #community/Community_425

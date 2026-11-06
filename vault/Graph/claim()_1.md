@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/claim().md"
+source_file: "vault/Graph/claim()_2.md"
 type: "document"
-community: "Community 41"
-location: "L1"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_12
 ---
 
 # claim().md
 
 ## Connections
-- [[SaveService.load()_1]] - `references` [EXTRACTED]
-- [[SaveService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
+- [[Connections_729]] - `contains` [EXTRACTED]
 - [[claim()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/document #graphify/EXTRACTED #community/Community_12

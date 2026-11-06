@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Code/AdminService.md"
+source_file: "vault/Graph/Functions_48.md"
 type: "document"
-community: "Community 17"
-location: "L19"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_17
+  - community/Community_168
 ---
 
-# Functions
+# Functions_48.md
 
 ## Connections
-- [[AdminService_2]] - `contains` [EXTRACTED]
-- [[spots()]] - `references` [INFERRED]
+- [[Functions_43]] - `references` [EXTRACTED]
+- [[Functions_48_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 225]] - `references` [EXTRACTED]
+- [[spots()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_17
+#graphify/document #graphify/EXTRACTED #community/Community_168

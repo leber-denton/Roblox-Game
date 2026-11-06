@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[GraphRegions]] - `references` [EXTRACTED]
-- [[Regions_1_1]] - `contains` [EXTRACTED]
+- [[Regions_1_3]] - `contains` [EXTRACTED]
+- [[Regions_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 183]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_183

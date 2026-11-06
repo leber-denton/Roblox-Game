@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_668]] - document - vault/Graph/Functions_17.md
-- [[Connections_669]] - document - vault/Graph/Functions_21.md
-- [[Functions_66]] - document - vault/Graph/Functions_17.md
-- [[Functions_17_1]] - document - vault/Graph/Functions_17.md
-- [[Functions_21_1]] - document - vault/Graph/Functions_21.md
-- [[Functions_21_2]] - document - vault/Graph/Functions_21.md
+- [[Connections_3263]] - document - vault/Graph/Connections_270.md
+- [[Connections_3264]] - document - vault/Graph/Connections_270.md
+- [[Connections_3265]] - document - vault/Graph/Connections_271.md
+- [[Connections_3266]] - document - vault/Graph/Connections_271.md
+- [[Connections_270_1]] - document - vault/Graph/Connections_270.md
+- [[Connections_271_1]] - document - vault/Graph/Connections_271.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,9 +21,3 @@ members: 6
 TABLE source_file, type FROM #community/Community_230
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 93]]
-
-## Top bridge nodes
-- [[Functions_21_1]] - degree 3, connects to 1 community

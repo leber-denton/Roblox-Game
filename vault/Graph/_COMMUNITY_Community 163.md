@@ -9,10 +9,10 @@ members: 5
 
 ## Members
 - [[Community 75]] - document - vault/Graph/_COMMUNITY_Community 75.md
-- [[Connections to other communities_20]] - document - vault/Graph/_COMMUNITY_Community 75.md
-- [[Live Query (requires Dataview plugin)_26]] - document - vault/Graph/_COMMUNITY_Community 75.md
-- [[Members_26]] - document - vault/Graph/_COMMUNITY_Community 75.md
-- [[Top bridge nodes_20]] - document - vault/Graph/_COMMUNITY_Community 75.md
+- [[Connections to other communities_129]] - document - vault/Graph/_COMMUNITY_Community 75.md
+- [[Live Query (requires Dataview plugin)_138]] - document - vault/Graph/_COMMUNITY_Community 75.md
+- [[Members_140]] - document - vault/Graph/_COMMUNITY_Community 75.md
+- [[Top bridge nodes_135]] - document - vault/Graph/_COMMUNITY_Community 75.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 91]]
+- 1 edge to [[_COMMUNITY_Community 75]]
 
 ## Top bridge nodes
 - [[Community 75]] - degree 5, connects to 1 community

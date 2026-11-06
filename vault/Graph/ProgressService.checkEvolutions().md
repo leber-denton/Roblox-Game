@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/ProgressService.luau"
 type: "code"
-community: "Community 21"
+community: "Community 11"
 location: "L205"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_21
+  - community/Community_11
 ---
 
 # ProgressService.checkEvolutions()
@@ -18,4 +18,4 @@ tags:
 - [[ProgressService.luau]] - `contains` [EXTRACTED]
 - [[SaveService.requestSave()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_21
+#graphify/code #graphify/INFERRED #community/Community_11

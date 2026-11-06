@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DecorService.giveBox().md"
+source_file: "vault/Graph/Connections_343.md"
 type: "document"
-community: "Community 175"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_175
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[DecorService.giveBox()_2]] - `contains` [EXTRACTED]
+- [[Connections_496]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_175
+#graphify/document #graphify/EXTRACTED #community/Community_117

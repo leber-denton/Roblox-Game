@@ -1,57 +1,35 @@
 ---
 type: community
-members: 46
+members: 24
 ---
 
 # Community 140
 
-**Members:** 46 nodes
+**Members:** 24 nodes
 
 ## Members
-- [[Community 5]] - document - vault/Graph/_COMMUNITY_Community 5.md
-- [[Connections_317]] - document - vault/Graph/check()_2.md
-- [[Connections_318]] - document - vault/Graph/game_replicatedstorage_shared_gamedata.md
-- [[Connections_319]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner.md
-- [[Connections_320]] - document - vault/Graph/ModelSync_1.md
-- [[Connections_321]] - document - vault/Graph/ModelSync.md
-- [[Connections_322]] - document - vault/Graph/ModelSyncTests.luau.md
-- [[Connections_323]] - document - vault/Graph/near().md
-- [[Connections_324]] - document - vault/Graph/pivotOf().md
-- [[Connections_325]] - document - vault/Graph/sameCF().md
-- [[Connections_326]] - document - vault/Graph/scaleOf().md
-- [[Connections_327]] - document - vault/Graph/sentinel().md
-- [[Connections_328]] - document - vault/Graph/snapshotReal().md
-- [[Connections_329]] - document - vault/Graph/Tests.run().md
-- [[Connections_330]] - document - vault/Graph/WildShiftTests.luau.md
-- [[GraphModelSync]] - document - vault/Graph/ModelSync.md
-- [[Live Query (requires Dataview plugin)_14]] - document - vault/Graph/_COMMUNITY_Community 5.md
-- [[Members_14]] - document - vault/Graph/_COMMUNITY_Community 5.md
-- [[ModelSync]] - document - vault/Graph/ModelSync.md
-- [[ModelSyncTests.luau]] - document - vault/Graph/ModelSyncTests.luau.md
-- [[ModelSyncTests.luau_1]] - document - vault/Graph/ModelSyncTests.luau.md
-- [[ModelSync_1]] - document - vault/Graph/ModelSync_1.md
-- [[ModelSync_1_1]] - document - vault/Graph/ModelSync_1.md
-- [[Tests.run()_2]] - document - vault/Graph/Tests.run().md
-- [[Tests.run()_1]] - document - vault/Graph/Tests.run().md
-- [[WildShiftTests.luau]] - document - vault/Graph/WildShiftTests.luau.md
-- [[WildShiftTests.luau_1]] - document - vault/Graph/WildShiftTests.luau.md
-- [[_COMMUNITY_Community 5]] - document - vault/Graph/_COMMUNITY_Community 5.md
+- [[Connections_1729]] - document - vault/Graph/check()_2.md
+- [[Connections_1730]] - document - vault/Graph/ModelSyncTests.luau_1.md
+- [[Connections_1731]] - document - vault/Graph/near().md
+- [[Connections_1732]] - document - vault/Graph/pivotOf().md
+- [[Connections_1733]] - document - vault/Graph/sameCF().md
+- [[Connections_1734]] - document - vault/Graph/scaleOf().md
+- [[Connections_1735]] - document - vault/Graph/snapshotReal().md
+- [[Connections_1736]] - document - vault/Graph/Tests.run().md
+- [[ModelSyncTests.luau]] - document - vault/Graph/ModelSyncTests.luau_1.md
+- [[ModelSyncTests.luau_1]] - document - vault/Graph/ModelSyncTests.luau_1.md
+- [[Tests.run()_4]] - document - vault/Graph/Tests.run().md
+- [[Tests.run()_3]] - document - vault/Graph/Tests.run().md
 - [[check()_3]] - document - vault/Graph/check()_2.md
-- [[check()_2_1]] - document - vault/Graph/check()_2.md
-- [[game_replicatedstorage_shared_gamedata]] - document - vault/Graph/game_replicatedstorage_shared_gamedata.md
-- [[game_replicatedstorage_shared_gamedata_1]] - document - vault/Graph/game_replicatedstorage_shared_gamedata.md
-- [[game_serverscriptservice_modules_wildspawner]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner.md
-- [[game_serverscriptservice_modules_wildspawner_1]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner.md
+- [[check()_2_2]] - document - vault/Graph/check()_2.md
 - [[near()_2]] - document - vault/Graph/near().md
 - [[near()_1]] - document - vault/Graph/near().md
 - [[pivotOf()_2]] - document - vault/Graph/pivotOf().md
 - [[pivotOf()_1]] - document - vault/Graph/pivotOf().md
 - [[sameCF()_2]] - document - vault/Graph/sameCF().md
 - [[sameCF()_1]] - document - vault/Graph/sameCF().md
-- [[scaleOf()_3]] - document - vault/Graph/scaleOf().md
-- [[scaleOf()_2]] - document - vault/Graph/scaleOf().md
-- [[sentinel()_2]] - document - vault/Graph/sentinel().md
-- [[sentinel()_1]] - document - vault/Graph/sentinel().md
+- [[scaleOf()_5]] - document - vault/Graph/scaleOf().md
+- [[scaleOf()_4]] - document - vault/Graph/scaleOf().md
 - [[snapshotReal()_2]] - document - vault/Graph/snapshotReal().md
 - [[snapshotReal()_1]] - document - vault/Graph/snapshotReal().md
 
@@ -63,7 +41,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 26]]
+- 8 edges to [[_COMMUNITY_Community 309]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 5]] - degree 15, connects to 1 community
+- [[ModelSyncTests.luau_1]] - degree 8, connects to 1 community
+- [[Tests.run()_3]] - degree 8, connects to 1 community
+- [[near()_1]] - degree 5, connects to 1 community
+- [[sameCF()_1]] - degree 5, connects to 1 community
+- [[scaleOf()_4]] - degree 4, connects to 1 community

@@ -12,7 +12,7 @@ tags:
 # findTargets()
 
 ## Connections
-- [[Connections_101]] - `contains` [EXTRACTED]
+- [[Connections_262]] - `contains` [EXTRACTED]
 - [[findTargets()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_112

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/npcName().md"
+source_file: "vault/Graph/Connections_330.md"
 type: "document"
-community: "Community 169"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_169
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[npcName()_2]] - `contains` [EXTRACTED]
+- [[Connections_469]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_169
+#graphify/document #graphify/EXTRACTED #community/Community_117

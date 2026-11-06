@@ -1,18 +1,22 @@
 ---
-source_file: "src/ServerStorage/MeshIntake.luau"
-type: "code"
-community: "Community 79"
+source_file: "vault/Graph/MeshIntake.luau_2.md"
+type: "document"
+community: "Community 190"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_79
+  - community/Community_190
 ---
 
-# MeshIntake.luau
+# MeshIntake.luau_2.md
 
 ## Connections
-- [[find()]] - `contains` [EXTRACTED]
-- [[orient()]] - `contains` [EXTRACTED]
+- [[MeshIntake.luau]] - `references` [EXTRACTED]
+- [[MeshIntake.luau_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 190]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 79]] - `references` [EXTRACTED]
+- [[find()_1]] - `references` [EXTRACTED]
+- [[orient()_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_79
+#graphify/document #graphify/EXTRACTED #community/Community_190

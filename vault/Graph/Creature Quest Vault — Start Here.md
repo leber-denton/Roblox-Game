@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/Creature Quest Vault — Start Here.md"
+source_file: "vault/Index.md"
 type: "document"
-community: "Community 196"
+community: "Community 32"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_196
+  - community/Community_32
 ---
 
-# Creature Quest Vault — Start Here.md
+# Creature Quest Vault — Start Here
 
 ## Connections
-- [[Creature Quest Vault — Start Here_1]] - `contains` [EXTRACTED]
-- [[GraphIndex]] - `references` [EXTRACTED]
-- [[Map]] - `references` [EXTRACTED]
-- [[Rules for notes]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 32]] - `references` [EXTRACTED]
+- [[Index]] - `contains` [EXTRACTED]
+- [[Map]] - `contains` [EXTRACTED]
+- [[Rules for notes]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_196
+#graphify/document #graphify/EXTRACTED #community/Community_32

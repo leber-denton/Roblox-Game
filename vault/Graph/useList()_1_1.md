@@ -1,0 +1,23 @@
+---
+source_file: "vault/Graph/useList()_1.md"
+type: "document"
+community: "Community 138"
+location: "L1"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_138
+---
+
+# useList()_1.md
+
+## Connections
+- [[BattleUI.client.luau_2]] - `references` [EXTRACTED]
+- [[Functions_109]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
+- [[showMenu()_1_1]] - `references` [EXTRACTED]
+- [[useList()_3]] - `contains` [EXTRACTED]
+- [[useList()_2_1]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_138

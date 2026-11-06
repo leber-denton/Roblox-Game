@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Wander.md"
+source_file: "vault/Graph/Connections_615.md"
 type: "document"
-community: "Community 322"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_322
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[Wander_2]] - `contains` [EXTRACTED]
+- [[Connections_815]] - `contains` [EXTRACTED]
+- [[Connections_615_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_322
+#graphify/document #graphify/EXTRACTED #community/Community_12

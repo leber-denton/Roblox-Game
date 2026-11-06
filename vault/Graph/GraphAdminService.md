@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/AdminService.md"
+source_file: "vault/Graph/GraphAdminService.md"
 type: "document"
 community: "Community 145"
 location: "L1"
@@ -9,10 +9,11 @@ tags:
   - community/Community_145
 ---
 
-# Graph/AdminService.md
+# GraphAdminService.md
 
 ## Connections
-- [[AdminService]] - `contains` [EXTRACTED]
 - [[AdminService_1]] - `references` [EXTRACTED]
+- [[GraphAdminService_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 145]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_145

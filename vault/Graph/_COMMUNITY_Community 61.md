@@ -8,7 +8,7 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[ModelSyncLookup.luau_2]] - code - src/ServerStorage/ModelSyncLookup.luau
+- [[ModelSyncLookup.luau_3]] - code - src/ServerStorage/ModelSyncLookup.luau
 - [[addNpc()]] - code - src/ServerStorage/ModelSyncLookup.luau
 - [[addTemplates()]] - code - src/ServerStorage/ModelSyncLookup.luau
 - [[npcName()]] - code - src/ServerStorage/ModelSyncLookup.luau

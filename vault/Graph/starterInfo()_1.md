@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/starterInfo().md"
+source_file: "vault/Graph/starterInfo()_1.md"
 type: "document"
-community: "Community 30"
+community: "Community 683"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_683
 ---
 
-# starterInfo().md
+# starterInfo()_1.md
 
 ## Connections
-- [[TutorialService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
-- [[playerStarter()_1]] - `references` [EXTRACTED]
-- [[starterInfo()_2]] - `contains` [EXTRACTED]
+- [[Connections_902_1]] - `references` [EXTRACTED]
+- [[starterInfo()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_683

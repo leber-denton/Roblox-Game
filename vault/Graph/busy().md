@@ -12,7 +12,7 @@ tags:
 # busy()
 
 ## Connections
-- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
 - [[available()]] - `calls` [EXTRACTED]
 - [[setupPortals()]] - `calls` [EXTRACTED]
 

@@ -1,17 +1,20 @@
 ---
-source_file: "src/ServerScriptService/Showcase.server.luau"
-type: "code"
-community: "Community 83"
+source_file: "vault/Graph/Showcase.server.luau_2.md"
+type: "document"
+community: "Community 220"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_83
+  - community/Community_220
 ---
 
-# Showcase.server.luau
+# Showcase.server.luau_2.md
 
 ## Connections
-- [[serverstorage_waitforchild_2]] - `imports` [EXTRACTED]
+- [[Showcase.server.luau_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 220]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 83]] - `references` [EXTRACTED]
+- [[serverstorage_waitforchild_2]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_83
+#graphify/document #graphify/EXTRACTED #community/Community_220

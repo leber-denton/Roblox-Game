@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/commands.resetTrainers().md"
+source_file: "vault/Graph/Connections_328.md"
 type: "document"
-community: "Community 168"
-location: "L14"
+community: "Community 117"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[commands.resetTrainers()_2]] - `contains` [EXTRACTED]
+- [[Connections_466]] - `contains` [EXTRACTED]
+- [[Connections_328_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_117

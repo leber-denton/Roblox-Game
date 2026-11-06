@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/typeChips().md"
+source_file: "vault/Graph/Connections_64.md"
 type: "document"
-community: "Community 106"
-location: "L14"
+community: "Community 1014"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_106
+  - community/Community_1014
 ---
 
-# Connections
+# Connections_64.md
 
 ## Connections
-- [[typeChips()_2]] - `contains` [EXTRACTED]
+- [[Connections_45]] - `contains` [EXTRACTED]
+- [[arrowPart()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_106
+#graphify/document #graphify/EXTRACTED #community/Community_1014

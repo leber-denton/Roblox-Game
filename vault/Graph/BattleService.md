@@ -12,7 +12,7 @@ tags:
 # BattleService
 
 ## Connections
-- [[Connections_376]] - `contains` [EXTRACTED]
-- [[GraphBattleService]] - `contains` [EXTRACTED]
+- [[Connections_1993]] - `contains` [EXTRACTED]
+- [[GraphBattleService_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_150

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/waitUntilFree().md"
+source_file: "vault/Graph/BaseManager.hasRoom()_1.md"
 type: "document"
-community: "Community 234"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[waitUntilFree()_2]] - `contains` [EXTRACTED]
+- [[BaseManager.hasRoom()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_12

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.blush().md"
+source_file: "vault/Graph/Connections_332.md"
 type: "document"
-community: "Community 171"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_171
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[Features.blush()_2]] - `contains` [EXTRACTED]
+- [[Connections_473]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_171
+#graphify/document #graphify/EXTRACTED #community/Community_117

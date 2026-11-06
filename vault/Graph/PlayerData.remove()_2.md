@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/PlayerData.remove().md"
+source_file: "vault/Graph/PlayerData.remove()_2.md"
 type: "document"
-community: "Community 41"
-location: "L12"
+community: "Community 1182"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_1182
 ---
 
-# PlayerData.remove()
+# PlayerData.remove()_2.md
 
 ## Connections
-- [[Connections_935]] - `contains` [EXTRACTED]
+- [[Connections_13_1]] - `references` [EXTRACTED]
 - [[PlayerData.remove()_1]] - `contains` [EXTRACTED]
+- [[PlayerData.remove()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/document #graphify/EXTRACTED #community/Community_1182

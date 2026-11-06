@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DecorData.luau.md"
+source_file: "vault/Graph/setSign()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[DecorData.luau_2]] - `contains` [EXTRACTED]
+- [[setSign()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_12

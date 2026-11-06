@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/animate().md"
 type: "document"
-community: "Community 99"
-location: "L1"
+community: "Community 1377"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_99
+  - community/Community_1377
 ---
 
-# animate().md
+# animate()
 
 ## Connections
-- [[NPCAnimator.server.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 39]] - `references` [EXTRACTED]
-- [[animate()_2]] - `contains` [EXTRACTED]
+- [[Connections_1665]] - `contains` [EXTRACTED]
+- [[animate()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_99
+#graphify/document #graphify/EXTRACTED #community/Community_1377

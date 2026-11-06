@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[CodeStoryService]] - `contains` [EXTRACTED]
-- [[Functions_18]] - `contains` [EXTRACTED]
-- [[Required by_16]] - `contains` [EXTRACTED]
-- [[Requires_16]] - `contains` [EXTRACTED]
+- [[Functions_26]] - `contains` [EXTRACTED]
+- [[Required by_22]] - `contains` [EXTRACTED]
+- [[Requires_26]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_14

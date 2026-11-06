@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Wander.groundAt().md"
+source_file: "vault/Graph/Connections_567.md"
 type: "document"
-community: "Community 94"
+community: "Community 1214"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_94
+  - community/Community_1214
 ---
 
 # Connections
 
 ## Connections
-- [[Wander.groundAt()_2]] - `contains` [EXTRACTED]
+- [[Connections_1153]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_94
+#graphify/document #graphify/EXTRACTED #community/Community_1214

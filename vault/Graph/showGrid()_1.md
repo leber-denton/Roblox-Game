@@ -12,15 +12,18 @@ tags:
 # showGrid().md
 
 ## Connections
-- [[Functions_5_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
+- [[Functions_97]] - `references` [EXTRACTED]
 - [[clearBody()_1]] - `references` [EXTRACTED]
 - [[getIndex()_1]] - `references` [EXTRACTED]
 - [[label()_5]] - `references` [EXTRACTED]
+- [[label()_2_1]] - `references` [EXTRACTED]
 - [[new()_10]] - `references` [EXTRACTED]
-- [[preview()_3]] - `references` [EXTRACTED]
-- [[setOpen()_2]] - `references` [EXTRACTED]
+- [[new()_6_1]] - `references` [EXTRACTED]
+- [[preview()_1_1]] - `references` [EXTRACTED]
+- [[setOpen()_6]] - `references` [EXTRACTED]
+- [[setOpen()_1_1]] - `references` [EXTRACTED]
 - [[showDetail()_2]] - `references` [EXTRACTED]
+- [[showDetail()_1_1]] - `references` [EXTRACTED]
 - [[showGrid()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_106

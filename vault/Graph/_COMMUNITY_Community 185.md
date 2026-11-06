@@ -8,7 +8,7 @@ members: 13
 **Members:** 13 nodes
 
 ## Members
-- [[LockedLanes.client.luau_2]] - code - src/StarterPlayer/StarterPlayerScripts/LockedLanes.client.luau
+- [[LockedLanes.client.luau_3]] - code - src/StarterPlayer/StarterPlayerScripts/LockedLanes.client.luau
 - [[addRegion()]] - code - src/StarterPlayer/StarterPlayerScripts/LockedLanes.client.luau
 - [[consider()]] - code - src/StarterPlayer/StarterPlayerScripts/LockedLanes.client.luau
 - [[grey()]] - code - src/StarterPlayer/StarterPlayerScripts/LockedLanes.client.luau
@@ -30,7 +30,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 251]]
+- 1 edge to [[_COMMUNITY_Community 215]]
 
 ## Top bridge nodes
-- [[LockedLanes.client.luau_2]] - degree 13, connects to 1 community
+- [[LockedLanes.client.luau_3]] - degree 13, connects to 1 community

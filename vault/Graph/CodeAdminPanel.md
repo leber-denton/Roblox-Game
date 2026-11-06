@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[AdminPanel_2]] - `contains` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
+- [[CodeCode Map_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_3

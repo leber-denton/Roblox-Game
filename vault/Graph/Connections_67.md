@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/GymService.init().md"
+source_file: "vault/Graph/Connections_67.md"
 type: "document"
-community: "Community 107"
-location: "L14"
+community: "Community 1017"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_107
+  - community/Community_1017
 ---
 
-# Connections
+# Connections_67.md
 
 ## Connections
-- [[GymService.init()_2]] - `contains` [EXTRACTED]
+- [[BaseManager.findById()_1]] - `references` [EXTRACTED]
+- [[Connections_51]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_107
+#graphify/document #graphify/EXTRACTED #community/Community_1017

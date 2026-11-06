@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Graph/LeagueService.luau.md"
+source_file: "vault/Graph/LeagueService.luau_1.md"
 type: "document"
-community: "Community 87"
+community: "Community 134"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_87
+  - community/Community_134
 ---
 
-# LeagueService.luau.md
+# LeagueService.luau_1.md
 
 ## Connections
 - [[LeagueService.init()_1]] - `references` [EXTRACTED]
-- [[LeagueService.luau_2]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_1_1]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
 - [[challenge()_2]] - `references` [EXTRACTED]
 - [[isChampion()_1]] - `references` [EXTRACTED]
 - [[itemList()_1]] - `references` [EXTRACTED]
@@ -25,4 +28,4 @@ tags:
 - [[teamFor()_1]] - `references` [EXTRACTED]
 - [[wins()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_87
+#graphify/document #graphify/EXTRACTED #community/Community_134

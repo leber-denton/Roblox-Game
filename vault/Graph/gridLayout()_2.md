@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/gridLayout().md"
+source_file: "vault/Graph/gridLayout()_2.md"
 type: "document"
-community: "Community 93"
+community: "Community 249"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_249
 ---
 
-# gridLayout().md
+# gridLayout()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[gridLayout()_1]] - `contains` [EXTRACTED]
-- [[new()_7_1]] - `references` [EXTRACTED]
-- [[tabs.Shop()_2]] - `references` [EXTRACTED]
+- [[gridLayout()_3]] - `contains` [EXTRACTED]
+- [[gridLayout()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_249

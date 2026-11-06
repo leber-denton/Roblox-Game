@@ -1,26 +1,26 @@
 ---
-source_file: "vault/Graph/BaseManager.addCreature().md"
+source_file: "vault/Graph/BaseManager.addCreature()_1.md"
 type: "document"
-community: "Community 42"
+community: "Community 12"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_12
 ---
 
-# BaseManager.addCreature().md
+# BaseManager.addCreature()_1.md
 
 ## Connections
-- [[BaseManager.addCreature()_2]] - `contains` [EXTRACTED]
+- [[BaseManager.addCreature()_1_1]] - `contains` [EXTRACTED]
+- [[BaseManager.addCreature()_2]] - `references` [EXTRACTED]
 - [[BaseManager.hasRoom()_1]] - `references` [EXTRACTED]
 - [[BaseManager.luau_1]] - `references` [EXTRACTED]
-- [[BaseManager.restore()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[complete()_1]] - `references` [EXTRACTED]
-- [[execute()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
 - [[give()_1]] - `references` [EXTRACTED]
 - [[recordIndex()_1]] - `references` [EXTRACTED]
 - [[spawnModel()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_12

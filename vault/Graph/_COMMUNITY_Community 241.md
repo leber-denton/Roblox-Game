@@ -1,19 +1,16 @@
 ---
 type: community
-members: 6
+members: 3
 ---
 
 # Community 241
 
-**Members:** 6 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Connections_716]] - document - vault/Graph/ballParts().md
-- [[Connections_717]] - document - vault/Graph/fadeBall().md
-- [[ballParts()_2]] - document - vault/Graph/ballParts().md
-- [[ballParts()_1]] - document - vault/Graph/ballParts().md
-- [[fadeBall()_2]] - document - vault/Graph/fadeBall().md
-- [[fadeBall()_1]] - document - vault/Graph/fadeBall().md
+- [[Connections_3420]] - document - vault/Graph/Connections_1054.md
+- [[Connections_3421]] - document - vault/Graph/Connections_1054.md
+- [[Connections_1054_1]] - document - vault/Graph/Connections_1054.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,10 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 103]]
-- 1 edge to [[_COMMUNITY_Community 114]]
-- 1 edge to [[_COMMUNITY_Community 120]]
+- 1 edge to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[fadeBall()_1]] - degree 5, connects to 3 communities
-- [[ballParts()_1]] - degree 3, connects to 1 community
+- [[Connections_1054_1]] - degree 2, connects to 1 community

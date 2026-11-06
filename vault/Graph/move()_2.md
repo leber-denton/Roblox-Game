@@ -12,7 +12,7 @@ tags:
 # move()
 
 ## Connections
-- [[Connections_193]] - `contains` [EXTRACTED]
+- [[Connections_1223]] - `contains` [EXTRACTED]
 - [[move()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_123

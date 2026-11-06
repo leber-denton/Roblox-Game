@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[GraphPassService]] - `references` [EXTRACTED]
-- [[PassService_1_1]] - `contains` [EXTRACTED]
+- [[PassService_1_3]] - `contains` [EXTRACTED]
+- [[PassService_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 208]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_208

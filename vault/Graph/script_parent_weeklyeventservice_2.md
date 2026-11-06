@@ -1,16 +1,18 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 4"
+source_file: "vault/Graph/script_parent_weeklyeventservice_2.md"
+type: "document"
+community: "Community 1462"
+location: "L12"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_4
+  - community/Community_1462
 ---
 
-# script_parent_weeklyeventservice
+# script_parent_weeklyeventservice_2.md
 
 ## Connections
-- [[ColiseumService.luau_2]] - `imports` [EXTRACTED]
+- [[Connections_1923]] - `contains` [EXTRACTED]
+- [[script_parent_weeklyeventservice_2_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_4
+#graphify/document #graphify/EXTRACTED #community/Community_1462

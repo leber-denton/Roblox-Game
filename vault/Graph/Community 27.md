@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 27.md"
+source_file: "vault/Graph/Community 27.md"
 type: "document"
-community: "Community 275"
-location: "L6"
+community: "Community 134"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_275
+  - community/Community_134
 ---
 
-# Community 27
+# Community 27.md
 
 ## Connections
-- [[Connections to other communities_46]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_62]] - `contains` [EXTRACTED]
-- [[Members_62]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_46]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 27]] - `contains` [EXTRACTED]
+- [[Community 27_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 27]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 275]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_275
+#graphify/document #graphify/EXTRACTED #community/Community_134

@@ -12,7 +12,7 @@ tags:
 # commands.give()
 
 ## Connections
-- [[AdminService.luau_2]] - `contains` [EXTRACTED]
+- [[AdminService.luau_3]] - `contains` [EXTRACTED]
 - [[give()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_17

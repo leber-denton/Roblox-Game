@@ -12,7 +12,7 @@ tags:
 # Features.finEars()
 
 ## Connections
-- [[CreatureBuilder.luau_2]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_5]] - `contains` [EXTRACTED]
 - [[lighter()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_6

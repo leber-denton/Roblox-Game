@@ -1,22 +1,18 @@
 ---
 source_file: "vault/Graph/tabs.Shop().md"
 type: "document"
-community: "Community 93"
-location: "L1"
+community: "Community 63"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_63
 ---
 
-# tabs.Shop().md
+# tabs.Shop()
 
 ## Connections
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[buyResult()_2]] - `references` [EXTRACTED]
-- [[call()_2]] - `references` [EXTRACTED]
-- [[gridLayout()_2]] - `references` [EXTRACTED]
-- [[itemCard()_2]] - `references` [EXTRACTED]
+- [[Connections_4865]] - `contains` [EXTRACTED]
 - [[tabs.Shop()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_63

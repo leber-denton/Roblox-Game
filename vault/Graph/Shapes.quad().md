@@ -12,7 +12,7 @@ tags:
 # Shapes.quad()
 
 ## Connections
-- [[CreatureBuilder.luau_2]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_5]] - `contains` [EXTRACTED]
 - [[darker()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_6

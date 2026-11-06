@@ -12,7 +12,7 @@ tags:
 # rgb()
 
 ## Connections
-- [[Connections_1050]] - `contains` [EXTRACTED]
+- [[Connections_5844]] - `contains` [EXTRACTED]
 - [[rgb()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_86

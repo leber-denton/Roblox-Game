@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/cleanArgs().md"
+source_file: "vault/Graph/cleanArgs()_2.md"
 type: "document"
-community: "Community 117"
-location: "L12"
+community: "Community 198"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_198
 ---
 
-# cleanArgs()
+# cleanArgs()_2.md
 
 ## Connections
-- [[Connections_138]] - `contains` [EXTRACTED]
-- [[cleanArgs()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 117]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 198]] - `references` [EXTRACTED]
+- [[cleanArgs()_1]] - `references` [EXTRACTED]
+- [[cleanArgs()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_198

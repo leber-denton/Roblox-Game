@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/update().md"
 type: "document"
-community: "Community 207"
+community: "Community 100"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_207
+  - community/Community_100
 ---
 
 # update().md
@@ -18,4 +18,4 @@ tags:
 - [[update()_3]] - `contains` [EXTRACTED]
 - [[wanted()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_207
+#graphify/document #graphify/EXTRACTED #community/Community_100

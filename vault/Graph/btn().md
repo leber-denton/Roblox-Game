@@ -12,9 +12,9 @@ tags:
 # btn()
 
 ## Connections
-- [[AdminPanel.client.luau]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau_3]] - `contains` [EXTRACTED]
 - [[corner()]] - `calls` [EXTRACTED]
 - [[load()]] - `calls` [EXTRACTED]
-- [[new()_6]] - `calls` [EXTRACTED]
+- [[new()_3]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

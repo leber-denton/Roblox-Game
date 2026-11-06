@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/GameData.levelCap().md"
 type: "document"
-community: "Community 231"
+community: "Community 120"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_231
+  - community/Community_120
 ---
 
 # GameData.levelCap()
 
 ## Connections
-- [[Connections_671]] - `contains` [EXTRACTED]
+- [[Connections_1062]] - `contains` [EXTRACTED]
 - [[GameData.levelCap()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_231
+#graphify/document #graphify/EXTRACTED #community/Community_120

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/placedCount()_1.md"
+source_file: "vault/Graph/laneSpot()_1.md"
 type: "document"
-community: "Community 151"
+community: "Community 1154"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_151
+  - community/Community_1154
 ---
 
 # Connections
 
 ## Connections
-- [[placedCount()_4]] - `contains` [EXTRACTED]
+- [[laneSpot()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_151
+#graphify/document #graphify/EXTRACTED #community/Community_1154

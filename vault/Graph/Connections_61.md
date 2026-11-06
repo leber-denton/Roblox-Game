@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/preview().md"
+source_file: "vault/Graph/Connections_61.md"
 type: "document"
-community: "Community 106"
-location: "L14"
+community: "Community 1010"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_106
+  - community/Community_1010
 ---
 
-# Connections
+# Connections_61.md
 
 ## Connections
-- [[preview()_4]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau_1]] - `references` [EXTRACTED]
+- [[Connections_39]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_106
+#graphify/document #graphify/EXTRACTED #community/Community_1010

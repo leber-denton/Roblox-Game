@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/updateVisible()_1.md"
+source_file: "vault/Graph/updateVisible().md"
 type: "document"
-community: "Community 202"
-location: "L12"
+community: "Community 100"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_202
+  - community/Community_100
 ---
 
-# updateVisible()
+# updateVisible().md
 
 ## Connections
-- [[Connections_588]] - `contains` [EXTRACTED]
-- [[updateVisible()_1_1]] - `contains` [EXTRACTED]
+- [[Music.client.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[updateVisible()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_202
+#graphify/document #graphify/EXTRACTED #community/Community_100

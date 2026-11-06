@@ -9,10 +9,10 @@ tags:
   - community/Community_203
 ---
 
-# Menus.client.luau
+# Menus.client.luau.md
 
 ## Connections
-- [[Connections_592]] - `contains` [EXTRACTED]
-- [[Menus.client.luau_1]] - `contains` [EXTRACTED]
+- [[Connections_2976]] - `contains` [EXTRACTED]
+- [[Menus.client.luau]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_203

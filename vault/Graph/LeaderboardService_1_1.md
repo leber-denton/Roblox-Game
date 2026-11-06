@@ -12,7 +12,7 @@ tags:
 # LeaderboardService_1.md
 
 ## Connections
-- [[Connections_241]] - `contains` [EXTRACTED]
+- [[Connections_1338]] - `contains` [EXTRACTED]
 - [[LeaderboardService_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_128

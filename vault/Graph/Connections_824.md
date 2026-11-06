@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/ballIcon().md"
+source_file: "vault/Graph/Connections_620.md"
 type: "document"
-community: "Community 33"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[ballIcon()_2]] - `contains` [EXTRACTED]
+- [[Connections_825]] - `contains` [EXTRACTED]
+- [[Connections_620_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_33
+#graphify/document #graphify/EXTRACTED #community/Community_12

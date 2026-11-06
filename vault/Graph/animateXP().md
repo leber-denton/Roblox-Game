@@ -12,6 +12,6 @@ tags:
 # animateXP()
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_7

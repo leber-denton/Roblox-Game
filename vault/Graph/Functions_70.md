@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/CreatureLife.md"
+source_file: "vault/Code/Sprint.md"
 type: "document"
-community: "Community 28"
+community: "Community 215"
 location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_28
+  - community/Community_215
 ---
 
 # Functions
 
 ## Connections
-- [[CreatureLife_2]] - `contains` [EXTRACTED]
+- [[Sprint_3]] - `contains` [EXTRACTED]
+- [[targetSpeed()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_28
+#graphify/document #graphify/EXTRACTED #community/Community_215

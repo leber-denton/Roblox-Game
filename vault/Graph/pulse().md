@@ -12,7 +12,7 @@ tags:
 # pulse()
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[new()_9]] - `calls` [EXTRACTED]
 - [[showMenu()]] - `calls` [EXTRACTED]
 

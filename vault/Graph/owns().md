@@ -12,7 +12,7 @@ tags:
 # owns()
 
 ## Connections
-- [[Main.server.luau_2]] - `contains` [EXTRACTED]
+- [[Main.server.luau_3]] - `contains` [EXTRACTED]
 - [[PlayerData.get()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_22

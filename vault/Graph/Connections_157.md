@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/effectPart().md"
+source_file: "vault/Graph/updateVisible()_3.md"
 type: "document"
-community: "Community 120"
+community: "Community 106"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_120
+  - community/Community_106
 ---
 
 # Connections
 
 ## Connections
-- [[effectPart()_2]] - `contains` [EXTRACTED]
+- [[updateVisible()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_120
+#graphify/document #graphify/EXTRACTED #community/Community_106

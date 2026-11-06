@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/onNotify().md"
+source_file: "vault/Graph/onNotify()_2.md"
 type: "document"
 community: "Community 206"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_206
 ---
 
-# onNotify()
+# onNotify()_2.md
 
 ## Connections
-- [[Connections_603]] - `contains` [EXTRACTED]
-- [[onNotify()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 206]] - `references` [EXTRACTED]
+- [[onNotify()_1]] - `references` [EXTRACTED]
+- [[onNotify()_2_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_206

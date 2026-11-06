@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/isReference().md"
 type: "document"
-community: "Community 226"
+community: "Community 112"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_112
 ---
 
 # isReference().md
@@ -19,4 +19,4 @@ tags:
 - [[entryFor()_1]] - `references` [EXTRACTED]
 - [[isReference()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_112

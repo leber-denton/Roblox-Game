@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/symbolFor().md"
 type: "document"
-community: "Community 33"
+community: "Community 203"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_203
 ---
 
 # symbolFor().md
@@ -18,4 +18,4 @@ tags:
 - [[showDetail()_1_1]] - `references` [EXTRACTED]
 - [[symbolFor()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_33
+#graphify/document #graphify/EXTRACTED #community/Community_203

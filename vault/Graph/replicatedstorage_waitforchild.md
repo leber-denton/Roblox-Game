@@ -1,25 +1,19 @@
 ---
 source_file: "vault/Graph/replicatedstorage_waitforchild.md"
 type: "document"
-community: "Community 178"
+community: "Community 177"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_178
+  - community/Community_177
 ---
 
 # replicatedstorage_waitforchild.md
 
 ## Connections
-- [[ColiseumUI.client.luau]] - `references` [EXTRACTED]
-- [[DungeonClient.client.luau]] - `references` [EXTRACTED]
-- [[HUD.client.luau]] - `references` [EXTRACTED]
-- [[LockedLanes.client.luau]] - `references` [EXTRACTED]
-- [[Regions.client.luau]] - `references` [EXTRACTED]
-- [[Sfx.luau]] - `references` [EXTRACTED]
-- [[Sprint.client.luau]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
 - [[replicatedstorage_waitforchild_1]] - `contains` [EXTRACTED]
+- [[replicatedstorage_waitforchild_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_178
+#graphify/document #graphify/EXTRACTED #community/Community_177

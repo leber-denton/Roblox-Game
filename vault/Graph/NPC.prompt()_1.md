@@ -1,25 +1,26 @@
 ---
-source_file: "vault/Graph/NPC.prompt().md"
+source_file: "vault/Graph/NPC.prompt()_1.md"
 type: "document"
-community: "Community 30"
+community: "Community 134"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_134
 ---
 
-# NPC.prompt().md
+# NPC.prompt()_1.md
 
 ## Connections
 - [[DungeonService.init()_1]] - `references` [EXTRACTED]
 - [[NPC.luau_1]] - `references` [EXTRACTED]
-- [[NPC.prompt()_2]] - `contains` [EXTRACTED]
+- [[NPC.prompt()_1_1]] - `contains` [EXTRACTED]
+- [[NPC.prompt()_2]] - `references` [EXTRACTED]
 - [[RouteTrainerService.init()_1]] - `references` [EXTRACTED]
 - [[TutorialService.init()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
-- [[setup()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 333]] - `references` [EXTRACTED]
 - [[setup()_1_1]] - `references` [EXTRACTED]
-- [[setupWorld()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_134

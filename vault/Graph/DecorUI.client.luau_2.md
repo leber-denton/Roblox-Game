@@ -1,59 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/DecorUI.client.luau"
-type: "code"
-community: "Community 3"
-location: "L1"
+source_file: "vault/Graph/DecorUI.client.luau.md"
+type: "document"
+community: "Community 181"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_3
+  - community/Community_181
 ---
 
-# DecorUI.client.luau
+# DecorUI.client.luau.md
 
 ## Connections
-- [[aimRay()]] - `contains` [EXTRACTED]
-- [[button()]] - `contains` [EXTRACTED]
-- [[buyResult()]] - `contains` [EXTRACTED]
-- [[call()]] - `contains` [EXTRACTED]
-- [[check()]] - `contains` [EXTRACTED]
-- [[clearContent()]] - `contains` [EXTRACTED]
-- [[gridLayout()]] - `contains` [EXTRACTED]
-- [[heading()]] - `contains` [EXTRACTED]
-- [[itemCard()]] - `contains` [EXTRACTED]
-- [[label()_2]] - `contains` [EXTRACTED]
-- [[listLayout()]] - `contains` [EXTRACTED]
-- [[makeGhost()]] - `contains` [EXTRACTED]
-- [[myBase()]] - `contains` [EXTRACTED]
-- [[new()_7]] - `contains` [EXTRACTED]
-- [[openMenu()]] - `contains` [EXTRACTED]
-- [[overlaps()_1]] - `contains` [EXTRACTED]
-- [[placedCount()_1]] - `contains` [EXTRACTED]
-- [[placedModel()]] - `contains` [EXTRACTED]
-- [[preview()_2]] - `contains` [EXTRACTED]
-- [[productPrice()]] - `contains` [EXTRACTED]
-- [[rebuildBar()]] - `contains` [EXTRACTED]
-- [[round()_3]] - `contains` [EXTRACTED]
-- [[setModelHidden()]] - `contains` [EXTRACTED]
-- [[setStatus()]] - `contains` [EXTRACTED]
-- [[shared_waitforchild_2]] - `imports` [EXTRACTED]
-- [[showReveal()]] - `contains` [EXTRACTED]
-- [[startPicking()]] - `contains` [EXTRACTED]
-- [[startPlacing()]] - `contains` [EXTRACTED]
-- [[staticParts()]] - `contains` [EXTRACTED]
-- [[stopBuild()]] - `contains` [EXTRACTED]
-- [[tabs.Base()]] - `contains` [EXTRACTED]
-- [[tabs.Crates()]] - `contains` [EXTRACTED]
-- [[tabs.Daily()]] - `contains` [EXTRACTED]
-- [[tabs.Items()]] - `contains` [EXTRACTED]
-- [[tabs.Robux()]] - `contains` [EXTRACTED]
-- [[tabs.Shop()]] - `contains` [EXTRACTED]
-- [[tabs.Themes()]] - `contains` [EXTRACTED]
-- [[toast()]] - `contains` [EXTRACTED]
-- [[tryCommit()]] - `contains` [EXTRACTED]
-- [[tryPick()]] - `contains` [EXTRACTED]
-- [[tryPutAway()]] - `contains` [EXTRACTED]
-- [[updateDot()]] - `contains` [EXTRACTED]
-- [[updateVisible()_3]] - `contains` [EXTRACTED]
+- [[Connections_2659]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_3
+#graphify/document #graphify/EXTRACTED #community/Community_181

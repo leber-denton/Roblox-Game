@@ -1,24 +1,33 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau"
-type: "code"
-community: "Community 239"
+source_file: "vault/Graph/ColiseumUI.client.luau_2.md"
+type: "document"
+community: "Community 121"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_239
+  - community/Community_121
 ---
 
-# ColiseumUI.client.luau
+# ColiseumUI.client.luau_2.md
 
 ## Connections
-- [[build()]] - `contains` [EXTRACTED]
-- [[header()]] - `contains` [EXTRACTED]
-- [[hideOwn()]] - `contains` [EXTRACTED]
-- [[new()_5]] - `contains` [EXTRACTED]
-- [[refreshPill()]] - `contains` [EXTRACTED]
-- [[replicatedstorage_waitforchild_2]] - `imports` [EXTRACTED]
-- [[round()_2]] - `contains` [EXTRACTED]
-- [[row()_1]] - `contains` [EXTRACTED]
+- [[ColiseumUI.client.luau_3]] - `references` [EXTRACTED]
+- [[ColiseumUI.client.luau_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 121]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 239]] - `references` [EXTRACTED]
+- [[build()_4]] - `references` [EXTRACTED]
+- [[build()_3]] - `references` [EXTRACTED]
+- [[header()_3]] - `references` [EXTRACTED]
+- [[header()_4]] - `references` [EXTRACTED]
+- [[hideOwn()_1]] - `references` [EXTRACTED]
+- [[hideOwn()_1_1]] - `references` [EXTRACTED]
+- [[new()_5_1]] - `references` [EXTRACTED]
+- [[refreshPill()_1]] - `references` [EXTRACTED]
+- [[refreshPill()_1_1]] - `references` [EXTRACTED]
+- [[replicatedstorage_waitforchild_2]] - `references` [EXTRACTED]
+- [[round()_2_1]] - `references` [EXTRACTED]
+- [[row()_1_2]] - `references` [EXTRACTED]
+- [[row()_1_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_239
+#graphify/document #graphify/EXTRACTED #community/Community_121

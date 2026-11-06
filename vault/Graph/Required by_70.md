@@ -12,6 +12,6 @@ tags:
 # Required by
 
 ## Connections
-- [[EventHUD_2]] - `contains` [EXTRACTED]
+- [[EventHUD]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_267

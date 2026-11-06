@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/actions.collect().md"
+source_file: "vault/Graph/actions.collect()_2.md"
 type: "document"
-community: "Community 175"
-location: "L12"
+community: "Community 152"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_175
+  - community/Community_152
 ---
 
-# actions.collect()
+# actions.collect()_2.md
 
 ## Connections
-- [[Connections_493]] - `contains` [EXTRACTED]
-- [[actions.collect()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 175]] - `references` [EXTRACTED]
+- [[actions.collect()_1]] - `references` [EXTRACTED]
+- [[actions.collect()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_175
+#graphify/document #graphify/EXTRACTED #community/Community_152

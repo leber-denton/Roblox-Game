@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/clearButtons().md"
+source_file: "vault/Graph/setCard()_1.md"
 type: "document"
-community: "Community 103"
+community: "Community 101"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_103
+  - community/Community_101
 ---
 
 # Connections
 
 ## Connections
-- [[clearButtons()_2]] - `contains` [EXTRACTED]
+- [[setCard()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_103
+#graphify/document #graphify/EXTRACTED #community/Community_101

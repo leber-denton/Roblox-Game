@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/parentRef().md"
 type: "document"
-community: "Community 170"
+community: "Community 112"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_170
+  - community/Community_112
 ---
 
 # parentRef().md
@@ -16,4 +16,4 @@ tags:
 - [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
 - [[parentRef()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_170
+#graphify/document #graphify/EXTRACTED #community/Community_112

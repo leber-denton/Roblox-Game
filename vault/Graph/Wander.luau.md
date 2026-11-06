@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/Wander.luau"
 type: "code"
-community: "Community 21"
+community: "Community 22"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_22
 ---
 
 # Wander.luau
@@ -18,4 +18,4 @@ tags:
 - [[ignoreList()]] - `contains` [EXTRACTED]
 - [[step()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_21
+#graphify/code #graphify/EXTRACTED #community/Community_22

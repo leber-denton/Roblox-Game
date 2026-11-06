@@ -1,36 +1,54 @@
 ---
 type: community
-members: 24
+members: 42
 ---
 
 # Community 161
 
-**Members:** 24 nodes
+**Members:** 42 nodes
 
 ## Members
-- [[Community 73]] - document - vault/Graph/_COMMUNITY_Community 73.md
-- [[Connections_444]] - document - vault/Graph/Required by_50.md
-- [[Connections_445]] - document - vault/Graph/Required by_51.md
-- [[Connections_446]] - document - vault/Graph/Requires_50.md
-- [[Connections_447]] - document - vault/Graph/Requires_51.md
-- [[Connections_448]] - document - vault/Graph/RouteTrainerService_1.md
-- [[Connections_449]] - document - vault/Graph/RouteTrainerService.md
-- [[Connections to other communities_18]] - document - vault/Graph/_COMMUNITY_Community 73.md
-- [[GraphRouteTrainerService]] - document - vault/Graph/RouteTrainerService.md
-- [[Live Query (requires Dataview plugin)_24]] - document - vault/Graph/_COMMUNITY_Community 73.md
-- [[Members_24]] - document - vault/Graph/_COMMUNITY_Community 73.md
-- [[Required by_52]] - document - vault/Graph/Required by_51.md
-- [[Required by_50_1]] - document - vault/Graph/Required by_50.md
-- [[Required by_50_2]] - document - vault/Graph/Required by_50.md
-- [[Required by_51]] - document - vault/Graph/Required by_51.md
-- [[Requires_52]] - document - vault/Graph/Requires_51.md
-- [[Requires_50_1]] - document - vault/Graph/Requires_50.md
-- [[Requires_50_2]] - document - vault/Graph/Requires_50.md
-- [[Requires_51]] - document - vault/Graph/Requires_51.md
+- [[Community 161]] - document - vault/Graph/_COMMUNITY_Community 161.md
+- [[Community 345]] - document - vault/Graph/_COMMUNITY_Community 345.md
+- [[Community 73_2]] - document - vault/Graph/_COMMUNITY_Community 73.md
+- [[Community 73]] - document - vault/Graph/Community 73.md
+- [[Community 73_1]] - document - vault/Graph/Community 73.md
+- [[Connections_2143]] - document - vault/Graph/Community 73.md
+- [[Connections_2144]] - document - vault/Graph/GraphRouteTrainerService.md
+- [[Connections_2145]] - document - vault/Graph/Required by_52_1.md
+- [[Connections_2146]] - document - vault/Graph/Required by_86.md
+- [[Connections_2147]] - document - vault/Graph/RouteTrainerService_1_1.md
+- [[Connections_2148]] - document - vault/Graph/RouteTrainerService_1.md
+- [[Connections_2149]] - document - vault/Graph/RouteTrainerService_2.md
+- [[Connections_2150]] - document - vault/Graph/RouteTrainerService.md
+- [[Connections to other communities_126]] - document - vault/Graph/_COMMUNITY_Community 161.md
+- [[Connections to other communities_127]] - document - vault/Graph/_COMMUNITY_Community 345.md
+- [[Connections to other communities_128]] - document - vault/Graph/_COMMUNITY_Community 73.md
+- [[GraphRouteTrainerService_1]] - document - vault/Graph/RouteTrainerService.md
+- [[GraphRouteTrainerService]] - document - vault/Graph/GraphRouteTrainerService.md
+- [[GraphRouteTrainerService_2]] - document - vault/Graph/GraphRouteTrainerService.md
+- [[Live Query (requires Dataview plugin)_135]] - document - vault/Graph/_COMMUNITY_Community 161.md
+- [[Live Query (requires Dataview plugin)_136]] - document - vault/Graph/_COMMUNITY_Community 345.md
+- [[Live Query (requires Dataview plugin)_137]] - document - vault/Graph/_COMMUNITY_Community 73.md
+- [[Members_137]] - document - vault/Graph/_COMMUNITY_Community 161.md
+- [[Members_138]] - document - vault/Graph/_COMMUNITY_Community 345.md
+- [[Members_139]] - document - vault/Graph/_COMMUNITY_Community 73.md
+- [[Required by_35]] - document - vault/Graph/Required by_86.md
+- [[Required by_52]] - document - vault/Graph/Required by_52_1.md
+- [[Required by_52_1]] - document - vault/Graph/Required by_52_1.md
+- [[Required by_86]] - document - vault/Graph/Required by_86.md
 - [[RouteTrainerService]] - document - vault/Graph/RouteTrainerService.md
 - [[RouteTrainerService_1]] - document - vault/Graph/RouteTrainerService_1.md
-- [[RouteTrainerService_1_1]] - document - vault/Graph/RouteTrainerService_1.md
-- [[Top bridge nodes_18]] - document - vault/Graph/_COMMUNITY_Community 73.md
+- [[RouteTrainerService_1_2]] - document - vault/Graph/RouteTrainerService_1_1.md
+- [[RouteTrainerService_1_3]] - document - vault/Graph/RouteTrainerService_1.md
+- [[RouteTrainerService_1_1]] - document - vault/Graph/RouteTrainerService_1_1.md
+- [[RouteTrainerService_2]] - document - vault/Graph/RouteTrainerService_2.md
+- [[RouteTrainerService_2_1]] - document - vault/Graph/RouteTrainerService_2.md
+- [[Top bridge nodes_132]] - document - vault/Graph/_COMMUNITY_Community 161.md
+- [[Top bridge nodes_133]] - document - vault/Graph/_COMMUNITY_Community 345.md
+- [[Top bridge nodes_134]] - document - vault/Graph/_COMMUNITY_Community 73.md
+- [[_COMMUNITY_Community 161]] - document - vault/Graph/_COMMUNITY_Community 161.md
+- [[_COMMUNITY_Community 345]] - document - vault/Graph/_COMMUNITY_Community 345.md
 - [[_COMMUNITY_Community 73]] - document - vault/Graph/_COMMUNITY_Community 73.md
 
 ## Live Query (requires Dataview plugin)
@@ -41,7 +59,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 256]]
+- 2 edges to [[_COMMUNITY_Community 119]]
+- 2 edges to [[_COMMUNITY_Community 664]]
+- 1 edge to [[_COMMUNITY_Community 330]]
 
 ## Top bridge nodes
+- [[_COMMUNITY_Community 345]] - degree 6, connects to 2 communities
+- [[_COMMUNITY_Community 161]] - degree 9, connects to 1 community
 - [[_COMMUNITY_Community 73]] - degree 5, connects to 1 community
+- [[RouteTrainerService_2]] - degree 3, connects to 1 community

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.larva().md"
+source_file: "vault/Graph/commands.rare().md"
 type: "document"
-community: "Community 133"
+community: "Community 1120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_1120
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.larva()_2]] - `contains` [EXTRACTED]
+- [[commands.rare()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_1120

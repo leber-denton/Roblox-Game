@@ -12,7 +12,7 @@ tags:
 # StoryService.requestMilestone()
 
 ## Connections
-- [[Connections_713]] - `contains` [EXTRACTED]
+- [[Connections_3359]] - `contains` [EXTRACTED]
 - [[StoryService.requestMilestone()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

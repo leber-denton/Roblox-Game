@@ -12,7 +12,7 @@ tags:
 # RouteTrainerService
 
 ## Connections
-- [[Connections_449]] - `contains` [EXTRACTED]
-- [[GraphRouteTrainerService]] - `contains` [EXTRACTED]
+- [[Connections_2150]] - `contains` [EXTRACTED]
+- [[GraphRouteTrainerService_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_161

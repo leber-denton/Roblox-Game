@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/nameHits().md"
+source_file: "vault/Graph/Connections_106.md"
 type: "document"
-community: "Community 112"
-location: "L14"
+community: "Community 1040"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_112
+  - community/Community_1040
 ---
 
-# Connections
+# Connections_106.md
 
 ## Connections
-- [[nameHits()_2]] - `contains` [EXTRACTED]
+- [[CodeCreatureBuilder]] - `references` [EXTRACTED]
+- [[Connections_102]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_112
+#graphify/document #graphify/EXTRACTED #community/Community_1040

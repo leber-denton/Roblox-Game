@@ -12,7 +12,7 @@ tags:
 # count()
 
 ## Connections
-- [[Connections_699]] - `contains` [EXTRACTED]
+- [[Connections_3328]] - `contains` [EXTRACTED]
 - [[count()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

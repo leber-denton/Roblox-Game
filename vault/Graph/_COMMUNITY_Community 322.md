@@ -8,18 +8,18 @@ members: 12
 **Members:** 12 nodes
 
 ## Members
-- [[Community 37]] - document - vault/Graph/_COMMUNITY_Community 37.md
-- [[Connections_813]] - document - vault/Graph/Wander_1.md
-- [[Connections_814]] - document - vault/Graph/Wander.md
-- [[Connections to other communities_59]] - document - vault/Graph/_COMMUNITY_Community 37.md
-- [[GraphWander]] - document - vault/Graph/Wander.md
-- [[Live Query (requires Dataview plugin)_75]] - document - vault/Graph/_COMMUNITY_Community 37.md
-- [[Members_75]] - document - vault/Graph/_COMMUNITY_Community 37.md
-- [[Top bridge nodes_59]] - document - vault/Graph/_COMMUNITY_Community 37.md
-- [[Wander]] - document - vault/Graph/Wander_1.md
-- [[Wander_2]] - document - vault/Graph/Wander.md
-- [[Wander_1]] - document - vault/Graph/Wander_1.md
-- [[_COMMUNITY_Community 37]] - document - vault/Graph/_COMMUNITY_Community 37.md
+- [[Connections_3858]] - document - vault/Graph/go().md
+- [[Connections_3859]] - document - vault/Graph/header()_2.md
+- [[Connections_3860]] - document - vault/Graph/refresh()_2.md
+- [[Connections_3861]] - document - vault/Graph/row()_3.md
+- [[go()_4]] - document - vault/Graph/go().md
+- [[go()_3]] - document - vault/Graph/go().md
+- [[header()_9]] - document - vault/Graph/header()_2.md
+- [[header()_2_2]] - document - vault/Graph/header()_2.md
+- [[refresh()_11]] - document - vault/Graph/refresh()_2.md
+- [[refresh()_2_2]] - document - vault/Graph/refresh()_2.md
+- [[row()_10]] - document - vault/Graph/row()_3.md
+- [[row()_3_2]] - document - vault/Graph/row()_3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,8 +29,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 23]]
-- 1 edge to [[_COMMUNITY_Community 256]]
+- 4 edges to [[_COMMUNITY_Community 117]]
+- 1 edge to [[_COMMUNITY_Community 120]]
+- 1 edge to [[_COMMUNITY_Community 86]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 37]] - degree 5, connects to 2 communities
+- [[refresh()_2_2]] - degree 6, connects to 3 communities
+- [[row()_3_2]] - degree 4, connects to 1 community
+- [[go()_3]] - degree 3, connects to 1 community
+- [[header()_2_2]] - degree 3, connects to 1 community

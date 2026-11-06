@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Connections_797]] - document - vault/Graph/commands.towerTop().md
-- [[commands.towerTop()_2]] - document - vault/Graph/commands.towerTop().md
-- [[commands.towerTop()_1]] - document - vault/Graph/commands.towerTop().md
+- [[Connections_3753]] - document - vault/Graph/Connections_1072.md
+- [[Connections_3754]] - document - vault/Graph/Connections_1072.md
+- [[Connections_1072_1]] - document - vault/Graph/Connections_1072.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,7 +21,6 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 224]]
 
 ## Top bridge nodes
-- [[commands.towerTop()_1]] - degree 3, connects to 2 communities
+- [[Connections_1072_1]] - degree 2, connects to 1 community

@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/HUD.md"
+source_file: "vault/Graph/GraphHUD.md"
 type: "document"
 community: "Community 232"
 location: "L1"
@@ -9,10 +9,11 @@ tags:
   - community/Community_232
 ---
 
-# Graph/HUD.md
+# GraphHUD.md
 
 ## Connections
-- [[HUD]] - `contains` [EXTRACTED]
+- [[GraphHUD_1]] - `contains` [EXTRACTED]
 - [[HUD_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 232]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_232

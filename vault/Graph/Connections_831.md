@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/script_parent_npc.md"
+source_file: "vault/Graph/Connections_623.md"
 type: "document"
-community: "Community 33"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[script_parent_npc_1]] - `contains` [EXTRACTED]
+- [[Connections_830]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_33
+#graphify/document #graphify/EXTRACTED #community/Community_12

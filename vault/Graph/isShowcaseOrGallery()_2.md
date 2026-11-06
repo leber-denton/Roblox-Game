@@ -12,7 +12,7 @@ tags:
 # isShowcaseOrGallery()
 
 ## Connections
-- [[Connections_103]] - `contains` [EXTRACTED]
+- [[Connections_265]] - `contains` [EXTRACTED]
 - [[isShowcaseOrGallery()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_112

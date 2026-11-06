@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/ignoreList().md"
+source_file: "vault/Graph/ignoreList()_2.md"
 type: "document"
-community: "Community 94"
-location: "L12"
+community: "Community 179"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_94
+  - community/Community_179
 ---
 
-# ignoreList()
+# ignoreList()_2.md
 
 ## Connections
-- [[Connections_1151]] - `contains` [EXTRACTED]
-- [[ignoreList()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 179]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 94]] - `references` [EXTRACTED]
+- [[ignoreList()_1]] - `references` [EXTRACTED]
+- [[ignoreList()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_94
+#graphify/document #graphify/EXTRACTED #community/Community_179

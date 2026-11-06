@@ -1,21 +1,20 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/DecorUI.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau"
 type: "code"
-community: "Community 3"
-location: "L104"
+community: "Community 421"
+location: "L412"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_3
+  - community/Community_421
 ---
 
 # preview()
 
 ## Connections
-- [[DecorData.build()]] - `calls` [INFERRED]
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
-- [[itemCard()]] - `calls` [EXTRACTED]
+- [[CreatureBuilder.build()]] - `calls` [INFERRED]
+- [[Tutorial.client.luau_5]] - `contains` [EXTRACTED]
 - [[new()_7]] - `calls` [EXTRACTED]
-- [[showReveal()]] - `calls` [EXTRACTED]
+- [[showPicker()_1]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_3
+#graphify/code #graphify/EXTRACTED #community/Community_421

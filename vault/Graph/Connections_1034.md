@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/give().md"
+source_file: "vault/Graph/refreshTag()_2.md"
 type: "document"
-community: "Community 75"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_75
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[give()_2]] - `contains` [EXTRACTED]
+- [[refreshTag()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_75
+#graphify/document #graphify/EXTRACTED #community/Community_12

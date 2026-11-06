@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/finishRanked().md"
 type: "document"
-community: "Community 123"
+community: "Community 229"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_229
 ---
 
 # finishRanked()
 
 ## Connections
-- [[Connections_190]] - `contains` [EXTRACTED]
+- [[Connections_3238]] - `contains` [EXTRACTED]
 - [[finishRanked()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_229

@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/spawnFor().md"
+source_file: "vault/Graph/spawnFor()_1.md"
 type: "document"
-community: "Community 30"
+community: "Community 134"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_134
 ---
 
-# spawnFor().md
+# spawnFor()_1.md
 
 ## Connections
-- [[TutorialService.luau_1]] - `references` [EXTRACTED]
-- [[WildSpawner.spawnOne()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
-- [[spawnFor()_2]] - `contains` [EXTRACTED]
-- [[startNibbit()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[spawnFor()_3]] - `contains` [EXTRACTED]
+- [[spawnFor()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_134

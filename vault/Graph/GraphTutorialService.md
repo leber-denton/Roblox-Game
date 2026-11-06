@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/TutorialService.md"
+source_file: "vault/Graph/GraphTutorialService.md"
 type: "document"
-community: "Community 164"
+community: "Community 855"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_164
+  - community/Community_855
 ---
 
-# Graph/TutorialService.md
+# GraphTutorialService.md
 
 ## Connections
-- [[TutorialService]] - `contains` [EXTRACTED]
-- [[TutorialService_1]] - `references` [EXTRACTED]
+- [[GraphTutorialService_1]] - `contains` [EXTRACTED]
+- [[TutorialService_1_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 164]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_164
+#graphify/document #graphify/EXTRACTED #community/Community_855

@@ -13,6 +13,7 @@ tags:
 
 ## Connections
 - [[PlayerData]] - `contains` [EXTRACTED]
-- [[PlayerData_1]] - `references` [EXTRACTED]
+- [[PlayerData_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 160]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_160

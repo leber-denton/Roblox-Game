@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/handle().md"
 type: "document"
-community: "Community 195"
+community: "Community 120"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_120
 ---
 
 # handle()
 
 ## Connections
-- [[Connections_560]] - `contains` [EXTRACTED]
+- [[Connections_1066]] - `contains` [EXTRACTED]
 - [[handle()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_120

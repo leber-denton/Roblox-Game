@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/game_getservice.md"
+source_file: "vault/Graph/Connections_655.md"
 type: "document"
-community: "Community 227"
-location: "L14"
+community: "Community 12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_227
+  - community/Community_12
 ---
 
-# Connections
+# Connections_655.md
 
 ## Connections
-- [[game_getservice_1]] - `contains` [EXTRACTED]
+- [[Connections_894]] - `contains` [EXTRACTED]
+- [[Connections_654]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_227
+#graphify/document #graphify/EXTRACTED #community/Community_12

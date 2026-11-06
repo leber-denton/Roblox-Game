@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_3.md"
+source_file: "vault/Graph/scaleOf()_2.md"
 type: "document"
-community: "Community 188"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_188
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[Required by_55]] - `contains` [EXTRACTED]
+- [[scaleOf()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_188
+#graphify/document #graphify/EXTRACTED #community/Community_117

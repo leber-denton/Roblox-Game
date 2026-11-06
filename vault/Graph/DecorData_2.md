@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Code/DecorData.md"
+source_file: "vault/Graph/DecorData_2.md"
 type: "document"
-community: "Community 47"
+community: "Community 429"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_47
+  - community/Community_429
 ---
 
-# DecorData
+# DecorData_2.md
 
 ## Connections
-- [[CodeDecorData]] - `contains` [EXTRACTED]
-- [[Functions_94]] - `contains` [EXTRACTED]
-- [[Required by_91]] - `contains` [EXTRACTED]
-- [[Requires_92]] - `contains` [EXTRACTED]
+- [[CodeDecorData_1]] - `references` [EXTRACTED]
+- [[DecorData_2_1]] - `contains` [EXTRACTED]
+- [[Functions_94_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 47]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_47
+#graphify/document #graphify/EXTRACTED #community/Community_429

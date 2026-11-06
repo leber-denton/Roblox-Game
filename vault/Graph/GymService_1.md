@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Code/GymService.md"
+source_file: "vault/Graph/GymService_1.md"
 type: "document"
-community: "Community 15"
+community: "Community 134"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_134
 ---
 
-# GymService
+# GymService_1.md
 
 ## Connections
-- [[CodeGymService]] - `contains` [EXTRACTED]
-- [[Functions_21]] - `contains` [EXTRACTED]
-- [[Required by_20]] - `contains` [EXTRACTED]
-- [[Requires_20]] - `contains` [EXTRACTED]
+- [[Functions_21_1]] - `references` [EXTRACTED]
+- [[GymService]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_134

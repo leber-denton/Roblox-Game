@@ -12,7 +12,7 @@ tags:
 # snapshotReal()
 
 ## Connections
-- [[Connections_328]] - `contains` [EXTRACTED]
+- [[Connections_1735]] - `contains` [EXTRACTED]
 - [[snapshotReal()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_140

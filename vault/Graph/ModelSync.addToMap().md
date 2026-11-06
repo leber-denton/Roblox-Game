@@ -12,7 +12,7 @@ tags:
 # ModelSync.addToMap()
 
 ## Connections
-- [[ModelSync.luau_2]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
 - [[cleanClone()]] - `calls` [EXTRACTED]
 - [[getShowcase()]] - `calls` [EXTRACTED]
 

@@ -12,7 +12,9 @@ tags:
 # Systems Overview_1.md
 
 ## Connections
-- [[Systems Overview_2]] - `contains` [EXTRACTED]
+- [[Systems Overview_1_1]] - `contains` [EXTRACTED]
+- [[Systems Overview_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 32]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 368]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_368

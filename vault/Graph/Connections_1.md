@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/fadeTo().md"
+source_file: "vault/Graph/CodeMusic.md"
 type: "document"
 community: "Community 100"
 location: "L14"
@@ -12,6 +12,6 @@ tags:
 # Connections
 
 ## Connections
-- [[fadeTo()_2]] - `contains` [EXTRACTED]
+- [[CodeMusic_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_100

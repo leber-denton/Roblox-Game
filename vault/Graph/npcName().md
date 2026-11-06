@@ -12,7 +12,7 @@ tags:
 # npcName()
 
 ## Connections
-- [[ModelSyncLookup.luau_2]] - `contains` [EXTRACTED]
+- [[ModelSyncLookup.luau_3]] - `contains` [EXTRACTED]
 - [[addNpc()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_61

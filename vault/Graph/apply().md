@@ -1,19 +1,22 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Regions.client.luau"
+source_file: "src/ServerScriptService/Modules/PassService.luau"
 type: "code"
-community: "Community 215"
-location: "L59"
+community: "Community 2"
+location: "L64"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_215
+  - community/Community_2
 ---
 
 # apply()
 
 ## Connections
-- [[Regions.client.luau_2]] - `contains` [EXTRACTED]
-- [[applyAll()]] - `calls` [EXTRACTED]
-- [[setSign()_1]] - `calls` [EXTRACTED]
+- [[BaseManager.recalcCapacity()]] - `calls` [INFERRED]
+- [[PassService.check()]] - `calls` [EXTRACTED]
+- [[PassService.init()]] - `calls` [EXTRACTED]
+- [[PassService.luau_3]] - `contains` [EXTRACTED]
+- [[addTrail()]] - `calls` [EXTRACTED]
+- [[apply()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_215
+#graphify/code #graphify/EXTRACTED #community/Community_2

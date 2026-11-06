@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/PassService.md"
+source_file: "vault/Code/CreatureBuilder.md"
 type: "document"
-community: "Community 285"
-location: "L13"
+community: "Community 294"
+location: "L8"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_285
+  - community/Community_294
 ---
 
 # Required by
 
 ## Connections
-- [[PassService_2]] - `contains` [EXTRACTED]
+- [[CreatureBuilder]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_285
+#graphify/document #graphify/EXTRACTED #community/Community_294

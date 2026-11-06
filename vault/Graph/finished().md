@@ -12,7 +12,7 @@ tags:
 # finished()
 
 ## Connections
-- [[Functions_54]] - `references` [INFERRED]
+- [[Functions_59]] - `references` [INFERRED]
 - [[RareEventService.luau]] - `contains` [EXTRACTED]
 - [[RareEventService.trigger()]] - `calls` [EXTRACTED]
 - [[despawn()]] - `calls` [EXTRACTED]

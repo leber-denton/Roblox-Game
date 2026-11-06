@@ -1,17 +1,18 @@
 ---
-source_file: "CLAUDE.md"
+source_file: "vault/Graph/File endings.md"
 type: "document"
-community: "Community 36"
-location: "L24"
+community: "Community 1415"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_36
+  - community/Community_1415
 ---
 
 # File endings
 
 ## Connections
-- [[Creature Quest]] - `contains` [EXTRACTED]
+- [[Connections_1764]] - `contains` [EXTRACTED]
+- [[File endings_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_36
+#graphify/document #graphify/EXTRACTED #community/Community_1415

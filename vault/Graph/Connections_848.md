@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/checkDay().md"
+source_file: "vault/Graph/Connections_632.md"
 type: "document"
-community: "Community 34"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_34
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[checkDay()_2]] - `contains` [EXTRACTED]
+- [[Connections_849]] - `contains` [EXTRACTED]
+- [[Connections_632_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_34
+#graphify/document #graphify/EXTRACTED #community/Community_12

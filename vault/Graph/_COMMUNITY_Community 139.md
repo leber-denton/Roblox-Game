@@ -1,28 +1,40 @@
 ---
 type: community
-members: 15
+members: 27
 ---
 
 # Community 139
 
-**Members:** 15 nodes
+**Members:** 27 nodes
 
 ## Members
-- [[Connections_312]] - document - vault/Graph/incoming().md
-- [[Connections_313]] - document - vault/Graph/new()_1.md
-- [[Connections_314]] - document - vault/Graph/offerBox().md
-- [[Connections_315]] - document - vault/Graph/playEvolution().md
-- [[Connections_316]] - document - vault/Graph/viewport().md
-- [[incoming()_2]] - document - vault/Graph/incoming().md
-- [[incoming()_1]] - document - vault/Graph/incoming().md
-- [[new()_16]] - document - vault/Graph/new()_1.md
-- [[new()_1_1]] - document - vault/Graph/new()_1.md
-- [[offerBox()_2]] - document - vault/Graph/offerBox().md
-- [[offerBox()_1]] - document - vault/Graph/offerBox().md
-- [[playEvolution()_2]] - document - vault/Graph/playEvolution().md
-- [[playEvolution()_1]] - document - vault/Graph/playEvolution().md
-- [[viewport()_2]] - document - vault/Graph/viewport().md
-- [[viewport()_1]] - document - vault/Graph/viewport().md
+- [[Connections_1705]] - document - vault/Graph/Connections_1097.md
+- [[Connections_1706]] - document - vault/Graph/Connections_1097.md
+- [[Connections_1707]] - document - vault/Graph/Connections_1118.md
+- [[Connections_1708]] - document - vault/Graph/Connections_1118.md
+- [[Connections_1709]] - document - vault/Graph/Connections_1125.md
+- [[Connections_1710]] - document - vault/Graph/Connections_1125.md
+- [[Connections_1711]] - document - vault/Graph/darker()_1.md
+- [[Connections_1712]] - document - vault/Graph/darker()_2.md
+- [[Connections_1713]] - document - vault/Graph/Shapes.cocoon()_1.md
+- [[Connections_1714]] - document - vault/Graph/Shapes.cocoon()_2.md
+- [[Connections_1715]] - document - vault/Graph/Shapes.larva()_1.md
+- [[Connections_1716]] - document - vault/Graph/Shapes.larva()_2.md
+- [[Connections_1097_1]] - document - vault/Graph/Connections_1097.md
+- [[Connections_1118_1]] - document - vault/Graph/Connections_1118.md
+- [[Connections_1125_1]] - document - vault/Graph/Connections_1125.md
+- [[Shapes.cocoon()_4]] - document - vault/Graph/Shapes.cocoon()_2.md
+- [[Shapes.cocoon()_3]] - document - vault/Graph/Shapes.cocoon()_1.md
+- [[Shapes.cocoon()_1_1]] - document - vault/Graph/Shapes.cocoon()_1.md
+- [[Shapes.cocoon()_2_1]] - document - vault/Graph/Shapes.cocoon()_2.md
+- [[Shapes.larva()_4]] - document - vault/Graph/Shapes.larva()_2.md
+- [[Shapes.larva()_3]] - document - vault/Graph/Shapes.larva()_1.md
+- [[Shapes.larva()_1_1]] - document - vault/Graph/Shapes.larva()_1.md
+- [[Shapes.larva()_2_1]] - document - vault/Graph/Shapes.larva()_2.md
+- [[darker()_4]] - document - vault/Graph/darker()_2.md
+- [[darker()_3]] - document - vault/Graph/darker()_1.md
+- [[darker()_1_1]] - document - vault/Graph/darker()_1.md
+- [[darker()_2_1]] - document - vault/Graph/darker()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,13 +44,23 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 10 edges to [[_COMMUNITY_Community 203]]
-- 1 edge to [[_COMMUNITY_Community 201]]
-- 1 edge to [[_COMMUNITY_Community 167]]
+- 10 edges to [[_COMMUNITY_Community 151]]
+- 4 edges to [[_COMMUNITY_Community 176]]
+- 3 edges to [[_COMMUNITY_Community 137]]
+- 1 edge to [[_COMMUNITY_Community 1068]]
+- 1 edge to [[_COMMUNITY_Community 367]]
+- 1 edge to [[_COMMUNITY_Community 739]]
+- 1 edge to [[_COMMUNITY_Community 469]]
+- 1 edge to [[_COMMUNITY_Community 671]]
+- 1 edge to [[_COMMUNITY_Community 459]]
+- 1 edge to [[_COMMUNITY_Community 745]]
+- 1 edge to [[_COMMUNITY_Community 377]]
+- 1 edge to [[_COMMUNITY_Community 384]]
+- 1 edge to [[_COMMUNITY_Community 465]]
 
 ## Top bridge nodes
-- [[new()_1_1]] - degree 8, connects to 2 communities
-- [[viewport()_1]] - degree 6, connects to 2 communities
-- [[playEvolution()_1]] - degree 5, connects to 1 community
-- [[incoming()_1]] - degree 4, connects to 1 community
-- [[offerBox()_1]] - degree 4, connects to 1 community
+- [[darker()_1_1]] - degree 19, connects to 13 communities
+- [[Shapes.cocoon()_1_1]] - degree 6, connects to 3 communities
+- [[Shapes.larva()_1_1]] - degree 6, connects to 3 communities
+- [[Shapes.cocoon()_2_1]] - degree 4, connects to 1 community
+- [[Shapes.larva()_2_1]] - degree 4, connects to 1 community

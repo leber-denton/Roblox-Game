@@ -12,6 +12,7 @@ tags:
 # fmt().md
 
 ## Connections
+- [[EventHUD.client.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 45]] - `references` [EXTRACTED]
 - [[fmt()_2]] - `contains` [EXTRACTED]
 

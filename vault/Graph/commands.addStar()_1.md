@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/commands.addStar().md"
+source_file: "vault/Graph/commands.addStar()_1.md"
 type: "document"
-community: "Community 42"
+community: "Community 1047"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_1047
 ---
 
-# commands.addStar().md
+# commands.addStar()_1.md
 
 ## Connections
-- [[AdminService.luau]] - `references` [EXTRACTED]
-- [[BaseManager.getTeam()_1]] - `references` [EXTRACTED]
-- [[BaseManager.refresh()_1]] - `references` [EXTRACTED]
-- [[BattleData.applyStars()_1]] - `references` [EXTRACTED]
-- [[BattleData.stats()_1]] - `references` [EXTRACTED]
-- [[BattleData.xpForLevel()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[Connections_113_1]] - `references` [EXTRACTED]
 - [[commands.addStar()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_1047

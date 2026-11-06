@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/BattleData.effectiveness().md"
+source_file: "vault/Graph/BattleData.effectiveness()_1.md"
 type: "document"
-community: "Community 42"
+community: "Community 554"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_554
 ---
 
-# BattleData.effectiveness().md
+# BattleData.effectiveness()_1.md
 
 ## Connections
-- [[BattleData.effectiveness()_2]] - `contains` [EXTRACTED]
-- [[BattleData.luau_1]] - `references` [EXTRACTED]
+- [[BattleData.effectiveness()_3]] - `contains` [EXTRACTED]
+- [[BattleData.effectiveness()_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_554

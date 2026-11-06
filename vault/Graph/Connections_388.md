@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/rememberOriginals().md"
+source_file: "vault/Graph/Connections_427.md"
 type: "document"
-community: "Community 152"
+community: "Community 1156"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_152
+  - community/Community_1156
 ---
 
 # Connections
 
 ## Connections
-- [[rememberOriginals()_2]] - `contains` [EXTRACTED]
+- [[Connections_387]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_152
+#graphify/document #graphify/EXTRACTED #community/Community_1156

@@ -12,7 +12,7 @@ tags:
 # AdminService
 
 ## Connections
-- [[Connections_350]] - `contains` [EXTRACTED]
-- [[GraphAdminService]] - `contains` [EXTRACTED]
+- [[Connections_1838]] - `contains` [EXTRACTED]
+- [[GraphAdminService_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_145

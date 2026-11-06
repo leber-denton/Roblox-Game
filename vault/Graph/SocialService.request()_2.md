@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/SocialService.request().md"
+source_file: "vault/Graph/SocialService.request()_2.md"
 type: "document"
-community: "Community 9"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_168
 ---
 
-# SocialService.request()
+# SocialService.request()_2.md
 
 ## Connections
-- [[Connections_1132]] - `contains` [EXTRACTED]
-- [[SocialService.request()_1]] - `contains` [EXTRACTED]
+- [[SocialService.request()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_168

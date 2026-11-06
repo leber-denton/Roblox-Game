@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/NPC.wave().md"
+source_file: "vault/Graph/Connections_569.md"
 type: "document"
-community: "Community 30"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[NPC.wave()_2]] - `contains` [EXTRACTED]
+- [[Connections_762]] - `contains` [EXTRACTED]
+- [[Connections_569_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_12

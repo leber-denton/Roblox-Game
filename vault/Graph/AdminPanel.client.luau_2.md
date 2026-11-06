@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/AdminPanel.client.luau.md"
+source_file: "vault/Graph/AdminPanel.client.luau_2.md"
 type: "document"
-community: "Community 63"
-location: "L12"
+community: "Community 1010"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_63
+  - community/Community_1010
 ---
 
-# AdminPanel.client.luau
+# AdminPanel.client.luau_2.md
 
 ## Connections
-- [[AdminPanel.client.luau_1]] - `contains` [EXTRACTED]
-- [[Connections_1021]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau_1]] - `references` [EXTRACTED]
+- [[AdminPanel.client.luau_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 237]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 63]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_63
+#graphify/document #graphify/EXTRACTED #community/Community_1010

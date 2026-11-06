@@ -1,21 +1,20 @@
 ---
 type: community
-members: 9
+members: 8
 ---
 
 # Community 38
 
-**Members:** 9 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[CodeNpcGuard]] - document - vault/Code/NpcGuard.md
-- [[Functions_91]] - document - vault/Code/NpcGuard.md
-- [[NpcGuard_2]] - document - vault/Code/NpcGuard.md
+- [[Functions_128]] - document - vault/Code/NpcGuard.md
+- [[NpcGuard]] - document - vault/Code/NpcGuard.md
 - [[NpcGuard.luau_2]] - code - src/ServerScriptService/Modules/NpcGuard.luau
 - [[NpcGuard.run()]] - code - src/ServerScriptService/Modules/NpcGuard.luau
 - [[NpcGuard.stamp()]] - code - src/ServerScriptService/Modules/NpcGuard.luau
-- [[Required by_88]] - document - vault/Code/NpcGuard.md
-- [[Requires_89]] - document - vault/Code/NpcGuard.md
+- [[Required by_112]] - document - vault/Code/NpcGuard.md
+- [[Requires_124]] - document - vault/Code/NpcGuard.md
 - [[npcs()]] - code - src/ServerScriptService/Modules/NpcGuard.luau
 
 ## Live Query (requires Dataview plugin)
@@ -26,9 +25,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 13]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 - 1 edge to [[_COMMUNITY_Community 22]]
 
 ## Top bridge nodes
 - [[NpcGuard.luau_2]] - degree 4, connects to 1 community
-- [[CodeNpcGuard]] - degree 3, connects to 1 community
+- [[NpcGuard]] - degree 4, connects to 1 community

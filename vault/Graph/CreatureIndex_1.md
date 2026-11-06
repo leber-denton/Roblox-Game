@@ -1,20 +1,24 @@
 ---
-source_file: "vault/Code/CreatureIndex.md"
+source_file: "vault/Graph/CreatureIndex_1.md"
 type: "document"
-community: "Community 19"
+community: "Community 195"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_195
 ---
 
-# CreatureIndex
+# CreatureIndex_1.md
 
 ## Connections
-- [[CodeCreatureIndex]] - `contains` [EXTRACTED]
-- [[Functions_51]] - `contains` [EXTRACTED]
-- [[Required by_56]] - `contains` [EXTRACTED]
-- [[Requires_55]] - `contains` [EXTRACTED]
+- [[CodeCreatureIndex]] - `references` [EXTRACTED]
+- [[CreatureIndex_1_1]] - `contains` [EXTRACTED]
+- [[CreatureIndex_2]] - `references` [EXTRACTED]
+- [[Functions_51_1]] - `references` [EXTRACTED]
+- [[Required by_56]] - `references` [EXTRACTED]
+- [[Requires_55_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 217]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_19
+#graphify/document #graphify/EXTRACTED #community/Community_195

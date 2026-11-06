@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/PassService.check().md"
+source_file: "vault/Graph/PassService.check()_1.md"
 type: "document"
-community: "Community 41"
+community: "Community 1169"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_1169
 ---
 
-# PassService.check().md
+# PassService.check()_1.md
 
 ## Connections
+- [[Connections_446]] - `references` [EXTRACTED]
 - [[PassService.check()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[apply()_1_1]] - `references` [EXTRACTED]
-- [[onPlayerAdded()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/document #graphify/EXTRACTED #community/Community_1169

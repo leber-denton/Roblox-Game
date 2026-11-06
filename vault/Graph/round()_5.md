@@ -12,7 +12,7 @@ tags:
 # round()
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[new()_9]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_7

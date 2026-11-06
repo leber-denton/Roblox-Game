@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/ModelSync.restore().md"
 type: "document"
-community: "Community 194"
+community: "Community 112"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_194
+  - community/Community_112
 ---
 
 # ModelSync.restore()
 
 ## Connections
-- [[Connections_556]] - `contains` [EXTRACTED]
+- [[Connections_274]] - `contains` [EXTRACTED]
 - [[ModelSync.restore()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_194
+#graphify/document #graphify/EXTRACTED #community/Community_112

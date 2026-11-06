@@ -12,7 +12,7 @@ tags:
 # consider()
 
 ## Connections
-- [[Connections_49]] - `contains` [EXTRACTED]
+- [[Connections_125]] - `contains` [EXTRACTED]
 - [[consider()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_105

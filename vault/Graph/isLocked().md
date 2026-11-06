@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[FirstSpawnLock.client.luau]] - `contains` [EXTRACTED]
-- [[Functions_89]] - `references` [INFERRED]
+- [[Functions_125]] - `references` [INFERRED]
 - [[lockPrompt()]] - `calls` [EXTRACTED]
 - [[update()_1]] - `calls` [EXTRACTED]
 

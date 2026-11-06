@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Functions_98]] - document - vault/Code/LeaderboardService.md
-- [[LeaderboardService_2]] - document - vault/Code/LeaderboardService.md
-- [[Required by_95]] - document - vault/Code/LeaderboardService.md
-- [[Requires_96]] - document - vault/Code/LeaderboardService.md
+- [[Functions_157]] - document - vault/Code/LeaderboardService.md
+- [[LeaderboardService]] - document - vault/Code/LeaderboardService.md
+- [[Required by_147]] - document - vault/Code/LeaderboardService.md
+- [[Requires_152]] - document - vault/Code/LeaderboardService.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,4 +24,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[LeaderboardService_2]] - degree 4, connects to 1 community
+- [[LeaderboardService]] - degree 4, connects to 1 community

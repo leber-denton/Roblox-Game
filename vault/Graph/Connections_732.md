@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/gridLayout().md"
+source_file: "vault/Graph/commands.maxTeam()_2.md"
 type: "document"
-community: "Community 249"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_249
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[gridLayout()_1]] - `contains` [EXTRACTED]
+- [[commands.maxTeam()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_249
+#graphify/document #graphify/EXTRACTED #community/Community_12

@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/LockedLanes.client.luau.md"
+source_file: "vault/Graph/LockedLanes.client.luau_1.md"
 type: "document"
 community: "Community 178"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,8 +12,7 @@ tags:
 # LockedLanes.client.luau.md
 
 ## Connections
+- [[Connections_2595]] - `contains` [EXTRACTED]
 - [[LockedLanes.client.luau_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
-- [[replicatedstorage_waitforchild]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_178

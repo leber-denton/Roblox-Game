@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/AdminPanel_1.md"
+source_file: "vault/Graph/AdminPanel.md"
 type: "document"
 community: "Community 145"
 location: "L12"
@@ -12,7 +12,7 @@ tags:
 # AdminPanel
 
 ## Connections
-- [[AdminPanel_1]] - `contains` [EXTRACTED]
-- [[Connections_348]] - `contains` [EXTRACTED]
+- [[Connections_1835]] - `contains` [EXTRACTED]
+- [[GraphAdminPanel_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_145

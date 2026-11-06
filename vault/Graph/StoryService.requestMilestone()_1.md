@@ -13,6 +13,7 @@ tags:
 
 ## Connections
 - [[StoryService.luau_1]] - `references` [EXTRACTED]
+- [[StoryService.luau_2]] - `references` [EXTRACTED]
 - [[StoryService.requestMilestone()_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
 - [[begin()_1]] - `references` [EXTRACTED]

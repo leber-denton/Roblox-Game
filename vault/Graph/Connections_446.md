@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Requires_50.md"
+source_file: "vault/Graph/Connections_446.md"
 type: "document"
-community: "Community 161"
-location: "L14"
+community: "Community 1169"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_161
+  - community/Community_1169
 ---
 
-# Connections
+# Connections_446.md
 
 ## Connections
-- [[Requires_50_2]] - `contains` [EXTRACTED]
+- [[Connections_434]] - `contains` [EXTRACTED]
+- [[PassService.check()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_161
+#graphify/document #graphify/EXTRACTED #community/Community_1169

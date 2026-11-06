@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/npcName().md"
+source_file: "vault/Graph/npcName()_1.md"
 type: "document"
-community: "Community 169"
-location: "L1"
+community: "Community 1435"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_169
+  - community/Community_1435
 ---
 
 # npcName().md
 
 ## Connections
-- [[_COMMUNITY_Community 61]] - `references` [EXTRACTED]
-- [[addNpc()_1]] - `references` [EXTRACTED]
-- [[npcName()_2]] - `contains` [EXTRACTED]
+- [[Connections_1797]] - `contains` [EXTRACTED]
+- [[npcName()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_169
+#graphify/document #graphify/EXTRACTED #community/Community_1435

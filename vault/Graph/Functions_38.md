@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_38.md"
+source_file: "vault/Code/GymService.md"
 type: "document"
-community: "Community 132"
-location: "L1"
+community: "Community 15"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_132
+  - community/Community_15
 ---
 
-# Functions_38.md
+# Functions
 
 ## Connections
-- [[Functions_16_1]] - `references` [EXTRACTED]
-- [[Functions_38_1]] - `contains` [EXTRACTED]
-- [[TrainerAnimations_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 59]] - `references` [EXTRACTED]
+- [[GymService_2]] - `contains` [EXTRACTED]
+- [[placeLeaders()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_132
+#graphify/document #graphify/EXTRACTED #community/Community_15

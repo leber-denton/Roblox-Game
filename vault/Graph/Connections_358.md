@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/myBase().md"
+source_file: "vault/Graph/Connections_358.md"
 type: "document"
-community: "Community 146"
-location: "L14"
+community: "Community 1129"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_146
+  - community/Community_1129
 ---
 
-# Connections
+# Connections_358.md
 
 ## Connections
-- [[myBase()_2]] - `contains` [EXTRACTED]
+- [[Connections_302]] - `contains` [EXTRACTED]
+- [[DecorService.registerProduct()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_146
+#graphify/document #graphify/EXTRACTED #community/Community_1129

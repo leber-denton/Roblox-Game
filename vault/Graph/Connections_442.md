@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Requires_46.md"
+source_file: "vault/Graph/Connections_442.md"
 type: "document"
-community: "Community 160"
-location: "L14"
+community: "Community 1165"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_160
+  - community/Community_1165
 ---
 
-# Connections
+# Connections_442.md
 
 ## Connections
-- [[Requires_50]] - `contains` [EXTRACTED]
+- [[Connections_417]] - `contains` [EXTRACTED]
+- [[openTrade()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_160
+#graphify/document #graphify/EXTRACTED #community/Community_1165

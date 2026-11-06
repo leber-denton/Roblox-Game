@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/claimLastSunday().md"
+source_file: "vault/Graph/Creature Quest Catch & Battle Launch Checklist.md"
 type: "document"
-community: "Community 123"
+community: "Community 108"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_108
 ---
 
 # Connections
 
 ## Connections
-- [[claimLastSunday()_2]] - `contains` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_108

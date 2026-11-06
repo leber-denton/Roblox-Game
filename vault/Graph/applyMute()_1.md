@@ -12,7 +12,7 @@ tags:
 # applyMute().md
 
 ## Connections
-- [[Functions_57]] - `references` [EXTRACTED]
+- [[Functions_2]] - `references` [EXTRACTED]
 - [[Music.client.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 - [[applyMute()_2]] - `contains` [EXTRACTED]

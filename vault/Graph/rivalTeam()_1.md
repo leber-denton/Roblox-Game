@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/rivalTeam().md"
+source_file: "vault/Graph/rivalTeam()_2.md"
 type: "document"
-community: "Community 30"
-location: "L1"
+community: "Community 1215"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_1215
 ---
 
-# rivalTeam().md
+# rivalTeam()
 
 ## Connections
-- [[TutorialService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
+- [[Connections_1157]] - `contains` [EXTRACTED]
 - [[rivalTeam()_2]] - `contains` [EXTRACTED]
-- [[startRivalBattle()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_1215

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/finishRanked().md"
+source_file: "vault/Graph/Graphlaunch-checklist.md"
 type: "document"
-community: "Community 123"
+community: "Community 108"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_108
 ---
 
 # Connections
 
 ## Connections
-- [[finishRanked()_2]] - `contains` [EXTRACTED]
+- [[Graphlaunch-checklist_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_108

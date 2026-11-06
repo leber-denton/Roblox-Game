@@ -1,16 +1,22 @@
 ---
 type: community
-members: 3
+members: 9
 ---
 
 # Community 370
 
-**Members:** 3 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_897]] - document - vault/Graph/travelCFrame().md
-- [[travelCFrame()_2]] - document - vault/Graph/travelCFrame().md
-- [[travelCFrame()_1]] - document - vault/Graph/travelCFrame().md
+- [[Connections_4102]] - document - vault/Graph/Connections_11.md
+- [[Connections_4103]] - document - vault/Graph/Connections_11.md
+- [[Connections_4104]] - document - vault/Graph/leader()_1.md
+- [[Connections_4105]] - document - vault/Graph/leader()_2.md
+- [[Connections_11_1]] - document - vault/Graph/Connections_11.md
+- [[leader()_4]] - document - vault/Graph/leader()_2.md
+- [[leader()_3]] - document - vault/Graph/leader()_1.md
+- [[leader()_1_1]] - document - vault/Graph/leader()_1.md
+- [[leader()_2_1]] - document - vault/Graph/leader()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +26,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 23]]
+- 1 edge to [[_COMMUNITY_Community 120]]
 
 ## Top bridge nodes
-- [[travelCFrame()_1]] - degree 2, connects to 1 community
+- [[leader()_1_1]] - degree 3, connects to 1 community

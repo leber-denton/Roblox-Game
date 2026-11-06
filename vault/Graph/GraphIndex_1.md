@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Index.md"
+source_file: "vault/Graph/GraphIndex_1.md"
 type: "document"
-community: "Community 304"
-location: "L12"
+community: "Community 88"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_304
+  - community/Community_88
 ---
 
-# Graph/Index.md
+# GraphIndex_1.md
 
 ## Connections
-- [[Connections_788]] - `contains` [EXTRACTED]
-- [[GraphIndex]] - `contains` [EXTRACTED]
+- [[GraphIndex]] - `references` [EXTRACTED]
+- [[GraphIndex_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 304]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_304
+#graphify/document #graphify/EXTRACTED #community/Community_88

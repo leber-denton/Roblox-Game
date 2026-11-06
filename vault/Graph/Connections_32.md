@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GameData.ballMultiplier().md"
+source_file: "vault/Graph/setCardHP()_1.md"
 type: "document"
-community: "Community 103"
+community: "Community 101"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_103
+  - community/Community_101
 ---
 
 # Connections
 
 ## Connections
-- [[GameData.ballMultiplier()_2]] - `contains` [EXTRACTED]
+- [[setCardHP()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_103
+#graphify/document #graphify/EXTRACTED #community/Community_101

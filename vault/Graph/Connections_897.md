@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/travelCFrame().md"
+source_file: "vault/Graph/Connections_656.md"
 type: "document"
-community: "Community 370"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_370
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[travelCFrame()_2]] - `contains` [EXTRACTED]
+- [[Connections_896]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_370
+#graphify/document #graphify/EXTRACTED #community/Community_12

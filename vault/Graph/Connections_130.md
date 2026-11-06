@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Tools.md"
+source_file: "vault/Graph/lockOther().md"
 type: "document"
-community: "Community 115"
+community: "Community 105"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_115
+  - community/Community_105
 ---
 
 # Connections
 
 ## Connections
-- [[Tools_1]] - `contains` [EXTRACTED]
+- [[lockOther()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_115
+#graphify/document #graphify/EXTRACTED #community/Community_105

@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/Members_60.md"
+type: "document"
+community: "Community 206"
+location: "L14"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_206
+---
+
+# Connections
+
+## Connections
+- [[Members_180]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_206

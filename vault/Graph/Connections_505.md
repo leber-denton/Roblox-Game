@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/playbackTime().md"
+source_file: "vault/Graph/Functions_8.md"
 type: "document"
-community: "Community 176"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_176
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[playbackTime()_2]] - `contains` [EXTRACTED]
+- [[Functions_9]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_176
+#graphify/document #graphify/EXTRACTED #community/Community_117

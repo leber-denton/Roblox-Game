@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/schedule().md"
+source_file: "vault/Graph/corner()_1.md"
 type: "document"
-community: "Community 134"
+community: "Community 1124"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1124
 ---
 
 # Connections
 
 ## Connections
-- [[schedule()_2]] - `contains` [EXTRACTED]
+- [[corner()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1124

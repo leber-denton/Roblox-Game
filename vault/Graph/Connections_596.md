@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/trade.update().md"
+source_file: "vault/Graph/Connections_44.md"
 type: "document"
-community: "Community 203"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[trade.update()_2]] - `contains` [EXTRACTED]
+- [[Connections_595]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_1187

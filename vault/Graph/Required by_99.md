@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Code/TrainerAnimations.md"
+source_file: "vault/Graph/Required by_99.md"
 type: "document"
-community: "Community 59"
-location: "L7"
+community: "Community 132"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_59
+  - community/Community_132
 ---
 
-# Required by
+# Required by_99.md
 
 ## Connections
-- [[TrainerAnimations_2]] - `contains` [EXTRACTED]
+- [[Required by_11_3]] - `references` [EXTRACTED]
+- [[Required by_99_1]] - `contains` [EXTRACTED]
+- [[TrainerAnimations_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 132]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 59]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_59
+#graphify/document #graphify/EXTRACTED #community/Community_132

@@ -12,7 +12,7 @@ tags:
 # typeText()
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[hex()]] - `calls` [EXTRACTED]
 - [[setCard()]] - `calls` [EXTRACTED]
 

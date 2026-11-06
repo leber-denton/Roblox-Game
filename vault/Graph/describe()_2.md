@@ -12,7 +12,7 @@ tags:
 # describe()
 
 ## Connections
-- [[Connections_131]] - `contains` [EXTRACTED]
+- [[Connections_397]] - `contains` [EXTRACTED]
 - [[describe()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_116

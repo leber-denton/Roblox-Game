@@ -12,7 +12,7 @@ tags:
 # CreatureIndex
 
 ## Connections
-- [[Connections_538]] - `contains` [EXTRACTED]
-- [[GraphCreatureIndex]] - `contains` [EXTRACTED]
+- [[Connections_2739]] - `contains` [EXTRACTED]
+- [[GraphCreatureIndex_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_188

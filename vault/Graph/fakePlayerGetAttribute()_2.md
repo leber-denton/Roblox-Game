@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/fakePlayerGetAttribute().md"
+source_file: "vault/Graph/fakePlayerGetAttribute()_2.md"
 type: "document"
-community: "Community 173"
-location: "L12"
+community: "Community 1264"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_173
+  - community/Community_1264
 ---
 
-# fakePlayer:GetAttribute()
+# fakePlayerGetAttribute()_2.md
 
 ## Connections
-- [[Connections_487]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 173]] - `references` [EXTRACTED]
 - [[fakePlayerGetAttribute()_1]] - `contains` [EXTRACTED]
+- [[fakePlayerGetAttribute()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_173
+#graphify/document #graphify/EXTRACTED #community/Community_1264

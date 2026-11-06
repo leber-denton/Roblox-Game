@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[available()_1]] - `references` [EXTRACTED]
+- [[available()_4]] - `references` [EXTRACTED]
 - [[busy()_2]] - `contains` [EXTRACTED]
 - [[setupPortals()_1]] - `references` [EXTRACTED]
 

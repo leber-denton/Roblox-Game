@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Shapes.fox().md"
+source_file: "vault/Graph/Connections_358.md"
 type: "document"
-community: "Community 137"
-location: "L14"
+community: "Community 1129"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1129
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.fox()_2]] - `contains` [EXTRACTED]
+- [[Connections_303]] - `contains` [EXTRACTED]
+- [[Connections_358]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1129

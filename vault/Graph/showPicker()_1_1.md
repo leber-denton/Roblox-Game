@@ -1,23 +1,20 @@
 ---
 source_file: "vault/Graph/showPicker()_1.md"
 type: "document"
-community: "Community 33"
+community: "Community 109"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_109
 ---
 
 # showPicker()_1.md
 
 ## Connections
-- [[Bag.client.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
-- [[label()_1_1]] - `references` [EXTRACTED]
-- [[new()_4_1]] - `references` [EXTRACTED]
-- [[refresh()_1_1]] - `references` [EXTRACTED]
-- [[showDetail()_1_1]] - `references` [EXTRACTED]
-- [[showPicker()_4]] - `contains` [EXTRACTED]
+- [[label()_1_2]] - `references` [EXTRACTED]
+- [[new()_7_1]] - `references` [EXTRACTED]
+- [[preview()_2_1]] - `references` [EXTRACTED]
+- [[showPicker()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_33
+#graphify/document #graphify/EXTRACTED #community/Community_109

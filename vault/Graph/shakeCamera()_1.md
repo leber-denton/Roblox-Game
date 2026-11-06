@@ -1,22 +1,23 @@
 ---
 source_file: "vault/Graph/shakeCamera().md"
 type: "document"
-community: "Community 120"
+community: "Community 21"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_120
+  - community/Community_21
 ---
 
 # shakeCamera().md
 
 ## Connections
-- [[BattleFX.attack()_1]] - `references` [EXTRACTED]
+- [[BattleFX.attack()_5]] - `references` [EXTRACTED]
 - [[BattleFX.faint()_1]] - `references` [EXTRACTED]
-- [[BattleFX.throw()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
+- [[BattleFX.luau_2]] - `references` [EXTRACTED]
+- [[BattleFX.throw()_5]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 235]] - `references` [EXTRACTED]
 - [[impact()_1]] - `references` [EXTRACTED]
 - [[shakeCamera()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_120
+#graphify/document #graphify/EXTRACTED #community/Community_21

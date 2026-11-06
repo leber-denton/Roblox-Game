@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/isContent().md"
+source_file: "vault/Graph/Connections_67.md"
 type: "document"
-community: "Community 105"
-location: "L14"
+community: "Community 1017"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_105
+  - community/Community_1017
 ---
 
 # Connections
 
 ## Connections
-- [[isContent()_2]] - `contains` [EXTRACTED]
+- [[Connections_52]] - `contains` [EXTRACTED]
+- [[Connections_67]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_105
+#graphify/document #graphify/EXTRACTED #community/Community_1017

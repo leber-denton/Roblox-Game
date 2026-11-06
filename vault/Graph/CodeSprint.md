@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Code/Sprint.md"
+source_file: "vault/Graph/CodeSprint.md"
 type: "document"
-community: "Community 222"
-location: "L1"
+community: "Community 1393"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_222
+  - community/Community_1393
 ---
 
-# Code/Sprint.md
+# CodeSprint.md
 
 ## Connections
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[Sprint_2]] - `contains` [EXTRACTED]
+- [[CodeSprint_2]] - `contains` [EXTRACTED]
+- [[Connections_1720]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_222
+#graphify/document #graphify/EXTRACTED #community/Community_1393

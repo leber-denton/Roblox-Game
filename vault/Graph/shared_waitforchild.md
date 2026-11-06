@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/shared_waitforchild.md"
+source_file: "vault/Graph/shared_waitforchild_1.md"
 type: "document"
 community: "Community 181"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,12 +12,7 @@ tags:
 # shared_waitforchild.md
 
 ## Connections
-- [[BattleUI.client.luau]] - `references` [EXTRACTED]
-- [[CreatureIndex.client.luau]] - `references` [EXTRACTED]
-- [[DecorUI.client.luau]] - `references` [EXTRACTED]
-- [[Story.client.luau]] - `references` [EXTRACTED]
-- [[Tutorial.client.luau]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
+- [[Connections_2662]] - `contains` [EXTRACTED]
 - [[shared_waitforchild_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_181

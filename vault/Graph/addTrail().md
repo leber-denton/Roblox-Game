@@ -1,19 +1,19 @@
 ---
 source_file: "src/ServerScriptService/Modules/PassService.luau"
 type: "code"
-community: "Community 22"
+community: "Community 2"
 location: "L32"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_22
+  - community/Community_2
 ---
 
 # addTrail()
 
 ## Connections
-- [[PassService.luau_2]] - `contains` [EXTRACTED]
+- [[PassService.luau_3]] - `contains` [EXTRACTED]
 - [[PassService.onCharacter()]] - `calls` [EXTRACTED]
-- [[apply()_1]] - `calls` [EXTRACTED]
+- [[apply()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_22
+#graphify/code #graphify/EXTRACTED #community/Community_2

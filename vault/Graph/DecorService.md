@@ -12,7 +12,7 @@ tags:
 # DecorService
 
 ## Connections
-- [[Connections_391]] - `contains` [EXTRACTED]
-- [[GraphDecorService]] - `contains` [EXTRACTED]
+- [[Connections_2069]] - `contains` [EXTRACTED]
+- [[GraphDecorService_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_153

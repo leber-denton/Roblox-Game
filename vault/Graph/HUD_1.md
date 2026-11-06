@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[GraphHUD]] - `references` [EXTRACTED]
-- [[HUD_1_1]] - `contains` [EXTRACTED]
+- [[HUD_1_3]] - `contains` [EXTRACTED]
+- [[HUD_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 232]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_232

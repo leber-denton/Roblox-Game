@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Graph/itemList().md"
+source_file: "vault/Graph/itemList()_1.md"
 type: "document"
-community: "Community 87"
+community: "Community 134"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_87
+  - community/Community_134
 ---
 
-# itemList().md
+# itemList()_1.md
 
 ## Connections
 - [[LeagueService.init()_1]] - `references` [EXTRACTED]
 - [[LeagueService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
-- [[itemList()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
+- [[itemList()_1_1]] - `contains` [EXTRACTED]
+- [[itemList()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_87
+#graphify/document #graphify/EXTRACTED #community/Community_134

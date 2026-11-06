@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/rebuildBoard().md"
+source_file: "vault/Graph/Connections_504.md"
 type: "document"
-community: "Community 203"
+community: "Community 1186"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_1186
 ---
 
 # Connections
 
 ## Connections
-- [[rebuildBoard()_2]] - `contains` [EXTRACTED]
+- [[Connections_592]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_1186

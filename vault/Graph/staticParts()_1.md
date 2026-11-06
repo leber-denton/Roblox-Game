@@ -12,8 +12,9 @@ tags:
 # staticParts().md
 
 ## Connections
+- [[DecorUI.client.luau_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[check()_5]] - `references` [EXTRACTED]
+- [[check()_7]] - `references` [EXTRACTED]
 - [[staticParts()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_86

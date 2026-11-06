@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/standInFront().md"
+source_file: "vault/Graph/standInFront()_2.md"
 type: "document"
-community: "Community 366"
-location: "L12"
+community: "Community 90"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_366
+  - community/Community_90
 ---
 
-# standInFront()
+# standInFront()_2.md
 
 ## Connections
-- [[Connections_893]] - `contains` [EXTRACTED]
-- [[standInFront()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 366]] - `references` [EXTRACTED]
+- [[standInFront()_4]] - `contains` [EXTRACTED]
+- [[standInFront()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_366
+#graphify/document #graphify/EXTRACTED #community/Community_90

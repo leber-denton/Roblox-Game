@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/caption().md"
+source_file: "vault/Graph/Connections_1108.md"
 type: "document"
-community: "Community 9"
-location: "L14"
+community: "Community 1062"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_1062
 ---
 
-# Connections
+# Connections_1108.md
 
 ## Connections
-- [[caption()_2]] - `contains` [EXTRACTED]
+- [[Connections_158]] - `contains` [EXTRACTED]
+- [[Features.horns()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_1062

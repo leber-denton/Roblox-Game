@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 291
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_749]] - document - vault/Graph/Features.cannons().md
-- [[Features.cannons()_2]] - document - vault/Graph/Features.cannons().md
-- [[Features.cannons()_1]] - document - vault/Graph/Features.cannons().md
+- [[Community 199]] - document - vault/Graph/_COMMUNITY_Community 199.md
+- [[Connections to other communities_229]] - document - vault/Graph/_COMMUNITY_Community 199.md
+- [[Live Query (requires Dataview plugin)_260]] - document - vault/Graph/_COMMUNITY_Community 199.md
+- [[Members_264]] - document - vault/Graph/_COMMUNITY_Community 199.md
+- [[Top bridge nodes_235]] - document - vault/Graph/_COMMUNITY_Community 199.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 171]]
+- 1 edge to [[_COMMUNITY_Community 199]]
 
 ## Top bridge nodes
-- [[Features.cannons()_1]] - degree 2, connects to 1 community
+- [[Community 199]] - degree 5, connects to 1 community

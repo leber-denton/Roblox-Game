@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/updateLevel().md"
+source_file: "vault/Graph/Connections_658.md"
 type: "document"
-community: "Community 374"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_374
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[updateLevel()_2]] - `contains` [EXTRACTED]
+- [[Connections_900]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_374
+#graphify/document #graphify/EXTRACTED #community/Community_12

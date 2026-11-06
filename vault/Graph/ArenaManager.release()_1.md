@@ -12,6 +12,7 @@ tags:
 # ArenaManager.release().md
 
 ## Connections
+- [[ArenaManager.luau_1]] - `references` [EXTRACTED]
 - [[ArenaManager.release()_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 44]] - `references` [EXTRACTED]
 

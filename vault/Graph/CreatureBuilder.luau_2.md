@@ -1,61 +1,50 @@
 ---
-source_file: "src/ReplicatedStorage/Shared/CreatureBuilder.luau"
-type: "code"
-community: "Community 6"
+source_file: "vault/Graph/CreatureBuilder.luau_2.md"
+type: "document"
+community: "Community 176"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_6
+  - community/Community_176
 ---
 
-# CreatureBuilder.luau
+# CreatureBuilder.luau_2.md
 
 ## Connections
-- [[BaseManager.luau]] - `imports` [EXTRACTED]
-- [[BattleData.luau]] - `imports` [EXTRACTED]
-- [[BattleService.luau]] - `imports` [EXTRACTED]
-- [[CreatureBuilder.build()]] - `contains` [EXTRACTED]
-- [[CreatureBuilder.sizeScale()]] - `contains` [EXTRACTED]
-- [[DecorService.luau]] - `imports` [EXTRACTED]
-- [[Features.antennae()]] - `contains` [EXTRACTED]
-- [[Features.blush()]] - `contains` [EXTRACTED]
-- [[Features.boltTail()]] - `contains` [EXTRACTED]
-- [[Features.bud()]] - `contains` [EXTRACTED]
-- [[Features.cannons()]] - `contains` [EXTRACTED]
-- [[Features.fangs()]] - `contains` [EXTRACTED]
-- [[Features.finEars()]] - `contains` [EXTRACTED]
-- [[Features.flameMane()]] - `contains` [EXTRACTED]
-- [[Features.flameTail()]] - `contains` [EXTRACTED]
-- [[Features.flower()]] - `contains` [EXTRACTED]
-- [[Features.horns()]] - `contains` [EXTRACTED]
-- [[Features.leafBud()]] - `contains` [EXTRACTED]
-- [[Features.mane()]] - `contains` [EXTRACTED]
-- [[Features.spines()]] - `contains` [EXTRACTED]
-- [[Features.swirlTail()]] - `contains` [EXTRACTED]
-- [[Features.wings()]] - `contains` [EXTRACTED]
-- [[GameData.luau_2]] - `imports` [EXTRACTED]
-- [[Shapes.bird()]] - `contains` [EXTRACTED]
-- [[Shapes.blob()]] - `contains` [EXTRACTED]
-- [[Shapes.cocoon()]] - `contains` [EXTRACTED]
-- [[Shapes.crystal()]] - `contains` [EXTRACTED]
-- [[Shapes.dragon()]] - `contains` [EXTRACTED]
-- [[Shapes.fighter()]] - `contains` [EXTRACTED]
-- [[Shapes.fish()]] - `contains` [EXTRACTED]
-- [[Shapes.fox()]] - `contains` [EXTRACTED]
-- [[Shapes.ghost()]] - `contains` [EXTRACTED]
-- [[Shapes.larva()]] - `contains` [EXTRACTED]
-- [[Shapes.quad()]] - `contains` [EXTRACTED]
-- [[Shapes.rock()]] - `contains` [EXTRACTED]
-- [[Shapes.rodent()]] - `contains` [EXTRACTED]
-- [[Shapes.spiky()]] - `contains` [EXTRACTED]
-- [[Shapes.turtle()]] - `contains` [EXTRACTED]
-- [[WildSpawner.luau_2]] - `imports` [EXTRACTED]
-- [[darker()]] - `contains` [EXTRACTED]
-- [[lighter()]] - `contains` [EXTRACTED]
-- [[newPart()]] - `contains` [EXTRACTED]
-- [[shinyColor()]] - `contains` [EXTRACTED]
-- [[typeChip()]] - `contains` [EXTRACTED]
-- [[weld()]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.build()_1]] - `references` [EXTRACTED]
+- [[CreatureBuilder.luau_3]] - `references` [EXTRACTED]
+- [[CreatureBuilder.luau_2_1]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.sizeScale()_1_1]] - `references` [EXTRACTED]
+- [[Features.antennae()_1_1]] - `references` [EXTRACTED]
+- [[Features.blush()_1_1]] - `references` [EXTRACTED]
+- [[Features.boltTail()_1_1]] - `references` [EXTRACTED]
+- [[Features.bud()_1_1]] - `references` [EXTRACTED]
+- [[Features.cannons()_1_1]] - `references` [EXTRACTED]
+- [[Features.fangs()_1]] - `references` [EXTRACTED]
+- [[Features.flameMane()_1_1]] - `references` [EXTRACTED]
+- [[Features.flameTail()_1_1]] - `references` [EXTRACTED]
+- [[Features.flower()_1_1]] - `references` [EXTRACTED]
+- [[Features.horns()_1]] - `references` [EXTRACTED]
+- [[Features.leafBud()_1_1]] - `references` [EXTRACTED]
+- [[Features.mane()_1]] - `references` [EXTRACTED]
+- [[Features.spines()_1_1]] - `references` [EXTRACTED]
+- [[Features.wings()_1_1]] - `references` [EXTRACTED]
+- [[Shapes.bird()_1_1]] - `references` [EXTRACTED]
+- [[Shapes.blob()_1_1]] - `references` [EXTRACTED]
+- [[Shapes.cocoon()_1_1]] - `references` [EXTRACTED]
+- [[Shapes.fighter()_1_1]] - `references` [EXTRACTED]
+- [[Shapes.ghost()_1_1]] - `references` [EXTRACTED]
+- [[Shapes.larva()_1_1]] - `references` [EXTRACTED]
+- [[Shapes.quad()_1_1]] - `references` [EXTRACTED]
+- [[Shapes.rock()_1]] - `references` [EXTRACTED]
+- [[Shapes.spiky()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
+- [[darker()_1_1]] - `references` [EXTRACTED]
+- [[newPart()_1_1]] - `references` [EXTRACTED]
+- [[shinyColor()_1_1]] - `references` [EXTRACTED]
+- [[typeChip()_1_1]] - `references` [EXTRACTED]
+- [[weld()_1_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_6
+#graphify/document #graphify/EXTRACTED #community/Community_176

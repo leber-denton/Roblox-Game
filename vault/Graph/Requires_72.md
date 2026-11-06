@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/Menus.md"
+source_file: "vault/Code/BattleData.md"
 type: "document"
-community: "Community 284"
+community: "Community 25"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_284
+  - community/Community_25
 ---
 
 # Requires
 
 ## Connections
-- [[Menus]] - `contains` [EXTRACTED]
+- [[BattleData]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_284
+#graphify/document #graphify/EXTRACTED #community/Community_25

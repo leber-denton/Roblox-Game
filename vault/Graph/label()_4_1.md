@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[ShowcaseBuilder.build()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[label()_8]] - `contains` [EXTRACTED]
+- [[label()_9]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_136

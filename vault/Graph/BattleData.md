@@ -12,9 +12,9 @@ tags:
 # BattleData
 
 ## Connections
-- [[CodeBattleData]] - `contains` [EXTRACTED]
-- [[Functions_68]] - `contains` [EXTRACTED]
-- [[Required by_69]] - `contains` [EXTRACTED]
-- [[Requires_67]] - `contains` [EXTRACTED]
+- [[CodeBattleData_2]] - `contains` [EXTRACTED]
+- [[Functions_82]] - `contains` [EXTRACTED]
+- [[Required by_68]] - `contains` [EXTRACTED]
+- [[Requires_72]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_25

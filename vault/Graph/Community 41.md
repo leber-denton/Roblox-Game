@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 41.md"
+source_file: "vault/Graph/Community 41.md"
 type: "document"
-community: "Community 274"
-location: "L6"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_274
+  - community/Community_168
 ---
 
-# Community 41
+# Community 41.md
 
 ## Connections
-- [[Connections to other communities_45]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_61]] - `contains` [EXTRACTED]
-- [[Members_61]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_45]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 41]] - `contains` [EXTRACTED]
+- [[Community 41_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 274]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_274
+#graphify/document #graphify/EXTRACTED #community/Community_168

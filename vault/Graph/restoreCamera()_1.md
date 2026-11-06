@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/restoreCamera().md"
 type: "document"
-community: "Community 195"
+community: "Community 120"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_120
 ---
 
 # restoreCamera().md
@@ -16,4 +16,4 @@ tags:
 - [[handle()_1]] - `references` [EXTRACTED]
 - [[restoreCamera()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_120

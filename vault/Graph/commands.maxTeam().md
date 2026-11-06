@@ -12,7 +12,7 @@ tags:
 # commands.maxTeam()
 
 ## Connections
-- [[AdminService.luau_2]] - `contains` [EXTRACTED]
+- [[AdminService.luau_3]] - `contains` [EXTRACTED]
 - [[BaseManager.getTeam()]] - `calls` [INFERRED]
 - [[BaseManager.refresh()]] - `calls` [INFERRED]
 - [[BattleData.applyStars()]] - `calls` [INFERRED]

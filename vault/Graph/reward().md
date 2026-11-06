@@ -12,7 +12,7 @@ tags:
 # reward()
 
 ## Connections
-- [[RouteTrainerService.luau]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.luau_3]] - `contains` [EXTRACTED]
 - [[challenge()_1]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

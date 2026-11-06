@@ -14,9 +14,11 @@ tags:
 ## Connections
 - [[Functions_33]] - `references` [EXTRACTED]
 - [[GraphHavocBlimpFlight]] - `references` [EXTRACTED]
-- [[HavocBlimpFlight_1_1]] - `contains` [EXTRACTED]
-- [[Required by_33]] - `references` [EXTRACTED]
-- [[Requires_33]] - `references` [EXTRACTED]
+- [[HavocBlimpFlight_1_3]] - `contains` [EXTRACTED]
+- [[HavocBlimpFlight_1_1]] - `references` [EXTRACTED]
+- [[Required by_33_1_1]] - `references` [EXTRACTED]
+- [[Requires_33_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 127]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 54]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_127

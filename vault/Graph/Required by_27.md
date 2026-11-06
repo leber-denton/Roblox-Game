@@ -13,8 +13,10 @@ tags:
 
 ## Connections
 - [[DecorData_1]] - `references` [EXTRACTED]
-- [[Required by_27_1]] - `contains` [EXTRACTED]
+- [[Required by_27_3]] - `contains` [EXTRACTED]
+- [[Required by_27_1]] - `references` [EXTRACTED]
 - [[Required by_4_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 111]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 47]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_111

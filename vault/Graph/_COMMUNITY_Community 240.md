@@ -1,19 +1,160 @@
 ---
 type: community
-members: 6
+members: 147
 ---
 
 # Community 240
 
-**Members:** 6 nodes
+**Members:** 147 nodes
 
 ## Members
-- [[CodeColiseumUI]] - document - vault/Code/ColiseumUI.md
-- [[ColiseumUI_2]] - document - vault/Code/ColiseumUI.md
-- [[Functions_67]] - document - vault/Code/ColiseumUI.md
-- [[Required by_68]] - document - vault/Code/ColiseumUI.md
-- [[Requires_65]] - document - vault/Code/ColiseumUI.md
-- [[refreshPill()]] - code - src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau
+- [[Community 109]] - document - vault/Graph/_COMMUNITY_Community 109.md
+- [[Community 19_1]] - document - vault/Graph/Community 19.md
+- [[Community 19]] - document - vault/Graph/Community 19.md
+- [[Community 261]] - document - vault/Graph/_COMMUNITY_Community 261.md
+- [[Community 312]] - document - vault/Graph/_COMMUNITY_Community 312.md
+- [[Connections_3363]] - document - vault/Graph/arrowPart()_2.md
+- [[Connections_3364]] - document - vault/Graph/Community 19.md
+- [[Connections_3365]] - document - vault/Graph/Connections_235.md
+- [[Connections_3366]] - document - vault/Graph/Connections_235.md
+- [[Connections_3367]] - document - vault/Graph/Connections_236.md
+- [[Connections_3368]] - document - vault/Graph/Connections_236.md
+- [[Connections_3369]] - document - vault/Graph/Connections_237.md
+- [[Connections_3370]] - document - vault/Graph/Connections_237.md
+- [[Connections_3371]] - document - vault/Graph/Connections_238.md
+- [[Connections_3372]] - document - vault/Graph/Connections_238.md
+- [[Connections_3373]] - document - vault/Graph/Connections_239.md
+- [[Connections_3374]] - document - vault/Graph/Connections_239.md
+- [[Connections_3375]] - document - vault/Graph/Connections_240.md
+- [[Connections_3376]] - document - vault/Graph/Connections_240.md
+- [[Connections_3377]] - document - vault/Graph/Connections_241.md
+- [[Connections_3378]] - document - vault/Graph/Connections_241.md
+- [[Connections_3379]] - document - vault/Graph/Connections_242.md
+- [[Connections_3380]] - document - vault/Graph/Connections_242.md
+- [[Connections_3381]] - document - vault/Graph/Connections_245.md
+- [[Connections_3382]] - document - vault/Graph/Connections_245.md
+- [[Connections_3383]] - document - vault/Graph/Connections_246.md
+- [[Connections_3384]] - document - vault/Graph/Connections_246.md
+- [[Connections_3385]] - document - vault/Graph/Connections_247.md
+- [[Connections_3386]] - document - vault/Graph/Connections_247.md
+- [[Connections_3387]] - document - vault/Graph/Connections_248.md
+- [[Connections_3388]] - document - vault/Graph/Connections_248.md
+- [[Connections_3389]] - document - vault/Graph/Connections_249.md
+- [[Connections_3390]] - document - vault/Graph/Connections_249.md
+- [[Connections_3391]] - document - vault/Graph/Connections_250.md
+- [[Connections_3392]] - document - vault/Graph/Connections_250.md
+- [[Connections_3393]] - document - vault/Graph/CreatureIndex_1_1.md
+- [[Connections_3394]] - document - vault/Graph/Functions_53.md
+- [[Connections_3395]] - document - vault/Graph/Functions_7.md
+- [[Connections_3396]] - document - vault/Graph/hideIfNotMine()_1.md
+- [[Connections_3397]] - document - vault/Graph/hideIfNotMine()_2.md
+- [[Connections_3398]] - document - vault/Graph/intro()_1.md
+- [[Connections_3399]] - document - vault/Graph/intro()_2.md
+- [[Connections_3400]] - document - vault/Graph/new()_12.md
+- [[Connections_3401]] - document - vault/Graph/new()_3_1.md
+- [[Connections_3402]] - document - vault/Graph/play()_1_1.md
+- [[Connections_3403]] - document - vault/Graph/play()_3.md
+- [[Connections_3404]] - document - vault/Graph/preview()_1_1.md
+- [[Connections_3405]] - document - vault/Graph/preview()_5.md
+- [[Connections_3406]] - document - vault/Graph/queueDialogue()_1.md
+- [[Connections_3407]] - document - vault/Graph/queueDialogue()_2.md
+- [[Connections_3408]] - document - vault/Graph/runDialogue()_1.md
+- [[Connections_3409]] - document - vault/Graph/runDialogue()_2.md
+- [[Connections_3410]] - document - vault/Graph/setHighlight()_1.md
+- [[Connections_3411]] - document - vault/Graph/setHighlight()_2.md
+- [[Connections_3412]] - document - vault/Graph/shared_waitforchild_2.md
+- [[Connections_3413]] - document - vault/Graph/shared_waitforchild.md
+- [[Connections_3414]] - document - vault/Graph/showPicker()_2.md
+- [[Connections_3415]] - document - vault/Graph/showPicker()_3.md
+- [[Connections_3416]] - document - vault/Graph/targetValue()_1.md
+- [[Connections_3417]] - document - vault/Graph/targetValue()_2.md
+- [[Connections_3418]] - document - vault/Graph/Tutorial.client.luau_2.md
+- [[Connections_3419]] - document - vault/Graph/Tutorial.client.luau.md
+- [[Connections to other communities_186]] - document - vault/Graph/_COMMUNITY_Community 109.md
+- [[Connections to other communities_187]] - document - vault/Graph/_COMMUNITY_Community 261.md
+- [[Connections to other communities_188]] - document - vault/Graph/_COMMUNITY_Community 312.md
+- [[Connections_235_1]] - document - vault/Graph/Connections_235.md
+- [[Connections_236_1]] - document - vault/Graph/Connections_236.md
+- [[Connections_237_1]] - document - vault/Graph/Connections_237.md
+- [[Connections_238_1]] - document - vault/Graph/Connections_238.md
+- [[Connections_239_1]] - document - vault/Graph/Connections_239.md
+- [[Connections_240_1]] - document - vault/Graph/Connections_240.md
+- [[Connections_241_1]] - document - vault/Graph/Connections_241.md
+- [[Connections_242_1]] - document - vault/Graph/Connections_242.md
+- [[Connections_245_1]] - document - vault/Graph/Connections_245.md
+- [[Connections_246_1]] - document - vault/Graph/Connections_246.md
+- [[Connections_247_1]] - document - vault/Graph/Connections_247.md
+- [[Connections_248_1]] - document - vault/Graph/Connections_248.md
+- [[Connections_249_1]] - document - vault/Graph/Connections_249.md
+- [[Connections_250_1]] - document - vault/Graph/Connections_250.md
+- [[CreatureIndex_1_1_1]] - document - vault/Graph/CreatureIndex_1_1.md
+- [[CreatureIndex_1_1_2]] - document - vault/Graph/CreatureIndex_1_1.md
+- [[Functions_81]] - document - vault/Graph/Functions_7.md
+- [[Functions_53_2]] - document - vault/Graph/Functions_53.md
+- [[Functions_53_3]] - document - vault/Graph/Functions_53.md
+- [[Functions_7_1]] - document - vault/Graph/Functions_7.md
+- [[Live Query (requires Dataview plugin)_217]] - document - vault/Graph/_COMMUNITY_Community 109.md
+- [[Live Query (requires Dataview plugin)_218]] - document - vault/Graph/_COMMUNITY_Community 261.md
+- [[Live Query (requires Dataview plugin)_219]] - document - vault/Graph/_COMMUNITY_Community 312.md
+- [[Members_220]] - document - vault/Graph/_COMMUNITY_Community 109.md
+- [[Members_221]] - document - vault/Graph/_COMMUNITY_Community 261.md
+- [[Members_222]] - document - vault/Graph/_COMMUNITY_Community 312.md
+- [[Top bridge nodes_192]] - document - vault/Graph/_COMMUNITY_Community 109.md
+- [[Top bridge nodes_193]] - document - vault/Graph/_COMMUNITY_Community 261.md
+- [[Top bridge nodes_194]] - document - vault/Graph/_COMMUNITY_Community 312.md
+- [[Tutorial.client.luau_4]] - document - vault/Graph/Tutorial.client.luau.md
+- [[Tutorial.client.luau_3]] - document - vault/Graph/Tutorial.client.luau.md
+- [[Tutorial.client.luau_2]] - document - vault/Graph/Tutorial.client.luau_2.md
+- [[Tutorial.client.luau_2_1]] - document - vault/Graph/Tutorial.client.luau_2.md
+- [[_COMMUNITY_Community 109]] - document - vault/Graph/_COMMUNITY_Community 109.md
+- [[_COMMUNITY_Community 261]] - document - vault/Graph/_COMMUNITY_Community 261.md
+- [[_COMMUNITY_Community 312]] - document - vault/Graph/_COMMUNITY_Community 312.md
+- [[arrowPart()_5]] - document - vault/Graph/arrowPart()_2.md
+- [[arrowPart()_2_1]] - document - vault/Graph/arrowPart()_2.md
+- [[hideIfNotMine()_4]] - document - vault/Graph/hideIfNotMine()_2.md
+- [[hideIfNotMine()_3]] - document - vault/Graph/hideIfNotMine()_1.md
+- [[hideIfNotMine()_1_1]] - document - vault/Graph/hideIfNotMine()_1.md
+- [[hideIfNotMine()_2_1]] - document - vault/Graph/hideIfNotMine()_2.md
+- [[intro()_4]] - document - vault/Graph/intro()_2.md
+- [[intro()_3]] - document - vault/Graph/intro()_1.md
+- [[intro()_1]] - document - vault/Graph/intro()_1.md
+- [[intro()_2]] - document - vault/Graph/intro()_2.md
+- [[new()_25]] - document - vault/Graph/new()_12.md
+- [[new()_12_1]] - document - vault/Graph/new()_12.md
+- [[new()_3_2]] - document - vault/Graph/new()_3_1.md
+- [[new()_3_1]] - document - vault/Graph/new()_3_1.md
+- [[play()_9]] - document - vault/Graph/play()_3.md
+- [[play()_1_2]] - document - vault/Graph/play()_1_1.md
+- [[play()_1_1_1]] - document - vault/Graph/play()_1_1.md
+- [[play()_3_1]] - document - vault/Graph/play()_3.md
+- [[preview()_9]] - document - vault/Graph/preview()_5.md
+- [[preview()_1_2]] - document - vault/Graph/preview()_1_1.md
+- [[preview()_1_1_1]] - document - vault/Graph/preview()_1_1.md
+- [[preview()_5_1]] - document - vault/Graph/preview()_5.md
+- [[queueDialogue()_4]] - document - vault/Graph/queueDialogue()_2.md
+- [[queueDialogue()_3]] - document - vault/Graph/queueDialogue()_1.md
+- [[queueDialogue()_1_1]] - document - vault/Graph/queueDialogue()_1.md
+- [[queueDialogue()_2_1]] - document - vault/Graph/queueDialogue()_2.md
+- [[runDialogue()_4]] - document - vault/Graph/runDialogue()_2.md
+- [[runDialogue()_3]] - document - vault/Graph/runDialogue()_1.md
+- [[runDialogue()_1_1]] - document - vault/Graph/runDialogue()_1.md
+- [[runDialogue()_2_1]] - document - vault/Graph/runDialogue()_2.md
+- [[setHighlight()_4]] - document - vault/Graph/setHighlight()_2.md
+- [[setHighlight()_3]] - document - vault/Graph/setHighlight()_1.md
+- [[setHighlight()_1_1]] - document - vault/Graph/setHighlight()_1.md
+- [[setHighlight()_2_1]] - document - vault/Graph/setHighlight()_2.md
+- [[shared_waitforchild_4]] - document - vault/Graph/shared_waitforchild.md
+- [[shared_waitforchild_3]] - document - vault/Graph/shared_waitforchild.md
+- [[shared_waitforchild_2]] - document - vault/Graph/shared_waitforchild_2.md
+- [[shared_waitforchild_2_1]] - document - vault/Graph/shared_waitforchild_2.md
+- [[showPicker()_6]] - document - vault/Graph/showPicker()_3.md
+- [[showPicker()_5]] - document - vault/Graph/showPicker()_2.md
+- [[showPicker()_2_1]] - document - vault/Graph/showPicker()_2.md
+- [[showPicker()_3_1]] - document - vault/Graph/showPicker()_3.md
+- [[targetValue()_4]] - document - vault/Graph/targetValue()_2.md
+- [[targetValue()_3]] - document - vault/Graph/targetValue()_1.md
+- [[targetValue()_1]] - document - vault/Graph/targetValue()_1.md
+- [[targetValue()_2]] - document - vault/Graph/targetValue()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +164,29 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 239]]
-- 1 edge to [[_COMMUNITY_Community 13]]
+- 19 edges to [[_COMMUNITY_Community 195]]
+- 10 edges to [[_COMMUNITY_Community 514]]
+- 3 edges to [[_COMMUNITY_Community 226]]
+- 2 edges to [[_COMMUNITY_Community 21]]
+- 2 edges to [[_COMMUNITY_Community 316]]
+- 1 edge to [[_COMMUNITY_Community 122]]
+- 1 edge to [[_COMMUNITY_Community 138]]
+- 1 edge to [[_COMMUNITY_Community 151]]
+- 1 edge to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 181]]
+- 1 edge to [[_COMMUNITY_Community 197]]
+- 1 edge to [[_COMMUNITY_Community 203]]
+- 1 edge to [[_COMMUNITY_Community 371]]
+- 1 edge to [[_COMMUNITY_Community 330]]
+- 1 edge to [[_COMMUNITY_Community 27]]
+- 1 edge to [[_COMMUNITY_Community 98]]
+- 1 edge to [[_COMMUNITY_Community 301]]
+- 1 edge to [[_COMMUNITY_Community 676]]
+- 1 edge to [[_COMMUNITY_Community 342]]
 
 ## Top bridge nodes
-- [[refreshPill()]] - degree 2, connects to 1 community
-- [[CodeColiseumUI]] - degree 2, connects to 1 community
+- [[_COMMUNITY_Community 109]] - degree 71, connects to 16 communities
+- [[Tutorial.client.luau_2]] - degree 18, connects to 3 communities
+- [[shared_waitforchild_2]] - degree 8, connects to 3 communities
+- [[preview()_1_1_1]] - degree 8, connects to 2 communities
+- [[Functions_53_2]] - degree 7, connects to 2 communities

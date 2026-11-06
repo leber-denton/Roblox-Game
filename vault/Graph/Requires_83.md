@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_53.md"
+source_file: "vault/Code/AdminPanel.md"
 type: "document"
-community: "Community 353"
-location: "L12"
+community: "Community 3"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_353
+  - community/Community_3
 ---
 
 # Requires
 
 ## Connections
-- [[Connections_880]] - `contains` [EXTRACTED]
-- [[Requires_53_1]] - `contains` [EXTRACTED]
+- [[AdminPanel_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_353
+#graphify/document #graphify/EXTRACTED #community/Community_3

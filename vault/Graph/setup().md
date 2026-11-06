@@ -1,20 +1,26 @@
 ---
-source_file: "src/ServerScriptService/Modules/LeagueService.luau"
+source_file: "src/ServerScriptService/Modules/GymService.luau"
 type: "code"
-community: "Community 135"
-location: "L154"
+community: "Community 15"
+location: "L17"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Community_135
+  - graphify/INFERRED
+  - community/Community_15
 ---
 
 # setup()
 
 ## Connections
-- [[LeagueService.init()]] - `calls` [EXTRACTED]
-- [[LeagueService.luau]] - `contains` [EXTRACTED]
+- [[BattleService.onEnded()]] - `calls` [INFERRED]
+- [[GameData.badgesForLane()]] - `calls` [INFERRED]
+- [[GameData.canEnter()]] - `calls` [INFERRED]
+- [[GymService.init()]] - `calls` [EXTRACTED]
+- [[GymService.luau_3]] - `contains` [EXTRACTED]
 - [[NPC.prompt()]] - `calls` [INFERRED]
-- [[challenge()]] - `calls` [EXTRACTED]
+- [[NPC.say()]] - `calls` [INFERRED]
+- [[PlayerData.addBadge()]] - `calls` [INFERRED]
+- [[PlayerData.addItem()]] - `calls` [INFERRED]
+- [[PlayerData.hasBadge()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_135
+#graphify/code #graphify/INFERRED #community/Community_15

@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[ColiseumService.init()_1]] - `contains` [EXTRACTED]
-- [[Connections_189]] - `contains` [EXTRACTED]
+- [[Connections_1221]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_123

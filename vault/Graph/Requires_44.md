@@ -14,7 +14,9 @@ tags:
 ## Connections
 - [[LeagueService_1]] - `references` [EXTRACTED]
 - [[Requires_23_1]] - `references` [EXTRACTED]
-- [[Requires_44_1]] - `contains` [EXTRACTED]
+- [[Requires_44_3]] - `contains` [EXTRACTED]
+- [[Requires_44_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 156]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 68]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_156

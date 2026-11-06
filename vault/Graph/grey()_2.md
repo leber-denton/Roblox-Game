@@ -12,7 +12,7 @@ tags:
 # grey()
 
 ## Connections
-- [[Connections_50]] - `contains` [EXTRACTED]
+- [[Connections_126]] - `contains` [EXTRACTED]
 - [[grey()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_105

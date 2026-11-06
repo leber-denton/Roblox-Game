@@ -1,19 +1,17 @@
 ---
-source_file: "vault/Graph/Requires.md"
+source_file: "vault/Code/Bag.md"
 type: "document"
-community: "Community 214"
-location: "L1"
+community: "Community 20"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_214
+  - community/Community_20
 ---
 
-# Requires.md
+# Requires
 
 ## Connections
-- [[GraphMusic]] - `references` [EXTRACTED]
-- [[Requires_61]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[Bag]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_214
+#graphify/document #graphify/EXTRACTED #community/Community_20

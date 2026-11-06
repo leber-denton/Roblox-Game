@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.spines().md"
+source_file: "vault/Graph/showcaseArea().md"
 type: "document"
-community: "Community 133"
+community: "Community 112"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_112
 ---
 
 # Connections
 
 ## Connections
-- [[Features.spines()_2]] - `contains` [EXTRACTED]
+- [[showcaseArea()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_112

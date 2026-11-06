@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/syncQuests().md"
+source_file: "vault/Graph/Connections_640.md"
 type: "document"
-community: "Community 34"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_34
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[syncQuests()_2]] - `contains` [EXTRACTED]
+- [[Connections_865]] - `contains` [EXTRACTED]
+- [[Connections_640_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_34
+#graphify/document #graphify/EXTRACTED #community/Community_12

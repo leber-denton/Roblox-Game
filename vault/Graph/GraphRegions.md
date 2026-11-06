@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/Regions.md"
+source_file: "vault/Graph/GraphRegions.md"
 type: "document"
 community: "Community 183"
 location: "L1"
@@ -9,10 +9,11 @@ tags:
   - community/Community_183
 ---
 
-# Graph/Regions.md
+# GraphRegions.md
 
 ## Connections
-- [[Regions]] - `contains` [EXTRACTED]
+- [[GraphRegions_1]] - `contains` [EXTRACTED]
 - [[Regions_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 183]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_183

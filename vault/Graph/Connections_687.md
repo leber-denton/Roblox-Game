@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/setVisible().md"
+source_file: "vault/Graph/BaseManager.hasRoom()_2.md"
 type: "document"
-community: "Community 235"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_235
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[setVisible()_2]] - `contains` [EXTRACTED]
+- [[BaseManager.hasRoom()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_235
+#graphify/document #graphify/EXTRACTED #community/Community_12

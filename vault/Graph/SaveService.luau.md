@@ -1,25 +1,18 @@
 ---
-source_file: "src/ServerScriptService/Modules/SaveService.luau"
-type: "code"
+source_file: "vault/Graph/SaveService.luau_2.md"
+type: "document"
 community: "Community 12"
-location: "L1"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_12
 ---
 
-# SaveService.luau
+# SaveService.luau.md
 
 ## Connections
-- [[Main.server.luau_2]] - `imports` [EXTRACTED]
-- [[SaveService.init()]] - `contains` [EXTRACTED]
-- [[SaveService.load()]] - `contains` [EXTRACTED]
-- [[SaveService.onLeave()]] - `contains` [EXTRACTED]
-- [[SaveService.requestSave()]] - `contains` [EXTRACTED]
-- [[SaveService.save()]] - `contains` [EXTRACTED]
-- [[claim()]] - `contains` [EXTRACTED]
-- [[script_parent_basemanager_2]] - `imports` [EXTRACTED]
-- [[script_parent_playerdata_2]] - `imports` [EXTRACTED]
+- [[Connections_1035]] - `contains` [EXTRACTED]
+- [[SaveService.luau_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_12

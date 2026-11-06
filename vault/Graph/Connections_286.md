@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.rock().md"
+source_file: "vault/Graph/commands.storm().md"
 type: "document"
-community: "Community 133"
+community: "Community 1122"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_1122
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.rock()_2]] - `contains` [EXTRACTED]
+- [[commands.storm()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_1122

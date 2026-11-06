@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/setSign()_1.md"
+source_file: "vault/Graph/Syncing to Studio_1.md"
 type: "document"
-community: "Community 147"
+community: "Community 115"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_147
+  - community/Community_115
 ---
 
 # Connections
 
 ## Connections
-- [[setSign()_2]] - `contains` [EXTRACTED]
+- [[Syncing to Studio]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_147
+#graphify/document #graphify/EXTRACTED #community/Community_115

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/battleCamera().md"
+source_file: "vault/Graph/Connections_376.md"
 type: "document"
-community: "Community 195"
-location: "L14"
+community: "Community 1175"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_1175
 ---
 
 # Connections
 
 ## Connections
-- [[battleCamera()_2]] - `contains` [EXTRACTED]
+- [[Connections_560]] - `contains` [EXTRACTED]
+- [[Connections_376_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_1175

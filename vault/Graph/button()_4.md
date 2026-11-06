@@ -1,25 +1,18 @@
 ---
 source_file: "vault/Graph/button().md"
 type: "document"
-community: "Community 93"
-location: "L1"
+community: "Community 63"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_63
 ---
 
-# button().md
+# button()
 
 ## Connections
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
+- [[Connections_4846]] - `contains` [EXTRACTED]
 - [[button()_3]] - `contains` [EXTRACTED]
-- [[itemCard()_2]] - `references` [EXTRACTED]
-- [[new()_7_1]] - `references` [EXTRACTED]
-- [[tabs.Base()_2]] - `references` [EXTRACTED]
-- [[tabs.Crates()_2]] - `references` [EXTRACTED]
-- [[tabs.Items()_2]] - `references` [EXTRACTED]
-- [[tabs.Robux()_2]] - `references` [EXTRACTED]
-- [[tabs.Themes()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_63

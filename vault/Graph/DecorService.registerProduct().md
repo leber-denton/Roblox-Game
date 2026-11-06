@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/DecorService.luau"
 type: "code"
-community: "Community 22"
+community: "Community 2"
 location: "L1166"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_22
+  - community/Community_2
 ---
 
 # DecorService.registerProduct()
@@ -15,4 +15,4 @@ tags:
 - [[DecorService.luau]] - `contains` [EXTRACTED]
 - [[setupProducts()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_22
+#graphify/code #graphify/EXTRACTED #community/Community_2

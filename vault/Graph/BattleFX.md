@@ -12,7 +12,7 @@ tags:
 # BattleFX
 
 ## Connections
-- [[Connections_784]] - `contains` [EXTRACTED]
-- [[GraphBattleFX]] - `contains` [EXTRACTED]
+- [[Connections_3697]] - `contains` [EXTRACTED]
+- [[GraphBattleFX_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_303

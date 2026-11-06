@@ -1,18 +1,28 @@
 ---
-source_file: "vault/Code/Main.md"
+source_file: "vault/Code/DecorUI.md"
 type: "document"
-community: "Community 6"
-location: "L32"
+community: "Community 3"
+location: "L11"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Community_6
+  - graphify/INFERRED
+  - community/Community_3
 ---
 
 # Functions
 
 ## Connections
-- [[Main_2]] - `contains` [EXTRACTED]
-- [[refreshActiveLanes()]] - `references` [INFERRED]
+- [[DecorUI]] - `contains` [EXTRACTED]
+- [[aimRay()]] - `references` [INFERRED]
+- [[clearContent()]] - `references` [INFERRED]
+- [[gridLayout()]] - `references` [INFERRED]
+- [[listLayout()]] - `references` [INFERRED]
+- [[myBase()]] - `references` [INFERRED]
+- [[rebuildBar()]] - `references` [INFERRED]
+- [[startPicking()]] - `references` [INFERRED]
+- [[stopBuild()]] - `references` [INFERRED]
+- [[tryCommit()]] - `references` [INFERRED]
+- [[tryPick()]] - `references` [INFERRED]
+- [[tryPutAway()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_6
+#graphify/document #graphify/INFERRED #community/Community_3

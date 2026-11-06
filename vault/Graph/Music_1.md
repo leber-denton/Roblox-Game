@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Music_1.md"
+source_file: "vault/Graph/Music.md"
 type: "document"
-community: "Community 213"
-location: "L1"
+community: "Community 100"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_213
+  - community/Community_100
 ---
 
-# Music_1.md
+# Music
 
 ## Connections
-- [[Functions_2_1]] - `references` [EXTRACTED]
-- [[Music_1_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[Connections_5]] - `contains` [EXTRACTED]
+- [[GraphMusic]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_213
+#graphify/document #graphify/EXTRACTED #community/Community_100

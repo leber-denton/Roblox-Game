@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Code/DungeonClient.md"
+source_file: "vault/Graph/CodeDungeonClient.md"
 type: "document"
-community: "Community 52"
+community: "Community 423"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_52
+  - community/Community_423
 ---
 
-# Code/DungeonClient.md
+# CodeDungeonClient.md
 
 ## Connections
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[DungeonClient_2]] - `contains` [EXTRACTED]
+- [[CodeDungeonClient_1]] - `contains` [EXTRACTED]
+- [[DungeonClient_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 52]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_52
+#graphify/document #graphify/EXTRACTED #community/Community_423

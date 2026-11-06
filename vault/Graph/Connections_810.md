@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/StoryService_1.md"
+source_file: "vault/Graph/Connections_613.md"
 type: "document"
-community: "Community 320"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_320
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[StoryService_1_1]] - `contains` [EXTRACTED]
+- [[Connections_811]] - `contains` [EXTRACTED]
+- [[Connections_613_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_320
+#graphify/document #graphify/EXTRACTED #community/Community_12

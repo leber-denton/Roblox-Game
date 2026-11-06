@@ -9,10 +9,10 @@ members: 5
 
 ## Members
 - [[Community 22]] - document - vault/Graph/_COMMUNITY_Community 22.md
-- [[Connections to other communities_36]] - document - vault/Graph/_COMMUNITY_Community 22.md
-- [[Live Query (requires Dataview plugin)_52]] - document - vault/Graph/_COMMUNITY_Community 22.md
-- [[Members_52]] - document - vault/Graph/_COMMUNITY_Community 22.md
-- [[Top bridge nodes_36]] - document - vault/Graph/_COMMUNITY_Community 22.md
+- [[Connections to other communities_208]] - document - vault/Graph/_COMMUNITY_Community 22.md
+- [[Live Query (requires Dataview plugin)_239]] - document - vault/Graph/_COMMUNITY_Community 22.md
+- [[Members_243]] - document - vault/Graph/_COMMUNITY_Community 22.md
+- [[Top bridge nodes_214]] - document - vault/Graph/_COMMUNITY_Community 22.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 41]]
+- 1 edge to [[_COMMUNITY_Community 90]]
 
 ## Top bridge nodes
 - [[Community 22]] - degree 5, connects to 1 community

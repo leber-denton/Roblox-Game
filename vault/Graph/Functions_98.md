@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Code/LeaderboardService.md"
+source_file: "vault/Code/AdminPanel.md"
 type: "document"
-community: "Community 55"
+community: "Community 3"
 location: "L10"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Community_55
+  - graphify/INFERRED
+  - community/Community_3
 ---
 
 # Functions
 
 ## Connections
-- [[LeaderboardService_2]] - `contains` [EXTRACTED]
+- [[AdminPanel_2]] - `contains` [EXTRACTED]
+- [[load()]] - `references` [INFERRED]
+- [[nextOrder()]] - `references` [INFERRED]
+- [[toggle()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_55
+#graphify/document #graphify/INFERRED #community/Community_3

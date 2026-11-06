@@ -1,19 +1,19 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/HUD.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/AdminPanel.client.luau"
 type: "code"
-community: "Community 8"
-location: "L182"
+community: "Community 3"
+location: "L77"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_3
 ---
 
 # row()
 
 ## Connections
-- [[HUD.client.luau_2]] - `contains` [EXTRACTED]
-- [[go()]] - `calls` [EXTRACTED]
-- [[refresh()_2]] - `calls` [EXTRACTED]
+- [[AdminPanel.client.luau_3]] - `contains` [EXTRACTED]
+- [[new()_3]] - `calls` [EXTRACTED]
+- [[nextOrder()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_8
+#graphify/code #graphify/EXTRACTED #community/Community_3

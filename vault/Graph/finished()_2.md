@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/finished().md"
+source_file: "vault/Graph/finished()_2.md"
 type: "document"
-community: "Community 53"
-location: "L12"
+community: "Community 292"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_53
+  - community/Community_292
 ---
 
-# finished()
+# finished()_2.md
 
 ## Connections
-- [[Connections_1017]] - `contains` [EXTRACTED]
-- [[finished()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 292]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 53]] - `references` [EXTRACTED]
+- [[finished()_1]] - `references` [EXTRACTED]
+- [[finished()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_53
+#graphify/document #graphify/EXTRACTED #community/Community_292

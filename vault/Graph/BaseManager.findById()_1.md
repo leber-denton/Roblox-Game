@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.findById().md"
+source_file: "vault/Graph/BaseManager.findById()_1.md"
 type: "document"
-community: "Community 9"
+community: "Community 1017"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_1017
 ---
 
-# BaseManager.findById().md
+# BaseManager.findById()_1.md
 
 ## Connections
 - [[BaseManager.findById()_2]] - `contains` [EXTRACTED]
-- [[BaseManager.getTeam()_1]] - `references` [EXTRACTED]
-- [[BaseManager.luau_1]] - `references` [EXTRACTED]
-- [[SocialService.display()_1]] - `references` [EXTRACTED]
-- [[SocialService.init()_1]] - `references` [EXTRACTED]
-- [[SocialService.postListing()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[boardRows()_1]] - `references` [EXTRACTED]
-- [[execute()_1]] - `references` [EXTRACTED]
+- [[Connections_67]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_1017

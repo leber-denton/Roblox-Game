@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/Creator Hub listing (saved 2026-10-29).md"
 type: "document"
-community: "Community 108"
-location: "L1"
+community: "Community 1405"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_1405
 ---
 
-# Creator Hub listing (saved 2026-10-29).md
+# Creator Hub listing (saved 2026-10-29)
 
 ## Connections
+- [[Connections_1746]] - `contains` [EXTRACTED]
 - [[Creator Hub listing (saved 2026-10-29)_1]] - `contains` [EXTRACTED]
-- [[Creature Quest Catch & Battle Launch Checklist]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 40]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_1405

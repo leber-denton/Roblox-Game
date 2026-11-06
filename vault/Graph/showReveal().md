@@ -12,8 +12,8 @@ tags:
 # showReveal()
 
 ## Connections
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
-- [[preview()_2]] - `calls` [EXTRACTED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[preview()]] - `calls` [EXTRACTED]
 - [[tabs.Crates()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

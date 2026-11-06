@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Code/ColiseumService.md"
+source_file: "vault/Graph/Functions_93.md"
 type: "document"
-community: "Community 4"
-location: "L16"
+community: "Community 1422"
+location: "L12"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_4
+  - graphify/EXTRACTED
+  - community/Community_1422
 ---
 
-# Functions
+# Functions_93.md
 
 ## Connections
-- [[ColiseumService_2]] - `contains` [EXTRACTED]
-- [[publicBattles()]] - `references` [INFERRED]
-- [[refreshBoards()]] - `references` [INFERRED]
-- [[setupActivities()]] - `references` [INFERRED]
-- [[setupArenaFixtures()]] - `references` [INFERRED]
-- [[setupPortals()]] - `references` [INFERRED]
-- [[setupShop()]] - `references` [INFERRED]
-- [[tickQueue()]] - `references` [INFERRED]
-- [[updateZones()]] - `references` [INFERRED]
+- [[Connections_1779]] - `contains` [EXTRACTED]
+- [[Functions_93_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_4
+#graphify/document #graphify/EXTRACTED #community/Community_1422

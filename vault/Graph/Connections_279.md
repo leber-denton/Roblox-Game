@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/darker().md"
+source_file: "vault/Graph/resolvePath().md"
 type: "document"
-community: "Community 133"
+community: "Community 112"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_112
 ---
 
 # Connections
 
 ## Connections
-- [[darker()_2]] - `contains` [EXTRACTED]
+- [[resolvePath()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_112

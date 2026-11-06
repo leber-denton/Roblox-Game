@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.turtle().md"
+source_file: "vault/Graph/DecorService.registerProduct()_1.md"
 type: "document"
-community: "Community 137"
+community: "Community 1129"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1129
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.turtle()_2]] - `contains` [EXTRACTED]
+- [[DecorService.registerProduct()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1129

@@ -1,22 +1,30 @@
 ---
 type: community
-members: 9
+members: 17
 ---
 
 # Community 214
 
-**Members:** 9 nodes
+**Members:** 17 nodes
 
 ## Members
-- [[Connections_628]] - document - vault/Graph/Music.md
-- [[Connections_629]] - document - vault/Graph/Required by.md
-- [[Connections_630]] - document - vault/Graph/Requires.md
-- [[GraphMusic]] - document - vault/Graph/Music.md
-- [[Music_2]] - document - vault/Graph/Music.md
-- [[Required by_63]] - document - vault/Graph/Required by.md
-- [[Required by_62]] - document - vault/Graph/Required by.md
-- [[Requires_61]] - document - vault/Graph/Requires.md
-- [[Requires_60]] - document - vault/Graph/Requires.md
+- [[Functions_68]] - document - vault/Code/HUD.md
+- [[HUD.client.luau]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[fadeAndDestroy()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[floatText()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[go()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[header()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[onNotify()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[pill()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[refresh()_1]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[row()_1]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[showAnnouncement()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[topButton()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[updateCoins()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[updateLevel()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[updateTeam()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[updateTopBar()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
+- [[updateWildShiftTimer()]] - code - src/StarterPlayer/StarterPlayerScripts/HUD.client.luau
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,10 +34,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 178]]
-- 1 edge to [[_COMMUNITY_Community 207]]
+- 2 edges to [[_COMMUNITY_Community 15]]
+- 1 edge to [[_COMMUNITY_Community 215]]
+- 1 edge to [[_COMMUNITY_Community 250]]
+- 1 edge to [[_COMMUNITY_Community 74]]
 
 ## Top bridge nodes
-- [[GraphMusic]] - degree 5, connects to 2 communities
-- [[Requires_60]] - degree 3, connects to 1 community
-- [[Required by_62]] - degree 3, connects to 1 community
+- [[HUD.client.luau]] - degree 17, connects to 2 communities
+- [[Functions_68]] - degree 6, connects to 1 community
+- [[refresh()_1]] - degree 5, connects to 1 community

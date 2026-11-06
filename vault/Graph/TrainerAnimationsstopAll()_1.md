@@ -12,6 +12,7 @@ tags:
 # TrainerAnimationsstopAll().md
 
 ## Connections
+- [[TrainerAnimations.luau_1]] - `references` [EXTRACTED]
 - [[TrainerAnimationsstopAll()_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 48]] - `references` [EXTRACTED]
 

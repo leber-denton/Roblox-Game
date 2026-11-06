@@ -12,7 +12,7 @@ tags:
 # positionOf()
 
 ## Connections
-- [[LockedLanes.client.luau_2]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_3]] - `contains` [EXTRACTED]
 - [[consider()]] - `calls` [EXTRACTED]
 - [[lockRegion()]] - `calls` [EXTRACTED]
 

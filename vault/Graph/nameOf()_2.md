@@ -12,7 +12,7 @@ tags:
 # nameOf()
 
 ## Connections
-- [[Connections_48]] - `contains` [EXTRACTED]
+- [[Connections_100]] - `contains` [EXTRACTED]
 - [[nameOf()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_104

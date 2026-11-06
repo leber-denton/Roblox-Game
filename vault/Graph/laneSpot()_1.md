@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/laneSpot().md"
+source_file: "vault/Graph/laneSpot()_1.md"
 type: "document"
-community: "Community 24"
+community: "Community 1154"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1154
 ---
 
-# laneSpot().md
+# laneSpot()_1.md
 
 ## Connections
-- [[StoryService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
+- [[Connections_425]] - `references` [EXTRACTED]
 - [[laneSpot()_2]] - `contains` [EXTRACTED]
-- [[setupWorld()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1154

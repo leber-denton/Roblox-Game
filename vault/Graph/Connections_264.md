@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_37.md"
+source_file: "vault/Graph/isReference().md"
 type: "document"
-community: "Community 131"
+community: "Community 112"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_131
+  - community/Community_112
 ---
 
 # Connections
 
 ## Connections
-- [[Functions_37_1]] - `contains` [EXTRACTED]
+- [[isReference()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_131
+#graphify/document #graphify/EXTRACTED #community/Community_112

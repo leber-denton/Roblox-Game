@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_57.md"
+source_file: "vault/Code/Sprint.md"
 type: "document"
-community: "Community 238"
-location: "L12"
+community: "Community 215"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_238
+  - community/Community_215
 ---
 
 # Requires
 
 ## Connections
-- [[Connections_693]] - `contains` [EXTRACTED]
-- [[Requires_57_1]] - `contains` [EXTRACTED]
+- [[Sprint_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_238
+#graphify/document #graphify/EXTRACTED #community/Community_215

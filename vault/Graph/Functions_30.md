@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_30.md"
+source_file: "vault/Graph/Functions_75.md"
 type: "document"
-community: "Community 124"
-location: "L1"
+community: "Community 145"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_124
+  - community/Community_145
 ---
 
-# Functions_30.md
+# Functions
 
 ## Connections
-- [[CreatureLife_1]] - `references` [EXTRACTED]
-- [[Functions_30_1]] - `contains` [EXTRACTED]
-- [[Functions_8_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 51]] - `references` [EXTRACTED]
+- [[Connections_1842]] - `contains` [EXTRACTED]
+- [[Functions_75]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_124
+#graphify/document #graphify/EXTRACTED #community/Community_145

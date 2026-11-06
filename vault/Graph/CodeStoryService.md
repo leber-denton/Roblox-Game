@@ -12,17 +12,17 @@ tags:
 # Code/StoryService.md
 
 ## Connections
-- [[CodeAdminService]] - `references` [EXTRACTED]
+- [[CodeAdminService_2]] - `references` [EXTRACTED]
 - [[CodeBaseManager]] - `references` [EXTRACTED]
-- [[CodeBattleService]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[CodeGameData]] - `references` [EXTRACTED]
-- [[CodeLeagueService]] - `references` [EXTRACTED]
-- [[CodeMain]] - `references` [EXTRACTED]
-- [[CodeNPC]] - `references` [EXTRACTED]
-- [[CodePlayerData]] - `references` [EXTRACTED]
-- [[CodeSaveService]] - `references` [EXTRACTED]
-- [[CodeTutorialService]] - `references` [EXTRACTED]
+- [[CodeBattleService_2]] - `references` [EXTRACTED]
+- [[CodeCode Map_2]] - `references` [EXTRACTED]
+- [[CodeGameData_2]] - `references` [EXTRACTED]
+- [[CodeLeagueService_2]] - `references` [EXTRACTED]
+- [[CodeMain_2]] - `references` [EXTRACTED]
+- [[CodeNPC_2]] - `references` [EXTRACTED]
+- [[CodePlayerData_2]] - `references` [EXTRACTED]
+- [[CodeSaveService_2]] - `references` [EXTRACTED]
+- [[CodeTutorialService_2]] - `references` [EXTRACTED]
 - [[StoryService]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_13

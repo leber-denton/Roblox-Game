@@ -12,9 +12,9 @@ tags:
 # Code/DecorUI.md
 
 ## Connections
-- [[CodeCode Map]] - `references` [EXTRACTED]
+- [[CodeCode Map_2]] - `references` [EXTRACTED]
 - [[CodeDecorData]] - `references` [EXTRACTED]
-- [[CodeGameData]] - `references` [EXTRACTED]
+- [[CodeGameData_2]] - `references` [EXTRACTED]
 - [[DecorUI]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_13

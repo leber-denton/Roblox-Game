@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/restoreCamera().md"
+source_file: "vault/Graph/Connections_408.md"
 type: "document"
-community: "Community 195"
-location: "L14"
+community: "Community 1177"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_1177
 ---
 
 # Connections
 
 ## Connections
-- [[restoreCamera()_2]] - `contains` [EXTRACTED]
+- [[Connections_564]] - `contains` [EXTRACTED]
+- [[Connections_408_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_1177

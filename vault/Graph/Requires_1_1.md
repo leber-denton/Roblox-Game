@@ -1,19 +1,22 @@
 ---
-source_file: "vault/Graph/Requires_1.md"
+source_file: "vault/Graph/Requires_1_1.md"
 type: "document"
-community: "Community 9"
+community: "Community 332"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_332
 ---
 
-# Requires_1.md
+# Requires_1_1.md
 
 ## Connections
 - [[GraphSocialService]] - `references` [EXTRACTED]
-- [[Requires_121]] - `contains` [EXTRACTED]
+- [[Requires_121]] - `references` [EXTRACTED]
+- [[Requires_1_1_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 332]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_332

@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[Features.finEars()_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
-- [[lighter()_1]] - `references` [EXTRACTED]
+- [[lighter()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

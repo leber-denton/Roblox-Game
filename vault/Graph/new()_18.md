@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/new()_4.md"
+source_file: "vault/Graph/new()_20.md"
 type: "document"
-community: "Community 33"
+community: "Community 1310"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_1310
 ---
 
 # new()
 
 ## Connections
-- [[Connections_828]] - `contains` [EXTRACTED]
-- [[new()_4_1]] - `contains` [EXTRACTED]
+- [[Connections_1380]] - `contains` [EXTRACTED]
+- [[new()_20]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_33
+#graphify/document #graphify/EXTRACTED #community/Community_1310

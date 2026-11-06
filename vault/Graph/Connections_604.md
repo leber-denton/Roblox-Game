@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/pill().md"
+source_file: "vault/Graph/CodeBattleUI.md"
 type: "document"
-community: "Community 206"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_206
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[pill()_2]] - `contains` [EXTRACTED]
+- [[CodeBattleUI_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_206
+#graphify/document #graphify/EXTRACTED #community/Community_119

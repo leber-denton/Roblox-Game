@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/toast().md"
 type: "document"
-community: "Community 151"
+community: "Community 23"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_151
+  - community/Community_23
 ---
 
 # toast().md
@@ -17,4 +17,4 @@ tags:
 - [[tryCommit()_1]] - `references` [EXTRACTED]
 - [[tryPutAway()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_151
+#graphify/document #graphify/EXTRACTED #community/Community_23

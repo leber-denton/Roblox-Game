@@ -12,7 +12,7 @@ tags:
 # DecorData.toLocal()
 
 ## Connections
-- [[Connections_1045]] - `contains` [EXTRACTED]
+- [[Connections_5740]] - `contains` [EXTRACTED]
 - [[DecorData.toLocal()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_86

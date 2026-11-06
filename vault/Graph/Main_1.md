@@ -12,10 +12,12 @@ tags:
 # Main_1.md
 
 ## Connections
-- [[GraphMain]] - `references` [EXTRACTED]
-- [[Main_1_1]] - `contains` [EXTRACTED]
-- [[Required by_45]] - `references` [EXTRACTED]
-- [[Requires_45]] - `references` [EXTRACTED]
+- [[GraphMain_1]] - `references` [EXTRACTED]
+- [[Main_1_3]] - `contains` [EXTRACTED]
+- [[Main_1_1]] - `references` [EXTRACTED]
+- [[Required by_45_1]] - `references` [EXTRACTED]
+- [[Requires_45_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 157]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 69]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_157

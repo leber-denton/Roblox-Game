@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/preview()_1.md"
+source_file: "vault/Graph/ModelSync.md"
 type: "document"
-community: "Community 109"
+community: "Community 103"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_109
+  - community/Community_103
 ---
 
 # Connections
 
 ## Connections
-- [[preview()_5]] - `contains` [EXTRACTED]
+- [[ModelSync]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_109
+#graphify/document #graphify/EXTRACTED #community/Community_103

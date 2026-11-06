@@ -1,22 +1,18 @@
 ---
-source_file: "claude/launch-checklist.md"
+source_file: "vault/Graph/Creature Quest Catch & Battle Launch Checklist_1.md"
 type: "document"
-community: "Community 40"
-location: "L1"
+community: "Community 108"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_40
+  - community/Community_108
 ---
 
-# Creature Quest: Catch & Battle: Launch Checklist
+# Creature Quest Catch & Battle Launch Checklist.md
 
 ## Connections
-- [[Assumptions_2]] - `contains` [EXTRACTED]
-- [[Creator Hub listing (saved 2026-10-29)_2]] - `contains` [EXTRACTED]
-- [[Pushback_2]] - `contains` [EXTRACTED]
-- [[What you need to do before it makes money_2]] - `contains` [EXTRACTED]
-- [[Where to edit things_2]] - `contains` [EXTRACTED]
-- [[claudelaunch-checklist]] - `contains` [EXTRACTED]
+- [[Connections_187]] - `contains` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_40
+#graphify/document #graphify/EXTRACTED #community/Community_108

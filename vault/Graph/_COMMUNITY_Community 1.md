@@ -31,9 +31,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 251]]
+- 1 edge to [[_COMMUNITY_Community 3]]
+- 1 edge to [[_COMMUNITY_Community 215]]
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
 - [[Music.client.luau]] - degree 9, connects to 1 community
+- [[switch()]] - degree 5, connects to 1 community
 - [[CodeMusic]] - degree 2, connects to 1 community

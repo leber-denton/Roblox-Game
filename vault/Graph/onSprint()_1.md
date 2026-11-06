@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/onSprint().md"
+source_file: "vault/Graph/onSprint()_2.md"
 type: "document"
-community: "Community 192"
-location: "L1"
+community: "Community 1311"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_192
+  - community/Community_1311
 ---
 
-# onSprint().md
+# onSprint()
 
 ## Connections
-- [[apply()_2_1]] - `references` [EXTRACTED]
+- [[Connections_1381]] - `contains` [EXTRACTED]
 - [[onSprint()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_192
+#graphify/document #graphify/EXTRACTED #community/Community_1311

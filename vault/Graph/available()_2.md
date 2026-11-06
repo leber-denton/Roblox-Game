@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/available().md"
+source_file: "vault/Graph/available()_2.md"
 type: "document"
-community: "Community 123"
-location: "L12"
+community: "Community 537"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_537
 ---
 
-# available()
+# available()_2.md
 
 ## Connections
-- [[Connections_184]] - `contains` [EXTRACTED]
-- [[available()_1]] - `contains` [EXTRACTED]
+- [[Connections_840_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
+- [[available()_3]] - `contains` [EXTRACTED]
+- [[available()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_537

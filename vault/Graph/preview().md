@@ -1,21 +1,21 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/DecorUI.client.luau"
 type: "code"
-community: "Community 19"
-location: "L55"
+community: "Community 3"
+location: "L104"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_3
 ---
 
 # preview()
 
 ## Connections
-- [[CreatureBuilder.build()]] - `calls` [INFERRED]
-- [[CreatureIndex.client.luau_2]] - `contains` [EXTRACTED]
-- [[new()]] - `calls` [EXTRACTED]
-- [[showDetail()]] - `calls` [EXTRACTED]
-- [[showGrid()]] - `calls` [EXTRACTED]
+- [[DecorData.build()]] - `calls` [INFERRED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[itemCard()]] - `calls` [EXTRACTED]
+- [[new()_4]] - `calls` [EXTRACTED]
+- [[showReveal()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_19
+#graphify/code #graphify/EXTRACTED #community/Community_3

@@ -1,21 +1,21 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau"
 type: "code"
-community: "Community 7"
-location: "L54"
+community: "Community 420"
+location: "L37"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_7
+  - community/Community_420
 ---
 
 # label()
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
-- [[button()_1]] - `calls` [EXTRACTED]
-- [[floatDamage()]] - `calls` [EXTRACTED]
-- [[makeCard()]] - `calls` [EXTRACTED]
-- [[new()_9]] - `calls` [EXTRACTED]
+- [[CreatureIndex.client.luau_5]] - `contains` [EXTRACTED]
+- [[new()_6]] - `calls` [EXTRACTED]
+- [[showDetail()_1]] - `calls` [EXTRACTED]
+- [[showGrid()]] - `calls` [EXTRACTED]
+- [[typeChips()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_7
+#graphify/code #graphify/EXTRACTED #community/Community_420

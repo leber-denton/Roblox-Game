@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/arrowPart().md"
+source_file: "vault/Graph/ModelSync_2.md"
 type: "document"
-community: "Community 109"
+community: "Community 103"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_109
+  - community/Community_103
 ---
 
 # Connections
 
 ## Connections
-- [[arrowPart()_2]] - `contains` [EXTRACTED]
+- [[ModelSync_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_109
+#graphify/document #graphify/EXTRACTED #community/Community_103

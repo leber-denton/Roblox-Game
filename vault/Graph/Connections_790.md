@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/ColiseumService.md"
+source_file: "vault/Graph/Connections_599.md"
 type: "document"
-community: "Community 305"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_305
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[ColiseumService]] - `contains` [EXTRACTED]
+- [[Connections_791]] - `contains` [EXTRACTED]
+- [[Connections_599_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_305
+#graphify/document #graphify/EXTRACTED #community/Community_12

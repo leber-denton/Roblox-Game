@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/offerBox().md"
+source_file: "vault/Graph/Connections_366.md"
 type: "document"
-community: "Community 139"
-location: "L14"
+community: "Community 1131"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_139
+  - community/Community_1131
 ---
 
 # Connections
 
 ## Connections
-- [[offerBox()_2]] - `contains` [EXTRACTED]
+- [[Connections_315]] - `contains` [EXTRACTED]
+- [[Connections_366]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_139
+#graphify/document #graphify/EXTRACTED #community/Community_1131

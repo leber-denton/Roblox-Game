@@ -1,52 +1,47 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau"
-type: "code"
-community: "Community 7"
+source_file: "vault/Graph/BattleUI.client.luau_2.md"
+type: "document"
+community: "Community 138"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_7
+  - community/Community_138
 ---
 
-# BattleUI.client.luau
+# BattleUI.client.luau_2.md
 
 ## Connections
-- [[act()]] - `contains` [EXTRACTED]
-- [[animateXP()]] - `contains` [EXTRACTED]
-- [[applyState()]] - `contains` [EXTRACTED]
-- [[attachCard()]] - `contains` [EXTRACTED]
-- [[battleCamera()]] - `contains` [EXTRACTED]
-- [[button()_1]] - `contains` [EXTRACTED]
-- [[clearButtons()]] - `contains` [EXTRACTED]
-- [[floatDamage()]] - `contains` [EXTRACTED]
-- [[handle()]] - `contains` [EXTRACTED]
-- [[hex()]] - `contains` [EXTRACTED]
-- [[hpColor()]] - `contains` [EXTRACTED]
-- [[inventory()_1]] - `contains` [EXTRACTED]
-- [[label()_3]] - `contains` [EXTRACTED]
-- [[lockButton()]] - `contains` [EXTRACTED]
-- [[makeCard()]] - `contains` [EXTRACTED]
-- [[moveStyle()]] - `contains` [EXTRACTED]
-- [[new()_9]] - `contains` [EXTRACTED]
-- [[pad()]] - `contains` [EXTRACTED]
-- [[playTurn()]] - `contains` [EXTRACTED]
-- [[promptText()]] - `contains` [EXTRACTED]
-- [[pulse()]] - `contains` [EXTRACTED]
-- [[resolveModels()]] - `contains` [EXTRACTED]
-- [[restoreCamera()]] - `contains` [EXTRACTED]
-- [[round()_5]] - `contains` [EXTRACTED]
-- [[script_parent_waitforchild_2]] - `imports` [EXTRACTED]
-- [[setCard()]] - `contains` [EXTRACTED]
-- [[setCardHP()]] - `contains` [EXTRACTED]
-- [[setColumns()]] - `contains` [EXTRACTED]
-- [[setStages()]] - `contains` [EXTRACTED]
-- [[setStatus()_1]] - `contains` [EXTRACTED]
-- [[shared_waitforchild_2]] - `imports` [EXTRACTED]
-- [[showMenu()]] - `contains` [EXTRACTED]
-- [[showOwnTag()]] - `contains` [EXTRACTED]
-- [[typeText()]] - `contains` [EXTRACTED]
-- [[useList()]] - `contains` [EXTRACTED]
-- [[zeroStages()]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_4]] - `references` [EXTRACTED]
+- [[BattleUI.client.luau_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
+- [[act()_1_1]] - `references` [EXTRACTED]
+- [[animateXP()_1_1]] - `references` [EXTRACTED]
+- [[battleCamera()_1_1]] - `references` [EXTRACTED]
+- [[button()_1_1_1]] - `references` [EXTRACTED]
+- [[clearButtons()_1_1]] - `references` [EXTRACTED]
+- [[floatDamage()_1_1]] - `references` [EXTRACTED]
+- [[handle()_1_1]] - `references` [EXTRACTED]
+- [[hex()_1_1]] - `references` [EXTRACTED]
+- [[inventory()_1_1_1]] - `references` [EXTRACTED]
+- [[label()_3_1_1]] - `references` [EXTRACTED]
+- [[lockButton()_1_1]] - `references` [EXTRACTED]
+- [[makeCard()_1_1]] - `references` [EXTRACTED]
+- [[moveStyle()_1_1]] - `references` [EXTRACTED]
+- [[new()_9_1_1]] - `references` [EXTRACTED]
+- [[pad()_1_1]] - `references` [EXTRACTED]
+- [[promptText()_1_1]] - `references` [EXTRACTED]
+- [[pulse()_1_1]] - `references` [EXTRACTED]
+- [[resolveModels()_1_1]] - `references` [EXTRACTED]
+- [[restoreCamera()_1_1]] - `references` [EXTRACTED]
+- [[round()_5_1_1]] - `references` [EXTRACTED]
+- [[script_parent_waitforchild_2]] - `references` [EXTRACTED]
+- [[setColumns()_1_1]] - `references` [EXTRACTED]
+- [[shared_waitforchild_2]] - `references` [EXTRACTED]
+- [[showMenu()_1_1]] - `references` [EXTRACTED]
+- [[showOwnTag()_1_1]] - `references` [EXTRACTED]
+- [[typeText()_1_1]] - `references` [EXTRACTED]
+- [[useList()_1_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_7
+#graphify/document #graphify/EXTRACTED #community/Community_138

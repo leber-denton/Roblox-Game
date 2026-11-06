@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Code/NPCAnimator.md"
+source_file: "vault/Graph/Functions_69.md"
 type: "document"
-community: "Community 39"
-location: "L10"
+community: "Community 293"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_39
+  - community/Community_293
 ---
 
 # Functions
 
 ## Connections
-- [[NPCAnimator]] - `contains` [EXTRACTED]
-- [[buildQuestWorld()]] - `references` [INFERRED]
+- [[Connections_3649]] - `contains` [EXTRACTED]
+- [[Functions_69_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_39
+#graphify/document #graphify/EXTRACTED #community/Community_293

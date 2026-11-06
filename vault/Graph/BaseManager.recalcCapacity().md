@@ -17,6 +17,6 @@ tags:
 - [[BaseManager.luau]] - `contains` [EXTRACTED]
 - [[BaseManager.restore()]] - `calls` [EXTRACTED]
 - [[BaseManager.unlockExpansion()]] - `calls` [EXTRACTED]
-- [[apply()_1]] - `calls` [INFERRED]
+- [[apply()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_16

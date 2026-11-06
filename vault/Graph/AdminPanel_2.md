@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[CodeAdminPanel]] - `contains` [EXTRACTED]
-- [[Functions_76]] - `contains` [EXTRACTED]
+- [[Functions_98]] - `contains` [EXTRACTED]
 - [[Required by_78]] - `contains` [EXTRACTED]
-- [[Requires_76]] - `contains` [EXTRACTED]
+- [[Requires_83]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_3

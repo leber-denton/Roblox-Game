@@ -12,7 +12,7 @@ tags:
 # commands.opTeam()
 
 ## Connections
-- [[AdminService.luau_2]] - `contains` [EXTRACTED]
+- [[AdminService.luau_3]] - `contains` [EXTRACTED]
 - [[give()]] - `calls` [EXTRACTED]
 - [[strongest()_1]] - `calls` [EXTRACTED]
 

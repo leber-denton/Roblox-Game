@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/BattleUI.client.luau.md"
+source_file: "vault/Graph/BattleUI.client.luau_1.md"
 type: "document"
 community: "Community 26"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -13,8 +13,6 @@ tags:
 
 ## Connections
 - [[BattleUI.client.luau_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
-- [[script_parent_waitforchild]] - `references` [EXTRACTED]
-- [[shared_waitforchild]] - `references` [EXTRACTED]
+- [[Connections_3472]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_26

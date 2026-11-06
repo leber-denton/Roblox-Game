@@ -12,7 +12,7 @@ tags:
 # Features.finEars()
 
 ## Connections
-- [[Connections_296]] - `contains` [EXTRACTED]
+- [[Connections_1628]] - `contains` [EXTRACTED]
 - [[Features.finEars()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

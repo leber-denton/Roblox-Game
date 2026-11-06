@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 53.md"
+source_file: "vault/Graph/_COMMUNITY_Community 74.md"
 type: "document"
-community: "Community 292"
+community: "Community 1107"
 location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_1107
 ---
 
 # Members
 
 ## Connections
-- [[Community 53]] - `contains` [EXTRACTED]
+- [[Community 74]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_1107

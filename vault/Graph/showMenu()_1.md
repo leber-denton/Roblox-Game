@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/showMenu().md"
 type: "document"
-community: "Community 103"
+community: "Community 120"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_103
+  - community/Community_120
 ---
 
 # showMenu().md
@@ -20,7 +20,7 @@ tags:
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 - [[act()_1]] - `references` [EXTRACTED]
 - [[button()_1_1]] - `references` [EXTRACTED]
-- [[clearButtons()_1]] - `references` [EXTRACTED]
+- [[clearButtons()_3]] - `references` [EXTRACTED]
 - [[handle()_1]] - `references` [EXTRACTED]
 - [[inventory()_1_1]] - `references` [EXTRACTED]
 - [[lockButton()_1]] - `references` [EXTRACTED]
@@ -31,4 +31,4 @@ tags:
 - [[showMenu()_2]] - `contains` [EXTRACTED]
 - [[useList()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_103
+#graphify/document #graphify/EXTRACTED #community/Community_120

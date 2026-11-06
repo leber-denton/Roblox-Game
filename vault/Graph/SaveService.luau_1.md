@@ -1,24 +1,25 @@
 ---
-source_file: "vault/Graph/SaveService.luau.md"
-type: "document"
-community: "Community 41"
+source_file: "src/ServerScriptService/Modules/SaveService.luau"
+type: "code"
+community: "Community 16"
 location: "L1"
 tags:
-  - graphify/document
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_16
 ---
 
-# SaveService.luau.md
+# SaveService.luau
 
 ## Connections
-- [[SaveService.init()_1]] - `references` [EXTRACTED]
-- [[SaveService.load()_1]] - `references` [EXTRACTED]
-- [[SaveService.luau_2]] - `contains` [EXTRACTED]
-- [[SaveService.onLeave()_1]] - `references` [EXTRACTED]
-- [[SaveService.requestSave()_1]] - `references` [EXTRACTED]
-- [[SaveService.save()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[claim()_1]] - `references` [EXTRACTED]
+- [[Main.server.luau_3]] - `imports` [EXTRACTED]
+- [[SaveService.init()]] - `contains` [EXTRACTED]
+- [[SaveService.load()]] - `contains` [EXTRACTED]
+- [[SaveService.onLeave()]] - `contains` [EXTRACTED]
+- [[SaveService.requestSave()]] - `contains` [EXTRACTED]
+- [[SaveService.save()]] - `contains` [EXTRACTED]
+- [[claim()]] - `contains` [EXTRACTED]
+- [[script_parent_basemanager_5]] - `imports` [EXTRACTED]
+- [[script_parent_playerdata_5]] - `imports` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/code #graphify/EXTRACTED #community/Community_16

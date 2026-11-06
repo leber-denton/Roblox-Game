@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/referenceScale().md"
 type: "document"
-community: "Community 200"
+community: "Community 112"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_200
+  - community/Community_112
 ---
 
 # referenceScale().md
@@ -17,4 +17,4 @@ tags:
 - [[referenceScale()_2]] - `contains` [EXTRACTED]
 - [[scaleOf()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_200
+#graphify/document #graphify/EXTRACTED #community/Community_112

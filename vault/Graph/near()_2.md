@@ -12,7 +12,7 @@ tags:
 # near()
 
 ## Connections
-- [[Connections_323]] - `contains` [EXTRACTED]
+- [[Connections_1731]] - `contains` [EXTRACTED]
 - [[near()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_140

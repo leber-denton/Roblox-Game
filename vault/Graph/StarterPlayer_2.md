@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/Code Map.md"
+source_file: "vault/Graph/StarterPlayer_2.md"
 type: "document"
-community: "Community 46"
-location: "L46"
+community: "Community 1352"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_46
+  - community/Community_1352
 ---
 
-# StarterPlayer
+# StarterPlayer_2.md
 
 ## Connections
-- [[Code Map_3]] - `contains` [EXTRACTED]
+- [[StarterPlayer_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 46]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_46
+#graphify/document #graphify/EXTRACTED #community/Community_1352

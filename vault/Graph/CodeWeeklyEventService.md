@@ -1,23 +1,25 @@
 ---
-source_file: "vault/Code/WeeklyEventService.md"
+source_file: "vault/Graph/CodeWeeklyEventService.md"
 type: "document"
-community: "Community 13"
+community: "Community 119"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_119
 ---
 
-# Code/WeeklyEventService.md
+# CodeWeeklyEventService.md
 
 ## Connections
 - [[CodeAdminService]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
 - [[CodeColiseumService]] - `references` [EXTRACTED]
 - [[CodeGameData]] - `references` [EXTRACTED]
 - [[CodeMain]] - `references` [EXTRACTED]
 - [[CodeRareEventService]] - `references` [EXTRACTED]
-- [[WeeklyEventService_2]] - `contains` [EXTRACTED]
+- [[CodeWeeklyEventService_1]] - `contains` [EXTRACTED]
+- [[WeeklyEventService_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_119

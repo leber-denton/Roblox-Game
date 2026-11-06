@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/BattleService.md"
+source_file: "vault/Graph/Requires_102.md"
 type: "document"
-community: "Community 64"
-location: "L4"
+community: "Community 1334"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_64
+  - community/Community_1334
 ---
 
-# Requires
+# Requires_102.md
 
 ## Connections
-- [[BattleService_2]] - `contains` [EXTRACTED]
+- [[Requires_12]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_64
+#graphify/document #graphify/EXTRACTED #community/Community_1334

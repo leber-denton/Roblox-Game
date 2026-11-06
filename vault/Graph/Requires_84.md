@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_54.md"
+source_file: "vault/Code/DecorUI.md"
 type: "document"
-community: "Community 354"
-location: "L12"
+community: "Community 3"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_354
+  - community/Community_3
 ---
 
 # Requires
 
 ## Connections
-- [[Connections_881]] - `contains` [EXTRACTED]
-- [[Requires_54_1]] - `contains` [EXTRACTED]
+- [[DecorUI]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_354
+#graphify/document #graphify/EXTRACTED #community/Community_3

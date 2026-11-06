@@ -14,7 +14,9 @@ tags:
 ## Connections
 - [[GameData.luau]] - `references` [EXTRACTED]
 - [[Main.server.luau]] - `references` [EXTRACTED]
-- [[WeeklyEventService.luau_1]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.luau_4]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
 - [[script_parent_rareeventservice]] - `references` [EXTRACTED]
 

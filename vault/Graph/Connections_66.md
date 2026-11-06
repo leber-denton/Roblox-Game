@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/GymService.md"
+source_file: "vault/Graph/Connections_80.md"
 type: "document"
-community: "Community 107"
-location: "L14"
+community: "Community 1022"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_107
+  - community/Community_1022
 ---
 
 # Connections
 
 ## Connections
-- [[GymService]] - `contains` [EXTRACTED]
+- [[Connections_69]] - `contains` [EXTRACTED]
+- [[Connections_80]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_107
+#graphify/document #graphify/EXTRACTED #community/Community_1022

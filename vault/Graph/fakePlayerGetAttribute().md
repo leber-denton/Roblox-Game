@@ -12,6 +12,6 @@ tags:
 # fakePlayer:GetAttribute()
 
 ## Connections
-- [[TutorialCompletion.spec.luau_2]] - `contains` [EXTRACTED]
+- [[TutorialCompletion.spec.luau_5]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_62

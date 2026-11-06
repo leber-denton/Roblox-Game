@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/RareEventService.isLive().md"
 type: "document"
-community: "Community 216"
+community: "Community 144"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_216
+  - community/Community_144
 ---
 
 # RareEventService.isLive()
 
 ## Connections
-- [[Connections_631]] - `contains` [EXTRACTED]
+- [[Connections_1813]] - `contains` [EXTRACTED]
 - [[RareEventService.isLive()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_216
+#graphify/document #graphify/EXTRACTED #community/Community_144

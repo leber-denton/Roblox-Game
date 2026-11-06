@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/Features.fangs().md"
+source_file: "vault/Graph/Features.fangs()_1.md"
 type: "document"
-community: "Community 171"
+community: "Community 1059"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_171
+  - community/Community_1059
 ---
 
-# Features.fangs().md
+# Features.fangs()_1.md
 
 ## Connections
-- [[Features.fangs()_2]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_2]] - `references` [EXTRACTED]
+- [[Features.fangs()_3]] - `contains` [EXTRACTED]
+- [[Features.fangs()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_171
+#graphify/document #graphify/EXTRACTED #community/Community_1059

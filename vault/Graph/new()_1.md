@@ -1,22 +1,24 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Menus.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Bag.client.luau"
 type: "code"
-community: "Community 19"
-location: "L38"
+community: "Community 20"
+location: "L21"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_20
 ---
 
 # new()
 
 ## Connections
-- [[Menus.client.luau]] - `contains` [EXTRACTED]
-- [[incoming()]] - `calls` [EXTRACTED]
-- [[offerBox()]] - `calls` [EXTRACTED]
-- [[playEvolution()]] - `calls` [EXTRACTED]
+- [[Bag.client.luau]] - `contains` [EXTRACTED]
+- [[ballIcon()]] - `calls` [EXTRACTED]
+- [[label()]] - `calls` [EXTRACTED]
 - [[refresh()]] - `calls` [EXTRACTED]
-- [[viewport()]] - `calls` [EXTRACTED]
+- [[round()]] - `calls` [EXTRACTED]
+- [[showDetail()]] - `calls` [EXTRACTED]
+- [[showPicker()]] - `calls` [EXTRACTED]
+- [[showTradeHistory()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_19
+#graphify/code #graphify/EXTRACTED #community/Community_20

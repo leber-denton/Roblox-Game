@@ -1,28 +1,19 @@
 ---
-source_file: "vault/Graph/BattleData.stats().md"
+source_file: "vault/Graph/BattleData.stats()_1.md"
 type: "document"
-community: "Community 42"
+community: "Community 562"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_562
 ---
 
-# BattleData.stats().md
+# BattleData.stats()_1.md
 
 ## Connections
-- [[BaseManager.evolve()_1]] - `references` [EXTRACTED]
-- [[BaseManager.healAll()_1]] - `references` [EXTRACTED]
-- [[BaseManager.newRecord()_1]] - `references` [EXTRACTED]
-- [[BaseManager.snapshot()_1]] - `references` [EXTRACTED]
-- [[BattleData.luau_1]] - `references` [EXTRACTED]
-- [[BattleData.sizeMult()_1]] - `references` [EXTRACTED]
-- [[BattleData.stats()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[commands.addStar()_1]] - `references` [EXTRACTED]
-- [[commands.maxTeam()_1]] - `references` [EXTRACTED]
-- [[refreshTag()_1]] - `references` [EXTRACTED]
-- [[tick()_1]] - `references` [EXTRACTED]
+- [[BattleData.stats()_3]] - `contains` [EXTRACTED]
+- [[BattleData.stats()_2]] - `references` [EXTRACTED]
+- [[Connections_84_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_562

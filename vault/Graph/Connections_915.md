@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/showReveal().md"
+source_file: "vault/Graph/Connections_665.md"
 type: "document"
-community: "Community 388"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_388
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[showReveal()_1]] - `contains` [EXTRACTED]
+- [[Connections_914]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_388
+#graphify/document #graphify/EXTRACTED #community/Community_12

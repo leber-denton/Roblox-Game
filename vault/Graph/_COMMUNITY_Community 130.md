@@ -1,43 +1,22 @@
 ---
 type: community
-members: 30
+members: 9
 ---
 
 # Community 130
 
-**Members:** 30 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Community 57]] - document - vault/Graph/_COMMUNITY_Community 57.md
-- [[Connections_255]] - document - vault/Graph/Functions_14.md
-- [[Connections_256]] - document - vault/Graph/Functions_36.md
-- [[Connections_257]] - document - vault/Graph/MeshIntake_1.md
-- [[Connections_258]] - document - vault/Graph/MeshIntake.md
-- [[Connections_259]] - document - vault/Graph/Required by_12.md
-- [[Connections_260]] - document - vault/Graph/Required by_36.md
-- [[Connections_261]] - document - vault/Graph/Requires_12.md
-- [[Connections_262]] - document - vault/Graph/Requires_36.md
-- [[Connections to other communities_7]] - document - vault/Graph/_COMMUNITY_Community 57.md
-- [[Functions_15]] - document - vault/Graph/Functions_14.md
-- [[Functions_14_1]] - document - vault/Graph/Functions_14.md
-- [[Functions_36]] - document - vault/Graph/Functions_36.md
-- [[Functions_36_1]] - document - vault/Graph/Functions_36.md
-- [[GraphMeshIntake]] - document - vault/Graph/MeshIntake.md
-- [[Live Query (requires Dataview plugin)_11]] - document - vault/Graph/_COMMUNITY_Community 57.md
-- [[Members_11]] - document - vault/Graph/_COMMUNITY_Community 57.md
-- [[MeshIntake]] - document - vault/Graph/MeshIntake.md
+- [[Connections_1364]] - document - vault/Graph/Functions_36_1.md
+- [[Connections_1365]] - document - vault/Graph/GraphMeshIntake.md
+- [[Connections_1366]] - document - vault/Graph/MeshIntake_1.md
+- [[Functions_36]] - document - vault/Graph/Functions_36_1.md
+- [[Functions_36_1]] - document - vault/Graph/Functions_36_1.md
+- [[GraphMeshIntake]] - document - vault/Graph/GraphMeshIntake.md
+- [[GraphMeshIntake_1]] - document - vault/Graph/GraphMeshIntake.md
 - [[MeshIntake_1]] - document - vault/Graph/MeshIntake_1.md
 - [[MeshIntake_1_1]] - document - vault/Graph/MeshIntake_1.md
-- [[Required by_13]] - document - vault/Graph/Required by_12.md
-- [[Required by_12_1]] - document - vault/Graph/Required by_12.md
-- [[Required by_36]] - document - vault/Graph/Required by_36.md
-- [[Required by_36_1]] - document - vault/Graph/Required by_36.md
-- [[Requires_13]] - document - vault/Graph/Requires_12.md
-- [[Requires_12_1]] - document - vault/Graph/Requires_12.md
-- [[Requires_36]] - document - vault/Graph/Requires_36.md
-- [[Requires_36_1]] - document - vault/Graph/Requires_36.md
-- [[Top bridge nodes_7]] - document - vault/Graph/_COMMUNITY_Community 57.md
-- [[_COMMUNITY_Community 57]] - document - vault/Graph/_COMMUNITY_Community 57.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -47,7 +26,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 69]]
+- 3 edges to [[_COMMUNITY_Community 520]]
+- 2 edges to [[_COMMUNITY_Community 426]]
+- 1 edge to [[_COMMUNITY_Community 925]]
+- 1 edge to [[_COMMUNITY_Community 1325]]
+- 1 edge to [[_COMMUNITY_Community 522]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 57]] - degree 6, connects to 1 community
+- [[MeshIntake_1]] - degree 8, connects to 5 communities
+- [[Functions_36_1]] - degree 4, connects to 2 communities
+- [[GraphMeshIntake]] - degree 3, connects to 1 community

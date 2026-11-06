@@ -12,7 +12,7 @@ tags:
 # pivotOf()
 
 ## Connections
-- [[Connections_324]] - `contains` [EXTRACTED]
+- [[Connections_1732]] - `contains` [EXTRACTED]
 - [[pivotOf()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_140

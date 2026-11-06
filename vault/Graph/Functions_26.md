@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_25.md"
+source_file: "vault/Code/StoryService.md"
 type: "document"
-community: "Community 153"
-location: "L12"
+community: "Community 14"
+location: "L20"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_153
+  - community/Community_14
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_392]] - `contains` [EXTRACTED]
-- [[Functions_25_1]] - `contains` [EXTRACTED]
+- [[StoryService]] - `contains` [EXTRACTED]
+- [[setupWorld()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_153
+#graphify/document #graphify/EXTRACTED #community/Community_14

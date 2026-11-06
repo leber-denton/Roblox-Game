@@ -1,15 +1,18 @@
 ---
 type: community
-members: 2
+members: 5
 ---
 
 # Community 381
 
-**Members:** 2 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_908]] - document - vault/Graph/heading().md
-- [[heading()_1]] - document - vault/Graph/heading().md
+- [[Community 275]] - document - vault/Graph/_COMMUNITY_Community 275.md
+- [[Connections to other communities_296]] - document - vault/Graph/_COMMUNITY_Community 275.md
+- [[Live Query (requires Dataview plugin)_328]] - document - vault/Graph/_COMMUNITY_Community 275.md
+- [[Members_333]] - document - vault/Graph/_COMMUNITY_Community 275.md
+- [[Top bridge nodes_301]] - document - vault/Graph/_COMMUNITY_Community 275.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 93]]
+- 1 edge to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[heading()_1]] - degree 2, connects to 1 community
+- [[Community 275]] - degree 5, connects to 1 community

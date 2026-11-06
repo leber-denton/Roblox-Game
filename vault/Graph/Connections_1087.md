@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Current Priorities_1.md"
+source_file: "vault/Graph/setStatus()_1.md"
 type: "document"
-community: "Community 88"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[Current Priorities_2]] - `contains` [EXTRACTED]
+- [[setStatus()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_88
+#graphify/document #graphify/EXTRACTED #community/Community_120

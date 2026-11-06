@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[GameData.canEnter()]] - `calls` [EXTRACTED]
-- [[GameData.luau_2]] - `contains` [EXTRACTED]
+- [[GameData.luau_3]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

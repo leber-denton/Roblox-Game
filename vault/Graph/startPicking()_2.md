@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/startPicking().md"
+source_file: "vault/Graph/startPicking()_2.md"
 type: "document"
-community: "Community 138"
-location: "L12"
+community: "Community 170"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_170
 ---
 
-# startPicking()
+# startPicking()_2.md
 
 ## Connections
-- [[Connections_309]] - `contains` [EXTRACTED]
-- [[startPicking()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 170]] - `references` [EXTRACTED]
+- [[startPicking()_1]] - `references` [EXTRACTED]
+- [[startPicking()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_170

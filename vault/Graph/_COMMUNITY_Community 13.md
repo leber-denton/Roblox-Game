@@ -1,46 +1,58 @@
 ---
 type: community
-members: 33
+members: 45
 ---
 
 # Community 13
 
-**Members:** 33 nodes
+**Members:** 45 nodes
 
 ## Members
-- [[CodeAdminService]] - document - vault/Code/AdminService.md
+- [[Code map]] - document - vault/Systems/Systems Overview.md
+- [[CodeAdminService_2]] - document - vault/Code/AdminService.md
+- [[CodeArenaManager_2]] - document - vault/Code/ArenaManager.md
 - [[CodeBaseManager]] - document - vault/Code/BaseManager.md
-- [[CodeBattleData]] - document - vault/Code/BattleData.md
-- [[CodeBattleService]] - document - vault/Code/BattleService.md
-- [[CodeCode Map]] - document - vault/Code/Code Map.md
-- [[CodeColiseumService]] - document - vault/Code/ColiseumService.md
-- [[CodeCreatureBuilder]] - document - vault/Code/CreatureBuilder.md
-- [[CodeCreatureIndex]] - document - vault/Code/CreatureIndex.md
+- [[CodeBattleData_2]] - document - vault/Code/BattleData.md
+- [[CodeBattleService_2]] - document - vault/Code/BattleService.md
+- [[CodeCode Map_2]] - document - vault/Code/Code Map.md
+- [[CodeColiseumService_2]] - document - vault/Code/ColiseumService.md
+- [[CodeCreatureBuilder_2]] - document - vault/Code/CreatureBuilder.md
+- [[CodeCreatureIndex_2]] - document - vault/Code/CreatureIndex.md
 - [[CodeDecorData]] - document - vault/Code/DecorData.md
-- [[CodeDecorService]] - document - vault/Code/DecorService.md
+- [[CodeDecorService_2]] - document - vault/Code/DecorService.md
 - [[CodeDecorUI]] - document - vault/Code/DecorUI.md
-- [[CodeDungeonService]] - document - vault/Code/DungeonService.md
-- [[CodeGameData]] - document - vault/Code/GameData.md
-- [[CodeGymService]] - document - vault/Code/GymService.md
-- [[CodeLeaderboardService]] - document - vault/Code/LeaderboardService.md
-- [[CodeLeagueService]] - document - vault/Code/LeagueService.md
-- [[CodeMain]] - document - vault/Code/Main.md
+- [[CodeDungeonService_2]] - document - vault/Code/DungeonService.md
+- [[CodeGameData_2]] - document - vault/Code/GameData.md
+- [[CodeGymService_2]] - document - vault/Code/GymService.md
+- [[CodeLeaderboardService_2]] - document - vault/Code/LeaderboardService.md
+- [[CodeLeagueService_2]] - document - vault/Code/LeagueService.md
+- [[CodeMain_2]] - document - vault/Code/Main.md
 - [[CodeMenus]] - document - vault/Code/Menus.md
-- [[CodeNPC]] - document - vault/Code/NPC.md
-- [[CodePassService]] - document - vault/Code/PassService.md
-- [[CodePlayerData]] - document - vault/Code/PlayerData.md
-- [[CodeProgressService]] - document - vault/Code/ProgressService.md
-- [[CodeRareEventService]] - document - vault/Code/RareEventService.md
-- [[CodeRouteTrainerService]] - document - vault/Code/RouteTrainerService.md
-- [[CodeSaveService]] - document - vault/Code/SaveService.md
-- [[CodeSocialService]] - document - vault/Code/SocialService.md
-- [[CodeStory]] - document - vault/Code/Story.md
+- [[CodeNPC_2]] - document - vault/Code/NPC.md
+- [[CodeNpcGuard_2]] - document - vault/Code/NpcGuard.md
+- [[CodePassService_2]] - document - vault/Code/PassService.md
+- [[CodePlayerData_2]] - document - vault/Code/PlayerData.md
+- [[CodeProgressService_2]] - document - vault/Code/ProgressService.md
+- [[CodeRareEventService_2]] - document - vault/Code/RareEventService.md
+- [[CodeRouteTrainerService_2]] - document - vault/Code/RouteTrainerService.md
+- [[CodeSaveService_2]] - document - vault/Code/SaveService.md
+- [[CodeSocialService_2]] - document - vault/Code/SocialService.md
+- [[CodeStory_2]] - document - vault/Code/Story.md
 - [[CodeStoryService]] - document - vault/Code/StoryService.md
-- [[CodeTutorial]] - document - vault/Code/Tutorial.md
-- [[CodeTutorialService]] - document - vault/Code/TutorialService.md
-- [[CodeWander]] - document - vault/Code/Wander.md
-- [[CodeWeeklyEventService]] - document - vault/Code/WeeklyEventService.md
-- [[CodeWildSpawner]] - document - vault/Code/WildSpawner.md
+- [[CodeTutorial_2]] - document - vault/Code/Tutorial.md
+- [[CodeTutorialService_2]] - document - vault/Code/TutorialService.md
+- [[CodeWander_2]] - document - vault/Code/Wander.md
+- [[CodeWeeklyEventService_2]] - document - vault/Code/WeeklyEventService.md
+- [[CodeWildSpawner_2]] - document - vault/Code/WildSpawner.md
+- [[Current Priorities]] - document - vault/Todo/Current Priorities.md
+- [[Decision Log]] - document - vault/Decisions/Decision Log.md
+- [[DecisionsDecision Log]] - document - vault/Decisions/Decision Log.md
+- [[Dev Pipeline]] - document - vault/Pipeline/Dev Pipeline.md
+- [[Index]] - document - vault/Index.md
+- [[PipelineDev Pipeline]] - document - vault/Pipeline/Dev Pipeline.md
+- [[Systems Overview]] - document - vault/Systems/Systems Overview.md
+- [[SystemsSystems Overview]] - document - vault/Systems/Systems Overview.md
+- [[TodoCurrent Priorities]] - document - vault/Todo/Current Priorities.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -51,23 +63,23 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 6 edges to [[_COMMUNITY_Community 74]]
-- 4 edges to [[_COMMUNITY_Community 32]]
 - 4 edges to [[_COMMUNITY_Community 70]]
-- 3 edges to [[_COMMUNITY_Community 19]]
-- 2 edges to [[_COMMUNITY_Community 50]]
-- 2 edges to [[_COMMUNITY_Community 38]]
-- 2 edges to [[_COMMUNITY_Community 3]]
+- 3 edges to [[_COMMUNITY_Community 3]]
+- 2 edges to [[_COMMUNITY_Community 25]]
+- 2 edges to [[_COMMUNITY_Community 215]]
+- 2 edges to [[_COMMUNITY_Community 22]]
+- 2 edges to [[_COMMUNITY_Community 2]]
 - 1 edge to [[_COMMUNITY_Community 1]]
 - 1 edge to [[_COMMUNITY_Community 10]]
+- 1 edge to [[_COMMUNITY_Community 11]]
 - 1 edge to [[_COMMUNITY_Community 17]]
-- 1 edge to [[_COMMUNITY_Community 282]]
-- 1 edge to [[_COMMUNITY_Community 25]]
+- 1 edge to [[_COMMUNITY_Community 50]]
+- 1 edge to [[_COMMUNITY_Community 16]]
 - 1 edge to [[_COMMUNITY_Community 64]]
 - 1 edge to [[_COMMUNITY_Community 46]]
 - 1 edge to [[_COMMUNITY_Community 39]]
 - 1 edge to [[_COMMUNITY_Community 57]]
-- 1 edge to [[_COMMUNITY_Community 281]]
-- 1 edge to [[_COMMUNITY_Community 240]]
+- 1 edge to [[_COMMUNITY_Community 20]]
 - 1 edge to [[_COMMUNITY_Community 28]]
 - 1 edge to [[_COMMUNITY_Community 52]]
 - 1 edge to [[_COMMUNITY_Community 267]]
@@ -75,11 +87,11 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 54]]
 - 1 edge to [[_COMMUNITY_Community 56]]
 - 1 edge to [[_COMMUNITY_Community 58]]
-- 1 edge to [[_COMMUNITY_Community 215]]
-- 1 edge to [[_COMMUNITY_Community 222]]
+- 1 edge to [[_COMMUNITY_Community 338]]
 - 1 edge to [[_COMMUNITY_Community 59]]
 - 1 edge to [[_COMMUNITY_Community 4]]
 - 1 edge to [[_COMMUNITY_Community 294]]
+- 1 edge to [[_COMMUNITY_Community 420]]
 - 1 edge to [[_COMMUNITY_Community 47]]
 - 1 edge to [[_COMMUNITY_Community 65]]
 - 1 edge to [[_COMMUNITY_Community 66]]
@@ -87,24 +99,22 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 15]]
 - 1 edge to [[_COMMUNITY_Community 55]]
 - 1 edge to [[_COMMUNITY_Community 68]]
-- 1 edge to [[_COMMUNITY_Community 6]]
-- 1 edge to [[_COMMUNITY_Community 284]]
 - 1 edge to [[_COMMUNITY_Community 71]]
-- 1 edge to [[_COMMUNITY_Community 285]]
+- 1 edge to [[_COMMUNITY_Community 38]]
 - 1 edge to [[_COMMUNITY_Community 72]]
-- 1 edge to [[_COMMUNITY_Community 21]]
-- 1 edge to [[_COMMUNITY_Community 2]]
 - 1 edge to [[_COMMUNITY_Community 73]]
 - 1 edge to [[_COMMUNITY_Community 286]]
+- 1 edge to [[_COMMUNITY_Community 19]]
 - 1 edge to [[_COMMUNITY_Community 14]]
+- 1 edge to [[_COMMUNITY_Community 421]]
 - 1 edge to [[_COMMUNITY_Community 76]]
-- 1 edge to [[_COMMUNITY_Community 37]]
 - 1 edge to [[_COMMUNITY_Community 77]]
 - 1 edge to [[_COMMUNITY_Community 78]]
+- 1 edge to [[_COMMUNITY_Community 32]]
 
 ## Top bridge nodes
-- [[CodeCode Map]] - degree 61, connects to 22 communities
-- [[CodeBattleService]] - degree 24, connects to 3 communities
-- [[CodeGameData]] - degree 30, connects to 2 communities
-- [[CodeMain]] - degree 25, connects to 2 communities
-- [[CodeBattleData]] - degree 13, connects to 2 communities
+- [[CodeCode Map_2]] - degree 61, connects to 18 communities
+- [[CodeGameData_2]] - degree 30, connects to 2 communities
+- [[CodeBattleData_2]] - degree 13, connects to 2 communities
+- [[Index]] - degree 9, connects to 2 communities
+- [[CodeMain_2]] - degree 25, connects to 1 community

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/spawnJuniper().md"
+source_file: "vault/Graph/spawnJuniper()_2.md"
 type: "document"
-community: "Community 235"
-location: "L12"
+community: "Community 122"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_235
+  - community/Community_122
 ---
 
-# spawnJuniper()
+# spawnJuniper()_2.md
 
 ## Connections
-- [[Connections_688]] - `contains` [EXTRACTED]
-- [[spawnJuniper()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 234]] - `references` [EXTRACTED]
+- [[spawnJuniper()_4]] - `contains` [EXTRACTED]
+- [[spawnJuniper()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_235
+#graphify/document #graphify/EXTRACTED #community/Community_122

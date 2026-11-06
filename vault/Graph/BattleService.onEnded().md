@@ -19,7 +19,7 @@ tags:
 - [[ProgressService.init()]] - `calls` [INFERRED]
 - [[RouteTrainerService.init()]] - `calls` [INFERRED]
 - [[StoryService.init()]] - `calls` [INFERRED]
-- [[setup()_1]] - `calls` [INFERRED]
+- [[setup()]] - `calls` [INFERRED]
 - [[setupActivities()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/INFERRED #community/Community_15

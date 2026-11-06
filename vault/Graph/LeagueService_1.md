@@ -12,11 +12,12 @@ tags:
 # LeagueService_1.md
 
 ## Connections
-- [[Functions_44_1]] - `references` [EXTRACTED]
 - [[GraphLeagueService]] - `references` [EXTRACTED]
-- [[LeagueService_1_1]] - `contains` [EXTRACTED]
+- [[LeagueService_1_3]] - `contains` [EXTRACTED]
+- [[LeagueService_1_1]] - `references` [EXTRACTED]
 - [[Required by_44]] - `references` [EXTRACTED]
 - [[Requires_44]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 156]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 68]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_156

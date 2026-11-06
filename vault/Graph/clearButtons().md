@@ -12,8 +12,8 @@ tags:
 # clearButtons()
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
-- [[Functions_109]] - `references` [INFERRED]
+- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[Functions_170]] - `references` [INFERRED]
 - [[act()]] - `calls` [EXTRACTED]
 - [[handle()]] - `calls` [EXTRACTED]
 - [[showMenu()]] - `calls` [EXTRACTED]

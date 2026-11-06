@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/WeeklyEventService.md"
+source_file: "vault/Code/FirstSpawnLock.md"
 type: "document"
-community: "Community 77"
+community: "Community 35"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_77
+  - community/Community_35
 ---
 
 # Requires
 
 ## Connections
-- [[WeeklyEventService_2]] - `contains` [EXTRACTED]
+- [[FirstSpawnLock]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_77
+#graphify/document #graphify/EXTRACTED #community/Community_35

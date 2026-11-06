@@ -1,19 +1,18 @@
 ---
-source_file: "tests/TutorialCompletion.spec.luau"
-type: "code"
-community: "Community 62"
-location: "L1"
+source_file: "vault/Graph/TutorialCompletion.spec.luau_2.md"
+type: "document"
+community: "Community 1480"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_62
+  - community/Community_1480
 ---
 
-# TutorialCompletion.spec.luau
+# TutorialCompletion.spec.luau_2.md
 
 ## Connections
-- [[fakeNew()]] - `contains` [EXTRACTED]
-- [[fakePlayerGetAttribute()]] - `contains` [EXTRACTED]
-- [[fakePlayerGetAttributeChangedSignal()]] - `contains` [EXTRACTED]
+- [[Connections_1946]] - `contains` [EXTRACTED]
+- [[TutorialCompletion.spec.luau_2_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_62
+#graphify/document #graphify/EXTRACTED #community/Community_1480

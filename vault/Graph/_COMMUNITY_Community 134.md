@@ -1,25 +1,428 @@
 ---
 type: community
-members: 12
+members: 415
 ---
 
 # Community 134
 
-**Members:** 12 nodes
+**Members:** 415 nodes
 
 ## Members
-- [[Connections_287]] - document - vault/Graph/daysFromCivil().md
-- [[Connections_288]] - document - vault/Graph/nthSunday().md
-- [[Connections_289]] - document - vault/Graph/pacificDST().md
-- [[Connections_290]] - document - vault/Graph/schedule().md
-- [[daysFromCivil()_2]] - document - vault/Graph/daysFromCivil().md
-- [[daysFromCivil()_1]] - document - vault/Graph/daysFromCivil().md
-- [[nthSunday()_2]] - document - vault/Graph/nthSunday().md
-- [[nthSunday()_1]] - document - vault/Graph/nthSunday().md
-- [[pacificDST()_2]] - document - vault/Graph/pacificDST().md
-- [[pacificDST()_1]] - document - vault/Graph/pacificDST().md
-- [[schedule()_2]] - document - vault/Graph/schedule().md
-- [[schedule()_1]] - document - vault/Graph/schedule().md
+- [[BaseManager.firstHealthy()_3]] - document - vault/Graph/BaseManager.firstHealthy()_2.md
+- [[BaseManager.firstHealthy()_1]] - document - vault/Graph/BaseManager.firstHealthy()_1.md
+- [[BaseManager.firstHealthy()_1_1]] - document - vault/Graph/BaseManager.firstHealthy()_1.md
+- [[BaseManager.firstHealthy()_2]] - document - vault/Graph/BaseManager.firstHealthy()_2.md
+- [[BattleService.luau_1]] - document - vault/Graph/BattleService.luau_1.md
+- [[BattleService.luau_1_1]] - document - vault/Graph/BattleService.luau_1.md
+- [[BattleService.luau_2]] - document - vault/Graph/BattleService.luau_2.md
+- [[BattleService.luau_2_1]] - document - vault/Graph/BattleService.luau_2.md
+- [[BattleService.onEnded()_4]] - document - vault/Graph/BattleService.onEnded()_2.md
+- [[BattleService.onEnded()_3]] - document - vault/Graph/BattleService.onEnded()_1.md
+- [[BattleService.onEnded()_1]] - document - vault/Graph/BattleService.onEnded()_1.md
+- [[BattleService.onEnded()_2]] - document - vault/Graph/BattleService.onEnded()_2.md
+- [[BattleService.onReleased()_1]] - document - vault/Graph/BattleService.onReleased()_1.md
+- [[BattleService.onReleased()_1_1]] - document - vault/Graph/BattleService.onReleased()_1.md
+- [[BattleService.onReleased()_2]] - document - vault/Graph/BattleService.onReleased()_2.md
+- [[BattleService.onReleased()_2_1]] - document - vault/Graph/BattleService.onReleased()_2.md
+- [[Community 15_1]] - document - vault/Graph/Community 15.md
+- [[Community 15]] - document - vault/Graph/Community 15.md
+- [[Community 18_1]] - document - vault/Graph/Community 18.md
+- [[Community 18]] - document - vault/Graph/Community 18.md
+- [[Community 27_1]] - document - vault/Graph/Community 27.md
+- [[Community 27]] - document - vault/Graph/Community 27.md
+- [[Community 30_1]] - document - vault/Graph/Community 30.md
+- [[Community 30]] - document - vault/Graph/Community 30.md
+- [[Connections_1428]] - document - vault/Graph/BaseManager.firstHealthy()_1.md
+- [[Connections_1429]] - document - vault/Graph/BaseManager.firstHealthy()_2.md
+- [[Connections_1430]] - document - vault/Graph/BattleService.luau_1.md
+- [[Connections_1431]] - document - vault/Graph/BattleService.luau_2.md
+- [[Connections_1432]] - document - vault/Graph/BattleService.onEnded()_1.md
+- [[Connections_1433]] - document - vault/Graph/BattleService.onEnded()_2.md
+- [[Connections_1434]] - document - vault/Graph/BattleService.onReleased()_1.md
+- [[Connections_1435]] - document - vault/Graph/BattleService.onReleased()_2.md
+- [[Connections_1436]] - document - vault/Graph/canChallenge()_1.md
+- [[Connections_1437]] - document - vault/Graph/canChallenge()_2.md
+- [[Connections_1438]] - document - vault/Graph/challenge()_1_1.md
+- [[Connections_1439]] - document - vault/Graph/challenge()_2.md
+- [[Connections_1440]] - document - vault/Graph/challenge()_3.md
+- [[Connections_1441]] - document - vault/Graph/clearModels()_1_1.md
+- [[Connections_1442]] - document - vault/Graph/commands.allBadges()_2.md
+- [[Connections_1443]] - document - vault/Graph/commands.badges()_2.md
+- [[Connections_1444]] - document - vault/Graph/commands.beatTrainers()_1.md
+- [[Connections_1445]] - document - vault/Graph/commands.beatTrainers()_2.md
+- [[Connections_1446]] - document - vault/Graph/Community 15.md
+- [[Connections_1447]] - document - vault/Graph/Community 18.md
+- [[Connections_1448]] - document - vault/Graph/Community 27.md
+- [[Connections_1449]] - document - vault/Graph/Community 30.md
+- [[Connections_1450]] - document - vault/Graph/Connections_1041.md
+- [[Connections_1451]] - document - vault/Graph/Connections_1041.md
+- [[Connections_1452]] - document - vault/Graph/Connections_1042.md
+- [[Connections_1453]] - document - vault/Graph/Connections_1042.md
+- [[Connections_1454]] - document - vault/Graph/Connections_1051.md
+- [[Connections_1455]] - document - vault/Graph/Connections_1051.md
+- [[Connections_1456]] - document - vault/Graph/Connections_1052.md
+- [[Connections_1457]] - document - vault/Graph/Connections_1052.md
+- [[Connections_1458]] - document - vault/Graph/Connections_1055.md
+- [[Connections_1459]] - document - vault/Graph/Connections_1055.md
+- [[Connections_1460]] - document - vault/Graph/Connections_1057.md
+- [[Connections_1461]] - document - vault/Graph/Connections_1057.md
+- [[Connections_1462]] - document - vault/Graph/Connections_1058.md
+- [[Connections_1463]] - document - vault/Graph/Connections_1058.md
+- [[Connections_1464]] - document - vault/Graph/Connections_1060.md
+- [[Connections_1465]] - document - vault/Graph/Connections_1060.md
+- [[Connections_1466]] - document - vault/Graph/Connections_1062.md
+- [[Connections_1467]] - document - vault/Graph/Connections_1062.md
+- [[Connections_1468]] - document - vault/Graph/Connections_1063.md
+- [[Connections_1469]] - document - vault/Graph/Connections_1063.md
+- [[Connections_1470]] - document - vault/Graph/Connections_1065.md
+- [[Connections_1471]] - document - vault/Graph/Connections_1065.md
+- [[Connections_1472]] - document - vault/Graph/dialogue()_2.md
+- [[Connections_1473]] - document - vault/Graph/DungeonService.enter()_1.md
+- [[Connections_1474]] - document - vault/Graph/DungeonService.enter()_2.md
+- [[Connections_1475]] - document - vault/Graph/DungeonService.init()_1.md
+- [[Connections_1476]] - document - vault/Graph/DungeonService.init()_2.md
+- [[Connections_1477]] - document - vault/Graph/DungeonService.leave()_1.md
+- [[Connections_1478]] - document - vault/Graph/DungeonService.leave()_2.md
+- [[Connections_1479]] - document - vault/Graph/DungeonService.luau_1.md
+- [[Connections_1480]] - document - vault/Graph/DungeonService.luau_2.md
+- [[Connections_1481]] - document - vault/Graph/exclaim()_1.md
+- [[Connections_1482]] - document - vault/Graph/exclaim()_2.md
+- [[Connections_1483]] - document - vault/Graph/fire()_1.md
+- [[Connections_1484]] - document - vault/Graph/fire()_2.md
+- [[Connections_1485]] - document - vault/Graph/Functions_21_1.md
+- [[Connections_1486]] - document - vault/Graph/GameData.badgesForLane()_1.md
+- [[Connections_1487]] - document - vault/Graph/GameData.badgesForLane()_2.md
+- [[Connections_1488]] - document - vault/Graph/guideTarget()_1.md
+- [[Connections_1489]] - document - vault/Graph/guideTarget()_2.md
+- [[Connections_1490]] - document - vault/Graph/GymService_1.md
+- [[Connections_1491]] - document - vault/Graph/hipHeight()_1.md
+- [[Connections_1492]] - document - vault/Graph/hipHeight()_2.md
+- [[Connections_1493]] - document - vault/Graph/isChampion()_1.md
+- [[Connections_1494]] - document - vault/Graph/isChampion()_2.md
+- [[Connections_1495]] - document - vault/Graph/itemList()_1.md
+- [[Connections_1496]] - document - vault/Graph/itemList()_2.md
+- [[Connections_1497]] - document - vault/Graph/LeagueService.init()_1.md
+- [[Connections_1498]] - document - vault/Graph/LeagueService.init()_2.md
+- [[Connections_1499]] - document - vault/Graph/LeagueService.luau_1.md
+- [[Connections_1500]] - document - vault/Graph/LeagueService.luau_2.md
+- [[Connections_1501]] - document - vault/Graph/NPC.luau_1.md
+- [[Connections_1502]] - document - vault/Graph/NPC.luau_2.md
+- [[Connections_1503]] - document - vault/Graph/NPC.prompt()_1.md
+- [[Connections_1504]] - document - vault/Graph/NPC.prompt()_2.md
+- [[Connections_1505]] - document - vault/Graph/NPC.say()_1.md
+- [[Connections_1506]] - document - vault/Graph/NPC.say()_2.md
+- [[Connections_1507]] - document - vault/Graph/NPC.wave()_1.md
+- [[Connections_1508]] - document - vault/Graph/NPC.wave()_2.md
+- [[Connections_1509]] - document - vault/Graph/NPC.wave().md
+- [[Connections_1510]] - document - vault/Graph/onProfessor()_1.md
+- [[Connections_1511]] - document - vault/Graph/onProfessor()_2.md
+- [[Connections_1512]] - document - vault/Graph/pickStarter()_2.md
+- [[Connections_1513]] - document - vault/Graph/PlayerData.addBadge()_2.md
+- [[Connections_1514]] - document - vault/Graph/PlayerData.hasBadge()_2.md
+- [[Connections_1515]] - document - vault/Graph/PlayerData.hasBeatenTrainer()_1.md
+- [[Connections_1516]] - document - vault/Graph/PlayerData.hasBeatenTrainer()_2.md
+- [[Connections_1517]] - document - vault/Graph/PlayerData.markTrainerBeaten()_1.md
+- [[Connections_1518]] - document - vault/Graph/PlayerData.markTrainerBeaten()_2.md
+- [[Connections_1519]] - document - vault/Graph/playerStarter()_2.md
+- [[Connections_1520]] - document - vault/Graph/profIntro()_1.md
+- [[Connections_1521]] - document - vault/Graph/profIntro()_2.md
+- [[Connections_1522]] - document - vault/Graph/reset()_1.md
+- [[Connections_1523]] - document - vault/Graph/reset()_2.md
+- [[Connections_1524]] - document - vault/Graph/reward()_1.md
+- [[Connections_1525]] - document - vault/Graph/reward()_2.md
+- [[Connections_1526]] - document - vault/Graph/ride()_1.md
+- [[Connections_1527]] - document - vault/Graph/ride()_2.md
+- [[Connections_1528]] - document - vault/Graph/rivalAce()_1.md
+- [[Connections_1529]] - document - vault/Graph/rivalAce()_2.md
+- [[Connections_1530]] - document - vault/Graph/rivalChallenge()_2.md
+- [[Connections_1531]] - document - vault/Graph/room()_1.md
+- [[Connections_1532]] - document - vault/Graph/room()_2.md
+- [[Connections_1533]] - document - vault/Graph/RouteTrainerService.init()_1.md
+- [[Connections_1534]] - document - vault/Graph/RouteTrainerService.init()_2.md
+- [[Connections_1535]] - document - vault/Graph/RouteTrainerService.luau_1.md
+- [[Connections_1536]] - document - vault/Graph/RouteTrainerService.luau_2.md
+- [[Connections_1537]] - document - vault/Graph/setStep()_1.md
+- [[Connections_1538]] - document - vault/Graph/setStep()_2.md
+- [[Connections_1539]] - document - vault/Graph/setup()_1_1.md
+- [[Connections_1540]] - document - vault/Graph/setup()_3.md
+- [[Connections_1541]] - document - vault/Graph/spawnFor()_1.md
+- [[Connections_1542]] - document - vault/Graph/spawnFor()_2.md
+- [[Connections_1543]] - document - vault/Graph/stage()_1.md
+- [[Connections_1544]] - document - vault/Graph/stage()_2.md
+- [[Connections_1545]] - document - vault/Graph/starterInfo()_2.md
+- [[Connections_1546]] - document - vault/Graph/startNibbit()_1.md
+- [[Connections_1547]] - document - vault/Graph/startNibbit()_2.md
+- [[Connections_1548]] - document - vault/Graph/startRivalBattle()_2.md
+- [[Connections_1549]] - document - vault/Graph/streamTo()_1.md
+- [[Connections_1550]] - document - vault/Graph/streamTo()_2.md
+- [[Connections_1551]] - document - vault/Graph/teamFor()_1.md
+- [[Connections_1552]] - document - vault/Graph/teamFor()_2.md
+- [[Connections_1553]] - document - vault/Graph/TutorialService.finishGuide()_1.md
+- [[Connections_1554]] - document - vault/Graph/TutorialService.finishGuide()_2.md
+- [[Connections_1555]] - document - vault/Graph/TutorialService.init()_1.md
+- [[Connections_1556]] - document - vault/Graph/TutorialService.init()_2.md
+- [[Connections_1557]] - document - vault/Graph/TutorialService.logFunnel()_1.md
+- [[Connections_1558]] - document - vault/Graph/TutorialService.logFunnel()_2.md
+- [[Connections_1559]] - document - vault/Graph/TutorialService.luau_2.md
+- [[Connections_1560]] - document - vault/Graph/TutorialService.onHeal()_1.md
+- [[Connections_1561]] - document - vault/Graph/TutorialService.onHeal()_2.md
+- [[Connections_1562]] - document - vault/Graph/TutorialService.onShop()_1.md
+- [[Connections_1563]] - document - vault/Graph/TutorialService.onShop()_2.md
+- [[Connections_1564]] - document - vault/Graph/TutorialService.resumeGuide()_1.md
+- [[Connections_1565]] - document - vault/Graph/TutorialService.resumeGuide()_2.md
+- [[Connections_1566]] - document - vault/Graph/TutorialService.start()_1.md
+- [[Connections_1567]] - document - vault/Graph/TutorialService.start()_2.md
+- [[Connections_1568]] - document - vault/Graph/wins()_1.md
+- [[Connections_1569]] - document - vault/Graph/wins()_2.md
+- [[Connections_1041_1]] - document - vault/Graph/Connections_1041.md
+- [[Connections_1042_1]] - document - vault/Graph/Connections_1042.md
+- [[Connections_1051_1]] - document - vault/Graph/Connections_1051.md
+- [[Connections_1052_1]] - document - vault/Graph/Connections_1052.md
+- [[Connections_1055_1]] - document - vault/Graph/Connections_1055.md
+- [[Connections_1057_1]] - document - vault/Graph/Connections_1057.md
+- [[Connections_1058_1]] - document - vault/Graph/Connections_1058.md
+- [[Connections_1060_1]] - document - vault/Graph/Connections_1060.md
+- [[Connections_1062_1]] - document - vault/Graph/Connections_1062.md
+- [[Connections_1063_1]] - document - vault/Graph/Connections_1063.md
+- [[Connections_1065_1]] - document - vault/Graph/Connections_1065.md
+- [[DungeonService.enter()_3]] - document - vault/Graph/DungeonService.enter()_2.md
+- [[DungeonService.enter()_1]] - document - vault/Graph/DungeonService.enter()_1.md
+- [[DungeonService.enter()_1_1]] - document - vault/Graph/DungeonService.enter()_1.md
+- [[DungeonService.enter()_2]] - document - vault/Graph/DungeonService.enter()_2.md
+- [[DungeonService.init()_3]] - document - vault/Graph/DungeonService.init()_2.md
+- [[DungeonService.init()_1]] - document - vault/Graph/DungeonService.init()_1.md
+- [[DungeonService.init()_1_1]] - document - vault/Graph/DungeonService.init()_1.md
+- [[DungeonService.init()_2]] - document - vault/Graph/DungeonService.init()_2.md
+- [[DungeonService.leave()_3]] - document - vault/Graph/DungeonService.leave()_2.md
+- [[DungeonService.leave()_1]] - document - vault/Graph/DungeonService.leave()_1.md
+- [[DungeonService.leave()_1_1]] - document - vault/Graph/DungeonService.leave()_1.md
+- [[DungeonService.leave()_2]] - document - vault/Graph/DungeonService.leave()_2.md
+- [[DungeonService.luau]] - document - vault/Graph/DungeonService.luau_1.md
+- [[DungeonService.luau_1]] - document - vault/Graph/DungeonService.luau_1.md
+- [[DungeonService.luau_2]] - document - vault/Graph/DungeonService.luau_2.md
+- [[DungeonService.luau_2_1]] - document - vault/Graph/DungeonService.luau_2.md
+- [[Functions_21_2]] - document - vault/Graph/Functions_21_1.md
+- [[Functions_21_1]] - document - vault/Graph/Functions_21_1.md
+- [[GameData.badgesForLane()_1]] - document - vault/Graph/GameData.badgesForLane()_1.md
+- [[GameData.badgesForLane()_1_1]] - document - vault/Graph/GameData.badgesForLane()_1.md
+- [[GameData.badgesForLane()_2]] - document - vault/Graph/GameData.badgesForLane()_2.md
+- [[GameData.badgesForLane()_2_1]] - document - vault/Graph/GameData.badgesForLane()_2.md
+- [[GymService]] - document - vault/Graph/GymService_1.md
+- [[GymService_1]] - document - vault/Graph/GymService_1.md
+- [[LeagueService.init()_3]] - document - vault/Graph/LeagueService.init()_2.md
+- [[LeagueService.init()_1]] - document - vault/Graph/LeagueService.init()_1.md
+- [[LeagueService.init()_1_1]] - document - vault/Graph/LeagueService.init()_1.md
+- [[LeagueService.init()_2]] - document - vault/Graph/LeagueService.init()_2.md
+- [[LeagueService.luau]] - document - vault/Graph/LeagueService.luau_2.md
+- [[LeagueService.luau_1]] - document - vault/Graph/LeagueService.luau_1.md
+- [[LeagueService.luau_1_1]] - document - vault/Graph/LeagueService.luau_1.md
+- [[LeagueService.luau_2]] - document - vault/Graph/LeagueService.luau_2.md
+- [[NPC.luau_1]] - document - vault/Graph/NPC.luau_1.md
+- [[NPC.luau_1_1]] - document - vault/Graph/NPC.luau_1.md
+- [[NPC.luau_2]] - document - vault/Graph/NPC.luau_2.md
+- [[NPC.luau_2_1]] - document - vault/Graph/NPC.luau_2.md
+- [[NPC.prompt()_1]] - document - vault/Graph/NPC.prompt()_1.md
+- [[NPC.prompt()_1_1]] - document - vault/Graph/NPC.prompt()_1.md
+- [[NPC.prompt()_2]] - document - vault/Graph/NPC.prompt()_2.md
+- [[NPC.prompt()_2_1]] - document - vault/Graph/NPC.prompt()_2.md
+- [[NPC.say()_3]] - document - vault/Graph/NPC.say()_2.md
+- [[NPC.say()_1]] - document - vault/Graph/NPC.say()_1.md
+- [[NPC.say()_1_1]] - document - vault/Graph/NPC.say()_1.md
+- [[NPC.say()_2]] - document - vault/Graph/NPC.say()_2.md
+- [[NPC.wave()_3]] - document - vault/Graph/NPC.wave().md
+- [[NPC.wave()_1]] - document - vault/Graph/NPC.wave().md
+- [[NPC.wave()_1_1]] - document - vault/Graph/NPC.wave()_1.md
+- [[NPC.wave()_1_2]] - document - vault/Graph/NPC.wave()_1.md
+- [[NPC.wave()_2]] - document - vault/Graph/NPC.wave()_2.md
+- [[NPC.wave()_2_1]] - document - vault/Graph/NPC.wave()_2.md
+- [[PlayerData.addBadge()_2]] - document - vault/Graph/PlayerData.addBadge()_2.md
+- [[PlayerData.addBadge()_2_1]] - document - vault/Graph/PlayerData.addBadge()_2.md
+- [[PlayerData.hasBadge()_2]] - document - vault/Graph/PlayerData.hasBadge()_2.md
+- [[PlayerData.hasBadge()_2_1]] - document - vault/Graph/PlayerData.hasBadge()_2.md
+- [[PlayerData.hasBeatenTrainer()_1]] - document - vault/Graph/PlayerData.hasBeatenTrainer()_1.md
+- [[PlayerData.hasBeatenTrainer()_1_1]] - document - vault/Graph/PlayerData.hasBeatenTrainer()_1.md
+- [[PlayerData.hasBeatenTrainer()_2]] - document - vault/Graph/PlayerData.hasBeatenTrainer()_2.md
+- [[PlayerData.hasBeatenTrainer()_2_1]] - document - vault/Graph/PlayerData.hasBeatenTrainer()_2.md
+- [[PlayerData.markTrainerBeaten()_1]] - document - vault/Graph/PlayerData.markTrainerBeaten()_1.md
+- [[PlayerData.markTrainerBeaten()_1_1]] - document - vault/Graph/PlayerData.markTrainerBeaten()_1.md
+- [[PlayerData.markTrainerBeaten()_2]] - document - vault/Graph/PlayerData.markTrainerBeaten()_2.md
+- [[PlayerData.markTrainerBeaten()_2_1]] - document - vault/Graph/PlayerData.markTrainerBeaten()_2.md
+- [[RouteTrainerService.init()_3]] - document - vault/Graph/RouteTrainerService.init()_2.md
+- [[RouteTrainerService.init()_1]] - document - vault/Graph/RouteTrainerService.init()_1.md
+- [[RouteTrainerService.init()_1_1]] - document - vault/Graph/RouteTrainerService.init()_1.md
+- [[RouteTrainerService.init()_2]] - document - vault/Graph/RouteTrainerService.init()_2.md
+- [[RouteTrainerService.luau]] - document - vault/Graph/RouteTrainerService.luau_2.md
+- [[RouteTrainerService.luau_1]] - document - vault/Graph/RouteTrainerService.luau_1.md
+- [[RouteTrainerService.luau_1_1]] - document - vault/Graph/RouteTrainerService.luau_1.md
+- [[RouteTrainerService.luau_2]] - document - vault/Graph/RouteTrainerService.luau_2.md
+- [[TutorialService.finishGuide()_4]] - document - vault/Graph/TutorialService.finishGuide()_2.md
+- [[TutorialService.finishGuide()_3]] - document - vault/Graph/TutorialService.finishGuide()_1.md
+- [[TutorialService.finishGuide()_1]] - document - vault/Graph/TutorialService.finishGuide()_1.md
+- [[TutorialService.finishGuide()_2]] - document - vault/Graph/TutorialService.finishGuide()_2.md
+- [[TutorialService.init()_1]] - document - vault/Graph/TutorialService.init()_1.md
+- [[TutorialService.init()_1_1]] - document - vault/Graph/TutorialService.init()_1.md
+- [[TutorialService.init()_2]] - document - vault/Graph/TutorialService.init()_2.md
+- [[TutorialService.init()_2_1]] - document - vault/Graph/TutorialService.init()_2.md
+- [[TutorialService.logFunnel()_4]] - document - vault/Graph/TutorialService.logFunnel()_2.md
+- [[TutorialService.logFunnel()_3]] - document - vault/Graph/TutorialService.logFunnel()_1.md
+- [[TutorialService.logFunnel()_1]] - document - vault/Graph/TutorialService.logFunnel()_1.md
+- [[TutorialService.logFunnel()_2]] - document - vault/Graph/TutorialService.logFunnel()_2.md
+- [[TutorialService.luau_2]] - document - vault/Graph/TutorialService.luau_2.md
+- [[TutorialService.luau_2_1]] - document - vault/Graph/TutorialService.luau_2.md
+- [[TutorialService.onHeal()_3]] - document - vault/Graph/TutorialService.onHeal()_2.md
+- [[TutorialService.onHeal()_1]] - document - vault/Graph/TutorialService.onHeal()_1.md
+- [[TutorialService.onHeal()_1_1]] - document - vault/Graph/TutorialService.onHeal()_1.md
+- [[TutorialService.onHeal()_2]] - document - vault/Graph/TutorialService.onHeal()_2.md
+- [[TutorialService.onShop()_1]] - document - vault/Graph/TutorialService.onShop()_1.md
+- [[TutorialService.onShop()_1_1]] - document - vault/Graph/TutorialService.onShop()_1.md
+- [[TutorialService.onShop()_2]] - document - vault/Graph/TutorialService.onShop()_2.md
+- [[TutorialService.onShop()_2_1]] - document - vault/Graph/TutorialService.onShop()_2.md
+- [[TutorialService.resumeGuide()_4]] - document - vault/Graph/TutorialService.resumeGuide()_2.md
+- [[TutorialService.resumeGuide()_3]] - document - vault/Graph/TutorialService.resumeGuide()_1.md
+- [[TutorialService.resumeGuide()_1]] - document - vault/Graph/TutorialService.resumeGuide()_1.md
+- [[TutorialService.resumeGuide()_2]] - document - vault/Graph/TutorialService.resumeGuide()_2.md
+- [[TutorialService.start()_1]] - document - vault/Graph/TutorialService.start()_1.md
+- [[TutorialService.start()_1_1]] - document - vault/Graph/TutorialService.start()_1.md
+- [[TutorialService.start()_2]] - document - vault/Graph/TutorialService.start()_2.md
+- [[TutorialService.start()_2_1]] - document - vault/Graph/TutorialService.start()_2.md
+- [[_COMMUNITY_Community 134]] - document - vault/Graph/_COMMUNITY_Community 134.md
+- [[_COMMUNITY_Community 15]] - document - vault/Graph/_COMMUNITY_Community 15.md
+- [[_COMMUNITY_Community 18]] - document - vault/Graph/_COMMUNITY_Community 18.md
+- [[_COMMUNITY_Community 207]] - document - vault/Graph/_COMMUNITY_Community 207.md
+- [[_COMMUNITY_Community 223]] - document - vault/Graph/_COMMUNITY_Community 223.md
+- [[_COMMUNITY_Community 241]] - document - vault/Graph/_COMMUNITY_Community 241.md
+- [[_COMMUNITY_Community 258]] - document - vault/Graph/_COMMUNITY_Community 258.md
+- [[_COMMUNITY_Community 260]] - document - vault/Graph/_COMMUNITY_Community 260.md
+- [[_COMMUNITY_Community 270]] - document - vault/Graph/_COMMUNITY_Community 270.md
+- [[_COMMUNITY_Community 271]] - document - vault/Graph/_COMMUNITY_Community 271.md
+- [[_COMMUNITY_Community 275]] - document - vault/Graph/_COMMUNITY_Community 275.md
+- [[_COMMUNITY_Community 30]] - document - vault/Graph/_COMMUNITY_Community 30.md
+- [[_COMMUNITY_Community 311]] - document - vault/Graph/_COMMUNITY_Community 311.md
+- [[_COMMUNITY_Community 319]] - document - vault/Graph/_COMMUNITY_Community 319.md
+- [[_COMMUNITY_Community 333]] - document - vault/Graph/_COMMUNITY_Community 333.md
+- [[_COMMUNITY_Community 335]] - document - vault/Graph/_COMMUNITY_Community 335.md
+- [[_COMMUNITY_Community 363]] - document - vault/Graph/_COMMUNITY_Community 363.md
+- [[_COMMUNITY_Community 372]] - document - vault/Graph/_COMMUNITY_Community 372.md
+- [[_COMMUNITY_Community 373]] - document - vault/Graph/_COMMUNITY_Community 373.md
+- [[_COMMUNITY_Community 381]] - document - vault/Graph/_COMMUNITY_Community 381.md
+- [[_COMMUNITY_Community 383]] - document - vault/Graph/_COMMUNITY_Community 383.md
+- [[_COMMUNITY_Community 87]] - document - vault/Graph/_COMMUNITY_Community 87.md
+- [[canChallenge()_3]] - document - vault/Graph/canChallenge()_2.md
+- [[canChallenge()_1]] - document - vault/Graph/canChallenge()_1.md
+- [[canChallenge()_1_1]] - document - vault/Graph/canChallenge()_1.md
+- [[canChallenge()_2]] - document - vault/Graph/canChallenge()_2.md
+- [[challenge()_4]] - document - vault/Graph/challenge()_3.md
+- [[challenge()_1_1]] - document - vault/Graph/challenge()_1_1.md
+- [[challenge()_1_1_1]] - document - vault/Graph/challenge()_1_1.md
+- [[challenge()_2]] - document - vault/Graph/challenge()_2.md
+- [[challenge()_2_1]] - document - vault/Graph/challenge()_2.md
+- [[challenge()_3]] - document - vault/Graph/challenge()_3.md
+- [[clearModels()_1_2]] - document - vault/Graph/clearModels()_1_1.md
+- [[clearModels()_1_1]] - document - vault/Graph/clearModels()_1_1.md
+- [[commands.allBadges()_2]] - document - vault/Graph/commands.allBadges()_2.md
+- [[commands.allBadges()_2_1]] - document - vault/Graph/commands.allBadges()_2.md
+- [[commands.badges()_2]] - document - vault/Graph/commands.badges()_2.md
+- [[commands.badges()_2_1]] - document - vault/Graph/commands.badges()_2.md
+- [[commands.beatTrainers()_1]] - document - vault/Graph/commands.beatTrainers()_1.md
+- [[commands.beatTrainers()_1_1]] - document - vault/Graph/commands.beatTrainers()_1.md
+- [[commands.beatTrainers()_2]] - document - vault/Graph/commands.beatTrainers()_2.md
+- [[commands.beatTrainers()_2_1]] - document - vault/Graph/commands.beatTrainers()_2.md
+- [[dialogue()_2_1]] - document - vault/Graph/dialogue()_2.md
+- [[dialogue()_2_2]] - document - vault/Graph/dialogue()_2.md
+- [[exclaim()_3]] - document - vault/Graph/exclaim()_2.md
+- [[exclaim()_1]] - document - vault/Graph/exclaim()_1.md
+- [[exclaim()_1_1]] - document - vault/Graph/exclaim()_1.md
+- [[exclaim()_2]] - document - vault/Graph/exclaim()_2.md
+- [[fire()_1]] - document - vault/Graph/fire()_1.md
+- [[fire()_1_1]] - document - vault/Graph/fire()_1.md
+- [[fire()_2]] - document - vault/Graph/fire()_2.md
+- [[fire()_2_1]] - document - vault/Graph/fire()_2.md
+- [[guideTarget()_1]] - document - vault/Graph/guideTarget()_1.md
+- [[guideTarget()_1_1]] - document - vault/Graph/guideTarget()_1.md
+- [[guideTarget()_2]] - document - vault/Graph/guideTarget()_2.md
+- [[guideTarget()_2_1]] - document - vault/Graph/guideTarget()_2.md
+- [[hipHeight()_3]] - document - vault/Graph/hipHeight()_2.md
+- [[hipHeight()_1]] - document - vault/Graph/hipHeight()_1.md
+- [[hipHeight()_1_1]] - document - vault/Graph/hipHeight()_1.md
+- [[hipHeight()_2]] - document - vault/Graph/hipHeight()_2.md
+- [[isChampion()_3]] - document - vault/Graph/isChampion()_2.md
+- [[isChampion()_1]] - document - vault/Graph/isChampion()_1.md
+- [[isChampion()_1_1]] - document - vault/Graph/isChampion()_1.md
+- [[isChampion()_2]] - document - vault/Graph/isChampion()_2.md
+- [[itemList()_3]] - document - vault/Graph/itemList()_2.md
+- [[itemList()_1]] - document - vault/Graph/itemList()_1.md
+- [[itemList()_1_1]] - document - vault/Graph/itemList()_1.md
+- [[itemList()_2]] - document - vault/Graph/itemList()_2.md
+- [[onProfessor()_1]] - document - vault/Graph/onProfessor()_1.md
+- [[onProfessor()_1_1]] - document - vault/Graph/onProfessor()_1.md
+- [[onProfessor()_2]] - document - vault/Graph/onProfessor()_2.md
+- [[onProfessor()_2_1]] - document - vault/Graph/onProfessor()_2.md
+- [[pickStarter()_2]] - document - vault/Graph/pickStarter()_2.md
+- [[pickStarter()_2_1]] - document - vault/Graph/pickStarter()_2.md
+- [[playerStarter()_2_1]] - document - vault/Graph/playerStarter()_2.md
+- [[playerStarter()_2_2]] - document - vault/Graph/playerStarter()_2.md
+- [[profIntro()_1]] - document - vault/Graph/profIntro()_1.md
+- [[profIntro()_1_1]] - document - vault/Graph/profIntro()_1.md
+- [[profIntro()_2]] - document - vault/Graph/profIntro()_2.md
+- [[profIntro()_2_1]] - document - vault/Graph/profIntro()_2.md
+- [[reset()_3]] - document - vault/Graph/reset()_2.md
+- [[reset()_1]] - document - vault/Graph/reset()_1.md
+- [[reset()_1_1]] - document - vault/Graph/reset()_1.md
+- [[reset()_2]] - document - vault/Graph/reset()_2.md
+- [[reward()_3]] - document - vault/Graph/reward()_2.md
+- [[reward()_1]] - document - vault/Graph/reward()_1.md
+- [[reward()_1_1]] - document - vault/Graph/reward()_1.md
+- [[reward()_2]] - document - vault/Graph/reward()_2.md
+- [[ride()_1]] - document - vault/Graph/ride()_1.md
+- [[ride()_1_1]] - document - vault/Graph/ride()_1.md
+- [[ride()_2]] - document - vault/Graph/ride()_2.md
+- [[ride()_2_1]] - document - vault/Graph/ride()_2.md
+- [[rivalAce()_3]] - document - vault/Graph/rivalAce()_2.md
+- [[rivalAce()_1]] - document - vault/Graph/rivalAce()_1.md
+- [[rivalAce()_1_1]] - document - vault/Graph/rivalAce()_1.md
+- [[rivalAce()_2]] - document - vault/Graph/rivalAce()_2.md
+- [[rivalChallenge()_2_1]] - document - vault/Graph/rivalChallenge()_2.md
+- [[rivalChallenge()_2_2]] - document - vault/Graph/rivalChallenge()_2.md
+- [[room()_3]] - document - vault/Graph/room()_2.md
+- [[room()_1]] - document - vault/Graph/room()_1.md
+- [[room()_1_1]] - document - vault/Graph/room()_1.md
+- [[room()_2]] - document - vault/Graph/room()_2.md
+- [[setStep()_1]] - document - vault/Graph/setStep()_1.md
+- [[setStep()_1_1]] - document - vault/Graph/setStep()_1.md
+- [[setStep()_2]] - document - vault/Graph/setStep()_2.md
+- [[setStep()_2_1]] - document - vault/Graph/setStep()_2.md
+- [[setup()_1_1]] - document - vault/Graph/setup()_1_1.md
+- [[setup()_1_1_1]] - document - vault/Graph/setup()_1_1.md
+- [[setup()_3]] - document - vault/Graph/setup()_3.md
+- [[setup()_3_1]] - document - vault/Graph/setup()_3.md
+- [[spawnFor()_4]] - document - vault/Graph/spawnFor()_2.md
+- [[spawnFor()_3]] - document - vault/Graph/spawnFor()_1.md
+- [[spawnFor()_1]] - document - vault/Graph/spawnFor()_1.md
+- [[spawnFor()_2]] - document - vault/Graph/spawnFor()_2.md
+- [[stage()_3]] - document - vault/Graph/stage()_2.md
+- [[stage()_1]] - document - vault/Graph/stage()_1.md
+- [[stage()_1_1]] - document - vault/Graph/stage()_1.md
+- [[stage()_2]] - document - vault/Graph/stage()_2.md
+- [[startNibbit()_1]] - document - vault/Graph/startNibbit()_1.md
+- [[startNibbit()_1_1]] - document - vault/Graph/startNibbit()_1.md
+- [[startNibbit()_2]] - document - vault/Graph/startNibbit()_2.md
+- [[startNibbit()_2_1]] - document - vault/Graph/startNibbit()_2.md
+- [[startRivalBattle()_2]] - document - vault/Graph/startRivalBattle()_2.md
+- [[startRivalBattle()_2_1]] - document - vault/Graph/startRivalBattle()_2.md
+- [[starterInfo()_2]] - document - vault/Graph/starterInfo()_2.md
+- [[starterInfo()_2_1]] - document - vault/Graph/starterInfo()_2.md
+- [[streamTo()_3]] - document - vault/Graph/streamTo()_2.md
+- [[streamTo()_1]] - document - vault/Graph/streamTo()_1.md
+- [[streamTo()_1_1]] - document - vault/Graph/streamTo()_1.md
+- [[streamTo()_2]] - document - vault/Graph/streamTo()_2.md
+- [[teamFor()_3]] - document - vault/Graph/teamFor()_2.md
+- [[teamFor()_1]] - document - vault/Graph/teamFor()_1.md
+- [[teamFor()_1_1]] - document - vault/Graph/teamFor()_1.md
+- [[teamFor()_2]] - document - vault/Graph/teamFor()_2.md
+- [[wins()_3]] - document - vault/Graph/wins()_2.md
+- [[wins()_1]] - document - vault/Graph/wins()_1.md
+- [[wins()_1_1]] - document - vault/Graph/wins()_1.md
+- [[wins()_2]] - document - vault/Graph/wins()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,11 +432,88 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 316]]
-- 1 edge to [[_COMMUNITY_Community 216]]
+- 75 edges to [[_COMMUNITY_Community 168]]
+- 35 edges to [[_COMMUNITY_Community 86]]
+- 13 edges to [[_COMMUNITY_Community 292]]
+- 9 edges to [[_COMMUNITY_Community 12]]
+- 7 edges to [[_COMMUNITY_Community 298]]
+- 7 edges to [[_COMMUNITY_Community 87]]
+- 6 edges to [[_COMMUNITY_Community 144]]
+- 6 edges to [[_COMMUNITY_Community 90]]
+- 5 edges to [[_COMMUNITY_Community 27]]
+- 4 edges to [[_COMMUNITY_Community 24]]
+- 4 edges to [[_COMMUNITY_Community 251]]
+- 4 edges to [[_COMMUNITY_Community 93]]
+- 4 edges to [[_COMMUNITY_Community 276]]
+- 3 edges to [[_COMMUNITY_Community 107]]
+- 3 edges to [[_COMMUNITY_Community 1208]]
+- 3 edges to [[_COMMUNITY_Community 329]]
+- 3 edges to [[_COMMUNITY_Community 197]]
+- 3 edges to [[_COMMUNITY_Community 228]]
+- 2 edges to [[_COMMUNITY_Community 199]]
+- 2 edges to [[_COMMUNITY_Community 330]]
+- 2 edges to [[_COMMUNITY_Community 97]]
+- 2 edges to [[_COMMUNITY_Community 152]]
+- 2 edges to [[_COMMUNITY_Community 468]]
+- 2 edges to [[_COMMUNITY_Community 37]]
+- 2 edges to [[_COMMUNITY_Community 583]]
+- 2 edges to [[_COMMUNITY_Community 584]]
+- 2 edges to [[_COMMUNITY_Community 620]]
+- 2 edges to [[_COMMUNITY_Community 637]]
+- 2 edges to [[_COMMUNITY_Community 639]]
+- 1 edge to [[_COMMUNITY_Community 1004]]
+- 1 edge to [[_COMMUNITY_Community 1037]]
+- 1 edge to [[_COMMUNITY_Community 1038]]
+- 1 edge to [[_COMMUNITY_Community 1052]]
+- 1 edge to [[_COMMUNITY_Community 1057]]
+- 1 edge to [[_COMMUNITY_Community 1058]]
+- 1 edge to [[_COMMUNITY_Community 1072]]
+- 1 edge to [[_COMMUNITY_Community 1078]]
+- 1 edge to [[_COMMUNITY_Community 1079]]
+- 1 edge to [[_COMMUNITY_Community 1087]]
+- 1 edge to [[_COMMUNITY_Community 1090]]
+- 1 edge to [[_COMMUNITY_Community 1142]]
+- 1 edge to [[_COMMUNITY_Community 1145]]
+- 1 edge to [[_COMMUNITY_Community 1146]]
+- 1 edge to [[_COMMUNITY_Community 120]]
+- 1 edge to [[_COMMUNITY_Community 832]]
+- 1 edge to [[_COMMUNITY_Community 626]]
+- 1 edge to [[_COMMUNITY_Community 860]]
+- 1 edge to [[_COMMUNITY_Community 870]]
+- 1 edge to [[_COMMUNITY_Community 753]]
+- 1 edge to [[_COMMUNITY_Community 807]]
+- 1 edge to [[_COMMUNITY_Community 940]]
+- 1 edge to [[_COMMUNITY_Community 510]]
+- 1 edge to [[_COMMUNITY_Community 527]]
+- 1 edge to [[_COMMUNITY_Community 202]]
+- 1 edge to [[_COMMUNITY_Community 151]]
+- 1 edge to [[_COMMUNITY_Community 226]]
+- 1 edge to [[_COMMUNITY_Community 149]]
+- 1 edge to [[_COMMUNITY_Community 265]]
+- 1 edge to [[_COMMUNITY_Community 433]]
+- 1 edge to [[_COMMUNITY_Community 678]]
+- 1 edge to [[_COMMUNITY_Community 260]]
+- 1 edge to [[_COMMUNITY_Community 75]]
+- 1 edge to [[_COMMUNITY_Community 438]]
+- 1 edge to [[_COMMUNITY_Community 372]]
+- 1 edge to [[_COMMUNITY_Community 210]]
+- 1 edge to [[_COMMUNITY_Community 734]]
+- 1 edge to [[_COMMUNITY_Community 145]]
+- 1 edge to [[_COMMUNITY_Community 258]]
+- 1 edge to [[_COMMUNITY_Community 396]]
+- 1 edge to [[_COMMUNITY_Community 363]]
+- 1 edge to [[_COMMUNITY_Community 373]]
+- 1 edge to [[_COMMUNITY_Community 383]]
+- 1 edge to [[_COMMUNITY_Community 381]]
+- 1 edge to [[_COMMUNITY_Community 270]]
+- 1 edge to [[_COMMUNITY_Community 696]]
+- 1 edge to [[_COMMUNITY_Community 241]]
+- 1 edge to [[_COMMUNITY_Community 705]]
+- 1 edge to [[_COMMUNITY_Community 721]]
 
 ## Top bridge nodes
-- [[schedule()_1]] - degree 5, connects to 2 communities
-- [[daysFromCivil()_1]] - degree 4, connects to 1 community
-- [[nthSunday()_1]] - degree 4, connects to 1 community
-- [[pacificDST()_1]] - degree 4, connects to 1 community
+- [[_COMMUNITY_Community 87]] - degree 88, connects to 22 communities
+- [[_COMMUNITY_Community 134]] - degree 79, connects to 19 communities
+- [[_COMMUNITY_Community 15]] - degree 101, connects to 16 communities
+- [[_COMMUNITY_Community 241]] - degree 35, connects to 10 communities
+- [[_COMMUNITY_Community 30]] - degree 62, connects to 9 communities

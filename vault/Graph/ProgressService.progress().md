@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/ProgressService.luau"
 type: "code"
-community: "Community 21"
+community: "Community 11"
 location: "L127"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_11
 ---
 
 # ProgressService.progress()
@@ -20,4 +20,4 @@ tags:
 - [[ProgressService.progress()]] - `calls` [EXTRACTED]
 - [[syncQuests()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_21
+#graphify/code #graphify/EXTRACTED #community/Community_11

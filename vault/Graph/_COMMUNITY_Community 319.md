@@ -1,16 +1,25 @@
 ---
 type: community
-members: 3
+members: 12
 ---
 
 # Community 319
 
-**Members:** 3 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_809]] - document - vault/Graph/Features.wings().md
-- [[Features.wings()_2]] - document - vault/Graph/Features.wings().md
-- [[Features.wings()_1]] - document - vault/Graph/Features.wings().md
+- [[Connections_3853]] - document - vault/Graph/creatureText().md
+- [[Connections_3854]] - document - vault/Graph/fillBox().md
+- [[Connections_3855]] - document - vault/Graph/render()_1.md
+- [[Connections_3856]] - document - vault/Graph/trade.update().md
+- [[creatureText()_6]] - document - vault/Graph/creatureText().md
+- [[creatureText()_5]] - document - vault/Graph/creatureText().md
+- [[fillBox()_6]] - document - vault/Graph/fillBox().md
+- [[fillBox()_5]] - document - vault/Graph/fillBox().md
+- [[render()_6]] - document - vault/Graph/render()_1.md
+- [[render()_1_3]] - document - vault/Graph/render()_1.md
+- [[trade.update()_6]] - document - vault/Graph/trade.update().md
+- [[trade.update()_5]] - document - vault/Graph/trade.update().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,10 +27,3 @@ members: 3
 TABLE source_file, type FROM #community/Community_319
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 133]]
-- 1 edge to [[_COMMUNITY_Community 171]]
-
-## Top bridge nodes
-- [[Features.wings()_1]] - degree 3, connects to 2 communities

@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/resolvePath().md"
 type: "document"
-community: "Community 194"
+community: "Community 112"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_194
+  - community/Community_112
 ---
 
 # resolvePath().md
@@ -18,4 +18,4 @@ tags:
 - [[findTargets()_1]] - `references` [EXTRACTED]
 - [[resolvePath()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_194
+#graphify/document #graphify/EXTRACTED #community/Community_112

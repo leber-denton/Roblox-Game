@@ -1,21 +1,22 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/HUD.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Menus.client.luau"
 type: "code"
-community: "Community 8"
-location: "L215"
+community: "Community 418"
+location: "L359"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_418
 ---
 
 # refresh()
 
 ## Connections
-- [[GameData.canEnter()]] - `calls` [INFERRED]
-- [[GameData.levelCap()]] - `calls` [INFERRED]
-- [[HUD.client.luau_2]] - `contains` [EXTRACTED]
-- [[header()_2]] - `calls` [EXTRACTED]
-- [[row()_3]] - `calls` [EXTRACTED]
+- [[GameData.itemSummary()]] - `calls` [INFERRED]
+- [[Menus.client.luau_4]] - `contains` [EXTRACTED]
+- [[clear()]] - `calls` [EXTRACTED]
+- [[inventory()]] - `calls` [EXTRACTED]
+- [[new()_5]] - `calls` [EXTRACTED]
+- [[refresh()_2]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_8
+#graphify/code #graphify/EXTRACTED #community/Community_418

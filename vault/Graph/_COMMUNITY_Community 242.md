@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Community 242
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_718]] - document - vault/Graph/paidPick().md
-- [[Connections_719]] - document - vault/Graph/rarestOf().md
-- [[paidPick()_2]] - document - vault/Graph/paidPick().md
-- [[paidPick()_1]] - document - vault/Graph/paidPick().md
-- [[rarestOf()_2]] - document - vault/Graph/rarestOf().md
-- [[rarestOf()_1]] - document - vault/Graph/rarestOf().md
+- [[Community 146]] - document - vault/Graph/_COMMUNITY_Community 146.md
+- [[Connections to other communities_189]] - document - vault/Graph/_COMMUNITY_Community 146.md
+- [[Live Query (requires Dataview plugin)_220]] - document - vault/Graph/_COMMUNITY_Community 146.md
+- [[Members_223]] - document - vault/Graph/_COMMUNITY_Community 146.md
+- [[Top bridge nodes_195]] - document - vault/Graph/_COMMUNITY_Community 146.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,11 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 53]]
-- 2 edges to [[_COMMUNITY_Community 316]]
-- 1 edge to [[_COMMUNITY_Community 193]]
-- 1 edge to [[_COMMUNITY_Community 237]]
+- 1 edge to [[_COMMUNITY_Community 168]]
 
 ## Top bridge nodes
-- [[paidPick()_1]] - degree 7, connects to 4 communities
-- [[rarestOf()_1]] - degree 4, connects to 2 communities
+- [[Community 146]] - degree 5, connects to 1 community

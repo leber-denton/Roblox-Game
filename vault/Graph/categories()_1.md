@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/categories().md"
 type: "document"
-community: "Community 228"
+community: "Community 136"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_228
+  - community/Community_136
 ---
 
 # categories().md
@@ -18,4 +18,4 @@ tags:
 - [[galleryTrainers()_1]] - `references` [EXTRACTED]
 - [[sourceOf()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_228
+#graphify/document #graphify/EXTRACTED #community/Community_136

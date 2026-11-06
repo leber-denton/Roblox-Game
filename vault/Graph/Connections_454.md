@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/WeeklyEventService_1.md"
+source_file: "vault/Graph/Connections_322.md"
 type: "document"
-community: "Community 165"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_165
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[WeeklyEventService_1_1]] - `contains` [EXTRACTED]
+- [[Connections_453]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_165
+#graphify/document #graphify/EXTRACTED #community/Community_117

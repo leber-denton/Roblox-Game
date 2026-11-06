@@ -12,7 +12,7 @@ tags:
 # lockRegion()
 
 ## Connections
-- [[Connections_55]] - `contains` [EXTRACTED]
+- [[Connections_132]] - `contains` [EXTRACTED]
 - [[lockRegion()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_105

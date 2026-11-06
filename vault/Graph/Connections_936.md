@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/PlayerData.serialize().md"
+source_file: "vault/Graph/Connections_678.md"
 type: "document"
-community: "Community 41"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[PlayerData.serialize()_2]] - `contains` [EXTRACTED]
+- [[Connections_937]] - `contains` [EXTRACTED]
+- [[Connections_678]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/document #graphify/EXTRACTED #community/Community_12

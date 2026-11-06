@@ -12,7 +12,7 @@ tags:
 # lockPart()
 
 ## Connections
-- [[LockedLanes.client.luau_2]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_3]] - `contains` [EXTRACTED]
 - [[consider()]] - `calls` [EXTRACTED]
 - [[grey()]] - `calls` [EXTRACTED]
 - [[isContent()]] - `calls` [EXTRACTED]

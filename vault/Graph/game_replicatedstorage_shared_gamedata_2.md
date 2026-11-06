@@ -1,16 +1,19 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 5"
+source_file: "vault/Graph/game_replicatedstorage_shared_gamedata_2.md"
+type: "document"
+community: "Community 950"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_5
+  - community/Community_950
 ---
 
-# game_replicatedstorage_shared_gamedata
+# game_replicatedstorage_shared_gamedata_2.md
 
 ## Connections
-- [[WildShiftTests.luau_2]] - `imports` [EXTRACTED]
+- [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
+- [[game_replicatedstorage_shared_gamedata_3]] - `references` [EXTRACTED]
+- [[game_replicatedstorage_shared_gamedata_2_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_5
+#graphify/document #graphify/EXTRACTED #community/Community_950

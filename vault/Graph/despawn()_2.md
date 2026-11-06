@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/despawn().md"
+source_file: "vault/Graph/despawn()_2.md"
 type: "document"
-community: "Community 53"
-location: "L12"
+community: "Community 292"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_53
+  - community/Community_292
 ---
 
-# despawn()
+# despawn()_2.md
 
 ## Connections
-- [[Connections_1016]] - `contains` [EXTRACTED]
-- [[despawn()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 292]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 53]] - `references` [EXTRACTED]
+- [[despawn()_1]] - `references` [EXTRACTED]
+- [[despawn()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_53
+#graphify/document #graphify/EXTRACTED #community/Community_292

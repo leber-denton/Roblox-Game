@@ -1,29 +1,58 @@
 ---
 type: community
-members: 16
+members: 45
 ---
 
 # Community 23
 
-**Members:** 16 nodes
+**Members:** 45 nodes
 
 ## Members
-- [[Connections_663]] - document - vault/Graph/npcWave().md
-- [[Connections_664]] - document - vault/Graph/pickEntry().md
-- [[Connections_665]] - document - vault/Graph/spawnInLane().md
-- [[Connections_666]] - document - vault/Graph/WildSpawner.rollVariant().md
-- [[Connections_667]] - document - vault/Graph/WildSpawner.spawnOne().md
-- [[WildSpawner.rollVariant()_2]] - document - vault/Graph/WildSpawner.rollVariant().md
-- [[WildSpawner.rollVariant()_1]] - document - vault/Graph/WildSpawner.rollVariant().md
-- [[WildSpawner.spawnOne()_2]] - document - vault/Graph/WildSpawner.spawnOne().md
-- [[WildSpawner.spawnOne()_1]] - document - vault/Graph/WildSpawner.spawnOne().md
-- [[_COMMUNITY_Community 26]] - document - vault/Graph/_COMMUNITY_Community 26.md
-- [[npcWave()_2]] - document - vault/Graph/npcWave().md
-- [[npcWave()_1]] - document - vault/Graph/npcWave().md
-- [[pickEntry()_2]] - document - vault/Graph/pickEntry().md
-- [[pickEntry()_1]] - document - vault/Graph/pickEntry().md
-- [[spawnInLane()_2]] - document - vault/Graph/spawnInLane().md
-- [[spawnInLane()_1]] - document - vault/Graph/spawnInLane().md
+- [[Connections_3248]] - document - vault/Graph/aimRay().md
+- [[Connections_3249]] - document - vault/Graph/clearContent().md
+- [[Connections_3250]] - document - vault/Graph/Functions_72.md
+- [[Connections_3251]] - document - vault/Graph/myBase().md
+- [[Connections_3252]] - document - vault/Graph/placedCount()_1.md
+- [[Connections_3253]] - document - vault/Graph/placedModel().md
+- [[Connections_3254]] - document - vault/Graph/rebuildBar().md
+- [[Connections_3255]] - document - vault/Graph/setModelHidden().md
+- [[Connections_3256]] - document - vault/Graph/startPicking().md
+- [[Connections_3257]] - document - vault/Graph/startPlacing().md
+- [[Connections_3258]] - document - vault/Graph/stopBuild().md
+- [[Connections_3259]] - document - vault/Graph/toast().md
+- [[Connections_3260]] - document - vault/Graph/tryCommit().md
+- [[Connections_3261]] - document - vault/Graph/tryPick().md
+- [[Connections_3262]] - document - vault/Graph/tryPutAway().md
+- [[Functions_79]] - document - vault/Graph/Functions_72.md
+- [[Functions_72_1]] - document - vault/Graph/Functions_72.md
+- [[aimRay()_2]] - document - vault/Graph/aimRay().md
+- [[aimRay()_1]] - document - vault/Graph/aimRay().md
+- [[clearContent()_2]] - document - vault/Graph/clearContent().md
+- [[clearContent()_1]] - document - vault/Graph/clearContent().md
+- [[myBase()_2]] - document - vault/Graph/myBase().md
+- [[myBase()_1]] - document - vault/Graph/myBase().md
+- [[placedCount()_6]] - document - vault/Graph/placedCount()_1.md
+- [[placedCount()_1_1]] - document - vault/Graph/placedCount()_1.md
+- [[placedModel()_4]] - document - vault/Graph/placedModel().md
+- [[placedModel()_3]] - document - vault/Graph/placedModel().md
+- [[rebuildBar()_4]] - document - vault/Graph/rebuildBar().md
+- [[rebuildBar()_3]] - document - vault/Graph/rebuildBar().md
+- [[setModelHidden()_4]] - document - vault/Graph/setModelHidden().md
+- [[setModelHidden()_3]] - document - vault/Graph/setModelHidden().md
+- [[startPicking()_4]] - document - vault/Graph/startPicking().md
+- [[startPicking()_3]] - document - vault/Graph/startPicking().md
+- [[startPlacing()_4]] - document - vault/Graph/startPlacing().md
+- [[startPlacing()_3]] - document - vault/Graph/startPlacing().md
+- [[stopBuild()_4]] - document - vault/Graph/stopBuild().md
+- [[stopBuild()_3]] - document - vault/Graph/stopBuild().md
+- [[toast()_2]] - document - vault/Graph/toast().md
+- [[toast()_1]] - document - vault/Graph/toast().md
+- [[tryCommit()_2]] - document - vault/Graph/tryCommit().md
+- [[tryCommit()_1]] - document - vault/Graph/tryCommit().md
+- [[tryPick()_2]] - document - vault/Graph/tryPick().md
+- [[tryPick()_1]] - document - vault/Graph/tryPick().md
+- [[tryPutAway()_2]] - document - vault/Graph/tryPutAway().md
+- [[tryPutAway()_1]] - document - vault/Graph/tryPutAway().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -33,44 +62,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 7 edges to [[_COMMUNITY_Community 94]]
-- 6 edges to [[_COMMUNITY_Community 90]]
-- 4 edges to [[_COMMUNITY_Community 149]]
-- 3 edges to [[_COMMUNITY_Community 193]]
-- 3 edges to [[_COMMUNITY_Community 223]]
-- 2 edges to [[_COMMUNITY_Community 30]]
-- 1 edge to [[_COMMUNITY_Community 102]]
-- 1 edge to [[_COMMUNITY_Community 103]]
-- 1 edge to [[_COMMUNITY_Community 123]]
-- 1 edge to [[_COMMUNITY_Community 144]]
-- 1 edge to [[_COMMUNITY_Community 167]]
-- 1 edge to [[_COMMUNITY_Community 171]]
-- 1 edge to [[_COMMUNITY_Community 212]]
-- 1 edge to [[_COMMUNITY_Community 224]]
-- 1 edge to [[_COMMUNITY_Community 53]]
-- 1 edge to [[_COMMUNITY_Community 268]]
-- 1 edge to [[_COMMUNITY_Community 256]]
-- 1 edge to [[_COMMUNITY_Community 24]]
-- 1 edge to [[_COMMUNITY_Community 87]]
-- 1 edge to [[_COMMUNITY_Community 42]]
-- 1 edge to [[_COMMUNITY_Community 316]]
-- 1 edge to [[_COMMUNITY_Community 34]]
-- 1 edge to [[_COMMUNITY_Community 41]]
-- 1 edge to [[_COMMUNITY_Community 91]]
-- 1 edge to [[_COMMUNITY_Community 378]]
-- 1 edge to [[_COMMUNITY_Community 296]]
-- 1 edge to [[_COMMUNITY_Community 338]]
-- 1 edge to [[_COMMUNITY_Community 340]]
-- 1 edge to [[_COMMUNITY_Community 365]]
-- 1 edge to [[_COMMUNITY_Community 366]]
-- 1 edge to [[_COMMUNITY_Community 369]]
-- 1 edge to [[_COMMUNITY_Community 370]]
-- 1 edge to [[_COMMUNITY_Community 377]]
-- 1 edge to [[_COMMUNITY_Community 322]]
-- 1 edge to [[_COMMUNITY_Community 86]]
-- 1 edge to [[_COMMUNITY_Community 9]]
+- 15 edges to [[_COMMUNITY_Community 98]]
+- 9 edges to [[_COMMUNITY_Community 63]]
+- 2 edges to [[_COMMUNITY_Community 310]]
+- 1 edge to [[_COMMUNITY_Community 109]]
+- 1 edge to [[_COMMUNITY_Community 439]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 26]] - degree 54, connects to 34 communities
-- [[WildSpawner.spawnOne()_1]] - degree 9, connects to 4 communities
-- [[spawnInLane()_1]] - degree 5, connects to 1 community
+- [[Functions_72_1]] - degree 14, connects to 3 communities
+- [[startPlacing()_3]] - degree 9, connects to 3 communities
+- [[aimRay()_1]] - degree 7, connects to 3 communities
+- [[clearContent()_1]] - degree 5, connects to 3 communities
+- [[stopBuild()_3]] - degree 11, connects to 2 communities

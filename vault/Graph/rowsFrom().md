@@ -12,7 +12,7 @@ tags:
 # rowsFrom()
 
 ## Connections
-- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
 - [[claimLastSunday()]] - `calls` [EXTRACTED]
 - [[refreshBoards()]] - `calls` [EXTRACTED]
 

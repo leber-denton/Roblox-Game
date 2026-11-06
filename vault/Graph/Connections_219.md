@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DungeonClient_1.md"
+source_file: "vault/Graph/BattleData.bestStats()_1.md"
 type: "document"
-community: "Community 125"
+community: "Community 1093"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_125
+  - community/Community_1093
 ---
 
 # Connections
 
 ## Connections
-- [[DungeonClient_1_1]] - `contains` [EXTRACTED]
+- [[BattleData.bestStats()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_125
+#graphify/document #graphify/EXTRACTED #community/Community_1093

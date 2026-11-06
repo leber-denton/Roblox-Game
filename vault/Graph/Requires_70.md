@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/Bag.md"
+source_file: "vault/Graph/Requires_17.md"
 type: "document"
-community: "Community 281"
-location: "L4"
+community: "Community 246"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_281
+  - community/Community_246
 ---
 
 # Requires
 
 ## Connections
-- [[Bag]] - `contains` [EXTRACTED]
+- [[Connections_3437]] - `contains` [EXTRACTED]
+- [[Requires_17_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_281
+#graphify/document #graphify/EXTRACTED #community/Community_246

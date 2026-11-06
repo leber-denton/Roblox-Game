@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/clearBody().md"
+source_file: "vault/Graph/Connections_502.md"
 type: "document"
-community: "Community 202"
-location: "L14"
+community: "Community 1184"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_202
+  - community/Community_1184
 ---
 
 # Connections
 
 ## Connections
-- [[clearBody()_2]] - `contains` [EXTRACTED]
+- [[Connections_587]] - `contains` [EXTRACTED]
+- [[Connections_502_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_202
+#graphify/document #graphify/EXTRACTED #community/Community_1184

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Syncing to Studio.md"
+source_file: "vault/Graph/LockedLanes.client.luau_2.md"
 type: "document"
-community: "Community 115"
+community: "Community 105"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_115
+  - community/Community_105
 ---
 
 # Connections
 
 ## Connections
-- [[Syncing to Studio_1]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_115
+#graphify/document #graphify/EXTRACTED #community/Community_105

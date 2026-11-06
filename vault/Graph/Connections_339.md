@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/TrainerAnimationsstopAll().md"
+source_file: "vault/Graph/Connections_186.md"
 type: "document"
-community: "Community 143"
-location: "L14"
+community: "Community 1142"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_143
+  - community/Community_1142
 ---
 
 # Connections
 
 ## Connections
-- [[TrainerAnimationsstopAll()_2]] - `contains` [EXTRACTED]
+- [[Connections_340]] - `contains` [EXTRACTED]
+- [[Connections_186_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_143
+#graphify/document #graphify/EXTRACTED #community/Community_1142

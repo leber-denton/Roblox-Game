@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/LeaderboardService.onJoin().md"
+source_file: "vault/Graph/Connections_674.md"
 type: "document"
-community: "Community 233"
-location: "L14"
+community: "Community 12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_233
+  - community/Community_12
 ---
 
-# Connections
+# Connections_674.md
 
 ## Connections
-- [[LeaderboardService.onJoin()_2]] - `contains` [EXTRACTED]
+- [[Connections_931]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_233
+#graphify/document #graphify/EXTRACTED #community/Community_12

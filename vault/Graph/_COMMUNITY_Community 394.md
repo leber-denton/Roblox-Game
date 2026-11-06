@@ -1,15 +1,18 @@
 ---
 type: community
-members: 2
+members: 5
 ---
 
 # Community 394
 
-**Members:** 2 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_921]] - document - vault/Graph/tabs.Shop().md
-- [[tabs.Shop()_1]] - document - vault/Graph/tabs.Shop().md
+- [[Community 279]] - document - vault/Graph/_COMMUNITY_Community 279.md
+- [[Connections to other communities_312]] - document - vault/Graph/_COMMUNITY_Community 279.md
+- [[Live Query (requires Dataview plugin)_344]] - document - vault/Graph/_COMMUNITY_Community 279.md
+- [[Members_349]] - document - vault/Graph/_COMMUNITY_Community 279.md
+- [[Top bridge nodes_317]] - document - vault/Graph/_COMMUNITY_Community 279.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 93]]
+- 1 edge to [[_COMMUNITY_Community 149]]
 
 ## Top bridge nodes
-- [[tabs.Shop()_1]] - degree 2, connects to 1 community
+- [[Community 279]] - degree 5, connects to 1 community

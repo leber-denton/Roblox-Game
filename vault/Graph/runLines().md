@@ -12,8 +12,8 @@ tags:
 # runLines()
 
 ## Connections
-- [[Story.client.luau_2]] - `contains` [EXTRACTED]
-- [[new()_2]] - `calls` [EXTRACTED]
+- [[Story.client.luau_3]] - `contains` [EXTRACTED]
+- [[new()]] - `calls` [EXTRACTED]
 - [[playScene()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_19

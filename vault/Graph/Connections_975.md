@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.stageMult().md"
+source_file: "vault/Graph/Connections_951.md"
 type: "document"
-community: "Community 42"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[BattleData.stageMult()_2]] - `contains` [EXTRACTED]
+- [[Connections_951_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_12

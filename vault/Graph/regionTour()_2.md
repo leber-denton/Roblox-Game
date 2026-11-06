@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/regionTour().md"
+source_file: "vault/Graph/regionTour()_2.md"
 type: "document"
-community: "Community 234"
-location: "L12"
+community: "Community 122"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_122
 ---
 
-# regionTour()
+# regionTour()_2.md
 
 ## Connections
-- [[Connections_681]] - `contains` [EXTRACTED]
-- [[regionTour()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 234]] - `references` [EXTRACTED]
+- [[regionTour()_1]] - `references` [EXTRACTED]
+- [[regionTour()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_122

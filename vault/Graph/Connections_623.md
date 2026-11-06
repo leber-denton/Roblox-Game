@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/updateTopBar().md"
+source_file: "vault/Graph/vaultIndex.md"
 type: "document"
-community: "Community 212"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_212
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[updateTopBar()_2]] - `contains` [EXTRACTED]
+- [[vaultIndex_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_212
+#graphify/document #graphify/EXTRACTED #community/Community_119

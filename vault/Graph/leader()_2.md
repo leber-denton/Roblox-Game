@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/leader().md"
 type: "document"
-community: "Community 278"
+community: "Community 120"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_278
+  - community/Community_120
 ---
 
 # leader()
 
 ## Connections
-- [[Connections_748]] - `contains` [EXTRACTED]
+- [[Connections_1071]] - `contains` [EXTRACTED]
 - [[leader()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_278
+#graphify/document #graphify/EXTRACTED #community/Community_120

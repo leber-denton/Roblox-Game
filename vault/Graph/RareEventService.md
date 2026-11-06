@@ -12,9 +12,9 @@ tags:
 # RareEventService
 
 ## Connections
-- [[CodeRareEventService]] - `contains` [EXTRACTED]
-- [[Functions_54]] - `contains` [EXTRACTED]
-- [[Required by_59]] - `contains` [EXTRACTED]
-- [[Requires_58]] - `contains` [EXTRACTED]
+- [[CodeRareEventService_2]] - `contains` [EXTRACTED]
+- [[Functions_59]] - `contains` [EXTRACTED]
+- [[Required by_51]] - `contains` [EXTRACTED]
+- [[Requires_59]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_2

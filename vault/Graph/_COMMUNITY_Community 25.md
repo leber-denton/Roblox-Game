@@ -1,17 +1,21 @@
 ---
 type: community
-members: 4
+members: 8
 ---
 
 # Community 25
 
-**Members:** 4 nodes
+**Members:** 8 nodes
 
 ## Members
 - [[BattleData]] - document - vault/Code/BattleData.md
-- [[Functions_68]] - document - vault/Code/BattleData.md
-- [[Required by_69]] - document - vault/Code/BattleData.md
-- [[Requires_67]] - document - vault/Code/BattleData.md
+- [[Functions_82]] - document - vault/Code/BattleData.md
+- [[Functions_83]] - document - vault/Code/Menus.md
+- [[Menus]] - document - vault/Code/Menus.md
+- [[Required by_68]] - document - vault/Code/BattleData.md
+- [[Required by_69]] - document - vault/Code/Menus.md
+- [[Requires_72]] - document - vault/Code/BattleData.md
+- [[Requires_73]] - document - vault/Code/Menus.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,7 +25,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 13]]
+- 2 edges to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
 - [[BattleData]] - degree 4, connects to 1 community
+- [[Menus]] - degree 4, connects to 1 community

@@ -12,7 +12,7 @@ tags:
 # ModelSync.restore()
 
 ## Connections
-- [[ModelSync.luau_2]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
 - [[backups()]] - `calls` [EXTRACTED]
 - [[resolvePath()]] - `calls` [EXTRACTED]
 - [[safeRoots()]] - `calls` [EXTRACTED]

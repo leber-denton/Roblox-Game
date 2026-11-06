@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Tutorial.md"
+source_file: "vault/Graph/BaseManager.newRecord()_1.md"
 type: "document"
-community: "Community 238"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_238
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[Tutorial_1]] - `contains` [EXTRACTED]
+- [[BaseManager.newRecord()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_238
+#graphify/document #graphify/EXTRACTED #community/Community_12

@@ -12,6 +12,8 @@ tags:
 # isContent().md
 
 ## Connections
+- [[LockedLanes.client.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 185]] - `references` [EXTRACTED]
 - [[isContent()_2]] - `contains` [EXTRACTED]
 - [[lockPart()_1]] - `references` [EXTRACTED]
 

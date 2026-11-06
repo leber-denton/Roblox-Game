@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/firstPropCopy().md"
+source_file: "vault/Graph/Connections_657.md"
 type: "document"
-community: "Community 228"
-location: "L14"
+community: "Community 12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_228
+  - community/Community_12
 ---
 
-# Connections
+# Connections_657.md
 
 ## Connections
-- [[firstPropCopy()_2]] - `contains` [EXTRACTED]
+- [[Connections_898]] - `contains` [EXTRACTED]
+- [[Connections_656]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_228
+#graphify/document #graphify/EXTRACTED #community/Community_12

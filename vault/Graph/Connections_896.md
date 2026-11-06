@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/trainerTag().md"
+source_file: "vault/Graph/Connections_656.md"
 type: "document"
-community: "Community 369"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_369
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[trainerTag()_2]] - `contains` [EXTRACTED]
+- [[Connections_897]] - `contains` [EXTRACTED]
+- [[Connections_656]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_369
+#graphify/document #graphify/EXTRACTED #community/Community_12

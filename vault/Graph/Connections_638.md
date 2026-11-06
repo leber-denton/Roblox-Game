@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/write_vault.py.md"
+source_file: "vault/Graph/Connections_550.md"
 type: "document"
-community: "Community 219"
-location: "L14"
+community: "Community 1197"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_219
+  - community/Community_1197
 ---
 
 # Connections
 
 ## Connections
-- [[write_vault.py_1]] - `contains` [EXTRACTED]
+- [[Connections_639]] - `contains` [EXTRACTED]
+- [[Connections_550_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_219
+#graphify/document #graphify/EXTRACTED #community/Community_1197

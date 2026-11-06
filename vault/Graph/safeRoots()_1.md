@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/safeRoots().md"
 type: "document"
-community: "Community 194"
+community: "Community 112"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_194
+  - community/Community_112
 ---
 
 # safeRoots().md
@@ -16,4 +16,4 @@ tags:
 - [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
 - [[safeRoots()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_194
+#graphify/document #graphify/EXTRACTED #community/Community_112

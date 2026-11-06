@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[ColiseumService.init()]] - `calls` [EXTRACTED]
-- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
-- [[Functions_93]] - `references` [INFERRED]
+- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
+- [[Functions_130]] - `references` [INFERRED]
 - [[centerOf()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_4

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/unlockAll().md"
+source_file: "vault/Graph/Requires_9.md"
 type: "document"
-community: "Community 92"
+community: "Community 1212"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_92
+  - community/Community_1212
 ---
 
 # Connections
 
 ## Connections
-- [[unlockAll()_2]] - `contains` [EXTRACTED]
+- [[Requires_9_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_92
+#graphify/document #graphify/EXTRACTED #community/Community_1212

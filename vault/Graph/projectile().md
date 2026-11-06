@@ -1,20 +1,20 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/BattleFX.luau"
 type: "code"
-community: "Community 7"
+community: "Community 235"
 location: "L221"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_7
+  - community/Community_235
 ---
 
 # projectile()
 
 ## Connections
 - [[BattleFX.attack()]] - `calls` [EXTRACTED]
-- [[BattleFX.luau_2]] - `contains` [EXTRACTED]
+- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
 - [[effectPart()]] - `calls` [EXTRACTED]
-- [[play()_2]] - `calls` [EXTRACTED]
+- [[play()_1]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_7
+#graphify/code #graphify/EXTRACTED #community/Community_235

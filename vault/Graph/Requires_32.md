@@ -12,9 +12,11 @@ tags:
 # Requires_32.md
 
 ## Connections
-- [[EventHUD_1]] - `references` [EXTRACTED]
-- [[Requires_32_1]] - `contains` [EXTRACTED]
+- [[EventHUD_1_1]] - `references` [EXTRACTED]
+- [[Requires_32_3]] - `contains` [EXTRACTED]
+- [[Requires_32_1]] - `references` [EXTRACTED]
 - [[Requires_8]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 126]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 53]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_126

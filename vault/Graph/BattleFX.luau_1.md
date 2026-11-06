@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/BattleFX.luau.md"
+source_file: "vault/Graph/BattleFX.luau_1.md"
 type: "document"
 community: "Community 227"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_227
 ---
 
-# BattleFX.luau.md
+# BattleFX.luau_1.md
 
 ## Connections
 - [[BattleFX.luau]] - `contains` [EXTRACTED]
-- [[Connections_654]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 227]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
+- [[game_getservice_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_227

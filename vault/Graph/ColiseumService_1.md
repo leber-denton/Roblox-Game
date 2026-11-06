@@ -12,8 +12,10 @@ tags:
 # ColiseumService_1.md
 
 ## Connections
-- [[ColiseumService_1_1]] - `contains` [EXTRACTED]
+- [[ColiseumService_1_3]] - `contains` [EXTRACTED]
+- [[ColiseumService_1_1]] - `references` [EXTRACTED]
 - [[GraphColiseumService]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 305]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_305

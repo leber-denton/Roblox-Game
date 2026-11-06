@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.bird().md"
+source_file: "vault/Graph/Connections_652.md"
 type: "document"
-community: "Community 362"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_362
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.bird()_2]] - `contains` [EXTRACTED]
+- [[Connections_888]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_362
+#graphify/document #graphify/EXTRACTED #community/Community_12

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.assign().md"
+source_file: "vault/Graph/BaseManager.assign()_1.md"
 type: "document"
-community: "Community 42"
+community: "Community 1075"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_1075
 ---
 
 # BaseManager.assign()
 
 ## Connections
 - [[BaseManager.assign()_1]] - `contains` [EXTRACTED]
-- [[Connections_948]] - `contains` [EXTRACTED]
+- [[Connections_180]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_1075

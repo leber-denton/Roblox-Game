@@ -1,26 +1,18 @@
 ---
-source_file: "vault/Code/WildSpawner.md"
+source_file: "vault/Graph/CodeWildSpawner.md"
 type: "document"
-community: "Community 13"
+community: "Community 1046"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_1046
 ---
 
-# Code/WildSpawner.md
+# CodeWildSpawner.md
 
 ## Connections
-- [[CodeAdminService]] - `references` [EXTRACTED]
-- [[CodeBattleService]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[CodeCreatureBuilder]] - `references` [EXTRACTED]
-- [[CodeGameData]] - `references` [EXTRACTED]
-- [[CodeMain]] - `references` [EXTRACTED]
-- [[CodeRareEventService]] - `references` [EXTRACTED]
-- [[CodeTutorialService]] - `references` [EXTRACTED]
-- [[CodeWander]] - `references` [EXTRACTED]
-- [[WildSpawner_2]] - `contains` [EXTRACTED]
+- [[CodeWildSpawner_1]] - `contains` [EXTRACTED]
+- [[Connections_112_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_1046

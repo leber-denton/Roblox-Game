@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ShowcaseBuilder_1.md"
+source_file: "vault/Graph/commands.addStar()_2.md"
 type: "document"
-community: "Community 248"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_248
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[ShowcaseBuilder_1_1]] - `contains` [EXTRACTED]
+- [[commands.addStar()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_248
+#graphify/document #graphify/EXTRACTED #community/Community_12

@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Code/BattleFX.md"
+source_file: "vault/Graph/CodeBattleFX.md"
 type: "document"
-community: "Community 74"
-location: "L1"
+community: "Community 1391"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_74
+  - community/Community_1391
 ---
 
-# Code/BattleFX.md
+# CodeBattleFX.md
 
 ## Connections
-- [[BattleFX_3]] - `contains` [EXTRACTED]
-- [[CodeBattleUI]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
+- [[CodeBattleFX_1]] - `contains` [EXTRACTED]
+- [[Connections_1718]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_74
+#graphify/document #graphify/EXTRACTED #community/Community_1391

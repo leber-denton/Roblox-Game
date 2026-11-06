@@ -12,7 +12,7 @@ tags:
 # resolveNpcPath()
 
 ## Connections
-- [[Connections_107]] - `contains` [EXTRACTED]
+- [[Connections_278]] - `contains` [EXTRACTED]
 - [[resolveNpcPath()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_112

@@ -12,8 +12,8 @@ tags:
 # tryPutAway()
 
 ## Connections
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
-- [[Functions_77]] - `references` [INFERRED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[Functions_103]] - `references` [INFERRED]
 - [[call()]] - `calls` [EXTRACTED]
 - [[stopBuild()]] - `calls` [EXTRACTED]
 - [[toast()]] - `calls` [EXTRACTED]

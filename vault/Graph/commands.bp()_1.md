@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/commands.bp().md"
+source_file: "vault/Graph/commands.bp()_1.md"
 type: "document"
-community: "Community 224"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_224
+  - community/Community_168
 ---
 
-# commands.bp().md
+# commands.bp()_1.md
 
 ## Connections
-- [[AdminService.luau]] - `references` [EXTRACTED]
-- [[PlayerData.get()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
-- [[commands.bp()_2]] - `contains` [EXTRACTED]
+- [[commands.bp()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_224
+#graphify/document #graphify/EXTRACTED #community/Community_168

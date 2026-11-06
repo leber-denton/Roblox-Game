@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/replicatedstorage_waitforchild.md"
 type: "document"
-community: "Community 178"
+community: "Community 177"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_178
+  - community/Community_177
 ---
 
-# replicatedstorage_waitforchild.md
+# replicatedstorage_waitforchild
 
 ## Connections
-- [[Connections_520]] - `contains` [EXTRACTED]
+- [[Connections_2589]] - `contains` [EXTRACTED]
 - [[replicatedstorage_waitforchild]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_178
+#graphify/document #graphify/EXTRACTED #community/Community_177

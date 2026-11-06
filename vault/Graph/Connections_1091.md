@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/gen_trade_beach.py.md"
+source_file: "vault/Graph/typeText().md"
 type: "document"
-community: "Community 89"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_89
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[gen_trade_beach.py_2]] - `contains` [EXTRACTED]
+- [[typeText()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_89
+#graphify/document #graphify/EXTRACTED #community/Community_120

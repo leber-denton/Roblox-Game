@@ -1,20 +1,33 @@
 ---
-source_file: "vault/Graph/HUD.client.luau.md"
-type: "document"
-community: "Community 26"
+source_file: "src/StarterPlayer/StarterPlayerScripts/HUD.client.luau"
+type: "code"
+community: "Community 214"
 location: "L1"
 tags:
-  - graphify/document
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Community_26
+  - community/Community_214
 ---
 
-# HUD.client.luau.md
+# HUD.client.luau
 
 ## Connections
-- [[HUD.client.luau_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[replicatedstorage_waitforchild]] - `references` [EXTRACTED]
-- [[script_parent_waitforchild]] - `references` [EXTRACTED]
+- [[fadeAndDestroy()]] - `contains` [EXTRACTED]
+- [[floatText()]] - `contains` [EXTRACTED]
+- [[go()]] - `contains` [EXTRACTED]
+- [[header()]] - `contains` [EXTRACTED]
+- [[onNotify()]] - `contains` [EXTRACTED]
+- [[pill()]] - `contains` [EXTRACTED]
+- [[refresh()_1]] - `contains` [EXTRACTED]
+- [[replicatedstorage_waitforchild_4]] - `imports` [EXTRACTED]
+- [[row()_1]] - `contains` [EXTRACTED]
+- [[script_parent_waitforchild_5]] - `imports` [EXTRACTED]
+- [[showAnnouncement()]] - `contains` [EXTRACTED]
+- [[topButton()]] - `contains` [EXTRACTED]
+- [[updateCoins()]] - `contains` [EXTRACTED]
+- [[updateLevel()]] - `contains` [EXTRACTED]
+- [[updateTeam()]] - `contains` [EXTRACTED]
+- [[updateTopBar()]] - `contains` [EXTRACTED]
+- [[updateWildShiftTimer()]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_26
+#graphify/code #graphify/EXTRACTED #community/Community_214

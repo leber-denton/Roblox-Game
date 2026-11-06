@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Code/Bag.md"
 type: "document"
-community: "Community 281"
+community: "Community 20"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_281
+  - community/Community_20
 ---
 
 # Code/Bag.md
 
 ## Connections
 - [[Bag]] - `contains` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
+- [[CodeCode Map_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_281
+#graphify/document #graphify/EXTRACTED #community/Community_20

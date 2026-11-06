@@ -12,8 +12,8 @@ tags:
 # tryPick()
 
 ## Connections
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
-- [[Functions_77]] - `references` [INFERRED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[Functions_103]] - `references` [INFERRED]
 - [[aimRay()]] - `calls` [EXTRACTED]
 - [[startPlacing()]] - `calls` [EXTRACTED]
 

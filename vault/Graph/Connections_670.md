@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/GameData.BaseTraining.levelCap().md"
+source_file: "vault/Graph/Connections_670.md"
 type: "document"
-community: "Community 231"
-location: "L14"
+community: "Community 12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_231
+  - community/Community_12
 ---
 
-# Connections
+# Connections_670.md
 
 ## Connections
-- [[GameData.BaseTraining.levelCap()_2]] - `contains` [EXTRACTED]
+- [[Connections_924]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
+- [[finite()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_231
+#graphify/document #graphify/EXTRACTED #community/Community_12

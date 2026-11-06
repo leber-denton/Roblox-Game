@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.towerTop().md"
+source_file: "vault/Graph/Connections_606.md"
 type: "document"
-community: "Community 311"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_311
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[commands.towerTop()_2]] - `contains` [EXTRACTED]
+- [[Connections_796]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_311
+#graphify/document #graphify/EXTRACTED #community/Community_12

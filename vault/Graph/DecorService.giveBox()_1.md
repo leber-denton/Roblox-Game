@@ -1,23 +1,19 @@
 ---
-source_file: "vault/Graph/DecorService.giveBox().md"
+source_file: "vault/Graph/DecorService.giveBox()_1.md"
 type: "document"
-community: "Community 175"
+community: "Community 152"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_175
+  - community/Community_152
 ---
 
-# DecorService.giveBox().md
+# DecorService.giveBox()_1.md
 
 ## Connections
-- [[DecorService.giveBox()_2]] - `contains` [EXTRACTED]
-- [[DecorService.init()_1]] - `references` [EXTRACTED]
-- [[DecorService.luau_1]] - `references` [EXTRACTED]
-- [[SaveService.requestSave()_1]] - `references` [EXTRACTED]
-- [[TutorialService.finishGuide()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[sync()_3]] - `references` [EXTRACTED]
+- [[DecorService.giveBox()_3]] - `contains` [EXTRACTED]
+- [[DecorService.giveBox()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_175
+#graphify/document #graphify/EXTRACTED #community/Community_152

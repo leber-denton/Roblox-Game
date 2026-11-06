@@ -12,7 +12,8 @@ tags:
 # run()
 
 ## Connections
-- [[AdminPanel.client.luau]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau_3]] - `contains` [EXTRACTED]
+- [[Flow]] - `references` [INFERRED]
 - [[load()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

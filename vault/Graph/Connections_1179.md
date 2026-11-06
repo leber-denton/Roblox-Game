@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/actions.remove().md"
+source_file: "vault/Graph/regionTour()_2.md"
 type: "document"
-community: "Community 98"
+community: "Community 122"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_122
 ---
 
 # Connections
 
 ## Connections
-- [[actions.remove()_2]] - `contains` [EXTRACTED]
+- [[regionTour()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_98
+#graphify/document #graphify/EXTRACTED #community/Community_122

@@ -12,9 +12,9 @@ tags:
 # AdminService
 
 ## Connections
-- [[CodeAdminService]] - `contains` [EXTRACTED]
-- [[Functions_48]] - `contains` [EXTRACTED]
-- [[Required by_53]] - `contains` [EXTRACTED]
-- [[Requires_53]] - `contains` [EXTRACTED]
+- [[CodeAdminService_2]] - `contains` [EXTRACTED]
+- [[Functions_45]] - `contains` [EXTRACTED]
+- [[Required by_43]] - `contains` [EXTRACTED]
+- [[Requires_49]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_17

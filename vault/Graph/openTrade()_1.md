@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/openTrade().md"
+source_file: "vault/Graph/openTrade()_1.md"
 type: "document"
-community: "Community 9"
+community: "Community 1165"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_1165
 ---
 
-# openTrade().md
+# openTrade()_1.md
 
 ## Connections
-- [[SocialService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[onRespond()_1]] - `references` [EXTRACTED]
+- [[Connections_442]] - `references` [EXTRACTED]
 - [[openTrade()_2]] - `contains` [EXTRACTED]
-- [[push()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_1165

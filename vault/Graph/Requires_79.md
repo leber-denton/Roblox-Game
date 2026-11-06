@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/FirstSpawnLock.md"
+source_file: "vault/Code/CreatureBuilder.md"
 type: "document"
-community: "Community 35"
+community: "Community 294"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_35
+  - community/Community_294
 ---
 
 # Requires
 
 ## Connections
-- [[FirstSpawnLock]] - `contains` [EXTRACTED]
+- [[CreatureBuilder]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_35
+#graphify/document #graphify/EXTRACTED #community/Community_294

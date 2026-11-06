@@ -1,16 +1,22 @@
 ---
 type: community
-members: 3
+members: 9
 ---
 
 # Community 313
 
-**Members:** 3 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_799]] - document - vault/Graph/Current Priorities.md
-- [[GraphCurrent Priorities]] - document - vault/Graph/Current Priorities.md
-- [[GraphCurrent Priorities_1]] - document - vault/Graph/Current Priorities.md
+- [[Community 278]] - document - vault/Graph/_COMMUNITY_Community 278.md
+- [[Community 7_2]] - document - vault/Graph/Community 7.md
+- [[Community 7_1]] - document - vault/Graph/Community 7.md
+- [[Connections_3761]] - document - vault/Graph/Community 7.md
+- [[Connections to other communities_243]] - document - vault/Graph/_COMMUNITY_Community 278.md
+- [[Live Query (requires Dataview plugin)_276]] - document - vault/Graph/_COMMUNITY_Community 278.md
+- [[Members_280]] - document - vault/Graph/_COMMUNITY_Community 278.md
+- [[Top bridge nodes_249]] - document - vault/Graph/_COMMUNITY_Community 278.md
+- [[_COMMUNITY_Community 278]] - document - vault/Graph/_COMMUNITY_Community 278.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,8 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 304]]
-- 1 edge to [[_COMMUNITY_Community 88]]
+- 1 edge to [[_COMMUNITY_Community 120]]
+- 1 edge to [[_COMMUNITY_Community 27]]
+- 1 edge to [[_COMMUNITY_Community 467]]
 
 ## Top bridge nodes
-- [[GraphCurrent Priorities]] - degree 3, connects to 2 communities
+- [[_COMMUNITY_Community 278]] - degree 4, connects to 2 communities
+- [[Community 7_1]] - degree 3, connects to 1 community

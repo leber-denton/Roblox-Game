@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Graph/sortedBases().md"
+source_file: "vault/Graph/sortedBases()_1.md"
 type: "document"
-community: "Community 42"
+community: "Community 12"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_12
 ---
 
-# sortedBases().md
+# sortedBases()_1.md
 
 ## Connections
-- [[BaseManager.assign()_1]] - `references` [EXTRACTED]
 - [[BaseManager.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[sortedBases()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[sortedBases()_1_1]] - `contains` [EXTRACTED]
+- [[sortedBases()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_12

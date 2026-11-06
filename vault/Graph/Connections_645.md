@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/WildSpawner.getHotZone().md"
+source_file: "vault/Graph/Connections_645.md"
 type: "document"
-community: "Community 223"
-location: "L14"
+community: "Community 12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_223
+  - community/Community_12
 ---
 
-# Connections
+# Connections_645.md
 
 ## Connections
-- [[WildSpawner.getHotZone()_2]] - `contains` [EXTRACTED]
+- [[Connections_874]] - `contains` [EXTRACTED]
+- [[Connections_644_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_223
+#graphify/document #graphify/EXTRACTED #community/Community_12

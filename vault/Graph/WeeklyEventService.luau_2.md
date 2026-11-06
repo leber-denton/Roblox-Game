@@ -1,26 +1,26 @@
 ---
-source_file: "src/ServerScriptService/Modules/WeeklyEventService.luau"
-type: "code"
-community: "Community 2"
+source_file: "vault/Graph/WeeklyEventService.luau_2.md"
+type: "document"
+community: "Community 144"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Community_144
 ---
 
-# WeeklyEventService.luau
+# WeeklyEventService.luau_2.md
 
 ## Connections
-- [[GameData.luau_2]] - `imports` [EXTRACTED]
-- [[Main.server.luau_2]] - `imports` [EXTRACTED]
-- [[WeeklyEventService.init()]] - `contains` [EXTRACTED]
-- [[WeeklyEventService.startNow()]] - `contains` [EXTRACTED]
-- [[daysFromCivil()]] - `contains` [EXTRACTED]
-- [[nthSunday()]] - `contains` [EXTRACTED]
-- [[pacificDST()]] - `contains` [EXTRACTED]
-- [[schedule()]] - `contains` [EXTRACTED]
-- [[script_parent_rareeventservice_2]] - `imports` [EXTRACTED]
-- [[setBoosts()]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.init()_1]] - `references` [EXTRACTED]
+- [[WeeklyEventService.luau_3]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.luau_1]] - `references` [EXTRACTED]
+- [[WeeklyEventService.startNow()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
+- [[daysFromCivil()_1]] - `references` [EXTRACTED]
+- [[nthSunday()_1]] - `references` [EXTRACTED]
+- [[pacificDST()_1]] - `references` [EXTRACTED]
+- [[schedule()_1]] - `references` [EXTRACTED]
+- [[setBoosts()_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_2
+#graphify/document #graphify/EXTRACTED #community/Community_144

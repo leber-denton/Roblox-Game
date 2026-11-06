@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/setBoosts().md"
+source_file: "vault/Graph/Connections_494.md"
 type: "document"
-community: "Community 216"
-location: "L14"
+community: "Community 1194"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_216
+  - community/Community_1194
 ---
 
 # Connections
 
 ## Connections
-- [[setBoosts()_2]] - `contains` [EXTRACTED]
+- [[Connections_633]] - `contains` [EXTRACTED]
+- [[Connections_494_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_216
+#graphify/document #graphify/EXTRACTED #community/Community_1194

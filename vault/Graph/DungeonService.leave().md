@@ -12,7 +12,7 @@ tags:
 # DungeonService.leave()
 
 ## Connections
-- [[DungeonService.luau]] - `contains` [EXTRACTED]
+- [[DungeonService.luau_3]] - `contains` [EXTRACTED]
 - [[hipHeight()]] - `calls` [EXTRACTED]
 - [[streamTo()]] - `calls` [EXTRACTED]
 

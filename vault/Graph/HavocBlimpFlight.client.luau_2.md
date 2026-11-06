@@ -1,14 +1,19 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/HavocBlimpFlight.client.luau"
-type: "code"
-community: "Community 85"
+source_file: "vault/Graph/HavocBlimpFlight.client.luau_2.md"
+type: "document"
+community: "Community 245"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_85
+  - community/Community_245
 ---
 
-# HavocBlimpFlight.client.luau
+# HavocBlimpFlight.client.luau_2.md
 
-#graphify/code #graphify/EXTRACTED #community/Community_85
+## Connections
+- [[HavocBlimpFlight.client.luau_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 245]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 85]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_245

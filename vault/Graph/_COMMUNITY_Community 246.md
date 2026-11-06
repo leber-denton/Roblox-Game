@@ -1,22 +1,28 @@
 ---
 type: community
-members: 9
+members: 15
 ---
 
 # Community 246
 
-**Members:** 9 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_725]] - document - vault/Graph/decode().md
-- [[Connections_726]] - document - vault/Graph/inventory().md
-- [[Connections_727]] - document - vault/Graph/updateJourney().md
-- [[decode()_2]] - document - vault/Graph/decode().md
-- [[decode()_1]] - document - vault/Graph/decode().md
-- [[inventory()_4]] - document - vault/Graph/inventory().md
-- [[inventory()_3]] - document - vault/Graph/inventory().md
-- [[updateJourney()_2]] - document - vault/Graph/updateJourney().md
-- [[updateJourney()_1]] - document - vault/Graph/updateJourney().md
+- [[Connections_3437]] - document - vault/Graph/Requires_17.md
+- [[Connections_3438]] - document - vault/Graph/Requires_46.md
+- [[Connections_3439]] - document - vault/Graph/Requires_49_1.md
+- [[Connections_3440]] - document - vault/Graph/Requires_49.md
+- [[Connections_3441]] - document - vault/Graph/Requires_50.md
+- [[Requires_70]] - document - vault/Graph/Requires_17.md
+- [[Requires_17_1]] - document - vault/Graph/Requires_17.md
+- [[Requires_46_1]] - document - vault/Graph/Requires_46.md
+- [[Requires_46_2]] - document - vault/Graph/Requires_46.md
+- [[Requires_49_1]] - document - vault/Graph/Requires_49.md
+- [[Requires_49_2]] - document - vault/Graph/Requires_49_1.md
+- [[Requires_49_3]] - document - vault/Graph/Requires_49.md
+- [[Requires_49_1_1]] - document - vault/Graph/Requires_49_1.md
+- [[Requires_50_1]] - document - vault/Graph/Requires_50.md
+- [[Requires_50_2]] - document - vault/Graph/Requires_50.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,11 +32,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 203]]
-- 2 edges to [[_COMMUNITY_Community 234]]
-- 1 edge to [[_COMMUNITY_Community 201]]
+- 5 edges to [[_COMMUNITY_Community 397]]
+- 1 edge to [[_COMMUNITY_Community 160]]
+- 1 edge to [[_COMMUNITY_Community 453]]
 
 ## Top bridge nodes
-- [[inventory()_3]] - degree 5, connects to 2 communities
-- [[decode()_1]] - degree 4, connects to 1 community
-- [[updateJourney()_1]] - degree 3, connects to 1 community
+- [[Requires_49_1]] - degree 6, connects to 3 communities
+- [[Requires_46_1]] - degree 4, connects to 1 community
+- [[Requires_50_1]] - degree 4, connects to 1 community
+- [[Requires_49_1_1]] - degree 3, connects to 1 community
+- [[Requires_17_1]] - degree 3, connects to 1 community

@@ -1,24 +1,24 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/BattleFX.luau"
 type: "code"
-community: "Community 7"
+community: "Community 235"
 location: "L292"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_7
+  - community/Community_235
 ---
 
 # BattleFX.attack()
 
 ## Connections
-- [[BattleFX.luau_2]] - `contains` [EXTRACTED]
+- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
 - [[charge()]] - `calls` [EXTRACTED]
 - [[effectPart()]] - `calls` [EXTRACTED]
 - [[groundRing()]] - `calls` [EXTRACTED]
 - [[groundY()]] - `calls` [EXTRACTED]
 - [[lightning()]] - `calls` [EXTRACTED]
-- [[play()_2]] - `calls` [EXTRACTED]
+- [[play()_1]] - `calls` [EXTRACTED]
 - [[playTurn()]] - `calls` [INFERRED]
 - [[projectile()]] - `calls` [EXTRACTED]
 - [[rearBack()]] - `calls` [EXTRACTED]
@@ -26,4 +26,4 @@ tags:
 - [[shakeCamera()]] - `calls` [EXTRACTED]
 - [[sparkle()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_7
+#graphify/code #graphify/EXTRACTED #community/Community_235

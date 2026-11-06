@@ -9,10 +9,10 @@ members: 5
 
 ## Members
 - [[CodeCreatureLife]] - document - vault/Code/CreatureLife.md
-- [[CreatureLife_2]] - document - vault/Code/CreatureLife.md
-- [[Functions_70]] - document - vault/Code/CreatureLife.md
+- [[CreatureLife]] - document - vault/Code/CreatureLife.md
+- [[Functions_89]] - document - vault/Code/CreatureLife.md
 - [[Required by_71]] - document - vault/Code/CreatureLife.md
-- [[Requires_69]] - document - vault/Code/CreatureLife.md
+- [[Requires_75]] - document - vault/Code/CreatureLife.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -9,10 +9,10 @@ members: 5
 
 ## Members
 - [[Community 52]] - document - vault/Graph/_COMMUNITY_Community 52.md
-- [[Connections to other communities_56]] - document - vault/Graph/_COMMUNITY_Community 52.md
-- [[Live Query (requires Dataview plugin)_72]] - document - vault/Graph/_COMMUNITY_Community 52.md
-- [[Members_72]] - document - vault/Graph/_COMMUNITY_Community 52.md
-- [[Top bridge nodes_56]] - document - vault/Graph/_COMMUNITY_Community 52.md
+- [[Connections to other communities_228]] - document - vault/Graph/_COMMUNITY_Community 52.md
+- [[Live Query (requires Dataview plugin)_259]] - document - vault/Graph/_COMMUNITY_Community 52.md
+- [[Members_263]] - document - vault/Graph/_COMMUNITY_Community 52.md
+- [[Top bridge nodes_234]] - document - vault/Graph/_COMMUNITY_Community 52.md
 
 ## Live Query (requires Dataview plugin)
 

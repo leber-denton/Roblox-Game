@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/canAnyoneEnter().md"
+source_file: "vault/Graph/Connections_22.md"
 type: "document"
-community: "Community 193"
+community: "Community 1172"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_193
+  - community/Community_1172
 ---
 
 # Connections
 
 ## Connections
-- [[canAnyoneEnter()_2]] - `contains` [EXTRACTED]
+- [[Connections_552]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_193
+#graphify/document #graphify/EXTRACTED #community/Community_1172

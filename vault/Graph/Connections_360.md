@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/apply().md"
+source_file: "vault/Graph/README.md"
 type: "document"
-community: "Community 147"
+community: "Community 115"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_147
+  - community/Community_115
 ---
 
 # Connections
 
 ## Connections
-- [[apply()_4]] - `contains` [EXTRACTED]
+- [[GraphREADME_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_147
+#graphify/document #graphify/EXTRACTED #community/Community_115

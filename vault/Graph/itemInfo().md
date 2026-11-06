@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Bag.client.luau]] - `contains` [EXTRACTED]
-- [[refresh()_1]] - `calls` [EXTRACTED]
-- [[showDetail()_1]] - `calls` [EXTRACTED]
+- [[refresh()]] - `calls` [EXTRACTED]
+- [[showDetail()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_20

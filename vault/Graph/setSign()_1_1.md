@@ -12,8 +12,10 @@ tags:
 # setSign()_1.md
 
 ## Connections
+- [[Regions.client.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 215]] - `references` [EXTRACTED]
 - [[apply()_3]] - `references` [EXTRACTED]
 - [[regionName()_1]] - `references` [EXTRACTED]
-- [[setSign()_2]] - `contains` [EXTRACTED]
+- [[setSign()_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_147

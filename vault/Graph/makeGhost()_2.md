@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/makeGhost().md"
 type: "document"
-community: "Community 138"
+community: "Community 109"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_109
 ---
 
 # makeGhost()
 
 ## Connections
-- [[Connections_305]] - `contains` [EXTRACTED]
+- [[Connections_208]] - `contains` [EXTRACTED]
 - [[makeGhost()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_109

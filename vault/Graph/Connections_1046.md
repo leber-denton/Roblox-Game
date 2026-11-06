@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DecorData.toWorld().md"
+source_file: "vault/Graph/sortedBases()_2.md"
 type: "document"
-community: "Community 86"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[DecorData.toWorld()_2]] - `contains` [EXTRACTED]
+- [[sortedBases()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_12

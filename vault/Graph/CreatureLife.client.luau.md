@@ -12,7 +12,8 @@ tags:
 # CreatureLife.client.luau.md
 
 ## Connections
-- [[CreatureLife.client.luau_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 80]] - `references` [EXTRACTED]
+- [[CreatureLife.client.luau_4]] - `contains` [EXTRACTED]
+- [[CreatureLife.client.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 191]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_191

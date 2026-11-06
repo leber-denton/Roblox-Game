@@ -12,7 +12,7 @@ tags:
 # addTrainerPrompt().md
 
 ## Connections
-- [[SocialService.request()_1]] - `references` [EXTRACTED]
+- [[SocialService.request()_4]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
 - [[addTrainerPrompt()_2]] - `contains` [EXTRACTED]
 - [[prompt()_1]] - `references` [EXTRACTED]

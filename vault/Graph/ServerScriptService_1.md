@@ -12,7 +12,7 @@ tags:
 # ServerScriptService.md
 
 ## Connections
-- [[Connections_88]] - `contains` [EXTRACTED]
+- [[Connections_232]] - `contains` [EXTRACTED]
 - [[ServerScriptService]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_110

@@ -12,7 +12,7 @@ tags:
 # BattleData.luau
 
 ## Connections
-- [[AdminService.luau_2]] - `imports` [EXTRACTED]
+- [[AdminService.luau_3]] - `imports` [EXTRACTED]
 - [[BaseManager.luau]] - `imports` [EXTRACTED]
 - [[BattleData.applyStars()]] - `contains` [EXTRACTED]
 - [[BattleData.bestStats()]] - `contains` [EXTRACTED]
@@ -30,9 +30,9 @@ tags:
 - [[BattleData.stats()]] - `contains` [EXTRACTED]
 - [[BattleData.xpForLevel()]] - `contains` [EXTRACTED]
 - [[BattleService.luau]] - `imports` [EXTRACTED]
-- [[CreatureBuilder.luau_2]] - `imports` [EXTRACTED]
+- [[CreatureBuilder.luau_5]] - `imports` [EXTRACTED]
 - [[DecorService.luau]] - `imports` [EXTRACTED]
-- [[Main.server.luau_2]] - `imports` [EXTRACTED]
-- [[script_parent_gamedata_2]] - `imports` [EXTRACTED]
+- [[Main.server.luau_3]] - `imports` [EXTRACTED]
+- [[script_parent_gamedata_5]] - `imports` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_16

@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 331
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_839]] - document - vault/Graph/Functions_55.md
-- [[Functions_87]] - document - vault/Graph/Functions_55.md
-- [[Functions_55_1]] - document - vault/Graph/Functions_55.md
+- [[Community 157]] - document - vault/Graph/_COMMUNITY_Community 157.md
+- [[Connections to other communities_252]] - document - vault/Graph/_COMMUNITY_Community 157.md
+- [[Live Query (requires Dataview plugin)_286]] - document - vault/Graph/_COMMUNITY_Community 157.md
+- [[Members_290]] - document - vault/Graph/_COMMUNITY_Community 157.md
+- [[Top bridge nodes_258]] - document - vault/Graph/_COMMUNITY_Community 157.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,3 +20,9 @@ members: 3
 TABLE source_file, type FROM #community/Community_331
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Community 157]]
+
+## Top bridge nodes
+- [[Community 157]] - degree 5, connects to 1 community

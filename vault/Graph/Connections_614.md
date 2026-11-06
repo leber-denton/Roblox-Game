@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/play().md"
+source_file: "vault/Graph/CodeRareEventService.md"
 type: "document"
-community: "Community 210"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_210
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[play()_5]] - `contains` [EXTRACTED]
+- [[CodeRareEventService_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_210
+#graphify/document #graphify/EXTRACTED #community/Community_119

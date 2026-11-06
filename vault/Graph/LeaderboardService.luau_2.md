@@ -1,24 +1,26 @@
 ---
-source_file: "src/ServerScriptService/Modules/LeaderboardService.luau"
-type: "code"
-community: "Community 7"
+source_file: "vault/Graph/LeaderboardService.luau_2.md"
+type: "document"
+community: "Community 202"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_7
+  - community/Community_202
 ---
 
-# LeaderboardService.luau
+# LeaderboardService.luau_2.md
 
 ## Connections
-- [[GameData.luau_2]] - `imports` [EXTRACTED]
-- [[LeaderboardService.init()]] - `contains` [EXTRACTED]
-- [[LeaderboardService.onJoin()]] - `contains` [EXTRACTED]
-- [[LeaderboardService.refresh()]] - `contains` [EXTRACTED]
-- [[Main.server.luau_2]] - `imports` [EXTRACTED]
-- [[draw()]] - `contains` [EXTRACTED]
-- [[nameOf()]] - `contains` [EXTRACTED]
-- [[setupStats()]] - `contains` [EXTRACTED]
+- [[LeaderboardService.init()_1_1]] - `references` [EXTRACTED]
+- [[LeaderboardService.luau_3]] - `references` [EXTRACTED]
+- [[LeaderboardService.luau_2_1]] - `contains` [EXTRACTED]
+- [[LeaderboardService.onJoin()_1]] - `references` [EXTRACTED]
+- [[LeaderboardService.refresh()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 104]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
+- [[draw()_1_1]] - `references` [EXTRACTED]
+- [[nameOf()_1_1]] - `references` [EXTRACTED]
+- [[setupStats()_1_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_7
+#graphify/document #graphify/EXTRACTED #community/Community_202

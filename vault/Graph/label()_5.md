@@ -12,8 +12,10 @@ tags:
 # label().md
 
 ## Connections
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[label()_6]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_1]] - `references` [EXTRACTED]
+- [[CreatureIndex.client.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
+- [[label()_7]] - `contains` [EXTRACTED]
 - [[new()_10]] - `references` [EXTRACTED]
 - [[showDetail()_2]] - `references` [EXTRACTED]
 - [[showGrid()_1]] - `references` [EXTRACTED]

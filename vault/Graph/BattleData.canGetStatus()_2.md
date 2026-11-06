@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/BattleData.canGetStatus().md"
+source_file: "vault/Graph/BattleData.canGetStatus()_2.md"
 type: "document"
-community: "Community 42"
-location: "L12"
+community: "Community 553"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_553
 ---
 
-# BattleData.canGetStatus()
+# BattleData.canGetStatus()_2.md
 
 ## Connections
-- [[BattleData.canGetStatus()_1]] - `contains` [EXTRACTED]
-- [[Connections_966]] - `contains` [EXTRACTED]
+- [[BattleData.canGetStatus()_4]] - `contains` [EXTRACTED]
+- [[BattleData.canGetStatus()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_553

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/BattleFX.md"
+source_file: "vault/Graph/Requires_113.md"
 type: "document"
-community: "Community 74"
-location: "L4"
+community: "Community 1450"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_74
+  - community/Community_1450
 ---
 
-# Requires
+# Requires_113.md
 
 ## Connections
-- [[BattleFX_3]] - `contains` [EXTRACTED]
+- [[Connections_1849]] - `contains` [EXTRACTED]
+- [[Requires_113_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_74
+#graphify/document #graphify/EXTRACTED #community/Community_1450

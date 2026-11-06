@@ -12,6 +12,6 @@ tags:
 # Required by
 
 ## Connections
-- [[CreatureLife_2]] - `contains` [EXTRACTED]
+- [[CreatureLife]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_28

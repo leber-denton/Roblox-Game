@@ -1,15 +1,17 @@
 ---
 type: community
-members: 45
+members: 65
 ---
 
 # Community 16
 
-**Members:** 45 nodes
+**Members:** 65 nodes
 
 ## Members
+- [[BaseManager]] - document - vault/Code/BaseManager.md
 - [[BaseManager.addCreature()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.assign()]] - code - src/ServerScriptService/Modules/BaseManager.luau
+- [[BaseManager.evolve()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.getIndex()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.getTeam()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.hasRoom()]] - code - src/ServerScriptService/Modules/BaseManager.luau
@@ -20,9 +22,11 @@ members: 45
 - [[BaseManager.recalcCapacity()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.refresh()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.release()]] - code - src/ServerScriptService/Modules/BaseManager.luau
+- [[BaseManager.removeCreature()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.restore()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.serialize()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.setWings()]] - code - src/ServerScriptService/Modules/BaseManager.luau
+- [[BaseManager.spawnCFrame()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.unlockExpansion()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BattleData.applyStars()]] - code - src/ReplicatedStorage/Shared/BattleData.luau
 - [[BattleData.bestStats()]] - code - src/ReplicatedStorage/Shared/BattleData.luau
@@ -40,14 +44,30 @@ members: 45
 - [[BattleData.starsFor()]] - code - src/ReplicatedStorage/Shared/BattleData.luau
 - [[BattleData.stats()]] - code - src/ReplicatedStorage/Shared/BattleData.luau
 - [[BattleData.xpForLevel()]] - code - src/ReplicatedStorage/Shared/BattleData.luau
+- [[Functions_42]] - document - vault/Code/BaseManager.md
+- [[PlayerData.remove()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.serialize()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[ProgressService.evolveNow()]] - code - src/ServerScriptService/Modules/ProgressService.luau
+- [[Required by_33]] - document - vault/Code/BaseManager.md
+- [[Requires_42]] - document - vault/Code/BaseManager.md
+- [[SaveService.init()]] - code - src/ServerScriptService/Modules/SaveService.luau
+- [[SaveService.load()]] - code - src/ServerScriptService/Modules/SaveService.luau
+- [[SaveService.luau_1]] - code - src/ServerScriptService/Modules/SaveService.luau
+- [[SaveService.onLeave()]] - code - src/ServerScriptService/Modules/SaveService.luau
+- [[SaveService.save()]] - code - src/ServerScriptService/Modules/SaveService.luau
 - [[Wander.add()]] - code - src/ServerScriptService/Modules/Wander.luau
+- [[Wander.remove()]] - code - src/ServerScriptService/Modules/Wander.luau
+- [[claim()]] - code - src/ServerScriptService/Modules/SaveService.luau
 - [[commands.addStar()]] - code - src/ServerScriptService/Modules/AdminService.luau
 - [[commands.maxTeam()]] - code - src/ServerScriptService/Modules/AdminService.luau
+- [[commands.newPlayer()]] - code - src/ServerScriptService/Modules/AdminService.luau
 - [[commands.weakTeam()]] - code - src/ServerScriptService/Modules/AdminService.luau
 - [[finite()_1]] - code - src/ServerScriptService/Modules/BaseManager.luau
+- [[onCharacter()]] - code - src/ServerScriptService/Main.server.luau
 - [[recordIndex()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[refreshTag()]] - code - src/ServerScriptService/Modules/BaseManager.luau
-- [[script_parent_gamedata_2]] - concept
+- [[script_parent_basemanager_5]] - concept
+- [[script_parent_gamedata_5]] - concept
 - [[setExpansionOpen()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[setGateOpen()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[setSign()]] - code - src/ServerScriptService/Modules/BaseManager.luau
@@ -62,24 +82,22 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 13 edges to [[_COMMUNITY_Community 0]]
-- 10 edges to [[_COMMUNITY_Community 21]]
-- 8 edges to [[_COMMUNITY_Community 17]]
-- 7 edges to [[_COMMUNITY_Community 10]]
-- 7 edges to [[_COMMUNITY_Community 12]]
-- 6 edges to [[_COMMUNITY_Community 22]]
-- 4 edges to [[_COMMUNITY_Community 6]]
-- 3 edges to [[_COMMUNITY_Community 14]]
-- 3 edges to [[_COMMUNITY_Community 18]]
-- 2 edges to [[_COMMUNITY_Community 15]]
-- 2 edges to [[_COMMUNITY_Community 4]]
-- 1 edge to [[_COMMUNITY_Community 135]]
-- 1 edge to [[_COMMUNITY_Community 282]]
-- 1 edge to [[_COMMUNITY_Community 7]]
+- 15 edges to [[_COMMUNITY_Community 0]]
+- 10 edges to [[_COMMUNITY_Community 10]]
+- 10 edges to [[_COMMUNITY_Community 15]]
+- 10 edges to [[_COMMUNITY_Community 17]]
+- 9 edges to [[_COMMUNITY_Community 11]]
+- 7 edges to [[_COMMUNITY_Community 22]]
+- 6 edges to [[_COMMUNITY_Community 2]]
+- 6 edges to [[_COMMUNITY_Community 4]]
+- 4 edges to [[_COMMUNITY_Community 14]]
+- 4 edges to [[_COMMUNITY_Community 41]]
+- 3 edges to [[_COMMUNITY_Community 6]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[BaseManager.getTeam()]] - degree 26, connects to 10 communities
-- [[BaseManager.luau]] - degree 35, connects to 8 communities
+- [[script_parent_basemanager_5]] - degree 12, connects to 9 communities
+- [[BaseManager.getTeam()]] - degree 26, connects to 8 communities
+- [[BaseManager.luau]] - degree 35, connects to 5 communities
 - [[BattleData.luau]] - degree 22, connects to 5 communities
-- [[BattleData.stats()]] - degree 10, connects to 3 communities
-- [[BaseManager.addCreature()]] - degree 8, connects to 3 communities
+- [[SaveService.save()]] - degree 9, connects to 3 communities

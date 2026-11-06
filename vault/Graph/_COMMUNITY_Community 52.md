@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[CodeDungeonClient]] - document - vault/Code/DungeonClient.md
-- [[DungeonClient_2]] - document - vault/Code/DungeonClient.md
-- [[Functions_96]] - document - vault/Code/DungeonClient.md
-- [[Required by_93]] - document - vault/Code/DungeonClient.md
-- [[Requires_94]] - document - vault/Code/DungeonClient.md
+- [[CodeDungeonClient_2]] - document - vault/Code/DungeonClient.md
+- [[DungeonClient_3]] - document - vault/Code/DungeonClient.md
+- [[Functions_152]] - document - vault/Code/DungeonClient.md
+- [[Required by_142]] - document - vault/Code/DungeonClient.md
+- [[Requires_147]] - document - vault/Code/DungeonClient.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,4 +25,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[CodeDungeonClient]] - degree 2, connects to 1 community
+- [[CodeDungeonClient_2]] - degree 2, connects to 1 community

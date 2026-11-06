@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/darker().md"
 type: "document"
-community: "Community 133"
+community: "Community 137"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_137
 ---
 
 # darker().md
 
 ## Connections
-- [[CreatureBuilder.build()_1]] - `references` [EXTRACTED]
+- [[CreatureBuilder.build()_5]] - `references` [EXTRACTED]
 - [[Features.antennae()_1]] - `references` [EXTRACTED]
 - [[Features.leafBud()_1]] - `references` [EXTRACTED]
 - [[Features.spines()_1]] - `references` [EXTRACTED]
@@ -21,18 +21,18 @@ tags:
 - [[Shapes.blob()_1]] - `references` [EXTRACTED]
 - [[Shapes.cocoon()_1]] - `references` [EXTRACTED]
 - [[Shapes.crystal()_1]] - `references` [EXTRACTED]
-- [[Shapes.dragon()_1]] - `references` [EXTRACTED]
+- [[Shapes.dragon()_3]] - `references` [EXTRACTED]
 - [[Shapes.fighter()_1]] - `references` [EXTRACTED]
 - [[Shapes.fish()_1]] - `references` [EXTRACTED]
-- [[Shapes.fox()_1]] - `references` [EXTRACTED]
+- [[Shapes.fox()_3]] - `references` [EXTRACTED]
 - [[Shapes.ghost()_1]] - `references` [EXTRACTED]
 - [[Shapes.larva()_1]] - `references` [EXTRACTED]
 - [[Shapes.quad()_1]] - `references` [EXTRACTED]
-- [[Shapes.rock()_1]] - `references` [EXTRACTED]
-- [[Shapes.rodent()_1]] - `references` [EXTRACTED]
+- [[Shapes.rock()_5]] - `references` [EXTRACTED]
+- [[Shapes.rodent()_3]] - `references` [EXTRACTED]
 - [[Shapes.spiky()_1]] - `references` [EXTRACTED]
-- [[Shapes.turtle()_1]] - `references` [EXTRACTED]
+- [[Shapes.turtle()_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
 - [[darker()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_137

@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 361
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_888]] - document - vault/Graph/script_parent_tutorialservice.md
-- [[script_parent_tutorialservice]] - document - vault/Graph/script_parent_tutorialservice.md
-- [[script_parent_tutorialservice_1]] - document - vault/Graph/script_parent_tutorialservice.md
+- [[Connections_4078]] - document - vault/Graph/Connections_887.md
+- [[Connections_4079]] - document - vault/Graph/Connections_887.md
+- [[Connections_4080]] - document - vault/Graph/Connections_888.md
+- [[Connections_4081]] - document - vault/Graph/Connections_888.md
+- [[Connections_887_1]] - document - vault/Graph/Connections_887.md
+- [[Connections_888_1]] - document - vault/Graph/Connections_888.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,8 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 24]]
-- 1 edge to [[_COMMUNITY_Community 91]]
+- 2 edges to [[_COMMUNITY_Community 669]]
 
 ## Top bridge nodes
-- [[script_parent_tutorialservice]] - degree 3, connects to 2 communities
+- [[Connections_887_1]] - degree 3, connects to 1 community
+- [[Connections_888_1]] - degree 3, connects to 1 community

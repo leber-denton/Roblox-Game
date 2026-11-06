@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Requires_24.md"
+source_file: "vault/Graph/Requires_24_1.md"
 type: "document"
-community: "Community 102"
-location: "L12"
+community: "Community 231"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_102
+  - community/Community_231
 ---
 
-# Requires_24.md
+# Requires_24_1.md
 
 ## Connections
-- [[Connections_27]] - `contains` [EXTRACTED]
-- [[Requires_24]] - `contains` [EXTRACTED]
+- [[NpcGuard_1_1]] - `references` [EXTRACTED]
+- [[Requires_24_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 38]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_102
+#graphify/document #graphify/EXTRACTED #community/Community_231

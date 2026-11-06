@@ -1,29 +1,45 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/LockedLanes.client.luau"
-type: "code"
-community: "Community 185"
+source_file: "vault/Graph/LockedLanes.client.luau_2.md"
+type: "document"
+community: "Community 105"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_185
+  - community/Community_105
 ---
 
-# LockedLanes.client.luau
+# LockedLanes.client.luau_2.md
 
 ## Connections
-- [[addRegion()]] - `contains` [EXTRACTED]
-- [[consider()]] - `contains` [EXTRACTED]
-- [[grey()]] - `contains` [EXTRACTED]
-- [[isContent()]] - `contains` [EXTRACTED]
-- [[isOther()]] - `contains` [EXTRACTED]
-- [[lockOther()]] - `contains` [EXTRACTED]
-- [[lockPart()]] - `contains` [EXTRACTED]
-- [[lockRegion()]] - `contains` [EXTRACTED]
-- [[positionOf()]] - `contains` [EXTRACTED]
-- [[regionAt()]] - `contains` [EXTRACTED]
-- [[replicatedstorage_waitforchild_2]] - `imports` [EXTRACTED]
-- [[skipped()]] - `contains` [EXTRACTED]
-- [[unlockRegion()]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_4]] - `references` [EXTRACTED]
+- [[LockedLanes.client.luau_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 105]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 185]] - `references` [EXTRACTED]
+- [[addRegion()_1]] - `references` [EXTRACTED]
+- [[addRegion()_1_1]] - `references` [EXTRACTED]
+- [[consider()_1]] - `references` [EXTRACTED]
+- [[consider()_1_1]] - `references` [EXTRACTED]
+- [[grey()_1]] - `references` [EXTRACTED]
+- [[grey()_1_1]] - `references` [EXTRACTED]
+- [[isContent()_1]] - `references` [EXTRACTED]
+- [[isContent()_1_1]] - `references` [EXTRACTED]
+- [[isOther()_1]] - `references` [EXTRACTED]
+- [[isOther()_1_1]] - `references` [EXTRACTED]
+- [[lockOther()_1]] - `references` [EXTRACTED]
+- [[lockOther()_1_1]] - `references` [EXTRACTED]
+- [[lockPart()_1]] - `references` [EXTRACTED]
+- [[lockPart()_1_1]] - `references` [EXTRACTED]
+- [[lockRegion()_1]] - `references` [EXTRACTED]
+- [[lockRegion()_1_1]] - `references` [EXTRACTED]
+- [[positionOf()_1]] - `references` [EXTRACTED]
+- [[positionOf()_1_1]] - `references` [EXTRACTED]
+- [[regionAt()_1]] - `references` [EXTRACTED]
+- [[regionAt()_1_1]] - `references` [EXTRACTED]
+- [[replicatedstorage_waitforchild_2]] - `references` [EXTRACTED]
+- [[skipped()_1]] - `references` [EXTRACTED]
+- [[skipped()_1_1]] - `references` [EXTRACTED]
+- [[unlockRegion()_1]] - `references` [EXTRACTED]
+- [[unlockRegion()_1_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_185
+#graphify/document #graphify/EXTRACTED #community/Community_105

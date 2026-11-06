@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/Creature Quest Catch & Battle Launch Checklist_2.md"
+type: "document"
+community: "Community 1406"
+location: "L14"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_1406
+---
+
+# Connections
+
+## Connections
+- [[Creature Quest Catch & Battle Launch Checklist_2_1]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_1406

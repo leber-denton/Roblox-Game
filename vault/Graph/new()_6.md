@@ -1,21 +1,23 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/AdminPanel.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau"
 type: "code"
-community: "Community 3"
-location: "L24"
+community: "Community 420"
+location: "L26"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_3
+  - community/Community_420
 ---
 
 # new()
 
 ## Connections
-- [[AdminPanel.client.luau]] - `contains` [EXTRACTED]
-- [[btn()]] - `calls` [EXTRACTED]
-- [[corner()]] - `calls` [EXTRACTED]
-- [[header()_1]] - `calls` [EXTRACTED]
-- [[row()_2]] - `calls` [EXTRACTED]
+- [[CreatureIndex.client.luau_5]] - `contains` [EXTRACTED]
+- [[label()_3]] - `calls` [EXTRACTED]
+- [[preview()_1]] - `calls` [EXTRACTED]
+- [[round()_3]] - `calls` [EXTRACTED]
+- [[showDetail()_1]] - `calls` [EXTRACTED]
+- [[showGrid()]] - `calls` [EXTRACTED]
+- [[typeChips()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_3
+#graphify/code #graphify/EXTRACTED #community/Community_420

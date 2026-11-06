@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/apply()_2.md"
+source_file: "vault/Graph/apply()_2_1.md"
 type: "document"
-community: "Community 192"
-location: "L1"
+community: "Community 1378"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_192
+  - community/Community_1378
 ---
 
 # apply()_2.md
 
 ## Connections
-- [[apply()_5]] - `contains` [EXTRACTED]
-- [[onSprint()_1]] - `references` [EXTRACTED]
-- [[targetSpeed()_1]] - `references` [EXTRACTED]
+- [[Connections_1666]] - `contains` [EXTRACTED]
+- [[apply()_2_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_192
+#graphify/document #graphify/EXTRACTED #community/Community_1378

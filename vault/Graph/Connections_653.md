@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/ModelSync.audit().md"
+source_file: "vault/Graph/Connections_653.md"
 type: "document"
-community: "Community 226"
-location: "L14"
+community: "Community 12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_12
 ---
 
-# Connections
+# Connections_653.md
 
 ## Connections
-- [[ModelSync.audit()_2]] - `contains` [EXTRACTED]
+- [[Connections_890]] - `contains` [EXTRACTED]
+- [[Connections_652]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_12

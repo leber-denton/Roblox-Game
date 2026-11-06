@@ -12,7 +12,7 @@ tags:
 # LeagueService
 
 ## Connections
-- [[Connections_417]] - `contains` [EXTRACTED]
-- [[GraphLeagueService]] - `contains` [EXTRACTED]
+- [[Connections_2092]] - `contains` [EXTRACTED]
+- [[GraphLeagueService_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_156

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/getIndex().md"
+source_file: "vault/Graph/scaleOf()_1_1.md"
 type: "document"
-community: "Community 188"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_188
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[getIndex()_2]] - `contains` [EXTRACTED]
+- [[scaleOf()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_188
+#graphify/document #graphify/EXTRACTED #community/Community_117

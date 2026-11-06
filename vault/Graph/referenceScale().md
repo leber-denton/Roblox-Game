@@ -12,7 +12,7 @@ tags:
 # referenceScale()
 
 ## Connections
-- [[ModelSync.luau_2]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
 - [[makeReplacement()]] - `calls` [EXTRACTED]
 - [[scaleOf()_1]] - `calls` [EXTRACTED]
 

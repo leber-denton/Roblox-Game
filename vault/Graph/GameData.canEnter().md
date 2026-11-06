@@ -12,12 +12,12 @@ tags:
 # GameData.canEnter()
 
 ## Connections
-- [[GameData.luau_2]] - `contains` [EXTRACTED]
+- [[GameData.luau_3]] - `contains` [EXTRACTED]
 - [[GameData.regionFor()]] - `calls` [EXTRACTED]
 - [[canAnyoneEnter()]] - `calls` [INFERRED]
 - [[canChallenge()]] - `calls` [INFERRED]
 - [[paidPick()]] - `calls` [INFERRED]
-- [[refresh()_2]] - `calls` [INFERRED]
-- [[setup()_1]] - `calls` [INFERRED]
+- [[refresh()_1]] - `calls` [INFERRED]
+- [[setup()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/INFERRED #community/Community_15

@@ -12,7 +12,7 @@ tags:
 # give()
 
 ## Connections
-- [[AdminService.luau_2]] - `contains` [EXTRACTED]
+- [[AdminService.luau_3]] - `contains` [EXTRACTED]
 - [[BaseManager.addCreature()]] - `calls` [INFERRED]
 - [[BaseManager.newRecord()]] - `calls` [INFERRED]
 - [[commands.finishTutorial()]] - `calls` [EXTRACTED]

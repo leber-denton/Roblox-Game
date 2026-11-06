@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/commands.addStar().md"
+source_file: "vault/Graph/commands.addStar()_1.md"
 type: "document"
-community: "Community 42"
+community: "Community 1047"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_1047
 ---
 
-# commands.addStar()
+# commands.addStar().md
 
 ## Connections
-- [[Connections_980]] - `contains` [EXTRACTED]
+- [[Connections_121]] - `contains` [EXTRACTED]
 - [[commands.addStar()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_1047

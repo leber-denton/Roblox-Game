@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Graph/spots().md"
+source_file: "vault/Graph/Connections_650.md"
 type: "document"
-community: "Community 225"
-location: "L14"
+community: "Community 12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_225
+  - community/Community_12
 ---
 
-# Connections
+# Connections_650.md
 
 ## Connections
-- [[spots()_2]] - `contains` [EXTRACTED]
+- [[Connections_884]] - `contains` [EXTRACTED]
+- [[Connections_651]] - `references` [EXTRACTED]
+- [[Connections_979]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_225
+#graphify/document #graphify/EXTRACTED #community/Community_12

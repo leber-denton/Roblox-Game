@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/banner().md"
+source_file: "vault/Graph/banner()_2.md"
 type: "document"
-community: "Community 301"
-location: "L12"
+community: "Community 476"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_301
+  - community/Community_476
 ---
 
-# banner()
+# banner()_2.md
 
 ## Connections
-- [[Connections_782]] - `contains` [EXTRACTED]
-- [[banner()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
+- [[banner()_5]] - `contains` [EXTRACTED]
+- [[banner()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_301
+#graphify/document #graphify/EXTRACTED #community/Community_476

@@ -12,7 +12,7 @@ tags:
 # finishRanked()
 
 ## Connections
-- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
 - [[SaveService.requestSave()]] - `calls` [INFERRED]
 - [[pacificDate()]] - `calls` [EXTRACTED]
 - [[recordFor()]] - `calls` [EXTRACTED]

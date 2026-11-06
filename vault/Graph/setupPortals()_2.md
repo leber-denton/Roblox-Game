@@ -12,7 +12,7 @@ tags:
 # setupPortals()
 
 ## Connections
-- [[Connections_204]] - `contains` [EXTRACTED]
+- [[Connections_1225]] - `contains` [EXTRACTED]
 - [[setupPortals()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_123

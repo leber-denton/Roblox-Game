@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/BaseManager.removeCreature().md"
+source_file: "vault/Graph/BaseManager.removeCreature()_2.md"
 type: "document"
-community: "Community 119"
-location: "L12"
+community: "Community 179"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_119
+  - community/Community_179
 ---
 
-# BaseManager.removeCreature()
+# BaseManager.removeCreature()_2.md
 
 ## Connections
-- [[BaseManager.removeCreature()_1]] - `contains` [EXTRACTED]
-- [[Connections_149]] - `contains` [EXTRACTED]
+- [[BaseManager.removeCreature()_1]] - `references` [EXTRACTED]
+- [[BaseManager.removeCreature()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 200]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_119
+#graphify/document #graphify/EXTRACTED #community/Community_179

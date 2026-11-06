@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/CreatureLife.md"
+source_file: "vault/Graph/Connections_214.md"
 type: "document"
-community: "Community 124"
-location: "L14"
+community: "Community 108"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_124
+  - community/Community_108
 ---
 
-# Connections
+# Connections_214.md
 
 ## Connections
-- [[CreatureLife]] - `contains` [EXTRACTED]
+- [[Connections_185]] - `contains` [EXTRACTED]
+- [[What you need to do before it makes money_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 108]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_124
+#graphify/document #graphify/EXTRACTED #community/Community_108

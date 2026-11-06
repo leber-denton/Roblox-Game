@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/atBadge().md"
+source_file: "vault/Graph/atBadge()_1.md"
 type: "document"
-community: "Community 24"
+community: "Community 1015"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1015
 ---
 
-# atBadge().md
+# atBadge()_1.md
 
 ## Connections
-- [[StoryService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
+- [[Connections_65]] - `references` [EXTRACTED]
 - [[atBadge()_2]] - `contains` [EXTRACTED]
-- [[count()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1015

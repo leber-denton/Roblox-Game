@@ -1,24 +1,21 @@
 ---
-source_file: "vault/Index.md"
+source_file: "vault/Graph/vaultIndex.md"
 type: "document"
-community: "Community 32"
+community: "Community 119"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_32
+  - community/Community_119
 ---
 
-# vault/Index.md
+# vaultIndex.md
 
 ## Connections
 - [[CodeBattleService]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
 - [[CodeSaveService]] - `references` [EXTRACTED]
-- [[Creature Quest Vault — Start Here_2]] - `contains` [EXTRACTED]
-- [[DecisionsDecision Log]] - `references` [EXTRACTED]
-- [[PipelineDev Pipeline]] - `references` [EXTRACTED]
-- [[SystemsSystems Overview]] - `references` [EXTRACTED]
-- [[TodoCurrent Priorities]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 32]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 88]] - `references` [EXTRACTED]
+- [[vaultIndex_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_32
+#graphify/document #graphify/EXTRACTED #community/Community_119

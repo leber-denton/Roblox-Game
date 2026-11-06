@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/spawnsFrom().md"
+source_file: "vault/Graph/Connections_62.md"
 type: "document"
-community: "Community 103"
+community: "Community 1012"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_103
+  - community/Community_1012
 ---
 
 # Connections
 
 ## Connections
-- [[spawnsFrom()_2]] - `contains` [EXTRACTED]
+- [[Connections_42]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_103
+#graphify/document #graphify/EXTRACTED #community/Community_1012

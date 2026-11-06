@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/fakeNew().md"
+source_file: "vault/Graph/fakeNew()_2.md"
 type: "document"
-community: "Community 173"
+community: "Community 1412"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_173
+  - community/Community_1412
 ---
 
 # fakeNew()
 
 ## Connections
-- [[Connections_486]] - `contains` [EXTRACTED]
-- [[fakeNew()_1]] - `contains` [EXTRACTED]
+- [[Connections_1761]] - `contains` [EXTRACTED]
+- [[fakeNew()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_173
+#graphify/document #graphify/EXTRACTED #community/Community_1412

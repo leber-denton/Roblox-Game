@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/TutorialService.md"
+source_file: "vault/Graph/TutorialService_1.md"
 type: "document"
-community: "Community 76"
-location: "L1"
+community: "Community 855"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_76
+  - community/Community_855
 ---
 
 # TutorialService
 
 ## Connections
-- [[CodeTutorialService]] - `contains` [EXTRACTED]
-- [[Functions_117]] - `contains` [EXTRACTED]
-- [[Required by_114]] - `contains` [EXTRACTED]
-- [[Requires_115]] - `contains` [EXTRACTED]
+- [[Connections_5622]] - `contains` [EXTRACTED]
+- [[TutorialService_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_76
+#graphify/document #graphify/EXTRACTED #community/Community_855

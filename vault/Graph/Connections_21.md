@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/NpcGuard.luau.md"
+source_file: "vault/Graph/Connections_19.md"
 type: "document"
-community: "Community 102"
+community: "Community 1009"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_102
+  - community/Community_1009
 ---
 
 # Connections
 
 ## Connections
-- [[NpcGuard.luau_1]] - `contains` [EXTRACTED]
+- [[Connections_20]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_102
+#graphify/document #graphify/EXTRACTED #community/Community_1009

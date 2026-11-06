@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/Shapes.ghost().md"
 type: "document"
-community: "Community 295"
+community: "Community 137"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_295
+  - community/Community_137
 ---
 
 # Shapes.ghost()
 
 ## Connections
-- [[Connections_750]] - `contains` [EXTRACTED]
+- [[Connections_1648]] - `contains` [EXTRACTED]
 - [[Shapes.ghost()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_295
+#graphify/document #graphify/EXTRACTED #community/Community_137

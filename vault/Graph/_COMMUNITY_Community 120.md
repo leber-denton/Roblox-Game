@@ -1,58 +1,148 @@
 ---
 type: community
-members: 45
+members: 135
 ---
 
 # Community 120
 
-**Members:** 45 nodes
+**Members:** 135 nodes
 
 ## Members
-- [[BattleFX.attack()_2]] - document - vault/Graph/BattleFX.attack().md
-- [[BattleFX.attack()_1]] - document - vault/Graph/BattleFX.attack().md
-- [[BattleFX.faint()_2]] - document - vault/Graph/BattleFX.faint().md
-- [[BattleFX.faint()_1]] - document - vault/Graph/BattleFX.faint().md
-- [[BattleFX.sendOut()_2]] - document - vault/Graph/BattleFX.sendOut().md
-- [[BattleFX.sendOut()_1]] - document - vault/Graph/BattleFX.sendOut().md
-- [[Connections_153]] - document - vault/Graph/BattleFX.attack().md
-- [[Connections_154]] - document - vault/Graph/BattleFX.faint().md
-- [[Connections_155]] - document - vault/Graph/BattleFX.sendOut().md
-- [[Connections_156]] - document - vault/Graph/charge().md
-- [[Connections_157]] - document - vault/Graph/effectPart().md
-- [[Connections_158]] - document - vault/Graph/groundRing().md
-- [[Connections_159]] - document - vault/Graph/groundY().md
-- [[Connections_160]] - document - vault/Graph/impact().md
-- [[Connections_161]] - document - vault/Graph/lightning().md
-- [[Connections_162]] - document - vault/Graph/play()_2.md
-- [[Connections_163]] - document - vault/Graph/projectile().md
-- [[Connections_164]] - document - vault/Graph/rearBack().md
-- [[Connections_165]] - document - vault/Graph/screenFlash().md
-- [[Connections_166]] - document - vault/Graph/shakeCamera().md
-- [[Connections_167]] - document - vault/Graph/sparkle().md
-- [[charge()_2]] - document - vault/Graph/charge().md
-- [[charge()_1]] - document - vault/Graph/charge().md
-- [[effectPart()_2]] - document - vault/Graph/effectPart().md
-- [[effectPart()_1]] - document - vault/Graph/effectPart().md
-- [[groundRing()_2]] - document - vault/Graph/groundRing().md
-- [[groundRing()_1]] - document - vault/Graph/groundRing().md
-- [[groundY()_2]] - document - vault/Graph/groundY().md
-- [[groundY()_1]] - document - vault/Graph/groundY().md
-- [[impact()_2]] - document - vault/Graph/impact().md
-- [[impact()_1]] - document - vault/Graph/impact().md
-- [[lightning()_2]] - document - vault/Graph/lightning().md
-- [[lightning()_1]] - document - vault/Graph/lightning().md
-- [[play()_3]] - document - vault/Graph/play()_2.md
-- [[play()_2_1]] - document - vault/Graph/play()_2.md
-- [[projectile()_2]] - document - vault/Graph/projectile().md
-- [[projectile()_1]] - document - vault/Graph/projectile().md
-- [[rearBack()_2]] - document - vault/Graph/rearBack().md
-- [[rearBack()_1]] - document - vault/Graph/rearBack().md
-- [[screenFlash()_2]] - document - vault/Graph/screenFlash().md
-- [[screenFlash()_1]] - document - vault/Graph/screenFlash().md
-- [[shakeCamera()_2]] - document - vault/Graph/shakeCamera().md
-- [[shakeCamera()_1]] - document - vault/Graph/shakeCamera().md
-- [[sparkle()_2]] - document - vault/Graph/sparkle().md
-- [[sparkle()_1]] - document - vault/Graph/sparkle().md
+- [[Community 7]] - document - vault/Graph/_COMMUNITY_Community 7.md
+- [[Connections_1049]] - document - vault/Graph/act().md
+- [[Connections_1050]] - document - vault/Graph/animateXP().md
+- [[Connections_1051]] - document - vault/Graph/applyState().md
+- [[Connections_1052]] - document - vault/Graph/attachCard().md
+- [[Connections_1053]] - document - vault/Graph/battleCamera().md
+- [[Connections_1054]] - document - vault/Graph/button()_1.md
+- [[Connections_1055]] - document - vault/Graph/clearButtons().md
+- [[Connections_1057]] - document - vault/Graph/floatDamage().md
+- [[Connections_1058]] - document - vault/Graph/GameData.ballMultiplier().md
+- [[Connections_1059]] - document - vault/Graph/GameData.ballOrder().md
+- [[Connections_1060]] - document - vault/Graph/GameData.BaseTraining.levelCap().md
+- [[Connections_1061]] - document - vault/Graph/GameData.battleItemOrder().md
+- [[Connections_1062]] - document - vault/Graph/GameData.levelCap().md
+- [[Connections_1063]] - document - vault/Graph/GameData.medicineOrder().md
+- [[Connections_1065]] - document - vault/Graph/GameData.regionFor().md
+- [[Connections_1066]] - document - vault/Graph/handle().md
+- [[Connections_1067]] - document - vault/Graph/hex().md
+- [[Connections_1068]] - document - vault/Graph/hpColor().md
+- [[Connections_1069]] - document - vault/Graph/inventory()_1.md
+- [[Connections_1070]] - document - vault/Graph/label()_3.md
+- [[Connections_1071]] - document - vault/Graph/leader().md
+- [[Connections_1072]] - document - vault/Graph/lockButton().md
+- [[Connections_1073]] - document - vault/Graph/makeCard().md
+- [[Connections_1074]] - document - vault/Graph/med().md
+- [[Connections_1075]] - document - vault/Graph/moveStyle().md
+- [[Connections_1076]] - document - vault/Graph/new()_9.md
+- [[Connections_1077]] - document - vault/Graph/pad().md
+- [[Connections_1078]] - document - vault/Graph/promptText().md
+- [[Connections_1079]] - document - vault/Graph/pulse().md
+- [[Connections_1080]] - document - vault/Graph/resolveModels().md
+- [[Connections_1081]] - document - vault/Graph/restoreCamera().md
+- [[Connections_1082]] - document - vault/Graph/round()_5.md
+- [[Connections_1083]] - document - vault/Graph/setCard().md
+- [[Connections_1084]] - document - vault/Graph/setCardHP().md
+- [[Connections_1085]] - document - vault/Graph/setColumns().md
+- [[Connections_1086]] - document - vault/Graph/setStages().md
+- [[Connections_1087]] - document - vault/Graph/setStatus()_1.md
+- [[Connections_1088]] - document - vault/Graph/showMenu().md
+- [[Connections_1089]] - document - vault/Graph/showOwnTag().md
+- [[Connections_1090]] - document - vault/Graph/spawnsFrom().md
+- [[Connections_1091]] - document - vault/Graph/typeText().md
+- [[Connections_1092]] - document - vault/Graph/useList().md
+- [[Connections_1093]] - document - vault/Graph/zeroStages().md
+- [[Connections to other communities_80]] - document - vault/Graph/_COMMUNITY_Community 7.md
+- [[GameData.BaseTraining.levelCap()_2]] - document - vault/Graph/GameData.BaseTraining.levelCap().md
+- [[GameData.BaseTraining.levelCap()_1]] - document - vault/Graph/GameData.BaseTraining.levelCap().md
+- [[GameData.ballMultiplier()_2]] - document - vault/Graph/GameData.ballMultiplier().md
+- [[GameData.ballMultiplier()_1]] - document - vault/Graph/GameData.ballMultiplier().md
+- [[GameData.ballOrder()_2]] - document - vault/Graph/GameData.ballOrder().md
+- [[GameData.ballOrder()_1]] - document - vault/Graph/GameData.ballOrder().md
+- [[GameData.battleItemOrder()_2]] - document - vault/Graph/GameData.battleItemOrder().md
+- [[GameData.battleItemOrder()_1]] - document - vault/Graph/GameData.battleItemOrder().md
+- [[GameData.levelCap()_2]] - document - vault/Graph/GameData.levelCap().md
+- [[GameData.levelCap()_1]] - document - vault/Graph/GameData.levelCap().md
+- [[GameData.medicineOrder()_2]] - document - vault/Graph/GameData.medicineOrder().md
+- [[GameData.medicineOrder()_1]] - document - vault/Graph/GameData.medicineOrder().md
+- [[GameData.regionFor()_2]] - document - vault/Graph/GameData.regionFor().md
+- [[GameData.regionFor()_1]] - document - vault/Graph/GameData.regionFor().md
+- [[Live Query (requires Dataview plugin)_87]] - document - vault/Graph/_COMMUNITY_Community 7.md
+- [[Members_87]] - document - vault/Graph/_COMMUNITY_Community 7.md
+- [[Top bridge nodes_83]] - document - vault/Graph/_COMMUNITY_Community 7.md
+- [[_COMMUNITY_Community 7]] - document - vault/Graph/_COMMUNITY_Community 7.md
+- [[act()_2]] - document - vault/Graph/act().md
+- [[act()_1]] - document - vault/Graph/act().md
+- [[animateXP()_2]] - document - vault/Graph/animateXP().md
+- [[animateXP()_1]] - document - vault/Graph/animateXP().md
+- [[applyState()_3]] - document - vault/Graph/applyState().md
+- [[applyState()_2]] - document - vault/Graph/applyState().md
+- [[attachCard()_3]] - document - vault/Graph/attachCard().md
+- [[attachCard()_2]] - document - vault/Graph/attachCard().md
+- [[battleCamera()_2]] - document - vault/Graph/battleCamera().md
+- [[battleCamera()_1]] - document - vault/Graph/battleCamera().md
+- [[button()_2]] - document - vault/Graph/button()_1.md
+- [[button()_1_1]] - document - vault/Graph/button()_1.md
+- [[clearButtons()_4]] - document - vault/Graph/clearButtons().md
+- [[clearButtons()_3]] - document - vault/Graph/clearButtons().md
+- [[floatDamage()_2]] - document - vault/Graph/floatDamage().md
+- [[floatDamage()_1]] - document - vault/Graph/floatDamage().md
+- [[handle()_2]] - document - vault/Graph/handle().md
+- [[handle()_1]] - document - vault/Graph/handle().md
+- [[hex()_2]] - document - vault/Graph/hex().md
+- [[hex()_1]] - document - vault/Graph/hex().md
+- [[hpColor()_3]] - document - vault/Graph/hpColor().md
+- [[hpColor()_2]] - document - vault/Graph/hpColor().md
+- [[inventory()_2]] - document - vault/Graph/inventory()_1.md
+- [[inventory()_1_1]] - document - vault/Graph/inventory()_1.md
+- [[label()_8]] - document - vault/Graph/label()_3.md
+- [[label()_3_1]] - document - vault/Graph/label()_3.md
+- [[leader()_2]] - document - vault/Graph/leader().md
+- [[leader()_1]] - document - vault/Graph/leader().md
+- [[lockButton()_2]] - document - vault/Graph/lockButton().md
+- [[lockButton()_1]] - document - vault/Graph/lockButton().md
+- [[makeCard()_2]] - document - vault/Graph/makeCard().md
+- [[makeCard()_1]] - document - vault/Graph/makeCard().md
+- [[med()_2]] - document - vault/Graph/med().md
+- [[med()_1]] - document - vault/Graph/med().md
+- [[moveStyle()_2]] - document - vault/Graph/moveStyle().md
+- [[moveStyle()_1]] - document - vault/Graph/moveStyle().md
+- [[new()_17]] - document - vault/Graph/new()_9.md
+- [[new()_9_1]] - document - vault/Graph/new()_9.md
+- [[pad()_2]] - document - vault/Graph/pad().md
+- [[pad()_1]] - document - vault/Graph/pad().md
+- [[promptText()_2]] - document - vault/Graph/promptText().md
+- [[promptText()_1]] - document - vault/Graph/promptText().md
+- [[pulse()_2]] - document - vault/Graph/pulse().md
+- [[pulse()_1]] - document - vault/Graph/pulse().md
+- [[resolveModels()_2]] - document - vault/Graph/resolveModels().md
+- [[resolveModels()_1]] - document - vault/Graph/resolveModels().md
+- [[restoreCamera()_2]] - document - vault/Graph/restoreCamera().md
+- [[restoreCamera()_1]] - document - vault/Graph/restoreCamera().md
+- [[round()_8]] - document - vault/Graph/round()_5.md
+- [[round()_5_1]] - document - vault/Graph/round()_5.md
+- [[setCard()_3]] - document - vault/Graph/setCard().md
+- [[setCard()_2]] - document - vault/Graph/setCard().md
+- [[setCardHP()_3]] - document - vault/Graph/setCardHP().md
+- [[setCardHP()_2]] - document - vault/Graph/setCardHP().md
+- [[setColumns()_2]] - document - vault/Graph/setColumns().md
+- [[setColumns()_1]] - document - vault/Graph/setColumns().md
+- [[setStages()_3]] - document - vault/Graph/setStages().md
+- [[setStages()_2]] - document - vault/Graph/setStages().md
+- [[setStatus()_2]] - document - vault/Graph/setStatus()_1.md
+- [[setStatus()_1_2]] - document - vault/Graph/setStatus()_1.md
+- [[showMenu()_2]] - document - vault/Graph/showMenu().md
+- [[showMenu()_1]] - document - vault/Graph/showMenu().md
+- [[showOwnTag()_2]] - document - vault/Graph/showOwnTag().md
+- [[showOwnTag()_1]] - document - vault/Graph/showOwnTag().md
+- [[spawnsFrom()_2]] - document - vault/Graph/spawnsFrom().md
+- [[spawnsFrom()_1]] - document - vault/Graph/spawnsFrom().md
+- [[typeText()_2]] - document - vault/Graph/typeText().md
+- [[typeText()_1]] - document - vault/Graph/typeText().md
+- [[useList()_2]] - document - vault/Graph/useList().md
+- [[useList()_1]] - document - vault/Graph/useList().md
+- [[zeroStages()_3]] - document - vault/Graph/zeroStages().md
+- [[zeroStages()_2]] - document - vault/Graph/zeroStages().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -62,15 +152,53 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 15 edges to [[_COMMUNITY_Community 103]]
-- 14 edges to [[_COMMUNITY_Community 197]]
-- 8 edges to [[_COMMUNITY_Community 114]]
-- 3 edges to [[_COMMUNITY_Community 177]]
-- 1 edge to [[_COMMUNITY_Community 241]]
+- 24 edges to [[_COMMUNITY_Community 138]]
+- 12 edges to [[_COMMUNITY_Community 21]]
+- 9 edges to [[_COMMUNITY_Community 101]]
+- 9 edges to [[_COMMUNITY_Community 18]]
+- 7 edges to [[_COMMUNITY_Community 202]]
+- 6 edges to [[_COMMUNITY_Community 167]]
+- 5 edges to [[_COMMUNITY_Community 86]]
+- 5 edges to [[_COMMUNITY_Community 223]]
+- 4 edges to [[_COMMUNITY_Community 27]]
+- 4 edges to [[_COMMUNITY_Community 790]]
+- 3 edges to [[_COMMUNITY_Community 711]]
+- 3 edges to [[_COMMUNITY_Community 207]]
+- 2 edges to [[_COMMUNITY_Community 203]]
+- 2 edges to [[_COMMUNITY_Community 335]]
+- 2 edges to [[_COMMUNITY_Community 697]]
+- 2 edges to [[_COMMUNITY_Community 341]]
+- 2 edges to [[_COMMUNITY_Community 348]]
+- 1 edge to [[_COMMUNITY_Community 1084]]
+- 1 edge to [[_COMMUNITY_Community 117]]
+- 1 edge to [[_COMMUNITY_Community 119]]
+- 1 edge to [[_COMMUNITY_Community 322]]
+- 1 edge to [[_COMMUNITY_Community 186]]
+- 1 edge to [[_COMMUNITY_Community 26]]
+- 1 edge to [[_COMMUNITY_Community 313]]
+- 1 edge to [[_COMMUNITY_Community 396]]
+- 1 edge to [[_COMMUNITY_Community 24]]
+- 1 edge to [[_COMMUNITY_Community 134]]
+- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 292]]
+- 1 edge to [[_COMMUNITY_Community 310]]
+- 1 edge to [[_COMMUNITY_Community 345]]
+- 1 edge to [[_COMMUNITY_Community 90]]
+- 1 edge to [[_COMMUNITY_Community 121]]
+- 1 edge to [[_COMMUNITY_Community 97]]
+- 1 edge to [[_COMMUNITY_Community 137]]
+- 1 edge to [[_COMMUNITY_Community 796]]
+- 1 edge to [[_COMMUNITY_Community 797]]
+- 1 edge to [[_COMMUNITY_Community 419]]
+- 1 edge to [[_COMMUNITY_Community 226]]
+- 1 edge to [[_COMMUNITY_Community 370]]
+- 1 edge to [[_COMMUNITY_Community 527]]
+- 1 edge to [[_COMMUNITY_Community 461]]
+- 1 edge to [[_COMMUNITY_Community 817]]
 
 ## Top bridge nodes
-- [[play()_2_1]] - degree 21, connects to 4 communities
-- [[BattleFX.attack()_1]] - degree 14, connects to 3 communities
-- [[effectPart()_1]] - degree 12, connects to 3 communities
-- [[sparkle()_1]] - degree 12, connects to 3 communities
-- [[BattleFX.sendOut()_1]] - degree 11, connects to 3 communities
+- [[_COMMUNITY_Community 7]] - degree 159, connects to 42 communities
+- [[showMenu()_1]] - degree 18, connects to 1 community
+- [[handle()_1]] - degree 11, connects to 1 community
+- [[applyState()_2]] - degree 8, connects to 1 community
+- [[setCard()_2]] - degree 7, connects to 1 community

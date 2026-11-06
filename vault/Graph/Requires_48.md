@@ -13,8 +13,9 @@ tags:
 
 ## Connections
 - [[NPC_1]] - `references` [EXTRACTED]
-- [[Requires_28_1]] - `references` [EXTRACTED]
-- [[Requires_48_1]] - `contains` [EXTRACTED]
+- [[Requires_48_3]] - `contains` [EXTRACTED]
+- [[Requires_48_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 159]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 71]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_159

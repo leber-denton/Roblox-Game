@@ -12,7 +12,7 @@ tags:
 # setupWorld()
 
 ## Connections
-- [[Connections_707]] - `contains` [EXTRACTED]
+- [[Connections_3346]] - `contains` [EXTRACTED]
 - [[setupWorld()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/BattleFX.attack().md"
+source_file: "vault/Graph/BattleFX.attack()_2.md"
 type: "document"
-community: "Community 120"
-location: "L12"
+community: "Community 18"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_120
+  - community/Community_18
 ---
 
-# BattleFX.attack()
+# BattleFX.attack()_2.md
 
 ## Connections
-- [[BattleFX.attack()_1]] - `contains` [EXTRACTED]
-- [[Connections_153]] - `contains` [EXTRACTED]
+- [[BattleFX.attack()_4]] - `contains` [EXTRACTED]
+- [[BattleFX.attack()_1]] - `references` [EXTRACTED]
+- [[Connections_692_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_120
+#graphify/document #graphify/EXTRACTED #community/Community_18

@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/pickStarter().md"
+source_file: "vault/Graph/pickStarter()_1.md"
 type: "document"
-community: "Community 30"
+community: "Community 626"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_626
 ---
 
-# pickStarter().md
+# pickStarter()_1.md
 
 ## Connections
-- [[TutorialService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
-- [[onProfessor()_1]] - `references` [EXTRACTED]
-- [[pickStarter()_2]] - `contains` [EXTRACTED]
+- [[Connections_488_1]] - `references` [EXTRACTED]
+- [[pickStarter()_3]] - `contains` [EXTRACTED]
+- [[pickStarter()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_626

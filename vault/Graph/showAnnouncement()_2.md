@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/showAnnouncement().md"
+source_file: "vault/Graph/showAnnouncement()_2.md"
 type: "document"
 community: "Community 206"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_206
 ---
 
-# showAnnouncement()
+# showAnnouncement()_2.md
 
 ## Connections
-- [[Connections_605]] - `contains` [EXTRACTED]
-- [[showAnnouncement()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 206]] - `references` [EXTRACTED]
+- [[showAnnouncement()_1]] - `references` [EXTRACTED]
+- [[showAnnouncement()_2_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_206

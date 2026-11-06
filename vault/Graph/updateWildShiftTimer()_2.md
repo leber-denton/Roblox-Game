@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/updateWildShiftTimer().md"
 type: "document"
-community: "Community 212"
+community: "Community 1371"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_212
+  - community/Community_1371
 ---
 
 # updateWildShiftTimer()
 
 ## Connections
-- [[Connections_624]] - `contains` [EXTRACTED]
+- [[Connections_1659]] - `contains` [EXTRACTED]
 - [[updateWildShiftTimer()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_212
+#graphify/document #graphify/EXTRACTED #community/Community_1371

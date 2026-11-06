@@ -8,7 +8,7 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[NPCLife.client.luau_2]] - code - src/StarterPlayer/StarterPlayerScripts/NPCLife.client.luau
+- [[NPCLife.client.luau_4]] - code - src/StarterPlayer/StarterPlayerScripts/NPCLife.client.luau
 - [[register()_1]] - code - src/StarterPlayer/StarterPlayerScripts/NPCLife.client.luau
 
 ## Live Query (requires Dataview plugin)

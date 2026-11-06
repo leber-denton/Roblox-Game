@@ -1,19 +1,28 @@
 ---
 type: community
-members: 6
+members: 15
 ---
 
 # Community 231
 
-**Members:** 6 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_670]] - document - vault/Graph/GameData.BaseTraining.levelCap().md
-- [[Connections_671]] - document - vault/Graph/GameData.levelCap().md
-- [[GameData.BaseTraining.levelCap()_2]] - document - vault/Graph/GameData.BaseTraining.levelCap().md
-- [[GameData.BaseTraining.levelCap()_1]] - document - vault/Graph/GameData.BaseTraining.levelCap().md
-- [[GameData.levelCap()_2]] - document - vault/Graph/GameData.levelCap().md
-- [[GameData.levelCap()_1]] - document - vault/Graph/GameData.levelCap().md
+- [[Connections_3267]] - document - vault/Graph/Functions_24_1.md
+- [[Connections_3268]] - document - vault/Graph/GraphNpcGuard.md
+- [[Connections_3269]] - document - vault/Graph/NpcGuard_1_1.md
+- [[Connections_3270]] - document - vault/Graph/Required by_24_1.md
+- [[Connections_3271]] - document - vault/Graph/Requires_24_1.md
+- [[Functions_24_2]] - document - vault/Graph/Functions_24_1.md
+- [[Functions_24_1_1]] - document - vault/Graph/Functions_24_1.md
+- [[GraphNpcGuard]] - document - vault/Graph/GraphNpcGuard.md
+- [[GraphNpcGuard_1]] - document - vault/Graph/GraphNpcGuard.md
+- [[NpcGuard_1]] - document - vault/Graph/NpcGuard_1_1.md
+- [[NpcGuard_1_1]] - document - vault/Graph/NpcGuard_1_1.md
+- [[Required by_24_2]] - document - vault/Graph/Required by_24_1.md
+- [[Required by_24_1]] - document - vault/Graph/Required by_24_1.md
+- [[Requires_24_2]] - document - vault/Graph/Requires_24_1.md
+- [[Requires_24_1]] - document - vault/Graph/Requires_24_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +32,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 103]]
-- 1 edge to [[_COMMUNITY_Community 212]]
+- 5 edges to [[_COMMUNITY_Community 510]]
+- 4 edges to [[_COMMUNITY_Community 102]]
 
 ## Top bridge nodes
-- [[GameData.levelCap()_1]] - degree 4, connects to 2 communities
-- [[GameData.BaseTraining.levelCap()_1]] - degree 3, connects to 1 community
+- [[NpcGuard_1_1]] - degree 7, connects to 2 communities
+- [[Functions_24_1_1]] - degree 4, connects to 2 communities
+- [[Required by_24_1]] - degree 4, connects to 2 communities
+- [[Requires_24_1]] - degree 4, connects to 2 communities
+- [[GraphNpcGuard]] - degree 3, connects to 1 community

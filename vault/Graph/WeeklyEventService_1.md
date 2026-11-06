@@ -12,8 +12,10 @@ tags:
 # WeeklyEventService_1.md
 
 ## Connections
-- [[GraphWeeklyEventService]] - `references` [EXTRACTED]
-- [[WeeklyEventService_1_1]] - `contains` [EXTRACTED]
+- [[GraphWeeklyEventService_1]] - `references` [EXTRACTED]
+- [[WeeklyEventService_1_3]] - `contains` [EXTRACTED]
+- [[WeeklyEventService_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 165]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 77]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_165

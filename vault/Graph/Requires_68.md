@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/EventHUD.md"
+source_file: "vault/Graph/Requires_24.md"
 type: "document"
-community: "Community 267"
-location: "L4"
+community: "Community 238"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_267
+  - community/Community_238
 ---
 
 # Requires
 
 ## Connections
-- [[EventHUD_2]] - `contains` [EXTRACTED]
+- [[Connections_3312]] - `contains` [EXTRACTED]
+- [[Requires_24_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_267
+#graphify/document #graphify/EXTRACTED #community/Community_238

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/BattleFX.md"
+source_file: "vault/Code/NpcGuard.md"
 type: "document"
-community: "Community 74"
+community: "Community 38"
 location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_74
+  - community/Community_38
 ---
 
 # Required by
 
 ## Connections
-- [[BattleFX_3]] - `contains` [EXTRACTED]
+- [[NpcGuard]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_74
+#graphify/document #graphify/EXTRACTED #community/Community_38

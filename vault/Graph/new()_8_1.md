@@ -12,8 +12,9 @@ tags:
 # new()_8.md
 
 ## Connections
+- [[EventHUD.client.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 45]] - `references` [EXTRACTED]
-- [[new()_13]] - `contains` [EXTRACTED]
+- [[new()_15]] - `contains` [EXTRACTED]
 - [[onRareCatch()_1]] - `references` [EXTRACTED]
 - [[round()_4_1]] - `references` [EXTRACTED]
 

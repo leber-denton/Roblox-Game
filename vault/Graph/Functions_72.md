@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/Menus.md"
+source_file: "vault/Code/Main.md"
 type: "document"
-community: "Community 284"
-location: "L12"
+community: "Community 22"
+location: "L32"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_284
+  - community/Community_22
 ---
 
 # Functions
 
 ## Connections
-- [[Menus]] - `contains` [EXTRACTED]
+- [[Main_2]] - `contains` [EXTRACTED]
+- [[refreshActiveLanes()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_284
+#graphify/document #graphify/EXTRACTED #community/Community_22

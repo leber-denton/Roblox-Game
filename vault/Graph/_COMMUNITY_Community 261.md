@@ -1,21 +1,18 @@
 ---
 type: community
-members: 8
+members: 5
 ---
 
 # Community 261
 
-**Members:** 8 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Community 19]] - document - vault/Graph/_COMMUNITY_Community 19.md
-- [[Connections_741]] - document - vault/Graph/updateMarker().md
-- [[Connections to other communities_33]] - document - vault/Graph/_COMMUNITY_Community 19.md
-- [[Live Query (requires Dataview plugin)_49]] - document - vault/Graph/_COMMUNITY_Community 19.md
-- [[Members_49]] - document - vault/Graph/_COMMUNITY_Community 19.md
-- [[Top bridge nodes_33]] - document - vault/Graph/_COMMUNITY_Community 19.md
-- [[updateMarker()_2]] - document - vault/Graph/updateMarker().md
-- [[updateMarker()_1]] - document - vault/Graph/updateMarker().md
+- [[Community 19_2]] - document - vault/Graph/_COMMUNITY_Community 19.md
+- [[Connections to other communities_205]] - document - vault/Graph/_COMMUNITY_Community 19.md
+- [[Live Query (requires Dataview plugin)_236]] - document - vault/Graph/_COMMUNITY_Community 19.md
+- [[Members_240]] - document - vault/Graph/_COMMUNITY_Community 19.md
+- [[Top bridge nodes_211]] - document - vault/Graph/_COMMUNITY_Community 19.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,8 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 234]]
+- 1 edge to [[_COMMUNITY_Community 195]]
 
 ## Top bridge nodes
-- [[Community 19]] - degree 5, connects to 1 community
-- [[updateMarker()_1]] - degree 2, connects to 1 community
+- [[Community 19_2]] - degree 5, connects to 1 community

@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Community 320
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_810]] - document - vault/Graph/StoryService_1.md
-- [[Connections_811]] - document - vault/Graph/StoryService.md
-- [[GraphStoryService]] - document - vault/Graph/StoryService.md
-- [[StoryService_2]] - document - vault/Graph/StoryService.md
-- [[StoryService_1]] - document - vault/Graph/StoryService_1.md
-- [[StoryService_1_1]] - document - vault/Graph/StoryService_1.md
+- [[Community 320]] - document - vault/Graph/_COMMUNITY_Community 320.md
+- [[Connections to other communities_248]] - document - vault/Graph/_COMMUNITY_Community 320.md
+- [[Live Query (requires Dataview plugin)_281]] - document - vault/Graph/_COMMUNITY_Community 320.md
+- [[Members_285]] - document - vault/Graph/_COMMUNITY_Community 320.md
+- [[Top bridge nodes_254]] - document - vault/Graph/_COMMUNITY_Community 320.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 91]]
 - 1 edge to [[_COMMUNITY_Community 24]]
 
 ## Top bridge nodes
-- [[StoryService_1]] - degree 4, connects to 2 communities
-- [[GraphStoryService]] - degree 3, connects to 1 community
+- [[Community 320]] - degree 5, connects to 1 community

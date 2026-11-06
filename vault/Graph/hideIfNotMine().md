@@ -1,17 +1,17 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau"
 type: "code"
-community: "Community 19"
+community: "Community 421"
 location: "L41"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_421
 ---
 
 # hideIfNotMine()
 
 ## Connections
-- [[Tutorial.client.luau_2]] - `contains` [EXTRACTED]
+- [[Tutorial.client.luau_5]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_19
+#graphify/code #graphify/EXTRACTED #community/Community_421

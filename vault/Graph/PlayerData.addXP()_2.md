@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/PlayerData.addXP().md"
+source_file: "vault/Graph/PlayerData.addXP()_2.md"
 type: "document"
-community: "Community 49"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_49
+  - community/Community_168
 ---
 
-# PlayerData.addXP()
+# PlayerData.addXP()_2.md
 
 ## Connections
-- [[Connections_1000]] - `contains` [EXTRACTED]
-- [[PlayerData.addXP()_1]] - `contains` [EXTRACTED]
+- [[PlayerData.addXP()_3]] - `contains` [EXTRACTED]
+- [[PlayerData.addXP()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 171]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_49
+#graphify/document #graphify/EXTRACTED #community/Community_168

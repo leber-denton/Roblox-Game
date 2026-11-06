@@ -12,8 +12,10 @@ tags:
 # Sprint.client.luau.md
 
 ## Connections
-- [[Sprint.client.luau_1]] - `contains` [EXTRACTED]
+- [[Sprint.client.luau_2]] - `contains` [EXTRACTED]
+- [[Sprint.client.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
-- [[replicatedstorage_waitforchild]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 178]] - `references` [EXTRACTED]
+- [[replicatedstorage_waitforchild_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_178

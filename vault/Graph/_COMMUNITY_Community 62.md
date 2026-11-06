@@ -8,7 +8,7 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[TutorialCompletion.spec.luau_2]] - code - tests/TutorialCompletion.spec.luau
+- [[TutorialCompletion.spec.luau_5]] - code - tests/TutorialCompletion.spec.luau
 - [[fakeNew()]] - code - tests/TutorialCompletion.spec.luau
 - [[fakePlayerGetAttribute()]] - code - tests/TutorialCompletion.spec.luau
 - [[fakePlayerGetAttributeChangedSignal()]] - code - tests/TutorialCompletion.spec.luau

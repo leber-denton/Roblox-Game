@@ -1,22 +1,18 @@
 ---
 type: community
-members: 9
+members: 5
 ---
 
 # Community 196
 
-**Members:** 9 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_565]] - document - vault/Graph/Creature Quest Vault — Start Here.md
-- [[Connections_566]] - document - vault/Graph/Map.md
-- [[Connections_567]] - document - vault/Graph/Rules for notes.md
-- [[Creature Quest Vault — Start Here_1]] - document - vault/Graph/Creature Quest Vault — Start Here.md
-- [[Creature Quest Vault — Start Here]] - document - vault/Graph/Creature Quest Vault — Start Here.md
-- [[Map_1]] - document - vault/Graph/Map.md
-- [[Map]] - document - vault/Graph/Map.md
-- [[Rules for notes_1]] - document - vault/Graph/Rules for notes.md
-- [[Rules for notes]] - document - vault/Graph/Rules for notes.md
+- [[Community 196]] - document - vault/Graph/_COMMUNITY_Community 196.md
+- [[Connections to other communities_157]] - document - vault/Graph/_COMMUNITY_Community 196.md
+- [[Live Query (requires Dataview plugin)_169]] - document - vault/Graph/_COMMUNITY_Community 196.md
+- [[Members_171]] - document - vault/Graph/_COMMUNITY_Community 196.md
+- [[Top bridge nodes_163]] - document - vault/Graph/_COMMUNITY_Community 196.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,10 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 88]]
-- 1 edge to [[_COMMUNITY_Community 304]]
+- 1 edge to [[_COMMUNITY_Community 88]]
 
 ## Top bridge nodes
-- [[Creature Quest Vault — Start Here]] - degree 5, connects to 2 communities
-- [[Rules for notes]] - degree 3, connects to 1 community
-- [[Map]] - degree 3, connects to 1 community
+- [[Community 196]] - degree 5, connects to 1 community

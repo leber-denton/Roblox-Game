@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/showGrid().md"
+source_file: "vault/Graph/BaseManager.unlockExpansion()_1.md"
 type: "document"
-community: "Community 106"
+community: "Community 1022"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_106
+  - community/Community_1022
 ---
 
 # Connections
 
 ## Connections
-- [[showGrid()_2]] - `contains` [EXTRACTED]
+- [[BaseManager.unlockExpansion()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_106
+#graphify/document #graphify/EXTRACTED #community/Community_1022

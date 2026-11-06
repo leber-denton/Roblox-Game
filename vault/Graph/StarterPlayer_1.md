@@ -12,7 +12,7 @@ tags:
 # StarterPlayer.md
 
 ## Connections
-- [[Connections_90]] - `contains` [EXTRACTED]
+- [[Connections_235]] - `contains` [EXTRACTED]
 - [[StarterPlayer]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_110

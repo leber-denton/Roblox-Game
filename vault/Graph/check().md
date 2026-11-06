@@ -16,7 +16,7 @@ tags:
 - [[DecorData.inBounds()]] - `calls` [INFERRED]
 - [[DecorData.toLocal()]] - `calls` [INFERRED]
 - [[DecorData.toWorld()]] - `calls` [INFERRED]
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[overlaps()_1]] - `calls` [EXTRACTED]
 - [[staticParts()]] - `calls` [EXTRACTED]
 

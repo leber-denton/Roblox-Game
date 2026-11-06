@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/entry().md"
+source_file: "vault/Graph/entry()_2.md"
 type: "document"
-community: "Community 234"
-location: "L12"
+community: "Community 122"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_122
 ---
 
-# entry()
+# entry()_2.md
 
 ## Connections
-- [[Connections_677]] - `contains` [EXTRACTED]
-- [[entry()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 234]] - `references` [EXTRACTED]
+- [[entry()_1]] - `references` [EXTRACTED]
+- [[entry()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_122

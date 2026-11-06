@@ -1,17 +1,19 @@
 ---
 type: community
-members: 4
+members: 6
 ---
 
 # Community 37
 
-**Members:** 4 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Functions_90]] - document - vault/Code/Wander.md
-- [[Required by_87]] - document - vault/Code/Wander.md
-- [[Requires_88]] - document - vault/Code/Wander.md
-- [[Wander_3]] - document - vault/Code/Wander.md
+- [[Connections_4098]] - document - vault/Graph/Connections_1037.md
+- [[Connections_4099]] - document - vault/Graph/Connections_1037.md
+- [[Connections_4100]] - document - vault/Graph/Connections_1038.md
+- [[Connections_4101]] - document - vault/Graph/Connections_1038.md
+- [[Connections_1037_1]] - document - vault/Graph/Connections_1037.md
+- [[Connections_1038_1]] - document - vault/Graph/Connections_1038.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,9 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 21]]
-- 1 edge to [[_COMMUNITY_Community 13]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[Wander_3]] - degree 4, connects to 1 community
-- [[Functions_90]] - degree 2, connects to 1 community
+- [[Connections_1037_1]] - degree 3, connects to 1 community
+- [[Connections_1038_1]] - degree 3, connects to 1 community

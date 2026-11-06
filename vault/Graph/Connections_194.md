@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/pacificDate().md"
+source_file: "vault/Graph/Connections_707.md"
 type: "document"
-community: "Community 123"
-location: "L14"
+community: "Community 1081"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_1081
 ---
 
 # Connections
 
 ## Connections
-- [[pacificDate()_2]] - `contains` [EXTRACTED]
+- [[Connections_195]] - `contains` [EXTRACTED]
+- [[Connections_707]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_1081

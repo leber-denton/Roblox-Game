@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_52.md"
+source_file: "vault/Code/EventHUD.md"
 type: "document"
-community: "Community 328"
-location: "L12"
+community: "Community 267"
+location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_328
+  - community/Community_267
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_820]] - `contains` [EXTRACTED]
-- [[Functions_52_1]] - `contains` [EXTRACTED]
+- [[EventHUD]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_328
+#graphify/document #graphify/EXTRACTED #community/Community_267

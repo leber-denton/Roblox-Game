@@ -12,7 +12,7 @@ tags:
 # DecorData.luau
 
 ## Connections
-- [[Connections_1043]] - `contains` [EXTRACTED]
+- [[Connections_5736]] - `contains` [EXTRACTED]
 - [[DecorData.luau_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_86

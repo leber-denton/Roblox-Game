@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/DecorData.md"
+source_file: "vault/Graph/Required by_51.md"
 type: "document"
-community: "Community 47"
-location: "L7"
+community: "Community 345"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_47
+  - community/Community_345
 ---
 
 # Required by
 
 ## Connections
-- [[DecorData_2]] - `contains` [EXTRACTED]
+- [[Connections_4019]] - `contains` [EXTRACTED]
+- [[Required by_51_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_47
+#graphify/document #graphify/EXTRACTED #community/Community_345

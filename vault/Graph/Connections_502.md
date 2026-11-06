@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/refreshBaseLabels().md"
+source_file: "vault/Graph/findTargets()_1.md"
 type: "document"
-community: "Community 175"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_175
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[refreshBaseLabels()_2]] - `contains` [EXTRACTED]
+- [[findTargets()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_175
+#graphify/document #graphify/EXTRACTED #community/Community_117

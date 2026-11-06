@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Code/HavocBlimpFlight.md"
+source_file: "vault/Graph/CodeHavocBlimpFlight.md"
 type: "document"
-community: "Community 54"
+community: "Community 424"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_54
+  - community/Community_424
 ---
 
-# Code/HavocBlimpFlight.md
+# CodeHavocBlimpFlight.md
 
 ## Connections
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[HavocBlimpFlight_2]] - `contains` [EXTRACTED]
+- [[CodeHavocBlimpFlight_1]] - `contains` [EXTRACTED]
+- [[HavocBlimpFlight_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 54]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_54
+#graphify/document #graphify/EXTRACTED #community/Community_424

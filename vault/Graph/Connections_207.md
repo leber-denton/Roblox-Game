@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/syncRank().md"
+source_file: "vault/Graph/DecorData.build().md"
 type: "document"
-community: "Community 123"
+community: "Community 109"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_109
 ---
 
 # Connections
 
 ## Connections
-- [[syncRank()_2]] - `contains` [EXTRACTED]
+- [[DecorData.build()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_109

@@ -1,0 +1,18 @@
+---
+source_file: "vault/Graph/animateXP()_2.md"
+type: "document"
+community: "Community 27"
+location: "L12"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_27
+---
+
+# animateXP()
+
+## Connections
+- [[Connections_3491]] - `contains` [EXTRACTED]
+- [[animateXP()_2_1]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_27

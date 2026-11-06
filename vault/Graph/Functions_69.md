@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/EventHUD.md"
+source_file: "vault/Code/ColiseumUI.md"
 type: "document"
-community: "Community 267"
+community: "Community 215"
 location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_267
+  - community/Community_215
 ---
 
 # Functions
 
 ## Connections
-- [[EventHUD_2]] - `contains` [EXTRACTED]
+- [[ColiseumUI_4]] - `contains` [EXTRACTED]
+- [[refreshPill()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_267
+#graphify/document #graphify/EXTRACTED #community/Community_215

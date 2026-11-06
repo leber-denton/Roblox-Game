@@ -12,8 +12,10 @@ tags:
 # Story.client.luau.md
 
 ## Connections
-- [[Story.client.luau_1]] - `contains` [EXTRACTED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
+- [[Story.client.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 181]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[shared_waitforchild]] - `references` [EXTRACTED]
+- [[shared_waitforchild_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_181

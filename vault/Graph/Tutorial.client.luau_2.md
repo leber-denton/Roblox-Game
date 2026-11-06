@@ -1,28 +1,34 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau"
-type: "code"
-community: "Community 19"
+source_file: "vault/Graph/Tutorial.client.luau_2.md"
+type: "document"
+community: "Community 240"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_240
 ---
 
-# Tutorial.client.luau
+# Tutorial.client.luau_2.md
 
 ## Connections
-- [[arrowPart()]] - `contains` [EXTRACTED]
-- [[hideIfNotMine()]] - `contains` [EXTRACTED]
-- [[intro()]] - `contains` [EXTRACTED]
-- [[new()_3]] - `contains` [EXTRACTED]
-- [[play()_1]] - `contains` [EXTRACTED]
-- [[preview()_1]] - `contains` [EXTRACTED]
-- [[queueDialogue()]] - `contains` [EXTRACTED]
-- [[runDialogue()]] - `contains` [EXTRACTED]
-- [[setHighlight()]] - `contains` [EXTRACTED]
-- [[shared_waitforchild_2]] - `imports` [EXTRACTED]
-- [[showPicker()]] - `contains` [EXTRACTED]
-- [[targetValue()]] - `contains` [EXTRACTED]
+- [[Tutorial.client.luau_3]] - `references` [EXTRACTED]
+- [[Tutorial.client.luau_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
+- [[arrowPart()_2_1]] - `references` [EXTRACTED]
+- [[hideIfNotMine()_1_1]] - `references` [EXTRACTED]
+- [[intro()_1]] - `references` [EXTRACTED]
+- [[new()_3_1]] - `references` [EXTRACTED]
+- [[play()_1_1]] - `references` [EXTRACTED]
+- [[play()_1_1_1]] - `references` [EXTRACTED]
+- [[preview()_1_1_1]] - `references` [EXTRACTED]
+- [[queueDialogue()_1_1]] - `references` [EXTRACTED]
+- [[runDialogue()_1_1]] - `references` [EXTRACTED]
+- [[setHighlight()_1_1]] - `references` [EXTRACTED]
+- [[shared_waitforchild_2]] - `references` [EXTRACTED]
+- [[showPicker()_3]] - `references` [EXTRACTED]
+- [[showPicker()_2_1]] - `references` [EXTRACTED]
+- [[targetValue()_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_19
+#graphify/document #graphify/EXTRACTED #community/Community_240

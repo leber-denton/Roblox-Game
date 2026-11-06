@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/setOpen()_1.md"
+source_file: "vault/Graph/setOpen()_2.md"
 type: "document"
-community: "Community 33"
+community: "Community 195"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_195
 ---
 
-# setOpen()
+# setOpen().md
 
 ## Connections
-- [[Connections_832]] - `contains` [EXTRACTED]
-- [[setOpen()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2888]] - `contains` [EXTRACTED]
+- [[setOpen()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_33
+#graphify/document #graphify/EXTRACTED #community/Community_195

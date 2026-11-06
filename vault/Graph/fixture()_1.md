@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/fixture().md"
+source_file: "vault/Graph/fixture()_1.md"
 type: "document"
-community: "Community 9"
+community: "Community 834"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_834
 ---
 
-# fixture().md
+# fixture()_1.md
 
 ## Connections
-- [[SocialService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[fixture()_2]] - `contains` [EXTRACTED]
-- [[setupCommunity()_1]] - `references` [EXTRACTED]
+- [[Connections_370_1]] - `references` [EXTRACTED]
+- [[fixture()_3]] - `contains` [EXTRACTED]
+- [[fixture()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_834

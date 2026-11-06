@@ -12,7 +12,7 @@ tags:
 # apply()
 
 ## Connections
-- [[Connections_550]] - `contains` [EXTRACTED]
-- [[apply()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_2826]] - `contains` [EXTRACTED]
+- [[apply()_2_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_192

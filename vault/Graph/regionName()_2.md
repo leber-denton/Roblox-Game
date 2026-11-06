@@ -12,7 +12,7 @@ tags:
 # regionName()
 
 ## Connections
-- [[Connections_362]] - `contains` [EXTRACTED]
+- [[Connections_1934]] - `contains` [EXTRACTED]
 - [[regionName()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_147

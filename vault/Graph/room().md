@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[DungeonService.enter()]] - `calls` [EXTRACTED]
 - [[DungeonService.init()]] - `calls` [EXTRACTED]
-- [[DungeonService.luau]] - `contains` [EXTRACTED]
+- [[DungeonService.luau_3]] - `contains` [EXTRACTED]
 - [[ride()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

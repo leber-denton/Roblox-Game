@@ -12,14 +12,14 @@ tags:
 # CreatureBuilder.build()
 
 ## Connections
-- [[CreatureBuilder.luau_2]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_5]] - `contains` [EXTRACTED]
 - [[CreatureBuilder.sizeScale()]] - `calls` [EXTRACTED]
 - [[WildSpawner.spawnOne()]] - `calls` [INFERRED]
 - [[darker()]] - `calls` [EXTRACTED]
 - [[lighter()]] - `calls` [EXTRACTED]
 - [[newPart()]] - `calls` [EXTRACTED]
-- [[preview()]] - `calls` [INFERRED]
 - [[preview()_1]] - `calls` [INFERRED]
+- [[preview()_2]] - `calls` [INFERRED]
 - [[shinyColor()]] - `calls` [EXTRACTED]
 - [[spawnModel()]] - `calls` [INFERRED]
 - [[typeChip()]] - `calls` [EXTRACTED]

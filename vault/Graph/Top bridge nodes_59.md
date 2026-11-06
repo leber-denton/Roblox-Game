@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 37.md"
+source_file: "vault/Graph/_COMMUNITY_Community 377.md"
 type: "document"
-community: "Community 322"
-location: "L34"
+community: "Community 1082"
+location: "L26"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_322
+  - community/Community_1082
 ---
 
 # Top bridge nodes
 
 ## Connections
-- [[Community 37]] - `contains` [EXTRACTED]
+- [[Community 377]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_322
+#graphify/document #graphify/EXTRACTED #community/Community_1082

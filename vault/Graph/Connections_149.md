@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.removeCreature().md"
+source_file: "vault/Graph/preview().md"
 type: "document"
-community: "Community 119"
+community: "Community 106"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_119
+  - community/Community_106
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.removeCreature()_2]] - `contains` [EXTRACTED]
+- [[preview()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_119
+#graphify/document #graphify/EXTRACTED #community/Community_106

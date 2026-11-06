@@ -1,18 +1,23 @@
 ---
-source_file: "vault/Code/Regions.md"
+source_file: "vault/Graph/Functions_64.md"
 type: "document"
-community: "Community 215"
-location: "L10"
+community: "Community 211"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_215
+  - community/Community_211
 ---
 
-# Functions
+# Functions_64.md
 
 ## Connections
-- [[Regions_2]] - `contains` [EXTRACTED]
-- [[applyAll()]] - `references` [INFERRED]
+- [[Functions_18_1]] - `references` [EXTRACTED]
+- [[Functions_64_1]] - `contains` [EXTRACTED]
+- [[Regions_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 147]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 215]] - `references` [EXTRACTED]
+- [[applyAll()_1]] - `references` [EXTRACTED]
+- [[applyAll()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_215
+#graphify/document #graphify/EXTRACTED #community/Community_211

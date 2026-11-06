@@ -12,7 +12,7 @@ tags:
 # arriveCFrame()
 
 ## Connections
-- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
 - [[centerOf()]] - `calls` [EXTRACTED]
 - [[setupPortals()]] - `calls` [EXTRACTED]
 

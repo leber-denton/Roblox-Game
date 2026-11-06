@@ -1,19 +1,28 @@
 ---
 type: community
-members: 6
+members: 15
 ---
 
 # Community 244
 
-**Members:** 6 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_722]] - document - vault/Graph/commands.juniper().md
-- [[Connections_723]] - document - vault/Graph/StoryService.chat().md
-- [[StoryService.chat()_2]] - document - vault/Graph/StoryService.chat().md
-- [[StoryService.chat()_1]] - document - vault/Graph/StoryService.chat().md
-- [[commands.juniper()_2]] - document - vault/Graph/commands.juniper().md
-- [[commands.juniper()_1]] - document - vault/Graph/commands.juniper().md
+- [[Connections_3425]] - document - vault/Graph/gen_trade_beach.py.md
+- [[Connections_3426]] - document - vault/Graph/Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props….md
+- [[Connections_3427]] - document - vault/Graph/node().md
+- [[Connections_3428]] - document - vault/Graph/part()_2.md
+- [[Connections_3429]] - document - vault/Graph/ring().md
+- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…_1]] - document - vault/Graph/Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props….md
+- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…]] - document - vault/Graph/Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props….md
+- [[gen_trade_beach.py_1]] - document - vault/Graph/gen_trade_beach.py.md
+- [[gen_trade_beach.py]] - document - vault/Graph/gen_trade_beach.py.md
+- [[node()_2]] - document - vault/Graph/node().md
+- [[node()_1]] - document - vault/Graph/node().md
+- [[part()_12]] - document - vault/Graph/part()_2.md
+- [[part()_2_1]] - document - vault/Graph/part()_2.md
+- [[ring()_2]] - document - vault/Graph/ring().md
+- [[ring()_1]] - document - vault/Graph/ring().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,10 +32,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 224]]
-- 1 edge to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 24]]
+- 5 edges to [[_COMMUNITY_Community 89]]
+- 1 edge to [[_COMMUNITY_Community 353]]
 
 ## Top bridge nodes
-- [[StoryService.chat()_1]] - degree 4, connects to 2 communities
-- [[commands.juniper()_1]] - degree 4, connects to 2 communities
+- [[ring()_1]] - degree 4, connects to 2 communities
+- [[gen_trade_beach.py]] - degree 6, connects to 1 community
+- [[node()_1]] - degree 3, connects to 1 community
+- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…]] - degree 3, connects to 1 community
+- [[part()_2_1]] - degree 3, connects to 1 community

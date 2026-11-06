@@ -12,7 +12,7 @@ tags:
 # sameCF()
 
 ## Connections
-- [[Connections_325]] - `contains` [EXTRACTED]
+- [[Connections_1733]] - `contains` [EXTRACTED]
 - [[sameCF()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_140

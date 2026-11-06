@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/Decision Log.md"
+source_file: "vault/Graph/GraphDecision Log.md"
 type: "document"
-community: "Community 304"
-location: "L12"
+community: "Community 88"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_304
+  - community/Community_88
 ---
 
-# Graph/Decision Log.md
+# GraphDecision Log.md
 
 ## Connections
-- [[Connections_786]] - `contains` [EXTRACTED]
-- [[GraphDecision Log]] - `contains` [EXTRACTED]
+- [[GraphDecision Log_2]] - `contains` [EXTRACTED]
+- [[GraphDecision Log_1_1]] - `references` [EXTRACTED]
+- [[GraphIndex]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 304]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 32]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_304
+#graphify/document #graphify/EXTRACTED #community/Community_88

@@ -12,7 +12,7 @@ tags:
 # mkPart()
 
 ## Connections
-- [[Connections_293]] - `contains` [EXTRACTED]
+- [[Connections_1605]] - `contains` [EXTRACTED]
 - [[mkPart()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_136

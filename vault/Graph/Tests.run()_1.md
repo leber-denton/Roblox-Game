@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/Tests.run().md"
+source_file: "vault/Graph/Tests.run()_2.md"
 type: "document"
-community: "Community 140"
-location: "L1"
+community: "Community 1354"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_140
+  - community/Community_1354
 ---
 
-# Tests.run().md
+# Tests.run()
 
 ## Connections
+- [[Connections_1594]] - `contains` [EXTRACTED]
 - [[Tests.run()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
-- [[check()_2_1]] - `references` [EXTRACTED]
-- [[near()_1]] - `references` [EXTRACTED]
-- [[sameCF()_1]] - `references` [EXTRACTED]
-- [[scaleOf()_2]] - `references` [EXTRACTED]
-- [[snapshotReal()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_140
+#graphify/document #graphify/EXTRACTED #community/Community_1354

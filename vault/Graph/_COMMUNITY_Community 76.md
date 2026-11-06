@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Functions_117]] - document - vault/Code/TutorialService.md
-- [[Required by_114]] - document - vault/Code/TutorialService.md
-- [[Requires_115]] - document - vault/Code/TutorialService.md
-- [[TutorialService_2]] - document - vault/Code/TutorialService.md
+- [[Functions_179]] - document - vault/Code/TutorialService.md
+- [[Required by_172]] - document - vault/Code/TutorialService.md
+- [[Requires_179]] - document - vault/Code/TutorialService.md
+- [[TutorialService]] - document - vault/Code/TutorialService.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,4 +24,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[TutorialService_2]] - degree 4, connects to 1 community
+- [[TutorialService]] - degree 4, connects to 1 community

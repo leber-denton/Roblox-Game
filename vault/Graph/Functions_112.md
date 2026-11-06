@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/NPC.md"
+source_file: "vault/Graph/Functions_76.md"
 type: "document"
-community: "Community 71"
-location: "L15"
+community: "Community 325"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_71
+  - community/Community_325
 ---
 
 # Functions
 
 ## Connections
-- [[NPC_2]] - `contains` [EXTRACTED]
+- [[Connections_3870]] - `contains` [EXTRACTED]
+- [[Functions_76_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_71
+#graphify/document #graphify/EXTRACTED #community/Community_325

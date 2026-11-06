@@ -1,18 +1,19 @@
 ---
 source_file: "vault/Graph/Creator Hub listing (saved 2026-10-29).md"
 type: "document"
-community: "Community 108"
-location: "L12"
+community: "Community 350"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_350
 ---
 
 # Creator Hub listing (saved 2026-10-29).md
 
 ## Connections
-- [[Connections_73]] - `contains` [EXTRACTED]
 - [[Creator Hub listing (saved 2026-10-29)]] - `contains` [EXTRACTED]
+- [[Creator Hub listing (saved 2026-10-29)_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 350]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_350

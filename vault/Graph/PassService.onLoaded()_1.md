@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/PassService.onLoaded().md"
+source_file: "vault/Graph/PassService.onLoaded()_1.md"
 type: "document"
-community: "Community 41"
+community: "Community 1173"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_1173
 ---
 
-# PassService.onLoaded().md
+# PassService.onLoaded()_1.md
 
 ## Connections
+- [[Connections_486_1]] - `references` [EXTRACTED]
 - [[PassService.onLoaded()_2]] - `contains` [EXTRACTED]
-- [[PlayerData.getPending()_1]] - `references` [EXTRACTED]
-- [[PlayerData.setPending()_1]] - `references` [EXTRACTED]
-- [[RareEventService.summon()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[heal()_1]] - `references` [EXTRACTED]
-- [[onPlayerAdded()_1]] - `references` [EXTRACTED]
-- [[requestSave()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/document #graphify/EXTRACTED #community/Community_1173

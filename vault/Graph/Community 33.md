@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 33.md"
+source_file: "vault/Graph/Community 33.md"
 type: "document"
-community: "Community 33"
-location: "L6"
+community: "Community 310"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_310
 ---
 
-# Community 33
+# Community 33.md
 
 ## Connections
-- [[Connections to other communities_61]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_77]] - `contains` [EXTRACTED]
-- [[Members_77]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_61]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 33]] - `contains` [EXTRACTED]
+- [[Community 33_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 33]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_33
+#graphify/document #graphify/EXTRACTED #community/Community_310

@@ -12,7 +12,7 @@ tags:
 # Sprint
 
 ## Connections
-- [[Connections_332]] - `contains` [EXTRACTED]
-- [[GraphSprint]] - `contains` [EXTRACTED]
+- [[Connections_1757]] - `contains` [EXTRACTED]
+- [[GraphSprint_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_141

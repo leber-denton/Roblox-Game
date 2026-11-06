@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/BattleService_1.md"
+source_file: "vault/Graph/BattleService_1_1.md"
 type: "document"
 community: "Community 150"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_150
 ---
 
-# BattleService_1.md
+# BattleService_1_1.md
 
 ## Connections
-- [[BattleService_1]] - `contains` [EXTRACTED]
-- [[Connections_375]] - `contains` [EXTRACTED]
+- [[BattleService_1_2]] - `contains` [EXTRACTED]
+- [[BattleService_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 150]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_150

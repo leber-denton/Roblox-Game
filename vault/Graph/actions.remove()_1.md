@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Graph/actions.remove().md"
+source_file: "vault/Graph/actions.remove()_1.md"
 type: "document"
-community: "Community 98"
+community: "Community 174"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_174
 ---
 
-# actions.remove().md
+# actions.remove()_1.md
 
 ## Connections
-- [[DecorService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.remove()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 174]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 98]] - `references` [EXTRACTED]
+- [[actions.remove()_1_1]] - `contains` [EXTRACTED]
+- [[actions.remove()_2]] - `references` [EXTRACTED]
 - [[despawnPlaced()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_98
+#graphify/document #graphify/EXTRACTED #community/Community_174

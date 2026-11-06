@@ -12,6 +12,8 @@ tags:
 # regionName().md
 
 ## Connections
+- [[Regions.client.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 215]] - `references` [EXTRACTED]
 - [[regionName()_2]] - `contains` [EXTRACTED]
 - [[setSign()_1_1]] - `references` [EXTRACTED]
 

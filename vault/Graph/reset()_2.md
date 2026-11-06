@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/reset().md"
+source_file: "vault/Graph/reset()_2.md"
 type: "document"
-community: "Community 87"
-location: "L12"
+community: "Community 134"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_87
+  - community/Community_134
 ---
 
-# reset()
+# reset()_2.md
 
 ## Connections
-- [[Connections_1074]] - `contains` [EXTRACTED]
-- [[reset()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
+- [[reset()_3]] - `contains` [EXTRACTED]
+- [[reset()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_87
+#graphify/document #graphify/EXTRACTED #community/Community_134

@@ -1,18 +1,17 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Bag.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/DecorUI.client.luau"
 type: "code"
-community: "Community 20"
-location: "L371"
+community: "Community 3"
+location: "L996"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_20
+  - community/Community_3
 ---
 
 # updateVisible()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
-- [[setOpen()_1]] - `calls` [EXTRACTED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_20
+#graphify/code #graphify/EXTRACTED #community/Community_3

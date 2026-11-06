@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[GraphShowcase]] - `references` [EXTRACTED]
-- [[Showcase_1_1]] - `contains` [EXTRACTED]
+- [[Showcase_1_3]] - `contains` [EXTRACTED]
+- [[Showcase_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 247]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 75]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_247

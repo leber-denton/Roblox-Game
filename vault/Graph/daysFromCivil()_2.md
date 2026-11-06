@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/daysFromCivil().md"
 type: "document"
-community: "Community 134"
+community: "Community 144"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_144
 ---
 
 # daysFromCivil()
 
 ## Connections
-- [[Connections_287]] - `contains` [EXTRACTED]
+- [[Connections_1803]] - `contains` [EXTRACTED]
 - [[daysFromCivil()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_144

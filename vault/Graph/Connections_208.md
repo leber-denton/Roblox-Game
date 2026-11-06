@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/tickQueue().md"
+source_file: "vault/Graph/makeGhost().md"
 type: "document"
-community: "Community 123"
+community: "Community 109"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_109
 ---
 
 # Connections
 
 ## Connections
-- [[tickQueue()_2]] - `contains` [EXTRACTED]
+- [[makeGhost()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_109

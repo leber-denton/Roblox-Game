@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[DungeonService_2]] - document - vault/Code/DungeonService.md
-- [[Functions_106]] - document - vault/Code/DungeonService.md
-- [[Required by_103]] - document - vault/Code/DungeonService.md
-- [[Requires_104]] - document - vault/Code/DungeonService.md
+- [[DungeonService_3]] - document - vault/Code/DungeonService.md
+- [[Functions_167]] - document - vault/Code/DungeonService.md
+- [[Required by_157]] - document - vault/Code/DungeonService.md
+- [[Requires_162]] - document - vault/Code/DungeonService.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,4 +24,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[DungeonService_2]] - degree 4, connects to 1 community
+- [[DungeonService_3]] - degree 4, connects to 1 community

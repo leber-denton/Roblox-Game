@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 344
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_871]] - document - vault/Graph/Required by_16.md
-- [[Required by_81]] - document - vault/Graph/Required by_16.md
-- [[Required by_16_1]] - document - vault/Graph/Required by_16.md
+- [[Community 233]] - document - vault/Graph/_COMMUNITY_Community 233.md
+- [[Connections to other communities_261]] - document - vault/Graph/_COMMUNITY_Community 233.md
+- [[Live Query (requires Dataview plugin)_295]] - document - vault/Graph/_COMMUNITY_Community 233.md
+- [[Members_299]] - document - vault/Graph/_COMMUNITY_Community 233.md
+- [[Top bridge nodes_267]] - document - vault/Graph/_COMMUNITY_Community 233.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,3 +20,9 @@ members: 3
 TABLE source_file, type FROM #community/Community_344
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Community 308]]
+
+## Top bridge nodes
+- [[Community 233]] - degree 5, connects to 1 community

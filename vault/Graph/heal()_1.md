@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/heal().md"
+source_file: "vault/Graph/heal()_1.md"
 type: "document"
-community: "Community 41"
+community: "Community 1151"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_1151
 ---
 
-# heal().md
+# heal()_1.md
 
 ## Connections
-- [[BaseManager.healAll()_1]] - `references` [EXTRACTED]
-- [[PassService.onLoaded()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
+- [[Connections_422]] - `references` [EXTRACTED]
 - [[heal()_2]] - `contains` [EXTRACTED]
-- [[setupProducts()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/document #graphify/EXTRACTED #community/Community_1151

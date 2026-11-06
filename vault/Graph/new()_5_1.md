@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/new()_5.md"
+source_file: "vault/Graph/new()_5_1.md"
 type: "document"
 community: "Community 121"
 location: "L1"
@@ -9,11 +9,15 @@ tags:
   - community/Community_121
 ---
 
-# new()_5.md
+# new()_5_1.md
 
 ## Connections
-- [[header()_3]] - `references` [EXTRACTED]
-- [[new()_14]] - `contains` [EXTRACTED]
+- [[ColiseumUI.client.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 121]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 239]] - `references` [EXTRACTED]
+- [[header()_4]] - `references` [EXTRACTED]
+- [[new()_16]] - `references` [EXTRACTED]
+- [[new()_5_2]] - `contains` [EXTRACTED]
 - [[round()_2_1]] - `references` [EXTRACTED]
 - [[row()_1_1]] - `references` [EXTRACTED]
 

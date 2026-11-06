@@ -51,18 +51,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 7 edges to [[_COMMUNITY_Community 16]]
-- 3 edges to [[_COMMUNITY_Community 21]]
-- 2 edges to [[_COMMUNITY_Community 12]]
-- 1 edge to [[_COMMUNITY_Community 4]]
+- 10 edges to [[_COMMUNITY_Community 16]]
+- 2 edges to [[_COMMUNITY_Community 4]]
+- 2 edges to [[_COMMUNITY_Community 15]]
 - 1 edge to [[_COMMUNITY_Community 22]]
-- 1 edge to [[_COMMUNITY_Community 7]]
-- 1 edge to [[_COMMUNITY_Community 15]]
+- 1 edge to [[_COMMUNITY_Community 11]]
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[SocialService.luau]] - degree 32, connects to 5 communities
-- [[execute()]] - degree 13, connects to 3 communities
+- [[SocialService.luau]] - degree 32, connects to 4 communities
+- [[execute()]] - degree 13, connects to 2 communities
 - [[BaseManager.findById()]] - degree 7, connects to 1 community
 - [[BaseManager.snapshot()]] - degree 6, connects to 1 community
 - [[SocialService.request()]] - degree 4, connects to 1 community

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/collectStatic().md"
+source_file: "vault/Graph/Connections_343.md"
 type: "document"
-community: "Community 175"
-location: "L14"
+community: "Community 117"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_175
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[collectStatic()_2]] - `contains` [EXTRACTED]
+- [[Connections_497]] - `contains` [EXTRACTED]
+- [[Connections_343_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_175
+#graphify/document #graphify/EXTRACTED #community/Community_117

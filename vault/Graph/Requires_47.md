@@ -13,8 +13,10 @@ tags:
 
 ## Connections
 - [[ModelSyncLookup_1]] - `references` [EXTRACTED]
-- [[Requires_26_1]] - `references` [EXTRACTED]
-- [[Requires_47_1]] - `contains` [EXTRACTED]
+- [[Requires_26_1_1]] - `references` [EXTRACTED]
+- [[Requires_47_3]] - `contains` [EXTRACTED]
+- [[Requires_47_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 158]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 70]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_158

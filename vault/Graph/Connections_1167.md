@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/actions.buy().md"
+source_file: "vault/Graph/Connections_790.md"
 type: "document"
-community: "Community 97"
+community: "Community 1219"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_97
+  - community/Community_1219
 ---
 
 # Connections
 
 ## Connections
-- [[actions.buy()_2]] - `contains` [EXTRACTED]
+- [[Connections_1166]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_97
+#graphify/document #graphify/EXTRACTED #community/Community_1219

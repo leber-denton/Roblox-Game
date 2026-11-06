@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/DecorData.md"
+source_file: "vault/Graph/Requires_92.md"
 type: "document"
-community: "Community 47"
-location: "L4"
+community: "Community 1346"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_47
+  - community/Community_1346
 ---
 
-# Requires
+# Requires_92.md
 
 ## Connections
-- [[DecorData_2]] - `contains` [EXTRACTED]
+- [[Requires_21]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_47
+#graphify/document #graphify/EXTRACTED #community/Community_1346

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/CreatureBuilder.md"
+source_file: "vault/Code/CreatureLife.md"
 type: "document"
-community: "Community 294"
+community: "Community 28"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_294
+  - community/Community_28
 ---
 
 # Requires
 
 ## Connections
-- [[CreatureBuilder]] - `contains` [EXTRACTED]
+- [[CreatureLife]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_294
+#graphify/document #graphify/EXTRACTED #community/Community_28

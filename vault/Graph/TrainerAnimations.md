@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/TrainerAnimations.md"
+source_file: "vault/Graph/TrainerAnimations_1.md"
 type: "document"
 community: "Community 132"
 location: "L12"
@@ -12,7 +12,7 @@ tags:
 # TrainerAnimations
 
 ## Connections
-- [[Connections_278]] - `contains` [EXTRACTED]
-- [[GraphTrainerAnimations]] - `contains` [EXTRACTED]
+- [[Connections_1394]] - `contains` [EXTRACTED]
+- [[TrainerAnimations_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_132

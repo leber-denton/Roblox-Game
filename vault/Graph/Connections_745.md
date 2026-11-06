@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/PlayerData.addBadge().md"
+source_file: "vault/Graph/Connections_560.md"
 type: "document"
-community: "Community 27"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_27
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[PlayerData.addBadge()_2]] - `contains` [EXTRACTED]
+- [[Connections_746]] - `contains` [EXTRACTED]
+- [[Connections_560_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_27
+#graphify/document #graphify/EXTRACTED #community/Community_12

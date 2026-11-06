@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/LeaderboardService.md"
+source_file: "vault/Graph/CodeLeaderboardService.md"
 type: "document"
-community: "Community 13"
+community: "Community 1043"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_1043
 ---
 
-# Code/LeaderboardService.md
+# CodeLeaderboardService.md
 
 ## Connections
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[CodeGameData]] - `references` [EXTRACTED]
-- [[CodeMain]] - `references` [EXTRACTED]
-- [[LeaderboardService_2]] - `contains` [EXTRACTED]
+- [[CodeLeaderboardService_1]] - `contains` [EXTRACTED]
+- [[Connections_109_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_1043

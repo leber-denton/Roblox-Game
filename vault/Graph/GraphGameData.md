@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/GameData.md"
+source_file: "vault/Graph/GraphGameData.md"
 type: "document"
 community: "Community 155"
 location: "L1"
@@ -9,10 +9,11 @@ tags:
   - community/Community_155
 ---
 
-# Graph/GameData.md
+# GraphGameData.md
 
 ## Connections
-- [[GameData]] - `contains` [EXTRACTED]
-- [[GameData_1]] - `references` [EXTRACTED]
+- [[GameData_1_2]] - `references` [EXTRACTED]
+- [[GraphGameData_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 155]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_155

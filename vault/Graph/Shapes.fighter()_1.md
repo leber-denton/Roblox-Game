@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/Shapes.fighter().md"
 type: "document"
-community: "Community 133"
+community: "Community 137"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_137
 ---
 
 # Shapes.fighter().md
@@ -16,4 +16,4 @@ tags:
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
 - [[darker()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_137

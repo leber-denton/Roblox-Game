@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ignoreList().md"
+source_file: "vault/Graph/Connections_784.md"
 type: "document"
-community: "Community 94"
+community: "Community 1213"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_94
+  - community/Community_1213
 ---
 
 # Connections
 
 ## Connections
-- [[ignoreList()_2]] - `contains` [EXTRACTED]
+- [[Connections_1150]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_94
+#graphify/document #graphify/EXTRACTED #community/Community_1213

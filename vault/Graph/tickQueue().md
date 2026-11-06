@@ -12,8 +12,8 @@ tags:
 # tickQueue()
 
 ## Connections
-- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
-- [[Functions_93]] - `references` [INFERRED]
+- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
+- [[Functions_130]] - `references` [INFERRED]
 - [[available()]] - `calls` [EXTRACTED]
 - [[recordFor()]] - `calls` [EXTRACTED]
 - [[setupActivities()]] - `calls` [EXTRACTED]

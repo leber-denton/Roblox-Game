@@ -12,14 +12,15 @@ tags:
 # Main.server.luau.md
 
 ## Connections
-- [[ColiseumService.luau]] - `references` [EXTRACTED]
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
 - [[GameData.luau]] - `references` [EXTRACTED]
-- [[LeaderboardService.luau]] - `references` [EXTRACTED]
-- [[Main.server.luau_1]] - `contains` [EXTRACTED]
-- [[NpcGuard.luau]] - `references` [EXTRACTED]
+- [[LeaderboardService.luau_1]] - `references` [EXTRACTED]
+- [[Main.server.luau_2]] - `contains` [EXTRACTED]
+- [[Main.server.luau_1]] - `references` [EXTRACTED]
 - [[PassService.luau]] - `references` [EXTRACTED]
 - [[WeeklyEventService.luau]] - `references` [EXTRACTED]
 - [[WildSpawner.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 23]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
 

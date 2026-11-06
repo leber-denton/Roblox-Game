@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Community 282
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[BaseManager]] - document - vault/Code/BaseManager.md
-- [[Functions_71]] - document - vault/Code/BaseManager.md
-- [[Required by_73]] - document - vault/Code/BaseManager.md
-- [[Requires_71]] - document - vault/Code/BaseManager.md
+- [[Connections_3583]] - document - vault/Graph/Connections_556.md
+- [[Connections_3584]] - document - vault/Graph/Connections_556.md
+- [[Connections_556_1]] - document - vault/Graph/Connections_556.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,9 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 16]]
-- 1 edge to [[_COMMUNITY_Community 13]]
+- 1 edge to [[_COMMUNITY_Community 12]]
 
 ## Top bridge nodes
-- [[BaseManager]] - degree 4, connects to 1 community
-- [[Functions_71]] - degree 2, connects to 1 community
+- [[Connections_556_1]] - degree 2, connects to 1 community

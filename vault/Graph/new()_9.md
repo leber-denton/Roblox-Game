@@ -12,10 +12,10 @@ tags:
 # new()
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[button()_1]] - `calls` [EXTRACTED]
 - [[floatDamage()]] - `calls` [EXTRACTED]
-- [[label()_3]] - `calls` [EXTRACTED]
+- [[label()_4]] - `calls` [EXTRACTED]
 - [[makeCard()]] - `calls` [EXTRACTED]
 - [[pad()]] - `calls` [EXTRACTED]
 - [[pulse()]] - `calls` [EXTRACTED]

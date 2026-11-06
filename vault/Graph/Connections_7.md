@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/bankCap().md"
+source_file: "vault/Graph/Required by.md"
 type: "document"
-community: "Community 101"
+community: "Community 100"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_101
+  - community/Community_100
 ---
 
 # Connections
 
 ## Connections
-- [[bankCap()_2]] - `contains` [EXTRACTED]
+- [[Required by_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_101
+#graphify/document #graphify/EXTRACTED #community/Community_100

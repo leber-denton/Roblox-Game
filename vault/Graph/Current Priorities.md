@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Todo/Current Priorities.md"
 type: "document"
-community: "Community 32"
+community: "Community 13"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_32
+  - community/Community_13
 ---
 
 # Current Priorities
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[TodoCurrent Priorities]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_32
+#graphify/document #graphify/EXTRACTED #community/Community_13

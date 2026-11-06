@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/profIntro().md"
+source_file: "vault/Graph/Connections_765.md"
 type: "document"
-community: "Community 30"
-location: "L14"
+community: "Community 1089"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_1089
 ---
 
-# Connections
+# Connections_765.md
 
 ## Connections
-- [[profIntro()_2]] - `contains` [EXTRACTED]
+- [[Connections_203]] - `contains` [EXTRACTED]
+- [[RareEventService.setPaidHandler()_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_1089

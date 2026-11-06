@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[Creature Quest Catch & Battle Launch Checklist]] - `references` [EXTRACTED]
-- [[What you need to do before it makes money_1]] - `contains` [EXTRACTED]
+- [[What you need to do before it makes money_3]] - `contains` [EXTRACTED]
+- [[What you need to do before it makes money_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 108]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 40]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_108

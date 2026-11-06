@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.fighter().md"
+source_file: "vault/Graph/showcaseModels().md"
 type: "document"
-community: "Community 133"
+community: "Community 112"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_112
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.fighter()_2]] - `contains` [EXTRACTED]
+- [[showcaseModels()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_112

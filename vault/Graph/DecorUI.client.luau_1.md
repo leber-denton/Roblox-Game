@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/DecorUI.client.luau.md"
+source_file: "vault/Graph/DecorUI.client.luau_1.md"
 type: "document"
 community: "Community 181"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_181
 ---
 
-# DecorUI.client.luau.md
+# DecorUI.client.luau_1.md
 
 ## Connections
-- [[Connections_526]] - `contains` [EXTRACTED]
-- [[DecorUI.client.luau]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau]] - `references` [EXTRACTED]
+- [[DecorUI.client.luau_1_1]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 181]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_181

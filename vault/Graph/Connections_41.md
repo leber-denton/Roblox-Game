@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/setColumns().md"
+source_file: "vault/Graph/apply()_1_1.md"
 type: "document"
-community: "Community 103"
+community: "Community 1012"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_103
+  - community/Community_1012
 ---
 
 # Connections
 
 ## Connections
-- [[setColumns()_2]] - `contains` [EXTRACTED]
+- [[apply()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_103
+#graphify/document #graphify/EXTRACTED #community/Community_1012

@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/banner().md"
+source_file: "vault/Graph/banner()_1.md"
 type: "document"
-community: "Community 301"
+community: "Community 476"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_301
+  - community/Community_476
 ---
 
-# banner().md
+# banner()_1.md
 
 ## Connections
-- [[banner()_2]] - `contains` [EXTRACTED]
+- [[DungeonClient.client.luau_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 251]] - `references` [EXTRACTED]
+- [[banner()_4]] - `contains` [EXTRACTED]
+- [[banner()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_301
+#graphify/document #graphify/EXTRACTED #community/Community_476

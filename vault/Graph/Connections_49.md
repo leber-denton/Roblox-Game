@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/consider().md"
+source_file: "vault/Graph/Connections_65.md"
 type: "document"
-community: "Community 105"
+community: "Community 1015"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_105
+  - community/Community_1015
 ---
 
 # Connections
 
 ## Connections
-- [[consider()_2]] - `contains` [EXTRACTED]
+- [[Connections_48]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_105
+#graphify/document #graphify/EXTRACTED #community/Community_1015

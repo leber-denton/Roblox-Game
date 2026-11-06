@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/push().md"
+source_file: "vault/Graph/push()_1.md"
 type: "document"
-community: "Community 9"
+community: "Community 1197"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_1197
 ---
 
-# push()
+# push().md
 
 ## Connections
-- [[Connections_1121]] - `contains` [EXTRACTED]
+- [[Connections_640]] - `contains` [EXTRACTED]
 - [[push()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_1197

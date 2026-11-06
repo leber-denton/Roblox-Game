@@ -1,29 +1,19 @@
 ---
-source_file: "vault/Graph/DecorService.init().md"
+source_file: "vault/Graph/DecorService.init()_1.md"
 type: "document"
-community: "Community 175"
+community: "Community 152"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_175
+  - community/Community_152
 ---
 
-# DecorService.init().md
+# DecorService.init()_1.md
 
 ## Connections
-- [[BattleService.onEnded()_1]] - `references` [EXTRACTED]
-- [[DecorService.giveBox()_1]] - `references` [EXTRACTED]
-- [[DecorService.init()_2]] - `contains` [EXTRACTED]
-- [[DecorService.luau_1]] - `references` [EXTRACTED]
-- [[SaveService.requestSave()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[buildBaseProps()_1]] - `references` [EXTRACTED]
-- [[collectStatic()_1]] - `references` [EXTRACTED]
-- [[decorFolder()_1]] - `references` [EXTRACTED]
-- [[publicState()_1]] - `references` [EXTRACTED]
-- [[refreshBaseLabels()_1]] - `references` [EXTRACTED]
-- [[rememberOriginals()_1]] - `references` [EXTRACTED]
-- [[sync()_3]] - `references` [EXTRACTED]
+- [[DecorService.init()_3]] - `contains` [EXTRACTED]
+- [[DecorService.init()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_175
+#graphify/document #graphify/EXTRACTED #community/Community_152

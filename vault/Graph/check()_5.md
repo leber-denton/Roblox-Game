@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/check().md"
+source_file: "vault/Graph/check()_3.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 309"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_309
 ---
 
-# check().md
+# check()
 
 ## Connections
-- [[DecorData.footprint()_1]] - `references` [EXTRACTED]
-- [[DecorData.inBounds()_1]] - `references` [EXTRACTED]
-- [[DecorData.toLocal()_1]] - `references` [EXTRACTED]
-- [[DecorData.toWorld()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[check()_6]] - `contains` [EXTRACTED]
-- [[overlaps()_1_1]] - `references` [EXTRACTED]
-- [[staticParts()_1]] - `references` [EXTRACTED]
+- [[Connections_3717]] - `contains` [EXTRACTED]
+- [[check()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_309

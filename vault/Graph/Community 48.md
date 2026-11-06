@@ -12,8 +12,8 @@ tags:
 # Community 48
 
 ## Connections
-- [[Live Query (requires Dataview plugin)_15]] - `contains` [EXTRACTED]
-- [[Members_15]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_104]] - `contains` [EXTRACTED]
+- [[Members_106]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 48]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_143

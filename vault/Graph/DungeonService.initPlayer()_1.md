@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/DungeonService.initPlayer().md"
+source_file: "vault/Graph/DungeonService.initPlayer()_1.md"
 type: "document"
-community: "Community 41"
+community: "Community 1131"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_1131
 ---
 
-# DungeonService.initPlayer().md
+# DungeonService.initPlayer()_1.md
 
 ## Connections
+- [[Connections_366]] - `references` [EXTRACTED]
 - [[DungeonService.initPlayer()_2]] - `contains` [EXTRACTED]
-- [[DungeonService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[onPlayerAdded()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_41
+#graphify/document #graphify/EXTRACTED #community/Community_1131

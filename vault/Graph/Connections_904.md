@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/watchProgress().md"
+source_file: "vault/Graph/Connections_660.md"
 type: "document"
-community: "Community 377"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_377
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[watchProgress()_2]] - `contains` [EXTRACTED]
+- [[Connections_905]] - `contains` [EXTRACTED]
+- [[Connections_660]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_377
+#graphify/document #graphify/EXTRACTED #community/Community_12

@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/fadeAndDestroy().md"
+source_file: "vault/Graph/fadeAndDestroy()_1.md"
 type: "document"
 community: "Community 206"
 location: "L1"
@@ -9,11 +9,13 @@ tags:
   - community/Community_206
 ---
 
-# fadeAndDestroy().md
+# fadeAndDestroy()_1.md
 
 ## Connections
+- [[_COMMUNITY_Community 206]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[fadeAndDestroy()_2]] - `contains` [EXTRACTED]
+- [[fadeAndDestroy()_1_1]] - `contains` [EXTRACTED]
+- [[fadeAndDestroy()_2]] - `references` [EXTRACTED]
 - [[onNotify()_1]] - `references` [EXTRACTED]
 - [[showAnnouncement()_1]] - `references` [EXTRACTED]
 

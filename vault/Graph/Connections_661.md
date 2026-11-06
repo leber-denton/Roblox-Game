@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/commands.opTeam().md"
+source_file: "vault/Graph/Connections_661.md"
 type: "document"
-community: "Community 229"
-location: "L14"
+community: "Community 12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_229
+  - community/Community_12
 ---
 
-# Connections
+# Connections_661.md
 
 ## Connections
-- [[commands.opTeam()_2]] - `contains` [EXTRACTED]
+- [[Connections_906]] - `contains` [EXTRACTED]
+- [[Connections_660]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_229
+#graphify/document #graphify/EXTRACTED #community/Community_12

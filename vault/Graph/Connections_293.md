@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/mkPart().md"
+source_file: "vault/Graph/corner()_2.md"
 type: "document"
-community: "Community 136"
+community: "Community 1125"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_136
+  - community/Community_1125
 ---
 
 # Connections
 
 ## Connections
-- [[mkPart()_2]] - `contains` [EXTRACTED]
+- [[corner()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_136
+#graphify/document #graphify/EXTRACTED #community/Community_1125

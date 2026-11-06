@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Showcase.server.luau.md"
+source_file: "vault/Graph/push()_1.md"
 type: "document"
-community: "Community 220"
+community: "Community 1197"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_220
+  - community/Community_1197
 ---
 
 # Connections
 
 ## Connections
-- [[Showcase.server.luau_1]] - `contains` [EXTRACTED]
+- [[push()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_220
+#graphify/document #graphify/EXTRACTED #community/Community_1197

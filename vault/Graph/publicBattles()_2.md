@@ -1,18 +1,20 @@
 ---
 source_file: "vault/Graph/publicBattles().md"
 type: "document"
-community: "Community 123"
-location: "L12"
+community: "Community 642"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_642
 ---
 
-# publicBattles()
+# publicBattles().md
 
 ## Connections
-- [[Connections_198]] - `contains` [EXTRACTED]
-- [[publicBattles()_1]] - `contains` [EXTRACTED]
+- [[Functions_84_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
+- [[publicBattles()_3]] - `contains` [EXTRACTED]
+- [[setupActivities()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_642

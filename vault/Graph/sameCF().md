@@ -12,7 +12,7 @@ tags:
 # sameCF()
 
 ## Connections
-- [[ModelSyncTests.luau_2]] - `contains` [EXTRACTED]
+- [[ModelSyncTests.luau_4]] - `contains` [EXTRACTED]
 - [[Tests.run()]] - `calls` [EXTRACTED]
 - [[near()]] - `calls` [EXTRACTED]
 

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/floorOf().md"
+source_file: "vault/Graph/floorOf()_2.md"
 type: "document"
-community: "Community 175"
-location: "L12"
+community: "Community 152"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_175
+  - community/Community_152
 ---
 
-# floorOf()
+# floorOf()_2.md
 
 ## Connections
-- [[Connections_500]] - `contains` [EXTRACTED]
-- [[floorOf()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 175]] - `references` [EXTRACTED]
+- [[floorOf()_1]] - `references` [EXTRACTED]
+- [[floorOf()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_175
+#graphify/document #graphify/EXTRACTED #community/Community_152

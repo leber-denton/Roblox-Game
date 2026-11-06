@@ -12,9 +12,9 @@ tags:
 # Story
 
 ## Connections
-- [[CodeStory]] - `contains` [EXTRACTED]
-- [[Functions_52]] - `contains` [EXTRACTED]
-- [[Required by_57]] - `contains` [EXTRACTED]
-- [[Requires_56]] - `contains` [EXTRACTED]
+- [[CodeStory_2]] - `contains` [EXTRACTED]
+- [[Functions_53]] - `contains` [EXTRACTED]
+- [[Required by_47]] - `contains` [EXTRACTED]
+- [[Requires_52]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_19

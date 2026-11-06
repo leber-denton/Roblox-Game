@@ -1,37 +1,31 @@
 ---
 type: community
-members: 25
+members: 19
 ---
 
 # Community 115
 
-**Members:** 25 nodes
+**Members:** 19 nodes
 
 ## Members
 - [[Community 43]] - document - vault/Graph/_COMMUNITY_Community 43.md
-- [[Connections_124]] - document - vault/Graph/Layout_1.md
-- [[Connections_125]] - document - vault/Graph/Layout.md
-- [[Connections_126]] - document - vault/Graph/README.md
-- [[Connections_127]] - document - vault/Graph/Roblox-Game.md
-- [[Connections_128]] - document - vault/Graph/Status.md
-- [[Connections_129]] - document - vault/Graph/Syncing to Studio.md
-- [[Connections_130]] - document - vault/Graph/Tools.md
+- [[Connections_360]] - document - vault/Graph/README.md
+- [[Connections_361]] - document - vault/Graph/Roblox-Game_1.md
+- [[Connections_362]] - document - vault/Graph/Status_1.md
+- [[Connections_363]] - document - vault/Graph/Syncing to Studio_1.md
+- [[Connections_364]] - document - vault/Graph/Tools_1.md
 - [[GraphREADME]] - document - vault/Graph/README.md
 - [[GraphREADME_1]] - document - vault/Graph/README.md
-- [[Layout_2]] - document - vault/Graph/Layout.md
-- [[Layout]] - document - vault/Graph/Layout.md
-- [[Layout_1]] - document - vault/Graph/Layout_1.md
-- [[Layout_1_1]] - document - vault/Graph/Layout_1.md
-- [[Live Query (requires Dataview plugin)_4]] - document - vault/Graph/_COMMUNITY_Community 43.md
-- [[Members_4]] - document - vault/Graph/_COMMUNITY_Community 43.md
-- [[Roblox-Game]] - document - vault/Graph/Roblox-Game.md
-- [[Roblox-Game_1]] - document - vault/Graph/Roblox-Game.md
-- [[Status]] - document - vault/Graph/Status.md
-- [[Status_1]] - document - vault/Graph/Status.md
-- [[Syncing to Studio]] - document - vault/Graph/Syncing to Studio.md
-- [[Syncing to Studio_1]] - document - vault/Graph/Syncing to Studio.md
-- [[Tools]] - document - vault/Graph/Tools.md
-- [[Tools_1]] - document - vault/Graph/Tools.md
+- [[Live Query (requires Dataview plugin)_85]] - document - vault/Graph/_COMMUNITY_Community 43.md
+- [[Members_85]] - document - vault/Graph/_COMMUNITY_Community 43.md
+- [[Roblox-Game]] - document - vault/Graph/Roblox-Game_1.md
+- [[Roblox-Game_1]] - document - vault/Graph/Roblox-Game_1.md
+- [[Status]] - document - vault/Graph/Status_1.md
+- [[Status_1]] - document - vault/Graph/Status_1.md
+- [[Syncing to Studio]] - document - vault/Graph/Syncing to Studio_1.md
+- [[Syncing to Studio_1]] - document - vault/Graph/Syncing to Studio_1.md
+- [[Tools]] - document - vault/Graph/Tools_1.md
+- [[Tools_1]] - document - vault/Graph/Tools_1.md
 - [[_COMMUNITY_Community 43]] - document - vault/Graph/_COMMUNITY_Community 43.md
 
 ## Live Query (requires Dataview plugin)
@@ -40,3 +34,15 @@ members: 25
 TABLE source_file, type FROM #community/Community_115
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Community 209]]
+- 2 edges to [[_COMMUNITY_Community 968]]
+- 1 edge to [[_COMMUNITY_Community 445]]
+- 1 edge to [[_COMMUNITY_Community 599]]
+- 1 edge to [[_COMMUNITY_Community 953]]
+- 1 edge to [[_COMMUNITY_Community 187]]
+- 1 edge to [[_COMMUNITY_Community 401]]
+
+## Top bridge nodes
+- [[_COMMUNITY_Community 43]] - degree 15, connects to 7 communities

@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_24.md"
+source_file: "vault/Graph/Functions_88.md"
 type: "document"
-community: "Community 102"
-location: "L1"
+community: "Community 1280"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_102
+  - community/Community_1280
 ---
 
-# Functions_24.md
+# Functions
 
 ## Connections
-- [[Functions_24_1]] - `contains` [EXTRACTED]
-- [[Functions_4]] - `references` [EXTRACTED]
-- [[NpcGuard_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 38]] - `references` [EXTRACTED]
+- [[Connections_1339]] - `contains` [EXTRACTED]
+- [[Functions_88]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_102
+#graphify/document #graphify/EXTRACTED #community/Community_1280

@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/dialogue().md"
+source_file: "vault/Graph/dialogue()_1.md"
 type: "document"
-community: "Community 30"
+community: "Community 1130"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_1130
 ---
 
-# dialogue().md
+# dialogue()_1.md
 
 ## Connections
-- [[TutorialService.luau_1]] - `references` [EXTRACTED]
-- [[TutorialService.onShop()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
+- [[Connections_365]] - `references` [EXTRACTED]
 - [[dialogue()_2]] - `contains` [EXTRACTED]
-- [[profIntro()_1]] - `references` [EXTRACTED]
-- [[rivalChallenge()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_1130

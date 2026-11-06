@@ -1,19 +1,20 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Bag.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau"
 type: "code"
-community: "Community 20"
-location: "L340"
+community: "Community 420"
+location: "L256"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_20
+  - community/Community_420
 ---
 
 # setOpen()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
-- [[refresh()_1]] - `calls` [EXTRACTED]
-- [[updateVisible()_2]] - `calls` [EXTRACTED]
+- [[CreatureIndex.client.luau_5]] - `contains` [EXTRACTED]
+- [[clearBody()]] - `calls` [EXTRACTED]
+- [[showGrid()]] - `calls` [EXTRACTED]
+- [[updateVisible()_3]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_20
+#graphify/code #graphify/EXTRACTED #community/Community_420

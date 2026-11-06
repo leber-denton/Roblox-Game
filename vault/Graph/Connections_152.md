@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/onCharacter().md"
+source_file: "vault/Graph/showDetail()_1.md"
 type: "document"
-community: "Community 119"
+community: "Community 106"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_119
+  - community/Community_106
 ---
 
 # Connections
 
 ## Connections
-- [[onCharacter()_2]] - `contains` [EXTRACTED]
+- [[showDetail()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_119
+#graphify/document #graphify/EXTRACTED #community/Community_106

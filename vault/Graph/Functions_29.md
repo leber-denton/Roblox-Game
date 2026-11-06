@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_29.md"
+source_file: "vault/Graph/Functions_83.md"
 type: "document"
-community: "Community 118"
-location: "L1"
+community: "Community 1421"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_118
+  - community/Community_1421
 ---
 
-# Functions_29.md
+# Functions
 
 ## Connections
-- [[ArenaManager_1]] - `references` [EXTRACTED]
-- [[Functions_29_1]] - `contains` [EXTRACTED]
-- [[Functions_7]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 50]] - `references` [EXTRACTED]
+- [[Connections_1778]] - `contains` [EXTRACTED]
+- [[Functions_83_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_118
+#graphify/document #graphify/EXTRACTED #community/Community_1421

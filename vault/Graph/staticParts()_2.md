@@ -12,7 +12,7 @@ tags:
 # staticParts()
 
 ## Connections
-- [[Connections_1052]] - `contains` [EXTRACTED]
+- [[Connections_5870]] - `contains` [EXTRACTED]
 - [[staticParts()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_86

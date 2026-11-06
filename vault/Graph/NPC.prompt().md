@@ -16,8 +16,8 @@ tags:
 - [[NPC.luau]] - `contains` [EXTRACTED]
 - [[RouteTrainerService.init()]] - `calls` [INFERRED]
 - [[TutorialService.init()]] - `calls` [INFERRED]
-- [[setup()_1]] - `calls` [INFERRED]
 - [[setup()]] - `calls` [INFERRED]
+- [[setup()_1]] - `calls` [INFERRED]
 - [[setupWorld()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/INFERRED #community/Community_15

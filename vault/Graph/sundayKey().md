@@ -12,7 +12,7 @@ tags:
 # sundayKey()
 
 ## Connections
-- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
 - [[claimLastSunday()]] - `calls` [EXTRACTED]
 - [[finishRanked()]] - `calls` [EXTRACTED]
 - [[pacificDate()]] - `calls` [EXTRACTED]

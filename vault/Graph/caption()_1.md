@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/caption().md"
+source_file: "vault/Graph/caption()_2.md"
 type: "document"
-community: "Community 9"
-location: "L1"
+community: "Community 1033"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_1033
 ---
 
-# caption().md
+# caption()
 
 ## Connections
-- [[SocialService.display()_1]] - `references` [EXTRACTED]
-- [[SocialService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
+- [[Connections_89]] - `contains` [EXTRACTED]
 - [[caption()_2]] - `contains` [EXTRACTED]
-- [[setupCommunity()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_1033

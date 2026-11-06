@@ -1,18 +1,21 @@
 ---
 source_file: "vault/Graph/setStages().md"
 type: "document"
-community: "Community 177"
-location: "L12"
+community: "Community 120"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_177
+  - community/Community_120
 ---
 
-# setStages()
+# setStages().md
 
 ## Connections
-- [[Connections_513]] - `contains` [EXTRACTED]
-- [[setStages()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
+- [[applyState()_2]] - `references` [EXTRACTED]
+- [[new()_9_1]] - `references` [EXTRACTED]
+- [[playTurn()_2]] - `references` [EXTRACTED]
+- [[setStages()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_177
+#graphify/document #graphify/EXTRACTED #community/Community_120

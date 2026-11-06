@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/node().md"
 type: "document"
-community: "Community 89"
+community: "Community 244"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_89
+  - community/Community_244
 ---
 
 # node()
 
 ## Connections
-- [[Connections_1096]] - `contains` [EXTRACTED]
+- [[Connections_3427]] - `contains` [EXTRACTED]
 - [[node()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_89
+#graphify/document #graphify/EXTRACTED #community/Community_244

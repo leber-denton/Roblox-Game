@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/tier().md"
 type: "document"
-community: "Community 123"
+community: "Community 229"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_229
 ---
 
 # tier().md
@@ -18,4 +18,4 @@ tags:
 - [[syncRank()_1]] - `references` [EXTRACTED]
 - [[tier()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_229

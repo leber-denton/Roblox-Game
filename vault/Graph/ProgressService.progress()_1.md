@@ -1,15 +1,15 @@
 ---
-source_file: "vault/Graph/ProgressService.progress().md"
+source_file: "vault/Graph/ProgressService.progress()_1.md"
 type: "document"
-community: "Community 34"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_34
+  - community/Community_168
 ---
 
-# ProgressService.progress().md
+# ProgressService.progress()_1.md
 
 ## Connections
 - [[PlayerData.addCoins()_1]] - `references` [EXTRACTED]
@@ -17,8 +17,11 @@ tags:
 - [[PlayerData.get()_1]] - `references` [EXTRACTED]
 - [[ProgressService.init()_1]] - `references` [EXTRACTED]
 - [[ProgressService.luau_1]] - `references` [EXTRACTED]
-- [[ProgressService.progress()_2]] - `contains` [EXTRACTED]
+- [[ProgressService.progress()_1_1]] - `contains` [EXTRACTED]
+- [[ProgressService.progress()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 21]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 - [[syncQuests()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_34
+#graphify/document #graphify/EXTRACTED #community/Community_168

@@ -1,25 +1,26 @@
 ---
-source_file: "vault/Code/RouteTrainerService.md"
+source_file: "vault/Graph/CodeRouteTrainerService.md"
 type: "document"
-community: "Community 13"
+community: "Community 119"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_119
 ---
 
-# Code/RouteTrainerService.md
+# CodeRouteTrainerService.md
 
 ## Connections
-- [[CodeBaseManager]] - `references` [EXTRACTED]
 - [[CodeBattleService]] - `references` [EXTRACTED]
-- [[CodeCode Map]] - `references` [EXTRACTED]
 - [[CodeGameData]] - `references` [EXTRACTED]
 - [[CodeMain]] - `references` [EXTRACTED]
 - [[CodeNPC]] - `references` [EXTRACTED]
 - [[CodePlayerData]] - `references` [EXTRACTED]
+- [[CodeRouteTrainerService_1]] - `contains` [EXTRACTED]
 - [[CodeTutorialService]] - `references` [EXTRACTED]
-- [[RouteTrainerService_2]] - `contains` [EXTRACTED]
+- [[RouteTrainerService_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_119

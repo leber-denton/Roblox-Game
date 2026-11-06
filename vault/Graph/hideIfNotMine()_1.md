@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/hideIfNotMine().md"
 type: "document"
-community: "Community 334"
+community: "Community 1284"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_334
+  - community/Community_1284
 ---
 
 # hideIfNotMine().md
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[hideIfNotMine()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_334
+#graphify/document #graphify/EXTRACTED #community/Community_1284

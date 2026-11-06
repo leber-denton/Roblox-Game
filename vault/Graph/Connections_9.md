@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DecorService.onLoaded().md"
+source_file: "vault/Graph/switch().md"
 type: "document"
-community: "Community 101"
+community: "Community 100"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_101
+  - community/Community_100
 ---
 
 # Connections
 
 ## Connections
-- [[DecorService.onLoaded()_2]] - `contains` [EXTRACTED]
+- [[switch()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_101
+#graphify/document #graphify/EXTRACTED #community/Community_100

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/nthSunday().md"
+source_file: "vault/Graph/Connections_353.md"
 type: "document"
-community: "Community 134"
-location: "L14"
+community: "Community 1124"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1124
 ---
 
 # Connections
 
 ## Connections
-- [[nthSunday()_2]] - `contains` [EXTRACTED]
+- [[Connections_289]] - `contains` [EXTRACTED]
+- [[Connections_353]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1124

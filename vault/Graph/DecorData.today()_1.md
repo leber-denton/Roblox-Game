@@ -1,22 +1,22 @@
 ---
-source_file: "vault/Graph/DecorData.today().md"
+source_file: "vault/Graph/DecorData.today()_1.md"
 type: "document"
-community: "Community 174"
+community: "Community 317"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_174
+  - community/Community_317
 ---
 
-# DecorData.today().md
+# DecorData.today()_1.md
 
 ## Connections
-- [[DecorData.luau_1]] - `references` [EXTRACTED]
-- [[DecorData.today()_2]] - `contains` [EXTRACTED]
+- [[DecorData.luau_1_1]] - `references` [EXTRACTED]
+- [[DecorData.today()_1_1]] - `contains` [EXTRACTED]
+- [[DecorData.today()_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.buyDaily()_1]] - `references` [EXTRACTED]
-- [[buildBaseProps()_1]] - `references` [EXTRACTED]
-- [[publicState()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 174]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 317]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_174
+#graphify/document #graphify/EXTRACTED #community/Community_317

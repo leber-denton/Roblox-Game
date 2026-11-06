@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 299
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_754]] - document - vault/Graph/AdminPanel.md
-- [[GraphAdminPanel]] - document - vault/Graph/AdminPanel.md
-- [[GraphAdminPanel_1]] - document - vault/Graph/AdminPanel.md
+- [[Connections_3679]] - document - vault/Graph/Connections_347.md
+- [[Connections_3680]] - document - vault/Graph/Connections_347.md
+- [[Connections_3681]] - document - vault/Graph/Connections_348.md
+- [[Connections_3682]] - document - vault/Graph/Connections_348.md
+- [[Connections_347_1]] - document - vault/Graph/Connections_347.md
+- [[Connections_348_1]] - document - vault/Graph/Connections_348.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +23,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 93]]
+- 1 edge to [[_COMMUNITY_Community 12]]
 
 ## Top bridge nodes
-- [[GraphAdminPanel]] - degree 2, connects to 1 community
+- [[Connections_347_1]] - degree 3, connects to 1 community

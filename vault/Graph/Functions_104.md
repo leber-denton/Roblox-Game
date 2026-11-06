@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/BattleService.md"
+source_file: "vault/Graph/Functions_104.md"
 type: "document"
-community: "Community 64"
-location: "L29"
+community: "Community 1269"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_64
+  - community/Community_1269
 ---
 
-# Functions
+# Functions_104.md
 
 ## Connections
-- [[BattleService_2]] - `contains` [EXTRACTED]
+- [[Functions_15]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_64
+#graphify/document #graphify/EXTRACTED #community/Community_1269

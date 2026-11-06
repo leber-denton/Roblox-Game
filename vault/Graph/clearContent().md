@@ -12,7 +12,7 @@ tags:
 # clearContent()
 
 ## Connections
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
-- [[Functions_77]] - `references` [INFERRED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[Functions_103]] - `references` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

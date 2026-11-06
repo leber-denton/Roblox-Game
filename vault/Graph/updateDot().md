@@ -12,6 +12,6 @@ tags:
 # updateDot()
 
 ## Connections
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/ModelSyncTests.luau.md"
+source_file: "vault/Graph/ModelSyncTests.luau_1.md"
 type: "document"
 community: "Community 140"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_140
 ---
 
-# ModelSyncTests.luau.md
+# ModelSyncTests.luau
 
 ## Connections
+- [[Connections_1730]] - `contains` [EXTRACTED]
 - [[ModelSyncTests.luau_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_140

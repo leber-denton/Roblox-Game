@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/RareEventService.summon().md"
+source_file: "vault/Graph/BaseManager.isExpansionUnlocked()_2.md"
 type: "document"
-community: "Community 237"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_237
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[RareEventService.summon()_2]] - `contains` [EXTRACTED]
+- [[BaseManager.isExpansionUnlocked()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_237
+#graphify/document #graphify/EXTRACTED #community/Community_12

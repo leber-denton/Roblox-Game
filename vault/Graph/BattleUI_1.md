@@ -12,8 +12,10 @@ tags:
 # BattleUI_1.md
 
 ## Connections
-- [[BattleUI_1_1]] - `contains` [EXTRACTED]
+- [[BattleUI_1_3]] - `contains` [EXTRACTED]
+- [[BattleUI_1_1]] - `references` [EXTRACTED]
 - [[GraphBattleUI]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 186]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_186

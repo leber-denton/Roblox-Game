@@ -1,22 +1,24 @@
 ---
-source_file: "vault/Graph/ride().md"
+source_file: "vault/Graph/ride()_1.md"
 type: "document"
-community: "Community 87"
+community: "Community 134"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_87
+  - community/Community_134
 ---
 
-# ride().md
+# ride()_1.md
 
 ## Connections
 - [[DungeonService.init()_1]] - `references` [EXTRACTED]
-- [[DungeonService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 319]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
 - [[hipHeight()_1]] - `references` [EXTRACTED]
-- [[ride()_2]] - `contains` [EXTRACTED]
+- [[ride()_1_1]] - `contains` [EXTRACTED]
+- [[ride()_2]] - `references` [EXTRACTED]
 - [[room()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_87
+#graphify/document #graphify/EXTRACTED #community/Community_134

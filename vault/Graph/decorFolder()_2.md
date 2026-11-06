@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/decorFolder().md"
+source_file: "vault/Graph/decorFolder()_2.md"
 type: "document"
-community: "Community 98"
-location: "L12"
+community: "Community 174"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_174
 ---
 
-# decorFolder()
+# decorFolder()_2.md
 
 ## Connections
-- [[Connections_1181]] - `contains` [EXTRACTED]
-- [[decorFolder()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 174]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 98]] - `references` [EXTRACTED]
+- [[decorFolder()_1]] - `references` [EXTRACTED]
+- [[decorFolder()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_98
+#graphify/document #graphify/EXTRACTED #community/Community_174

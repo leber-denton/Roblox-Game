@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/runDialogue().md"
+source_file: "vault/Graph/Connections_82.md"
 type: "document"
-community: "Community 109"
-location: "L14"
+community: "Community 1024"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_109
+  - community/Community_1024
 ---
 
-# Connections
+# Connections_82.md
 
 ## Connections
-- [[runDialogue()_2]] - `contains` [EXTRACTED]
+- [[BattleData.movesAt()_1]] - `references` [EXTRACTED]
+- [[Connections_71]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_109
+#graphify/document #graphify/EXTRACTED #community/Community_1024

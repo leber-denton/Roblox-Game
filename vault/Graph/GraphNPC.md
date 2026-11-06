@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[NPC]] - `contains` [EXTRACTED]
-- [[NPC_1]] - `references` [EXTRACTED]
+- [[NPC_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_159

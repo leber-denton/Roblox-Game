@@ -12,7 +12,7 @@ tags:
 # despawn()
 
 ## Connections
-- [[Functions_54]] - `references` [INFERRED]
+- [[Functions_59]] - `references` [INFERRED]
 - [[RareEventService.luau]] - `contains` [EXTRACTED]
 - [[RareEventService.trigger()]] - `calls` [EXTRACTED]
 - [[finished()]] - `calls` [EXTRACTED]

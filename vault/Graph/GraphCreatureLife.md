@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/CreatureLife.md"
+source_file: "vault/Graph/GraphCreatureLife.md"
 type: "document"
 community: "Community 124"
 location: "L1"
@@ -9,10 +9,11 @@ tags:
   - community/Community_124
 ---
 
-# Graph/CreatureLife.md
+# GraphCreatureLife.md
 
 ## Connections
-- [[CreatureLife]] - `contains` [EXTRACTED]
 - [[CreatureLife_1]] - `references` [EXTRACTED]
+- [[GraphCreatureLife_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 124]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_124

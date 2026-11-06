@@ -1,29 +1,18 @@
 ---
-source_file: "vault/Graph/setupCommunity().md"
+source_file: "vault/Graph/setupCommunity()_2.md"
 type: "document"
-community: "Community 9"
-location: "L1"
+community: "Community 659"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_659
 ---
 
-# setupCommunity().md
+# setupCommunity()
 
 ## Connections
-- [[BaseManager.snapshot()_1]] - `references` [EXTRACTED]
-- [[Functions_1_1]] - `references` [EXTRACTED]
-- [[SocialService.init()_1]] - `references` [EXTRACTED]
-- [[SocialService.luau_1]] - `references` [EXTRACTED]
-- [[SocialService.request()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[boardRows()_1]] - `references` [EXTRACTED]
-- [[busyReason()_1]] - `references` [EXTRACTED]
-- [[caption()_1]] - `references` [EXTRACTED]
-- [[fixture()_1]] - `references` [EXTRACTED]
-- [[plazaCenter()_1]] - `references` [EXTRACTED]
-- [[promptAt()_1]] - `references` [EXTRACTED]
+- [[Connections_4952]] - `contains` [EXTRACTED]
 - [[setupCommunity()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_659

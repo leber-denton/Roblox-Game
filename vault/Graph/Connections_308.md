@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/setModelHidden().md"
+source_file: "vault/Graph/build()_1.md"
 type: "document"
-community: "Community 138"
+community: "Community 113"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_113
 ---
 
 # Connections
 
 ## Connections
-- [[setModelHidden()_2]] - `contains` [EXTRACTED]
+- [[build()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_113

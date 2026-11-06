@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/AdminPanel.md"
+source_file: "vault/Code/SaveService.md"
 type: "document"
-community: "Community 3"
+community: "Community 286"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_3
+  - community/Community_286
 ---
 
 # Requires
 
 ## Connections
-- [[AdminPanel_2]] - `contains` [EXTRACTED]
+- [[SaveService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_3
+#graphify/document #graphify/EXTRACTED #community/Community_286

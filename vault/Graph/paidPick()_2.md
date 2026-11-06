@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/paidPick().md"
+source_file: "vault/Graph/paidPick()_2.md"
 type: "document"
-community: "Community 242"
-location: "L12"
+community: "Community 347"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_242
+  - community/Community_347
 ---
 
-# paidPick()
+# paidPick()_2.md
 
 ## Connections
-- [[Connections_718]] - `contains` [EXTRACTED]
-- [[paidPick()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 242]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 347]] - `references` [EXTRACTED]
+- [[paidPick()_1]] - `references` [EXTRACTED]
+- [[paidPick()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_242
+#graphify/document #graphify/EXTRACTED #community/Community_347

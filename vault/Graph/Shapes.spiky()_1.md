@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/Shapes.spiky().md"
 type: "document"
-community: "Community 298"
+community: "Community 137"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_298
+  - community/Community_137
 ---
 
 # Shapes.spiky().md
@@ -16,4 +16,4 @@ tags:
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
 - [[darker()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_298
+#graphify/document #graphify/EXTRACTED #community/Community_137

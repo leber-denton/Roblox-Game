@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleFX.levelUp().md"
+source_file: "vault/Graph/Connections_492.md"
 type: "document"
-community: "Community 197"
+community: "Community 1179"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_197
+  - community/Community_1179
 ---
 
 # Connections
 
 ## Connections
-- [[BattleFX.levelUp()_2]] - `contains` [EXTRACTED]
+- [[Connections_567]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_197
+#graphify/document #graphify/EXTRACTED #community/Community_1179

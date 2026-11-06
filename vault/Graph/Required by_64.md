@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/Regions.md"
+source_file: "vault/Graph/Required by_28.md"
 type: "document"
-community: "Community 215"
-location: "L7"
+community: "Community 225"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_215
+  - community/Community_225
 ---
 
 # Required by
 
 ## Connections
-- [[Regions_2]] - `contains` [EXTRACTED]
+- [[Connections_3197]] - `contains` [EXTRACTED]
+- [[Required by_28_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_215
+#graphify/document #graphify/EXTRACTED #community/Community_225

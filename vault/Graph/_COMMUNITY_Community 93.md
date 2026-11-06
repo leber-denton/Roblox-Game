@@ -1,34 +1,219 @@
 ---
 type: community
-members: 21
+members: 206
 ---
 
 # Community 93
 
-**Members:** 21 nodes
+**Members:** 206 nodes
 
 ## Members
-- [[_COMMUNITY_Community 3]] - document - vault/Graph/_COMMUNITY_Community 3.md
-- [[button()_4]] - document - vault/Graph/button().md
-- [[buyResult()_2]] - document - vault/Graph/buyResult().md
-- [[call()_2]] - document - vault/Graph/call().md
-- [[gridLayout()_2]] - document - vault/Graph/gridLayout().md
-- [[heading()_2]] - document - vault/Graph/heading().md
-- [[itemCard()_2]] - document - vault/Graph/itemCard().md
-- [[label()_2_1]] - document - vault/Graph/label()_2.md
-- [[listLayout()_2]] - document - vault/Graph/listLayout().md
-- [[new()_7_1]] - document - vault/Graph/new()_7.md
-- [[openMenu()_2]] - document - vault/Graph/openMenu().md
-- [[preview()_2_1]] - document - vault/Graph/preview()_2.md
-- [[setStatus()_4]] - document - vault/Graph/setStatus().md
-- [[showReveal()_2]] - document - vault/Graph/showReveal().md
-- [[tabs.Base()_2]] - document - vault/Graph/tabs.Base().md
-- [[tabs.Crates()_2]] - document - vault/Graph/tabs.Crates().md
-- [[tabs.Daily()_2]] - document - vault/Graph/tabs.Daily().md
-- [[tabs.Items()_2]] - document - vault/Graph/tabs.Items().md
-- [[tabs.Robux()_2]] - document - vault/Graph/tabs.Robux().md
-- [[tabs.Shop()_2]] - document - vault/Graph/tabs.Shop().md
-- [[tabs.Themes()_2]] - document - vault/Graph/tabs.Themes().md
+- [[Community 37_1]] - document - vault/Graph/Community 37.md
+- [[Community 37_2]] - document - vault/Graph/Community 37.md
+- [[Connections_6159]] - document - vault/Graph/actions.buy()_1.md
+- [[Connections_6160]] - document - vault/Graph/actions.buy()_2.md
+- [[Connections_6161]] - document - vault/Graph/actions.buyDaily()_1.md
+- [[Connections_6162]] - document - vault/Graph/actions.buyDaily()_2.md
+- [[Connections_6163]] - document - vault/Graph/actions.canopy()_1.md
+- [[Connections_6164]] - document - vault/Graph/actions.canopy()_2.md
+- [[Connections_6165]] - document - vault/Graph/actions.openBox()_1.md
+- [[Connections_6166]] - document - vault/Graph/actions.openBox()_2.md
+- [[Connections_6167]] - document - vault/Graph/actions.shardBuy()_1.md
+- [[Connections_6168]] - document - vault/Graph/actions.shardBuy()_2.md
+- [[Connections_6169]] - document - vault/Graph/actions.state()_1.md
+- [[Connections_6170]] - document - vault/Graph/actions.state()_2.md
+- [[Connections_6171]] - document - vault/Graph/actions.theme()_1.md
+- [[Connections_6172]] - document - vault/Graph/actions.theme()_2.md
+- [[Connections_6173]] - document - vault/Graph/actions.upgrade()_1.md
+- [[Connections_6174]] - document - vault/Graph/actions.upgrade()_2.md
+- [[Connections_6175]] - document - vault/Graph/addEffect()_1.md
+- [[Connections_6176]] - document - vault/Graph/addEffect()_2.md
+- [[Connections_6177]] - document - vault/Graph/canPlace()_1.md
+- [[Connections_6178]] - document - vault/Graph/canPlace()_2.md
+- [[Connections_6179]] - document - vault/Graph/check()_5.md
+- [[Connections_6180]] - document - vault/Graph/check()_6.md
+- [[Connections_6181]] - document - vault/Graph/Community 37.md
+- [[Connections_6182]] - document - vault/Graph/DecorData.boxOdds()_1.md
+- [[Connections_6183]] - document - vault/Graph/DecorData.boxOdds()_2.md
+- [[Connections_6184]] - document - vault/Graph/DecorData.describe()_1.md
+- [[Connections_6185]] - document - vault/Graph/DecorData.describe()_2.md
+- [[Connections_6186]] - document - vault/Graph/DecorData.footprint()_1.md
+- [[Connections_6187]] - document - vault/Graph/DecorData.footprint()_2.md
+- [[Connections_6188]] - document - vault/Graph/DecorData.inBounds()_1.md
+- [[Connections_6189]] - document - vault/Graph/DecorData.inBounds()_2.md
+- [[Connections_6190]] - document - vault/Graph/DecorData.luau_1.md
+- [[Connections_6191]] - document - vault/Graph/DecorData.luau_2.md
+- [[Connections_6192]] - document - vault/Graph/DecorData.side()_1.md
+- [[Connections_6193]] - document - vault/Graph/DecorData.side()_2.md
+- [[Connections_6194]] - document - vault/Graph/DecorData.toLocal()_1.md
+- [[Connections_6195]] - document - vault/Graph/DecorData.toLocal()_2.md
+- [[Connections_6196]] - document - vault/Graph/DecorData.toWorld()_1.md
+- [[Connections_6197]] - document - vault/Graph/DecorData.toWorld()_2.md
+- [[Connections_6198]] - document - vault/Graph/DecorData.zRange()_1.md
+- [[Connections_6199]] - document - vault/Graph/DecorData.zRange()_2.md
+- [[Connections_6200]] - document - vault/Graph/grant()_1.md
+- [[Connections_6201]] - document - vault/Graph/grant()_2.md
+- [[Connections_6202]] - document - vault/Graph/GraphWander.md
+- [[Connections_6203]] - document - vault/Graph/overlaps()_1_1.md
+- [[Connections_6204]] - document - vault/Graph/overlaps()_2.md
+- [[Connections_6205]] - document - vault/Graph/overlaps()_3.md
+- [[Connections_6206]] - document - vault/Graph/overlaps()_4.md
+- [[Connections_6207]] - document - vault/Graph/PlayerData.coins()_1.md
+- [[Connections_6208]] - document - vault/Graph/PlayerData.coins()_2.md
+- [[Connections_6209]] - document - vault/Graph/PlayerData.spend()_1.md
+- [[Connections_6210]] - document - vault/Graph/PlayerData.spend()_2.md
+- [[Connections_6211]] - document - vault/Graph/Required by_80.md
+- [[Connections_6212]] - document - vault/Graph/Required by_87.md
+- [[Connections_6213]] - document - vault/Graph/Requires_77.md
+- [[Connections_6214]] - document - vault/Graph/Requires_88.md
+- [[Connections_6215]] - document - vault/Graph/rgb()_1.md
+- [[Connections_6216]] - document - vault/Graph/rgb()_2.md
+- [[Connections_6217]] - document - vault/Graph/rollBox()_1.md
+- [[Connections_6218]] - document - vault/Graph/rollBox()_2.md
+- [[Connections_6219]] - document - vault/Graph/serialize()_1.md
+- [[Connections_6220]] - document - vault/Graph/serialize()_2.md
+- [[Connections_6221]] - document - vault/Graph/staticParts()_1.md
+- [[Connections_6222]] - document - vault/Graph/staticParts()_2.md
+- [[Connections_6223]] - document - vault/Graph/Wander_1.md
+- [[Connections_6224]] - document - vault/Graph/Wander_2.md
+- [[Connections_6225]] - document - vault/Graph/Wander_3.md
+- [[DecorData.boxOdds()_1_1]] - document - vault/Graph/DecorData.boxOdds()_1.md
+- [[DecorData.boxOdds()_1_2]] - document - vault/Graph/DecorData.boxOdds()_1.md
+- [[DecorData.boxOdds()_2_1]] - document - vault/Graph/DecorData.boxOdds()_2.md
+- [[DecorData.boxOdds()_2_2]] - document - vault/Graph/DecorData.boxOdds()_2.md
+- [[DecorData.describe()_1_1]] - document - vault/Graph/DecorData.describe()_1.md
+- [[DecorData.describe()_1_2]] - document - vault/Graph/DecorData.describe()_1.md
+- [[DecorData.describe()_2_1]] - document - vault/Graph/DecorData.describe()_2.md
+- [[DecorData.describe()_2_2]] - document - vault/Graph/DecorData.describe()_2.md
+- [[DecorData.footprint()_1_1]] - document - vault/Graph/DecorData.footprint()_1.md
+- [[DecorData.footprint()_1_2]] - document - vault/Graph/DecorData.footprint()_1.md
+- [[DecorData.footprint()_2_1]] - document - vault/Graph/DecorData.footprint()_2.md
+- [[DecorData.footprint()_2_2]] - document - vault/Graph/DecorData.footprint()_2.md
+- [[DecorData.inBounds()_1_1]] - document - vault/Graph/DecorData.inBounds()_1.md
+- [[DecorData.inBounds()_1_2]] - document - vault/Graph/DecorData.inBounds()_1.md
+- [[DecorData.inBounds()_2_1]] - document - vault/Graph/DecorData.inBounds()_2.md
+- [[DecorData.inBounds()_2_2]] - document - vault/Graph/DecorData.inBounds()_2.md
+- [[DecorData.luau_1_1]] - document - vault/Graph/DecorData.luau_1.md
+- [[DecorData.luau_1_2]] - document - vault/Graph/DecorData.luau_1.md
+- [[DecorData.luau_2_1]] - document - vault/Graph/DecorData.luau_2.md
+- [[DecorData.luau_2_2]] - document - vault/Graph/DecorData.luau_2.md
+- [[DecorData.side()_1_1]] - document - vault/Graph/DecorData.side()_1.md
+- [[DecorData.side()_1_2]] - document - vault/Graph/DecorData.side()_1.md
+- [[DecorData.side()_2_1]] - document - vault/Graph/DecorData.side()_2.md
+- [[DecorData.side()_2_2]] - document - vault/Graph/DecorData.side()_2.md
+- [[DecorData.toLocal()_1_1]] - document - vault/Graph/DecorData.toLocal()_1.md
+- [[DecorData.toLocal()_1_2]] - document - vault/Graph/DecorData.toLocal()_1.md
+- [[DecorData.toLocal()_2_1]] - document - vault/Graph/DecorData.toLocal()_2.md
+- [[DecorData.toLocal()_2_2]] - document - vault/Graph/DecorData.toLocal()_2.md
+- [[DecorData.toWorld()_1_1]] - document - vault/Graph/DecorData.toWorld()_1.md
+- [[DecorData.toWorld()_1_2]] - document - vault/Graph/DecorData.toWorld()_1.md
+- [[DecorData.toWorld()_2_1]] - document - vault/Graph/DecorData.toWorld()_2.md
+- [[DecorData.toWorld()_2_2]] - document - vault/Graph/DecorData.toWorld()_2.md
+- [[DecorData.zRange()_1_1]] - document - vault/Graph/DecorData.zRange()_1.md
+- [[DecorData.zRange()_1_2]] - document - vault/Graph/DecorData.zRange()_1.md
+- [[DecorData.zRange()_2_1]] - document - vault/Graph/DecorData.zRange()_2.md
+- [[DecorData.zRange()_2_2]] - document - vault/Graph/DecorData.zRange()_2.md
+- [[GraphWander_1]] - document - vault/Graph/GraphWander.md
+- [[GraphWander_2]] - document - vault/Graph/GraphWander.md
+- [[PlayerData.coins()_4]] - document - vault/Graph/PlayerData.coins()_2.md
+- [[PlayerData.coins()_3]] - document - vault/Graph/PlayerData.coins()_1.md
+- [[PlayerData.coins()_1_1]] - document - vault/Graph/PlayerData.coins()_1.md
+- [[PlayerData.coins()_2_1]] - document - vault/Graph/PlayerData.coins()_2.md
+- [[PlayerData.spend()_4]] - document - vault/Graph/PlayerData.spend()_2.md
+- [[PlayerData.spend()_3]] - document - vault/Graph/PlayerData.spend()_1.md
+- [[PlayerData.spend()_1_1]] - document - vault/Graph/PlayerData.spend()_1.md
+- [[PlayerData.spend()_2_1]] - document - vault/Graph/PlayerData.spend()_2.md
+- [[Required by_183]] - document - vault/Graph/Required by_80.md
+- [[Required by_80_1]] - document - vault/Graph/Required by_80.md
+- [[Required by_87_1]] - document - vault/Graph/Required by_87.md
+- [[Required by_87_2]] - document - vault/Graph/Required by_87.md
+- [[Requires_187]] - document - vault/Graph/Requires_77.md
+- [[Requires_77_1]] - document - vault/Graph/Requires_77.md
+- [[Requires_88_1]] - document - vault/Graph/Requires_88.md
+- [[Requires_88_2]] - document - vault/Graph/Requires_88.md
+- [[Wander_4]] - document - vault/Graph/Wander_3.md
+- [[Wander_1_1]] - document - vault/Graph/Wander_1.md
+- [[Wander_1_2]] - document - vault/Graph/Wander_1.md
+- [[Wander_2]] - document - vault/Graph/Wander_2.md
+- [[Wander_2_1]] - document - vault/Graph/Wander_2.md
+- [[Wander_3]] - document - vault/Graph/Wander_3.md
+- [[_COMMUNITY_Community 322]] - document - vault/Graph/_COMMUNITY_Community 322.md
+- [[_COMMUNITY_Community 355]] - document - vault/Graph/_COMMUNITY_Community 355.md
+- [[_COMMUNITY_Community 37]] - document - vault/Graph/_COMMUNITY_Community 37.md
+- [[_COMMUNITY_Community 86]] - document - vault/Graph/_COMMUNITY_Community 86.md
+- [[_COMMUNITY_Community 93]] - document - vault/Graph/_COMMUNITY_Community 93.md
+- [[actions.buy()_4]] - document - vault/Graph/actions.buy()_2.md
+- [[actions.buy()_3]] - document - vault/Graph/actions.buy()_1.md
+- [[actions.buy()_1_1]] - document - vault/Graph/actions.buy()_1.md
+- [[actions.buy()_2_1]] - document - vault/Graph/actions.buy()_2.md
+- [[actions.buyDaily()_4]] - document - vault/Graph/actions.buyDaily()_2.md
+- [[actions.buyDaily()_3]] - document - vault/Graph/actions.buyDaily()_1.md
+- [[actions.buyDaily()_1_1]] - document - vault/Graph/actions.buyDaily()_1.md
+- [[actions.buyDaily()_2_1]] - document - vault/Graph/actions.buyDaily()_2.md
+- [[actions.canopy()_4]] - document - vault/Graph/actions.canopy()_2.md
+- [[actions.canopy()_3]] - document - vault/Graph/actions.canopy()_1.md
+- [[actions.canopy()_1_1]] - document - vault/Graph/actions.canopy()_1.md
+- [[actions.canopy()_2_1]] - document - vault/Graph/actions.canopy()_2.md
+- [[actions.openBox()_4]] - document - vault/Graph/actions.openBox()_2.md
+- [[actions.openBox()_3]] - document - vault/Graph/actions.openBox()_1.md
+- [[actions.openBox()_1_1]] - document - vault/Graph/actions.openBox()_1.md
+- [[actions.openBox()_2_1]] - document - vault/Graph/actions.openBox()_2.md
+- [[actions.shardBuy()_4]] - document - vault/Graph/actions.shardBuy()_2.md
+- [[actions.shardBuy()_3]] - document - vault/Graph/actions.shardBuy()_1.md
+- [[actions.shardBuy()_1_1]] - document - vault/Graph/actions.shardBuy()_1.md
+- [[actions.shardBuy()_2_1]] - document - vault/Graph/actions.shardBuy()_2.md
+- [[actions.state()_1_1]] - document - vault/Graph/actions.state()_1.md
+- [[actions.state()_1_2]] - document - vault/Graph/actions.state()_1.md
+- [[actions.state()_2_1]] - document - vault/Graph/actions.state()_2.md
+- [[actions.state()_2_2]] - document - vault/Graph/actions.state()_2.md
+- [[actions.theme()_4]] - document - vault/Graph/actions.theme()_2.md
+- [[actions.theme()_3]] - document - vault/Graph/actions.theme()_1.md
+- [[actions.theme()_1_1]] - document - vault/Graph/actions.theme()_1.md
+- [[actions.theme()_2_1]] - document - vault/Graph/actions.theme()_2.md
+- [[actions.upgrade()_4]] - document - vault/Graph/actions.upgrade()_2.md
+- [[actions.upgrade()_3]] - document - vault/Graph/actions.upgrade()_1.md
+- [[actions.upgrade()_1_1]] - document - vault/Graph/actions.upgrade()_1.md
+- [[actions.upgrade()_2_1]] - document - vault/Graph/actions.upgrade()_2.md
+- [[addEffect()_1_1]] - document - vault/Graph/addEffect()_1.md
+- [[addEffect()_1_2]] - document - vault/Graph/addEffect()_1.md
+- [[addEffect()_2_1]] - document - vault/Graph/addEffect()_2.md
+- [[addEffect()_2_2]] - document - vault/Graph/addEffect()_2.md
+- [[canPlace()_1_1]] - document - vault/Graph/canPlace()_1.md
+- [[canPlace()_1_2]] - document - vault/Graph/canPlace()_1.md
+- [[canPlace()_2_1]] - document - vault/Graph/canPlace()_2.md
+- [[canPlace()_2_2]] - document - vault/Graph/canPlace()_2.md
+- [[check()_5_1]] - document - vault/Graph/check()_5.md
+- [[check()_5_2]] - document - vault/Graph/check()_5.md
+- [[check()_6_1]] - document - vault/Graph/check()_6.md
+- [[check()_6_2]] - document - vault/Graph/check()_6.md
+- [[grant()_4]] - document - vault/Graph/grant()_2.md
+- [[grant()_3]] - document - vault/Graph/grant()_1.md
+- [[grant()_1_1]] - document - vault/Graph/grant()_1.md
+- [[grant()_2_1]] - document - vault/Graph/grant()_2.md
+- [[overlaps()_1_1_1]] - document - vault/Graph/overlaps()_1_1.md
+- [[overlaps()_1_1_2]] - document - vault/Graph/overlaps()_1_1.md
+- [[overlaps()_2_1]] - document - vault/Graph/overlaps()_2.md
+- [[overlaps()_2_2]] - document - vault/Graph/overlaps()_2.md
+- [[overlaps()_3_1]] - document - vault/Graph/overlaps()_3.md
+- [[overlaps()_3_2]] - document - vault/Graph/overlaps()_3.md
+- [[overlaps()_4_1]] - document - vault/Graph/overlaps()_4.md
+- [[overlaps()_4_2]] - document - vault/Graph/overlaps()_4.md
+- [[rgb()_1_1]] - document - vault/Graph/rgb()_1.md
+- [[rgb()_1_2]] - document - vault/Graph/rgb()_1.md
+- [[rgb()_2_1]] - document - vault/Graph/rgb()_2.md
+- [[rgb()_2_2]] - document - vault/Graph/rgb()_2.md
+- [[rollBox()_4]] - document - vault/Graph/rollBox()_2.md
+- [[rollBox()_3]] - document - vault/Graph/rollBox()_1.md
+- [[rollBox()_1_1]] - document - vault/Graph/rollBox()_1.md
+- [[rollBox()_2_1]] - document - vault/Graph/rollBox()_2.md
+- [[serialize()_1_1]] - document - vault/Graph/serialize()_1.md
+- [[serialize()_1_2]] - document - vault/Graph/serialize()_1.md
+- [[serialize()_2_1]] - document - vault/Graph/serialize()_2.md
+- [[serialize()_2_2]] - document - vault/Graph/serialize()_2.md
+- [[staticParts()_1_1]] - document - vault/Graph/staticParts()_1.md
+- [[staticParts()_1_2]] - document - vault/Graph/staticParts()_1.md
+- [[staticParts()_2_1]] - document - vault/Graph/staticParts()_2.md
+- [[staticParts()_2_2]] - document - vault/Graph/staticParts()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -38,48 +223,35 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 11 edges to [[_COMMUNITY_Community 63]]
-- 10 edges to [[_COMMUNITY_Community 138]]
-- 7 edges to [[_COMMUNITY_Community 151]]
-- 3 edges to [[_COMMUNITY_Community 146]]
-- 3 edges to [[_COMMUNITY_Community 86]]
-- 2 edges to [[_COMMUNITY_Community 189]]
-- 2 edges to [[_COMMUNITY_Community 359]]
-- 2 edges to [[_COMMUNITY_Community 98]]
-- 1 edge to [[_COMMUNITY_Community 111]]
+- 30 edges to [[_COMMUNITY_Community 86]]
+- 15 edges to [[_COMMUNITY_Community 168]]
+- 7 edges to [[_COMMUNITY_Community 174]]
+- 6 edges to [[_COMMUNITY_Community 199]]
+- 5 edges to [[_COMMUNITY_Community 317]]
+- 4 edges to [[_COMMUNITY_Community 12]]
+- 4 edges to [[_COMMUNITY_Community 134]]
+- 4 edges to [[_COMMUNITY_Community 152]]
+- 4 edges to [[_COMMUNITY_Community 198]]
+- 4 edges to [[_COMMUNITY_Community 75]]
+- 3 edges to [[_COMMUNITY_Community 249]]
+- 2 edges to [[_COMMUNITY_Community 205]]
+- 2 edges to [[_COMMUNITY_Community 330]]
+- 2 edges to [[_COMMUNITY_Community 355]]
+- 1 edge to [[_COMMUNITY_Community 1067]]
+- 1 edge to [[_COMMUNITY_Community 151]]
 - 1 edge to [[_COMMUNITY_Community 179]]
-- 1 edge to [[_COMMUNITY_Community 181]]
-- 1 edge to [[_COMMUNITY_Community 203]]
-- 1 edge to [[_COMMUNITY_Community 204]]
-- 1 edge to [[_COMMUNITY_Community 230]]
-- 1 edge to [[_COMMUNITY_Community 249]]
-- 1 edge to [[_COMMUNITY_Community 273]]
-- 1 edge to [[_COMMUNITY_Community 299]]
-- 1 edge to [[_COMMUNITY_Community 306]]
-- 1 edge to [[_COMMUNITY_Community 373]]
-- 1 edge to [[_COMMUNITY_Community 376]]
-- 1 edge to [[_COMMUNITY_Community 379]]
-- 1 edge to [[_COMMUNITY_Community 380]]
-- 1 edge to [[_COMMUNITY_Community 381]]
-- 1 edge to [[_COMMUNITY_Community 382]]
-- 1 edge to [[_COMMUNITY_Community 383]]
-- 1 edge to [[_COMMUNITY_Community 384]]
-- 1 edge to [[_COMMUNITY_Community 385]]
-- 1 edge to [[_COMMUNITY_Community 386]]
-- 1 edge to [[_COMMUNITY_Community 387]]
-- 1 edge to [[_COMMUNITY_Community 388]]
-- 1 edge to [[_COMMUNITY_Community 389]]
-- 1 edge to [[_COMMUNITY_Community 390]]
-- 1 edge to [[_COMMUNITY_Community 391]]
-- 1 edge to [[_COMMUNITY_Community 392]]
-- 1 edge to [[_COMMUNITY_Community 393]]
-- 1 edge to [[_COMMUNITY_Community 394]]
-- 1 edge to [[_COMMUNITY_Community 395]]
-- 1 edge to [[_COMMUNITY_Community 69]]
+- 1 edge to [[_COMMUNITY_Community 197]]
+- 1 edge to [[_COMMUNITY_Community 24]]
+- 1 edge to [[_COMMUNITY_Community 27]]
+- 1 edge to [[_COMMUNITY_Community 917]]
+- 1 edge to [[_COMMUNITY_Community 920]]
+- 1 edge to [[_COMMUNITY_Community 944]]
+- 1 edge to [[_COMMUNITY_Community 939]]
+- 1 edge to [[_COMMUNITY_Community 98]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 3]] - degree 58, connects to 18 communities
-- [[new()_7_1]] - degree 15, connects to 3 communities
-- [[tabs.Crates()_2]] - degree 14, connects to 3 communities
-- [[tabs.Items()_2]] - degree 9, connects to 3 communities
-- [[itemCard()_2]] - degree 11, connects to 2 communities
+- [[_COMMUNITY_Community 86]] - degree 87, connects to 19 communities
+- [[_COMMUNITY_Community 37]] - degree 60, connects to 12 communities
+- [[_COMMUNITY_Community 93]] - degree 12, connects to 9 communities
+- [[canPlace()_1_1]] - degree 16, connects to 7 communities
+- [[DecorData.luau_1_1]] - degree 19, connects to 4 communities

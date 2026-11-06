@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/Story.md"
+source_file: "vault/Graph/Required by_7.md"
 type: "document"
-community: "Community 19"
-location: "L7"
+community: "Community 207"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_207
 ---
 
 # Required by
 
 ## Connections
-- [[Story]] - `contains` [EXTRACTED]
+- [[Connections_3028]] - `contains` [EXTRACTED]
+- [[Required by_7_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_19
+#graphify/document #graphify/EXTRACTED #community/Community_207

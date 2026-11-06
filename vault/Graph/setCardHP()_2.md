@@ -1,18 +1,21 @@
 ---
 source_file: "vault/Graph/setCardHP().md"
 type: "document"
-community: "Community 177"
-location: "L12"
+community: "Community 120"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_177
+  - community/Community_120
 ---
 
-# setCardHP()
+# setCardHP().md
 
 ## Connections
-- [[Connections_512]] - `contains` [EXTRACTED]
-- [[setCardHP()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
+- [[hpColor()_2]] - `references` [EXTRACTED]
+- [[playTurn()_2]] - `references` [EXTRACTED]
+- [[setCard()_2]] - `references` [EXTRACTED]
+- [[setCardHP()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_177
+#graphify/document #graphify/EXTRACTED #community/Community_120

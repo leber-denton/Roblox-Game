@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_42.md"
+source_file: "vault/Code/BaseManager.md"
 type: "document"
-community: "Community 154"
-location: "L1"
+community: "Community 16"
+location: "L26"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_154
+  - community/Community_16
 ---
 
-# Functions_42.md
+# Functions
 
 ## Connections
-- [[DungeonService_1]] - `references` [EXTRACTED]
-- [[Functions_26_1]] - `references` [EXTRACTED]
-- [[Functions_42_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 66]] - `references` [EXTRACTED]
+- [[BaseManager]] - `contains` [EXTRACTED]
+- [[sortedBases()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_154
+#graphify/document #graphify/EXTRACTED #community/Community_16

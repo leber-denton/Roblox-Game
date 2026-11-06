@@ -12,7 +12,7 @@ tags:
 # DungeonClient
 
 ## Connections
-- [[Connections_801]] - `contains` [EXTRACTED]
-- [[GraphDungeonClient]] - `contains` [EXTRACTED]
+- [[Connections_3762]] - `contains` [EXTRACTED]
+- [[GraphDungeonClient_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_315

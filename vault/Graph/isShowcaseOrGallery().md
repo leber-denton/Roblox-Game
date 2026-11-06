@@ -12,7 +12,7 @@ tags:
 # isShowcaseOrGallery()
 
 ## Connections
-- [[ModelSync.luau_2]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
 - [[nameHits()]] - `calls` [EXTRACTED]
 - [[showcaseArea()]] - `calls` [EXTRACTED]
 

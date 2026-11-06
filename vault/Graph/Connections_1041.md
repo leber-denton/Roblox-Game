@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DecorData.footprint().md"
+source_file: "vault/Graph/setGateOpen()_2.md"
 type: "document"
-community: "Community 86"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[DecorData.footprint()_2]] - `contains` [EXTRACTED]
+- [[setGateOpen()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_12

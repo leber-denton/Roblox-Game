@@ -12,7 +12,7 @@ tags:
 # showcaseArea()
 
 ## Connections
-- [[Connections_108]] - `contains` [EXTRACTED]
+- [[Connections_282]] - `contains` [EXTRACTED]
 - [[showcaseArea()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_112

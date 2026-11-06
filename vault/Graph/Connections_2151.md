@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/CodeHUD.md"
+type: "document"
+community: "Community 162"
+location: "L14"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_162
+---
+
+# Connections
+
+## Connections
+- [[CodeHUD_1]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_162

@@ -13,6 +13,7 @@ tags:
 
 ## Connections
 - [[Sfx]] - `contains` [EXTRACTED]
-- [[Sfx_1]] - `references` [EXTRACTED]
+- [[Sfx_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 162]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_162

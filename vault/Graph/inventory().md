@@ -1,19 +1,19 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/Menus.client.luau"
 type: "code"
-community: "Community 19"
+community: "Community 418"
 location: "L356"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_418
 ---
 
 # inventory()
 
 ## Connections
-- [[Menus.client.luau]] - `contains` [EXTRACTED]
+- [[Menus.client.luau_4]] - `contains` [EXTRACTED]
 - [[decode()]] - `calls` [INFERRED]
-- [[refresh()]] - `calls` [EXTRACTED]
+- [[refresh()_2]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_19
+#graphify/code #graphify/EXTRACTED #community/Community_418

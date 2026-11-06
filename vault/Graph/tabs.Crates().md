@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[DecorData.boxOdds()]] - `calls` [INFERRED]
-- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
 - [[button()]] - `calls` [EXTRACTED]
 - [[buyResult()]] - `calls` [EXTRACTED]
 - [[call()]] - `calls` [EXTRACTED]
@@ -21,7 +21,7 @@ tags:
 - [[itemCard()]] - `calls` [EXTRACTED]
 - [[label()_2]] - `calls` [EXTRACTED]
 - [[listLayout()]] - `calls` [EXTRACTED]
-- [[new()_7]] - `calls` [EXTRACTED]
+- [[new()_4]] - `calls` [EXTRACTED]
 - [[nextOrder()]] - `calls` [INFERRED]
 - [[setStatus()]] - `calls` [EXTRACTED]
 - [[showReveal()]] - `calls` [EXTRACTED]

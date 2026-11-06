@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/strongest()_2.md"
+source_file: "vault/Graph/strongest()_2_1.md"
 type: "document"
-community: "Community 123"
-location: "L1"
+community: "Community 1475"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_1475
 ---
 
 # strongest()_2.md
 
 ## Connections
-- [[BaseManager.getTeam()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[practice()_1]] - `references` [EXTRACTED]
-- [[strongest()_3]] - `contains` [EXTRACTED]
-- [[tickQueue()_1]] - `references` [EXTRACTED]
+- [[Connections_1941]] - `contains` [EXTRACTED]
+- [[strongest()_2_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_1475

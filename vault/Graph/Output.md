@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Output.md"
+source_file: "vault/Graph/Output_1.md"
 type: "document"
 community: "Community 172"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_172
 ---
 
-# Output.md
+# Output
 
 ## Connections
+- [[Connections_2541]] - `contains` [EXTRACTED]
 - [[Output_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 60]] - `references` [EXTRACTED]
-- [[ship]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_172

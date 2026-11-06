@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.flameTail().md"
+source_file: "vault/Graph/Connections_334.md"
 type: "document"
-community: "Community 171"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_171
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[Features.flameTail()_2]] - `contains` [EXTRACTED]
+- [[Connections_477]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_171
+#graphify/document #graphify/EXTRACTED #community/Community_117

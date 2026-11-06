@@ -1,17 +1,17 @@
 ---
-source_file: "CLAUDE.md"
+source_file: "vault/Graph/Layout_3.md"
 type: "document"
-community: "Community 36"
-location: "L28"
+community: "Community 1285"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_36
+  - community/Community_1285
 ---
 
-# Layout
+# Layout_3.md
 
 ## Connections
-- [[Creature Quest]] - `contains` [EXTRACTED]
+- [[Layout]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_36
+#graphify/document #graphify/EXTRACTED #community/Community_1285

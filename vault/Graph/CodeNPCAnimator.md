@@ -12,7 +12,7 @@ tags:
 # Code/NPCAnimator.md
 
 ## Connections
-- [[CodeCode Map]] - `references` [EXTRACTED]
-- [[NPCAnimator]] - `contains` [EXTRACTED]
+- [[CodeCode Map_2]] - `references` [EXTRACTED]
+- [[NPCAnimator_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_39

@@ -13,9 +13,9 @@ tags:
 
 ## Connections
 - [[Bag.client.luau]] - `contains` [EXTRACTED]
-- [[label()_1]] - `calls` [EXTRACTED]
-- [[new()_4]] - `calls` [EXTRACTED]
-- [[refresh()_1]] - `calls` [EXTRACTED]
-- [[showDetail()_1]] - `calls` [EXTRACTED]
+- [[label()]] - `calls` [EXTRACTED]
+- [[new()_1]] - `calls` [EXTRACTED]
+- [[refresh()]] - `calls` [EXTRACTED]
+- [[showDetail()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_20

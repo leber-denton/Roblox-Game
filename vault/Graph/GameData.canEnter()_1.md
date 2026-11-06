@@ -1,24 +1,26 @@
 ---
-source_file: "vault/Graph/GameData.canEnter().md"
+source_file: "vault/Graph/GameData.canEnter()_1.md"
 type: "document"
-community: "Community 193"
+community: "Community 251"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_193
+  - community/Community_251
 ---
 
-# GameData.canEnter().md
+# GameData.canEnter()_1.md
 
 ## Connections
-- [[GameData.canEnter()_2]] - `contains` [EXTRACTED]
-- [[GameData.regionFor()_1]] - `references` [EXTRACTED]
+- [[GameData.canEnter()_1_1]] - `contains` [EXTRACTED]
+- [[GameData.canEnter()_2]] - `references` [EXTRACTED]
+- [[GameData.regionFor()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 193]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 251]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 26]] - `references` [EXTRACTED]
 - [[canAnyoneEnter()_1]] - `references` [EXTRACTED]
 - [[canChallenge()_1]] - `references` [EXTRACTED]
 - [[paidPick()_1]] - `references` [EXTRACTED]
 - [[refresh()_2_1]] - `references` [EXTRACTED]
-- [[setup()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_193
+#graphify/document #graphify/EXTRACTED #community/Community_251
