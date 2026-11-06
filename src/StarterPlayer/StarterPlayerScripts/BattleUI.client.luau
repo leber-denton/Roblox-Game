@@ -651,10 +651,9 @@ local function playTurn(entries, state)
 			text, fx = entry.text, entry.fx
 		end
 		logLabel.Text = text or ""
+		local fxType = fx and fx.type
 
-		if not fx then
-			task.wait(LINE_TIME)
-		elseif fx.type == "attack" then
+		if fxType == "attack" then
 			local target = fx.side == "ally" and "wild" or "ally"
 			if fx.status then
 				BattleFX.statusMove(fx.attackerModel or modelFor(fx.side), fx.moveType)
@@ -671,7 +670,7 @@ local function playTurn(entries, state)
 				end)
 			end
 			task.wait(0.3)
-		elseif fx.type == "stat" then
+		elseif fxType == "stat" then
 			local st = shownStages[fx.side]
 			if st and fx.stat then
 				st[fx.stat] = math.clamp((st[fx.stat] or 0) + (fx.stages or 0), -6, 6)
@@ -679,7 +678,7 @@ local function playTurn(entries, state)
 			end
 			BattleFX.statChange(fx.model or modelFor(fx.side), fx.stages)
 			task.wait(0.3)
-		elseif fx.type == "status" then
+		elseif fxType == "status" then
 			-- a status condition starting, stopping a move, or wearing off
 			setStatus(cardFor(fx.side), fx.status)
 			local s = fx.status and GameData.StatusInfo[fx.status]
@@ -687,7 +686,7 @@ local function playTurn(entries, state)
 				BattleFX.statusEffect(fx.model or modelFor(fx.side), s.color)
 			end
 			task.wait(LINE_TIME * 0.7)
-		elseif fx.type == "residual" then
+		elseif fxType == "residual" then
 			-- burn / poison damage at the end of the turn
 			local model = fx.model or modelFor(fx.side)
 			if fx.targetHp then
@@ -697,16 +696,16 @@ local function playTurn(entries, state)
 			local s = fx.status and GameData.StatusInfo[fx.status]
 			BattleFX.statusEffect(model, s and s.color or WHITE)
 			task.wait(LINE_TIME * 0.7)
-		elseif fx.type == "faint" then
+		elseif fxType == "faint" then
 			BattleFX.faint(fx.model or modelFor(fx.side))
 			task.wait(0.4)
-		elseif fx.type == "throw" then
+		elseif fxType == "throw" then
 			local hrp = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
 			local from = hrp and (hrp.Position + Vector3.new(0, 1.5, 0)) or Vector3.zero
 			BattleFX.throw(from, state.wildModel, fx.caught, fx.shakes or 0, fx.ball, function(i, total)
 				logLabel.Text = ("%s"):format(string.rep(". ", i)):sub(1, -2) .. (i == total and (fx.caught and "  Click!" or "") or "")
 			end)
-		elseif fx.type == "heal" then
+		elseif fxType == "heal" then
 			if fx.targetHp then
 				setCardHP(cardFor(fx.side or "ally"), fx.targetHp, fx.targetMax)
 			end
@@ -715,11 +714,11 @@ local function playTurn(entries, state)
 			end
 			BattleFX.levelUp(modelFor(fx.side or "ally"))
 			task.wait(LINE_TIME)
-		elseif fx.type == "levelup" then
+		elseif fxType == "levelup" then
 			Sfx.play("levelUp")
 			BattleFX.levelUp(fx.model or state.allyModel)
 			task.wait(0.6)
-		elseif fx.type == "sendout" then
+		elseif fxType == "sendout" then
 			local side = fx.side or "ally"
 			local creature = fx.creature or (side == "ally" and state.ally or state.wild)
 			local model = fx.model or modelFor(side)
@@ -731,7 +730,7 @@ local function playTurn(entries, state)
 			setStages(cardFor(side), shownStages[side])
 			BattleFX.sendOut(model)
 			task.wait(0.7)
-		elseif fx.type == "xp" then
+		elseif fxType == "xp" then
 			task.spawn(animateXP, allyCard, fx.from or 0, fx.to or 0, fx.levels or 0)
 			task.wait(LINE_TIME)
 		else
