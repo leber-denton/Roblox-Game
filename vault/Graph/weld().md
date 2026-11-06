@@ -1,0 +1,18 @@
+---
+source_file: "src/ReplicatedStorage/Shared/CreatureBuilder.luau"
+type: "code"
+community: "Community 6"
+location: "L47"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_6
+---
+
+# weld()
+
+## Connections
+- [[CreatureBuilder.build()]] - `calls` [EXTRACTED]
+- [[CreatureBuilder.luau]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_6

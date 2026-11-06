@@ -1,0 +1,19 @@
+---
+source_file: "src/StarterPlayer/StarterPlayerScripts/HUD.client.luau"
+type: "code"
+community: "Community 8"
+location: "L453"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_8
+---
+
+# onNotify()
+
+## Connections
+- [[HUD.client.luau]] - `contains` [EXTRACTED]
+- [[fadeAndDestroy()]] - `calls` [EXTRACTED]
+- [[showAnnouncement()]] - `calls` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_8

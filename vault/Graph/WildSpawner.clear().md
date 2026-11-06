@@ -1,0 +1,19 @@
+---
+source_file: "src/ServerScriptService/Modules/WildSpawner.luau"
+type: "code"
+community: "Community 26"
+location: "L250"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_26
+---
+
+# WildSpawner.clear()
+
+## Connections
+- [[WildSpawner.luau]] - `contains` [EXTRACTED]
+- [[WildSpawner.shift()]] - `calls` [EXTRACTED]
+- [[commands.clearWild()]] - `calls` [INFERRED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_26

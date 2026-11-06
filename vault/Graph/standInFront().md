@@ -1,0 +1,17 @@
+---
+source_file: "src/ServerScriptService/Main.server.luau"
+type: "code"
+community: "Community 30"
+location: "L597"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_30
+---
+
+# standInFront()
+
+## Connections
+- [[Main.server.luau]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_30
