@@ -1,28 +1,20 @@
 ---
 source_file: "vault/Code/StoryService.md"
 type: "document"
-community: "Community 13"
+community: "Community 14"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_14
 ---
 
-# StoryService.md
+# StoryService
 
 ## Connections
-- [[AdminService]] - `references` [EXTRACTED]
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[LeagueService]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[NPC]] - `references` [EXTRACTED]
-- [[PlayerData]] - `references` [EXTRACTED]
-- [[SaveService]] - `references` [EXTRACTED]
-- [[StoryService_1]] - `contains` [EXTRACTED]
-- [[TutorialService]] - `references` [EXTRACTED]
+- [[CodeStoryService]] - `contains` [EXTRACTED]
+- [[Functions_18]] - `contains` [EXTRACTED]
+- [[Required by_16]] - `contains` [EXTRACTED]
+- [[Requires_16]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_14

@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Code/Menus.md"
+source_file: "vault/Graph/Requires_18.md"
 type: "document"
-community: "Community 25"
-location: "L4"
+community: "Community 107"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_25
+  - community/Community_107
 ---
 
-# Requires
+# Requires_18.md
 
 ## Connections
-- [[Menus_1]] - `contains` [EXTRACTED]
+- [[GraphGymService]] - `references` [EXTRACTED]
+- [[Requires_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_25
+#graphify/document #graphify/EXTRACTED #community/Community_107

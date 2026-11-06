@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/Wander.luau"
 type: "code"
-community: "Community 49"
+community: "Community 21"
 location: "L70"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_49
+  - community/Community_21
 ---
 
 # Wander.remove()
@@ -16,4 +16,4 @@ tags:
 - [[BaseManager.removeCreature()]] - `calls` [INFERRED]
 - [[Wander.luau]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Community_49
+#graphify/code #graphify/INFERRED #community/Community_21

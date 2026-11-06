@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Code/Tutorial.md"
+source_file: "vault/Graph/Tutorial.md"
 type: "document"
-community: "Community 25"
-location: "L1"
+community: "Community 238"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_25
+  - community/Community_238
 ---
 
-# Tutorial.md
+# Tutorial
 
 ## Connections
-- [[BattleData]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[CreatureBuilder]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Tutorial]] - `contains` [EXTRACTED]
+- [[Connections_694]] - `contains` [EXTRACTED]
+- [[GraphTutorial]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_25
+#graphify/document #graphify/EXTRACTED #community/Community_238

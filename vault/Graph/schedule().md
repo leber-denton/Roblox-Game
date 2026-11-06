@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[WeeklyEventService.init()]] - `calls` [EXTRACTED]
-- [[WeeklyEventService.luau]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.luau_2]] - `contains` [EXTRACTED]
 - [[daysFromCivil()]] - `calls` [EXTRACTED]
 - [[pacificDST()]] - `calls` [EXTRACTED]
 

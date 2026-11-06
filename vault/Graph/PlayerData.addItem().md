@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/PlayerData.luau"
 type: "code"
-community: "Community 21"
+community: "Community 11"
 location: "L322"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_21
+  - community/Community_11
 ---
 
 # PlayerData.addItem()
@@ -17,11 +17,11 @@ tags:
 - [[checkDay()]] - `calls` [INFERRED]
 - [[commands.items()]] - `calls` [INFERRED]
 - [[complete()]] - `calls` [INFERRED]
-- [[finite()_1]] - `calls` [EXTRACTED]
+- [[finite()]] - `calls` [EXTRACTED]
 - [[giveProduct()]] - `calls` [INFERRED]
-- [[setup()]] - `calls` [INFERRED]
+- [[setup()_1]] - `calls` [INFERRED]
 - [[setupProducts()]] - `calls` [INFERRED]
 - [[setupShop()]] - `calls` [INFERRED]
-- [[sync()_2]] - `calls` [EXTRACTED]
+- [[sync()_1]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Community_21
+#graphify/code #graphify/INFERRED #community/Community_11

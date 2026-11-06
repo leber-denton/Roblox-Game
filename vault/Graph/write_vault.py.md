@@ -1,17 +1,19 @@
 ---
-source_file: "vault/write_vault.py"
-type: "code"
-community: "Community 82"
+source_file: "vault/Graph/write_vault.py.md"
+type: "document"
+community: "Community 219"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_82
+  - community/Community_219
 ---
 
-# write_vault.py
+# write_vault.py.md
 
 ## Connections
-- [[io]] - `imports` [EXTRACTED]
+- [[_COMMUNITY_Community 82]] - `references` [EXTRACTED]
+- [[io]] - `references` [EXTRACTED]
+- [[write_vault.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_82
+#graphify/document #graphify/EXTRACTED #community/Community_219

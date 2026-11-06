@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Functions_50]] - document - vault/Code/RouteTrainerService.md
-- [[Required by_50]] - document - vault/Code/RouteTrainerService.md
-- [[Requires_50]] - document - vault/Code/RouteTrainerService.md
-- [[RouteTrainerService_1]] - document - vault/Code/RouteTrainerService.md
+- [[Functions_114]] - document - vault/Code/RouteTrainerService.md
+- [[Required by_111]] - document - vault/Code/RouteTrainerService.md
+- [[Requires_112]] - document - vault/Code/RouteTrainerService.md
+- [[RouteTrainerService_2]] - document - vault/Code/RouteTrainerService.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,4 +24,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[RouteTrainerService_1]] - degree 4, connects to 1 community
+- [[RouteTrainerService_2]] - degree 4, connects to 1 community

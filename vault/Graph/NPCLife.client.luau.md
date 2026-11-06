@@ -1,17 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/NPCLife.client.luau"
-type: "code"
-community: "Community 84"
+source_file: "vault/Graph/NPCLife.client.luau.md"
+type: "document"
+community: "Community 221"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_84
+  - community/Community_221
 ---
 
-# NPCLife.client.luau
+# NPCLife.client.luau.md
 
 ## Connections
-- [[register()_1]] - `contains` [EXTRACTED]
+- [[NPCLife.client.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 84]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_84
+#graphify/document #graphify/EXTRACTED #community/Community_221

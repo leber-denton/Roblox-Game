@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Code/RouteTrainerService.md"
+source_file: "vault/Graph/RouteTrainerService.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 161"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_161
 ---
 
-# RouteTrainerService.md
+# RouteTrainerService
 
 ## Connections
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[NPC]] - `references` [EXTRACTED]
-- [[PlayerData]] - `references` [EXTRACTED]
-- [[RouteTrainerService_1]] - `contains` [EXTRACTED]
-- [[TutorialService]] - `references` [EXTRACTED]
+- [[Connections_449]] - `contains` [EXTRACTED]
+- [[GraphRouteTrainerService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_161

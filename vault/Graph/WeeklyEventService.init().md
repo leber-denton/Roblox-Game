@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[RareEventService.isLive()]] - `calls` [INFERRED]
 - [[RareEventService.trigger()]] - `calls` [INFERRED]
-- [[WeeklyEventService.luau]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.luau_2]] - `contains` [EXTRACTED]
 - [[schedule()]] - `calls` [EXTRACTED]
 - [[setBoosts()]] - `calls` [EXTRACTED]
 

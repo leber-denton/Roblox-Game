@@ -12,7 +12,7 @@ tags:
 # commands.heal()
 
 ## Connections
-- [[AdminService.luau]] - `contains` [EXTRACTED]
+- [[AdminService.luau_2]] - `contains` [EXTRACTED]
 - [[BaseManager.healAll()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_17

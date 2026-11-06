@@ -1,18 +1,20 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 22"
+source_file: "vault/Graph/script_parent_wander.md"
+type: "document"
+community: "Community 144"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_22
+  - community/Community_144
 ---
 
-# script_parent_wander
+# script_parent_wander.md
 
 ## Connections
-- [[BaseManager.luau]] - `imports` [EXTRACTED]
-- [[BattleService.luau]] - `imports` [EXTRACTED]
-- [[WildSpawner.luau]] - `imports` [EXTRACTED]
+- [[WildSpawner.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
+- [[script_parent_wander_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_22
+#graphify/document #graphify/EXTRACTED #community/Community_144

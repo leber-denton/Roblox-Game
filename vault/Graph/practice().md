@@ -12,7 +12,7 @@ tags:
 # practice()
 
 ## Connections
-- [[ColiseumService.luau]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[available()]] - `calls` [EXTRACTED]
 - [[setupActivities()]] - `calls` [EXTRACTED]
 - [[strongest()_2]] - `calls` [EXTRACTED]

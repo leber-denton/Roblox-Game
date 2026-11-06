@@ -12,7 +12,7 @@ tags:
 # daysFromCivil()
 
 ## Connections
-- [[WeeklyEventService.luau]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.luau_2]] - `contains` [EXTRACTED]
 - [[nthSunday()]] - `calls` [EXTRACTED]
 - [[schedule()]] - `calls` [EXTRACTED]
 

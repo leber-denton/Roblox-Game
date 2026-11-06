@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[GameData.canEnter()]] - `calls` [INFERRED]
 - [[GameData.levelCap()]] - `calls` [INFERRED]
-- [[HUD.client.luau]] - `contains` [EXTRACTED]
+- [[HUD.client.luau_2]] - `contains` [EXTRACTED]
 - [[header()_2]] - `calls` [EXTRACTED]
 - [[row()_3]] - `calls` [EXTRACTED]
 

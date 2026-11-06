@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/Wander.luau"
 type: "code"
-community: "Community 37"
+community: "Community 16"
 location: "L56"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_37
+  - community/Community_16
 ---
 
 # Wander.add()
@@ -16,4 +16,4 @@ tags:
 - [[WildSpawner.spawnOne()]] - `calls` [INFERRED]
 - [[spawnModel()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_37
+#graphify/code #graphify/INFERRED #community/Community_16

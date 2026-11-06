@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[gen_coliseum.py]] - `contains` [EXTRACTED]
-- [[math]] - `calls` [EXTRACTED]
+- [[math_2]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_29

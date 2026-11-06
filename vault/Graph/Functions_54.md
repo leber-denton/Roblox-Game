@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Code/WeeklyEventService.md"
+source_file: "vault/Code/RareEventService.md"
 type: "document"
-community: "Community 77"
-location: "L13"
+community: "Community 2"
+location: "L14"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Community_77
+  - graphify/INFERRED
+  - community/Community_2
 ---
 
 # Functions
 
 ## Connections
-- [[WeeklyEventService_1]] - `contains` [EXTRACTED]
+- [[RareEventService]] - `contains` [EXTRACTED]
+- [[despawn()]] - `references` [INFERRED]
+- [[finished()]] - `references` [INFERRED]
+- [[openLanes()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_77
+#graphify/document #graphify/INFERRED #community/Community_2

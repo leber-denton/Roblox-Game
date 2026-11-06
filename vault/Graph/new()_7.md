@@ -12,7 +12,7 @@ tags:
 # new()
 
 ## Connections
-- [[DecorUI.client.luau]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
 - [[button()]] - `calls` [EXTRACTED]
 - [[gridLayout()]] - `calls` [EXTRACTED]
 - [[itemCard()]] - `calls` [EXTRACTED]

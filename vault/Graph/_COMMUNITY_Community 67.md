@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Functions_43]] - document - vault/Code/GameData.md
-- [[GameData_1]] - document - vault/Code/GameData.md
-- [[Required by_43]] - document - vault/Code/GameData.md
-- [[Requires_43]] - document - vault/Code/GameData.md
+- [[Functions_107]] - document - vault/Code/GameData.md
+- [[GameData_2]] - document - vault/Code/GameData.md
+- [[Required by_104]] - document - vault/Code/GameData.md
+- [[Requires_105]] - document - vault/Code/GameData.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,4 +24,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[GameData_1]] - degree 4, connects to 1 community
+- [[GameData_2]] - degree 4, connects to 1 community

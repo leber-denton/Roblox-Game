@@ -12,7 +12,7 @@ tags:
 # header()
 
 ## Connections
-- [[HUD.client.luau]] - `contains` [EXTRACTED]
+- [[HUD.client.luau_2]] - `contains` [EXTRACTED]
 - [[refresh()_2]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_8

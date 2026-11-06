@@ -12,8 +12,8 @@ tags:
 # SocialService.luau
 
 ## Connections
-- [[GameData.luau]] - `imports` [EXTRACTED]
-- [[Main.server.luau]] - `imports` [EXTRACTED]
+- [[GameData.luau_2]] - `imports` [EXTRACTED]
+- [[Main.server.luau_2]] - `imports` [EXTRACTED]
 - [[SocialService.display()]] - `contains` [EXTRACTED]
 - [[SocialService.init()]] - `contains` [EXTRACTED]
 - [[SocialService.isTrading()]] - `contains` [EXTRACTED]
@@ -37,9 +37,9 @@ tags:
 - [[promptAt()]] - `contains` [EXTRACTED]
 - [[push()]] - `contains` [EXTRACTED]
 - [[remember()]] - `contains` [EXTRACTED]
-- [[script_parent_basemanager]] - `imports` [EXTRACTED]
-- [[script_parent_battleservice]] - `imports` [EXTRACTED]
-- [[script_parent_saveservice]] - `imports` [EXTRACTED]
+- [[script_parent_basemanager_2]] - `imports` [EXTRACTED]
+- [[script_parent_battleservice_2]] - `imports` [EXTRACTED]
+- [[script_parent_saveservice_2]] - `imports` [EXTRACTED]
 - [[setupCommunity()]] - `contains` [EXTRACTED]
 - [[stateFor()]] - `contains` [EXTRACTED]
 - [[syncHistory()]] - `contains` [EXTRACTED]

@@ -1,24 +1,20 @@
 ---
-source_file: "src/ServerScriptService/Modules/LeaderboardService.luau"
-type: "code"
-community: "Community 42"
+source_file: "vault/Graph/LeaderboardService.luau.md"
+type: "document"
+community: "Community 144"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_144
 ---
 
-# LeaderboardService.luau
+# LeaderboardService.luau.md
 
 ## Connections
-- [[GameData.luau]] - `imports` [EXTRACTED]
-- [[LeaderboardService.init()]] - `contains` [EXTRACTED]
-- [[LeaderboardService.onJoin()]] - `contains` [EXTRACTED]
-- [[LeaderboardService.refresh()]] - `contains` [EXTRACTED]
-- [[Main.server.luau]] - `imports` [EXTRACTED]
-- [[draw()]] - `contains` [EXTRACTED]
-- [[nameOf()]] - `contains` [EXTRACTED]
-- [[setupStats()]] - `contains` [EXTRACTED]
+- [[GameData.luau]] - `references` [EXTRACTED]
+- [[LeaderboardService.luau_1]] - `contains` [EXTRACTED]
+- [[Main.server.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_144

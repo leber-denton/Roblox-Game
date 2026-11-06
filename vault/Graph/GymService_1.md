@@ -12,9 +12,9 @@ tags:
 # GymService
 
 ## Connections
-- [[Functions_9]] - `contains` [EXTRACTED]
-- [[GymService]] - `contains` [EXTRACTED]
-- [[Required by_9]] - `contains` [EXTRACTED]
-- [[Requires_9]] - `contains` [EXTRACTED]
+- [[CodeGymService]] - `contains` [EXTRACTED]
+- [[Functions_21]] - `contains` [EXTRACTED]
+- [[Required by_20]] - `contains` [EXTRACTED]
+- [[Requires_20]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_15

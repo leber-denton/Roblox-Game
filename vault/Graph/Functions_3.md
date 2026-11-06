@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/SocialService.md"
+source_file: "vault/Graph/Functions_22.md"
 type: "document"
-community: "Community 10"
-location: "L15"
+community: "Community 107"
+location: "L12"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_10
+  - graphify/EXTRACTED
+  - community/Community_107
 ---
 
 # Functions
 
 ## Connections
-- [[SocialService]] - `contains` [EXTRACTED]
-- [[boardRows()]] - `references` [INFERRED]
-- [[plazaCenter()]] - `references` [INFERRED]
-- [[setupCommunity()]] - `references` [INFERRED]
+- [[Connections_65]] - `contains` [EXTRACTED]
+- [[Functions_22]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_10
+#graphify/document #graphify/EXTRACTED #community/Community_107

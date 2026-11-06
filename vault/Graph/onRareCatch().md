@@ -12,7 +12,7 @@ tags:
 # onRareCatch()
 
 ## Connections
-- [[EventHUD.client.luau]] - `contains` [EXTRACTED]
+- [[EventHUD.client.luau_2]] - `contains` [EXTRACTED]
 - [[describe()]] - `calls` [EXTRACTED]
 - [[new()_8]] - `calls` [EXTRACTED]
 

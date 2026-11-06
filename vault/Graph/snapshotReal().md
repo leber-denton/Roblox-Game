@@ -12,7 +12,7 @@ tags:
 # snapshotReal()
 
 ## Connections
-- [[ModelSyncTests.luau]] - `contains` [EXTRACTED]
+- [[ModelSyncTests.luau_2]] - `contains` [EXTRACTED]
 - [[Tests.run()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_5

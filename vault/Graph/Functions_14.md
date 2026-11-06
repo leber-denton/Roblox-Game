@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Code/Bag.md"
+source_file: "vault/Graph/Functions_13.md"
 type: "document"
-community: "Community 20"
-location: "L10"
+community: "Community 129"
+location: "L12"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_20
+  - graphify/EXTRACTED
+  - community/Community_129
 ---
 
 # Functions
 
 ## Connections
-- [[Bag_1]] - `contains` [EXTRACTED]
-- [[getInventory()]] - `references` [INFERRED]
-- [[showTradeHistory()]] - `references` [INFERRED]
+- [[Connections_247]] - `contains` [EXTRACTED]
+- [[Functions_13_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_20
+#graphify/document #graphify/EXTRACTED #community/Community_129

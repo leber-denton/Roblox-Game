@@ -1,20 +1,20 @@
 ---
-source_file: "tests/WildShiftTests.luau"
-type: "code"
-community: "Community 5"
+source_file: "vault/Graph/WildShiftTests.luau.md"
+type: "document"
+community: "Community 140"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_5
+  - community/Community_140
 ---
 
-# WildShiftTests.luau
+# WildShiftTests.luau.md
 
 ## Connections
-- [[check()_2]] - `contains` [EXTRACTED]
-- [[game_replicatedstorage_shared_gamedata]] - `imports` [EXTRACTED]
-- [[game_serverscriptservice_modules_wildspawner]] - `imports` [EXTRACTED]
-- [[sentinel()]] - `contains` [EXTRACTED]
+- [[WildShiftTests.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
+- [[game_replicatedstorage_shared_gamedata]] - `references` [EXTRACTED]
+- [[game_serverscriptservice_modules_wildspawner]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_5
+#graphify/document #graphify/EXTRACTED #community/Community_140

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/Showcase.md"
+source_file: "vault/Graph/Required by_51.md"
 type: "document"
-community: "Community 75"
-location: "L7"
+community: "Community 161"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_75
+  - community/Community_161
 ---
 
 # Required by
 
 ## Connections
-- [[Showcase_1]] - `contains` [EXTRACTED]
+- [[Connections_445]] - `contains` [EXTRACTED]
+- [[Required by_51]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_75
+#graphify/document #graphify/EXTRACTED #community/Community_161

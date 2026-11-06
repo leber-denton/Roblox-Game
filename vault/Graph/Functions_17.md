@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/CreatureBuilder.md"
+source_file: "vault/Graph/Functions_16.md"
 type: "document"
-community: "Community 25"
-location: "L18"
+community: "Community 132"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_25
+  - community/Community_132
 ---
 
 # Functions
 
 ## Connections
-- [[CreatureBuilder_1]] - `contains` [EXTRACTED]
+- [[Connections_271]] - `contains` [EXTRACTED]
+- [[Functions_16_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_25
+#graphify/document #graphify/EXTRACTED #community/Community_132

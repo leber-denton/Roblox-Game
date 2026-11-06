@@ -12,7 +12,7 @@ tags:
 # setupWorld()
 
 ## Connections
-- [[Functions_8]] - `references` [INFERRED]
+- [[Functions_18]] - `references` [INFERRED]
 - [[NPC.prompt()]] - `calls` [INFERRED]
 - [[StoryService.init()]] - `calls` [EXTRACTED]
 - [[StoryService.luau]] - `contains` [EXTRACTED]

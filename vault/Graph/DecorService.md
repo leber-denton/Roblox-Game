@@ -1,28 +1,18 @@
 ---
-source_file: "vault/Code/DecorService.md"
+source_file: "vault/Graph/DecorService.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 153"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_153
 ---
 
-# DecorService.md
+# DecorService
 
 ## Connections
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleData]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[CreatureBuilder]] - `references` [EXTRACTED]
-- [[DecorData]] - `references` [EXTRACTED]
-- [[DecorService_1]] - `contains` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[PassService]] - `references` [EXTRACTED]
-- [[PlayerData]] - `references` [EXTRACTED]
-- [[SaveService]] - `references` [EXTRACTED]
+- [[Connections_391]] - `contains` [EXTRACTED]
+- [[GraphDecorService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_153

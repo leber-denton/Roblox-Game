@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/BattleFX.md"
+source_file: "vault/Code/GymService.md"
 type: "document"
-community: "Community 28"
-location: "L7"
+community: "Community 15"
+location: "L11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_28
+  - community/Community_15
 ---
 
 # Required by
 
 ## Connections
-- [[BattleFX_1]] - `contains` [EXTRACTED]
+- [[GymService_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_28
+#graphify/document #graphify/EXTRACTED #community/Community_15

@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Code/BattleUI.md"
+source_file: "vault/Graph/BattleUI.md"
 type: "document"
-community: "Community 28"
-location: "L1"
+community: "Community 186"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_28
+  - community/Community_186
 ---
 
-# BattleUI.md
+# BattleUI
 
 ## Connections
-- [[BattleData]] - `references` [EXTRACTED]
-- [[BattleFX]] - `references` [EXTRACTED]
-- [[BattleUI_1]] - `contains` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Sfx]] - `references` [EXTRACTED]
+- [[Connections_536]] - `contains` [EXTRACTED]
+- [[GraphBattleUI]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_28
+#graphify/document #graphify/EXTRACTED #community/Community_186

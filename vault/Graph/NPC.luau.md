@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/NPC.luau"
 type: "code"
-community: "Community 34"
+community: "Community 15"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_34
+  - community/Community_15
 ---
 
 # NPC.luau
@@ -16,4 +16,4 @@ tags:
 - [[NPC.say()]] - `contains` [EXTRACTED]
 - [[NPC.wave()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_34
+#graphify/code #graphify/EXTRACTED #community/Community_15

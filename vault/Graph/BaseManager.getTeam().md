@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/BaseManager.luau"
 type: "code"
-community: "Community 41"
+community: "Community 16"
 location: "L256"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_41
+  - community/Community_16
 ---
 
 # BaseManager.getTeam()
@@ -39,4 +39,4 @@ tags:
 - [[tick()]] - `calls` [INFERRED]
 - [[trainingRates()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_41
+#graphify/code #graphify/INFERRED #community/Community_16

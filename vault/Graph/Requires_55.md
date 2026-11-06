@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/WildSpawner.md"
+source_file: "vault/Code/CreatureIndex.md"
 type: "document"
-community: "Community 78"
+community: "Community 19"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_78
+  - community/Community_19
 ---
 
 # Requires
 
 ## Connections
-- [[WildSpawner_1]] - `contains` [EXTRACTED]
+- [[CreatureIndex_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_78
+#graphify/document #graphify/EXTRACTED #community/Community_19

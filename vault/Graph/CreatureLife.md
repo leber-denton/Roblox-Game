@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Code/CreatureLife.md"
+source_file: "vault/Graph/CreatureLife.md"
 type: "document"
-community: "Community 51"
-location: "L1"
+community: "Community 124"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_51
+  - community/Community_124
 ---
 
-# CreatureLife.md
+# CreatureLife
 
 ## Connections
-- [[Code Map]] - `references` [EXTRACTED]
-- [[CreatureLife_1]] - `contains` [EXTRACTED]
+- [[Connections_214]] - `contains` [EXTRACTED]
+- [[GraphCreatureLife]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_51
+#graphify/document #graphify/EXTRACTED #community/Community_124

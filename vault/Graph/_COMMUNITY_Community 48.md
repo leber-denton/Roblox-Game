@@ -8,7 +8,7 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[TrainerAnimations.luau]] - code - src/ReplicatedStorage/Shared/TrainerAnimations.luau
+- [[TrainerAnimations.luau_2]] - code - src/ReplicatedStorage/Shared/TrainerAnimations.luau
 - [[TrainerAnimations.new()]] - code - src/ReplicatedStorage/Shared/TrainerAnimations.luau
 - [[TrainerAnimations_track()]] - code - src/ReplicatedStorage/Shared/TrainerAnimations.luau
 - [[TrainerAnimationsplay()]] - code - src/ReplicatedStorage/Shared/TrainerAnimations.luau

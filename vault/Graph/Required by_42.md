@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Code/DungeonService.md"
+source_file: "vault/Graph/Required by_42.md"
 type: "document"
-community: "Community 66"
-location: "L9"
+community: "Community 154"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_66
+  - community/Community_154
 ---
 
-# Required by
+# Required by_42.md
 
 ## Connections
-- [[DungeonService_1]] - `contains` [EXTRACTED]
+- [[DungeonService_1]] - `references` [EXTRACTED]
+- [[Required by_21_1]] - `references` [EXTRACTED]
+- [[Required by_42_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 66]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_66
+#graphify/document #graphify/EXTRACTED #community/Community_154

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/TutorialService.md"
+source_file: "vault/Code/AdminService.md"
 type: "document"
-community: "Community 76"
+community: "Community 17"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_76
+  - community/Community_17
 ---
 
 # Requires
 
 ## Connections
-- [[TutorialService_1]] - `contains` [EXTRACTED]
+- [[AdminService_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_76
+#graphify/document #graphify/EXTRACTED #community/Community_17

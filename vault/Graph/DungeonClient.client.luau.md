@@ -1,18 +1,19 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/DungeonClient.client.luau"
-type: "code"
-community: "Community 1"
+source_file: "vault/Graph/DungeonClient.client.luau.md"
+type: "document"
+community: "Community 178"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Community_178
 ---
 
-# DungeonClient.client.luau
+# DungeonClient.client.luau.md
 
 ## Connections
-- [[banner()]] - `contains` [EXTRACTED]
-- [[replicatedstorage_waitforchild]] - `imports` [EXTRACTED]
+- [[DungeonClient.client.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[replicatedstorage_waitforchild]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_1
+#graphify/document #graphify/EXTRACTED #community/Community_178

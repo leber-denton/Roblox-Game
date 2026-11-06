@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Code/Showcase.md"
+source_file: "vault/Graph/Showcase_1.md"
 type: "document"
-community: "Community 75"
+community: "Community 247"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_75
+  - community/Community_247
 ---
 
-# Showcase
+# Showcase_1.md
 
 ## Connections
-- [[Functions_52]] - `contains` [EXTRACTED]
-- [[Required by_52]] - `contains` [EXTRACTED]
-- [[Requires_52]] - `contains` [EXTRACTED]
-- [[Showcase]] - `contains` [EXTRACTED]
+- [[GraphShowcase]] - `references` [EXTRACTED]
+- [[Showcase_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 75]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_75
+#graphify/document #graphify/EXTRACTED #community/Community_247

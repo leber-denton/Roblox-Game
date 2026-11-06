@@ -21,6 +21,6 @@ tags:
 - [[challenge()_1]] - `calls` [INFERRED]
 - [[onProfessor()]] - `calls` [INFERRED]
 - [[rivalChallenge()]] - `calls` [INFERRED]
-- [[setup()]] - `calls` [INFERRED]
+- [[setup()_1]] - `calls` [INFERRED]
 
 #graphify/code #graphify/INFERRED #community/Community_18

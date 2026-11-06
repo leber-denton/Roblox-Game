@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[Bag.client.luau]] - `contains` [EXTRACTED]
 - [[ballIcon()]] - `calls` [EXTRACTED]
-- [[new()_5]] - `calls` [EXTRACTED]
+- [[new()_4]] - `calls` [EXTRACTED]
 - [[refresh()_1]] - `calls` [EXTRACTED]
 - [[showDetail()_1]] - `calls` [EXTRACTED]
 - [[showPicker()_1]] - `calls` [EXTRACTED]

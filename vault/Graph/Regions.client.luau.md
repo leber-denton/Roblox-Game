@@ -1,22 +1,19 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Regions.client.luau"
-type: "code"
-community: "Community 1"
+source_file: "vault/Graph/Regions.client.luau.md"
+type: "document"
+community: "Community 178"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Community_178
 ---
 
-# Regions.client.luau
+# Regions.client.luau.md
 
 ## Connections
-- [[apply()]] - `contains` [EXTRACTED]
-- [[applyAll()]] - `contains` [EXTRACTED]
-- [[onTouch()]] - `contains` [EXTRACTED]
-- [[regionName()]] - `contains` [EXTRACTED]
-- [[replicatedstorage_waitforchild]] - `imports` [EXTRACTED]
-- [[setSign()]] - `contains` [EXTRACTED]
+- [[Regions.client.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[replicatedstorage_waitforchild]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_1
+#graphify/document #graphify/EXTRACTED #community/Community_178

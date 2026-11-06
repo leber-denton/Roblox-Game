@@ -1,29 +1,18 @@
 ---
-source_file: "vault/Code/AdminService.md"
+source_file: "vault/Graph/AdminService.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 145"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_145
 ---
 
-# AdminService.md
+# AdminService
 
 ## Connections
-- [[AdminService_1]] - `contains` [EXTRACTED]
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleData]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[PlayerData]] - `references` [EXTRACTED]
-- [[RareEventService]] - `references` [EXTRACTED]
-- [[StoryService]] - `references` [EXTRACTED]
-- [[TutorialService]] - `references` [EXTRACTED]
-- [[WeeklyEventService]] - `references` [EXTRACTED]
-- [[WildSpawner]] - `references` [EXTRACTED]
+- [[Connections_350]] - `contains` [EXTRACTED]
+- [[GraphAdminService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_145

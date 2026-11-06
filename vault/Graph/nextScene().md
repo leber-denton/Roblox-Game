@@ -17,6 +17,6 @@ tags:
 - [[begin()]] - `calls` [EXTRACTED]
 - [[check()_1]] - `calls` [EXTRACTED]
 - [[get()]] - `calls` [EXTRACTED]
-- [[sync()_1]] - `calls` [EXTRACTED]
+- [[sync()_2]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_14

@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/BattleService.luau"
 type: "code"
-community: "Community 34"
+community: "Community 22"
 location: "L53"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_34
+  - community/Community_22
 ---
 
 # BattleService.onReleased()
@@ -19,4 +19,4 @@ tags:
 - [[StoryService.init()]] - `calls` [INFERRED]
 - [[setupProducts()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_34
+#graphify/code #graphify/INFERRED #community/Community_22

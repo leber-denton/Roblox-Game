@@ -9,10 +9,12 @@ tags:
   - community/Community_35
 ---
 
-# FirstSpawnLock.md
+# FirstSpawnLock
 
 ## Connections
-- [[Code Map]] - `references` [EXTRACTED]
-- [[FirstSpawnLock_1]] - `contains` [EXTRACTED]
+- [[CodeFirstSpawnLock]] - `contains` [EXTRACTED]
+- [[Functions_89]] - `contains` [EXTRACTED]
+- [[Required by_86]] - `contains` [EXTRACTED]
+- [[Requires_79]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_35

@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Code/GymService.md"
+source_file: "vault/Graph/GymService.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 107"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_107
 ---
 
-# GymService.md
+# GymService
 
 ## Connections
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[GymService_1]] - `contains` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[NPC]] - `references` [EXTRACTED]
-- [[PlayerData]] - `references` [EXTRACTED]
-- [[TutorialService]] - `references` [EXTRACTED]
+- [[Connections_66]] - `contains` [EXTRACTED]
+- [[GraphGymService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_107

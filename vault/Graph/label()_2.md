@@ -12,7 +12,7 @@ tags:
 # label()
 
 ## Connections
-- [[DecorUI.client.luau]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
 - [[heading()]] - `calls` [EXTRACTED]
 - [[itemCard()]] - `calls` [EXTRACTED]
 - [[new()_7]] - `calls` [EXTRACTED]

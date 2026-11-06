@@ -12,9 +12,9 @@ tags:
 # categories()
 
 ## Connections
-- [[Functions_57]] - `references` [INFERRED]
+- [[Functions_122]] - `references` [INFERRED]
 - [[ShowcaseBuilder.build()]] - `calls` [EXTRACTED]
-- [[ShowcaseBuilder.luau]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.luau_2]] - `contains` [EXTRACTED]
 - [[galleryTrainers()]] - `calls` [EXTRACTED]
 - [[sourceOf()]] - `calls` [EXTRACTED]
 

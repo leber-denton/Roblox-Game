@@ -14,8 +14,8 @@ tags:
 ## Connections
 - [[BattleService.onEnded()]] - `calls` [INFERRED]
 - [[ColiseumService.init()]] - `calls` [EXTRACTED]
-- [[ColiseumService.luau]] - `contains` [EXTRACTED]
-- [[Functions_26]] - `references` [INFERRED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_93]] - `references` [INFERRED]
 - [[PlayerData.addBP()]] - `calls` [INFERRED]
 - [[SaveService.requestSave()]] - `calls` [INFERRED]
 - [[available()]] - `calls` [EXTRACTED]

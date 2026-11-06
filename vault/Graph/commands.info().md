@@ -12,7 +12,7 @@ tags:
 # commands.info()
 
 ## Connections
-- [[AdminService.luau]] - `contains` [EXTRACTED]
+- [[AdminService.luau_2]] - `contains` [EXTRACTED]
 - [[spots()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_17

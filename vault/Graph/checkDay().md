@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/ProgressService.luau"
 type: "code"
-community: "Community 24"
+community: "Community 21"
 location: "L72"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_21
 ---
 
 # checkDay()
@@ -23,4 +23,4 @@ tags:
 - [[syncQuests()]] - `calls` [EXTRACTED]
 - [[today()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_24
+#graphify/code #graphify/EXTRACTED #community/Community_21

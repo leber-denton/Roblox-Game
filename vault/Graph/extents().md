@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[ShowcaseBuilder.build()]] - `calls` [EXTRACTED]
-- [[ShowcaseBuilder.luau]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.luau_2]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_8

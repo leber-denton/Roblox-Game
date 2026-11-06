@@ -12,7 +12,7 @@ tags:
 # pill()
 
 ## Connections
-- [[HUD.client.luau]] - `contains` [EXTRACTED]
+- [[HUD.client.luau_2]] - `contains` [EXTRACTED]
 - [[showAnnouncement()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_8

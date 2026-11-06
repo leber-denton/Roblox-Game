@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[Functions_35]] - document - vault/Code/LockedLanes.md
-- [[LockedLanes_1]] - document - vault/Code/LockedLanes.md
-- [[LockedLanes]] - document - vault/Code/LockedLanes.md
-- [[Required by_35]] - document - vault/Code/LockedLanes.md
-- [[Requires_35]] - document - vault/Code/LockedLanes.md
+- [[CodeLockedLanes]] - document - vault/Code/LockedLanes.md
+- [[Functions_99]] - document - vault/Code/LockedLanes.md
+- [[LockedLanes_2]] - document - vault/Code/LockedLanes.md
+- [[Required by_96]] - document - vault/Code/LockedLanes.md
+- [[Requires_97]] - document - vault/Code/LockedLanes.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 28]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[LockedLanes]] - degree 2, connects to 1 community
+- [[CodeLockedLanes]] - degree 2, connects to 1 community

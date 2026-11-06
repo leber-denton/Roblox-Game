@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/PlayerData.luau"
 type: "code"
-community: "Community 22"
+community: "Community 12"
 location: "L153"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_22
+  - community/Community_12
 ---
 
 # PlayerData.serialize()
@@ -15,4 +15,4 @@ tags:
 - [[PlayerData.luau]] - `contains` [EXTRACTED]
 - [[SaveService.save()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_22
+#graphify/code #graphify/EXTRACTED #community/Community_12

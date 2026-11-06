@@ -1,21 +1,20 @@
 ---
 source_file: "vault/Code/Menus.md"
 type: "document"
-community: "Community 25"
+community: "Community 284"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_25
+  - community/Community_284
 ---
 
-# Menus.md
+# Menus
 
 ## Connections
-- [[BattleData]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[CreatureBuilder]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Menus_1]] - `contains` [EXTRACTED]
+- [[CodeMenus]] - `contains` [EXTRACTED]
+- [[Functions_72]] - `contains` [EXTRACTED]
+- [[Required by_74]] - `contains` [EXTRACTED]
+- [[Requires_72]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_25
+#graphify/document #graphify/EXTRACTED #community/Community_284

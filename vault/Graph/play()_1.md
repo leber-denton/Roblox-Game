@@ -1,8 +1,8 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Story.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau"
 type: "code"
 community: "Community 19"
-location: "L39"
+location: "L28"
 tags:
   - graphify/code
   - graphify/EXTRACTED
@@ -12,8 +12,7 @@ tags:
 # play()
 
 ## Connections
-- [[Story.client.luau]] - `contains` [EXTRACTED]
-- [[playScene()]] - `calls` [EXTRACTED]
-- [[regionTour()]] - `calls` [EXTRACTED]
+- [[Tutorial.client.luau_2]] - `contains` [EXTRACTED]
+- [[intro()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_19

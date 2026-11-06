@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/BattleService.luau"
 type: "code"
-community: "Community 22"
+community: "Community 15"
 location: "L50"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_22
+  - community/Community_15
 ---
 
 # BattleService.onEnded()
@@ -19,7 +19,7 @@ tags:
 - [[ProgressService.init()]] - `calls` [INFERRED]
 - [[RouteTrainerService.init()]] - `calls` [INFERRED]
 - [[StoryService.init()]] - `calls` [INFERRED]
-- [[setup()]] - `calls` [INFERRED]
+- [[setup()_1]] - `calls` [INFERRED]
 - [[setupActivities()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_22
+#graphify/code #graphify/INFERRED #community/Community_15

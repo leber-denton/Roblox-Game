@@ -1,24 +1,19 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau"
-type: "code"
-community: "Community 12"
+source_file: "vault/Graph/ColiseumUI.client.luau.md"
+type: "document"
+community: "Community 203"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_203
 ---
 
-# ColiseumUI.client.luau
+# ColiseumUI.client.luau.md
 
 ## Connections
-- [[build()]] - `contains` [EXTRACTED]
-- [[header()]] - `contains` [EXTRACTED]
-- [[hideOwn()]] - `contains` [EXTRACTED]
-- [[new()_2]] - `contains` [EXTRACTED]
-- [[refreshPill()]] - `contains` [EXTRACTED]
-- [[replicatedstorage_waitforchild]] - `imports` [EXTRACTED]
-- [[round()_1]] - `contains` [EXTRACTED]
-- [[row()]] - `contains` [EXTRACTED]
+- [[ColiseumUI.client.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
+- [[replicatedstorage_waitforchild]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_203

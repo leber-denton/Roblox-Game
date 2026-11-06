@@ -1,18 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/CreatureLife.client.luau"
-type: "code"
-community: "Community 80"
+source_file: "vault/Graph/CreatureLife.client.luau.md"
+type: "document"
+community: "Community 191"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_80
+  - community/Community_191
 ---
 
-# CreatureLife.client.luau
+# CreatureLife.client.luau.md
 
 ## Connections
-- [[register()]] - `contains` [EXTRACTED]
-- [[scan()]] - `contains` [EXTRACTED]
+- [[CreatureLife.client.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 80]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_80
+#graphify/document #graphify/EXTRACTED #community/Community_191

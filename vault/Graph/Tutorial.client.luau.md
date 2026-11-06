@@ -1,28 +1,19 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau"
-type: "code"
-community: "Community 11"
+source_file: "vault/Graph/Tutorial.client.luau.md"
+type: "document"
+community: "Community 181"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_11
+  - community/Community_181
 ---
 
-# Tutorial.client.luau
+# Tutorial.client.luau.md
 
 ## Connections
-- [[arrowPart()]] - `contains` [EXTRACTED]
-- [[hideIfNotMine()]] - `contains` [EXTRACTED]
-- [[intro()]] - `contains` [EXTRACTED]
-- [[new()_1]] - `contains` [EXTRACTED]
-- [[play()]] - `contains` [EXTRACTED]
-- [[preview()_1]] - `contains` [EXTRACTED]
-- [[queueDialogue()]] - `contains` [EXTRACTED]
-- [[runDialogue()]] - `contains` [EXTRACTED]
-- [[setHighlight()]] - `contains` [EXTRACTED]
-- [[shared_waitforchild]] - `imports` [EXTRACTED]
-- [[showPicker()]] - `contains` [EXTRACTED]
-- [[targetValue()]] - `contains` [EXTRACTED]
+- [[Tutorial.client.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
+- [[shared_waitforchild]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_11
+#graphify/document #graphify/EXTRACTED #community/Community_181

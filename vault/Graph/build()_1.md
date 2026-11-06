@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[ArenaManager.acquire()]] - `calls` [EXTRACTED]
-- [[ArenaManager.luau]] - `contains` [EXTRACTED]
+- [[ArenaManager.luau_2]] - `contains` [EXTRACTED]
 - [[disc()]] - `calls` [EXTRACTED]
 - [[part()_3]] - `calls` [EXTRACTED]
 

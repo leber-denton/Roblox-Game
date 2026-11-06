@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/BaseManager.luau"
 type: "code"
-community: "Community 49"
+community: "Community 22"
 location: "L487"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_49
+  - community/Community_22
 ---
 
 # BaseManager.spawnCFrame()
@@ -16,4 +16,4 @@ tags:
 - [[commands.newPlayer()]] - `calls` [INFERRED]
 - [[onCharacter()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_49
+#graphify/code #graphify/INFERRED #community/Community_22

@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Code/Wander.md"
+source_file: "vault/Graph/Wander_1.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 322"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_322
 ---
 
-# Wander.md
+# Wander
 
 ## Connections
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
+- [[Connections_813]] - `contains` [EXTRACTED]
 - [[Wander_1]] - `contains` [EXTRACTED]
-- [[WildSpawner]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_322

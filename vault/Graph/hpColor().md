@@ -12,7 +12,7 @@ tags:
 # hpColor()
 
 ## Connections
-- [[BattleUI.client.luau]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
 - [[setCardHP()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_7

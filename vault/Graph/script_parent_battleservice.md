@@ -1,27 +1,20 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 33"
+source_file: "vault/Graph/script_parent_battleservice.md"
+type: "document"
+community: "Community 148"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_148
 ---
 
-# script_parent_battleservice
+# script_parent_battleservice.md
 
 ## Connections
-- [[AdminService.luau]] - `imports` [EXTRACTED]
-- [[ColiseumService.luau]] - `imports` [EXTRACTED]
-- [[DecorService.luau]] - `imports` [EXTRACTED]
-- [[DungeonService.luau]] - `imports` [EXTRACTED]
-- [[GymService.luau]] - `imports` [EXTRACTED]
-- [[LeagueService.luau]] - `imports` [EXTRACTED]
-- [[ProgressService.luau]] - `imports` [EXTRACTED]
-- [[RouteTrainerService.luau]] - `imports` [EXTRACTED]
-- [[SocialService.luau]] - `imports` [EXTRACTED]
-- [[StoryService.luau]] - `imports` [EXTRACTED]
-- [[TutorialService.luau]] - `imports` [EXTRACTED]
-- [[WildSpawner.luau]] - `imports` [EXTRACTED]
+- [[ColiseumService.luau]] - `references` [EXTRACTED]
+- [[WildSpawner.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 33]] - `references` [EXTRACTED]
+- [[script_parent_battleservice_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_33
+#graphify/document #graphify/EXTRACTED #community/Community_148

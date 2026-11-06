@@ -1,22 +1,17 @@
 ---
-source_file: "vault/Code/HUD.md"
+source_file: "vault/Graph/Functions_56.md"
 type: "document"
-community: "Community 8"
-location: "L10"
+community: "Community 184"
+location: "L1"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_8
+  - graphify/EXTRACTED
+  - community/Community_184
 ---
 
-# Functions
+# Functions_56.md
 
 ## Connections
-- [[HUD_1]] - `contains` [EXTRACTED]
-- [[updateCoins()]] - `references` [INFERRED]
-- [[updateLevel()]] - `references` [INFERRED]
-- [[updateTeam()]] - `references` [INFERRED]
-- [[updateTopBar()]] - `references` [INFERRED]
-- [[updateWildShiftTimer()]] - `references` [INFERRED]
+- [[Functions_49]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_8
+#graphify/document #graphify/EXTRACTED #community/Community_184

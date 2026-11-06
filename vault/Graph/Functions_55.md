@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Code/WildSpawner.md"
+source_file: "vault/Code/Bag.md"
 type: "document"
-community: "Community 78"
-location: "L16"
+community: "Community 20"
+location: "L10"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Community_78
+  - graphify/INFERRED
+  - community/Community_20
 ---
 
 # Functions
 
 ## Connections
-- [[WildSpawner_1]] - `contains` [EXTRACTED]
+- [[Bag]] - `contains` [EXTRACTED]
+- [[getInventory()]] - `references` [INFERRED]
+- [[showTradeHistory()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_78
+#graphify/document #graphify/INFERRED #community/Community_20

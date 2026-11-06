@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Code/ShowcaseBuilder.md"
+source_file: "vault/Graph/ShowcaseBuilder_1.md"
 type: "document"
-community: "Community 8"
+community: "Community 248"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_248
 ---
 
-# ShowcaseBuilder
+# ShowcaseBuilder_1.md
 
 ## Connections
-- [[Functions_57]] - `contains` [EXTRACTED]
-- [[Required by_57]] - `contains` [EXTRACTED]
-- [[Requires_57]] - `contains` [EXTRACTED]
-- [[ShowcaseBuilder]] - `contains` [EXTRACTED]
+- [[GraphShowcaseBuilder]] - `references` [EXTRACTED]
+- [[ShowcaseBuilder_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_8
+#graphify/document #graphify/EXTRACTED #community/Community_248

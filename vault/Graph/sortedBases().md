@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[BaseManager.assign()]] - `calls` [EXTRACTED]
 - [[BaseManager.luau]] - `contains` [EXTRACTED]
-- [[Functions_10]] - `references` [INFERRED]
+- [[Functions_71]] - `references` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_16

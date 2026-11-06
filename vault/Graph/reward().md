@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/RouteTrainerService.luau"
 type: "code"
-community: "Community 33"
+community: "Community 15"
 location: "L29"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_15
 ---
 
 # reward()
@@ -15,4 +15,4 @@ tags:
 - [[RouteTrainerService.luau]] - `contains` [EXTRACTED]
 - [[challenge()_1]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_33
+#graphify/code #graphify/EXTRACTED #community/Community_15

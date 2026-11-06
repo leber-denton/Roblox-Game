@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Code/ModelSyncLookup.md"
+source_file: "vault/Graph/ModelSyncLookup_1.md"
 type: "document"
-community: "Community 70"
+community: "Community 158"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_70
+  - community/Community_158
 ---
 
-# ModelSyncLookup
+# ModelSyncLookup_1.md
 
 ## Connections
-- [[Functions_47]] - `contains` [EXTRACTED]
-- [[ModelSyncLookup]] - `contains` [EXTRACTED]
-- [[Required by_47]] - `contains` [EXTRACTED]
-- [[Requires_47]] - `contains` [EXTRACTED]
+- [[Functions_47]] - `references` [EXTRACTED]
+- [[GraphModelSyncLookup]] - `references` [EXTRACTED]
+- [[ModelSyncLookup_1_1]] - `contains` [EXTRACTED]
+- [[Required by_47]] - `references` [EXTRACTED]
+- [[Requires_47]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 70]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_70
+#graphify/document #graphify/EXTRACTED #community/Community_158

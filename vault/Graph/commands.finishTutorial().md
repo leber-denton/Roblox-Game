@@ -12,7 +12,7 @@ tags:
 # commands.finishTutorial()
 
 ## Connections
-- [[AdminService.luau]] - `contains` [EXTRACTED]
+- [[AdminService.luau_2]] - `contains` [EXTRACTED]
 - [[BaseManager.getTeam()]] - `calls` [INFERRED]
 - [[give()]] - `calls` [EXTRACTED]
 

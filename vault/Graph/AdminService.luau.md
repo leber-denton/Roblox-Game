@@ -1,55 +1,50 @@
 ---
-source_file: "src/ServerScriptService/Modules/AdminService.luau"
-type: "code"
-community: "Community 17"
+source_file: "vault/Graph/AdminService.luau.md"
+type: "document"
+community: "Community 168"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_17
+  - community/Community_168
 ---
 
-# AdminService.luau
+# AdminService.luau.md
 
 ## Connections
-- [[AdminService.init()]] - `contains` [EXTRACTED]
-- [[AdminService.isAdmin()]] - `contains` [EXTRACTED]
-- [[BattleData.luau]] - `imports` [EXTRACTED]
-- [[GameData.luau]] - `imports` [EXTRACTED]
-- [[Main.server.luau]] - `imports` [EXTRACTED]
-- [[commands.addStar()]] - `contains` [EXTRACTED]
-- [[commands.allBadges()]] - `contains` [EXTRACTED]
-- [[commands.badges()]] - `contains` [EXTRACTED]
-- [[commands.beatTrainers()]] - `contains` [EXTRACTED]
-- [[commands.bp()]] - `contains` [EXTRACTED]
-- [[commands.capacity()]] - `contains` [EXTRACTED]
-- [[commands.champion()]] - `contains` [EXTRACTED]
-- [[commands.clearWild()]] - `contains` [EXTRACTED]
-- [[commands.coins()]] - `contains` [EXTRACTED]
-- [[commands.finishTutorial()]] - `contains` [EXTRACTED]
-- [[commands.give()]] - `contains` [EXTRACTED]
-- [[commands.heal()]] - `contains` [EXTRACTED]
-- [[commands.info()]] - `contains` [EXTRACTED]
-- [[commands.items()]] - `contains` [EXTRACTED]
-- [[commands.juniper()]] - `contains` [EXTRACTED]
-- [[commands.maxTeam()]] - `contains` [EXTRACTED]
-- [[commands.newPlayer()]] - `contains` [EXTRACTED]
-- [[commands.opTeam()]] - `contains` [EXTRACTED]
-- [[commands.rare()]] - `contains` [EXTRACTED]
-- [[commands.resetTrainers()]] - `contains` [EXTRACTED]
-- [[commands.saving()]] - `contains` [EXTRACTED]
-- [[commands.storm()]] - `contains` [EXTRACTED]
-- [[commands.swarm()]] - `contains` [EXTRACTED]
-- [[commands.teleport()]] - `contains` [EXTRACTED]
-- [[commands.towerTop()]] - `contains` [EXTRACTED]
-- [[commands.weakTeam()]] - `contains` [EXTRACTED]
-- [[give()]] - `contains` [EXTRACTED]
-- [[script_parent_basemanager]] - `imports` [EXTRACTED]
-- [[script_parent_battleservice]] - `imports` [EXTRACTED]
-- [[script_parent_playerdata]] - `imports` [EXTRACTED]
-- [[script_parent_rareeventservice]] - `imports` [EXTRACTED]
-- [[script_parent_wildspawner]] - `imports` [EXTRACTED]
-- [[spots()]] - `contains` [EXTRACTED]
-- [[strongest()_1]] - `contains` [EXTRACTED]
+- [[AdminService.init()_1]] - `references` [EXTRACTED]
+- [[AdminService.isAdmin()_1]] - `references` [EXTRACTED]
+- [[AdminService.luau_1]] - `contains` [EXTRACTED]
+- [[BattleData.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
+- [[commands.addStar()_1]] - `references` [EXTRACTED]
+- [[commands.allBadges()_1]] - `references` [EXTRACTED]
+- [[commands.badges()_1]] - `references` [EXTRACTED]
+- [[commands.beatTrainers()_1]] - `references` [EXTRACTED]
+- [[commands.bp()_1]] - `references` [EXTRACTED]
+- [[commands.capacity()_1]] - `references` [EXTRACTED]
+- [[commands.champion()_1]] - `references` [EXTRACTED]
+- [[commands.clearWild()_1]] - `references` [EXTRACTED]
+- [[commands.coins()_1]] - `references` [EXTRACTED]
+- [[commands.finishTutorial()_1]] - `references` [EXTRACTED]
+- [[commands.give()_1]] - `references` [EXTRACTED]
+- [[commands.heal()_1]] - `references` [EXTRACTED]
+- [[commands.info()_1]] - `references` [EXTRACTED]
+- [[commands.items()_1]] - `references` [EXTRACTED]
+- [[commands.juniper()_1]] - `references` [EXTRACTED]
+- [[commands.maxTeam()_1]] - `references` [EXTRACTED]
+- [[commands.newPlayer()_1]] - `references` [EXTRACTED]
+- [[commands.opTeam()_1]] - `references` [EXTRACTED]
+- [[commands.rare()_1]] - `references` [EXTRACTED]
+- [[commands.resetTrainers()_1]] - `references` [EXTRACTED]
+- [[commands.saving()_1]] - `references` [EXTRACTED]
+- [[commands.storm()_1]] - `references` [EXTRACTED]
+- [[commands.swarm()_1]] - `references` [EXTRACTED]
+- [[commands.teleport()_1]] - `references` [EXTRACTED]
+- [[commands.towerTop()_1]] - `references` [EXTRACTED]
+- [[commands.weakTeam()_1]] - `references` [EXTRACTED]
+- [[give()_1]] - `references` [EXTRACTED]
+- [[spots()_1]] - `references` [EXTRACTED]
+- [[strongest()_1_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_17
+#graphify/document #graphify/EXTRACTED #community/Community_168

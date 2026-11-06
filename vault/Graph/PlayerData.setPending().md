@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/PlayerData.luau"
 type: "code"
-community: "Community 2"
+community: "Community 11"
 location: "L224"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Community_11
 ---
 
 # PlayerData.setPending()
@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[PassService.onLoaded()]] - `calls` [INFERRED]
 - [[PlayerData.luau]] - `contains` [EXTRACTED]
-- [[finite()_1]] - `calls` [EXTRACTED]
+- [[finite()]] - `calls` [EXTRACTED]
 - [[setupProducts()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_2
+#graphify/code #graphify/EXTRACTED #community/Community_11

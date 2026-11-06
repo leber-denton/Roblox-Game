@@ -1,22 +1,19 @@
 ---
-source_file: "src/ServerScriptService/Modules/PassService.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Sprint.client.luau"
 type: "code"
-community: "Community 2"
-location: "L64"
+community: "Community 222"
+location: "L26"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Community_222
 ---
 
 # apply()
 
 ## Connections
-- [[BaseManager.recalcCapacity()]] - `calls` [INFERRED]
-- [[PassService.check()]] - `calls` [EXTRACTED]
-- [[PassService.init()]] - `calls` [EXTRACTED]
-- [[PassService.luau]] - `contains` [EXTRACTED]
-- [[addTrail()]] - `calls` [EXTRACTED]
-- [[apply()_2]] - `calls` [EXTRACTED]
+- [[Sprint.client.luau_2]] - `contains` [EXTRACTED]
+- [[onSprint()]] - `calls` [EXTRACTED]
+- [[targetSpeed()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_2
+#graphify/code #graphify/EXTRACTED #community/Community_222

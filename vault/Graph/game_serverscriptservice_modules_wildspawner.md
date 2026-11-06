@@ -1,16 +1,19 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 5"
+source_file: "vault/Graph/game_serverscriptservice_modules_wildspawner.md"
+type: "document"
+community: "Community 140"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_5
+  - community/Community_140
 ---
 
-# game_serverscriptservice_modules_wildspawner
+# game_serverscriptservice_modules_wildspawner.md
 
 ## Connections
-- [[WildShiftTests.luau]] - `imports` [EXTRACTED]
+- [[WildShiftTests.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
+- [[game_serverscriptservice_modules_wildspawner_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_5
+#graphify/document #graphify/EXTRACTED #community/Community_140

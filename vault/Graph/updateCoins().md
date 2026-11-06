@@ -12,8 +12,8 @@ tags:
 # updateCoins()
 
 ## Connections
-- [[Functions_56]] - `references` [INFERRED]
-- [[HUD.client.luau]] - `contains` [EXTRACTED]
+- [[Functions_120]] - `references` [INFERRED]
+- [[HUD.client.luau_2]] - `contains` [EXTRACTED]
 - [[floatText()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_8

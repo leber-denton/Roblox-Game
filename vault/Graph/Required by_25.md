@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/NPCAnimator.md"
+source_file: "vault/Graph/Required by_22.md"
 type: "document"
-community: "Community 39"
-location: "L7"
+community: "Community 155"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_39
+  - community/Community_155
 ---
 
 # Required by
 
 ## Connections
-- [[NPCAnimator_1]] - `contains` [EXTRACTED]
+- [[Connections_410]] - `contains` [EXTRACTED]
+- [[Required by_22_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_39
+#graphify/document #graphify/EXTRACTED #community/Community_155

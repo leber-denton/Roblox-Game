@@ -1,28 +1,18 @@
 ---
-source_file: "src/ServerScriptService/Modules/PlayerData.luau"
+source_file: "src/ServerScriptService/Modules/BaseManager.luau"
 type: "code"
-community: "Community 21"
-location: "L22"
+community: "Community 16"
+location: "L16"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_16
 ---
 
 # finite()
 
 ## Connections
-- [[PlayerData.addBP()]] - `calls` [EXTRACTED]
-- [[PlayerData.addBoost()]] - `calls` [EXTRACTED]
-- [[PlayerData.addCoins()]] - `calls` [EXTRACTED]
-- [[PlayerData.addCoinsRaw()]] - `calls` [EXTRACTED]
-- [[PlayerData.addItem()]] - `calls` [EXTRACTED]
-- [[PlayerData.addXP()]] - `calls` [EXTRACTED]
-- [[PlayerData.load()]] - `calls` [EXTRACTED]
-- [[PlayerData.luau]] - `contains` [EXTRACTED]
-- [[PlayerData.setPending()]] - `calls` [EXTRACTED]
-- [[PlayerData.spend()]] - `calls` [EXTRACTED]
-- [[PlayerData.spendBP()]] - `calls` [EXTRACTED]
-- [[PlayerData.takeItem()]] - `calls` [EXTRACTED]
+- [[BaseManager.luau]] - `contains` [EXTRACTED]
+- [[BaseManager.restore()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_21
+#graphify/code #graphify/EXTRACTED #community/Community_16

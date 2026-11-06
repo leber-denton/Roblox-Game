@@ -12,7 +12,7 @@ tags:
 # NpcGuard.run()
 
 ## Connections
-- [[NpcGuard.luau]] - `contains` [EXTRACTED]
+- [[NpcGuard.luau_2]] - `contains` [EXTRACTED]
 - [[npcs()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_38

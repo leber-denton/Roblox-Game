@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[AdminService.init()]] - `calls` [EXTRACTED]
-- [[AdminService.luau]] - `contains` [EXTRACTED]
+- [[AdminService.luau_2]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_17

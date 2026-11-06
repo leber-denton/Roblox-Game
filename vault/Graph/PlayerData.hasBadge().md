@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/PlayerData.luau"
 type: "code"
-community: "Community 15"
+community: "Community 11"
 location: "L353"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_15
+  - community/Community_11
 ---
 
 # PlayerData.hasBadge()
@@ -15,6 +15,6 @@ tags:
 - [[PlayerData.luau]] - `contains` [EXTRACTED]
 - [[commands.allBadges()]] - `calls` [INFERRED]
 - [[commands.badges()]] - `calls` [INFERRED]
-- [[setup()]] - `calls` [INFERRED]
+- [[setup()_1]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_15
+#graphify/code #graphify/INFERRED #community/Community_11

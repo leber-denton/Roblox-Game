@@ -8,12 +8,12 @@ members: 10
 **Members:** 10 nodes
 
 ## Members
-- [[FirstSpawnLock_1]] - document - vault/Code/FirstSpawnLock.md
-- [[FirstSpawnLock.client.luau]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
+- [[CodeFirstSpawnLock]] - document - vault/Code/FirstSpawnLock.md
 - [[FirstSpawnLock]] - document - vault/Code/FirstSpawnLock.md
-- [[Functions_22]] - document - vault/Code/FirstSpawnLock.md
-- [[Required by_22]] - document - vault/Code/FirstSpawnLock.md
-- [[Requires_22]] - document - vault/Code/FirstSpawnLock.md
+- [[FirstSpawnLock.client.luau]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
+- [[Functions_89]] - document - vault/Code/FirstSpawnLock.md
+- [[Required by_86]] - document - vault/Code/FirstSpawnLock.md
+- [[Requires_79]] - document - vault/Code/FirstSpawnLock.md
 - [[isLocked()]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
 - [[lockPrompt()]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
 - [[unlockAll()]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
@@ -27,7 +27,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 28]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[FirstSpawnLock]] - degree 2, connects to 1 community
+- [[CodeFirstSpawnLock]] - degree 2, connects to 1 community

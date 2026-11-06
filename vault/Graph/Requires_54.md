@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/WeeklyEventService.md"
+source_file: "vault/Graph/Requires_3.md"
 type: "document"
-community: "Community 77"
-location: "L4"
+community: "Community 188"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_77
+  - community/Community_188
 ---
 
 # Requires
 
 ## Connections
-- [[WeeklyEventService_1]] - `contains` [EXTRACTED]
+- [[Connections_542]] - `contains` [EXTRACTED]
+- [[Requires_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_77
+#graphify/document #graphify/EXTRACTED #community/Community_188

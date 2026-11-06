@@ -12,6 +12,6 @@ tags:
 # Requires
 
 ## Connections
-- [[Music_1]] - `contains` [EXTRACTED]
+- [[Music]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1

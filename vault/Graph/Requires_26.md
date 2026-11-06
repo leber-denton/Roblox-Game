@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/ColiseumService.md"
+source_file: "vault/Graph/Requires_23.md"
 type: "document"
-community: "Community 4"
-location: "L4"
+community: "Community 156"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_4
+  - community/Community_156
 ---
 
 # Requires
 
 ## Connections
-- [[ColiseumService_1]] - `contains` [EXTRACTED]
+- [[Connections_420]] - `contains` [EXTRACTED]
+- [[Requires_23_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_4
+#graphify/document #graphify/EXTRACTED #community/Community_156

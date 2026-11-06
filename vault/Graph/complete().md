@@ -19,6 +19,6 @@ tags:
 - [[StoryService.init()]] - `calls` [EXTRACTED]
 - [[StoryService.luau]] - `contains` [EXTRACTED]
 - [[get()]] - `calls` [EXTRACTED]
-- [[sync()_1]] - `calls` [EXTRACTED]
+- [[sync()_2]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_14

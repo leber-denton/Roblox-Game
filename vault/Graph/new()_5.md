@@ -1,24 +1,20 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Bag.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau"
 type: "code"
-community: "Community 20"
-location: "L21"
+community: "Community 239"
+location: "L22"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_20
+  - community/Community_239
 ---
 
 # new()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
-- [[ballIcon()]] - `calls` [EXTRACTED]
-- [[label()_1]] - `calls` [EXTRACTED]
-- [[refresh()_1]] - `calls` [EXTRACTED]
+- [[ColiseumUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[header()]] - `calls` [EXTRACTED]
 - [[round()_2]] - `calls` [EXTRACTED]
-- [[showDetail()_1]] - `calls` [EXTRACTED]
-- [[showPicker()_1]] - `calls` [EXTRACTED]
-- [[showTradeHistory()]] - `calls` [EXTRACTED]
+- [[row()_1]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_20
+#graphify/code #graphify/EXTRACTED #community/Community_239

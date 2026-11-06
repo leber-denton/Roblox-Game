@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/BaseManager.luau"
 type: "code"
-community: "Community 41"
+community: "Community 16"
 location: "L445"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_16
 ---
 
 # BaseManager.healAll()
@@ -19,4 +19,4 @@ tags:
 - [[commands.heal()]] - `calls` [INFERRED]
 - [[heal()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_41
+#graphify/code #graphify/EXTRACTED #community/Community_16

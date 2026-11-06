@@ -12,8 +12,8 @@ tags:
 # myBase()
 
 ## Connections
-- [[DecorUI.client.luau]] - `contains` [EXTRACTED]
-- [[Functions_21]] - `references` [INFERRED]
+- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_77]] - `references` [INFERRED]
 - [[aimRay()]] - `calls` [EXTRACTED]
 - [[placedModel()]] - `calls` [EXTRACTED]
 

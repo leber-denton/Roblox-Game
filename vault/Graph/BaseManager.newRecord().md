@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/BaseManager.luau"
 type: "code"
-community: "Community 23"
+community: "Community 16"
 location: "L283"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_23
+  - community/Community_16
 ---
 
 # BaseManager.newRecord()
@@ -21,4 +21,4 @@ tags:
 - [[complete()]] - `calls` [INFERRED]
 - [[give()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_23
+#graphify/code #graphify/INFERRED #community/Community_16

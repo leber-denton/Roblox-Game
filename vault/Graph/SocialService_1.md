@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Code/SocialService.md"
+source_file: "vault/Graph/SocialService_1.md"
 type: "document"
-community: "Community 13"
+community: "Community 256"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_256
 ---
 
-# SocialService.md
+# SocialService_1.md
 
 ## Connections
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[ColiseumService]] - `references` [EXTRACTED]
-- [[CreatureBuilder]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[SaveService]] - `references` [EXTRACTED]
-- [[SocialService]] - `contains` [EXTRACTED]
+- [[SocialService_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_256

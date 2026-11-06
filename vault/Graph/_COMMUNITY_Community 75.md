@@ -1,17 +1,22 @@
 ---
 type: community
-members: 4
+members: 9
 ---
 
 # Community 75
 
-**Members:** 4 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Functions_52]] - document - vault/Code/Showcase.md
-- [[Required by_52]] - document - vault/Code/Showcase.md
-- [[Requires_52]] - document - vault/Code/Showcase.md
-- [[Showcase_1]] - document - vault/Code/Showcase.md
+- [[Connections_1032]] - document - vault/Graph/commands.finishTutorial().md
+- [[Connections_1033]] - document - vault/Graph/commands.give().md
+- [[Connections_1034]] - document - vault/Graph/give().md
+- [[commands.finishTutorial()_2]] - document - vault/Graph/commands.finishTutorial().md
+- [[commands.finishTutorial()_1]] - document - vault/Graph/commands.finishTutorial().md
+- [[commands.give()_2]] - document - vault/Graph/commands.give().md
+- [[commands.give()_1]] - document - vault/Graph/commands.give().md
+- [[give()_2]] - document - vault/Graph/give().md
+- [[give()_1]] - document - vault/Graph/give().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,7 +26,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 28]]
+- 3 edges to [[_COMMUNITY_Community 168]]
+- 3 edges to [[_COMMUNITY_Community 224]]
+- 3 edges to [[_COMMUNITY_Community 42]]
+- 1 edge to [[_COMMUNITY_Community 229]]
 
 ## Top bridge nodes
-- [[Showcase_1]] - degree 4, connects to 1 community
+- [[give()_1]] - degree 8, connects to 4 communities
+- [[commands.finishTutorial()_1]] - degree 5, connects to 3 communities
+- [[commands.give()_1]] - degree 4, connects to 2 communities

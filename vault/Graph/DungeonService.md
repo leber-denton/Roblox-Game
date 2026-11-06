@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Code/DungeonService.md"
+source_file: "vault/Graph/DungeonService.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 154"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_154
 ---
 
-# DungeonService.md
+# DungeonService
 
 ## Connections
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[DungeonService_1]] - `contains` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[NPC]] - `references` [EXTRACTED]
+- [[Connections_399]] - `contains` [EXTRACTED]
+- [[GraphDungeonService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_154

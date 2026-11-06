@@ -8,10 +8,10 @@ members: 26
 **Members:** 26 nodes
 
 ## Members
-- [[Functions_8]] - document - vault/Code/StoryService.md
-- [[Required by_8]] - document - vault/Code/StoryService.md
-- [[Requires_8]] - document - vault/Code/StoryService.md
-- [[StoryService_1]] - document - vault/Code/StoryService.md
+- [[Functions_18]] - document - vault/Code/StoryService.md
+- [[Required by_16]] - document - vault/Code/StoryService.md
+- [[Requires_16]] - document - vault/Code/StoryService.md
+- [[StoryService]] - document - vault/Code/StoryService.md
 - [[StoryService.hasCompleted()]] - code - src/ServerScriptService/Modules/StoryService.luau
 - [[StoryService.init()]] - code - src/ServerScriptService/Modules/StoryService.luau
 - [[StoryService.luau]] - code - src/ServerScriptService/Modules/StoryService.luau
@@ -31,9 +31,9 @@ members: 26
 - [[makeGrunt()]] - code - src/ServerScriptService/Modules/StoryService.luau
 - [[nextScene()]] - code - src/ServerScriptService/Modules/StoryService.luau
 - [[part()]] - code - src/ServerScriptService/Modules/StoryService.luau
-- [[script_parent_tutorialservice]] - concept
+- [[script_parent_tutorialservice_2]] - concept
 - [[setupWorld()]] - code - src/ServerScriptService/Modules/StoryService.luau
-- [[sync()_1]] - code - src/ServerScriptService/Modules/StoryService.luau
+- [[sync()_2]] - code - src/ServerScriptService/Modules/StoryService.luau
 
 ## Live Query (requires Dataview plugin)
 
@@ -43,25 +43,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 4 edges to [[_COMMUNITY_Community 15]]
+- 3 edges to [[_COMMUNITY_Community 16]]
 - 3 edges to [[_COMMUNITY_Community 22]]
-- 2 edges to [[_COMMUNITY_Community 34]]
+- 2 edges to [[_COMMUNITY_Community 21]]
 - 2 edges to [[_COMMUNITY_Community 18]]
-- 2 edges to [[_COMMUNITY_Community 33]]
-- 1 edge to [[_COMMUNITY_Community 0]]
-- 1 edge to [[_COMMUNITY_Community 21]]
-- 1 edge to [[_COMMUNITY_Community 16]]
-- 1 edge to [[_COMMUNITY_Community 23]]
-- 1 edge to [[_COMMUNITY_Community 2]]
-- 1 edge to [[_COMMUNITY_Community 41]]
+- 2 edges to [[_COMMUNITY_Community 12]]
+- 1 edge to [[_COMMUNITY_Community 11]]
 - 1 edge to [[_COMMUNITY_Community 17]]
 - 1 edge to [[_COMMUNITY_Community 13]]
-- 1 edge to [[_COMMUNITY_Community 30]]
-- 1 edge to [[_COMMUNITY_Community 15]]
-- 1 edge to [[_COMMUNITY_Community 4]]
+- 1 edge to [[_COMMUNITY_Community 7]]
 
 ## Top bridge nodes
 - [[StoryService.luau]] - degree 28, connects to 6 communities
-- [[complete()]] - degree 8, connects to 4 communities
+- [[complete()]] - degree 8, connects to 3 communities
 - [[StoryService.onLoaded()]] - degree 7, connects to 3 communities
 - [[StoryService.init()]] - degree 8, connects to 2 communities
 - [[setupWorld()]] - degree 9, connects to 1 community

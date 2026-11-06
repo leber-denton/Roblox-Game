@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/Wander.luau"
 type: "code"
-community: "Community 37"
+community: "Community 21"
 location: "L48"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_37
+  - community/Community_21
 ---
 
 # Wander.groundAt()
@@ -17,4 +17,4 @@ tags:
 - [[ignoreList()]] - `calls` [EXTRACTED]
 - [[step()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_37
+#graphify/code #graphify/EXTRACTED #community/Community_21

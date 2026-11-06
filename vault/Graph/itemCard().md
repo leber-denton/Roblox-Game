@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[DecorData.describe()]] - `calls` [INFERRED]
-- [[DecorUI.client.luau]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
 - [[button()]] - `calls` [EXTRACTED]
 - [[label()_2]] - `calls` [EXTRACTED]
 - [[new()_7]] - `calls` [EXTRACTED]

@@ -12,7 +12,7 @@ tags:
 # addTrainerPrompt()
 
 ## Connections
-- [[ColiseumService.luau]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[SocialService.request()]] - `calls` [INFERRED]
 - [[prompt()]] - `calls` [EXTRACTED]
 

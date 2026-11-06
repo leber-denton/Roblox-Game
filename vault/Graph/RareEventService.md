@@ -1,24 +1,20 @@
 ---
 source_file: "vault/Code/RareEventService.md"
 type: "document"
-community: "Community 13"
+community: "Community 2"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_2
 ---
 
-# RareEventService.md
+# RareEventService
 
 ## Connections
-- [[AdminService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[PassService]] - `references` [EXTRACTED]
-- [[RareEventService_1]] - `contains` [EXTRACTED]
-- [[WeeklyEventService]] - `references` [EXTRACTED]
-- [[WildSpawner]] - `references` [EXTRACTED]
+- [[CodeRareEventService]] - `contains` [EXTRACTED]
+- [[Functions_54]] - `contains` [EXTRACTED]
+- [[Required by_59]] - `contains` [EXTRACTED]
+- [[Requires_58]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_2

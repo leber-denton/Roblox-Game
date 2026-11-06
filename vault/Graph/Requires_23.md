@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/Wander.md"
+source_file: "vault/Graph/Requires_21.md"
 type: "document"
-community: "Community 37"
-location: "L4"
+community: "Community 154"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_37
+  - community/Community_154
 ---
 
 # Requires
 
 ## Connections
-- [[Wander_1]] - `contains` [EXTRACTED]
+- [[Connections_404]] - `contains` [EXTRACTED]
+- [[Requires_21_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_37
+#graphify/document #graphify/EXTRACTED #community/Community_154

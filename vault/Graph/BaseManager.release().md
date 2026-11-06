@@ -17,6 +17,6 @@ tags:
 - [[SaveService.onLeave()]] - `calls` [INFERRED]
 - [[setExpansionOpen()]] - `calls` [EXTRACTED]
 - [[setGateOpen()]] - `calls` [EXTRACTED]
-- [[setSign()_1]] - `calls` [EXTRACTED]
+- [[setSign()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_16

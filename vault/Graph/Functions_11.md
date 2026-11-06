@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Code/Story.md"
+source_file: "vault/Graph/Functions_10.md"
 type: "document"
-community: "Community 19"
-location: "L10"
+community: "Community 126"
+location: "L12"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_19
+  - graphify/EXTRACTED
+  - community/Community_126
 ---
 
 # Functions
 
 ## Connections
-- [[Story]] - `contains` [EXTRACTED]
-- [[regionTour()]] - `references` [INFERRED]
-- [[spawnJuniper()]] - `references` [INFERRED]
-- [[updateJourney()]] - `references` [INFERRED]
-- [[updateMarker()]] - `references` [INFERRED]
-- [[updateStoryPrompts()]] - `references` [INFERRED]
-- [[waitUntilFree()]] - `references` [INFERRED]
+- [[Connections_225]] - `contains` [EXTRACTED]
+- [[Functions_10]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_19
+#graphify/document #graphify/EXTRACTED #community/Community_126

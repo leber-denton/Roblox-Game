@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Code/EventHUD.md"
+source_file: "vault/Graph/EventHUD_1.md"
 type: "document"
-community: "Community 53"
+community: "Community 126"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_53
+  - community/Community_126
 ---
 
-# EventHUD
+# EventHUD_1.md
 
 ## Connections
-- [[EventHUD]] - `contains` [EXTRACTED]
-- [[Functions_32]] - `contains` [EXTRACTED]
-- [[Required by_32]] - `contains` [EXTRACTED]
-- [[Requires_32]] - `contains` [EXTRACTED]
+- [[EventHUD_1_1]] - `contains` [EXTRACTED]
+- [[Functions_32]] - `references` [EXTRACTED]
+- [[GraphEventHUD]] - `references` [EXTRACTED]
+- [[Required by_32]] - `references` [EXTRACTED]
+- [[Requires_32]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 53]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_53
+#graphify/document #graphify/EXTRACTED #community/Community_126

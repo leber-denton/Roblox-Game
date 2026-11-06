@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Code Map_2]] - document - vault/Code/Code Map.md
-- [[Most depended-on]] - document - vault/Code/Code Map.md
-- [[ReplicatedStorage]] - document - vault/Code/Code Map.md
-- [[ServerScriptService]] - document - vault/Code/Code Map.md
-- [[ServerStorage]] - document - vault/Code/Code Map.md
-- [[StarterPlayer]] - document - vault/Code/Code Map.md
+- [[Code Map_3]] - document - vault/Code/Code Map.md
+- [[Most depended-on_2]] - document - vault/Code/Code Map.md
+- [[ReplicatedStorage_2]] - document - vault/Code/Code Map.md
+- [[ServerScriptService_2]] - document - vault/Code/Code Map.md
+- [[ServerStorage_2]] - document - vault/Code/Code Map.md
+- [[StarterPlayer_2]] - document - vault/Code/Code Map.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,7 +23,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 28]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[Code Map_2]] - degree 6, connects to 1 community
+- [[Code Map_3]] - degree 6, connects to 1 community

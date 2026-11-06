@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/RareEventService.md"
+source_file: "vault/Graph/Requires_12.md"
 type: "document"
-community: "Community 2"
-location: "L4"
+community: "Community 130"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Community_130
 ---
 
 # Requires
 
 ## Connections
-- [[RareEventService_1]] - `contains` [EXTRACTED]
+- [[Connections_261]] - `contains` [EXTRACTED]
+- [[Requires_12_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_2
+#graphify/document #graphify/EXTRACTED #community/Community_130

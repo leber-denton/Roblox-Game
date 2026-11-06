@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/PlayerData.luau"
 type: "code"
-community: "Community 24"
+community: "Community 21"
 location: "L237"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_24
+  - community/Community_21
 ---
 
 # PlayerData.get()
@@ -24,4 +24,4 @@ tags:
 - [[syncQuests()]] - `calls` [INFERRED]
 - [[wins()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_24
+#graphify/code #graphify/INFERRED #community/Community_21

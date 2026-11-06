@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Docs]] - document - docs/README.md
-- [[docsREADME]] - document - docs/README.md
+- [[Docs_2]] - document - docs/README.md
+- [[docsREADME_2]] - document - docs/README.md
 
 ## Live Query (requires Dataview plugin)
 

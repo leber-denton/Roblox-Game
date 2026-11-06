@@ -8,12 +8,12 @@ members: 8
 **Members:** 8 nodes
 
 ## Members
-- [[Functions_25]] - document - vault/Code/NPCAnimator.md
-- [[NPCAnimator_1]] - document - vault/Code/NPCAnimator.md
+- [[CodeNPCAnimator]] - document - vault/Code/NPCAnimator.md
+- [[Functions_92]] - document - vault/Code/NPCAnimator.md
 - [[NPCAnimator]] - document - vault/Code/NPCAnimator.md
 - [[NPCAnimator.server.luau]] - code - src/ServerScriptService/NPCAnimator.server.luau
-- [[Required by_25]] - document - vault/Code/NPCAnimator.md
-- [[Requires_25]] - document - vault/Code/NPCAnimator.md
+- [[Required by_89]] - document - vault/Code/NPCAnimator.md
+- [[Requires_90]] - document - vault/Code/NPCAnimator.md
 - [[animate()]] - code - src/ServerScriptService/NPCAnimator.server.luau
 - [[buildQuestWorld()]] - code - src/ServerScriptService/NPCAnimator.server.luau
 
@@ -25,7 +25,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 28]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[NPCAnimator]] - degree 2, connects to 1 community
+- [[CodeNPCAnimator]] - degree 2, connects to 1 community

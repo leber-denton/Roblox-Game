@@ -1,18 +1,18 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau"
 type: "code"
-community: "Community 11"
+community: "Community 19"
 location: "L209"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_11
+  - community/Community_19
 ---
 
 # arrowPart()
 
 ## Connections
-- [[Tutorial.client.luau]] - `contains` [EXTRACTED]
-- [[new()_1]] - `calls` [EXTRACTED]
+- [[Tutorial.client.luau_2]] - `contains` [EXTRACTED]
+- [[new()_3]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_11
+#graphify/code #graphify/EXTRACTED #community/Community_19

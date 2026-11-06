@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Code/Sfx.md"
+source_file: "vault/Code/CreatureIndex.md"
 type: "document"
-community: "Community 74"
-location: "L11"
+community: "Community 19"
+location: "L12"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Community_74
+  - graphify/INFERRED
+  - community/Community_19
 ---
 
 # Functions
 
 ## Connections
-- [[Sfx_1]] - `contains` [EXTRACTED]
+- [[CreatureIndex_1]] - `contains` [EXTRACTED]
+- [[clearBody()]] - `references` [INFERRED]
+- [[getIndex()]] - `references` [INFERRED]
+- [[showGrid()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_74
+#graphify/document #graphify/INFERRED #community/Community_19

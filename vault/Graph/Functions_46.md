@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Code/BattleUI.md"
+source_file: "vault/Graph/Functions_45.md"
 type: "document"
-community: "Community 7"
-location: "L13"
+community: "Community 156"
+location: "L12"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_7
+  - graphify/EXTRACTED
+  - community/Community_156
 ---
 
 # Functions
 
 ## Connections
-- [[BattleUI_1]] - `contains` [EXTRACTED]
-- [[clearButtons()]] - `references` [INFERRED]
-- [[promptText()]] - `references` [INFERRED]
-- [[restoreCamera()]] - `references` [INFERRED]
-- [[useList()]] - `references` [INFERRED]
-- [[zeroStages()]] - `references` [INFERRED]
+- [[Connections_415]] - `contains` [EXTRACTED]
+- [[Functions_45]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_7
+#graphify/document #graphify/EXTRACTED #community/Community_156

@@ -12,8 +12,8 @@ tags:
 # StoryService.luau
 
 ## Connections
-- [[GameData.luau]] - `imports` [EXTRACTED]
-- [[Main.server.luau]] - `imports` [EXTRACTED]
+- [[GameData.luau_2]] - `imports` [EXTRACTED]
+- [[Main.server.luau_2]] - `imports` [EXTRACTED]
 - [[StoryService.chat()]] - `contains` [EXTRACTED]
 - [[StoryService.hasCompleted()]] - `contains` [EXTRACTED]
 - [[StoryService.init()]] - `contains` [EXTRACTED]
@@ -32,13 +32,13 @@ tags:
 - [[makeGrunt()]] - `contains` [EXTRACTED]
 - [[nextScene()]] - `contains` [EXTRACTED]
 - [[part()]] - `contains` [EXTRACTED]
-- [[script_parent_basemanager]] - `imports` [EXTRACTED]
-- [[script_parent_battleservice]] - `imports` [EXTRACTED]
-- [[script_parent_npc]] - `imports` [EXTRACTED]
-- [[script_parent_playerdata]] - `imports` [EXTRACTED]
-- [[script_parent_saveservice]] - `imports` [EXTRACTED]
-- [[script_parent_tutorialservice]] - `imports` [EXTRACTED]
+- [[script_parent_basemanager_2]] - `imports` [EXTRACTED]
+- [[script_parent_battleservice_2]] - `imports` [EXTRACTED]
+- [[script_parent_npc_2]] - `imports` [EXTRACTED]
+- [[script_parent_playerdata_2]] - `imports` [EXTRACTED]
+- [[script_parent_saveservice_2]] - `imports` [EXTRACTED]
+- [[script_parent_tutorialservice_2]] - `imports` [EXTRACTED]
 - [[setupWorld()]] - `contains` [EXTRACTED]
-- [[sync()_1]] - `contains` [EXTRACTED]
+- [[sync()_2]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_14

@@ -12,7 +12,7 @@ tags:
 # commands.juniper()
 
 ## Connections
-- [[AdminService.luau]] - `contains` [EXTRACTED]
+- [[AdminService.luau_2]] - `contains` [EXTRACTED]
 - [[StoryService.chat()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_17

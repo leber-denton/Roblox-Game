@@ -12,7 +12,7 @@ tags:
 # prompt()
 
 ## Connections
-- [[ColiseumService.luau]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[addTrainerPrompt()]] - `calls` [EXTRACTED]
 - [[setupPortals()]] - `calls` [EXTRACTED]
 - [[setupShop()]] - `calls` [EXTRACTED]

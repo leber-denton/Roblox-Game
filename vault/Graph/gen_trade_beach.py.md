@@ -13,11 +13,11 @@ tags:
 
 ## Connections
 - [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…]] - `rationale_for` [EXTRACTED]
-- [[json]] - `imports` [EXTRACTED]
-- [[math]] - `imports` [EXTRACTED]
+- [[json_2]] - `imports` [EXTRACTED]
+- [[math_2]] - `imports` [EXTRACTED]
 - [[node()]] - `contains` [EXTRACTED]
 - [[part()_2]] - `contains` [EXTRACTED]
-- [[random]] - `imports` [EXTRACTED]
+- [[random_2]] - `imports` [EXTRACTED]
 - [[ring()]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_29

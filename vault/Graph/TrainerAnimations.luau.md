@@ -1,20 +1,18 @@
 ---
-source_file: "src/ReplicatedStorage/Shared/TrainerAnimations.luau"
-type: "code"
-community: "Community 48"
+source_file: "vault/Graph/TrainerAnimations.luau.md"
+type: "document"
+community: "Community 143"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_48
+  - community/Community_143
 ---
 
-# TrainerAnimations.luau
+# TrainerAnimations.luau.md
 
 ## Connections
-- [[TrainerAnimations.new()]] - `contains` [EXTRACTED]
-- [[TrainerAnimations_track()]] - `contains` [EXTRACTED]
-- [[TrainerAnimationsplay()]] - `contains` [EXTRACTED]
-- [[TrainerAnimationsstopAll()]] - `contains` [EXTRACTED]
+- [[TrainerAnimations.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 48]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_48
+#graphify/document #graphify/EXTRACTED #community/Community_143

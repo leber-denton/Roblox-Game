@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/Regions.md"
+source_file: "vault/Code/SocialService.md"
 type: "document"
-community: "Community 1"
-location: "L7"
+community: "Community 10"
+location: "L11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Community_10
 ---
 
 # Required by
 
 ## Connections
-- [[Regions_1]] - `contains` [EXTRACTED]
+- [[SocialService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1
+#graphify/document #graphify/EXTRACTED #community/Community_10

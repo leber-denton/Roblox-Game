@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/BattleData.md"
+source_file: "vault/Code/StoryService.md"
 type: "document"
-community: "Community 25"
-location: "L4"
+community: "Community 14"
+location: "L6"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_25
+  - community/Community_14
 ---
 
 # Requires
 
 ## Connections
-- [[BattleData_1]] - `contains` [EXTRACTED]
+- [[StoryService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_25
+#graphify/document #graphify/EXTRACTED #community/Community_14

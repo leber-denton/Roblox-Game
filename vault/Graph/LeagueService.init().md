@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/LeagueService.luau"
 type: "code"
-community: "Community 31"
+community: "Community 135"
 location: "L186"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_31
+  - community/Community_135
 ---
 
 # LeagueService.init()
@@ -19,7 +19,7 @@ tags:
 - [[PlayerData.addStat()]] - `calls` [INFERRED]
 - [[itemList()]] - `calls` [EXTRACTED]
 - [[reset()]] - `calls` [EXTRACTED]
-- [[setup()_1]] - `calls` [EXTRACTED]
+- [[setup()]] - `calls` [EXTRACTED]
 - [[wins()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_31
+#graphify/code #graphify/EXTRACTED #community/Community_135

@@ -18,6 +18,6 @@ tags:
 - [[TutorialService.resumeGuide()]] - `calls` [INFERRED]
 - [[get()]] - `calls` [EXTRACTED]
 - [[onPlayerAdded()]] - `calls` [INFERRED]
-- [[sync()_1]] - `calls` [EXTRACTED]
+- [[sync()_2]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/INFERRED #community/Community_14

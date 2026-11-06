@@ -1,17 +1,19 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 2"
+source_file: "vault/Graph/script_parent_rareeventservice.md"
+type: "document"
+community: "Community 316"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Community_316
 ---
 
-# script_parent_rareeventservice
+# script_parent_rareeventservice.md
 
 ## Connections
-- [[AdminService.luau]] - `imports` [EXTRACTED]
-- [[WeeklyEventService.luau]] - `imports` [EXTRACTED]
+- [[WeeklyEventService.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
+- [[script_parent_rareeventservice_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_2
+#graphify/document #graphify/EXTRACTED #community/Community_316

@@ -1,17 +1,19 @@
 ---
-source_file: "claude/launch-checklist.md"
+source_file: "vault/Graph/Creator Hub listing (saved 2026-10-29).md"
 type: "document"
-community: "Community 40"
-location: "L16"
+community: "Community 108"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_40
+  - community/Community_108
 ---
 
-# Creator Hub listing (saved 2026-10-29)
+# Creator Hub listing (saved 2026-10-29).md
 
 ## Connections
-- [[Creature Quest Catch & Battle Launch Checklist]] - `contains` [EXTRACTED]
+- [[Creator Hub listing (saved 2026-10-29)_1]] - `contains` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 40]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_40
+#graphify/document #graphify/EXTRACTED #community/Community_108

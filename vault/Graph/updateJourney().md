@@ -12,8 +12,8 @@ tags:
 # updateJourney()
 
 ## Connections
-- [[Functions_11]] - `references` [INFERRED]
-- [[Story.client.luau]] - `contains` [EXTRACTED]
+- [[Functions_52]] - `references` [INFERRED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
 - [[decode()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_19

@@ -12,7 +12,7 @@ tags:
 # placedCount()
 
 ## Connections
-- [[DecorUI.client.luau]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
 - [[tabs.Items()]] - `calls` [EXTRACTED]
 - [[tryCommit()]] - `calls` [EXTRACTED]
 

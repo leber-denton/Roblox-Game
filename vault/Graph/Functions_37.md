@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Code/NPCLife.md"
+source_file: "vault/Graph/Functions_37.md"
 type: "document"
-community: "Community 58"
-location: "L10"
+community: "Community 131"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_58
+  - community/Community_131
 ---
 
-# Functions
+# Functions_37.md
 
 ## Connections
-- [[NPCLife_1]] - `contains` [EXTRACTED]
+- [[Functions_15_1]] - `references` [EXTRACTED]
+- [[Functions_37_1]] - `contains` [EXTRACTED]
+- [[NPCLife_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 58]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_58
+#graphify/document #graphify/EXTRACTED #community/Community_131

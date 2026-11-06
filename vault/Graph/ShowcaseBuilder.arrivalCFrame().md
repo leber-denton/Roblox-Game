@@ -12,6 +12,6 @@ tags:
 # ShowcaseBuilder.arrivalCFrame()
 
 ## Connections
-- [[ShowcaseBuilder.luau]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.luau_2]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_8

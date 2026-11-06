@@ -1,8 +1,8 @@
 ---
-source_file: "src/ServerStorage/ModelSync.luau"
+source_file: "tests/ModelSyncTests.luau"
 type: "code"
 community: "Community 5"
-location: "L257"
+location: "L42"
 tags:
   - graphify/code
   - graphify/EXTRACTED
@@ -12,8 +12,7 @@ tags:
 # scaleOf()
 
 ## Connections
-- [[ModelSync.luau]] - `contains` [EXTRACTED]
-- [[makeReplacement()]] - `calls` [EXTRACTED]
-- [[referenceScale()]] - `calls` [EXTRACTED]
+- [[ModelSyncTests.luau_2]] - `contains` [EXTRACTED]
+- [[Tests.run()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_5

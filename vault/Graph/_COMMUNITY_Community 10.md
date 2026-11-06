@@ -10,9 +10,9 @@ members: 34
 ## Members
 - [[BaseManager.findById()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[BaseManager.snapshot()]] - code - src/ServerScriptService/Modules/BaseManager.luau
-- [[Functions_3]] - document - vault/Code/SocialService.md
-- [[Required by_3]] - document - vault/Code/SocialService.md
-- [[Requires_3]] - document - vault/Code/SocialService.md
+- [[Functions_1]] - document - vault/Code/SocialService.md
+- [[Required by_1]] - document - vault/Code/SocialService.md
+- [[Requires_1]] - document - vault/Code/SocialService.md
 - [[SocialService]] - document - vault/Code/SocialService.md
 - [[SocialService.display()]] - code - src/ServerScriptService/Modules/SocialService.luau
 - [[SocialService.init()]] - code - src/ServerScriptService/Modules/SocialService.luau
@@ -51,20 +51,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 41]]
-- 3 edges to [[_COMMUNITY_Community 16]]
-- 2 edges to [[_COMMUNITY_Community 22]]
-- 2 edges to [[_COMMUNITY_Community 4]]
-- 1 edge to [[_COMMUNITY_Community 0]]
-- 1 edge to [[_COMMUNITY_Community 49]]
-- 1 edge to [[_COMMUNITY_Community 30]]
+- 7 edges to [[_COMMUNITY_Community 16]]
+- 3 edges to [[_COMMUNITY_Community 21]]
+- 2 edges to [[_COMMUNITY_Community 12]]
+- 1 edge to [[_COMMUNITY_Community 4]]
+- 1 edge to [[_COMMUNITY_Community 22]]
+- 1 edge to [[_COMMUNITY_Community 7]]
 - 1 edge to [[_COMMUNITY_Community 15]]
-- 1 edge to [[_COMMUNITY_Community 33]]
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
 - [[SocialService.luau]] - degree 32, connects to 5 communities
-- [[execute()]] - degree 13, connects to 5 communities
-- [[BaseManager.findById()]] - degree 7, connects to 2 communities
-- [[BaseManager.snapshot()]] - degree 6, connects to 2 communities
+- [[execute()]] - degree 13, connects to 3 communities
+- [[BaseManager.findById()]] - degree 7, connects to 1 community
+- [[BaseManager.snapshot()]] - degree 6, connects to 1 community
 - [[SocialService.request()]] - degree 4, connects to 1 community

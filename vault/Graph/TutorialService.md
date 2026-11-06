@@ -1,29 +1,18 @@
 ---
-source_file: "vault/Code/TutorialService.md"
+source_file: "vault/Graph/TutorialService.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 164"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_164
 ---
 
-# TutorialService.md
+# TutorialService
 
 ## Connections
-- [[AdminService]] - `references` [EXTRACTED]
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[GymService]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[NPC]] - `references` [EXTRACTED]
-- [[PlayerData]] - `references` [EXTRACTED]
-- [[RouteTrainerService]] - `references` [EXTRACTED]
-- [[StoryService]] - `references` [EXTRACTED]
-- [[TutorialService_1]] - `contains` [EXTRACTED]
-- [[WildSpawner]] - `references` [EXTRACTED]
+- [[Connections_453]] - `contains` [EXTRACTED]
+- [[GraphTutorialService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_164

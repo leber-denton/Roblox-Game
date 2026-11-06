@@ -1,17 +1,19 @@
 ---
-source_file: "README.md"
+source_file: "vault/Graph/Status.md"
 type: "document"
-community: "Community 43"
-location: "L21"
+community: "Community 115"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_43
+  - community/Community_115
 ---
 
-# Status
+# Status.md
 
 ## Connections
-- [[Roblox-Game]] - `contains` [EXTRACTED]
+- [[Roblox-Game]] - `references` [EXTRACTED]
+- [[Status_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 43]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_43
+#graphify/document #graphify/EXTRACTED #community/Community_115

@@ -12,7 +12,7 @@ tags:
 # decode()
 
 ## Connections
-- [[Story.client.luau]] - `contains` [EXTRACTED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
 - [[inventory()]] - `calls` [INFERRED]
 - [[updateJourney()]] - `calls` [EXTRACTED]
 

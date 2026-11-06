@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/DungeonService.luau"
 type: "code"
-community: "Community 2"
+community: "Community 22"
 location: "L44"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Community_22
 ---
 
 # DungeonService.initPlayer()
@@ -15,4 +15,4 @@ tags:
 - [[DungeonService.luau]] - `contains` [EXTRACTED]
 - [[onPlayerAdded()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_2
+#graphify/code #graphify/EXTRACTED #community/Community_22

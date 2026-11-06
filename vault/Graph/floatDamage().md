@@ -12,7 +12,7 @@ tags:
 # floatDamage()
 
 ## Connections
-- [[BattleUI.client.luau]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
 - [[label()_3]] - `calls` [EXTRACTED]
 - [[new()_9]] - `calls` [EXTRACTED]
 - [[playTurn()]] - `calls` [EXTRACTED]

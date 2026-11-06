@@ -1,12 +1,12 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/AdminPanel.client.luau"
 type: "code"
-community: "Community 27"
+community: "Community 3"
 location: "L24"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_27
+  - community/Community_3
 ---
 
 # new()
@@ -18,4 +18,4 @@ tags:
 - [[header()_1]] - `calls` [EXTRACTED]
 - [[row()_2]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_27
+#graphify/code #graphify/EXTRACTED #community/Community_3

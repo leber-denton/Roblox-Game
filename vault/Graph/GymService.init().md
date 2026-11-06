@@ -12,8 +12,8 @@ tags:
 # GymService.init()
 
 ## Connections
-- [[GymService.luau]] - `contains` [EXTRACTED]
+- [[GymService.luau_2]] - `contains` [EXTRACTED]
 - [[placeLeaders()]] - `calls` [EXTRACTED]
-- [[setup()]] - `calls` [EXTRACTED]
+- [[setup()_1]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

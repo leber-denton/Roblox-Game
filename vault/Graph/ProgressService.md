@@ -1,24 +1,20 @@
 ---
 source_file: "vault/Code/ProgressService.md"
 type: "document"
-community: "Community 13"
+community: "Community 21"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_21
 ---
 
-# ProgressService.md
+# ProgressService
 
 ## Connections
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[PlayerData]] - `references` [EXTRACTED]
-- [[ProgressService_1]] - `contains` [EXTRACTED]
-- [[SaveService]] - `references` [EXTRACTED]
+- [[CodeProgressService]] - `contains` [EXTRACTED]
+- [[Functions_60]] - `contains` [EXTRACTED]
+- [[Required by_60]] - `contains` [EXTRACTED]
+- [[Requires_59]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_21

@@ -1,12 +1,12 @@
 ---
 source_file: "src/ReplicatedStorage/Shared/BattleData.luau"
 type: "code"
-community: "Community 23"
+community: "Community 16"
 location: "L410"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_23
+  - community/Community_16
 ---
 
 # BattleData.xpForLevel()
@@ -23,4 +23,4 @@ tags:
 - [[refreshTag()]] - `calls` [INFERRED]
 - [[train()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_23
+#graphify/code #graphify/INFERRED #community/Community_16

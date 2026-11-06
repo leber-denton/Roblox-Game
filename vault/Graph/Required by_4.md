@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/CreatureIndex.md"
+source_file: "vault/Graph/Required by_18.md"
 type: "document"
-community: "Community 11"
-location: "L9"
+community: "Community 107"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_11
+  - community/Community_107
 ---
 
 # Required by
 
 ## Connections
-- [[CreatureIndex]] - `contains` [EXTRACTED]
+- [[Connections_70]] - `contains` [EXTRACTED]
+- [[Required by_18]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_11
+#graphify/document #graphify/EXTRACTED #community/Community_107

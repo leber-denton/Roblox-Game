@@ -1,19 +1,19 @@
 ---
 type: community
-members: 41
+members: 39
 ---
 
 # Community 4
 
-**Members:** 41 nodes
+**Members:** 39 nodes
 
 ## Members
-- [[ColiseumService_1]] - document - vault/Code/ColiseumService.md
+- [[ColiseumService_2]] - document - vault/Code/ColiseumService.md
 - [[ColiseumService.init()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
-- [[ColiseumService.luau]] - code - src/ServerScriptService/Modules/ColiseumService.luau
-- [[Functions_26]] - document - vault/Code/ColiseumService.md
-- [[Required by_26]] - document - vault/Code/ColiseumService.md
-- [[Requires_26]] - document - vault/Code/ColiseumService.md
+- [[ColiseumService.luau_2]] - code - src/ServerScriptService/Modules/ColiseumService.luau
+- [[Functions_93]] - document - vault/Code/ColiseumService.md
+- [[Required by_90]] - document - vault/Code/ColiseumService.md
+- [[Requires_91]] - document - vault/Code/ColiseumService.md
 - [[addTrainerPrompt()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
 - [[arenaPart()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
 - [[arriveCFrame()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
@@ -34,13 +34,11 @@ members: 41
 - [[recordFor()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
 - [[refreshBoards()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
 - [[rowsFrom()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
-- [[script_parent_saveservice]] - concept
-- [[script_parent_socialservice]] - concept
-- [[script_parent_weeklyeventservice]] - concept
+- [[script_parent_socialservice_2]] - concept
+- [[script_parent_weeklyeventservice_2]] - concept
 - [[setupActivities()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
 - [[setupArenaFixtures()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
 - [[setupPortals()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
-- [[setupShop()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
 - [[strongest()_2]] - code - src/ServerScriptService/Modules/ColiseumService.luau
 - [[sundayKey()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
 - [[syncRank()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
@@ -58,21 +56,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_Community 0]]
+- 6 edges to [[_COMMUNITY_Community 11]]
 - 4 edges to [[_COMMUNITY_Community 21]]
-- 3 edges to [[_COMMUNITY_Community 22]]
-- 2 edges to [[_COMMUNITY_Community 10]]
-- 2 edges to [[_COMMUNITY_Community 41]]
+- 2 edges to [[_COMMUNITY_Community 15]]
+- 2 edges to [[_COMMUNITY_Community 16]]
+- 2 edges to [[_COMMUNITY_Community 12]]
+- 1 edge to [[_COMMUNITY_Community 10]]
 - 1 edge to [[_COMMUNITY_Community 13]]
-- 1 edge to [[_COMMUNITY_Community 14]]
-- 1 edge to [[_COMMUNITY_Community 15]]
-- 1 edge to [[_COMMUNITY_Community 24]]
-- 1 edge to [[_COMMUNITY_Community 30]]
-- 1 edge to [[_COMMUNITY_Community 33]]
+- 1 edge to [[_COMMUNITY_Community 22]]
+- 1 edge to [[_COMMUNITY_Community 7]]
 
 ## Top bridge nodes
-- [[ColiseumService.luau]] - degree 41, connects to 4 communities
-- [[script_parent_saveservice]] - degree 5, connects to 4 communities
+- [[ColiseumService.luau_2]] - degree 41, connects to 6 communities
 - [[setupActivities()]] - degree 14, connects to 3 communities
 - [[claimLastSunday()]] - degree 7, connects to 2 communities
-- [[setupShop()]] - degree 7, connects to 2 communities
+- [[Functions_93]] - degree 9, connects to 1 community
+- [[finishRanked()]] - degree 8, connects to 1 community

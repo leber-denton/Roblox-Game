@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Code/AdminService.md"
+source_file: "vault/Graph/AdminService_1.md"
 type: "document"
-community: "Community 63"
+community: "Community 145"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_63
+  - community/Community_145
 ---
 
-# AdminService
+# AdminService_1.md
 
 ## Connections
-- [[AdminService]] - `contains` [EXTRACTED]
-- [[Functions_39]] - `contains` [EXTRACTED]
-- [[Required by_39]] - `contains` [EXTRACTED]
-- [[Requires_39]] - `contains` [EXTRACTED]
+- [[AdminService_1_1]] - `contains` [EXTRACTED]
+- [[Functions_39]] - `references` [EXTRACTED]
+- [[GraphAdminService]] - `references` [EXTRACTED]
+- [[Required by_39]] - `references` [EXTRACTED]
+- [[Requires_39]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 63]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_63
+#graphify/document #graphify/EXTRACTED #community/Community_145

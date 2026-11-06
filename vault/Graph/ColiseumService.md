@@ -1,26 +1,18 @@
 ---
-source_file: "vault/Code/ColiseumService.md"
+source_file: "vault/Graph/ColiseumService.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 305"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_305
 ---
 
-# ColiseumService.md
+# ColiseumService
 
 ## Connections
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[ColiseumService_1]] - `contains` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[PlayerData]] - `references` [EXTRACTED]
-- [[SaveService]] - `references` [EXTRACTED]
-- [[SocialService_1]] - `references` [EXTRACTED]
-- [[WeeklyEventService]] - `references` [EXTRACTED]
+- [[Connections_790]] - `contains` [EXTRACTED]
+- [[GraphColiseumService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_305

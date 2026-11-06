@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[gen_trade_beach.py]] - `contains` [EXTRACTED]
-- [[math]] - `calls` [EXTRACTED]
+- [[math_2]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_29

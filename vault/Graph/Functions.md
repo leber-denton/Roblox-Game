@@ -12,7 +12,7 @@ tags:
 # Functions
 
 ## Connections
-- [[Music_1]] - `contains` [EXTRACTED]
+- [[Music]] - `contains` [EXTRACTED]
 - [[applyMute()]] - `references` [INFERRED]
 - [[targetVolume()]] - `references` [INFERRED]
 - [[wanted()]] - `references` [INFERRED]

@@ -9,10 +9,9 @@ tags:
   - community/Community_32
 ---
 
-# Current Priorities.md
+# Current Priorities
 
 ## Connections
-- [[Current Priorities_1]] - `contains` [EXTRACTED]
-- [[Index]] - `references` [EXTRACTED]
+- [[TodoCurrent Priorities]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_32

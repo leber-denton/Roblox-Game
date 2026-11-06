@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[Functions_38]] - document - vault/Code/TrainerAnimations.md
-- [[Required by_38]] - document - vault/Code/TrainerAnimations.md
-- [[Requires_38]] - document - vault/Code/TrainerAnimations.md
-- [[TrainerAnimations_1]] - document - vault/Code/TrainerAnimations.md
-- [[TrainerAnimations]] - document - vault/Code/TrainerAnimations.md
+- [[CodeTrainerAnimations]] - document - vault/Code/TrainerAnimations.md
+- [[Functions_102]] - document - vault/Code/TrainerAnimations.md
+- [[Required by_99]] - document - vault/Code/TrainerAnimations.md
+- [[Requires_100]] - document - vault/Code/TrainerAnimations.md
+- [[TrainerAnimations_2]] - document - vault/Code/TrainerAnimations.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 28]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[TrainerAnimations]] - degree 2, connects to 1 community
+- [[CodeTrainerAnimations]] - degree 2, connects to 1 community

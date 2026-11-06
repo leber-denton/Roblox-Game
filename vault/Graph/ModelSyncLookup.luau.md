@@ -1,19 +1,18 @@
 ---
-source_file: "src/ServerStorage/ModelSyncLookup.luau"
-type: "code"
-community: "Community 61"
+source_file: "vault/Graph/ModelSyncLookup.luau.md"
+type: "document"
+community: "Community 169"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_61
+  - community/Community_169
 ---
 
-# ModelSyncLookup.luau
+# ModelSyncLookup.luau.md
 
 ## Connections
-- [[addNpc()]] - `contains` [EXTRACTED]
-- [[addTemplates()]] - `contains` [EXTRACTED]
-- [[npcName()]] - `contains` [EXTRACTED]
+- [[ModelSyncLookup.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 61]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_61
+#graphify/document #graphify/EXTRACTED #community/Community_169

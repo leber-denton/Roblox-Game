@@ -12,7 +12,7 @@ tags:
 # Features.swirlTail()
 
 ## Connections
-- [[CreatureBuilder.luau]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_2]] - `contains` [EXTRACTED]
 - [[lighter()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_6

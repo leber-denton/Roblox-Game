@@ -12,8 +12,8 @@ tags:
 # placeLeaders()
 
 ## Connections
-- [[Functions_9]] - `references` [INFERRED]
+- [[Functions_21]] - `references` [INFERRED]
 - [[GymService.init()]] - `calls` [EXTRACTED]
-- [[GymService.luau]] - `contains` [EXTRACTED]
+- [[GymService.luau_2]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

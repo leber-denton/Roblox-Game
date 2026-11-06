@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/BaseManager.luau"
 type: "code"
-community: "Community 0"
+community: "Community 16"
 location: "L159"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_0
+  - community/Community_16
 ---
 
 # BaseManager.isExpansionUnlocked()
@@ -18,4 +18,4 @@ tags:
 - [[canPlace()]] - `calls` [INFERRED]
 - [[publicState()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_0
+#graphify/code #graphify/EXTRACTED #community/Community_16

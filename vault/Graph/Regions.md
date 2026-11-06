@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Code/Regions.md"
+source_file: "vault/Graph/Regions.md"
 type: "document"
-community: "Community 1"
-location: "L1"
+community: "Community 183"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Community_183
 ---
 
-# Regions.md
+# Regions
 
 ## Connections
-- [[Code Map]] - `references` [EXTRACTED]
-- [[Regions_1]] - `contains` [EXTRACTED]
+- [[Connections_533]] - `contains` [EXTRACTED]
+- [[GraphRegions]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1
+#graphify/document #graphify/EXTRACTED #community/Community_183

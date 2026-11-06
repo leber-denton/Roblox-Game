@@ -1,13 +1,14 @@
 ---
 type: community
-members: 23
+members: 24
 ---
 
 # Community 18
 
-**Members:** 23 nodes
+**Members:** 24 nodes
 
 ## Members
+- [[DecorService.giveBox()]] - code - src/ServerScriptService/Modules/DecorService.luau
 - [[NPC.say()]] - code - src/ServerScriptService/Modules/NPC.luau
 - [[TutorialService.finishGuide()]] - code - src/ServerScriptService/Modules/TutorialService.luau
 - [[TutorialService.init()]] - code - src/ServerScriptService/Modules/TutorialService.luau
@@ -40,22 +41,22 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 33]]
-- 3 edges to [[_COMMUNITY_Community 34]]
-- 3 edges to [[_COMMUNITY_Community 41]]
-- 3 edges to [[_COMMUNITY_Community 21]]
+- 8 edges to [[_COMMUNITY_Community 15]]
+- 3 edges to [[_COMMUNITY_Community 0]]
+- 3 edges to [[_COMMUNITY_Community 11]]
+- 3 edges to [[_COMMUNITY_Community 16]]
+- 2 edges to [[_COMMUNITY_Community 135]]
 - 2 edges to [[_COMMUNITY_Community 14]]
-- 2 edges to [[_COMMUNITY_Community 15]]
-- 2 edges to [[_COMMUNITY_Community 31]]
-- 2 edges to [[_COMMUNITY_Community 2]]
 - 2 edges to [[_COMMUNITY_Community 22]]
-- 1 edge to [[_COMMUNITY_Community 0]]
-- 1 edge to [[_COMMUNITY_Community 26]]
-- 1 edge to [[_COMMUNITY_Community 30]]
+- 2 edges to [[_COMMUNITY_Community 12]]
+- 1 edge to [[_COMMUNITY_Community 21]]
+- 1 edge to [[_COMMUNITY_Community 6]]
+- 1 edge to [[_COMMUNITY_Community 7]]
+- 1 edge to [[_COMMUNITY_Community 2]]
 
 ## Top bridge nodes
 - [[TutorialService.luau]] - degree 29, connects to 6 communities
-- [[NPC.say()]] - degree 10, connects to 4 communities
+- [[NPC.say()]] - degree 10, connects to 2 communities
 - [[TutorialService.start()]] - degree 8, connects to 2 communities
-- [[TutorialService.finishGuide()]] - degree 5, connects to 2 communities
+- [[DecorService.giveBox()]] - degree 5, connects to 2 communities
 - [[onProfessor()]] - degree 6, connects to 1 community

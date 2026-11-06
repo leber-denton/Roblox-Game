@@ -12,7 +12,7 @@ tags:
 # new()
 
 ## Connections
-- [[EventHUD.client.luau]] - `contains` [EXTRACTED]
+- [[EventHUD.client.luau_2]] - `contains` [EXTRACTED]
 - [[onRareCatch()]] - `calls` [EXTRACTED]
 - [[round()_4]] - `calls` [EXTRACTED]
 

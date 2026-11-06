@@ -12,7 +12,7 @@ tags:
 # tabs.Robux()
 
 ## Connections
-- [[DecorUI.client.luau]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
 - [[button()]] - `calls` [EXTRACTED]
 - [[heading()]] - `calls` [EXTRACTED]
 - [[label()_2]] - `calls` [EXTRACTED]

@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Code/CreatureBuilder.md"
+source_file: "vault/Graph/CreatureBuilder_1.md"
 type: "document"
-community: "Community 25"
+community: "Community 51"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_25
+  - community/Community_51
 ---
 
-# CreatureBuilder
+# CreatureBuilder_1.md
 
 ## Connections
-- [[CreatureBuilder]] - `contains` [EXTRACTED]
-- [[Functions_17]] - `contains` [EXTRACTED]
-- [[Required by_17]] - `contains` [EXTRACTED]
-- [[Requires_17]] - `contains` [EXTRACTED]
+- [[CreatureBuilder_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 25]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 51]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_25
+#graphify/document #graphify/EXTRACTED #community/Community_51

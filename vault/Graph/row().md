@@ -1,19 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/ColiseumUI.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Story.client.luau"
 type: "code"
-community: "Community 12"
-location: "L114"
+community: "Community 19"
+location: "L458"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_19
 ---
 
 # row()
 
 ## Connections
-- [[ColiseumUI.client.luau]] - `contains` [EXTRACTED]
-- [[build()]] - `calls` [EXTRACTED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
 - [[new()_2]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_12
+#graphify/code #graphify/EXTRACTED #community/Community_19

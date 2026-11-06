@@ -12,8 +12,8 @@ tags:
 # waitUntilFree()
 
 ## Connections
-- [[Functions_11]] - `references` [INFERRED]
-- [[Story.client.luau]] - `contains` [EXTRACTED]
+- [[Functions_52]] - `references` [INFERRED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
 - [[playScene()]] - `calls` [EXTRACTED]
 - [[regionTour()]] - `calls` [EXTRACTED]
 

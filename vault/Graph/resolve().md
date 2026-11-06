@@ -12,7 +12,7 @@ tags:
 # resolve()
 
 ## Connections
-- [[ShowcaseBuilder.luau]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.luau_2]] - `contains` [EXTRACTED]
 - [[firstPropCopy()]] - `calls` [EXTRACTED]
 - [[sourceOf()]] - `calls` [EXTRACTED]
 

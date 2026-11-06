@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/BaseManager.luau"
 type: "code"
-community: "Community 0"
+community: "Community 16"
 location: "L118"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_0
+  - community/Community_16
 ---
 
 # BaseManager.setWings()
@@ -17,4 +17,4 @@ tags:
 - [[DecorService.onLoaded()]] - `calls` [INFERRED]
 - [[actions.upgrade()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_0
+#graphify/code #graphify/EXTRACTED #community/Community_16

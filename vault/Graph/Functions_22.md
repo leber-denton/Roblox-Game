@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Code/FirstSpawnLock.md"
+source_file: "vault/Graph/Functions_22.md"
 type: "document"
-community: "Community 35"
-location: "L10"
+community: "Community 107"
+location: "L1"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_35
+  - graphify/EXTRACTED
+  - community/Community_107
 ---
 
-# Functions
+# Functions_22.md
 
 ## Connections
-- [[FirstSpawnLock_1]] - `contains` [EXTRACTED]
-- [[isLocked()]] - `references` [INFERRED]
-- [[unlockAll()]] - `references` [INFERRED]
+- [[Functions_3]] - `contains` [EXTRACTED]
+- [[GraphGymService]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
+- [[placeLeaders()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_35
+#graphify/document #graphify/EXTRACTED #community/Community_107

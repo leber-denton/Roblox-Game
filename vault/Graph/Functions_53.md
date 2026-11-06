@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Code/TutorialService.md"
+source_file: "vault/Code/Tutorial.md"
 type: "document"
-community: "Community 76"
-location: "L19"
+community: "Community 19"
+location: "L12"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Community_76
+  - graphify/INFERRED
+  - community/Community_19
 ---
 
 # Functions
 
 ## Connections
-- [[TutorialService_1]] - `contains` [EXTRACTED]
+- [[Tutorial]] - `contains` [EXTRACTED]
+- [[intro()]] - `references` [INFERRED]
+- [[targetValue()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_76
+#graphify/document #graphify/INFERRED #community/Community_19

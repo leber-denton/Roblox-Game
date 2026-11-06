@@ -2,7 +2,7 @@
 source_file: "src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau"
 type: "code"
 community: "Community 7"
-location: "L817"
+location: "L816"
 tags:
   - graphify/code
   - graphify/EXTRACTED
@@ -12,7 +12,7 @@ tags:
 # handle()
 
 ## Connections
-- [[BattleUI.client.luau]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
 - [[applyState()]] - `calls` [EXTRACTED]
 - [[battleCamera()]] - `calls` [EXTRACTED]
 - [[clearButtons()]] - `calls` [EXTRACTED]

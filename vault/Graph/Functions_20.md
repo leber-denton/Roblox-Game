@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/BattleFX.md"
+source_file: "vault/Graph/Functions_20.md"
 type: "document"
-community: "Community 28"
-location: "L10"
+community: "Community 145"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_28
+  - community/Community_145
 ---
 
-# Functions
+# Functions_20.md
 
 ## Connections
-- [[BattleFX_1]] - `contains` [EXTRACTED]
+- [[Functions_19]] - `contains` [EXTRACTED]
+- [[Functions_39]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_28
+#graphify/document #graphify/EXTRACTED #community/Community_145

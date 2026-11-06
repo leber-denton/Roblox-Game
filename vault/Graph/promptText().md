@@ -12,8 +12,8 @@ tags:
 # promptText()
 
 ## Connections
-- [[BattleUI.client.luau]] - `contains` [EXTRACTED]
-- [[Functions_46]] - `references` [INFERRED]
+- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_109]] - `references` [INFERRED]
 - [[handle()]] - `calls` [EXTRACTED]
 - [[showMenu()]] - `calls` [EXTRACTED]
 

@@ -9,21 +9,12 @@ tags:
   - community/Community_25
 ---
 
-# BattleData.md
+# BattleData
 
 ## Connections
-- [[AdminService]] - `references` [EXTRACTED]
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleData_1]] - `contains` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[BattleUI]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[CreatureBuilder]] - `references` [EXTRACTED]
-- [[CreatureIndex_1]] - `references` [EXTRACTED]
-- [[DecorService]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[Menus]] - `references` [EXTRACTED]
-- [[Tutorial_1]] - `references` [EXTRACTED]
+- [[CodeBattleData]] - `contains` [EXTRACTED]
+- [[Functions_68]] - `contains` [EXTRACTED]
+- [[Required by_69]] - `contains` [EXTRACTED]
+- [[Requires_67]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_25

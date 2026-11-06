@@ -12,7 +12,7 @@ tags:
 # commands.resetTrainers()
 
 ## Connections
-- [[AdminService.luau]] - `contains` [EXTRACTED]
+- [[AdminService.luau_2]] - `contains` [EXTRACTED]
 - [[PlayerData.get()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_17

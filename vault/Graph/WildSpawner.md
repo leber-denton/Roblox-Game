@@ -1,26 +1,18 @@
 ---
-source_file: "vault/Code/WildSpawner.md"
+source_file: "vault/Graph/WildSpawner.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 166"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_166
 ---
 
-# WildSpawner.md
+# WildSpawner
 
 ## Connections
-- [[AdminService]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[CreatureBuilder]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[RareEventService]] - `references` [EXTRACTED]
-- [[TutorialService]] - `references` [EXTRACTED]
-- [[Wander]] - `references` [EXTRACTED]
-- [[WildSpawner_1]] - `contains` [EXTRACTED]
+- [[Connections_457]] - `contains` [EXTRACTED]
+- [[GraphWildSpawner]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_166

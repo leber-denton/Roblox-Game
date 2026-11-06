@@ -12,8 +12,8 @@ tags:
 # TutorialService.luau
 
 ## Connections
-- [[GameData.luau]] - `imports` [EXTRACTED]
-- [[Main.server.luau]] - `imports` [EXTRACTED]
+- [[GameData.luau_2]] - `imports` [EXTRACTED]
+- [[Main.server.luau_2]] - `imports` [EXTRACTED]
 - [[TutorialService.finishGuide()]] - `contains` [EXTRACTED]
 - [[TutorialService.init()]] - `contains` [EXTRACTED]
 - [[TutorialService.isGuideStep()]] - `contains` [EXTRACTED]
@@ -31,11 +31,11 @@ tags:
 - [[profIntro()]] - `contains` [EXTRACTED]
 - [[rivalChallenge()]] - `contains` [EXTRACTED]
 - [[rivalTeam()]] - `contains` [EXTRACTED]
-- [[script_parent_basemanager]] - `imports` [EXTRACTED]
-- [[script_parent_battleservice]] - `imports` [EXTRACTED]
-- [[script_parent_npc]] - `imports` [EXTRACTED]
-- [[script_parent_playerdata]] - `imports` [EXTRACTED]
-- [[script_parent_wildspawner]] - `imports` [EXTRACTED]
+- [[script_parent_basemanager_2]] - `imports` [EXTRACTED]
+- [[script_parent_battleservice_2]] - `imports` [EXTRACTED]
+- [[script_parent_npc_2]] - `imports` [EXTRACTED]
+- [[script_parent_playerdata_2]] - `imports` [EXTRACTED]
+- [[script_parent_wildspawner_2]] - `imports` [EXTRACTED]
 - [[setStep()]] - `contains` [EXTRACTED]
 - [[spawnFor()]] - `contains` [EXTRACTED]
 - [[startNibbit()]] - `contains` [EXTRACTED]

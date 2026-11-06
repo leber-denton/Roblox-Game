@@ -19,8 +19,8 @@ tags:
 - [[actions.openBox()]] - `calls` [INFERRED]
 - [[actions.theme()]] - `calls` [INFERRED]
 - [[actions.upgrade()]] - `calls` [INFERRED]
-- [[finite()_1]] - `calls` [EXTRACTED]
+- [[finite()]] - `calls` [EXTRACTED]
 - [[giveProduct()]] - `calls` [INFERRED]
-- [[sync()_2]] - `calls` [EXTRACTED]
+- [[sync()_1]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/INFERRED #community/Community_0

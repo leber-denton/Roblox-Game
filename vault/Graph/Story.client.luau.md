@@ -1,32 +1,19 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Story.client.luau"
-type: "code"
-community: "Community 19"
+source_file: "vault/Graph/Story.client.luau.md"
+type: "document"
+community: "Community 181"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_181
 ---
 
-# Story.client.luau
+# Story.client.luau.md
 
 ## Connections
-- [[burst()]] - `contains` [EXTRACTED]
-- [[decode()]] - `contains` [EXTRACTED]
-- [[entry()]] - `contains` [EXTRACTED]
-- [[new()_4]] - `contains` [EXTRACTED]
-- [[play()_1]] - `contains` [EXTRACTED]
-- [[playScene()]] - `contains` [EXTRACTED]
-- [[regionTour()]] - `contains` [EXTRACTED]
-- [[row()_1]] - `contains` [EXTRACTED]
-- [[runLines()]] - `contains` [EXTRACTED]
-- [[setVisible()]] - `contains` [EXTRACTED]
-- [[shared_waitforchild]] - `imports` [EXTRACTED]
-- [[spawnJuniper()]] - `contains` [EXTRACTED]
-- [[updateJourney()]] - `contains` [EXTRACTED]
-- [[updateMarker()]] - `contains` [EXTRACTED]
-- [[updateStoryPrompts()]] - `contains` [EXTRACTED]
-- [[waitUntilFree()]] - `contains` [EXTRACTED]
+- [[Story.client.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
+- [[shared_waitforchild]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_19
+#graphify/document #graphify/EXTRACTED #community/Community_181

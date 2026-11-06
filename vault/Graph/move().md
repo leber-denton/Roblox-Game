@@ -12,7 +12,7 @@ tags:
 # move()
 
 ## Connections
-- [[ColiseumService.luau]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[setupPortals()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_4

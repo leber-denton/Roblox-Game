@@ -9,10 +9,12 @@ tags:
   - community/Community_1
 ---
 
-# Music.md
+# Music
 
 ## Connections
-- [[Code Map]] - `references` [EXTRACTED]
-- [[Music_1]] - `contains` [EXTRACTED]
+- [[CodeMusic]] - `contains` [EXTRACTED]
+- [[Functions]] - `contains` [EXTRACTED]
+- [[Required by]] - `contains` [EXTRACTED]
+- [[Requires]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1

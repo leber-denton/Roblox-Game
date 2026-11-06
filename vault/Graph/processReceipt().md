@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/DecorService.luau"
 type: "code"
-community: "Community 0"
+community: "Community 12"
 location: "L1172"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_0
+  - community/Community_12
 ---
 
 # processReceipt()
@@ -17,4 +17,4 @@ tags:
 - [[giveProduct()]] - `calls` [EXTRACTED]
 - [[sync()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_0
+#graphify/code #graphify/EXTRACTED #community/Community_12

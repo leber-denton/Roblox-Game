@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Functions_48]] - document - vault/Code/NPC.md
-- [[NPC_1]] - document - vault/Code/NPC.md
-- [[Required by_48]] - document - vault/Code/NPC.md
-- [[Requires_48]] - document - vault/Code/NPC.md
+- [[Functions_112]] - document - vault/Code/NPC.md
+- [[NPC_2]] - document - vault/Code/NPC.md
+- [[Required by_109]] - document - vault/Code/NPC.md
+- [[Requires_110]] - document - vault/Code/NPC.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,4 +24,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[NPC_1]] - degree 4, connects to 1 community
+- [[NPC_2]] - degree 4, connects to 1 community

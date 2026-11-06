@@ -1,20 +1,19 @@
 ---
-source_file: "src/ServerScriptService/Modules/NpcGuard.luau"
-type: "code"
-community: "Community 38"
+source_file: "vault/Graph/NpcGuard.luau.md"
+type: "document"
+community: "Community 102"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_38
+  - community/Community_102
 ---
 
-# NpcGuard.luau
+# NpcGuard.luau.md
 
 ## Connections
-- [[Main.server.luau]] - `imports` [EXTRACTED]
-- [[NpcGuard.run()]] - `contains` [EXTRACTED]
-- [[NpcGuard.stamp()]] - `contains` [EXTRACTED]
-- [[npcs()]] - `contains` [EXTRACTED]
+- [[Main.server.luau]] - `references` [EXTRACTED]
+- [[NpcGuard.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 38]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_38
+#graphify/document #graphify/EXTRACTED #community/Community_102

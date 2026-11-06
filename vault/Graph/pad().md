@@ -12,7 +12,7 @@ tags:
 # pad()
 
 ## Connections
-- [[BattleUI.client.luau]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
 - [[button()_1]] - `calls` [EXTRACTED]
 - [[new()_9]] - `calls` [EXTRACTED]
 

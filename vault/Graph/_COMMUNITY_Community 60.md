@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[ship]] - document - .claude/skills/ship/SKILL.md
-- [[Output]] - document - .claude/skills/ship/SKILL.md
-- [[SKILL]] - document - .claude/skills/ship/SKILL.md
-- [[Steps]] - document - .claude/skills/ship/SKILL.md
+- [[ship_2]] - document - .claude/skills/ship/SKILL.md
+- [[Output_2]] - document - .claude/skills/ship/SKILL.md
+- [[Steps_2]] - document - .claude/skills/ship/SKILL.md
+- [[shipSKILL]] - document - .claude/skills/ship/SKILL.md
 
 ## Live Query (requires Dataview plugin)
 

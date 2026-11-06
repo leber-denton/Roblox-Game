@@ -9,10 +9,9 @@ tags:
   - community/Community_32
 ---
 
-# Decision Log.md
+# Decision Log
 
 ## Connections
-- [[Decision Log_1]] - `contains` [EXTRACTED]
-- [[Index]] - `references` [EXTRACTED]
+- [[DecisionsDecision Log]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_32

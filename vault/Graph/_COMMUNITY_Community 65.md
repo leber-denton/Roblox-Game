@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[DecorService_1]] - document - vault/Code/DecorService.md
-- [[Functions_41]] - document - vault/Code/DecorService.md
-- [[Required by_41]] - document - vault/Code/DecorService.md
-- [[Requires_41]] - document - vault/Code/DecorService.md
+- [[DecorService_2]] - document - vault/Code/DecorService.md
+- [[Functions_105]] - document - vault/Code/DecorService.md
+- [[Required by_102]] - document - vault/Code/DecorService.md
+- [[Requires_103]] - document - vault/Code/DecorService.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,4 +24,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[DecorService_1]] - degree 4, connects to 1 community
+- [[DecorService_2]] - degree 4, connects to 1 community

@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Code/DungeonClient.md"
+source_file: "vault/Graph/DungeonClient_1.md"
 type: "document"
-community: "Community 52"
+community: "Community 125"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_52
+  - community/Community_125
 ---
 
-# DungeonClient
+# DungeonClient_1.md
 
 ## Connections
-- [[DungeonClient]] - `contains` [EXTRACTED]
-- [[Functions_31]] - `contains` [EXTRACTED]
-- [[Required by_31]] - `contains` [EXTRACTED]
-- [[Requires_31]] - `contains` [EXTRACTED]
+- [[DungeonClient_1_1]] - `contains` [EXTRACTED]
+- [[Functions_31]] - `references` [EXTRACTED]
+- [[GraphDungeonClient]] - `references` [EXTRACTED]
+- [[Required by_31]] - `references` [EXTRACTED]
+- [[Requires_31]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 52]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_52
+#graphify/document #graphify/EXTRACTED #community/Community_125

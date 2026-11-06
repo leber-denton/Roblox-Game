@@ -1,28 +1,20 @@
 ---
 source_file: "vault/Code/CreatureBuilder.md"
 type: "document"
-community: "Community 25"
+community: "Community 294"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_25
+  - community/Community_294
 ---
 
-# CreatureBuilder.md
+# CreatureBuilder
 
 ## Connections
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleData]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[CreatureBuilder_1]] - `contains` [EXTRACTED]
-- [[CreatureIndex_1]] - `references` [EXTRACTED]
-- [[DecorService]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Menus]] - `references` [EXTRACTED]
-- [[SocialService_1]] - `references` [EXTRACTED]
-- [[Tutorial_1]] - `references` [EXTRACTED]
-- [[WildSpawner]] - `references` [EXTRACTED]
+- [[CodeCreatureBuilder]] - `contains` [EXTRACTED]
+- [[Functions_75]] - `contains` [EXTRACTED]
+- [[Required by_77]] - `contains` [EXTRACTED]
+- [[Requires_75]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_25
+#graphify/document #graphify/EXTRACTED #community/Community_294

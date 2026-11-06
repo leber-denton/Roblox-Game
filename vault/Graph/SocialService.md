@@ -12,9 +12,9 @@ tags:
 # SocialService
 
 ## Connections
-- [[Functions_3]] - `contains` [EXTRACTED]
-- [[Required by_3]] - `contains` [EXTRACTED]
-- [[Requires_3]] - `contains` [EXTRACTED]
-- [[SocialService_1]] - `contains` [EXTRACTED]
+- [[CodeSocialService]] - `contains` [EXTRACTED]
+- [[Functions_1]] - `contains` [EXTRACTED]
+- [[Required by_1]] - `contains` [EXTRACTED]
+- [[Requires_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_10

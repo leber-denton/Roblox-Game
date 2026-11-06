@@ -1,17 +1,19 @@
 ---
-source_file: "docs/README.md"
+source_file: "vault/Graph/docsREADME.md"
 type: "document"
-community: "Community 81"
+community: "Community 218"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_81
+  - community/Community_218
 ---
 
-# docs/README.md
+# docsREADME.md
 
 ## Connections
-- [[Docs]] - `contains` [EXTRACTED]
+- [[Docs]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 81]] - `references` [EXTRACTED]
+- [[docsREADME_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_81
+#graphify/document #graphify/EXTRACTED #community/Community_218

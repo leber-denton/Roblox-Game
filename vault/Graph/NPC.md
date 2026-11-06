@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Code/NPC.md"
+source_file: "vault/Graph/NPC.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 159"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_159
 ---
 
-# NPC.md
+# NPC
 
 ## Connections
-- [[Code Map]] - `references` [EXTRACTED]
-- [[DungeonService]] - `references` [EXTRACTED]
-- [[GymService]] - `references` [EXTRACTED]
-- [[LeagueService]] - `references` [EXTRACTED]
-- [[NPC_1]] - `contains` [EXTRACTED]
-- [[RouteTrainerService]] - `references` [EXTRACTED]
-- [[StoryService]] - `references` [EXTRACTED]
-- [[TutorialService]] - `references` [EXTRACTED]
+- [[Connections_433]] - `contains` [EXTRACTED]
+- [[GraphNPC]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_159

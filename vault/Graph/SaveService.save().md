@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/SaveService.luau"
 type: "code"
-community: "Community 22"
+community: "Community 12"
 location: "L165"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_22
+  - community/Community_12
 ---
 
 # SaveService.save()
@@ -22,4 +22,4 @@ tags:
 - [[execute()]] - `calls` [INFERRED]
 - [[processReceipt()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_22
+#graphify/code #graphify/INFERRED #community/Community_12

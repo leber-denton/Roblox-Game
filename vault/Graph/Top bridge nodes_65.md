@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/_COMMUNITY_Community 69.md"
+type: "document"
+community: "Community 69"
+location: "L100"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_69
+---
+
+# Top bridge nodes
+
+## Connections
+- [[Community 69]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_69

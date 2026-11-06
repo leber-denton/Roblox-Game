@@ -1,24 +1,21 @@
 ---
-source_file: "src/ServerScriptService/Modules/GymService.luau"
-type: "code"
-community: "Community 15"
+source_file: "vault/Graph/GymService.luau.md"
+type: "document"
+community: "Community 107"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_107
 ---
 
-# GymService.luau
+# GymService.luau.md
 
 ## Connections
-- [[GameData.luau]] - `imports` [EXTRACTED]
-- [[GymService.init()]] - `contains` [EXTRACTED]
-- [[Main.server.luau]] - `imports` [EXTRACTED]
-- [[placeLeaders()]] - `contains` [EXTRACTED]
-- [[script_parent_battleservice]] - `imports` [EXTRACTED]
-- [[script_parent_npc]] - `imports` [EXTRACTED]
-- [[script_parent_playerdata]] - `imports` [EXTRACTED]
-- [[setup()]] - `contains` [EXTRACTED]
+- [[GymService.init()_1]] - `references` [EXTRACTED]
+- [[GymService.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
+- [[placeLeaders()_1]] - `references` [EXTRACTED]
+- [[setup()_2]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_107

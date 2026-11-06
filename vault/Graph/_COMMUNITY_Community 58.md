@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[Functions_37]] - document - vault/Code/NPCLife.md
-- [[NPCLife_1]] - document - vault/Code/NPCLife.md
-- [[NPCLife]] - document - vault/Code/NPCLife.md
-- [[Required by_37]] - document - vault/Code/NPCLife.md
-- [[Requires_37]] - document - vault/Code/NPCLife.md
+- [[CodeNPCLife]] - document - vault/Code/NPCLife.md
+- [[Functions_101]] - document - vault/Code/NPCLife.md
+- [[NPCLife_2]] - document - vault/Code/NPCLife.md
+- [[Required by_98]] - document - vault/Code/NPCLife.md
+- [[Requires_99]] - document - vault/Code/NPCLife.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 28]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[NPCLife]] - degree 2, connects to 1 community
+- [[CodeNPCLife]] - degree 2, connects to 1 community

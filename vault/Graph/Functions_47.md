@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Code/ModelSyncLookup.md"
+source_file: "vault/Graph/Functions_47.md"
 type: "document"
-community: "Community 70"
-location: "L11"
+community: "Community 158"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_70
+  - community/Community_158
 ---
 
-# Functions
+# Functions_47.md
 
 ## Connections
-- [[ModelSyncLookup_1]] - `contains` [EXTRACTED]
+- [[Functions_47_1]] - `contains` [EXTRACTED]
+- [[Functions_48_1]] - `references` [EXTRACTED]
+- [[ModelSyncLookup_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 70]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_70
+#graphify/document #graphify/EXTRACTED #community/Community_158

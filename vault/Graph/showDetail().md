@@ -1,18 +1,18 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau"
 type: "code"
-community: "Community 11"
+community: "Community 19"
 location: "L193"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_11
+  - community/Community_19
 ---
 
 # showDetail()
 
 ## Connections
-- [[CreatureIndex.client.luau]] - `contains` [EXTRACTED]
+- [[CreatureIndex.client.luau_2]] - `contains` [EXTRACTED]
 - [[clearBody()]] - `calls` [EXTRACTED]
 - [[getIndex()]] - `calls` [EXTRACTED]
 - [[label()]] - `calls` [EXTRACTED]
@@ -21,4 +21,4 @@ tags:
 - [[showGrid()]] - `calls` [EXTRACTED]
 - [[typeChips()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_11
+#graphify/code #graphify/EXTRACTED #community/Community_19

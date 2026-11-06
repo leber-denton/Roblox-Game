@@ -1,40 +1,19 @@
 ---
-source_file: "src/ServerStorage/ModelSync.luau"
-type: "code"
-community: "Community 5"
+source_file: "vault/Graph/ModelSync.luau.md"
+type: "document"
+community: "Community 26"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_5
+  - community/Community_26
 ---
 
-# ModelSync.luau
+# ModelSync.luau.md
 
 ## Connections
-- [[ModelSync.addToMap()]] - `contains` [EXTRACTED]
-- [[ModelSync.apply()]] - `contains` [EXTRACTED]
-- [[ModelSync.audit()]] - `contains` [EXTRACTED]
-- [[ModelSync.list()]] - `contains` [EXTRACTED]
-- [[ModelSync.preview()]] - `contains` [EXTRACTED]
-- [[ModelSync.restore()]] - `contains` [EXTRACTED]
-- [[backups()]] - `contains` [EXTRACTED]
-- [[cleanClone()]] - `contains` [EXTRACTED]
-- [[entryFor()]] - `contains` [EXTRACTED]
-- [[findTargets()]] - `contains` [EXTRACTED]
-- [[getShowcase()]] - `contains` [EXTRACTED]
-- [[isReference()]] - `contains` [EXTRACTED]
-- [[isShowcaseOrGallery()]] - `contains` [EXTRACTED]
-- [[makeReplacement()]] - `contains` [EXTRACTED]
-- [[nameHits()]] - `contains` [EXTRACTED]
-- [[parentRef()]] - `contains` [EXTRACTED]
-- [[referenceScale()]] - `contains` [EXTRACTED]
-- [[resolveNpcPath()]] - `contains` [EXTRACTED]
-- [[resolvePath()]] - `contains` [EXTRACTED]
-- [[safeRoots()]] - `contains` [EXTRACTED]
-- [[scaleOf()]] - `contains` [EXTRACTED]
-- [[script_parent_waitforchild]] - `imports` [EXTRACTED]
-- [[showcaseArea()]] - `contains` [EXTRACTED]
-- [[showcaseModels()]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
+- [[script_parent_waitforchild]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_5
+#graphify/document #graphify/EXTRACTED #community/Community_26

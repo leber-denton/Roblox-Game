@@ -12,7 +12,7 @@ tags:
 # GameData.badgesForLane()
 
 ## Connections
-- [[GameData.luau]] - `contains` [EXTRACTED]
-- [[setup()]] - `calls` [INFERRED]
+- [[GameData.luau_2]] - `contains` [EXTRACTED]
+- [[setup()_1]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

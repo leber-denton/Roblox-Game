@@ -1,28 +1,18 @@
 ---
-source_file: "vault/Code/DecorUI.md"
+source_file: "vault/Code/GymService.md"
 type: "document"
-community: "Community 3"
-location: "L11"
+community: "Community 15"
+location: "L14"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_3
+  - graphify/EXTRACTED
+  - community/Community_15
 ---
 
 # Functions
 
 ## Connections
-- [[DecorUI]] - `contains` [EXTRACTED]
-- [[aimRay()]] - `references` [INFERRED]
-- [[clearContent()]] - `references` [INFERRED]
-- [[gridLayout()]] - `references` [INFERRED]
-- [[listLayout()]] - `references` [INFERRED]
-- [[myBase()]] - `references` [INFERRED]
-- [[rebuildBar()]] - `references` [INFERRED]
-- [[startPicking()]] - `references` [INFERRED]
-- [[stopBuild()]] - `references` [INFERRED]
-- [[tryCommit()]] - `references` [INFERRED]
-- [[tryPick()]] - `references` [INFERRED]
-- [[tryPutAway()]] - `references` [INFERRED]
+- [[GymService_1]] - `contains` [EXTRACTED]
+- [[placeLeaders()]] - `references` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Community_3
+#graphify/document #graphify/EXTRACTED #community/Community_15

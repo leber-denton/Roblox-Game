@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/SocialService.md"
+source_file: "vault/Graph/Requires_2.md"
 type: "document"
-community: "Community 10"
-location: "L4"
+community: "Community 102"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_10
+  - community/Community_102
 ---
 
 # Requires
 
 ## Connections
-- [[SocialService]] - `contains` [EXTRACTED]
+- [[Connections_28]] - `contains` [EXTRACTED]
+- [[Requires_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_10
+#graphify/document #graphify/EXTRACTED #community/Community_102

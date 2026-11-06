@@ -12,9 +12,9 @@ tags:
 # DecorUI
 
 ## Connections
-- [[DecorUI_1]] - `contains` [EXTRACTED]
-- [[Functions_21]] - `contains` [EXTRACTED]
-- [[Required by_21]] - `contains` [EXTRACTED]
-- [[Requires_21]] - `contains` [EXTRACTED]
+- [[CodeDecorUI]] - `contains` [EXTRACTED]
+- [[Functions_77]] - `contains` [EXTRACTED]
+- [[Required by_79]] - `contains` [EXTRACTED]
+- [[Requires_77]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_3

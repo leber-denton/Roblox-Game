@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[ColiseumService.init()]] - `calls` [EXTRACTED]
-- [[ColiseumService.luau]] - `contains` [EXTRACTED]
-- [[Functions_26]] - `references` [INFERRED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_93]] - `references` [INFERRED]
 - [[arriveCFrame()]] - `calls` [EXTRACTED]
 - [[busy()]] - `calls` [EXTRACTED]
 - [[hubCFrame()]] - `calls` [EXTRACTED]

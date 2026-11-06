@@ -12,7 +12,7 @@ tags:
 # tabs.Daily()
 
 ## Connections
-- [[DecorUI.client.luau]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_2]] - `contains` [EXTRACTED]
 - [[buyResult()]] - `calls` [EXTRACTED]
 - [[call()]] - `calls` [EXTRACTED]
 - [[heading()]] - `calls` [EXTRACTED]

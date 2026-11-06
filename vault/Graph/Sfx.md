@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/Sfx.md"
+source_file: "vault/Graph/Sfx.md"
 type: "document"
-community: "Community 28"
-location: "L1"
+community: "Community 162"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_28
+  - community/Community_162
 ---
 
-# Sfx.md
+# Sfx
 
 ## Connections
-- [[BattleUI]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[HUD]] - `references` [EXTRACTED]
-- [[Sfx_1]] - `contains` [EXTRACTED]
+- [[Connections_451]] - `contains` [EXTRACTED]
+- [[GraphSfx]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_28
+#graphify/document #graphify/EXTRACTED #community/Community_162

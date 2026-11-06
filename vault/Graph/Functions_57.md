@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Code/ShowcaseBuilder.md"
+source_file: "vault/Graph/Functions.md"
 type: "document"
-community: "Community 8"
-location: "L11"
+community: "Community 207"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_207
 ---
 
-# Functions
+# Functions.md
 
 ## Connections
-- [[ShowcaseBuilder_1]] - `contains` [EXTRACTED]
-- [[categories()]] - `references` [INFERRED]
+- [[Functions_58]] - `contains` [EXTRACTED]
+- [[GraphMusic]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[applyMute()_1]] - `references` [EXTRACTED]
+- [[targetVolume()_1]] - `references` [EXTRACTED]
+- [[wanted()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_8
+#graphify/document #graphify/EXTRACTED #community/Community_207

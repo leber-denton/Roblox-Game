@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/DecorService.luau"
 type: "code"
-community: "Community 0"
+community: "Community 18"
 location: "L1382"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_0
+  - community/Community_18
 ---
 
 # DecorService.giveBox()
@@ -18,4 +18,4 @@ tags:
 - [[TutorialService.finishGuide()]] - `calls` [INFERRED]
 - [[sync()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_0
+#graphify/code #graphify/EXTRACTED #community/Community_18

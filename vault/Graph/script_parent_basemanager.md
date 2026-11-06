@@ -1,27 +1,21 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 22"
+source_file: "vault/Graph/script_parent_basemanager.md"
+type: "document"
+community: "Community 148"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_22
+  - community/Community_148
 ---
 
-# script_parent_basemanager
+# script_parent_basemanager.md
 
 ## Connections
-- [[AdminService.luau]] - `imports` [EXTRACTED]
-- [[BattleService.luau]] - `imports` [EXTRACTED]
-- [[ColiseumService.luau]] - `imports` [EXTRACTED]
-- [[DecorService.luau]] - `imports` [EXTRACTED]
-- [[LeagueService.luau]] - `imports` [EXTRACTED]
-- [[PassService.luau]] - `imports` [EXTRACTED]
-- [[ProgressService.luau]] - `imports` [EXTRACTED]
-- [[RouteTrainerService.luau]] - `imports` [EXTRACTED]
-- [[SaveService.luau]] - `imports` [EXTRACTED]
-- [[SocialService.luau]] - `imports` [EXTRACTED]
-- [[StoryService.luau]] - `imports` [EXTRACTED]
-- [[TutorialService.luau]] - `imports` [EXTRACTED]
+- [[ColiseumService.luau]] - `references` [EXTRACTED]
+- [[PassService.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
+- [[script_parent_basemanager_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_22
+#graphify/document #graphify/EXTRACTED #community/Community_148

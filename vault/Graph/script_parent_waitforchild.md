@@ -1,19 +1,22 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 8"
+source_file: "vault/Graph/script_parent_waitforchild.md"
+type: "document"
+community: "Community 26"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_26
 ---
 
-# script_parent_waitforchild
+# script_parent_waitforchild.md
 
 ## Connections
-- [[BattleUI.client.luau]] - `imports` [EXTRACTED]
-- [[HUD.client.luau]] - `imports` [EXTRACTED]
-- [[ModelSync.luau]] - `imports` [EXTRACTED]
-- [[ShowcaseBuilder.luau]] - `imports` [EXTRACTED]
+- [[BattleUI.client.luau]] - `references` [EXTRACTED]
+- [[HUD.client.luau]] - `references` [EXTRACTED]
+- [[ModelSync.luau]] - `references` [EXTRACTED]
+- [[ShowcaseBuilder.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
+- [[script_parent_waitforchild_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_8
+#graphify/document #graphify/EXTRACTED #community/Community_26

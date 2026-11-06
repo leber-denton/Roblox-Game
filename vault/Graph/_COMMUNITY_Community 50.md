@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[ArenaManager_1]] - document - vault/Code/ArenaManager.md
-- [[ArenaManager]] - document - vault/Code/ArenaManager.md
-- [[Functions_29]] - document - vault/Code/ArenaManager.md
-- [[Required by_29]] - document - vault/Code/ArenaManager.md
-- [[Requires_29]] - document - vault/Code/ArenaManager.md
+- [[ArenaManager_2]] - document - vault/Code/ArenaManager.md
+- [[CodeArenaManager]] - document - vault/Code/ArenaManager.md
+- [[Functions_95]] - document - vault/Code/ArenaManager.md
+- [[Required by_92]] - document - vault/Code/ArenaManager.md
+- [[Requires_93]] - document - vault/Code/ArenaManager.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,8 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 13]]
-- 1 edge to [[_COMMUNITY_Community 28]]
+- 2 edges to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[ArenaManager]] - degree 3, connects to 2 communities
+- [[CodeArenaManager]] - degree 3, connects to 1 community

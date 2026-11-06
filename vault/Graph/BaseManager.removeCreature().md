@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/BaseManager.luau"
 type: "code"
-community: "Community 49"
+community: "Community 21"
 location: "L341"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_49
+  - community/Community_21
 ---
 
 # BaseManager.removeCreature()
@@ -17,4 +17,4 @@ tags:
 - [[commands.newPlayer()]] - `calls` [INFERRED]
 - [[execute()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_49
+#graphify/code #graphify/INFERRED #community/Community_21

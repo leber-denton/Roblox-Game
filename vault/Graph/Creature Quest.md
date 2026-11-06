@@ -14,11 +14,12 @@ tags:
 ## Connections
 - [[CLAUDE]] - `contains` [EXTRACTED]
 - [[File endings]] - `contains` [EXTRACTED]
-- [[Layout]] - `contains` [EXTRACTED]
+- [[Layout_3]] - `contains` [EXTRACTED]
 - [[Reading code]] - `contains` [EXTRACTED]
 - [[Sync]] - `contains` [EXTRACTED]
 - [[Testing]] - `contains` [EXTRACTED]
 - [[Tooling]] - `contains` [EXTRACTED]
 - [[Workflow]] - `contains` [EXTRACTED]
+- [[graphify]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_36

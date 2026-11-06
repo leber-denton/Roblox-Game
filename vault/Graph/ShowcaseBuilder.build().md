@@ -12,7 +12,7 @@ tags:
 # ShowcaseBuilder.build()
 
 ## Connections
-- [[ShowcaseBuilder.luau]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.luau_2]] - `contains` [EXTRACTED]
 - [[categories()]] - `calls` [EXTRACTED]
 - [[extents()]] - `calls` [EXTRACTED]
 - [[label()_4]] - `calls` [EXTRACTED]

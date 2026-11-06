@@ -18,6 +18,6 @@ tags:
 - [[free()]] - `calls` [EXTRACTED]
 - [[get()]] - `calls` [EXTRACTED]
 - [[nextScene()]] - `calls` [EXTRACTED]
-- [[sync()_1]] - `calls` [EXTRACTED]
+- [[sync()_2]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_14

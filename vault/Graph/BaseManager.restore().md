@@ -20,7 +20,7 @@ tags:
 - [[BattleData.maxXP()]] - `calls` [INFERRED]
 - [[BattleData.xpForLevel()]] - `calls` [INFERRED]
 - [[SaveService.load()]] - `calls` [INFERRED]
-- [[finite()]] - `calls` [EXTRACTED]
+- [[finite()_1]] - `calls` [EXTRACTED]
 - [[setExpansionOpen()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_16

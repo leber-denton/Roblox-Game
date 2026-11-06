@@ -9,11 +9,10 @@ tags:
   - community/Community_32
 ---
 
-# Systems Overview.md
+# Systems Overview
 
 ## Connections
-- [[Code Map]] - `references` [EXTRACTED]
-- [[Index]] - `references` [EXTRACTED]
-- [[Systems Overview_1]] - `contains` [EXTRACTED]
+- [[Code map_1]] - `contains` [EXTRACTED]
+- [[SystemsSystems Overview]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_32

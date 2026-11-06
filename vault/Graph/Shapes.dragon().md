@@ -12,7 +12,7 @@ tags:
 # Shapes.dragon()
 
 ## Connections
-- [[CreatureBuilder.luau]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_2]] - `contains` [EXTRACTED]
 - [[darker()]] - `calls` [EXTRACTED]
 - [[lighter()]] - `calls` [EXTRACTED]
 

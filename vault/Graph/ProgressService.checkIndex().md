@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/ProgressService.luau"
 type: "code"
-community: "Community 24"
+community: "Community 21"
 location: "L164"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_21
 ---
 
 # ProgressService.checkIndex()
@@ -18,4 +18,4 @@ tags:
 - [[ProgressService.luau]] - `contains` [EXTRACTED]
 - [[ProgressService.onJoin()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_24
+#graphify/code #graphify/EXTRACTED #community/Community_21

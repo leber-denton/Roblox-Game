@@ -1,18 +1,19 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 2"
+source_file: "vault/Graph/script_parent_wildspawner.md"
+type: "document"
+community: "Community 316"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Community_316
 ---
 
-# script_parent_wildspawner
+# script_parent_wildspawner.md
 
 ## Connections
-- [[AdminService.luau]] - `imports` [EXTRACTED]
-- [[RareEventService.luau]] - `imports` [EXTRACTED]
-- [[TutorialService.luau]] - `imports` [EXTRACTED]
+- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 53]] - `references` [EXTRACTED]
+- [[script_parent_wildspawner_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_2
+#graphify/document #graphify/EXTRACTED #community/Community_316

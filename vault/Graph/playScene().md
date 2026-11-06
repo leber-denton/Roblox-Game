@@ -12,10 +12,10 @@ tags:
 # playScene()
 
 ## Connections
-- [[Story.client.luau]] - `contains` [EXTRACTED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
 - [[burst()]] - `calls` [EXTRACTED]
-- [[new()_4]] - `calls` [EXTRACTED]
-- [[play()_1]] - `calls` [EXTRACTED]
+- [[new()_2]] - `calls` [EXTRACTED]
+- [[play()]] - `calls` [EXTRACTED]
 - [[runLines()]] - `calls` [EXTRACTED]
 - [[setVisible()]] - `calls` [EXTRACTED]
 - [[spawnJuniper()]] - `calls` [EXTRACTED]

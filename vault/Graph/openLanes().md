@@ -12,7 +12,7 @@ tags:
 # openLanes()
 
 ## Connections
-- [[Functions_13]] - `references` [INFERRED]
+- [[Functions_54]] - `references` [INFERRED]
 - [[RareEventService.luau]] - `contains` [EXTRACTED]
 - [[RareEventService.summon()]] - `calls` [EXTRACTED]
 - [[RareEventService.trigger()]] - `calls` [EXTRACTED]

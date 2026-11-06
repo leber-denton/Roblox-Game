@@ -1,46 +1,37 @@
 ---
 type: community
-members: 33
+members: 24
 ---
 
 # Community 11
 
-**Members:** 33 nodes
+**Members:** 24 nodes
 
 ## Members
-- [[CreatureIndex]] - document - vault/Code/CreatureIndex.md
-- [[CreatureIndex.client.luau]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[Functions_4]] - document - vault/Code/CreatureIndex.md
-- [[Functions_5]] - document - vault/Code/Tutorial.md
-- [[Required by_4]] - document - vault/Code/CreatureIndex.md
-- [[Required by_5]] - document - vault/Code/Tutorial.md
-- [[Requires_4]] - document - vault/Code/CreatureIndex.md
-- [[Requires_5]] - document - vault/Code/Tutorial.md
-- [[Tutorial]] - document - vault/Code/Tutorial.md
-- [[Tutorial.client.luau]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[arrowPart()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[clearBody()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[getIndex()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[hideIfNotMine()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[intro()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[label()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[new()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[new()_1]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[play()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[preview()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[preview()_1]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[queueDialogue()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[round()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[runDialogue()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[setHighlight()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[setOpen()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[shared_waitforchild]] - concept
-- [[showDetail()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[showGrid()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[showPicker()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[targetValue()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[typeChips()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[updateVisible()_1]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
+- [[GameData.hasBoost()]] - code - src/ReplicatedStorage/Shared/GameData.luau
+- [[GameData.trainerXPToNext()]] - code - src/ReplicatedStorage/Shared/GameData.luau
+- [[PlayerData.addBP()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.addBadge()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.addBoost()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.addCoins()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.addCoinsRaw()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.addItem()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.addXP()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.hasBadge()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.init()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.load()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.luau]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.setMusicMuted()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.setPending()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.spendBP()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[PlayerData.takeItem()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[commands.allBadges()]] - code - src/ServerScriptService/Modules/AdminService.luau
+- [[commands.badges()]] - code - src/ServerScriptService/Modules/AdminService.luau
+- [[defaults()_1]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[finite()]] - code - src/ServerScriptService/Modules/PlayerData.luau
+- [[giveProduct()]] - code - src/ServerScriptService/Modules/DecorService.luau
+- [[setupShop()]] - code - src/ServerScriptService/Modules/ColiseumService.luau
+- [[sync()_1]] - code - src/ServerScriptService/Modules/PlayerData.luau
 
 ## Live Query (requires Dataview plugin)
 
@@ -50,16 +41,21 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 6]]
-- 2 edges to [[_COMMUNITY_Community 25]]
-- 1 edge to [[_COMMUNITY_Community 12]]
-- 1 edge to [[_COMMUNITY_Community 19]]
-- 1 edge to [[_COMMUNITY_Community 3]]
-- 1 edge to [[_COMMUNITY_Community 7]]
+- 8 edges to [[_COMMUNITY_Community 0]]
+- 8 edges to [[_COMMUNITY_Community 21]]
+- 7 edges to [[_COMMUNITY_Community 22]]
+- 6 edges to [[_COMMUNITY_Community 4]]
+- 5 edges to [[_COMMUNITY_Community 15]]
+- 4 edges to [[_COMMUNITY_Community 17]]
+- 4 edges to [[_COMMUNITY_Community 12]]
+- 3 edges to [[_COMMUNITY_Community 7]]
+- 3 edges to [[_COMMUNITY_Community 18]]
+- 2 edges to [[_COMMUNITY_Community 135]]
+- 1 edge to [[_COMMUNITY_Community 14]]
 
 ## Top bridge nodes
-- [[shared_waitforchild]] - degree 6, connects to 4 communities
-- [[preview()]] - degree 5, connects to 1 community
-- [[preview()_1]] - degree 4, connects to 1 community
-- [[CreatureIndex]] - degree 4, connects to 1 community
-- [[Tutorial]] - degree 4, connects to 1 community
+- [[PlayerData.luau]] - degree 29, connects to 7 communities
+- [[PlayerData.addItem()]] - degree 11, connects to 6 communities
+- [[PlayerData.addCoins()]] - degree 12, connects to 4 communities
+- [[setupShop()]] - degree 7, connects to 2 communities
+- [[giveProduct()]] - degree 6, connects to 2 communities

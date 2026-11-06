@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/NPC.md"
+source_file: "vault/Code/AdminService.md"
 type: "document"
-community: "Community 71"
-location: "L15"
+community: "Community 17"
+location: "L19"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_71
+  - community/Community_17
 ---
 
 # Functions
 
 ## Connections
-- [[NPC_1]] - `contains` [EXTRACTED]
+- [[AdminService_2]] - `contains` [EXTRACTED]
+- [[spots()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_71
+#graphify/document #graphify/EXTRACTED #community/Community_17

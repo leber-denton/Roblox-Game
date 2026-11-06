@@ -12,8 +12,8 @@ tags:
 # useList()
 
 ## Connections
-- [[BattleUI.client.luau]] - `contains` [EXTRACTED]
-- [[Functions_46]] - `references` [INFERRED]
+- [[BattleUI.client.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_109]] - `references` [INFERRED]
 - [[showMenu()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_7

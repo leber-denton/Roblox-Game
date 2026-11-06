@@ -9,10 +9,12 @@ tags:
   - community/Community_39
 ---
 
-# NPCAnimator.md
+# NPCAnimator
 
 ## Connections
-- [[Code Map]] - `references` [EXTRACTED]
-- [[NPCAnimator_1]] - `contains` [EXTRACTED]
+- [[CodeNPCAnimator]] - `contains` [EXTRACTED]
+- [[Functions_92]] - `contains` [EXTRACTED]
+- [[Required by_89]] - `contains` [EXTRACTED]
+- [[Requires_90]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_39

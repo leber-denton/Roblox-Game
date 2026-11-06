@@ -1,19 +1,19 @@
 ---
 source_file: "src/ServerStorage/ModelSync.luau"
 type: "code"
-community: "Community 5"
+community: "Community 8"
 location: "L295"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_5
+  - community/Community_8
 ---
 
 # referenceScale()
 
 ## Connections
-- [[ModelSync.luau]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_2]] - `contains` [EXTRACTED]
 - [[makeReplacement()]] - `calls` [EXTRACTED]
-- [[scaleOf()]] - `calls` [EXTRACTED]
+- [[scaleOf()_1]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_5
+#graphify/code #graphify/EXTRACTED #community/Community_8

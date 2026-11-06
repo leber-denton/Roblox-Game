@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/PassService.luau"
 type: "code"
-community: "Community 2"
+community: "Community 22"
 location: "L133"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_2
+  - community/Community_22
 ---
 
 # setupProducts()
@@ -14,9 +14,9 @@ tags:
 ## Connections
 - [[BattleService.onReleased()]] - `calls` [INFERRED]
 - [[DecorService.registerProduct()]] - `calls` [INFERRED]
-- [[Functions_12]] - `references` [INFERRED]
+- [[Functions_73]] - `references` [INFERRED]
 - [[PassService.init()]] - `calls` [EXTRACTED]
-- [[PassService.luau]] - `contains` [EXTRACTED]
+- [[PassService.luau_2]] - `contains` [EXTRACTED]
 - [[PlayerData.addBoost()]] - `calls` [INFERRED]
 - [[PlayerData.addItem()]] - `calls` [INFERRED]
 - [[PlayerData.getPending()]] - `calls` [INFERRED]
@@ -26,4 +26,4 @@ tags:
 - [[heal()]] - `calls` [EXTRACTED]
 - [[requestSave()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Community_2
+#graphify/code #graphify/INFERRED #community/Community_22

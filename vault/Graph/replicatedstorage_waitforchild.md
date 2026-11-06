@@ -1,24 +1,25 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 1"
+source_file: "vault/Graph/replicatedstorage_waitforchild.md"
+type: "document"
+community: "Community 178"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Community_178
 ---
 
-# replicatedstorage_waitforchild
+# replicatedstorage_waitforchild.md
 
 ## Connections
-- [[Bag.client.luau]] - `imports` [EXTRACTED]
-- [[ColiseumUI.client.luau]] - `imports` [EXTRACTED]
-- [[DungeonClient.client.luau]] - `imports` [EXTRACTED]
-- [[HUD.client.luau]] - `imports` [EXTRACTED]
-- [[LockedLanes.client.luau]] - `imports` [EXTRACTED]
-- [[Music.client.luau]] - `imports` [EXTRACTED]
-- [[Regions.client.luau]] - `imports` [EXTRACTED]
-- [[Sfx.luau]] - `imports` [EXTRACTED]
-- [[Sprint.client.luau]] - `imports` [EXTRACTED]
+- [[ColiseumUI.client.luau]] - `references` [EXTRACTED]
+- [[DungeonClient.client.luau]] - `references` [EXTRACTED]
+- [[HUD.client.luau]] - `references` [EXTRACTED]
+- [[LockedLanes.client.luau]] - `references` [EXTRACTED]
+- [[Regions.client.luau]] - `references` [EXTRACTED]
+- [[Sfx.luau]] - `references` [EXTRACTED]
+- [[Sprint.client.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[replicatedstorage_waitforchild_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_1
+#graphify/document #graphify/EXTRACTED #community/Community_178

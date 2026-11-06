@@ -12,6 +12,6 @@ tags:
 # Features.flower()
 
 ## Connections
-- [[CreatureBuilder.luau]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_2]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_6

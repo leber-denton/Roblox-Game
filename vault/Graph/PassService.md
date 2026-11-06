@@ -1,26 +1,18 @@
 ---
-source_file: "vault/Code/PassService.md"
+source_file: "vault/Graph/PassService.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 208"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_208
 ---
 
-# PassService.md
+# PassService
 
 ## Connections
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[DecorService]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[PassService_1]] - `contains` [EXTRACTED]
-- [[PlayerData]] - `references` [EXTRACTED]
-- [[RareEventService]] - `references` [EXTRACTED]
-- [[SaveService]] - `references` [EXTRACTED]
+- [[Connections_610]] - `contains` [EXTRACTED]
+- [[GraphPassService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_208

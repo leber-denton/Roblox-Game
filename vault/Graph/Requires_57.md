@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/ShowcaseBuilder.md"
+source_file: "vault/Code/Tutorial.md"
 type: "document"
-community: "Community 8"
+community: "Community 19"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_19
 ---
 
 # Requires
 
 ## Connections
-- [[ShowcaseBuilder_1]] - `contains` [EXTRACTED]
+- [[Tutorial]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_8
+#graphify/document #graphify/EXTRACTED #community/Community_19

@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Code/NPC.md"
+source_file: "vault/Graph/Requires_48.md"
 type: "document"
-community: "Community 71"
-location: "L4"
+community: "Community 159"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_71
+  - community/Community_159
 ---
 
-# Requires
+# Requires_48.md
 
 ## Connections
-- [[NPC_1]] - `contains` [EXTRACTED]
+- [[NPC_1]] - `references` [EXTRACTED]
+- [[Requires_28_1]] - `references` [EXTRACTED]
+- [[Requires_48_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 71]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_71
+#graphify/document #graphify/EXTRACTED #community/Community_159

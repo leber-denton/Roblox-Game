@@ -1,22 +1,23 @@
 ---
 type: community
-members: 9
+members: 10
 ---
 
 # Community 36
 
-**Members:** 9 nodes
+**Members:** 10 nodes
 
 ## Members
 - [[CLAUDE]] - document - CLAUDE.md
 - [[Creature Quest]] - document - CLAUDE.md
 - [[File endings]] - document - CLAUDE.md
-- [[Layout]] - document - CLAUDE.md
+- [[Layout_3]] - document - CLAUDE.md
 - [[Reading code]] - document - CLAUDE.md
 - [[Sync]] - document - CLAUDE.md
 - [[Testing]] - document - CLAUDE.md
 - [[Tooling]] - document - CLAUDE.md
 - [[Workflow]] - document - CLAUDE.md
+- [[graphify]] - document - CLAUDE.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/CreatureIndex.md"
+source_file: "vault/Graph/Functions_4.md"
 type: "document"
-community: "Community 11"
-location: "L12"
+community: "Community 102"
+location: "L1"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_11
+  - graphify/EXTRACTED
+  - community/Community_102
 ---
 
-# Functions
+# Functions_4.md
 
 ## Connections
-- [[CreatureIndex]] - `contains` [EXTRACTED]
-- [[clearBody()]] - `references` [INFERRED]
-- [[getIndex()]] - `references` [INFERRED]
-- [[showGrid()]] - `references` [INFERRED]
+- [[Functions_2]] - `contains` [EXTRACTED]
+- [[Functions_24]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_11
+#graphify/document #graphify/EXTRACTED #community/Community_102

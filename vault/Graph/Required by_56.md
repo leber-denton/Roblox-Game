@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/HUD.md"
+source_file: "vault/Code/CreatureIndex.md"
 type: "document"
-community: "Community 8"
-location: "L7"
+community: "Community 19"
+location: "L9"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_19
 ---
 
 # Required by
 
 ## Connections
-- [[HUD_1]] - `contains` [EXTRACTED]
+- [[CreatureIndex_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_8
+#graphify/document #graphify/EXTRACTED #community/Community_19

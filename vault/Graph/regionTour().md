@@ -12,11 +12,11 @@ tags:
 # regionTour()
 
 ## Connections
-- [[Functions_11]] - `references` [INFERRED]
-- [[Story.client.luau]] - `contains` [EXTRACTED]
+- [[Functions_52]] - `references` [INFERRED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
 - [[glow()]] - `calls` [INFERRED]
-- [[new()_4]] - `calls` [EXTRACTED]
-- [[play()_1]] - `calls` [EXTRACTED]
+- [[new()_2]] - `calls` [EXTRACTED]
+- [[play()]] - `calls` [EXTRACTED]
 - [[waitUntilFree()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_19

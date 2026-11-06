@@ -1,12 +1,12 @@
 ---
 source_file: "src/ReplicatedStorage/Shared/BattleData.luau"
 type: "code"
-community: "Community 41"
+community: "Community 16"
 location: "L369"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_41
+  - community/Community_16
 ---
 
 # BattleData.stats()
@@ -23,4 +23,4 @@ tags:
 - [[refreshTag()]] - `calls` [INFERRED]
 - [[tick()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_41
+#graphify/code #graphify/INFERRED #community/Community_16

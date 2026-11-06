@@ -12,7 +12,7 @@ tags:
 # pacificDate()
 
 ## Connections
-- [[ColiseumService.luau]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[finishRanked()]] - `calls` [EXTRACTED]
 - [[refreshBoards()]] - `calls` [EXTRACTED]
 - [[sundayKey()]] - `calls` [EXTRACTED]

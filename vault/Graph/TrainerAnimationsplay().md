@@ -12,7 +12,7 @@ tags:
 # TrainerAnimations:play()
 
 ## Connections
-- [[TrainerAnimations.luau]] - `contains` [EXTRACTED]
+- [[TrainerAnimations.luau_2]] - `contains` [EXTRACTED]
 - [[TrainerAnimations_track()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_48

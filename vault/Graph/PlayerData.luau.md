@@ -1,19 +1,19 @@
 ---
 source_file: "src/ServerScriptService/Modules/PlayerData.luau"
 type: "code"
-community: "Community 21"
+community: "Community 11"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_11
 ---
 
 # PlayerData.luau
 
 ## Connections
-- [[GameData.luau]] - `imports` [EXTRACTED]
-- [[Main.server.luau]] - `imports` [EXTRACTED]
+- [[GameData.luau_2]] - `imports` [EXTRACTED]
+- [[Main.server.luau_2]] - `imports` [EXTRACTED]
 - [[PlayerData.addBP()]] - `contains` [EXTRACTED]
 - [[PlayerData.addBadge()]] - `contains` [EXTRACTED]
 - [[PlayerData.addBoost()]] - `contains` [EXTRACTED]
@@ -39,7 +39,7 @@ tags:
 - [[PlayerData.spendBP()]] - `contains` [EXTRACTED]
 - [[PlayerData.takeItem()]] - `contains` [EXTRACTED]
 - [[defaults()_1]] - `contains` [EXTRACTED]
-- [[finite()_1]] - `contains` [EXTRACTED]
-- [[sync()_2]] - `contains` [EXTRACTED]
+- [[finite()]] - `contains` [EXTRACTED]
+- [[sync()_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_21
+#graphify/code #graphify/EXTRACTED #community/Community_11

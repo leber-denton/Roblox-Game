@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Code/LeagueService.md"
+source_file: "vault/Graph/LeagueService.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 156"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_156
 ---
 
-# LeagueService.md
+# LeagueService
 
 ## Connections
-- [[BaseManager]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[LeagueService_1]] - `contains` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[NPC]] - `references` [EXTRACTED]
-- [[PlayerData]] - `references` [EXTRACTED]
-- [[StoryService]] - `references` [EXTRACTED]
+- [[Connections_417]] - `contains` [EXTRACTED]
+- [[GraphLeagueService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_156

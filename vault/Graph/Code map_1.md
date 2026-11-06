@@ -12,6 +12,6 @@ tags:
 # Code map
 
 ## Connections
-- [[Systems Overview_1]] - `contains` [EXTRACTED]
+- [[Systems Overview]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_32

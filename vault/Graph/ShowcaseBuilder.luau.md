@@ -1,28 +1,19 @@
 ---
-source_file: "src/ServerStorage/ShowcaseBuilder.luau"
-type: "code"
-community: "Community 8"
+source_file: "vault/Graph/ShowcaseBuilder.luau.md"
+type: "document"
+community: "Community 26"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Community_26
 ---
 
-# ShowcaseBuilder.luau
+# ShowcaseBuilder.luau.md
 
 ## Connections
-- [[ShowcaseBuilder.arrivalCFrame()]] - `contains` [EXTRACTED]
-- [[ShowcaseBuilder.build()]] - `contains` [EXTRACTED]
-- [[categories()]] - `contains` [EXTRACTED]
-- [[extents()]] - `contains` [EXTRACTED]
-- [[firstPropCopy()]] - `contains` [EXTRACTED]
-- [[galleryTrainers()]] - `contains` [EXTRACTED]
-- [[label()_4]] - `contains` [EXTRACTED]
-- [[mkPart()]] - `contains` [EXTRACTED]
-- [[prepare()]] - `contains` [EXTRACTED]
-- [[resolve()]] - `contains` [EXTRACTED]
-- [[script_parent_waitforchild]] - `imports` [EXTRACTED]
-- [[sourceOf()]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
+- [[script_parent_waitforchild]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_8
+#graphify/document #graphify/EXTRACTED #community/Community_26

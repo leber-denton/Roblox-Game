@@ -1,26 +1,16 @@
 ---
 type: community
-members: 13
+members: 3
 ---
 
 # Community 31
 
-**Members:** 13 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[LeagueService.init()]] - code - src/ServerScriptService/Modules/LeagueService.luau
-- [[LeagueService.luau]] - code - src/ServerScriptService/Modules/LeagueService.luau
-- [[PlayerData.addStat()]] - code - src/ServerScriptService/Modules/PlayerData.luau
-- [[challenge()]] - code - src/ServerScriptService/Modules/LeagueService.luau
-- [[commands.champion()]] - code - src/ServerScriptService/Modules/AdminService.luau
-- [[isChampion()]] - code - src/ServerScriptService/Modules/LeagueService.luau
-- [[itemList()]] - code - src/ServerScriptService/Modules/LeagueService.luau
-- [[reset()]] - code - src/ServerScriptService/Modules/LeagueService.luau
-- [[rivalAce()]] - code - src/ServerScriptService/Modules/LeagueService.luau
-- [[setup()_1]] - code - src/ServerScriptService/Modules/LeagueService.luau
-- [[stage()]] - code - src/ServerScriptService/Modules/LeagueService.luau
-- [[teamFor()]] - code - src/ServerScriptService/Modules/LeagueService.luau
-- [[wins()]] - code - src/ServerScriptService/Modules/LeagueService.luau
+- [[BaseManager_2]] - document - vault/Graph/BaseManager_1.md
+- [[BaseManager_1_1]] - document - vault/Graph/BaseManager_1.md
+- [[Connections_795]] - document - vault/Graph/BaseManager_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,21 +20,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 22]]
-- 2 edges to [[_COMMUNITY_Community 18]]
-- 2 edges to [[_COMMUNITY_Community 21]]
-- 2 edges to [[_COMMUNITY_Community 24]]
-- 2 edges to [[_COMMUNITY_Community 33]]
-- 1 edge to [[_COMMUNITY_Community 0]]
-- 1 edge to [[_COMMUNITY_Community 17]]
-- 1 edge to [[_COMMUNITY_Community 41]]
-- 1 edge to [[_COMMUNITY_Community 34]]
-- 1 edge to [[_COMMUNITY_Community 15]]
-- 1 edge to [[_COMMUNITY_Community 30]]
+- 1 edge to [[_COMMUNITY_Community 42]]
+- 1 edge to [[_COMMUNITY_Community 91]]
 
 ## Top bridge nodes
-- [[LeagueService.luau]] - degree 16, connects to 4 communities
-- [[LeagueService.init()]] - degree 9, connects to 3 communities
-- [[PlayerData.addStat()]] - degree 5, connects to 3 communities
-- [[challenge()]] - degree 6, connects to 1 community
-- [[wins()]] - degree 5, connects to 1 community
+- [[BaseManager_1_1]] - degree 3, connects to 2 communities

@@ -12,8 +12,8 @@ tags:
 # burst()
 
 ## Connections
-- [[Story.client.luau]] - `contains` [EXTRACTED]
-- [[new()_4]] - `calls` [EXTRACTED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
+- [[new()_2]] - `calls` [EXTRACTED]
 - [[playScene()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_19

@@ -12,7 +12,7 @@ tags:
 # firstPropCopy()
 
 ## Connections
-- [[ShowcaseBuilder.luau]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.luau_2]] - `contains` [EXTRACTED]
 - [[resolve()]] - `calls` [EXTRACTED]
 - [[sourceOf()]] - `calls` [EXTRACTED]
 

@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Functions_44]] - document - vault/Code/LeagueService.md
-- [[LeagueService_1]] - document - vault/Code/LeagueService.md
-- [[Required by_44]] - document - vault/Code/LeagueService.md
-- [[Requires_44]] - document - vault/Code/LeagueService.md
+- [[Functions_108]] - document - vault/Code/LeagueService.md
+- [[LeagueService_2]] - document - vault/Code/LeagueService.md
+- [[Required by_105]] - document - vault/Code/LeagueService.md
+- [[Requires_106]] - document - vault/Code/LeagueService.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,4 +24,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[LeagueService_1]] - degree 4, connects to 1 community
+- [[LeagueService_2]] - degree 4, connects to 1 community

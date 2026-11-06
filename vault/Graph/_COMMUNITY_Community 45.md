@@ -8,7 +8,7 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[EventHUD.client.luau]] - code - src/StarterPlayer/StarterPlayerScripts/EventHUD.client.luau
+- [[EventHUD.client.luau_2]] - code - src/StarterPlayer/StarterPlayerScripts/EventHUD.client.luau
 - [[describe()]] - code - src/StarterPlayer/StarterPlayerScripts/EventHUD.client.luau
 - [[fmt()]] - code - src/StarterPlayer/StarterPlayerScripts/EventHUD.client.luau
 - [[new()_8]] - code - src/StarterPlayer/StarterPlayerScripts/EventHUD.client.luau

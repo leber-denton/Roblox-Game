@@ -1,12 +1,12 @@
 ---
 source_file: "src/ReplicatedStorage/Shared/BattleData.luau"
 type: "code"
-community: "Community 23"
+community: "Community 16"
 location: "L317"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_23
+  - community/Community_16
 ---
 
 # BattleData.starsFor()
@@ -17,4 +17,4 @@ tags:
 - [[BattleData.starProgress()]] - `calls` [EXTRACTED]
 - [[BattleData.xpForLevel()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_23
+#graphify/code #graphify/EXTRACTED #community/Community_16

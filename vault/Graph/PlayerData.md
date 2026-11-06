@@ -1,32 +1,18 @@
 ---
-source_file: "vault/Code/PlayerData.md"
+source_file: "vault/Graph/PlayerData.md"
 type: "document"
-community: "Community 13"
-location: "L1"
+community: "Community 160"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_160
 ---
 
-# PlayerData.md
+# PlayerData
 
 ## Connections
-- [[AdminService]] - `references` [EXTRACTED]
-- [[BattleService]] - `references` [EXTRACTED]
-- [[Code Map]] - `references` [EXTRACTED]
-- [[ColiseumService]] - `references` [EXTRACTED]
-- [[DecorService]] - `references` [EXTRACTED]
-- [[GameData]] - `references` [EXTRACTED]
-- [[GymService]] - `references` [EXTRACTED]
-- [[LeagueService]] - `references` [EXTRACTED]
-- [[Main]] - `references` [EXTRACTED]
-- [[PassService]] - `references` [EXTRACTED]
-- [[PlayerData_1]] - `contains` [EXTRACTED]
-- [[ProgressService]] - `references` [EXTRACTED]
-- [[RouteTrainerService]] - `references` [EXTRACTED]
-- [[SaveService]] - `references` [EXTRACTED]
-- [[StoryService]] - `references` [EXTRACTED]
-- [[TutorialService]] - `references` [EXTRACTED]
+- [[Connections_439]] - `contains` [EXTRACTED]
+- [[GraphPlayerData]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_160

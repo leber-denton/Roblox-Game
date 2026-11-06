@@ -12,13 +12,13 @@ members: 13
 - [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…]] - rationale - tools/gen_trade_beach.py
 - [[gen_coliseum.py]] - code - tools/gen_coliseum.py
 - [[gen_trade_beach.py]] - code - tools/gen_trade_beach.py
-- [[json]] - concept
-- [[math]] - concept
+- [[json_2]] - concept
+- [[math_2]] - concept
 - [[node()]] - code - tools/gen_trade_beach.py
 - [[part()_1]] - code - tools/gen_coliseum.py
 - [[part()_2]] - code - tools/gen_trade_beach.py
 - [[pt()]] - code - tools/gen_coliseum.py
-- [[random]] - concept
+- [[random_2]] - concept
 - [[ring()]] - code - tools/gen_trade_beach.py
 - [[yaw()]] - code - tools/gen_coliseum.py
 

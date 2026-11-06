@@ -12,6 +12,6 @@ tags:
 # ArenaManager.release()
 
 ## Connections
-- [[ArenaManager.luau]] - `contains` [EXTRACTED]
+- [[ArenaManager.luau_2]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_44

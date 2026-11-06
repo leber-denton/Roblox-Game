@@ -1,18 +1,17 @@
 ---
 type: community
-members: 5
+members: 4
 ---
 
 # Community 55
 
-**Members:** 5 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Functions_34]] - document - vault/Code/LeaderboardService.md
-- [[LeaderboardService_1]] - document - vault/Code/LeaderboardService.md
-- [[LeaderboardService]] - document - vault/Code/LeaderboardService.md
-- [[Required by_34]] - document - vault/Code/LeaderboardService.md
-- [[Requires_34]] - document - vault/Code/LeaderboardService.md
+- [[Functions_98]] - document - vault/Code/LeaderboardService.md
+- [[LeaderboardService_2]] - document - vault/Code/LeaderboardService.md
+- [[Required by_95]] - document - vault/Code/LeaderboardService.md
+- [[Requires_96]] - document - vault/Code/LeaderboardService.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,8 +21,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 13]]
-- 1 edge to [[_COMMUNITY_Community 28]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[LeaderboardService]] - degree 4, connects to 2 communities
+- [[LeaderboardService_2]] - degree 4, connects to 1 community

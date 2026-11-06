@@ -12,8 +12,8 @@ tags:
 # spots()
 
 ## Connections
-- [[AdminService.luau]] - `contains` [EXTRACTED]
-- [[Functions_39]] - `references` [INFERRED]
+- [[AdminService.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_48]] - `references` [INFERRED]
 - [[commands.info()]] - `calls` [EXTRACTED]
 - [[commands.teleport()]] - `calls` [EXTRACTED]
 

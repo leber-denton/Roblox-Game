@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/_COMMUNITY_Community 64.md"
+type: "document"
+community: "Community 150"
+location: "L23"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_150
+---
+
+# Connections to other communities
+
+## Connections
+- [[Community 64]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_150

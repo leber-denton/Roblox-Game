@@ -1,12 +1,12 @@
 ---
 source_file: "src/ReplicatedStorage/Shared/BattleData.luau"
 type: "code"
-community: "Community 23"
+community: "Community 16"
 location: "L81"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_23
+  - community/Community_16
 ---
 
 # BattleData.canGetStatus()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[BattleData.luau]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_23
+#graphify/code #graphify/EXTRACTED #community/Community_16

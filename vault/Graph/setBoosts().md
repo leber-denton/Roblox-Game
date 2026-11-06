@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[WeeklyEventService.init()]] - `calls` [EXTRACTED]
-- [[WeeklyEventService.luau]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.luau_2]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_2

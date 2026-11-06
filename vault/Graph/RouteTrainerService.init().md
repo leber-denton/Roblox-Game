@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/RouteTrainerService.luau"
 type: "code"
-community: "Community 33"
+community: "Community 15"
 location: "L108"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_33
+  - community/Community_15
 ---
 
 # RouteTrainerService.init()
@@ -23,4 +23,4 @@ tags:
 - [[canChallenge()]] - `calls` [EXTRACTED]
 - [[challenge()_1]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Community_33
+#graphify/code #graphify/INFERRED #community/Community_15

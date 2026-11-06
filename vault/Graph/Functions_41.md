@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Code/DecorService.md"
+source_file: "vault/Graph/Functions_41.md"
 type: "document"
-community: "Community 65"
-location: "L18"
+community: "Community 153"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_65
+  - community/Community_153
 ---
 
-# Functions
+# Functions_41.md
 
 ## Connections
-- [[DecorService_1]] - `contains` [EXTRACTED]
+- [[DecorService_1]] - `references` [EXTRACTED]
+- [[Functions_25_1]] - `references` [EXTRACTED]
+- [[Functions_41_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 65]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_65
+#graphify/document #graphify/EXTRACTED #community/Community_153
