@@ -12,6 +12,7 @@ local RunService = game:GetService("RunService")
 local GameData = require(ReplicatedStorage.Shared.GameData)
 local BattleService = require(script.Parent.BattleService)
 local NPC = require(script.Parent.NPC)
+local DungeonNPCStyler = require(script.Parent.DungeonNPCStyler)
 
 local Notify = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild("Notify")
 
@@ -173,6 +174,11 @@ function DungeonService.init()
 		-- the floor's trainer
 		local trainer = r:FindFirstChild("Trainer")
 		if trainer and not f.rest then
+			-- unique spooky look per trainer; a styling error must never break the tower
+			local styled, styleErr = pcall(DungeonNPCStyler.apply, trainer, f.trainer)
+			if not styled then
+				warn("DungeonService: couldn't style", f.trainer, styleErr)
+			end
 			NPC.prompt(trainer.PrimaryPart, "Battle", f.trainer, 14).Triggered:Connect(function(player)
 				if BattleService.isInBattle(player) or player:GetAttribute("Elevating") then
 					return
