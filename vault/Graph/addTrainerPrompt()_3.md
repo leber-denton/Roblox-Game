@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/addTrainerPrompt()_1.md"
+source_file: "vault/Graph/addTrainerPrompt().md"
 type: "document"
-community: "Community 1376"
+community: "Community 123"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1376
+  - community/Community_123
 ---
 
-# addTrainerPrompt().md
+# addTrainerPrompt()
 
 ## Connections
-- [[Connections_1664]] - `contains` [EXTRACTED]
-- [[addTrainerPrompt()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_4140]] - `contains` [EXTRACTED]
+- [[addTrainerPrompt()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1376
+#graphify/document #graphify/EXTRACTED #community/Community_123

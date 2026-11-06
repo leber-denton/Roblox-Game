@@ -1,26 +1,20 @@
 ---
 source_file: "vault/Graph/ShowcaseBuilder.build()_1.md"
 type: "document"
-community: "Community 189"
+community: "Community 352"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_189
+  - community/Community_352
 ---
 
 # ShowcaseBuilder.build()_1.md
 
 ## Connections
-- [[ShowcaseBuilder.build()_3]] - `contains` [EXTRACTED]
-- [[ShowcaseBuilder.build()_2_1]] - `references` [EXTRACTED]
-- [[ShowcaseBuilder.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 136]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[categories()_1_1]] - `references` [EXTRACTED]
-- [[extents()_1_1]] - `references` [EXTRACTED]
-- [[label()_4_1_1]] - `references` [EXTRACTED]
-- [[mkPart()_1_1]] - `references` [EXTRACTED]
-- [[prepare()_1_1]] - `references` [EXTRACTED]
+- [[Connections_3253_1]] - `references` [EXTRACTED]
+- [[ShowcaseBuilder.build()_5]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.build()_4_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1255]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_189
+#graphify/document #graphify/EXTRACTED #community/Community_352

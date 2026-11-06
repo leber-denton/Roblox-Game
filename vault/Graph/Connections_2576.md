@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/CreatureBuilder.build()_1.md"
+source_file: "vault/Graph/Connections_5142.md"
 type: "document"
-community: "Community 176"
-location: "L14"
+community: "Community 1144"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_176
+  - community/Community_1144
 ---
 
 # Connections
 
 ## Connections
-- [[CreatureBuilder.build()_3]] - `contains` [EXTRACTED]
+- [[Connections_2577]] - `contains` [EXTRACTED]
+- [[Connections_5142]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_176
+#graphify/document #graphify/EXTRACTED #community/Community_1144

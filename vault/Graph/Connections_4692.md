@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CodeDecorData.md"
+source_file: "vault/Graph/Connections_3427.md"
 type: "document"
-community: "Community 566"
+community: "Community 1263"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_566
+  - community/Community_1263
 ---
 
 # Connections
 
 ## Connections
-- [[CodeDecorData_2]] - `contains` [EXTRACTED]
+- [[Connections_4691]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_566
+#graphify/document #graphify/EXTRACTED #community/Community_1263

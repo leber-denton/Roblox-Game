@@ -1,19 +1,21 @@
 ---
-source_file: "vault/Graph/Connections_717.md"
+source_file: "vault/Graph/Connections_717_1.md"
 type: "document"
-community: "Community 27"
+community: "Community 42"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_27
+  - community/Community_42
 ---
 
-# Connections_717.md
+# Connections_717_1.md
 
 ## Connections
-- [[Connections_3502]] - `contains` [EXTRACTED]
-- [[GameData.medicineOrder()_2_1]] - `references` [EXTRACTED]
+- [[Connections_717_1_1]] - `contains` [EXTRACTED]
+- [[GameData.medicineOrder()_2_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 27]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_27
+#graphify/document #graphify/EXTRACTED #community/Community_42

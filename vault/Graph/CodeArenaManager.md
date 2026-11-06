@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[ArenaManager_2]] - `references` [EXTRACTED]
-- [[CodeArenaManager_1]] - `contains` [EXTRACTED]
+- [[CodeArenaManager_5]] - `contains` [EXTRACTED]
+- [[CodeArenaManager_1]] - `references` [EXTRACTED]
 - [[CodeBattleService]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 118]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 50]] - `references` [EXTRACTED]

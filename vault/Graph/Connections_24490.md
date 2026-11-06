@@ -1,0 +1,18 @@
+---
+source_file: "vault/Graph/Connections_5217.md"
+type: "document"
+community: "Community 984"
+location: "L12"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_984
+---
+
+# Connections
+
+## Connections
+- [[Connections_24491]] - `contains` [EXTRACTED]
+- [[Connections_5217_1]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_984

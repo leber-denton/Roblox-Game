@@ -1,16 +1,28 @@
 ---
 type: community
-members: 3
+members: 15
 ---
 
 # Community 1358
 
-**Members:** 3 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_1598]] - document - vault/Graph/Top bridge nodes_25.md
-- [[Top bridge nodes_89]] - document - vault/Graph/Top bridge nodes_25.md
-- [[Top bridge nodes_25_1]] - document - vault/Graph/Top bridge nodes_25.md
+- [[Community 102_1]] - document - vault/Graph/Community 102.md
+- [[Community 102]] - document - vault/Graph/Community 102.md
+- [[Connections_6571]] - document - vault/Graph/Community 102.md
+- [[Connections_6572]] - document - vault/Graph/Connections to other communities_15.md
+- [[Connections_6573]] - document - vault/Graph/Live Query (requires Dataview plugin)_22.md
+- [[Connections_6574]] - document - vault/Graph/Members_22.md
+- [[Connections_6575]] - document - vault/Graph/Top bridge nodes_15.md
+- [[Connections to other communities_353]] - document - vault/Graph/Connections to other communities_15.md
+- [[Connections to other communities_15_1]] - document - vault/Graph/Connections to other communities_15.md
+- [[Live Query (requires Dataview plugin)_443]] - document - vault/Graph/Live Query (requires Dataview plugin)_22.md
+- [[Live Query (requires Dataview plugin)_22_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_22.md
+- [[Members_443]] - document - vault/Graph/Members_22.md
+- [[Members_22_1]] - document - vault/Graph/Members_22.md
+- [[Top bridge nodes_348]] - document - vault/Graph/Top bridge nodes_15.md
+- [[Top bridge nodes_15_1]] - document - vault/Graph/Top bridge nodes_15.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +32,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 166]]
+- 5 edges to [[_COMMUNITY_Community 110]]
 
 ## Top bridge nodes
-- [[Top bridge nodes_25_1]] - degree 2, connects to 1 community
+- [[Community 102]] - degree 6, connects to 1 community
+- [[Members_22_1]] - degree 3, connects to 1 community
+- [[Live Query (requires Dataview plugin)_22_1]] - degree 3, connects to 1 community
+- [[Connections to other communities_15_1]] - degree 3, connects to 1 community
+- [[Top bridge nodes_15_1]] - degree 3, connects to 1 community

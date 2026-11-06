@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/setupStats().md"
+source_file: "vault/Graph/Connections_6258.md"
 type: "document"
-community: "Community 956"
-location: "L14"
+community: "Community 1241"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_956
+  - community/Community_1241
 ---
 
-# Connections
+# Connections_6258.md
 
 ## Connections
-- [[setupStats()_4]] - `contains` [EXTRACTED]
+- [[Connections_3088_1]] - `references` [EXTRACTED]
+- [[Connections_6258_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1241]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 956]] - `references` [EXTRACTED]
+- [[setupStats()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_956
+#graphify/document #graphify/EXTRACTED #community/Community_1241

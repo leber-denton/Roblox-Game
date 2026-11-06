@@ -8,9 +8,9 @@ members: 26
 **Members:** 26 nodes
 
 ## Members
-- [[Functions_26]] - document - vault/Code/StoryService.md
-- [[Required by_22]] - document - vault/Code/StoryService.md
-- [[Requires_26]] - document - vault/Code/StoryService.md
+- [[Functions_68]] - document - vault/Code/StoryService.md
+- [[Required by_61]] - document - vault/Code/StoryService.md
+- [[Requires_60]] - document - vault/Code/StoryService.md
 - [[StoryService]] - document - vault/Code/StoryService.md
 - [[StoryService.hasCompleted()]] - code - src/ServerScriptService/Modules/StoryService.luau
 - [[StoryService.init()]] - code - src/ServerScriptService/Modules/StoryService.luau
@@ -31,7 +31,7 @@ members: 26
 - [[makeGrunt()]] - code - src/ServerScriptService/Modules/StoryService.luau
 - [[nextScene()]] - code - src/ServerScriptService/Modules/StoryService.luau
 - [[part()]] - code - src/ServerScriptService/Modules/StoryService.luau
-- [[script_parent_tutorialservice_5]] - concept
+- [[script_parent_tutorialservice_9]] - concept
 - [[setupWorld()]] - code - src/ServerScriptService/Modules/StoryService.luau
 - [[sync()_2]] - code - src/ServerScriptService/Modules/StoryService.luau
 
@@ -43,19 +43,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 7 edges to [[_COMMUNITY_Community 15]]
+- 10 edges to [[_COMMUNITY_Community 15]]
+- 5 edges to [[_COMMUNITY_Community 11]]
 - 4 edges to [[_COMMUNITY_Community 16]]
-- 2 edges to [[_COMMUNITY_Community 11]]
-- 2 edges to [[_COMMUNITY_Community 41]]
-- 1 edge to [[_COMMUNITY_Community 4]]
-- 1 edge to [[_COMMUNITY_Community 2]]
-- 1 edge to [[_COMMUNITY_Community 17]]
 - 1 edge to [[_COMMUNITY_Community 13]]
-- 1 edge to [[_COMMUNITY_Community 22]]
 
 ## Top bridge nodes
-- [[StoryService.luau]] - degree 28, connects to 5 communities
-- [[complete()]] - degree 8, connects to 3 communities
+- [[StoryService.luau]] - degree 28, connects to 3 communities
 - [[StoryService.onLoaded()]] - degree 7, connects to 3 communities
+- [[complete()]] - degree 8, connects to 2 communities
 - [[setupWorld()]] - degree 9, connects to 1 community
 - [[StoryService.init()]] - degree 8, connects to 1 community

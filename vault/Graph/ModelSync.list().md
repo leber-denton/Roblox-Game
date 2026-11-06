@@ -12,7 +12,7 @@ tags:
 # ModelSync.list()
 
 ## Connections
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[showcaseModels()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_8

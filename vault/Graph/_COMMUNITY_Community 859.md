@@ -1,19 +1,25 @@
 ---
 type: community
-members: 6
+members: 12
 ---
 
 # Community 859
 
-**Members:** 6 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_5637]] - document - vault/Graph/Connections_463.md
-- [[Connections_5638]] - document - vault/Graph/Connections_463.md
-- [[Connections_5639]] - document - vault/Graph/Connections_464.md
-- [[Connections_5640]] - document - vault/Graph/Connections_464.md
-- [[Connections_463_1]] - document - vault/Graph/Connections_463.md
-- [[Connections_464_1]] - document - vault/Graph/Connections_464.md
+- [[BaseManager.serialize()_2_1]] - document - vault/Graph/BaseManager.serialize()_2.md
+- [[BaseManager.serialize()_2_2]] - document - vault/Graph/BaseManager.serialize()_2_1.md
+- [[BaseManager.serialize()_2_3]] - document - vault/Graph/BaseManager.serialize()_2.md
+- [[BaseManager.serialize()_2_1_1]] - document - vault/Graph/BaseManager.serialize()_2_1.md
+- [[Connections_23305]] - document - vault/Graph/BaseManager.serialize()_2_1.md
+- [[Connections_23306]] - document - vault/Graph/BaseManager.serialize()_2.md
+- [[Connections_23307]] - document - vault/Graph/Connections_2400.md
+- [[Connections_23308]] - document - vault/Graph/Connections_2400.md
+- [[Connections_23309]] - document - vault/Graph/Connections_961_1.md
+- [[Connections_2400_1]] - document - vault/Graph/Connections_2400.md
+- [[Connections_961_2]] - document - vault/Graph/Connections_961_1.md
+- [[Connections_961_1_1]] - document - vault/Graph/Connections_961_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +29,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 146]]
+- 4 edges to [[_COMMUNITY_Community 289]]
+- 2 edges to [[_COMMUNITY_Community 555]]
 
 ## Top bridge nodes
-- [[Connections_463_1]] - degree 3, connects to 1 community
-- [[Connections_464_1]] - degree 3, connects to 1 community
+- [[BaseManager.serialize()_2_1]] - degree 5, connects to 2 communities
+- [[Connections_961_1_1]] - degree 4, connects to 2 communities
+- [[BaseManager.serialize()_2_1_1]] - degree 4, connects to 1 community
+- [[Connections_2400_1]] - degree 3, connects to 1 community

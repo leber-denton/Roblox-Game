@@ -12,6 +12,6 @@ tags:
 # WildSpawner.setHotZone()
 
 ## Connections
-- [[WildSpawner.luau_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.luau]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_22

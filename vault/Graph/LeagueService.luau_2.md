@@ -12,8 +12,10 @@ tags:
 # LeagueService.luau_2.md
 
 ## Connections
-- [[LeagueService.luau]] - `contains` [EXTRACTED]
 - [[LeagueService.luau_1]] - `references` [EXTRACTED]
+- [[LeagueService.luau_1_1]] - `references` [EXTRACTED]
+- [[LeagueService.luau_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

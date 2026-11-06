@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/PlayerData.addCoinsRaw().md"
+source_file: "vault/Graph/PlayerData.addCoinsRaw()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2282"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2282
 ---
 
-# PlayerData.addCoinsRaw()
+# PlayerData.addCoinsRaw()_5.md
 
 ## Connections
-- [[Connections_5802]] - `contains` [EXTRACTED]
-- [[PlayerData.addCoinsRaw()_4]] - `contains` [EXTRACTED]
+- [[PlayerData.addCoinsRaw()_1_2]] - `references` [EXTRACTED]
+- [[PlayerData.addCoinsRaw()_5_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2282

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/heading()_2.md"
+source_file: "vault/Graph/wins()_4.md"
 type: "document"
-community: "Community 98"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[heading()_4]] - `contains` [EXTRACTED]
+- [[wins()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_98
+#graphify/document #graphify/EXTRACTED #community/Community_134

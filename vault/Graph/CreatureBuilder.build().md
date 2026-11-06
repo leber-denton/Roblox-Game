@@ -12,7 +12,7 @@ tags:
 # CreatureBuilder.build()
 
 ## Connections
-- [[CreatureBuilder.luau_5]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_3]] - `contains` [EXTRACTED]
 - [[CreatureBuilder.sizeScale()]] - `calls` [EXTRACTED]
 - [[WildSpawner.spawnOne()]] - `calls` [INFERRED]
 - [[darker()]] - `calls` [EXTRACTED]

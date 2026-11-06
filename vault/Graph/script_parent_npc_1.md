@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/script_parent_npc_1.md"
+source_file: "vault/Graph/script_parent_npc.md"
 type: "document"
-community: "Community 644"
-location: "L1"
+community: "Community 387"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_644
+  - community/Community_387
 ---
 
-# script_parent_npc_1.md
+# script_parent_npc
 
 ## Connections
-- [[_COMMUNITY_Community 33]] - `references` [EXTRACTED]
-- [[script_parent_npc]] - `references` [EXTRACTED]
-- [[script_parent_npc_1_1]] - `contains` [EXTRACTED]
-- [[script_parent_npc_2]] - `references` [EXTRACTED]
+- [[Connections_18571]] - `contains` [EXTRACTED]
+- [[script_parent_npc]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_644
+#graphify/document #graphify/EXTRACTED #community/Community_387

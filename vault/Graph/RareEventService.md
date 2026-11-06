@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[CodeRareEventService_2]] - `contains` [EXTRACTED]
-- [[Functions_59]] - `contains` [EXTRACTED]
-- [[Required by_51]] - `contains` [EXTRACTED]
-- [[Requires_59]] - `contains` [EXTRACTED]
+- [[Functions_117]] - `contains` [EXTRACTED]
+- [[Required by_118]] - `contains` [EXTRACTED]
+- [[Requires_112]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_2

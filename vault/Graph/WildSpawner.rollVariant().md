@@ -12,7 +12,7 @@ tags:
 # WildSpawner.rollVariant()
 
 ## Connections
-- [[WildSpawner.luau_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.luau]] - `contains` [EXTRACTED]
 - [[WildSpawner.spawnOne()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_22

@@ -12,7 +12,7 @@ tags:
 # showMenu()
 
 ## Connections
-- [[Connections_1088]] - `contains` [EXTRACTED]
+- [[Connections_3675]] - `contains` [EXTRACTED]
 - [[showMenu()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

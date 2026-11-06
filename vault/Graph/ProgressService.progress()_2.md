@@ -13,8 +13,9 @@ tags:
 
 ## Connections
 - [[Connections_402_1]] - `references` [EXTRACTED]
-- [[ProgressService.progress()_3]] - `contains` [EXTRACTED]
 - [[ProgressService.progress()_1]] - `references` [EXTRACTED]
+- [[ProgressService.progress()_2_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

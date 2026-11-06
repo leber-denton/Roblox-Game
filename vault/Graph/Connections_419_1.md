@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/Connections_419.md"
+source_file: "vault/Graph/Connections_419_1.md"
 type: "document"
-community: "Community 984"
+community: "Community 1165"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_984
+  - community/Community_1165
 ---
 
-# Connections_419.md
+# Connections_419_1.md
 
 ## Connections
-- [[Connections_6371]] - `contains` [EXTRACTED]
-- [[Syncing to Studio_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 115]] - `references` [EXTRACTED]
+- [[Connections_1994_1]] - `references` [EXTRACTED]
+- [[Connections_419_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1165]] - `references` [EXTRACTED]
+- [[openTrade()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_984
+#graphify/document #graphify/EXTRACTED #community/Community_1165

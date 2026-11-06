@@ -1,22 +1,17 @@
 ---
-source_file: "vault/Graph/parentRef()_1.md"
+source_file: "vault/Graph/parentRef()_1_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 3083"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_3083
 ---
 
-# parentRef()_1.md
+# parentRef()_1_1.md
 
 ## Connections
-- [[ModelSync.apply()_1_1]] - `references` [EXTRACTED]
-- [[ModelSync.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[parentRef()_3]] - `contains` [EXTRACTED]
-- [[parentRef()_2_1]] - `references` [EXTRACTED]
+- [[parentRef()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_3083

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Code/MeshIntake.md"
+source_file: "vault/Graph/CodeMeshIntake_2.md"
 type: "document"
-community: "Community 57"
+community: "Community 426"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_57
+  - community/Community_426
 ---
 
-# Code/MeshIntake.md
+# CodeMeshIntake_2.md
 
 ## Connections
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
-- [[MeshIntake_3]] - `contains` [EXTRACTED]
+- [[CodeMeshIntake_4]] - `contains` [EXTRACTED]
+- [[CodeMeshIntake_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 426]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_57
+#graphify/document #graphify/EXTRACTED #community/Community_426

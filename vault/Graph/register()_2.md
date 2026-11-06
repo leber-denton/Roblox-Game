@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/register()_2.md"
+source_file: "vault/Graph/register()_4.md"
 type: "document"
-community: "Community 191"
-location: "L1"
+community: "Community 1663"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_191
+  - community/Community_1663
 ---
 
-# register()_2.md
+# register()
 
 ## Connections
-- [[CreatureLife.client.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 191]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 80]] - `references` [EXTRACTED]
-- [[register()_5]] - `contains` [EXTRACTED]
-- [[register()_3]] - `references` [EXTRACTED]
-- [[scan()_1]] - `references` [EXTRACTED]
+- [[Connections_9320]] - `contains` [EXTRACTED]
+- [[register()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_191
+#graphify/document #graphify/EXTRACTED #community/Community_1663

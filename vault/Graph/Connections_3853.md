@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/creatureText().md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_65.md"
 type: "document"
-community: "Community 319"
+community: "Community 1217"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_319
+  - community/Community_1217
 ---
 
 # Connections
 
 ## Connections
-- [[creatureText()_6]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_320]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_319
+#graphify/document #graphify/EXTRACTED #community/Community_1217

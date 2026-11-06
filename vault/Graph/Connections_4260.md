@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/addPrompt()_2.md"
+source_file: "vault/Graph/Connections_600.md"
 type: "document"
-community: "Community 433"
+community: "Community 1237"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_433
+  - community/Community_1237
 ---
 
 # Connections
 
 ## Connections
-- [[addPrompt()_4]] - `contains` [EXTRACTED]
+- [[Connections_4259]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_433
+#graphify/document #graphify/EXTRACTED #community/Community_1237

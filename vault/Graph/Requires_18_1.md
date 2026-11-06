@@ -2,7 +2,7 @@
 source_file: "vault/Graph/Requires_18.md"
 type: "document"
 community: "Community 1208"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,7 +12,11 @@ tags:
 # Requires_18.md
 
 ## Connections
-- [[Connections_1117]] - `contains` [EXTRACTED]
-- [[Requires_18]] - `contains` [EXTRACTED]
+- [[GraphGymService]] - `references` [EXTRACTED]
+- [[Requires_18_2]] - `contains` [EXTRACTED]
+- [[Requires_18_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 107]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1208]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1208

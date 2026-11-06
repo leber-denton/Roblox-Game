@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_6304]] - document - vault/Graph/Shapes.crystal()_1.md
-- [[Connections_6305]] - document - vault/Graph/Shapes.crystal()_2.md
-- [[Shapes.crystal()_1_1]] - document - vault/Graph/Shapes.crystal()_1.md
-- [[Shapes.crystal()_1_2]] - document - vault/Graph/Shapes.crystal()_1.md
-- [[Shapes.crystal()_2_1]] - document - vault/Graph/Shapes.crystal()_2.md
-- [[Shapes.crystal()_2_2]] - document - vault/Graph/Shapes.crystal()_2.md
+- [[Connections_24405]] - document - vault/Graph/Connections_5151.md
+- [[Connections_24406]] - document - vault/Graph/Connections_5151.md
+- [[Connections_24407]] - document - vault/Graph/Connections_5152.md
+- [[Connections_24408]] - document - vault/Graph/Connections_5152.md
+- [[Connections_5151_1]] - document - vault/Graph/Connections_5151.md
+- [[Connections_5152_1]] - document - vault/Graph/Connections_5152.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,11 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 151]]
-- 2 edges to [[_COMMUNITY_Community 171]]
-- 1 edge to [[_COMMUNITY_Community 133]]
-- 1 edge to [[_COMMUNITY_Community 137]]
+- 2 edges to [[_COMMUNITY_Community 966]]
 
 ## Top bridge nodes
-- [[Shapes.crystal()_1_1]] - degree 6, connects to 4 communities
-- [[Shapes.crystal()_2_1]] - degree 4, connects to 2 communities
+- [[Connections_5151_1]] - degree 3, connects to 1 community
+- [[Connections_5152_1]] - degree 3, connects to 1 community

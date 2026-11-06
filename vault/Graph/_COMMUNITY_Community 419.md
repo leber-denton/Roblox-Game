@@ -8,15 +8,15 @@ members: 9
 **Members:** 9 nodes
 
 ## Members
-- [[Connections_4219]] - document - vault/Graph/Connections_716.md
-- [[Connections_4220]] - document - vault/Graph/Connections_716.md
-- [[Connections_4221]] - document - vault/Graph/GameData.battleItemOrder()_1.md
-- [[Connections_4222]] - document - vault/Graph/GameData.battleItemOrder()_2.md
-- [[Connections_716_1]] - document - vault/Graph/Connections_716.md
-- [[GameData.battleItemOrder()_4]] - document - vault/Graph/GameData.battleItemOrder()_2.md
-- [[GameData.battleItemOrder()_3]] - document - vault/Graph/GameData.battleItemOrder()_1.md
-- [[GameData.battleItemOrder()_1_1]] - document - vault/Graph/GameData.battleItemOrder()_1.md
-- [[GameData.battleItemOrder()_2_1]] - document - vault/Graph/GameData.battleItemOrder()_2.md
+- [[Connections_19195]] - document - vault/Graph/Connections_4614.md
+- [[Connections_19196]] - document - vault/Graph/Connections_4614.md
+- [[Connections_19197]] - document - vault/Graph/Connections_4615.md
+- [[Connections_19198]] - document - vault/Graph/Connections_4615.md
+- [[Connections_19199]] - document - vault/Graph/Requires_5_1_2.md
+- [[Connections_4614_1]] - document - vault/Graph/Connections_4614.md
+- [[Connections_4615_1]] - document - vault/Graph/Connections_4615.md
+- [[Requires_5_1_3]] - document - vault/Graph/Requires_5_1_2.md
+- [[Requires_5_1_2_1]] - document - vault/Graph/Requires_5_1_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,11 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 27]]
-- 1 edge to [[_COMMUNITY_Community 120]]
-- 1 edge to [[_COMMUNITY_Community 138]]
+- 2 edges to [[_COMMUNITY_Community 134]]
+- 1 edge to [[_COMMUNITY_Community 118]]
 
 ## Top bridge nodes
-- [[GameData.battleItemOrder()_1_1]] - degree 5, connects to 3 communities
-- [[GameData.battleItemOrder()_2_1]] - degree 4, connects to 1 community
-- [[Connections_716_1]] - degree 3, connects to 1 community
+- [[Connections_4614_1]] - degree 4, connects to 1 community
+- [[Connections_4615_1]] - degree 3, connects to 1 community
+- [[Requires_5_1_2_1]] - degree 3, connects to 1 community

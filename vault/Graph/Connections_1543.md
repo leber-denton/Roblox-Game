@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/stage()_1.md"
+source_file: "vault/Graph/Connections to other communities_87.md"
 type: "document"
-community: "Community 134"
+community: "Community 1094"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1094
 ---
 
 # Connections
 
 ## Connections
-- [[stage()_1_1]] - `contains` [EXTRACTED]
+- [[Connections to other communities_95]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1094

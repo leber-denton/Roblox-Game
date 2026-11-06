@@ -16,7 +16,7 @@ tags:
 - [[BaseManager.recalcCapacity()]] - `calls` [EXTRACTED]
 - [[onPlayerAdded()]] - `calls` [INFERRED]
 - [[setGateOpen()]] - `calls` [EXTRACTED]
-- [[setSign()]] - `calls` [EXTRACTED]
+- [[setSign()_1]] - `calls` [EXTRACTED]
 - [[sortedBases()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_16

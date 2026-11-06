@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/floatText().md"
+source_file: "vault/Graph/PlayerData.hasBeatenTrainer()_1.md"
 type: "document"
-community: "Community 938"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_938
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[floatText()_6]] - `contains` [EXTRACTED]
+- [[PlayerData.hasBeatenTrainer()_1_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_938
+#graphify/document #graphify/EXTRACTED #community/Community_134

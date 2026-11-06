@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/rollBox().md"
+source_file: "vault/Graph/rollBox()_4.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2718"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2718
 ---
 
-# rollBox().md
+# rollBox()
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.openBox()_1]] - `references` [EXTRACTED]
-- [[rollBox()_2]] - `contains` [EXTRACTED]
+- [[Connections_15171]] - `contains` [EXTRACTED]
+- [[rollBox()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2718

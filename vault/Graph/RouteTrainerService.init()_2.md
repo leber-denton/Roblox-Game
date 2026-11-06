@@ -12,8 +12,10 @@ tags:
 # RouteTrainerService.init()_2.md
 
 ## Connections
-- [[RouteTrainerService.init()_3]] - `contains` [EXTRACTED]
 - [[RouteTrainerService.init()_1]] - `references` [EXTRACTED]
+- [[RouteTrainerService.init()_2_1]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.init()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 311]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

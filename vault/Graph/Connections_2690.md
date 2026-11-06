@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/fadeTo()_1.md"
+source_file: "vault/Graph/Connections_1824.md"
 type: "document"
-community: "Community 182"
+community: "Community 115"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_182
+  - community/Community_115
 ---
 
 # Connections
 
 ## Connections
-- [[fadeTo()_3]] - `contains` [EXTRACTED]
+- [[Connections_2689]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_182
+#graphify/document #graphify/EXTRACTED #community/Community_115

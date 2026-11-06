@@ -1,21 +1,21 @@
 ---
 source_file: "vault/Graph/_COMMUNITY_Community 354.md"
 type: "document"
-community: "Community 354"
+community: "Community 2395"
 location: "L6"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_354
+  - community/Community_2395
 ---
 
 # Community 354
 
 ## Connections
-- [[Connections to other communities_268]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_302]] - `contains` [EXTRACTED]
-- [[Members_306]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_274]] - `contains` [EXTRACTED]
+- [[Connections to other communities_768]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_964]] - `contains` [EXTRACTED]
+- [[Members_978]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_769]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 354]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_354
+#graphify/document #graphify/EXTRACTED #community/Community_2395

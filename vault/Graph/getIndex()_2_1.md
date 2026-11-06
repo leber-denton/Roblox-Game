@@ -12,7 +12,7 @@ tags:
 # getIndex()_2.md
 
 ## Connections
-- [[Connections_150_1]] - `references` [EXTRACTED]
+- [[Connections_1027_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
 - [[getIndex()_4]] - `contains` [EXTRACTED]
 - [[getIndex()_1_1]] - `references` [EXTRACTED]

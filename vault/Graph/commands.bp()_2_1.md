@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/commands.bp()_2.md"
+source_file: "vault/Graph/commands.bp()_2_1.md"
 type: "document"
 community: "Community 168"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_168
 ---
 
-# commands.bp()_2.md
+# commands.bp()_2_1.md
 
 ## Connections
-- [[Connections_2200]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 224]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 905]] - `references` [EXTRACTED]
 - [[commands.bp()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

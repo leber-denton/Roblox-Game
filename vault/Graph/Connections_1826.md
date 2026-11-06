@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Pushback_2.md"
+source_file: "vault/Graph/Connections_1377.md"
 type: "document"
-community: "Community 1442"
+community: "Community 1102"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1442
+  - community/Community_1102
 ---
 
 # Connections
 
 ## Connections
-- [[Pushback_2]] - `contains` [EXTRACTED]
+- [[Connections_1825]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1442
+#graphify/document #graphify/EXTRACTED #community/Community_1102

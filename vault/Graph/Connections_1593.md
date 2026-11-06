@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/targetSpeed()_2.md"
+source_file: "vault/Graph/Connections_2680.md"
 type: "document"
-community: "Community 1353"
-location: "L14"
+community: "Community 1096"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1353
+  - community/Community_1096
 ---
 
 # Connections
 
 ## Connections
-- [[targetSpeed()_1]] - `contains` [EXTRACTED]
+- [[Connections_1594]] - `contains` [EXTRACTED]
+- [[Connections_2680]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1353
+#graphify/document #graphify/EXTRACTED #community/Community_1096

@@ -1,16 +1,19 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 29"
+source_file: "vault/Graph/random_5.md"
+type: "document"
+community: "Community 1733"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_29
+  - community/Community_1733
 ---
 
-# random
+# random_5.md
 
 ## Connections
-- [[gen_trade_beach.py_2]] - `imports` [EXTRACTED]
+- [[_COMMUNITY_Community 353]] - `references` [EXTRACTED]
+- [[random_6]] - `contains` [EXTRACTED]
+- [[random_3]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_29
+#graphify/document #graphify/EXTRACTED #community/Community_1733

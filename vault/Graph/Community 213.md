@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 213.md"
+source_file: "vault/Graph/Community 213.md"
 type: "document"
-community: "Community 213"
-location: "L6"
+community: "Community 1963"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_213
+  - community/Community_1963
 ---
 
-# Community 213
+# Community 213.md
 
 ## Connections
-- [[Connections to other communities_171]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_182]] - `contains` [EXTRACTED]
-- [[Members_185]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_177]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 213]] - `contains` [EXTRACTED]
+- [[Community 213_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1443]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 213]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_213
+#graphify/document #graphify/EXTRACTED #community/Community_1963

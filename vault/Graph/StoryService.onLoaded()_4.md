@@ -1,26 +1,18 @@
 ---
-source_file: "vault/Graph/StoryService.onLoaded().md"
+source_file: "vault/Graph/StoryService.onLoaded()_2.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2629"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2629
 ---
 
 # StoryService.onLoaded().md
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[StoryService.luau_1]] - `references` [EXTRACTED]
-- [[StoryService.luau_2]] - `references` [EXTRACTED]
-- [[StoryService.onLoaded()_5]] - `contains` [EXTRACTED]
-- [[TutorialService.isGuideStep()_4]] - `references` [EXTRACTED]
-- [[TutorialService.resumeGuide()_5]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
-- [[get()_1]] - `references` [EXTRACTED]
-- [[onPlayerAdded()_4]] - `references` [EXTRACTED]
-- [[sync()_2_2]] - `references` [EXTRACTED]
+- [[Connections_14858]] - `contains` [EXTRACTED]
+- [[StoryService.onLoaded()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2629

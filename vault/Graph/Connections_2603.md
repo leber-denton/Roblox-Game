@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ignoreList()_1.md"
+source_file: "vault/Graph/Top bridge nodes_148.md"
 type: "document"
-community: "Community 179"
+community: "Community 1147"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_179
+  - community/Community_1147
 ---
 
 # Connections
 
 ## Connections
-- [[ignoreList()_1_1]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_182]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_179
+#graphify/document #graphify/EXTRACTED #community/Community_1147

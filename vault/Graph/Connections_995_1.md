@@ -1,19 +1,20 @@
 ---
 source_file: "vault/Graph/Connections_995.md"
 type: "document"
-community: "Community 845"
+community: "Community 171"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_845
+  - community/Community_171
 ---
 
 # Connections_995.md
 
 ## Connections
-- [[Connections_5592]] - `contains` [EXTRACTED]
-- [[GraphNPCLife_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 131]] - `references` [EXTRACTED]
+- [[Connections_9966]] - `contains` [EXTRACTED]
+- [[Connections_3972_1]] - `references` [EXTRACTED]
+- [[Connections_996_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1058]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_845
+#graphify/document #graphify/EXTRACTED #community/Community_171

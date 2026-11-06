@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GameData.luau.md"
+source_file: "vault/Graph/GameData.luau_2.md"
 type: "document"
-community: "Community 144"
-location: "L12"
+community: "Community 2257"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_144
+  - community/Community_2257
 ---
 
-# GameData.luau.md
+# GameData.luau_2.md
 
 ## Connections
-- [[Connections_1805]] - `contains` [EXTRACTED]
-- [[GameData.luau]] - `contains` [EXTRACTED]
+- [[GameData.luau_1]] - `references` [EXTRACTED]
+- [[GameData.luau_2_1]] - `contains` [EXTRACTED]
+- [[GameData.luau_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_144
+#graphify/document #graphify/EXTRACTED #community/Community_2257

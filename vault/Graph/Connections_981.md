@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_981.md"
+source_file: "vault/Graph/Top bridge nodes_263.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 1061"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1061
 ---
 
-# Connections_981.md
+# Connections
 
 ## Connections
-- [[Connections_347_1]] - `references` [EXTRACTED]
-- [[Connections_981_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
-- [[commands.maxTeam()_2]] - `references` [EXTRACTED]
+- [[Top bridge nodes_263_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1061

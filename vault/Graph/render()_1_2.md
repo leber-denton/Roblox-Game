@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/render()_1_1.md"
+source_file: "vault/Graph/render()_1_2.md"
 type: "document"
-community: "Community 226"
-location: "L12"
+community: "Community 508"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_508
 ---
 
-# render()_1.md
+# render()_1_2.md
 
 ## Connections
-- [[Connections_3215]] - `contains` [EXTRACTED]
-- [[render()_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 226]] - `references` [EXTRACTED]
+- [[render()_1_1_1]] - `references` [EXTRACTED]
+- [[render()_1_2_1]] - `contains` [EXTRACTED]
+- [[render()_1_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_508

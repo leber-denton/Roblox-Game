@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/fakePlayerGetAttributeChangedSignal()_1.md"
+source_file: "vault/Graph/Connections to other communities_16.md"
 type: "document"
-community: "Community 1414"
+community: "Community 110"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1414
+  - community/Community_110
 ---
 
 # Connections
 
 ## Connections
-- [[fakePlayerGetAttributeChangedSignal()_3]] - `contains` [EXTRACTED]
+- [[Connections to other communities_121]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1414
+#graphify/document #graphify/EXTRACTED #community/Community_110

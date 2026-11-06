@@ -12,10 +12,8 @@ tags:
 # Community 180
 
 ## Connections
-- [[Connections to other communities_20]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_20]] - `contains` [EXTRACTED]
-- [[Members_20]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_23]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_28]] - `contains` [EXTRACTED]
+- [[Members_28]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 180]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1031

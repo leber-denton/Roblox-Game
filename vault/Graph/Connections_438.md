@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_438.md"
+source_file: "vault/Graph/floatText()_5.md"
 type: "document"
-community: "Community 1161"
-location: "L1"
+community: "Community 103"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1161
+  - community/Community_103
 ---
 
-# Connections_438.md
+# Connections
 
 ## Connections
-- [[Connections_405]] - `contains` [EXTRACTED]
-- [[onPlayerAdded()_1]] - `references` [EXTRACTED]
+- [[floatText()_7]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1161
+#graphify/document #graphify/EXTRACTED #community/Community_103

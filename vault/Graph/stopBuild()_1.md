@@ -20,7 +20,8 @@ tags:
 - [[setModelHidden()_1]] - `references` [EXTRACTED]
 - [[startPicking()_1]] - `references` [EXTRACTED]
 - [[startPlacing()_1]] - `references` [EXTRACTED]
-- [[stopBuild()_1_1]] - `contains` [EXTRACTED]
+- [[stopBuild()_1_3]] - `contains` [EXTRACTED]
+- [[stopBuild()_1_1]] - `references` [EXTRACTED]
 - [[stopBuild()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_170

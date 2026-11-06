@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/refreshBaseLabels()_2.md"
+source_file: "vault/Graph/refreshBaseLabels()_2_1.md"
 type: "document"
 community: "Community 152"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_152
 ---
 
-# refreshBaseLabels()_2.md
+# refreshBaseLabels()_2_1.md
 
 ## Connections
-- [[Connections_2062]] - `contains` [EXTRACTED]
-- [[refreshBaseLabels()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[refreshBaseLabels()_2_2]] - `contains` [EXTRACTED]
+- [[refreshBaseLabels()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_152

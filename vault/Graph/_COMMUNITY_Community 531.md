@@ -1,19 +1,31 @@
 ---
 type: community
-members: 6
+members: 18
 ---
 
 # Community 531
 
-**Members:** 6 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[ArenaManager.luau_4]] - document - vault/Graph/ArenaManager.luau.md
-- [[ArenaManager.luau_3]] - document - vault/Graph/ArenaManager.luau.md
-- [[Connections_4579]] - document - vault/Graph/ArenaManager.luau.md
-- [[Connections_4580]] - document - vault/Graph/Connections_360.md
-- [[Connections_4581]] - document - vault/Graph/Connections_360.md
-- [[Connections_360_1]] - document - vault/Graph/Connections_360.md
+- [[CodeTutorialService_4]] - document - vault/Graph/CodeTutorialService_2.md
+- [[CodeTutorialService_3]] - document - vault/Graph/CodeTutorialService_1.md
+- [[CodeTutorialService_1_1]] - document - vault/Graph/CodeTutorialService_1.md
+- [[CodeTutorialService_2_1]] - document - vault/Graph/CodeTutorialService_2.md
+- [[Connections_20517]] - document - vault/Graph/CodeTutorialService_1.md
+- [[Connections_20518]] - document - vault/Graph/CodeTutorialService_2.md
+- [[Connections_20519]] - document - vault/Graph/Connections_2277.md
+- [[Connections_20520]] - document - vault/Graph/Connections_2277.md
+- [[Connections_20521]] - document - vault/Graph/Connections_2321.md
+- [[Connections_20522]] - document - vault/Graph/Connections_2321.md
+- [[Connections_20523]] - document - vault/Graph/Connections_2322.md
+- [[Connections_20524]] - document - vault/Graph/Connections_2322.md
+- [[Connections_20525]] - document - vault/Graph/Connections_620_1.md
+- [[Connections_2277_1]] - document - vault/Graph/Connections_2277.md
+- [[Connections_2321_1]] - document - vault/Graph/Connections_2321.md
+- [[Connections_2322_1]] - document - vault/Graph/Connections_2322.md
+- [[Connections_620_2]] - document - vault/Graph/Connections_620_1.md
+- [[Connections_620_1_1]] - document - vault/Graph/Connections_620_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +35,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 549]]
-- 1 edge to [[_COMMUNITY_Community 559]]
+- 6 edges to [[_COMMUNITY_Community 34]]
+- 1 edge to [[_COMMUNITY_Community 119]]
 
 ## Top bridge nodes
-- [[ArenaManager.luau_3]] - degree 4, connects to 2 communities
-- [[Connections_360_1]] - degree 3, connects to 1 community
+- [[CodeTutorialService_1_1]] - degree 5, connects to 2 communities
+- [[Connections_620_1_1]] - degree 4, connects to 1 community
+- [[Connections_2321_1]] - degree 4, connects to 1 community
+- [[CodeTutorialService_2_1]] - degree 4, connects to 1 community
+- [[Connections_2277_1]] - degree 3, connects to 1 community

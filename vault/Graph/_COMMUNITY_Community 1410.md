@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1410
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1759]] - document - vault/Graph/DungeonClient_1.md
-- [[DungeonClient_1_3]] - document - vault/Graph/DungeonClient_1.md
+- [[Connections_7193]] - document - vault/Graph/Connections_2426.md
+- [[Connections_7194]] - document - vault/Graph/Connections_2426.md
+- [[Connections_7195]] - document - vault/Graph/Connections_2427.md
+- [[Connections_7196]] - document - vault/Graph/Connections_2427.md
+- [[Connections_7197]] - document - vault/Graph/Connections_4223.md
+- [[Connections_2426_1]] - document - vault/Graph/Connections_2426.md
+- [[Connections_2427_1]] - document - vault/Graph/Connections_2427.md
+- [[Connections_4223_1]] - document - vault/Graph/Connections_4223.md
+- [[Connections_4223_2]] - document - vault/Graph/Connections_4223.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 125]]
+- 3 edges to [[_COMMUNITY_Community 289]]
+- 1 edge to [[_COMMUNITY_Community 555]]
 
 ## Top bridge nodes
-- [[DungeonClient_1_3]] - degree 2, connects to 1 community
+- [[Connections_4223_1]] - degree 4, connects to 2 communities
+- [[Connections_2426_1]] - degree 4, connects to 1 community
+- [[Connections_2427_1]] - degree 3, connects to 1 community

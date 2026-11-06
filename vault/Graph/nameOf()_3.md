@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/nameOf()_1.md"
+source_file: "vault/Graph/nameOf()_3.md"
 type: "document"
-community: "Community 1431"
-location: "L12"
+community: "Community 2140"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1431
+  - community/Community_2140
 ---
 
-# nameOf().md
+# nameOf()_3.md
 
 ## Connections
-- [[Connections_1793]] - `contains` [EXTRACTED]
-- [[nameOf()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_5824_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1431]] - `references` [EXTRACTED]
+- [[nameOf()_5]] - `contains` [EXTRACTED]
+- [[nameOf()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1431
+#graphify/document #graphify/EXTRACTED #community/Community_2140

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/apply()_3.md"
+source_file: "vault/Graph/Top bridge nodes_224.md"
 type: "document"
-community: "Community 530"
+community: "Community 125"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_530
+  - community/Community_125
 ---
 
 # Connections
 
 ## Connections
-- [[apply()_9]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_274]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_530
+#graphify/document #graphify/EXTRACTED #community/Community_125

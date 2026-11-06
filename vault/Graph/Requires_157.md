@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/TrainerAnimations.md"
+source_file: "vault/Code/CreatureLife.md"
 type: "document"
-community: "Community 59"
+community: "Community 28"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_59
+  - community/Community_28
 ---
 
 # Requires
 
 ## Connections
-- [[TrainerAnimations_3]] - `contains` [EXTRACTED]
+- [[CreatureLife]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_59
+#graphify/document #graphify/EXTRACTED #community/Community_28

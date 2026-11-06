@@ -12,7 +12,7 @@ tags:
 # setOpen()
 
 ## Connections
-- [[Connections_151]] - `contains` [EXTRACTED]
+- [[Connections_945]] - `contains` [EXTRACTED]
 - [[setOpen()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_106

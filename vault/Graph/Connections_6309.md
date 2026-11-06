@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.fish()_2.md"
+source_file: "vault/Graph/streamTo()_3.md"
 type: "document"
-community: "Community 972"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_972
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.fish()_2_2]] - `contains` [EXTRACTED]
+- [[streamTo()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_972
+#graphify/document #graphify/EXTRACTED #community/Community_134

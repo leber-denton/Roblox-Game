@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/btn().md"
+source_file: "vault/Graph/btn()_5.md"
 type: "document"
-community: "Community 30"
-location: "L12"
+community: "Community 1626"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_1626
 ---
 
-# btn()
+# btn()_5.md
 
 ## Connections
-- [[Connections_3683]] - `contains` [EXTRACTED]
-- [[btn()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[btn()_2]] - `references` [EXTRACTED]
+- [[btn()_4]] - `references` [EXTRACTED]
+- [[btn()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_1626

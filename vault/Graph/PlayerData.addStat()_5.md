@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/PlayerData.addStat().md"
+source_file: "vault/Graph/PlayerData.addStat()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 3101"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3101
 ---
 
-# PlayerData.addStat()
+# PlayerData.addStat()_5.md
 
 ## Connections
-- [[Connections_5804]] - `contains` [EXTRACTED]
-- [[PlayerData.addStat()_4]] - `contains` [EXTRACTED]
+- [[PlayerData.addStat()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3101

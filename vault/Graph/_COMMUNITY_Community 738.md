@@ -1,19 +1,28 @@
 ---
 type: community
-members: 6
+members: 15
 ---
 
 # Community 738
 
-**Members:** 6 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_5222]] - document - vault/Graph/Connections_280.md
-- [[Connections_5223]] - document - vault/Graph/Connections_280.md
-- [[Connections_5224]] - document - vault/Graph/Connections_281.md
-- [[Connections_5225]] - document - vault/Graph/Connections_281.md
-- [[Connections_280_1]] - document - vault/Graph/Connections_280.md
-- [[Connections_281_1]] - document - vault/Graph/Connections_281.md
+- [[Community 316_2]] - document - vault/Graph/Community 316.md
+- [[Community 316_1]] - document - vault/Graph/Community 316.md
+- [[Connections_22298]] - document - vault/Graph/Community 316.md
+- [[Connections_22299]] - document - vault/Graph/Connections to other communities_31.md
+- [[Connections_22300]] - document - vault/Graph/Live Query (requires Dataview plugin)_59.md
+- [[Connections_22301]] - document - vault/Graph/Members_61.md
+- [[Connections_22302]] - document - vault/Graph/Top bridge nodes_31.md
+- [[Connections to other communities_1516]] - document - vault/Graph/Connections to other communities_31.md
+- [[Connections to other communities_31_3]] - document - vault/Graph/Connections to other communities_31.md
+- [[Live Query (requires Dataview plugin)_1777]] - document - vault/Graph/Live Query (requires Dataview plugin)_59.md
+- [[Live Query (requires Dataview plugin)_59_3]] - document - vault/Graph/Live Query (requires Dataview plugin)_59.md
+- [[Members_1776]] - document - vault/Graph/Members_61.md
+- [[Members_61_3]] - document - vault/Graph/Members_61.md
+- [[Top bridge nodes_1508]] - document - vault/Graph/Top bridge nodes_31.md
+- [[Top bridge nodes_31_3]] - document - vault/Graph/Top bridge nodes_31.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +30,14 @@ members: 6
 TABLE source_file, type FROM #community/Community_738
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 5 edges to [[_COMMUNITY_Community 803]]
+- 1 edge to [[_COMMUNITY_Community 1050]]
+
+## Top bridge nodes
+- [[Community 316_1]] - degree 7, connects to 2 communities
+- [[Members_61_3]] - degree 3, connects to 1 community
+- [[Live Query (requires Dataview plugin)_59_3]] - degree 3, connects to 1 community
+- [[Connections to other communities_31_3]] - degree 3, connects to 1 community
+- [[Top bridge nodes_31_3]] - degree 3, connects to 1 community

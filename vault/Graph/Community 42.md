@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Community 42.md"
+source_file: "vault/Graph/Community 42_2.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 168"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_168
 ---
 
-# Community 42.md
+# Community 42
 
 ## Connections
-- [[Community 42_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 287]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[Community 42_2]] - `contains` [EXTRACTED]
+- [[Connections_9498]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_168

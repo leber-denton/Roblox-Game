@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/check()_2.md"
+source_file: "vault/Graph/Connections_209.md"
 type: "document"
-community: "Community 140"
-location: "L14"
+community: "Community 110"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_140
+  - community/Community_110
 ---
 
 # Connections
 
 ## Connections
-- [[check()_3]] - `contains` [EXTRACTED]
+- [[Connections_1730]] - `contains` [EXTRACTED]
+- [[Connections_209_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_140
+#graphify/document #graphify/EXTRACTED #community/Community_110

@@ -1,19 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_63.md"
+source_file: "vault/Code/TrainerAnimations.md"
 type: "document"
-community: "Community 213"
-location: "L1"
+community: "Community 13"
+location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_213
+  - community/Community_13
 ---
 
-# Functions_63.md
+# Functions
 
 ## Connections
-- [[Functions_38_1]] - `references` [EXTRACTED]
-- [[Functions_63_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 213]] - `references` [EXTRACTED]
+- [[TrainerAnimations]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_213
+#graphify/document #graphify/EXTRACTED #community/Community_13

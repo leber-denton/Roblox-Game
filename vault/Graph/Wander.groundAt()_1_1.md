@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Wander.groundAt()_1.md"
+source_file: "vault/Graph/Wander.groundAt()_1_1.md"
 type: "document"
 community: "Community 179"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_179
 ---
 
-# Wander.groundAt()_1.md
+# Wander.groundAt()_1_1.md
 
 ## Connections
-- [[Connections_2610]] - `contains` [EXTRACTED]
-- [[Wander.groundAt()_1]] - `contains` [EXTRACTED]
+- [[Wander.groundAt()_1_2]] - `contains` [EXTRACTED]
+- [[Wander.groundAt()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 179]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_179

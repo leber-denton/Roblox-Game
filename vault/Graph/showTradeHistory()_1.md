@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/showTradeHistory().md"
+source_file: "vault/Graph/showTradeHistory()_1.md"
 type: "document"
-community: "Community 203"
+community: "Community 2022"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_2022
 ---
 
-# showTradeHistory().md
+# showTradeHistory()_1.md
 
 ## Connections
-- [[Bag.client.luau_1]] - `references` [EXTRACTED]
-- [[Functions_29_1]] - `references` [EXTRACTED]
-- [[Functions_55]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
-- [[label()_1_2]] - `references` [EXTRACTED]
-- [[new()_4_1]] - `references` [EXTRACTED]
-- [[showTradeHistory()_2]] - `contains` [EXTRACTED]
+- [[showTradeHistory()_4]] - `contains` [EXTRACTED]
+- [[showTradeHistory()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_2022

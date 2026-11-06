@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GraphWildSpawner.md"
+source_file: "vault/Graph/GraphWildSpawner_2.md"
 type: "document"
-community: "Community 166"
-location: "L12"
+community: "Community 985"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_166
+  - community/Community_985
 ---
 
-# GraphWildSpawner.md
+# GraphWildSpawner_2.md
 
 ## Connections
-- [[Connections_2158]] - `contains` [EXTRACTED]
-- [[GraphWildSpawner_1]] - `contains` [EXTRACTED]
+- [[Connections_5224_1]] - `references` [EXTRACTED]
+- [[GraphWildSpawner_4]] - `contains` [EXTRACTED]
+- [[GraphWildSpawner_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1374]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_166
+#graphify/document #graphify/EXTRACTED #community/Community_985

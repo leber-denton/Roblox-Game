@@ -13,6 +13,7 @@ tags:
 
 ## Connections
 - [[GameData.ballOrder()_2]] - `contains` [EXTRACTED]
+- [[GameData.luau_8]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 - [[showMenu()_1]] - `references` [EXTRACTED]
 

@@ -12,7 +12,7 @@ tags:
 # DungeonService
 
 ## Connections
-- [[Connections_1313]] - `contains` [EXTRACTED]
-- [[GraphDungeonService]] - `contains` [EXTRACTED]
+- [[Connections_4671]] - `contains` [EXTRACTED]
+- [[GraphDungeonService_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1262

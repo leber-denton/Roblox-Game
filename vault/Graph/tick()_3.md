@@ -1,28 +1,18 @@
 ---
-source_file: "vault/Graph/tick().md"
+source_file: "vault/Graph/tick()_4.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2723"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2723
 ---
 
-# tick().md
+# tick()
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[BaseManager.refresh()_3]] - `references` [EXTRACTED]
-- [[BattleData.stats()_4]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[bankCap()_3]] - `references` [EXTRACTED]
-- [[countWith()_3]] - `references` [EXTRACTED]
-- [[dress()_3]] - `references` [EXTRACTED]
-- [[incomeRate()_3]] - `references` [EXTRACTED]
-- [[sync()_9]] - `references` [EXTRACTED]
+- [[Connections_15207]] - `contains` [EXTRACTED]
 - [[tick()_4]] - `contains` [EXTRACTED]
-- [[train()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2723

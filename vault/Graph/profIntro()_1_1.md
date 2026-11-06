@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/profIntro()_1.md"
 type: "document"
-community: "Community 134"
+community: "Community 18"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_18
 ---
 
 # profIntro()_1.md
 
 ## Connections
-- [[Connections_1520]] - `contains` [EXTRACTED]
+- [[Connections_10734]] - `contains` [EXTRACTED]
 - [[profIntro()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_18

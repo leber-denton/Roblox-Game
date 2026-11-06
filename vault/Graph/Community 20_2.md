@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 20.md"
+source_file: "vault/Graph/Community 20_2.md"
 type: "document"
-community: "Community 901"
-location: "L6"
+community: "Community 508"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_901
+  - community/Community_508
 ---
 
-# Community 20
+# Community 20_2.md
 
 ## Connections
-- [[Connections to other communities_389]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_433]] - `contains` [EXTRACTED]
-- [[Members_433]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_391]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 20]] - `contains` [EXTRACTED]
+- [[Community 20_4]] - `contains` [EXTRACTED]
+- [[Community 20_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_901
+#graphify/document #graphify/EXTRACTED #community/Community_508

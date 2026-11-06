@@ -12,7 +12,7 @@ tags:
 # pt()
 
 ## Connections
-- [[gen_coliseum.py]] - `contains` [EXTRACTED]
-- [[math_5]] - `calls` [EXTRACTED]
+- [[gen_coliseum.py_6]] - `contains` [EXTRACTED]
+- [[math_8]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_29

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/WeeklyEventService.startNow()_2.md"
+source_file: "vault/Graph/BattleUI_2.md"
 type: "document"
-community: "Community 292"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[WeeklyEventService.startNow()_2_2]] - `contains` [EXTRACTED]
+- [[BattleUI_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_120

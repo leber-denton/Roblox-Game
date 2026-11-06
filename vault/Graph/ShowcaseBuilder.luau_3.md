@@ -1,28 +1,20 @@
 ---
-source_file: "src/ServerStorage/ShowcaseBuilder.luau"
-type: "code"
-community: "Community 250"
+source_file: "vault/Graph/ShowcaseBuilder.luau_3.md"
+type: "document"
+community: "Community 352"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_250
+  - community/Community_352
 ---
 
-# ShowcaseBuilder.luau
+# ShowcaseBuilder.luau_3.md
 
 ## Connections
-- [[ShowcaseBuilder.arrivalCFrame()]] - `contains` [EXTRACTED]
-- [[ShowcaseBuilder.build()]] - `contains` [EXTRACTED]
-- [[categories()]] - `contains` [EXTRACTED]
-- [[extents()]] - `contains` [EXTRACTED]
-- [[firstPropCopy()]] - `contains` [EXTRACTED]
-- [[galleryTrainers()]] - `contains` [EXTRACTED]
-- [[label()_1]] - `contains` [EXTRACTED]
-- [[mkPart()]] - `contains` [EXTRACTED]
-- [[prepare()]] - `contains` [EXTRACTED]
-- [[resolve()]] - `contains` [EXTRACTED]
-- [[script_parent_waitforchild_5]] - `imports` [EXTRACTED]
-- [[sourceOf()]] - `contains` [EXTRACTED]
+- [[Connections_3262_1]] - `references` [EXTRACTED]
+- [[ShowcaseBuilder.luau_6]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1256]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_250
+#graphify/document #graphify/EXTRACTED #community/Community_352

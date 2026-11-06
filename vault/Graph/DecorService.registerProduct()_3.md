@@ -1,20 +1,20 @@
 ---
 source_file: "vault/Graph/DecorService.registerProduct().md"
 type: "document"
-community: "Community 86"
+community: "Community 53"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_53
 ---
 
 # DecorService.registerProduct().md
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
+- [[DecorService.luau_7]] - `references` [EXTRACTED]
 - [[DecorService.registerProduct()_4]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
-- [[setupProducts()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 687]] - `references` [EXTRACTED]
+- [[setupProducts()_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_53

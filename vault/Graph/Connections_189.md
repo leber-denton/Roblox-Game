@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Graphlaunch-checklist_1.md"
+source_file: "vault/Graph/Connections_85.md"
 type: "document"
-community: "Community 108"
-location: "L14"
+community: "Community 1010"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_1010
 ---
 
 # Connections
 
 ## Connections
-- [[Graphlaunch-checklist_1_1]] - `contains` [EXTRACTED]
+- [[Connections_190]] - `contains` [EXTRACTED]
+- [[Connections_85_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_1010

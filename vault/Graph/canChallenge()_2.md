@@ -12,8 +12,10 @@ tags:
 # canChallenge()_2.md
 
 ## Connections
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 311]] - `references` [EXTRACTED]
-- [[canChallenge()_3]] - `contains` [EXTRACTED]
 - [[canChallenge()_1]] - `references` [EXTRACTED]
+- [[canChallenge()_2_1]] - `contains` [EXTRACTED]
+- [[canChallenge()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

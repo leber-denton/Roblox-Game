@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/new()_2.md"
+source_file: "vault/Graph/GraphMenus.md"
 type: "document"
-community: "Community 234"
+community: "Community 1185"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_1185
 ---
 
 # Connections
 
 ## Connections
-- [[new()_24]] - `contains` [EXTRACTED]
+- [[GraphMenus_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_1185

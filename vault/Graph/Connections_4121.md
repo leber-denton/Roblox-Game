@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.ghost()_1.md"
+source_file: "vault/Graph/Connections to other communities_209.md"
 type: "document"
-community: "Community 377"
+community: "Community 1227"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_377
+  - community/Community_1227
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.ghost()_3]] - `contains` [EXTRACTED]
+- [[Connections to other communities_249]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_377
+#graphify/document #graphify/EXTRACTED #community/Community_1227

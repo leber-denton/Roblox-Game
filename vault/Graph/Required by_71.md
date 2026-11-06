@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/CreatureLife.md"
+source_file: "vault/Code/AdminService.md"
 type: "document"
-community: "Community 28"
-location: "L7"
+community: "Community 16"
+location: "L16"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_28
+  - community/Community_16
 ---
 
 # Required by
 
 ## Connections
-- [[CreatureLife]] - `contains` [EXTRACTED]
+- [[AdminService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_28
+#graphify/document #graphify/EXTRACTED #community/Community_16

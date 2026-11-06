@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Requires_32_1.md"
+source_file: "vault/Graph/Requires_32_2.md"
 type: "document"
-community: "Community 126"
-location: "L12"
+community: "Community 1346"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_126
+  - community/Community_1346
 ---
 
-# Requires_32.md
+# Requires_32_2.md
 
 ## Connections
-- [[Connections_1307]] - `contains` [EXTRACTED]
-- [[Requires_32_1]] - `contains` [EXTRACTED]
+- [[Connections_3401_1]] - `references` [EXTRACTED]
+- [[Requires_32_4]] - `contains` [EXTRACTED]
+- [[Requires_32_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 126]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_126
+#graphify/document #graphify/EXTRACTED #community/Community_1346

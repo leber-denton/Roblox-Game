@@ -12,7 +12,7 @@ tags:
 # positionOf()
 
 ## Connections
-- [[Connections_133]] - `contains` [EXTRACTED]
+- [[Connections_819]] - `contains` [EXTRACTED]
 - [[positionOf()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_105

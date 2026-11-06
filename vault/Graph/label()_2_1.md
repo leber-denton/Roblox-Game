@@ -12,10 +12,10 @@ tags:
 # label()_2.md
 
 ## Connections
-- [[heading()_1]] - `references` [EXTRACTED]
-- [[itemCard()_1]] - `references` [EXTRACTED]
-- [[label()_6]] - `contains` [EXTRACTED]
-- [[new()_6_1]] - `references` [EXTRACTED]
+- [[CreatureIndex.client.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 420]] - `references` [EXTRACTED]
+- [[label()_5]] - `contains` [EXTRACTED]
+- [[new()_5_1]] - `references` [EXTRACTED]
 - [[showDetail()_1_1]] - `references` [EXTRACTED]
 - [[showGrid()_1]] - `references` [EXTRACTED]
 - [[typeChips()_1]] - `references` [EXTRACTED]

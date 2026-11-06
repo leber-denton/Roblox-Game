@@ -12,7 +12,7 @@ tags:
 # battleCamera().md
 
 ## Connections
-- [[Connections_1669]] - `contains` [EXTRACTED]
+- [[Connections_6745]] - `contains` [EXTRACTED]
 - [[battleCamera()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_138

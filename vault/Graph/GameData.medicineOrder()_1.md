@@ -12,6 +12,7 @@ tags:
 # GameData.medicineOrder().md
 
 ## Connections
+- [[GameData.luau_8]] - `references` [EXTRACTED]
 - [[GameData.medicineOrder()_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 - [[showMenu()_1]] - `references` [EXTRACTED]

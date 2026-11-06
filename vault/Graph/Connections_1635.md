@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Features.spines().md"
+source_file: "vault/Graph/Connections_2694.md"
 type: "document"
-community: "Community 137"
-location: "L14"
+community: "Community 1097"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1097
 ---
 
 # Connections
 
 ## Connections
-- [[Features.spines()_2]] - `contains` [EXTRACTED]
+- [[Connections_1636]] - `contains` [EXTRACTED]
+- [[Connections_2694]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1097

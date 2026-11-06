@@ -1,21 +1,18 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 418"
+source_file: "vault/Graph/shared_waitforchild.md"
+type: "document"
+community: "Community 1325"
+location: "L12"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_418
+  - community/Community_1325
 ---
 
-# shared_waitforchild
+# shared_waitforchild.md
 
 ## Connections
-- [[BattleUI.client.luau_3]] - `imports` [EXTRACTED]
-- [[CreatureIndex.client.luau_5]] - `imports` [EXTRACTED]
-- [[DecorUI.client.luau_3]] - `imports` [EXTRACTED]
-- [[Menus.client.luau_4]] - `imports` [EXTRACTED]
-- [[Story.client.luau_3]] - `imports` [EXTRACTED]
-- [[Tutorial.client.luau_5]] - `imports` [EXTRACTED]
+- [[Connections_5679]] - `contains` [EXTRACTED]
+- [[shared_waitforchild]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_418
+#graphify/document #graphify/EXTRACTED #community/Community_1325

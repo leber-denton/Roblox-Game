@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/dressTrophy()_1.md"
+source_file: "vault/Graph/dressTrophy()_1_1.md"
 type: "document"
-community: "Community 205"
-location: "L12"
+community: "Community 152"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_205
+  - community/Community_152
 ---
 
-# dressTrophy()_1.md
+# dressTrophy()_1_1.md
 
 ## Connections
-- [[Connections_2999]] - `contains` [EXTRACTED]
-- [[dressTrophy()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[dressTrophy()_1_2]] - `contains` [EXTRACTED]
+- [[dressTrophy()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_205
+#graphify/document #graphify/EXTRACTED #community/Community_152

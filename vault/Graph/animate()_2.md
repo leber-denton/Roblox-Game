@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/animate()_2.md"
 type: "document"
-community: "Community 856"
+community: "Community 1797"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_856
+  - community/Community_1797
 ---
 
 # animate()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 99]] - `references` [EXTRACTED]
-- [[animate()_1_1]] - `references` [EXTRACTED]
-- [[animate()_2_1]] - `contains` [EXTRACTED]
+- [[animate()_3]] - `contains` [EXTRACTED]
+- [[animate()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_856
+#graphify/document #graphify/EXTRACTED #community/Community_1797

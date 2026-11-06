@@ -12,7 +12,7 @@ tags:
 # categories()
 
 ## Connections
-- [[Connections_1600]] - `contains` [EXTRACTED]
+- [[Connections_6581]] - `contains` [EXTRACTED]
 - [[categories()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_136

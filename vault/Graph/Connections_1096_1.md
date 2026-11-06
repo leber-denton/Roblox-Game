@@ -1,19 +1,19 @@
 ---
 source_file: "vault/Graph/Connections_1096.md"
 type: "document"
-community: "Community 176"
+community: "Community 1897"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_176
+  - community/Community_1897
 ---
 
 # Connections_1096.md
 
 ## Connections
-- [[Connections_2568]] - `contains` [EXTRACTED]
-- [[CreatureBuilder.sizeScale()_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
+- [[Connections_11320]] - `contains` [EXTRACTED]
+- [[Connections_1095_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1067]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_176
+#graphify/document #graphify/EXTRACTED #community/Community_1897

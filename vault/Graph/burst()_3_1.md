@@ -12,7 +12,7 @@ tags:
 # burst()_3.md
 
 ## Connections
-- [[Connections_1169]] - `contains` [EXTRACTED]
+- [[Connections_3863]] - `contains` [EXTRACTED]
 - [[burst()_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_122

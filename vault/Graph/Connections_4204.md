@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/syncHistory()_2.md"
+source_file: "vault/Graph/Connections_101_1.md"
 type: "document"
-community: "Community 412"
+community: "Community 1234"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_412
+  - community/Community_1234
 ---
 
 # Connections
 
 ## Connections
-- [[syncHistory()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_101_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_412
+#graphify/document #graphify/EXTRACTED #community/Community_1234

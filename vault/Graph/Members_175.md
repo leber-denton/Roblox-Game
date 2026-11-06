@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 201.md"
+source_file: "vault/Graph/Members_146.md"
 type: "document"
-community: "Community 201"
-location: "L10"
+community: "Community 1102"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_201
+  - community/Community_1102
 ---
 
 # Members
 
 ## Connections
-- [[Community 201]] - `contains` [EXTRACTED]
+- [[Connections_1833]] - `contains` [EXTRACTED]
+- [[Members_146_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_201
+#graphify/document #graphify/EXTRACTED #community/Community_1102

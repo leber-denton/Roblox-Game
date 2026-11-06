@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/Required by_16.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 112"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_112
 ---
 
 # Required by_16.md
 
 ## Connections
-- [[GraphBaseManager_2]] - `references` [EXTRACTED]
-- [[Required by_178]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[Connections_2257]] - `contains` [EXTRACTED]
+- [[Required by_16]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_112

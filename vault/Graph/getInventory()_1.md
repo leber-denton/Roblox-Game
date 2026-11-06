@@ -12,11 +12,10 @@ tags:
 # getInventory().md
 
 ## Connections
-- [[Bag.client.luau_1]] - `references` [EXTRACTED]
-- [[Functions_29_1]] - `references` [EXTRACTED]
-- [[Functions_55]] - `references` [EXTRACTED]
+- [[Bag.client.luau_1_1]] - `references` [EXTRACTED]
+- [[Functions_103_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
 - [[getInventory()_2]] - `contains` [EXTRACTED]
-- [[refresh()_1_1]] - `references` [EXTRACTED]
+- [[refresh()_7]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_203

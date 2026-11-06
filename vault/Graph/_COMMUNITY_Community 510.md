@@ -1,29 +1,34 @@
 ---
 type: community
-members: 16
+members: 21
 ---
 
 # Community 510
 
-**Members:** 16 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Community 38]] - document - vault/Graph/Community 38.md
-- [[Community 38_1]] - document - vault/Graph/Community 38.md
-- [[Connections_4473]] - document - vault/Graph/Community 38.md
-- [[Connections_4474]] - document - vault/Graph/Connections_70.md
-- [[Connections_4475]] - document - vault/Graph/Connections_70.md
-- [[Connections_4476]] - document - vault/Graph/Connections_71.md
-- [[Connections_4477]] - document - vault/Graph/Connections_71.md
-- [[Connections_4478]] - document - vault/Graph/Functions_4.md
-- [[Connections_4479]] - document - vault/Graph/NpcGuard.md
-- [[Connections_70_1]] - document - vault/Graph/Connections_70.md
-- [[Connections_71_1]] - document - vault/Graph/Connections_71.md
-- [[Functions_149]] - document - vault/Graph/Functions_4.md
-- [[Functions_4_1]] - document - vault/Graph/Functions_4.md
-- [[GraphNpcGuard_2]] - document - vault/Graph/NpcGuard.md
-- [[NpcGuard_3]] - document - vault/Graph/NpcGuard.md
-- [[_COMMUNITY_Community 102]] - document - vault/Graph/_COMMUNITY_Community 102.md
+- [[Connections_20304]] - document - vault/Graph/Connections_2591.md
+- [[Connections_20305]] - document - vault/Graph/Connections_70.md
+- [[Connections_20306]] - document - vault/Graph/Connections_70.md
+- [[Connections_20307]] - document - vault/Graph/Connections_72.md
+- [[Connections_20308]] - document - vault/Graph/Connections_72.md
+- [[Connections_20309]] - document - vault/Graph/Sfx.luau_1.md
+- [[Connections_20310]] - document - vault/Graph/Sfx.luau_3.md
+- [[Connections_20311]] - document - vault/Graph/Sfx.luau_4.md
+- [[Connections_20312]] - document - vault/Graph/Sfx.luau.md
+- [[Connections_2591_1]] - document - vault/Graph/Connections_2591.md
+- [[Connections_2591_2]] - document - vault/Graph/Connections_2591.md
+- [[Connections_70_2]] - document - vault/Graph/Connections_70.md
+- [[Connections_72_3]] - document - vault/Graph/Connections_72.md
+- [[Sfx.luau_2]] - document - vault/Graph/Sfx.luau_3.md
+- [[Sfx.luau_1]] - document - vault/Graph/Sfx.luau.md
+- [[Sfx.luau_5]] - document - vault/Graph/Sfx.luau_4.md
+- [[Sfx.luau_6]] - document - vault/Graph/Sfx.luau.md
+- [[Sfx.luau_1_2]] - document - vault/Graph/Sfx.luau_1.md
+- [[Sfx.luau_1_3]] - document - vault/Graph/Sfx.luau_1.md
+- [[Sfx.luau_3]] - document - vault/Graph/Sfx.luau_3.md
+- [[Sfx.luau_4]] - document - vault/Graph/Sfx.luau_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -33,22 +38,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 8 edges to [[_COMMUNITY_Community 102]]
-- 5 edges to [[_COMMUNITY_Community 231]]
-- 4 edges to [[_COMMUNITY_Community 513]]
-- 2 edges to [[_COMMUNITY_Community 551]]
-- 2 edges to [[_COMMUNITY_Community 608]]
-- 2 edges to [[_COMMUNITY_Community 798]]
-- 2 edges to [[_COMMUNITY_Community 634]]
-- 2 edges to [[_COMMUNITY_Community 635]]
-- 2 edges to [[_COMMUNITY_Community 800]]
-- 1 edge to [[_COMMUNITY_Community 134]]
-- 1 edge to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 330]]
-- 1 edge to [[_COMMUNITY_Community 863]]
+- 7 edges to [[_COMMUNITY_Community 168]]
+- 3 edges to [[_COMMUNITY_Community 101]]
+- 1 edge to [[_COMMUNITY_Community 2526]]
+- 1 edge to [[_COMMUNITY_Community 66]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 102]] - degree 35, connects to 13 communities
-- [[Functions_4_1]] - degree 4, connects to 1 community
-- [[GraphNpcGuard_2]] - degree 4, connects to 1 community
-- [[Community 38]] - degree 3, connects to 1 community
+- [[Sfx.luau_1]] - degree 6, connects to 3 communities
+- [[Connections_2591_1]] - degree 5, connects to 3 communities
+- [[Sfx.luau_1_2]] - degree 6, connects to 2 communities
+- [[Sfx.luau_4]] - degree 4, connects to 1 community
+- [[Sfx.luau_3]] - degree 4, connects to 1 community

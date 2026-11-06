@@ -1,16 +1,19 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 16"
+source_file: "vault/Graph/script_parent_gamedata_5.md"
+type: "document"
+community: "Community 3717"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_16
+  - community/Community_3717
 ---
 
-# script_parent_gamedata
+# script_parent_gamedata_5.md
 
 ## Connections
-- [[BattleData.luau]] - `imports` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 171]] - `references` [EXTRACTED]
+- [[script_parent_gamedata_3]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_16
+#graphify/document #graphify/EXTRACTED #community/Community_3717

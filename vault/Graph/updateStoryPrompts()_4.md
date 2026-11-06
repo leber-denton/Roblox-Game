@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/updateStoryPrompts()_2.md"
+source_file: "vault/Graph/updateStoryPrompts()_5.md"
 type: "document"
-community: "Community 122"
+community: "Community 1444"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_122
+  - community/Community_1444
 ---
 
-# updateStoryPrompts()
+# updateStoryPrompts().md
 
 ## Connections
-- [[Connections_1194]] - `contains` [EXTRACTED]
-- [[updateStoryPrompts()_2]] - `contains` [EXTRACTED]
+- [[Connections_7504]] - `contains` [EXTRACTED]
+- [[updateStoryPrompts()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_122
+#graphify/document #graphify/EXTRACTED #community/Community_1444

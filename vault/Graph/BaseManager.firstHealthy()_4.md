@@ -1,22 +1,20 @@
 ---
-source_file: "vault/Graph/BaseManager.firstHealthy().md"
+source_file: "vault/Graph/BaseManager.firstHealthy()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
-# BaseManager.firstHealthy().md
+# BaseManager.firstHealthy()_4.md
 
 ## Connections
-- [[BaseManager.firstHealthy()_5]] - `contains` [EXTRACTED]
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[RouteTrainerService.init()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
-- [[canChallenge()_4]] - `references` [EXTRACTED]
+- [[BaseManager.firstHealthy()_6]] - `contains` [EXTRACTED]
+- [[BaseManager.firstHealthy()_3]] - `references` [EXTRACTED]
+- [[Connections_4412_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

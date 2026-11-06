@@ -9,7 +9,7 @@ members: 40
 
 ## Members
 - [[CreatureBuilder.build()]] - code - src/ReplicatedStorage/Shared/CreatureBuilder.luau
-- [[CreatureBuilder.luau_5]] - code - src/ReplicatedStorage/Shared/CreatureBuilder.luau
+- [[CreatureBuilder.luau_3]] - code - src/ReplicatedStorage/Shared/CreatureBuilder.luau
 - [[CreatureBuilder.sizeScale()]] - code - src/ReplicatedStorage/Shared/CreatureBuilder.luau
 - [[Features.antennae()]] - code - src/ReplicatedStorage/Shared/CreatureBuilder.luau
 - [[Features.blush()]] - code - src/ReplicatedStorage/Shared/CreatureBuilder.luau
@@ -67,4 +67,4 @@ SORT file.name ASC
 
 ## Top bridge nodes
 - [[CreatureBuilder.build()]] - degree 13, connects to 5 communities
-- [[CreatureBuilder.luau_5]] - degree 45, connects to 4 communities
+- [[CreatureBuilder.luau_3]] - degree 45, connects to 4 communities

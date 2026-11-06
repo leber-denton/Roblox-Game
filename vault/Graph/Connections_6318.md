@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_397.md"
+source_file: "vault/Graph/teamFor()_4.md"
 type: "document"
-community: "Community 977"
-location: "L12"
+community: "Community 134"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_977
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_6319]] - `contains` [EXTRACTED]
-- [[Connections_397_1]] - `contains` [EXTRACTED]
+- [[teamFor()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_977
+#graphify/document #graphify/EXTRACTED #community/Community_134

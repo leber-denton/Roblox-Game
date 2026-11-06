@@ -1,23 +1,20 @@
 ---
-source_file: "vault/Graph/playerStarter().md"
+source_file: "vault/Graph/playerStarter()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 224"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_224
 ---
 
-# playerStarter().md
+# playerStarter()_3.md
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[TutorialService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
+- [[Connections_2976_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1231]] - `references` [EXTRACTED]
 - [[playerStarter()_4]] - `contains` [EXTRACTED]
-- [[rivalChallenge()_3]] - `references` [EXTRACTED]
-- [[startRivalBattle()_4]] - `references` [EXTRACTED]
-- [[starterInfo()_4]] - `references` [EXTRACTED]
+- [[playerStarter()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_224

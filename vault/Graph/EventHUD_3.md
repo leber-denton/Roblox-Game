@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/EventHUD_1.md"
+source_file: "vault/Graph/EventHUD_3.md"
 type: "document"
-community: "Community 354"
-location: "L12"
+community: "Community 1681"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_354
+  - community/Community_1681
 ---
 
-# EventHUD
+# EventHUD_3.md
 
 ## Connections
-- [[Connections_4062]] - `contains` [EXTRACTED]
-- [[EventHUD_1_2]] - `contains` [EXTRACTED]
+- [[EventHUD_3_1]] - `contains` [EXTRACTED]
+- [[GraphEventHUD_5]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 354]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_354
+#graphify/document #graphify/EXTRACTED #community/Community_1681

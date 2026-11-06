@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Live Query (requires Dataview plugin)_32.md"
+source_file: "vault/Graph/GameData.battleItemOrder()_2_1.md"
 type: "document"
-community: "Community 1291"
+community: "Community 1083"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1291
+  - community/Community_1083
 ---
 
 # Connections
 
 ## Connections
-- [[Live Query (requires Dataview plugin)_94]] - `contains` [EXTRACTED]
+- [[GameData.battleItemOrder()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1291
+#graphify/document #graphify/EXTRACTED #community/Community_1083

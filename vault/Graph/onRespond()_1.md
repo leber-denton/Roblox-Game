@@ -12,7 +12,8 @@ tags:
 # onRespond()_1.md
 
 ## Connections
-- [[Connections_441]] - `references` [EXTRACTED]
-- [[onRespond()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1164]] - `references` [EXTRACTED]
+- [[onRespond()_1_1]] - `contains` [EXTRACTED]
+- [[onRespond()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1164

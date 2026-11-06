@@ -12,8 +12,8 @@ tags:
 # heading()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
-- [[label()_2]] - `calls` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
+- [[label()_1]] - `calls` [EXTRACTED]
 - [[tabs.Base()]] - `calls` [EXTRACTED]
 - [[tabs.Crates()]] - `calls` [EXTRACTED]
 - [[tabs.Daily()]] - `calls` [EXTRACTED]

@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/Features.horns()_2.md"
 type: "document"
-community: "Community 1062"
+community: "Community 176"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1062
+  - community/Community_176
 ---
 
 # Features.horns()
 
 ## Connections
-- [[Connections_161]] - `contains` [EXTRACTED]
+- [[Connections_10334]] - `contains` [EXTRACTED]
 - [[Features.horns()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1062
+#graphify/document #graphify/EXTRACTED #community/Community_176

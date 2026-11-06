@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/onCharacter()_1.md"
+source_file: "vault/Graph/openTrade()_2.md"
 type: "document"
-community: "Community 200"
+community: "Community 1165"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_200
+  - community/Community_1165
 ---
 
 # Connections
 
 ## Connections
-- [[onCharacter()_1_1]] - `contains` [EXTRACTED]
+- [[openTrade()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_200
+#graphify/document #graphify/EXTRACTED #community/Community_1165

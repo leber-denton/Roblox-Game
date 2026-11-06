@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/Members_4.md"
+source_file: "vault/Graph/Members_367.md"
 type: "document"
-community: "Community 446"
-location: "L12"
+community: "Community 1222"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_446
+  - community/Community_1222
 ---
 
-# Members
+# Members_367.md
 
 ## Connections
-- [[Connections_4290]] - `contains` [EXTRACTED]
-- [[Members_4_1]] - `contains` [EXTRACTED]
+- [[Connections_4290]] - `references` [EXTRACTED]
+- [[Members_285_1]] - `references` [EXTRACTED]
+- [[Members_367_1]] - `contains` [EXTRACTED]
+- [[Members_4_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1222]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 446]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_446
+#graphify/document #graphify/EXTRACTED #community/Community_1222

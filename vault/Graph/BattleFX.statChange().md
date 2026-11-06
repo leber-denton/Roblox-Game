@@ -12,7 +12,7 @@ tags:
 # BattleFX.statChange()
 
 ## Connections
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[effectPart()]] - `calls` [EXTRACTED]
 - [[play()_1]] - `calls` [EXTRACTED]
 - [[playTurn()]] - `calls` [INFERRED]

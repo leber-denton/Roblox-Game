@@ -12,8 +12,8 @@ tags:
 # makeCard()
 
 ## Connections
-- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
-- [[label()_4]] - `calls` [EXTRACTED]
+- [[BattleUI.client.luau_7]] - `contains` [EXTRACTED]
+- [[label()_3]] - `calls` [EXTRACTED]
 - [[new()_9]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_7

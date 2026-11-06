@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/incoming().md"
+source_file: "vault/Graph/referenceScale().md"
 type: "document"
-community: "Community 203"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[incoming()_4]] - `contains` [EXTRACTED]
+- [[referenceScale()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_117

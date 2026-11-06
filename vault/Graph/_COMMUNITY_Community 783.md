@@ -1,19 +1,28 @@
 ---
 type: community
-members: 6
+members: 15
 ---
 
 # Community 783
 
-**Members:** 6 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_5386]] - document - vault/Graph/Connections_125.md
-- [[Connections_5387]] - document - vault/Graph/Connections_125.md
-- [[Connections_5388]] - document - vault/Graph/positionOf()_2.md
-- [[Connections_125_1]] - document - vault/Graph/Connections_125.md
-- [[positionOf()_4]] - document - vault/Graph/positionOf()_2.md
-- [[positionOf()_2_1]] - document - vault/Graph/positionOf()_2.md
+- [[Community 783]] - document - vault/Graph/_COMMUNITY_Community 783.md
+- [[Community 807]] - document - vault/Graph/_COMMUNITY_Community 807.md
+- [[Connections_22701]] - document - vault/Graph/Connections_835_1.md
+- [[Connections to other communities_1550]] - document - vault/Graph/_COMMUNITY_Community 783.md
+- [[Connections to other communities_1551]] - document - vault/Graph/_COMMUNITY_Community 807.md
+- [[Connections_835_2]] - document - vault/Graph/Connections_835_1.md
+- [[Connections_835_1_1]] - document - vault/Graph/Connections_835_1.md
+- [[Live Query (requires Dataview plugin)_1813]] - document - vault/Graph/_COMMUNITY_Community 783.md
+- [[Live Query (requires Dataview plugin)_1814]] - document - vault/Graph/_COMMUNITY_Community 807.md
+- [[Members_1812]] - document - vault/Graph/_COMMUNITY_Community 783.md
+- [[Members_1813]] - document - vault/Graph/_COMMUNITY_Community 807.md
+- [[Top bridge nodes_1542]] - document - vault/Graph/_COMMUNITY_Community 783.md
+- [[Top bridge nodes_1543]] - document - vault/Graph/_COMMUNITY_Community 807.md
+- [[_COMMUNITY_Community 783]] - document - vault/Graph/_COMMUNITY_Community 783.md
+- [[_COMMUNITY_Community 807]] - document - vault/Graph/_COMMUNITY_Community 807.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +32,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 542]]
-- 1 edge to [[_COMMUNITY_Community 471]]
+- 1 edge to [[_COMMUNITY_Community 1018]]
+- 1 edge to [[_COMMUNITY_Community 134]]
+- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 207]]
+- 1 edge to [[_COMMUNITY_Community 289]]
 
 ## Top bridge nodes
-- [[positionOf()_2_1]] - degree 4, connects to 2 communities
-- [[Connections_125_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 783]] - degree 6, connects to 3 communities
+- [[_COMMUNITY_Community 807]] - degree 5, connects to 2 communities

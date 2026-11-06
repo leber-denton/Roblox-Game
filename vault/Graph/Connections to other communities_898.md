@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/_COMMUNITY_Community 281.md"
+type: "document"
+community: "Community 281"
+location: "L318"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_281
+---
+
+# Connections to other communities
+
+## Connections
+- [[Community 281_2]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_281

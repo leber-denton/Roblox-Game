@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/Creature Quest Catch & Battle Launch Checklist_1.md"
+source_file: "vault/Graph/Creature Quest Catch & Battle Launch Checklist_2.md"
 type: "document"
-community: "Community 108"
-location: "L12"
+community: "Community 569"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_569
 ---
 
-# Creature Quest Catch & Battle Launch Checklist.md
+# Creature Quest Catch & Battle Launch Checklist_2.md
 
 ## Connections
-- [[Connections_187]] - `contains` [EXTRACTED]
-- [[Creature Quest Catch & Battle Launch Checklist_1]] - `contains` [EXTRACTED]
+- [[Connections_187_1_1]] - `references` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist_5]] - `contains` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist_1_1]] - `references` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 108]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 329]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_569

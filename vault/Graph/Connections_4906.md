@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/strongest()_2.md"
+source_file: "vault/Graph/new()_19_1.md"
 type: "document"
-community: "Community 642"
+community: "Community 1276"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_642
+  - community/Community_1276
 ---
 
 # Connections
 
 ## Connections
-- [[strongest()_7]] - `contains` [EXTRACTED]
+- [[new()_19_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_642
+#graphify/document #graphify/EXTRACTED #community/Community_1276

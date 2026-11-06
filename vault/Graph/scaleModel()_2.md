@@ -12,9 +12,10 @@ tags:
 # scaleModel()_2.md
 
 ## Connections
-- [[Connections_747_1]] - `references` [EXTRACTED]
+- [[Connections_747_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[scaleModel()_4]] - `contains` [EXTRACTED]
-- [[scaleModel()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 167]] - `references` [EXTRACTED]
+- [[scaleModel()_2_1]] - `contains` [EXTRACTED]
+- [[scaleModel()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_167

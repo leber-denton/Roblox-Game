@@ -12,6 +12,6 @@ tags:
 # Features.fangs()
 
 ## Connections
-- [[CreatureBuilder.luau_5]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_3]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_6

@@ -12,7 +12,7 @@ tags:
 # targetValue()
 
 ## Connections
-- [[Functions_137]] - `references` [INFERRED]
-- [[Tutorial.client.luau_5]] - `contains` [EXTRACTED]
+- [[Functions_214]] - `references` [INFERRED]
+- [[Tutorial.client.luau_7]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_421

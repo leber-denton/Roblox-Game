@@ -1,19 +1,25 @@
 ---
 type: community
-members: 6
+members: 12
 ---
 
 # Community 950
 
-**Members:** 6 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_6243]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_2.md
-- [[Connections_6244]] - document - vault/Graph/game_replicatedstorage_shared_gamedata.md
-- [[game_replicatedstorage_shared_gamedata_4]] - document - vault/Graph/game_replicatedstorage_shared_gamedata.md
-- [[game_replicatedstorage_shared_gamedata_3]] - document - vault/Graph/game_replicatedstorage_shared_gamedata.md
-- [[game_replicatedstorage_shared_gamedata_2]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_2.md
-- [[game_replicatedstorage_shared_gamedata_2_1]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_2.md
+- [[Community 950]] - document - vault/Graph/_COMMUNITY_Community 950.md
+- [[Connections_24221]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_2_1.md
+- [[Connections_24222]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_4.md
+- [[Connections to other communities_1660]] - document - vault/Graph/_COMMUNITY_Community 950.md
+- [[Live Query (requires Dataview plugin)_1957]] - document - vault/Graph/_COMMUNITY_Community 950.md
+- [[Members_1956]] - document - vault/Graph/_COMMUNITY_Community 950.md
+- [[Top bridge nodes_1651]] - document - vault/Graph/_COMMUNITY_Community 950.md
+- [[_COMMUNITY_Community 950]] - document - vault/Graph/_COMMUNITY_Community 950.md
+- [[game_replicatedstorage_shared_gamedata_8]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_4.md
+- [[game_replicatedstorage_shared_gamedata_2_2]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_2_1.md
+- [[game_replicatedstorage_shared_gamedata_2_1]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_2_1.md
+- [[game_replicatedstorage_shared_gamedata_4_1]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,7 +29,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 309]]
+- 2 edges to [[_COMMUNITY_Community 413]]
+- 1 edge to [[_COMMUNITY_Community 140]]
 
 ## Top bridge nodes
-- [[game_replicatedstorage_shared_gamedata_2]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 950]] - degree 5, connects to 1 community
+- [[game_replicatedstorage_shared_gamedata_2_1]] - degree 3, connects to 1 community

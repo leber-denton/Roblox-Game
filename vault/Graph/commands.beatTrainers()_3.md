@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Graph/commands.beatTrainers().md"
+source_file: "vault/Graph/commands.beatTrainers()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 1187"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1187
 ---
 
-# commands.beatTrainers().md
+# commands.beatTrainers()_3.md
 
 ## Connections
-- [[AdminService.luau_2_1]] - `references` [EXTRACTED]
 - [[PlayerData.markTrainerBeaten()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1187]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
-- [[commands.beatTrainers()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[commands.beatTrainers()_1]] - `references` [EXTRACTED]
+- [[commands.beatTrainers()_3_1]] - `contains` [EXTRACTED]
+- [[commands.beatTrainers()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1187

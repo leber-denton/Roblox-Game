@@ -1,18 +1,23 @@
 ---
-source_file: "vault/Graph/actions.upgrade()_1.md"
+source_file: "vault/Graph/actions.upgrade().md"
 type: "document"
-community: "Community 93"
-location: "L12"
+community: "Community 86"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_86
 ---
 
 # actions.upgrade().md
 
 ## Connections
-- [[Connections_6173]] - `contains` [EXTRACTED]
-- [[actions.upgrade()_1_1]] - `contains` [EXTRACTED]
+- [[BaseManager.getBase()_5]] - `references` [EXTRACTED]
+- [[BaseManager.setWings()_5]] - `references` [EXTRACTED]
+- [[DecorService.luau_7]] - `references` [EXTRACTED]
+- [[PlayerData.coins()_3]] - `references` [EXTRACTED]
+- [[PlayerData.spend()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
+- [[actions.upgrade()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_86

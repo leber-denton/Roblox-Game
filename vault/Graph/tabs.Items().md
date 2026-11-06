@@ -12,12 +12,12 @@ tags:
 # tabs.Items()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
 - [[button()]] - `calls` [EXTRACTED]
 - [[itemCard()]] - `calls` [EXTRACTED]
-- [[label()_2]] - `calls` [EXTRACTED]
+- [[label()_1]] - `calls` [EXTRACTED]
 - [[listLayout()]] - `calls` [EXTRACTED]
-- [[new()_4]] - `calls` [EXTRACTED]
+- [[new()_3]] - `calls` [EXTRACTED]
 - [[placedCount()_1]] - `calls` [EXTRACTED]
 - [[startPlacing()]] - `calls` [EXTRACTED]
 

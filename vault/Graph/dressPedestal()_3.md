@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/dressPedestal().md"
+source_file: "vault/Graph/dressPedestal()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2247"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2247
 ---
 
-# dressPedestal().md
+# dressPedestal()_3.md
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[dress()_3]] - `references` [EXTRACTED]
-- [[dressPedestal()_4]] - `contains` [EXTRACTED]
-- [[strongest()_9]] - `references` [EXTRACTED]
+- [[dressPedestal()_5]] - `contains` [EXTRACTED]
+- [[dressPedestal()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2247

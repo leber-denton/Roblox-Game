@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/TrainerAnimations.luau_1.md"
+source_file: "vault/Graph/TrainerAnimations.luau.md"
 type: "document"
-community: "Community 143"
-location: "L12"
+community: "Community 1520"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_143
+  - community/Community_1520
 ---
 
-# TrainerAnimations.luau
+# TrainerAnimations.luau.md
 
 ## Connections
-- [[Connections_1787]] - `contains` [EXTRACTED]
-- [[TrainerAnimations.luau_1]] - `contains` [EXTRACTED]
+- [[Connections_2919_1]] - `references` [EXTRACTED]
+- [[TrainerAnimations.luau_5]] - `contains` [EXTRACTED]
+- [[TrainerAnimations.luau_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1228]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_143
+#graphify/document #graphify/EXTRACTED #community/Community_1520

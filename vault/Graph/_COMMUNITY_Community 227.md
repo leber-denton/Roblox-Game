@@ -1,37 +1,34 @@
 ---
 type: community
-members: 24
+members: 21
 ---
 
 # Community 227
 
-**Members:** 24 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[BattleFX.luau]] - document - vault/Graph/BattleFX.luau_1.md
-- [[BattleFX.luau_1]] - document - vault/Graph/BattleFX.luau_1.md
-- [[Community 227]] - document - vault/Graph/_COMMUNITY_Community 227.md
-- [[Connections_3220]] - document - vault/Graph/BattleFX.luau_1.md
-- [[Connections_3221]] - document - vault/Graph/Connections to other communities_55.md
-- [[Connections_3222]] - document - vault/Graph/game_getservice_1.md
-- [[Connections_3223]] - document - vault/Graph/Live Query (requires Dataview plugin)_79.md
-- [[Connections_3224]] - document - vault/Graph/Members_78.md
-- [[Connections_3225]] - document - vault/Graph/Top bridge nodes_56.md
-- [[Connections to other communities_176]] - document - vault/Graph/_COMMUNITY_Community 227.md
-- [[Connections to other communities_177]] - document - vault/Graph/Connections to other communities_55.md
-- [[Connections to other communities_55_1]] - document - vault/Graph/Connections to other communities_55.md
-- [[Live Query (requires Dataview plugin)_207]] - document - vault/Graph/_COMMUNITY_Community 227.md
-- [[Live Query (requires Dataview plugin)_208]] - document - vault/Graph/Live Query (requires Dataview plugin)_79.md
-- [[Live Query (requires Dataview plugin)_79_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_79.md
-- [[Members_210]] - document - vault/Graph/_COMMUNITY_Community 227.md
-- [[Members_211]] - document - vault/Graph/Members_78.md
-- [[Members_78_1]] - document - vault/Graph/Members_78.md
-- [[Top bridge nodes_182]] - document - vault/Graph/_COMMUNITY_Community 227.md
-- [[Top bridge nodes_183]] - document - vault/Graph/Top bridge nodes_56.md
-- [[Top bridge nodes_56_1]] - document - vault/Graph/Top bridge nodes_56.md
-- [[_COMMUNITY_Community 227]] - document - vault/Graph/_COMMUNITY_Community 227.md
-- [[game_getservice_3]] - document - vault/Graph/game_getservice_1.md
-- [[game_getservice_1_1]] - document - vault/Graph/game_getservice_1.md
+- [[BaseManager.healAll()_1]] - document - vault/Graph/BaseManager.healAll()_1.md
+- [[BaseManager.healAll()_1_2]] - document - vault/Graph/BaseManager.healAll()_1_1.md
+- [[BaseManager.healAll()_1_3]] - document - vault/Graph/BaseManager.healAll()_1.md
+- [[BaseManager.healAll()_1_1]] - document - vault/Graph/BaseManager.healAll()_1_1.md
+- [[BaseManager.healAll()_2]] - document - vault/Graph/BaseManager.healAll()_2.md
+- [[BaseManager.healAll()_2_2]] - document - vault/Graph/BaseManager.healAll()_2_1.md
+- [[BaseManager.healAll()_2_3]] - document - vault/Graph/BaseManager.healAll()_2.md
+- [[BaseManager.healAll()_2_1]] - document - vault/Graph/BaseManager.healAll()_2_1.md
+- [[Connections_13266]] - document - vault/Graph/BaseManager.healAll()_1_1.md
+- [[Connections_13267]] - document - vault/Graph/BaseManager.healAll()_1.md
+- [[Connections_13268]] - document - vault/Graph/BaseManager.healAll()_2_1.md
+- [[Connections_13269]] - document - vault/Graph/BaseManager.healAll()_2.md
+- [[Connections_13270]] - document - vault/Graph/Connections_2384.md
+- [[Connections_13271]] - document - vault/Graph/Connections_2384.md
+- [[Connections_13272]] - document - vault/Graph/Connections_2385.md
+- [[Connections_13273]] - document - vault/Graph/Connections_2385.md
+- [[Connections_13274]] - document - vault/Graph/Connections_953_1.md
+- [[Connections_2384_1]] - document - vault/Graph/Connections_2384.md
+- [[Connections_2385_1]] - document - vault/Graph/Connections_2385.md
+- [[Connections_953_2]] - document - vault/Graph/Connections_953_1.md
+- [[Connections_953_1]] - document - vault/Graph/Connections_953_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -41,9 +38,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 168]]
+- 7 edges to [[_COMMUNITY_Community 289]]
+- 3 edges to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 1031]]
+- 1 edge to [[_COMMUNITY_Community 1242]]
+- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 25]]
+- 1 edge to [[_COMMUNITY_Community 844]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 227]] - degree 9, connects to 1 community
-- [[BattleFX.luau_1]] - degree 4, connects to 1 community
-- [[game_getservice_1_1]] - degree 4, connects to 1 community
+- [[BaseManager.healAll()_1]] - degree 9, connects to 6 communities
+- [[Connections_953_1]] - degree 5, connects to 3 communities
+- [[BaseManager.healAll()_2]] - degree 6, connects to 2 communities
+- [[BaseManager.healAll()_1_1]] - degree 4, connects to 1 community
+- [[BaseManager.healAll()_2_1]] - degree 4, connects to 1 community

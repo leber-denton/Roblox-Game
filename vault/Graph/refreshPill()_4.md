@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/refreshPill()_2.md"
+source_file: "vault/Graph/refreshPill()_4.md"
 type: "document"
-community: "Community 342"
-location: "L12"
+community: "Community 1034"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_342
+  - community/Community_1034
 ---
 
-# refreshPill()
+# refreshPill()_4.md
 
 ## Connections
-- [[Connections_4009]] - `contains` [EXTRACTED]
-- [[refreshPill()_2_1]] - `contains` [EXTRACTED]
+- [[ColiseumUI.client.luau_5]] - `references` [EXTRACTED]
+- [[Functions_69_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 192]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 215]] - `references` [EXTRACTED]
+- [[refreshPill()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_342
+#graphify/document #graphify/EXTRACTED #community/Community_1034

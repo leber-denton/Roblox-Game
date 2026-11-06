@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/AdminService_2.md"
+source_file: "vault/Graph/AdminService_3.md"
 type: "document"
-community: "Community 225"
-location: "L12"
+community: "Community 906"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_225
+  - community/Community_906
 ---
 
-# AdminService
+# AdminService_3.md
 
 ## Connections
-- [[AdminService_2_1]] - `contains` [EXTRACTED]
-- [[Connections_3193]] - `contains` [EXTRACTED]
+- [[AdminService_5]] - `contains` [EXTRACTED]
+- [[AdminService_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 225]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_225
+#graphify/document #graphify/EXTRACTED #community/Community_906

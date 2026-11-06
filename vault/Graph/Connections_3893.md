@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/GymService.md"
+source_file: "vault/Graph/Connections_4150.md"
 type: "document"
-community: "Community 329"
-location: "L14"
+community: "Community 122"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_329
+  - community/Community_122
 ---
 
 # Connections
 
 ## Connections
-- [[GymService_3]] - `contains` [EXTRACTED]
+- [[Connections_3894]] - `contains` [EXTRACTED]
+- [[Connections_4150]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_329
+#graphify/document #graphify/EXTRACTED #community/Community_122

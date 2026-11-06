@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 328.md"
+source_file: "vault/Graph/Community 328.md"
 type: "document"
-community: "Community 1053"
-location: "L6"
+community: "Community 328"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1053
+  - community/Community_328
 ---
 
-# Community 328
+# Community 328.md
 
 ## Connections
-- [[Connections to other communities_34]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_33]] - `contains` [EXTRACTED]
-- [[Members_33]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_37]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 328]] - `contains` [EXTRACTED]
+- [[Community 328_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 328]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1053
+#graphify/document #graphify/EXTRACTED #community/Community_328

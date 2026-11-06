@@ -12,7 +12,7 @@ tags:
 # playbackTime()
 
 ## Connections
-- [[BattleService.luau]] - `contains` [EXTRACTED]
+- [[BattleService.luau_5]] - `contains` [EXTRACTED]
 - [[release()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

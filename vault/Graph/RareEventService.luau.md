@@ -12,8 +12,8 @@ tags:
 # RareEventService.luau
 
 ## Connections
-- [[GameData.luau_3]] - `imports` [EXTRACTED]
-- [[Main.server.luau_3]] - `imports` [EXTRACTED]
+- [[GameData.luau]] - `imports` [EXTRACTED]
+- [[Main.server.luau]] - `imports` [EXTRACTED]
 - [[RareEventService.init()]] - `contains` [EXTRACTED]
 - [[RareEventService.isLive()]] - `contains` [EXTRACTED]
 - [[RareEventService.setPaidHandler()]] - `contains` [EXTRACTED]
@@ -25,6 +25,6 @@ tags:
 - [[openLanes()]] - `contains` [EXTRACTED]
 - [[paidPick()]] - `contains` [EXTRACTED]
 - [[rarestOf()]] - `contains` [EXTRACTED]
-- [[script_parent_wildspawner_5]] - `imports` [EXTRACTED]
+- [[script_parent_wildspawner_8]] - `imports` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_2

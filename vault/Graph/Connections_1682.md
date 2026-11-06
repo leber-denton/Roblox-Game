@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/moveStyle()_1.md"
+source_file: "vault/Graph/Members_138.md"
 type: "document"
-community: "Community 138"
+community: "Community 1098"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_1098
 ---
 
 # Connections
 
 ## Connections
-- [[moveStyle()_3]] - `contains` [EXTRACTED]
+- [[Members_158]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_1098

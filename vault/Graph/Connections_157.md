@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/updateVisible()_3.md"
+source_file: "vault/Graph/Sfx.play()_1_1.md"
 type: "document"
-community: "Community 106"
+community: "Community 101"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_106
+  - community/Community_101
 ---
 
 # Connections
 
 ## Connections
-- [[updateVisible()_6]] - `contains` [EXTRACTED]
+- [[Sfx.play()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_106
+#graphify/document #graphify/EXTRACTED #community/Community_101

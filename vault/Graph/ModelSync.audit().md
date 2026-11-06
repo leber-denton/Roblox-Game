@@ -12,7 +12,7 @@ tags:
 # ModelSync.audit()
 
 ## Connections
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[entryFor()]] - `calls` [EXTRACTED]
 - [[isReference()]] - `calls` [EXTRACTED]
 - [[resolvePath()]] - `calls` [EXTRACTED]

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Where to edit things.md"
+source_file: "vault/Graph/Connections_1429.md"
 type: "document"
-community: "Community 1488"
+community: "Community 111"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1488
+  - community/Community_111
 ---
 
 # Connections
 
 ## Connections
-- [[Where to edit things_3]] - `contains` [EXTRACTED]
+- [[Connections_1953]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1488
+#graphify/document #graphify/EXTRACTED #community/Community_111

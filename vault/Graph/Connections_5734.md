@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DecorData.footprint().md"
+source_file: "vault/Graph/Connections_1855.md"
 type: "document"
-community: "Community 86"
+community: "Community 1330"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1330
 ---
 
 # Connections
 
 ## Connections
-- [[DecorData.footprint()_2]] - `contains` [EXTRACTED]
+- [[Connections_5733]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1330

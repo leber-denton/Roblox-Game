@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/strongest()_1_1.md"
+source_file: "vault/Graph/strongest()_1_1_1.md"
 type: "document"
 community: "Community 168"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,11 +12,7 @@ tags:
 # strongest()_1_1.md
 
 ## Connections
-- [[AdminService.luau]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 229]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 339]] - `references` [EXTRACTED]
-- [[commands.opTeam()_1]] - `references` [EXTRACTED]
+- [[Connections_9677]] - `contains` [EXTRACTED]
 - [[strongest()_1_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

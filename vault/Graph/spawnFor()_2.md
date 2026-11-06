@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/spawnFor()_2.md"
+source_file: "vault/Graph/spawnFor().md"
 type: "document"
-community: "Community 134"
-location: "L1"
+community: "Community 276"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_276
 ---
 
-# spawnFor()_2.md
+# spawnFor()
 
 ## Connections
-- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
-- [[spawnFor()_4]] - `contains` [EXTRACTED]
-- [[spawnFor()_1]] - `references` [EXTRACTED]
+- [[Connections_15366]] - `contains` [EXTRACTED]
+- [[spawnFor()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_276

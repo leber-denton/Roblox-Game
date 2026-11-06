@@ -12,9 +12,8 @@ tags:
 # npcName().md
 
 ## Connections
-- [[ModelSyncLookup.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 61]] - `references` [EXTRACTED]
 - [[addNpc()_1]] - `references` [EXTRACTED]
-- [[npcName()_3]] - `contains` [EXTRACTED]
+- [[npcName()_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_169

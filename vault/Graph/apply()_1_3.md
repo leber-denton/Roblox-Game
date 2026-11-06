@@ -1,23 +1,19 @@
 ---
-source_file: "vault/Graph/apply()_1.md"
+source_file: "vault/Graph/apply()_1_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 540"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_540
 ---
 
-# apply()_1.md
+# apply()_1_3.md
 
 ## Connections
-- [[BaseManager.recalcCapacity()_3]] - `references` [EXTRACTED]
-- [[PassService.check()_3]] - `references` [EXTRACTED]
-- [[PassService.init()_4]] - `references` [EXTRACTED]
-- [[PassService.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 215]] - `references` [EXTRACTED]
-- [[addTrail()_3]] - `references` [EXTRACTED]
-- [[apply()_10]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 312]] - `references` [EXTRACTED]
+- [[apply()_1_4]] - `contains` [EXTRACTED]
+- [[apply()_1_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_540

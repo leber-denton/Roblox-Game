@@ -12,7 +12,7 @@ tags:
 # ModelSync.apply()
 
 ## Connections
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[backups()]] - `calls` [EXTRACTED]
 - [[cleanClone()]] - `calls` [EXTRACTED]
 - [[findTargets()]] - `calls` [EXTRACTED]

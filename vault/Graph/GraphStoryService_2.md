@@ -9,10 +9,10 @@ tags:
   - community/Community_24
 ---
 
-# GraphStoryService.md
+# Graph/StoryService.md
 
 ## Connections
-- [[Connections_3331]] - `contains` [EXTRACTED]
+- [[Connections_13805]] - `contains` [EXTRACTED]
 - [[GraphStoryService]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

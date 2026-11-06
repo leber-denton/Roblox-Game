@@ -12,7 +12,8 @@ tags:
 # finite()_2.md
 
 ## Connections
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[finite()_9]] - `contains` [EXTRACTED]
+- [[finite()_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1266

@@ -1,18 +1,25 @@
 ---
 type: community
-members: 5
+members: 12
 ---
 
 # Community 862
 
-**Members:** 5 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Community 101]] - document - vault/Graph/_COMMUNITY_Community 101.md
-- [[Connections to other communities_360]] - document - vault/Graph/_COMMUNITY_Community 101.md
-- [[Live Query (requires Dataview plugin)_403]] - document - vault/Graph/_COMMUNITY_Community 101.md
-- [[Members_403]] - document - vault/Graph/_COMMUNITY_Community 101.md
-- [[Top bridge nodes_362]] - document - vault/Graph/_COMMUNITY_Community 101.md
+- [[BattleData.rollIVs()_2_1]] - document - vault/Graph/BattleData.rollIVs()_2.md
+- [[BattleData.rollIVs()_2_2]] - document - vault/Graph/BattleData.rollIVs()_2_1.md
+- [[BattleData.rollIVs()_2_3]] - document - vault/Graph/BattleData.rollIVs()_2.md
+- [[BattleData.rollIVs()_2_1_1]] - document - vault/Graph/BattleData.rollIVs()_2_1.md
+- [[Connections_23389]] - document - vault/Graph/BattleData.rollIVs()_2_1.md
+- [[Connections_23390]] - document - vault/Graph/BattleData.rollIVs()_2.md
+- [[Connections_23391]] - document - vault/Graph/Connections_2412.md
+- [[Connections_23392]] - document - vault/Graph/Connections_2412.md
+- [[Connections_23393]] - document - vault/Graph/Connections_973_1.md
+- [[Connections_2412_1]] - document - vault/Graph/Connections_2412.md
+- [[Connections_973_2]] - document - vault/Graph/Connections_973_1.md
+- [[Connections_973_1_1]] - document - vault/Graph/Connections_973_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +29,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 75]]
+- 4 edges to [[_COMMUNITY_Community 289]]
+- 2 edges to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 567]]
 
 ## Top bridge nodes
-- [[Community 101]] - degree 5, connects to 1 community
+- [[BattleData.rollIVs()_2_1]] - degree 6, connects to 3 communities
+- [[Connections_973_1_1]] - degree 4, connects to 2 communities
+- [[BattleData.rollIVs()_2_1_1]] - degree 4, connects to 1 community
+- [[Connections_2412_1]] - degree 3, connects to 1 community

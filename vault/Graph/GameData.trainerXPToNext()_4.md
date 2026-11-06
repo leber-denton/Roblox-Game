@@ -1,21 +1,18 @@
 ---
 source_file: "vault/Graph/GameData.trainerXPToNext().md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 276"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_276
 ---
 
-# GameData.trainerXPToNext().md
+# GameData.trainerXPToNext()
 
 ## Connections
-- [[GameData.luau_2_1]] - `references` [EXTRACTED]
-- [[GameData.trainerXPToNext()_5]] - `contains` [EXTRACTED]
-- [[PlayerData.addXP()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[sync()_1_3]] - `references` [EXTRACTED]
+- [[Connections_15309]] - `contains` [EXTRACTED]
+- [[GameData.trainerXPToNext()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_276

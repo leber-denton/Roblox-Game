@@ -12,7 +12,7 @@ tags:
 # Shapes.cocoon()
 
 ## Connections
-- [[Connections_1642]] - `contains` [EXTRACTED]
+- [[Connections_6676]] - `contains` [EXTRACTED]
 - [[Shapes.cocoon()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

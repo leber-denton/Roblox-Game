@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/trainingRates()_2.md"
+source_file: "vault/Graph/trainingRates()_2_1.md"
 type: "document"
-community: "Community 75"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_75
+  - community/Community_168
 ---
 
-# trainingRates()_2.md
+# trainingRates()_2_1.md
 
 ## Connections
-- [[Connections_5274]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 101]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 75]] - `references` [EXTRACTED]
+- [[trainingRates()_1_1]] - `references` [EXTRACTED]
 - [[trainingRates()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_75
+#graphify/document #graphify/EXTRACTED #community/Community_168

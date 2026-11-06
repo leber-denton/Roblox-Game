@@ -13,8 +13,10 @@ tags:
 
 ## Connections
 - [[GymService.init()_1]] - `references` [EXTRACTED]
-- [[GymService.luau_2]] - `contains` [EXTRACTED]
+- [[GymService.luau_7]] - `contains` [EXTRACTED]
 - [[GymService.luau_1]] - `references` [EXTRACTED]
+- [[GymService.luau_2]] - `references` [EXTRACTED]
+- [[GymService.luau_4]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 107]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
 - [[placeLeaders()_1]] - `references` [EXTRACTED]

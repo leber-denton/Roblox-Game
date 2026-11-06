@@ -1,18 +1,19 @@
 ---
 source_file: "vault/Graph/myBase()_2.md"
 type: "document"
-community: "Community 347"
-location: "L12"
+community: "Community 98"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_347
+  - community/Community_98
 ---
 
 # myBase()_2.md
 
 ## Connections
-- [[Connections_4029]] - `contains` [EXTRACTED]
-- [[myBase()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 63]] - `references` [EXTRACTED]
+- [[myBase()_6]] - `contains` [EXTRACTED]
+- [[myBase()_1_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_347
+#graphify/document #graphify/EXTRACTED #community/Community_98

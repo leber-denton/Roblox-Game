@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.zRange().md"
+source_file: "vault/Graph/DecorData.zRange()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 2235"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2235
 ---
 
-# DecorData.zRange().md
+# DecorData.zRange()_1.md
 
 ## Connections
-- [[DecorData.inBounds()_1]] - `references` [EXTRACTED]
-- [[DecorData.luau_1]] - `references` [EXTRACTED]
-- [[DecorData.zRange()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
+- [[DecorData.zRange()_3]] - `contains` [EXTRACTED]
+- [[DecorData.zRange()_2_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2235

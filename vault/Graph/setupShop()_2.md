@@ -12,7 +12,7 @@ tags:
 # setupShop()
 
 ## Connections
-- [[Connections_1226]] - `contains` [EXTRACTED]
+- [[Connections_4168]] - `contains` [EXTRACTED]
 - [[setupShop()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_123

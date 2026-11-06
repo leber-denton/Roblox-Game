@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/rebuildBar()_1.md"
+source_file: "vault/Graph/Connections_1671.md"
 type: "document"
-community: "Community 170"
-location: "L14"
+community: "Community 1134"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_170
+  - community/Community_1134
 ---
 
 # Connections
 
 ## Connections
-- [[rebuildBar()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2459]] - `contains` [EXTRACTED]
+- [[Connections_1671_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_170
+#graphify/document #graphify/EXTRACTED #community/Community_1134

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CodeRouteTrainerService.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_41.md"
 type: "document"
-community: "Community 119"
+community: "Community 1034"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_119
+  - community/Community_1034
 ---
 
 # Connections
 
 ## Connections
-- [[CodeRouteTrainerService_1]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_32]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_119
+#graphify/document #graphify/EXTRACTED #community/Community_1034

@@ -13,9 +13,11 @@ tags:
 
 ## Connections
 - [[Functions_52]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 234]] - `references` [EXTRACTED]
-- [[updateStoryPrompts()_3]] - `contains` [EXTRACTED]
+- [[updateStoryPrompts()_1_1]] - `contains` [EXTRACTED]
 - [[updateStoryPrompts()_2]] - `references` [EXTRACTED]
+- [[updateStoryPrompts()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_122

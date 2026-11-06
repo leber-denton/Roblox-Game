@@ -12,7 +12,8 @@ tags:
 # Community 71.md
 
 ## Connections
-- [[Community 71_1]] - `contains` [EXTRACTED]
+- [[Community 71_5]] - `contains` [EXTRACTED]
+- [[Community 71_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 159]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 71]] - `references` [EXTRACTED]
 

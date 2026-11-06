@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_101.md"
+source_file: "vault/Code/PassService.md"
 type: "document"
-community: "Community 1268"
-location: "L12"
+community: "Community 11"
+location: "L16"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1268
+  - community/Community_11
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_1319]] - `contains` [EXTRACTED]
-- [[Functions_101]] - `contains` [EXTRACTED]
+- [[PassService]] - `contains` [EXTRACTED]
+- [[setupProducts()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1268
+#graphify/document #graphify/EXTRACTED #community/Community_11

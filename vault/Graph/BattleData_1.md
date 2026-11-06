@@ -12,8 +12,10 @@ tags:
 # BattleData_1.md
 
 ## Connections
-- [[BattleData_1_1]] - `contains` [EXTRACTED]
-- [[GraphBattleData]] - `references` [EXTRACTED]
+- [[BattleData_1_3]] - `contains` [EXTRACTED]
+- [[BattleData_1_1]] - `references` [EXTRACTED]
+- [[GraphBattleData_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 351]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 51]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_351

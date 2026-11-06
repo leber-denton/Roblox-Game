@@ -12,11 +12,8 @@ tags:
 # play()_1_1.md
 
 ## Connections
-- [[Tutorial.client.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[intro()_1]] - `references` [EXTRACTED]
-- [[play()_1_2]] - `contains` [EXTRACTED]
-- [[play()_3_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 163]] - `references` [EXTRACTED]
+- [[play()_1_3]] - `contains` [EXTRACTED]
+- [[play()_1_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_240

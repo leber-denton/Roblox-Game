@@ -1,24 +1,26 @@
 ---
-source_file: "vault/Graph/onProfessor().md"
+source_file: "vault/Graph/onProfessor()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 1187"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1187
 ---
 
-# onProfessor().md
+# onProfessor()_3.md
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
 - [[NPC.say()_4]] - `references` [EXTRACTED]
 - [[TutorialService.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
-- [[onProfessor()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[onProfessor()_3_1]] - `contains` [EXTRACTED]
+- [[onProfessor()_4]] - `references` [EXTRACTED]
 - [[pickStarter()_4]] - `references` [EXTRACTED]
 - [[profIntro()_3]] - `references` [EXTRACTED]
 - [[setStep()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1187

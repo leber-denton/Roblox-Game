@@ -1,22 +1,35 @@
 ---
 type: community
-members: 9
+members: 22
 ---
 
 # Community 440
 
-**Members:** 9 nodes
+**Members:** 22 nodes
 
 ## Members
-- [[Connections_4268]] - document - vault/Graph/DungeonService_1.md
-- [[Connections_4269]] - document - vault/Graph/GraphDungeonService.md
-- [[Connections_4270]] - document - vault/Graph/Requires_42_1.md
-- [[DungeonService_1_2]] - document - vault/Graph/DungeonService_1.md
-- [[DungeonService_1_3]] - document - vault/Graph/DungeonService_1.md
-- [[GraphDungeonService_1]] - document - vault/Graph/GraphDungeonService.md
-- [[GraphDungeonService_2]] - document - vault/Graph/GraphDungeonService.md
-- [[Requires_42_2]] - document - vault/Graph/Requires_42_1.md
-- [[Requires_42_1_1]] - document - vault/Graph/Requires_42_1.md
+- [[Community 937]] - document - vault/Graph/_COMMUNITY_Community 937.md
+- [[Connections_19386]] - document - vault/Graph/Connections_4267.md
+- [[Connections_19387]] - document - vault/Graph/Connections_4267.md
+- [[Connections_19388]] - document - vault/Graph/Connections_4268.md
+- [[Connections_19389]] - document - vault/Graph/Connections_4268.md
+- [[Connections_19390]] - document - vault/Graph/Connections_6231.md
+- [[Connections_19391]] - document - vault/Graph/Features.finEars()_1_1.md
+- [[Connections_19392]] - document - vault/Graph/Features.finEars()_2_1.md
+- [[Connections_19393]] - document - vault/Graph/Features.finEars()_2_2.md
+- [[Connections_4267_1]] - document - vault/Graph/Connections_4267.md
+- [[Connections_4268_1]] - document - vault/Graph/Connections_4268.md
+- [[Connections_6231_1]] - document - vault/Graph/Connections_6231.md
+- [[Connections_6231_2]] - document - vault/Graph/Connections_6231.md
+- [[Features.finEars()_1_4]] - document - vault/Graph/Features.finEars()_1_1.md
+- [[Features.finEars()_1_1_1]] - document - vault/Graph/Features.finEars()_1_1.md
+- [[Features.finEars()_2_3]] - document - vault/Graph/Features.finEars()_2_1.md
+- [[Features.finEars()_2_4]] - document - vault/Graph/Features.finEars()_2_2.md
+- [[Features.finEars()_2_1_1]] - document - vault/Graph/Features.finEars()_2_1.md
+- [[Features.finEars()_2_2]] - document - vault/Graph/Features.finEars()_2_2.md
+- [[Live Query (requires Dataview plugin)_1527]] - document - vault/Graph/_COMMUNITY_Community 937.md
+- [[Members_1530]] - document - vault/Graph/_COMMUNITY_Community 937.md
+- [[_COMMUNITY_Community 937]] - document - vault/Graph/_COMMUNITY_Community 937.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,11 +39,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 154]]
-- 3 edges to [[_COMMUNITY_Community 494]]
-- 1 edge to [[_COMMUNITY_Community 1263]]
+- 6 edges to [[_COMMUNITY_Community 410]]
+- 3 edges to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 2592]]
+- 1 edge to [[_COMMUNITY_Community 2660]]
+- 1 edge to [[_COMMUNITY_Community 937]]
 
 ## Top bridge nodes
-- [[DungeonService_1_2]] - degree 8, connects to 3 communities
-- [[Requires_42_1_1]] - degree 4, connects to 2 communities
-- [[GraphDungeonService_1]] - degree 3, connects to 1 community
+- [[Features.finEars()_1_1_1]] - degree 7, connects to 4 communities
+- [[Features.finEars()_2_1_1]] - degree 5, connects to 2 communities
+- [[_COMMUNITY_Community 937]] - degree 4, connects to 2 communities
+- [[Connections_6231_1]] - degree 5, connects to 1 community
+- [[Connections_4267_1]] - degree 4, connects to 1 community

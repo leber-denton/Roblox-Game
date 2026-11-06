@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Code/Menus.md"
+source_file: "vault/Graph/CodeMenus.md"
 type: "document"
-community: "Community 13"
+community: "Community 1185"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_1185
 ---
 
-# Code/Menus.md
+# CodeMenus.md
 
 ## Connections
-- [[CodeBattleData_2]] - `references` [EXTRACTED]
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
-- [[CodeCreatureBuilder_2]] - `references` [EXTRACTED]
-- [[CodeGameData_2]] - `references` [EXTRACTED]
-- [[Menus]] - `contains` [EXTRACTED]
+- [[CodeMenus_5]] - `contains` [EXTRACTED]
+- [[CodeMenus_1]] - `references` [EXTRACTED]
+- [[Connections_2206_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1185]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_1185

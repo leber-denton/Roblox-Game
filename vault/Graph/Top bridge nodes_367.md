@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 111.md"
+source_file: "vault/Graph/Top bridge nodes_367.md"
 type: "document"
-community: "Community 868"
-location: "L64"
+community: "Community 1139"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_868
+  - community/Community_1139
 ---
 
-# Top bridge nodes
+# Top bridge nodes_367.md
 
 ## Connections
-- [[Community 111]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_177]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1488]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_868
+#graphify/document #graphify/EXTRACTED #community/Community_1139

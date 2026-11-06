@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.swarm().md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_25.md"
 type: "document"
-community: "Community 1123"
+community: "Community 1020"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1123
+  - community/Community_1020
 ---
 
 # Connections
 
 ## Connections
-- [[commands.swarm()_2]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_18]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1123
+#graphify/document #graphify/EXTRACTED #community/Community_1020

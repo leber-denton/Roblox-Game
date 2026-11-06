@@ -12,11 +12,10 @@ tags:
 # preview()_2.md
 
 ## Connections
-- [[CreatureBuilder.build()_5]] - `references` [EXTRACTED]
-- [[DecorData.build()_1]] - `references` [EXTRACTED]
-- [[itemCard()_1]] - `references` [EXTRACTED]
-- [[new()_7_1]] - `references` [EXTRACTED]
-- [[preview()_6]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.build()_8]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 421]] - `references` [EXTRACTED]
+- [[new()_6_1]] - `references` [EXTRACTED]
+- [[preview()_7]] - `contains` [EXTRACTED]
 - [[showPicker()_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_109

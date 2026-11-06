@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/FirstSpawnLock.md"
+source_file: "vault/Graph/FirstSpawnLock_1.md"
 type: "document"
-community: "Community 35"
-location: "L1"
+community: "Community 1048"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_35
+  - community/Community_1048
 ---
 
 # FirstSpawnLock
 
 ## Connections
-- [[CodeFirstSpawnLock]] - `contains` [EXTRACTED]
-- [[Functions_125]] - `contains` [EXTRACTED]
-- [[Required by_94]] - `contains` [EXTRACTED]
-- [[Requires_116]] - `contains` [EXTRACTED]
+- [[Connections_805]] - `contains` [EXTRACTED]
+- [[FirstSpawnLock_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_35
+#graphify/document #graphify/EXTRACTED #community/Community_1048

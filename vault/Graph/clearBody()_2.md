@@ -12,7 +12,7 @@ tags:
 # clearBody()
 
 ## Connections
-- [[Connections_141]] - `contains` [EXTRACTED]
+- [[Connections_937]] - `contains` [EXTRACTED]
 - [[clearBody()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_106

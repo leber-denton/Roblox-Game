@@ -12,7 +12,8 @@ tags:
 # TrainerAnimations.new()_2.md
 
 ## Connections
-- [[TrainerAnimations.new()_4]] - `contains` [EXTRACTED]
+- [[Connections_5812_1]] - `references` [EXTRACTED]
+- [[TrainerAnimations.new()_6]] - `contains` [EXTRACTED]
 - [[TrainerAnimations.new()_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 143]] - `references` [EXTRACTED]
 

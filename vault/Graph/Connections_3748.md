@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/showTradeHistory()_2.md"
+source_file: "vault/Graph/Connections_2572.md"
 type: "document"
-community: "Community 310"
-location: "L14"
+community: "Community 121"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_310
+  - community/Community_121
 ---
 
 # Connections
 
 ## Connections
-- [[showTradeHistory()_3]] - `contains` [EXTRACTED]
+- [[Connections_3749]] - `contains` [EXTRACTED]
+- [[Connections_2572_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_310
+#graphify/document #graphify/EXTRACTED #community/Community_121

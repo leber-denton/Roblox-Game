@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Graph/BattleUI.md"
+source_file: "vault/Graph/GraphBattleUI_2.md"
 type: "document"
-community: "Community 207"
+community: "Community 120"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_207
+  - community/Community_120
 ---
 
-# Graph/BattleUI.md
+# GraphBattleUI_2.md
 
 ## Connections
-- [[BattleUI]] - `contains` [EXTRACTED]
 - [[BattleUI_2]] - `references` [EXTRACTED]
-- [[Connections_702_1]] - `references` [EXTRACTED]
+- [[GraphBattleUI_2_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 207]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_207
+#graphify/document #graphify/EXTRACTED #community/Community_120

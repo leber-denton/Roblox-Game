@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/commands.juniper()_2.md"
+source_file: "vault/Graph/commands.juniper()_1.md"
 type: "document"
-community: "Community 168"
-location: "L1"
+community: "Community 1188"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1188
 ---
 
-# commands.juniper()_2.md
+# commands.juniper().md
 
 ## Connections
-- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 244]] - `references` [EXTRACTED]
-- [[commands.juniper()_1]] - `references` [EXTRACTED]
-- [[commands.juniper()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_3405]] - `contains` [EXTRACTED]
+- [[commands.juniper()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1188

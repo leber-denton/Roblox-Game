@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[Connections_910_1]] - `references` [EXTRACTED]
-- [[DungeonClient_1_2]] - `contains` [EXTRACTED]
-- [[DungeonClient_1]] - `references` [EXTRACTED]
+- [[DungeonClient_1_2]] - `references` [EXTRACTED]
+- [[DungeonClient_1_1_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 125]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_125

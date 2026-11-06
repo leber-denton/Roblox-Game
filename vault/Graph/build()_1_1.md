@@ -15,7 +15,7 @@ tags:
 - [[ArenaManager.acquire()_1]] - `references` [EXTRACTED]
 - [[ArenaManager.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 44]] - `references` [EXTRACTED]
-- [[build()_2]] - `contains` [EXTRACTED]
+- [[build()_3]] - `contains` [EXTRACTED]
 - [[disc()_1]] - `references` [EXTRACTED]
 - [[part()_3_1]] - `references` [EXTRACTED]
 

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/mkPart()_1.md"
+source_file: "vault/Graph/mkPart()_3.md"
 type: "document"
-community: "Community 189"
-location: "L12"
+community: "Community 250"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_189
+  - community/Community_250
 ---
 
-# mkPart().md
+# mkPart()_3.md
 
 ## Connections
-- [[Connections_2788]] - `contains` [EXTRACTED]
-- [[mkPart()_1_1]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder.build()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 136]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 250]] - `references` [EXTRACTED]
+- [[mkPart()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_189
+#graphify/document #graphify/EXTRACTED #community/Community_250

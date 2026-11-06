@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/commands.newPlayer().md"
+source_file: "vault/Graph/commands.newPlayer()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2117"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2117
 ---
 
-# commands.newPlayer()
+# commands.newPlayer()_4.md
 
 ## Connections
-- [[Connections_5725]] - `contains` [EXTRACTED]
-- [[commands.newPlayer()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[commands.newPlayer()_3]] - `references` [EXTRACTED]
+- [[commands.newPlayer()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2117

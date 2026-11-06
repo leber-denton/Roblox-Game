@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/gen_trade_beach.py_1.md"
+source_file: "vault/Graph/gen_trade_beach.py_1_1.md"
 type: "document"
 community: "Community 411"
 location: "L12"
@@ -12,7 +12,7 @@ tags:
 # gen_trade_beach.py_1.md
 
 ## Connections
-- [[Connections_4196]] - `contains` [EXTRACTED]
+- [[Connections_19079]] - `contains` [EXTRACTED]
 - [[gen_trade_beach.py_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_411

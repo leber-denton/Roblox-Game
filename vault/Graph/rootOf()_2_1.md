@@ -1,20 +1,18 @@
 ---
 source_file: "vault/Graph/rootOf()_2.md"
 type: "document"
-community: "Community 711"
-location: "L1"
+community: "Community 168"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_711
+  - community/Community_168
 ---
 
 # rootOf()_2.md
 
 ## Connections
-- [[Connections_745_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[rootOf()_4]] - `contains` [EXTRACTED]
-- [[rootOf()_1_1]] - `references` [EXTRACTED]
+- [[Connections_9654]] - `contains` [EXTRACTED]
+- [[rootOf()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_711
+#graphify/document #graphify/EXTRACTED #community/Community_168

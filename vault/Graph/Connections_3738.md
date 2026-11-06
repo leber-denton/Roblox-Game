@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/itemInfo()_1.md"
+source_file: "vault/Graph/ColiseumUI.client.luau.md"
 type: "document"
-community: "Community 310"
+community: "Community 121"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_310
+  - community/Community_121
 ---
 
 # Connections
 
 ## Connections
-- [[itemInfo()_1_2]] - `contains` [EXTRACTED]
+- [[ColiseumUI.client.luau_7]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_310
+#graphify/document #graphify/EXTRACTED #community/Community_121

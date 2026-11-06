@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/Bag.md"
+source_file: "vault/Graph/Bag_3.md"
 type: "document"
-community: "Community 20"
-location: "L1"
+community: "Community 1167"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_20
+  - community/Community_1167
 ---
 
 # Bag
 
 ## Connections
-- [[CodeBag]] - `contains` [EXTRACTED]
-- [[Functions_60]] - `contains` [EXTRACTED]
-- [[Required by_54]] - `contains` [EXTRACTED]
-- [[Requires_60]] - `contains` [EXTRACTED]
+- [[Bag_3]] - `contains` [EXTRACTED]
+- [[Connections_2948]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_20
+#graphify/document #graphify/EXTRACTED #community/Community_1167

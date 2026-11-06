@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[LeagueService.init()]] - `calls` [EXTRACTED]
-- [[LeagueService.luau_3]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_7]] - `contains` [EXTRACTED]
 - [[PlayerData.get()]] - `calls` [INFERRED]
 - [[challenge()]] - `calls` [EXTRACTED]
 - [[isChampion()]] - `calls` [EXTRACTED]

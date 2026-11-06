@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/fakePlayerGetAttribute().md"
+source_file: "vault/Graph/Top bridge nodes_146.md"
 type: "document"
-community: "Community 173"
+community: "Community 1139"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_173
+  - community/Community_1139
 ---
 
 # Connections
 
 ## Connections
-- [[fakePlayerGetAttribute()_5]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_176]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_173
+#graphify/document #graphify/EXTRACTED #community/Community_1139

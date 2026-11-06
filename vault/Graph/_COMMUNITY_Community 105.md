@@ -1,33 +1,38 @@
 ---
 type: community
-members: 40
+members: 45
 ---
 
 # Community 105
 
-**Members:** 40 nodes
+**Members:** 45 nodes
 
 ## Members
-- [[Connections_124]] - document - vault/Graph/addRegion().md
-- [[Connections_125]] - document - vault/Graph/consider().md
-- [[Connections_126]] - document - vault/Graph/grey().md
-- [[Connections_127]] - document - vault/Graph/isContent().md
-- [[Connections_128]] - document - vault/Graph/isOther().md
-- [[Connections_129]] - document - vault/Graph/LockedLanes.client.luau_2.md
-- [[Connections_130]] - document - vault/Graph/lockOther().md
-- [[Connections_131]] - document - vault/Graph/lockPart().md
-- [[Connections_132]] - document - vault/Graph/lockRegion().md
-- [[Connections_133]] - document - vault/Graph/positionOf().md
-- [[Connections_134]] - document - vault/Graph/regionAt().md
-- [[Connections_135]] - document - vault/Graph/skipped().md
-- [[Connections_136]] - document - vault/Graph/unlockRegion().md
-- [[LockedLanes.client.luau_2]] - document - vault/Graph/LockedLanes.client.luau_2.md
-- [[LockedLanes.client.luau_2_1]] - document - vault/Graph/LockedLanes.client.luau_2.md
+- [[Community 185]] - document - vault/Graph/_COMMUNITY_Community 185.md
+- [[Connections_810]] - document - vault/Graph/addRegion().md
+- [[Connections_811]] - document - vault/Graph/consider().md
+- [[Connections_812]] - document - vault/Graph/grey().md
+- [[Connections_813]] - document - vault/Graph/isContent().md
+- [[Connections_814]] - document - vault/Graph/isOther().md
+- [[Connections_815]] - document - vault/Graph/LockedLanes.client.luau_5.md
+- [[Connections_816]] - document - vault/Graph/lockOther().md
+- [[Connections_817]] - document - vault/Graph/lockPart().md
+- [[Connections_818]] - document - vault/Graph/lockRegion().md
+- [[Connections_819]] - document - vault/Graph/positionOf().md
+- [[Connections_820]] - document - vault/Graph/regionAt().md
+- [[Connections_821]] - document - vault/Graph/skipped().md
+- [[Connections_822]] - document - vault/Graph/unlockRegion().md
+- [[Connections to other communities_29]] - document - vault/Graph/_COMMUNITY_Community 185.md
+- [[Live Query (requires Dataview plugin)_50]] - document - vault/Graph/_COMMUNITY_Community 185.md
+- [[LockedLanes.client.luau]] - document - vault/Graph/LockedLanes.client.luau_5.md
+- [[LockedLanes.client.luau_5]] - document - vault/Graph/LockedLanes.client.luau_5.md
+- [[Members_54]] - document - vault/Graph/_COMMUNITY_Community 185.md
+- [[Top bridge nodes_29]] - document - vault/Graph/_COMMUNITY_Community 185.md
 - [[_COMMUNITY_Community 185]] - document - vault/Graph/_COMMUNITY_Community 185.md
 - [[addRegion()_2]] - document - vault/Graph/addRegion().md
 - [[addRegion()_1]] - document - vault/Graph/addRegion().md
+- [[consider()_5]] - document - vault/Graph/consider().md
 - [[consider()_2]] - document - vault/Graph/consider().md
-- [[consider()_1]] - document - vault/Graph/consider().md
 - [[grey()_2]] - document - vault/Graph/grey().md
 - [[grey()_1]] - document - vault/Graph/grey().md
 - [[isContent()_2]] - document - vault/Graph/isContent().md
@@ -57,17 +62,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 12 edges to [[_COMMUNITY_Community 471]]
-- 4 edges to [[_COMMUNITY_Community 542]]
-- 4 edges to [[_COMMUNITY_Community 536]]
-- 2 edges to [[_COMMUNITY_Community 628]]
-- 2 edges to [[_COMMUNITY_Community 631]]
-- 2 edges to [[_COMMUNITY_Community 680]]
-- 1 edge to [[_COMMUNITY_Community 702]]
-- 1 edge to [[_COMMUNITY_Community 177]]
-- 1 edge to [[_COMMUNITY_Community 896]]
-- 1 edge to [[_COMMUNITY_Community 345]]
+- 8 edges to [[_COMMUNITY_Community 471]]
+- 8 edges to [[_COMMUNITY_Community 459]]
+- 3 edges to [[_COMMUNITY_Community 3031]]
+- 1 edge to [[_COMMUNITY_Community 101]]
+- 1 edge to [[_COMMUNITY_Community 1034]]
+- 1 edge to [[_COMMUNITY_Community 1162]]
+- 1 edge to [[_COMMUNITY_Community 1731]]
+- 1 edge to [[_COMMUNITY_Community 441]]
+- 1 edge to [[_COMMUNITY_Community 1700]]
 
 ## Top bridge nodes
-- [[LockedLanes.client.luau_2]] - degree 29, connects to 8 communities
-- [[_COMMUNITY_Community 185]] - degree 28, connects to 8 communities
+- [[_COMMUNITY_Community 185]] - degree 39, connects to 9 communities

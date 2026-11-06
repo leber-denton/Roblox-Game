@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/shared_waitforchild_2.md"
+source_file: "vault/Graph/StoryService.chat()_2.md"
 type: "document"
-community: "Community 240"
+community: "Community 1188"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1188
 ---
 
 # Connections
 
 ## Connections
-- [[shared_waitforchild_2_1]] - `contains` [EXTRACTED]
+- [[StoryService.chat()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1188

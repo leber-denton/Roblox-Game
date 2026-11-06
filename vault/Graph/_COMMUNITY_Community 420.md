@@ -8,22 +8,22 @@ members: 16
 **Members:** 16 nodes
 
 ## Members
-- [[CreatureIndex_4]] - document - vault/Code/CreatureIndex.md
-- [[CreatureIndex.client.luau_5]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[Functions_136]] - document - vault/Code/CreatureIndex.md
-- [[Required by_125]] - document - vault/Code/CreatureIndex.md
-- [[Requires_132]] - document - vault/Code/CreatureIndex.md
+- [[CreatureIndex_3]] - document - vault/Code/CreatureIndex.md
+- [[CreatureIndex.client.luau_8]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
+- [[Functions_213]] - document - vault/Code/CreatureIndex.md
+- [[Required by_209]] - document - vault/Code/CreatureIndex.md
+- [[Requires_210]] - document - vault/Code/CreatureIndex.md
 - [[clearBody()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
 - [[getIndex()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[label()_3]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[new()_6]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
+- [[label()_2]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
+- [[new()_5]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
 - [[preview()_1]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
 - [[round()_3]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
 - [[setOpen()_1]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
 - [[showDetail()_1]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
 - [[showGrid()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
 - [[typeChips()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
-- [[updateVisible()_3]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
+- [[updateVisible()_2]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau
 
 ## Live Query (requires Dataview plugin)
 
@@ -38,6 +38,6 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 418]]
 
 ## Top bridge nodes
-- [[CreatureIndex.client.luau_5]] - degree 12, connects to 1 community
+- [[CreatureIndex.client.luau_8]] - degree 12, connects to 1 community
 - [[preview()_1]] - degree 5, connects to 1 community
-- [[CreatureIndex_4]] - degree 4, connects to 1 community
+- [[CreatureIndex_3]] - degree 4, connects to 1 community

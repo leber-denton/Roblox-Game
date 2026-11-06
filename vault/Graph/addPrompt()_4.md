@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/addPrompt()_2.md"
+source_file: "vault/Graph/addPrompt()_4.md"
 type: "document"
-community: "Community 433"
-location: "L12"
+community: "Community 149"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_433
+  - community/Community_149
 ---
 
-# addPrompt()
+# addPrompt()_4.md
 
 ## Connections
-- [[Connections_4260]] - `contains` [EXTRACTED]
-- [[addPrompt()_2]] - `contains` [EXTRACTED]
+- [[Connections_4260_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1145]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 433]] - `references` [EXTRACTED]
+- [[addPrompt()_2]] - `references` [EXTRACTED]
+- [[addPrompt()_4_1]] - `contains` [EXTRACTED]
+- [[addPrompt()_6]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_433
+#graphify/document #graphify/EXTRACTED #community/Community_149

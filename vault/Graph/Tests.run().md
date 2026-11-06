@@ -12,7 +12,7 @@ tags:
 # Tests.run()
 
 ## Connections
-- [[ModelSyncTests.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSyncTests.luau_8]] - `contains` [EXTRACTED]
 - [[check()_2]] - `calls` [INFERRED]
 - [[near()]] - `calls` [EXTRACTED]
 - [[sameCF()]] - `calls` [EXTRACTED]

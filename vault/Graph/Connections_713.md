@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Connections_713.md"
+source_file: "vault/Graph/Connections_615.md"
 type: "document"
-community: "Community 1084"
-location: "L1"
+community: "Community 1042"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1084
+  - community/Community_1042
 ---
 
-# Connections_713.md
+# Connections
 
 ## Connections
-- [[Connections_196]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[game_getservice]] - `references` [EXTRACTED]
+- [[Connections_714]] - `contains` [EXTRACTED]
+- [[Connections_615_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1084
+#graphify/document #graphify/EXTRACTED #community/Community_1042

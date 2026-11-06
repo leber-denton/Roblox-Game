@@ -12,12 +12,13 @@ tags:
 # NPCLife_1.md
 
 ## Connections
-- [[Functions_37_1]] - `references` [EXTRACTED]
+- [[Functions_37_1_1]] - `references` [EXTRACTED]
 - [[GraphNPCLife]] - `references` [EXTRACTED]
-- [[NPCLife_1_1]] - `contains` [EXTRACTED]
+- [[NPCLife_1_4]] - `contains` [EXTRACTED]
+- [[NPCLife_1_1]] - `references` [EXTRACTED]
 - [[NPCLife_1_1_1]] - `references` [EXTRACTED]
-- [[Required by_37_1]] - `references` [EXTRACTED]
-- [[Requires_37_1]] - `references` [EXTRACTED]
+- [[Required by_37_1_1]] - `references` [EXTRACTED]
+- [[Requires_37_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 131]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 58]] - `references` [EXTRACTED]
 

@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_5497]] - document - vault/Graph/Connections_862.md
-- [[Connections_5498]] - document - vault/Graph/Connections_862.md
-- [[Connections_5499]] - document - vault/Graph/script_parent_weeklyeventservice.md
-- [[Connections_862_1]] - document - vault/Graph/Connections_862.md
-- [[script_parent_weeklyeventservice_4]] - document - vault/Graph/script_parent_weeklyeventservice.md
-- [[script_parent_weeklyeventservice_3]] - document - vault/Graph/script_parent_weeklyeventservice.md
+- [[Connections_22962]] - document - vault/Graph/Connections_638_1.md
+- [[Connections_22963]] - document - vault/Graph/Connections_639_1.md
+- [[Connections_638_2]] - document - vault/Graph/Connections_638_1.md
+- [[Connections_638_1_1]] - document - vault/Graph/Connections_638_1.md
+- [[Connections_639_2]] - document - vault/Graph/Connections_639_1.md
+- [[Connections_639_1_1]] - document - vault/Graph/Connections_639_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +23,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 97]]
+- 2 edges to [[_COMMUNITY_Community 1775]]
+- 1 edge to [[_COMMUNITY_Community 1197]]
+- 1 edge to [[_COMMUNITY_Community 2051]]
+- 1 edge to [[_COMMUNITY_Community 2059]]
 
 ## Top bridge nodes
-- [[script_parent_weeklyeventservice_3]] - degree 4, connects to 1 community
-- [[Connections_862_1]] - degree 3, connects to 1 community
+- [[Connections_638_1_1]] - degree 5, connects to 3 communities
+- [[Connections_639_1_1]] - degree 4, connects to 2 communities

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Steps_2.md"
+source_file: "vault/Graph/streamTo()_4.md"
 type: "document"
-community: "Community 973"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_973
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Steps_2_2]] - `contains` [EXTRACTED]
+- [[streamTo()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_973
+#graphify/document #graphify/EXTRACTED #community/Community_134

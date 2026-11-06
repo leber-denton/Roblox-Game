@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/NpcGuard_1_1.md"
+source_file: "vault/Graph/NpcGuard_1_2.md"
 type: "document"
-community: "Community 231"
-location: "L1"
+community: "Community 2036"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_231
+  - community/Community_2036
 ---
 
-# NpcGuard_1_1.md
+# NpcGuard_1.md
 
 ## Connections
-- [[Functions_24_1_1]] - `references` [EXTRACTED]
-- [[GraphNpcGuard]] - `references` [EXTRACTED]
-- [[NpcGuard_1]] - `contains` [EXTRACTED]
-- [[Required by_24_1]] - `references` [EXTRACTED]
-- [[Requires_24_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 38]] - `references` [EXTRACTED]
+- [[Connections_12120]] - `contains` [EXTRACTED]
+- [[NpcGuard_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_231
+#graphify/document #graphify/EXTRACTED #community/Community_2036

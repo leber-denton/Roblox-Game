@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_54.md"
+source_file: "vault/Code/WildSpawner.md"
 type: "document"
-community: "Community 188"
-location: "L1"
+community: "Community 13"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_188
+  - community/Community_13
 ---
 
-# Requires_54.md
+# Requires
 
 ## Connections
-- [[Requires_22_3]] - `references` [EXTRACTED]
-- [[Requires_3_1]] - `references` [EXTRACTED]
-- [[Requires_54_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 188]] - `references` [EXTRACTED]
+- [[WildSpawner_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_188
+#graphify/document #graphify/EXTRACTED #community/Community_13

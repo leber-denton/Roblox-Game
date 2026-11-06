@@ -1,24 +1,20 @@
 ---
-source_file: "vault/Graph/refresh().md"
+source_file: "vault/Graph/refresh()_6.md"
 type: "document"
-community: "Community 203"
+community: "Community 1032"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_1032
 ---
 
-# refresh().md
+# refresh()_6.md
 
 ## Connections
-- [[Bag.client.luau_1]] - `references` [EXTRACTED]
-- [[GameData.itemSummary()_1]] - `references` [EXTRACTED]
-- [[Menus.client.luau]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
-- [[clear()_1]] - `references` [EXTRACTED]
-- [[inventory()_3]] - `references` [EXTRACTED]
-- [[new()_1_2]] - `references` [EXTRACTED]
-- [[refresh()_8]] - `contains` [EXTRACTED]
+- [[Connections_6385]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
+- [[refresh()_5]] - `contains` [EXTRACTED]
+- [[refresh()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_1032

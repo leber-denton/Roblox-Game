@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.getBase()_2.md"
+source_file: "vault/Graph/BaseManager.getBase()_4.md"
 type: "document"
-community: "Community 199"
-location: "L1"
+community: "Community 2084"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_199
+  - community/Community_2084
 ---
 
-# BaseManager.getBase()_2.md
+# BaseManager.getBase()
 
 ## Connections
-- [[BaseManager.getBase()_1]] - `references` [EXTRACTED]
-- [[BaseManager.getBase()_2_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 176]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 199]] - `references` [EXTRACTED]
+- [[BaseManager.getBase()_4]] - `contains` [EXTRACTED]
+- [[Connections_12330]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_199
+#graphify/document #graphify/EXTRACTED #community/Community_2084

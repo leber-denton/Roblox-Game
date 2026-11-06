@@ -1,17 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Music.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Bag.client.luau"
 type: "code"
-community: "Community 1"
-location: "L183"
+community: "Community 20"
+location: "L371"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Community_20
 ---
 
 # updateVisible()
 
 ## Connections
-- [[Music.client.luau]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_7]] - `contains` [EXTRACTED]
+- [[setOpen()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_1
+#graphify/code #graphify/EXTRACTED #community/Community_20

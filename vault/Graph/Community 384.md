@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 384.md"
+source_file: "vault/Graph/Community 384.md"
 type: "document"
-community: "Community 31"
-location: "L6"
+community: "Community 3127"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_31
+  - community/Community_3127
 ---
 
-# Community 384
+# Community 384.md
 
 ## Connections
-- [[Connections to other communities_242]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_275]] - `contains` [EXTRACTED]
-- [[Members_279]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_248]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 384]] - `contains` [EXTRACTED]
+- [[Community 384_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 31]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 384]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_31
+#graphify/document #graphify/EXTRACTED #community/Community_3127

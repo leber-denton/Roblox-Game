@@ -12,7 +12,8 @@ tags:
 # otherOf()_1.md
 
 ## Connections
-- [[Connections_443]] - `references` [EXTRACTED]
-- [[otherOf()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1166]] - `references` [EXTRACTED]
+- [[otherOf()_1_1]] - `contains` [EXTRACTED]
+- [[otherOf()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1166

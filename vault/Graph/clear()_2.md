@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/clear().md"
+source_file: "vault/Graph/clear()_2.md"
 type: "document"
-community: "Community 203"
-location: "L12"
+community: "Community 226"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_226
 ---
 
-# clear()
+# clear()_2.md
 
 ## Connections
-- [[Connections_2968]] - `contains` [EXTRACTED]
-- [[clear()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 203]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 224]] - `references` [EXTRACTED]
+- [[clear()_1]] - `references` [EXTRACTED]
+- [[clear()_2_1]] - `contains` [EXTRACTED]
+- [[clear()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_226

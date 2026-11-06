@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Reading code_2.md"
+source_file: "vault/Graph/Reading code_2_1.md"
 type: "document"
-community: "Community 593"
-location: "L12"
+community: "Community 597"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_593
+  - community/Community_597
 ---
 
-# Reading code_2.md
+# Reading code_2_1.md
 
 ## Connections
-- [[Connections_4747]] - `contains` [EXTRACTED]
-- [[Reading code_2]] - `contains` [EXTRACTED]
+- [[Reading code_2_2]] - `contains` [EXTRACTED]
+- [[Reading code_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 593]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_593
+#graphify/document #graphify/EXTRACTED #community/Community_597

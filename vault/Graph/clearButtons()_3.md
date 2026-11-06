@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/clearButtons().md"
+source_file: "vault/Graph/clearButtons()_1.md"
 type: "document"
-community: "Community 120"
-location: "L1"
+community: "Community 138"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_120
+  - community/Community_138
 ---
 
 # clearButtons().md
 
 ## Connections
-- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
-- [[act()_1]] - `references` [EXTRACTED]
-- [[clearButtons()_4]] - `contains` [EXTRACTED]
-- [[handle()_1]] - `references` [EXTRACTED]
-- [[showMenu()_1]] - `references` [EXTRACTED]
+- [[Connections_6749]] - `contains` [EXTRACTED]
+- [[clearButtons()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_120
+#graphify/document #graphify/EXTRACTED #community/Community_138

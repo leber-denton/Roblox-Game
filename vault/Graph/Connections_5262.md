@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/DecorService.onLoaded()_2.md"
+source_file: "vault/Graph/Connections_5262.md"
 type: "document"
-community: "Community 75"
-location: "L14"
+community: "Community 1170"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_75
+  - community/Community_1170
 ---
 
-# Connections
+# Connections_5262.md
 
 ## Connections
-- [[DecorService.onLoaded()_4]] - `contains` [EXTRACTED]
+- [[Community 7_1]] - `references` [EXTRACTED]
+- [[Connections_2982]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_75
+#graphify/document #graphify/EXTRACTED #community/Community_1170

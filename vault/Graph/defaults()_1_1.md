@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/defaults()_1_1.md"
+source_file: "vault/Graph/defaults()_1_2.md"
 type: "document"
-community: "Community 168"
-location: "L1"
+community: "Community 1187"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1187
 ---
 
-# defaults()_1_1.md
+# defaults()_1.md
 
 ## Connections
-- [[PlayerData.init()_1]] - `references` [EXTRACTED]
-- [[PlayerData.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 171]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 21]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 49]] - `references` [EXTRACTED]
-- [[defaults()_1_1_1]] - `contains` [EXTRACTED]
+- [[Connections_3337]] - `contains` [EXTRACTED]
+- [[defaults()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1187

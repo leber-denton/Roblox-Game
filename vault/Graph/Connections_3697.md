@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleFX.md"
+source_file: "vault/Graph/Connections_2548.md"
 type: "document"
-community: "Community 303"
+community: "Community 1208"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_303
+  - community/Community_1208
 ---
 
 # Connections
 
 ## Connections
-- [[BattleFX]] - `contains` [EXTRACTED]
+- [[Connections_3696]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_303
+#graphify/document #graphify/EXTRACTED #community/Community_1208

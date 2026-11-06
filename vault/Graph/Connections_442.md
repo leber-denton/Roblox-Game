@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_442.md"
+source_file: "vault/Graph/HUD.client.luau_1.md"
 type: "document"
-community: "Community 1165"
-location: "L1"
+community: "Community 103"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1165
+  - community/Community_103
 ---
 
-# Connections_442.md
+# Connections
 
 ## Connections
-- [[Connections_417]] - `contains` [EXTRACTED]
-- [[openTrade()_1]] - `references` [EXTRACTED]
+- [[HUD.client.luau]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1165
+#graphify/document #graphify/EXTRACTED #community/Community_103

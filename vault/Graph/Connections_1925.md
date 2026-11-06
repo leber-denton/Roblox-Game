@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/setupArenaFixtures()_1.md"
+source_file: "vault/Graph/Connections_1415.md"
 type: "document"
-community: "Community 1464"
-location: "L14"
+community: "Community 111"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1464
+  - community/Community_111
 ---
 
 # Connections
 
 ## Connections
-- [[setupArenaFixtures()_1]] - `contains` [EXTRACTED]
+- [[Connections_1926]] - `contains` [EXTRACTED]
+- [[Connections_1415_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1464
+#graphify/document #graphify/EXTRACTED #community/Community_111

@@ -12,12 +12,12 @@ tags:
 # ballIcon().md
 
 ## Connections
-- [[Bag.client.luau_1]] - `references` [EXTRACTED]
+- [[Bag.client.luau_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
 - [[ballIcon()_2]] - `contains` [EXTRACTED]
-- [[label()_1_2]] - `references` [EXTRACTED]
-- [[new()_4_1]] - `references` [EXTRACTED]
-- [[refresh()_1_1]] - `references` [EXTRACTED]
-- [[showDetail()_1_1]] - `references` [EXTRACTED]
+- [[label()_15]] - `references` [EXTRACTED]
+- [[new()_1_2]] - `references` [EXTRACTED]
+- [[refresh()_7]] - `references` [EXTRACTED]
+- [[showDetail()_8]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_203

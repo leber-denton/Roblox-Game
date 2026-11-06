@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/fixture().md"
+source_file: "vault/Graph/fixture()_5.md"
 type: "document"
-community: "Community 9"
-location: "L12"
+community: "Community 412"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_412
 ---
 
-# fixture()
+# fixture()_5.md
 
 ## Connections
-- [[Connections_6001]] - `contains` [EXTRACTED]
-- [[fixture()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 412]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
+- [[fixture()_3]] - `references` [EXTRACTED]
+- [[fixture()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_412

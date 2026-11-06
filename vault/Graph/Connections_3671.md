@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_513.md"
+source_file: "vault/Graph/setCardHP().md"
 type: "document"
-community: "Community 296"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_296
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_513_2]] - `contains` [EXTRACTED]
+- [[setCardHP()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_296
+#graphify/document #graphify/EXTRACTED #community/Community_120

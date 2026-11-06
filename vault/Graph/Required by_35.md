@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_86.md"
+source_file: "vault/Code/BattleService.md"
 type: "document"
-community: "Community 161"
-location: "L12"
+community: "Community 13"
+location: "L13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_161
+  - community/Community_13
 ---
 
 # Required by
 
 ## Connections
-- [[Connections_2146]] - `contains` [EXTRACTED]
-- [[Required by_86]] - `contains` [EXTRACTED]
+- [[BattleService_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_161
+#graphify/document #graphify/EXTRACTED #community/Community_13

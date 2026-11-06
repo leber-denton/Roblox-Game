@@ -12,8 +12,9 @@ tags:
 # busy().md
 
 ## Connections
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[available()_4]] - `references` [EXTRACTED]
+- [[available()_1]] - `references` [EXTRACTED]
 - [[busy()_2]] - `contains` [EXTRACTED]
 - [[setupPortals()_1]] - `references` [EXTRACTED]
 

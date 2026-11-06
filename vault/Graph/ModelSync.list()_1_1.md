@@ -1,22 +1,17 @@
 ---
-source_file: "vault/Graph/ModelSync.list()_1.md"
+source_file: "vault/Graph/ModelSync.list()_1_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 3061"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_3061
 ---
 
-# ModelSync.list()_1.md
+# ModelSync.list()_1_1.md
 
 ## Connections
-- [[ModelSync.list()_3]] - `contains` [EXTRACTED]
-- [[ModelSync.list()_2_1]] - `references` [EXTRACTED]
-- [[ModelSync.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[showcaseModels()_1_1]] - `references` [EXTRACTED]
+- [[ModelSync.list()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_3061

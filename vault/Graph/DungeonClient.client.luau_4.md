@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/DungeonClient.client.luau.md"
+source_file: "vault/Graph/DungeonClient.client.luau_2.md"
 type: "document"
-community: "Community 476"
+community: "Community 178"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_476
+  - community/Community_178
 ---
 
-# DungeonClient.client.luau
+# DungeonClient.client.luau.md
 
 ## Connections
-- [[Connections_4372]] - `contains` [EXTRACTED]
-- [[DungeonClient.client.luau_3]] - `contains` [EXTRACTED]
+- [[Connections_10408]] - `contains` [EXTRACTED]
+- [[DungeonClient.client.luau_2_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_476
+#graphify/document #graphify/EXTRACTED #community/Community_178

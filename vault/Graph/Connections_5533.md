@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/StoryService.requestMilestone()_2.md"
+source_file: "vault/Graph/Connections_5533.md"
 type: "document"
-community: "Community 826"
-location: "L14"
+community: "Community 1051"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_826
+  - community/Community_1051
 ---
 
-# Connections
+# Connections_5533.md
 
 ## Connections
-- [[StoryService.requestMilestone()_4]] - `contains` [EXTRACTED]
+- [[Connections_5533_1]] - `contains` [EXTRACTED]
+- [[Connections_840_1]] - `references` [EXTRACTED]
+- [[StoryService.requestMilestone()_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1051]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 826]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_826
+#graphify/document #graphify/EXTRACTED #community/Community_1051

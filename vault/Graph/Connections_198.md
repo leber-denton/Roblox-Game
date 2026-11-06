@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/game_getservice_2.md"
+source_file: "vault/Graph/Top bridge nodes_11.md"
 type: "document"
-community: "Community 1084"
+community: "Community 1010"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1084
+  - community/Community_1010
 ---
 
 # Connections
 
 ## Connections
-- [[game_getservice_2_1]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_10]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1084
+#graphify/document #graphify/EXTRACTED #community/Community_1010

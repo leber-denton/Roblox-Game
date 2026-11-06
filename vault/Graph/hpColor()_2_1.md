@@ -1,21 +1,22 @@
 ---
 source_file: "vault/Graph/hpColor()_2.md"
 type: "document"
-community: "Community 523"
+community: "Community 138"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_523
+  - community/Community_138
 ---
 
 # hpColor()_2.md
 
 ## Connections
-- [[Connections_509_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 101]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
-- [[hpColor()_1]] - `references` [EXTRACTED]
-- [[hpColor()_2_2]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
+- [[hpColor()_4]] - `contains` [EXTRACTED]
+- [[hpColor()_3]] - `references` [EXTRACTED]
+- [[setCardHP()_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_523
+#graphify/document #graphify/EXTRACTED #community/Community_138

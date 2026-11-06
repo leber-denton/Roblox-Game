@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/StoryService.chat()_1.md"
+source_file: "vault/Graph/Connections_1646.md"
 type: "document"
-community: "Community 168"
-location: "L14"
+community: "Community 1131"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1131
 ---
 
 # Connections
 
 ## Connections
-- [[StoryService.chat()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2426]] - `contains` [EXTRACTED]
+- [[Connections_1646_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1131

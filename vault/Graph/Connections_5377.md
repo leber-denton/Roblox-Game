@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_38.md"
+source_file: "vault/Graph/CodeNPCLife.md"
 type: "document"
-community: "Community 782"
-location: "L12"
+community: "Community 131"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_782
+  - community/Community_131
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_5378]] - `contains` [EXTRACTED]
-- [[Connections_38_1]] - `contains` [EXTRACTED]
+- [[CodeNPCLife_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_782
+#graphify/document #graphify/EXTRACTED #community/Community_131

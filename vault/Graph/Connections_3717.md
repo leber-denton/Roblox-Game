@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/check()_3.md"
+source_file: "vault/Graph/GraphGymService_1.md"
 type: "document"
-community: "Community 309"
+community: "Community 1208"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_309
+  - community/Community_1208
 ---
 
 # Connections
 
 ## Connections
-- [[check()_5]] - `contains` [EXTRACTED]
+- [[GraphGymService_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_309
+#graphify/document #graphify/EXTRACTED #community/Community_1208

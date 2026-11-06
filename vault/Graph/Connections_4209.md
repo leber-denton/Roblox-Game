@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/near()_1.md"
+source_file: "vault/Graph/Connections_2998.md"
 type: "document"
-community: "Community 414"
-location: "L14"
+community: "Community 1235"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_414
+  - community/Community_1235
 ---
 
 # Connections
 
 ## Connections
-- [[near()_4]] - `contains` [EXTRACTED]
+- [[Connections_4214]] - `contains` [EXTRACTED]
+- [[Connections_2998_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_414
+#graphify/document #graphify/EXTRACTED #community/Community_1235

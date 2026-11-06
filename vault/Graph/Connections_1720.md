@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CodeSprint.md"
+source_file: "vault/Graph/Connections_182.md"
 type: "document"
-community: "Community 1393"
+community: "Community 110"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1393
+  - community/Community_110
 ---
 
 # Connections
 
 ## Connections
-- [[CodeSprint]] - `contains` [EXTRACTED]
+- [[Connections_1719]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1393
+#graphify/document #graphify/EXTRACTED #community/Community_110

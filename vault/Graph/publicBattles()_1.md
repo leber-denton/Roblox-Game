@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/publicBattles()_1.md"
+source_file: "vault/Graph/publicBattles().md"
 type: "document"
-community: "Community 1441"
-location: "L12"
+community: "Community 123"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1441
+  - community/Community_123
 ---
 
 # publicBattles().md
 
 ## Connections
-- [[Connections_1825]] - `contains` [EXTRACTED]
-- [[publicBattles()_1_1]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
+- [[publicBattles()_2]] - `contains` [EXTRACTED]
+- [[setupActivities()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1441
+#graphify/document #graphify/EXTRACTED #community/Community_123

@@ -1,33 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.luau.md"
+source_file: "vault/Graph/DecorData.luau_1_2.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 1473"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1473
 ---
 
-# DecorData.luau.md
+# DecorData.luau_1.md
 
 ## Connections
-- [[DecorData.boxOdds()_1]] - `references` [EXTRACTED]
-- [[DecorData.build()_1]] - `references` [EXTRACTED]
-- [[DecorData.dailyShop()_3]] - `references` [EXTRACTED]
-- [[DecorData.describe()_1]] - `references` [EXTRACTED]
-- [[DecorData.footprint()_1]] - `references` [EXTRACTED]
-- [[DecorData.inBounds()_1]] - `references` [EXTRACTED]
-- [[DecorData.luau_2]] - `contains` [EXTRACTED]
-- [[DecorData.side()_1]] - `references` [EXTRACTED]
-- [[DecorData.snap()_3]] - `references` [EXTRACTED]
-- [[DecorData.toLocal()_1]] - `references` [EXTRACTED]
-- [[DecorData.toWorld()_1]] - `references` [EXTRACTED]
-- [[DecorData.today()_3]] - `references` [EXTRACTED]
-- [[DecorData.zRange()_1]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[addEffect()_1]] - `references` [EXTRACTED]
-- [[rgb()_1]] - `references` [EXTRACTED]
+- [[Connections_7844]] - `contains` [EXTRACTED]
+- [[DecorData.luau_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1473

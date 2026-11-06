@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/showcaseArea().md"
 type: "document"
-community: "Community 112"
+community: "Community 117"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_112
+  - community/Community_117
 ---
 
 # showcaseArea().md
@@ -18,4 +18,4 @@ tags:
 - [[showcaseArea()_2]] - `contains` [EXTRACTED]
 - [[showcaseModels()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_112
+#graphify/document #graphify/EXTRACTED #community/Community_117

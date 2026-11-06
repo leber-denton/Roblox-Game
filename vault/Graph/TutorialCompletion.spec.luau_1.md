@@ -1,21 +1,20 @@
 ---
 source_file: "vault/Graph/TutorialCompletion.spec.luau_1.md"
 type: "document"
-community: "Community 173"
+community: "Community 283"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_173
+  - community/Community_283
 ---
 
 # TutorialCompletion.spec.luau_1.md
 
 ## Connections
+- [[Connections_6220_1]] - `references` [EXTRACTED]
 - [[TutorialCompletion.spec.luau_3]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 62]] - `references` [EXTRACTED]
-- [[fakeNew()_3]] - `references` [EXTRACTED]
-- [[fakePlayerGetAttribute()_4]] - `references` [EXTRACTED]
-- [[fakePlayerGetAttributeChangedSignal()_4]] - `references` [EXTRACTED]
+- [[TutorialCompletion.spec.luau]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1481]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_173
+#graphify/document #graphify/EXTRACTED #community/Community_283

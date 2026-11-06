@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/setModelHidden().md"
 type: "document"
-community: "Community 23"
+community: "Community 63"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_23
+  - community/Community_63
 ---
 
 # setModelHidden().md
@@ -17,4 +17,4 @@ tags:
 - [[startPlacing()_3]] - `references` [EXTRACTED]
 - [[stopBuild()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_23
+#graphify/document #graphify/EXTRACTED #community/Community_63

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Features.flameTail()_2.md"
+source_file: "vault/Graph/Features.flameTail().md"
 type: "document"
-community: "Community 699"
+community: "Community 3535"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_699
+  - community/Community_3535
 ---
 
 # Features.flameTail()
 
 ## Connections
-- [[Connections_5091]] - `contains` [EXTRACTED]
-- [[Features.flameTail()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_17912]] - `contains` [EXTRACTED]
+- [[Features.flameTail()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_699
+#graphify/document #graphify/EXTRACTED #community/Community_3535

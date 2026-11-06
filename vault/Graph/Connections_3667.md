@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_36.md"
+source_file: "vault/Graph/resolveModels().md"
 type: "document"
-community: "Community 296"
-location: "L12"
+community: "Community 120"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_296
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_3668]] - `contains` [EXTRACTED]
-- [[Connections_36_1]] - `contains` [EXTRACTED]
+- [[resolveModels()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_296
+#graphify/document #graphify/EXTRACTED #community/Community_120

@@ -12,10 +12,10 @@ tags:
 # ArenaManager_2.md
 
 ## Connections
-- [[ArenaManager_2_1]] - `contains` [EXTRACTED]
+- [[ArenaManager_2_3]] - `contains` [EXTRACTED]
+- [[ArenaManager_2_1]] - `references` [EXTRACTED]
 - [[CodeArenaManager]] - `references` [EXTRACTED]
 - [[Functions_95]] - `references` [EXTRACTED]
-- [[GraphArenaManager]] - `references` [EXTRACTED]
 - [[Required by_92]] - `references` [EXTRACTED]
 - [[Requires_93]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 118]] - `references` [EXTRACTED]

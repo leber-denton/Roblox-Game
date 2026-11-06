@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Community 568
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Community 309]] - document - vault/Graph/_COMMUNITY_Community 309.md
-- [[Connections to other communities_348]] - document - vault/Graph/_COMMUNITY_Community 309.md
-- [[Live Query (requires Dataview plugin)_387]] - document - vault/Graph/_COMMUNITY_Community 309.md
-- [[Members_389]] - document - vault/Graph/_COMMUNITY_Community 309.md
-- [[Top bridge nodes_349]] - document - vault/Graph/_COMMUNITY_Community 309.md
-- [[_COMMUNITY_Community 309]] - document - vault/Graph/_COMMUNITY_Community 309.md
+- [[Community 309_2]] - document - vault/Graph/_COMMUNITY_Community 309.md
+- [[Connections to other communities_1401]] - document - vault/Graph/_COMMUNITY_Community 309.md
+- [[Live Query (requires Dataview plugin)_1645]] - document - vault/Graph/_COMMUNITY_Community 309.md
+- [[Members_1646]] - document - vault/Graph/_COMMUNITY_Community 309.md
+- [[Top bridge nodes_1399]] - document - vault/Graph/_COMMUNITY_Community 309.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 26]]
-- 1 edge to [[_COMMUNITY_Community 309]]
+- 1 edge to [[_COMMUNITY_Community 413]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 309]] - degree 3, connects to 2 communities
+- [[Community 309_2]] - degree 5, connects to 1 community

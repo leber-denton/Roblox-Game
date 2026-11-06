@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/refreshActiveLanes()_1.md"
+source_file: "vault/Graph/setStages().md"
 type: "document"
-community: "Community 298"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_298
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[refreshActiveLanes()_1_1]] - `contains` [EXTRACTED]
+- [[setStages()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_298
+#graphify/document #graphify/EXTRACTED #community/Community_120

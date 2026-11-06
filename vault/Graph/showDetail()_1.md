@@ -12,11 +12,11 @@ tags:
 # showDetail()
 
 ## Connections
-- [[CreatureIndex.client.luau_5]] - `contains` [EXTRACTED]
+- [[CreatureIndex.client.luau_8]] - `contains` [EXTRACTED]
 - [[clearBody()]] - `calls` [EXTRACTED]
 - [[getIndex()]] - `calls` [EXTRACTED]
-- [[label()_3]] - `calls` [EXTRACTED]
-- [[new()_6]] - `calls` [EXTRACTED]
+- [[label()_2]] - `calls` [EXTRACTED]
+- [[new()_5]] - `calls` [EXTRACTED]
 - [[preview()_1]] - `calls` [EXTRACTED]
 - [[showGrid()]] - `calls` [EXTRACTED]
 - [[typeChips()]] - `calls` [EXTRACTED]

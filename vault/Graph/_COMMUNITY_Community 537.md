@@ -1,19 +1,22 @@
 ---
 type: community
-members: 6
+members: 9
 ---
 
 # Community 537
 
-**Members:** 6 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_4602]] - document - vault/Graph/available()_2.md
-- [[Connections_4603]] - document - vault/Graph/Connections_840.md
-- [[Connections_4604]] - document - vault/Graph/Connections_840.md
-- [[Connections_840_1]] - document - vault/Graph/Connections_840.md
-- [[available()_3]] - document - vault/Graph/available()_2.md
-- [[available()_2]] - document - vault/Graph/available()_2.md
+- [[Community 537]] - document - vault/Graph/_COMMUNITY_Community 537.md
+- [[Connections_20552]] - document - vault/Graph/available()_4.md
+- [[Connections to other communities_1379]] - document - vault/Graph/_COMMUNITY_Community 537.md
+- [[Live Query (requires Dataview plugin)_1621]] - document - vault/Graph/_COMMUNITY_Community 537.md
+- [[Members_1621]] - document - vault/Graph/_COMMUNITY_Community 537.md
+- [[Top bridge nodes_1377]] - document - vault/Graph/_COMMUNITY_Community 537.md
+- [[_COMMUNITY_Community 537]] - document - vault/Graph/_COMMUNITY_Community 537.md
+- [[available()_6]] - document - vault/Graph/available()_4.md
+- [[available()_4_1]] - document - vault/Graph/available()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +26,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 97]]
+- 1 edge to [[_COMMUNITY_Community 97]]
 
 ## Top bridge nodes
-- [[available()_2]] - degree 4, connects to 1 community
-- [[Connections_840_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 537]] - degree 3, connects to 1 community

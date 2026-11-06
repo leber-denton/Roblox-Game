@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/placeLeaders()_2.md"
+source_file: "vault/Graph/Connections_78.md"
 type: "document"
-community: "Community 107"
-location: "L14"
+community: "Community 1010"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_107
+  - community/Community_1010
 ---
 
 # Connections
 
 ## Connections
-- [[placeLeaders()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_176]] - `contains` [EXTRACTED]
+- [[Connections_78_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_107
+#graphify/document #graphify/EXTRACTED #community/Community_1010

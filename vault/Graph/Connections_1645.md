@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.fighter().md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_132.md"
 type: "document"
-community: "Community 137"
+community: "Community 1097"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1097
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.fighter()_2]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_149]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1097

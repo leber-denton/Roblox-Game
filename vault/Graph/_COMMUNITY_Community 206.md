@@ -1,55 +1,40 @@
 ---
 type: community
-members: 42
+members: 27
 ---
 
 # Community 206
 
-**Members:** 42 nodes
+**Members:** 27 nodes
 
 ## Members
-- [[Community 206]] - document - vault/Graph/_COMMUNITY_Community 206.md
-- [[Connections_3007]] - document - vault/Graph/Connections to other communities_50.md
-- [[Connections_3008]] - document - vault/Graph/fadeAndDestroy()_1.md
-- [[Connections_3009]] - document - vault/Graph/fadeAndDestroy()_2.md
-- [[Connections_3010]] - document - vault/Graph/Live Query (requires Dataview plugin)_61.md
-- [[Connections_3011]] - document - vault/Graph/Members_60.md
-- [[Connections_3012]] - document - vault/Graph/onNotify()_1.md
-- [[Connections_3013]] - document - vault/Graph/onNotify()_2.md
-- [[Connections_3014]] - document - vault/Graph/pill()_1.md
-- [[Connections_3015]] - document - vault/Graph/pill()_2.md
-- [[Connections_3016]] - document - vault/Graph/showAnnouncement()_1.md
-- [[Connections_3017]] - document - vault/Graph/showAnnouncement()_2.md
-- [[Connections_3018]] - document - vault/Graph/Top bridge nodes_51.md
-- [[Connections to other communities_165]] - document - vault/Graph/_COMMUNITY_Community 206.md
-- [[Connections to other communities_166]] - document - vault/Graph/Connections to other communities_50.md
-- [[Connections to other communities_50_1]] - document - vault/Graph/Connections to other communities_50.md
-- [[Live Query (requires Dataview plugin)_176]] - document - vault/Graph/_COMMUNITY_Community 206.md
-- [[Live Query (requires Dataview plugin)_177]] - document - vault/Graph/Live Query (requires Dataview plugin)_61.md
-- [[Live Query (requires Dataview plugin)_61_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_61.md
-- [[Members_179]] - document - vault/Graph/_COMMUNITY_Community 206.md
-- [[Members_180]] - document - vault/Graph/Members_60.md
-- [[Members_60_1]] - document - vault/Graph/Members_60.md
-- [[Top bridge nodes_171]] - document - vault/Graph/_COMMUNITY_Community 206.md
-- [[Top bridge nodes_172]] - document - vault/Graph/Top bridge nodes_51.md
-- [[Top bridge nodes_51_1]] - document - vault/Graph/Top bridge nodes_51.md
-- [[_COMMUNITY_Community 206]] - document - vault/Graph/_COMMUNITY_Community 206.md
-- [[fadeAndDestroy()_1]] - document - vault/Graph/fadeAndDestroy()_1.md
-- [[fadeAndDestroy()_1_1]] - document - vault/Graph/fadeAndDestroy()_1.md
-- [[fadeAndDestroy()_2]] - document - vault/Graph/fadeAndDestroy()_2.md
-- [[fadeAndDestroy()_2_1]] - document - vault/Graph/fadeAndDestroy()_2.md
+- [[Connections_12230]] - document - vault/Graph/Connections_3091.md
+- [[Connections_12231]] - document - vault/Graph/Connections_333.md
+- [[Connections_12232]] - document - vault/Graph/Connections_333.md
+- [[Connections_12233]] - document - vault/Graph/Connections_334.md
+- [[Connections_12234]] - document - vault/Graph/Connections_334.md
+- [[Connections_12235]] - document - vault/Graph/Connections_404.md
+- [[Connections_12236]] - document - vault/Graph/Connections_404.md
+- [[Connections_12237]] - document - vault/Graph/Connections_405.md
+- [[Connections_12238]] - document - vault/Graph/Connections_405.md
+- [[Connections_12239]] - document - vault/Graph/onNotify()_1.md
+- [[Connections_12240]] - document - vault/Graph/onNotify()_2.md
+- [[Connections_12241]] - document - vault/Graph/onNotify()_3.md
+- [[Connections_12242]] - document - vault/Graph/onNotify()_4.md
+- [[Connections_3091_1]] - document - vault/Graph/Connections_3091.md
+- [[Connections_3091_2]] - document - vault/Graph/Connections_3091.md
+- [[Connections_333_3]] - document - vault/Graph/Connections_333.md
+- [[Connections_334_3]] - document - vault/Graph/Connections_334.md
+- [[Connections_404_3]] - document - vault/Graph/Connections_404.md
+- [[Connections_405_1]] - document - vault/Graph/Connections_405.md
+- [[onNotify()_6]] - document - vault/Graph/onNotify()_2.md
+- [[onNotify()_5]] - document - vault/Graph/onNotify()_1.md
 - [[onNotify()_1]] - document - vault/Graph/onNotify()_1.md
-- [[onNotify()_1_1]] - document - vault/Graph/onNotify()_1.md
 - [[onNotify()_2]] - document - vault/Graph/onNotify()_2.md
-- [[onNotify()_2_1]] - document - vault/Graph/onNotify()_2.md
-- [[pill()_1]] - document - vault/Graph/pill()_1.md
-- [[pill()_1_1]] - document - vault/Graph/pill()_1.md
-- [[pill()_2]] - document - vault/Graph/pill()_2.md
-- [[pill()_2_1]] - document - vault/Graph/pill()_2.md
-- [[showAnnouncement()_1]] - document - vault/Graph/showAnnouncement()_1.md
-- [[showAnnouncement()_1_1]] - document - vault/Graph/showAnnouncement()_1.md
-- [[showAnnouncement()_2]] - document - vault/Graph/showAnnouncement()_2.md
-- [[showAnnouncement()_2_1]] - document - vault/Graph/showAnnouncement()_2.md
+- [[onNotify()_3]] - document - vault/Graph/onNotify()_3.md
+- [[onNotify()_3_1]] - document - vault/Graph/onNotify()_3.md
+- [[onNotify()_4]] - document - vault/Graph/onNotify()_4.md
+- [[onNotify()_4_1]] - document - vault/Graph/onNotify()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -59,12 +44,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 117]]
-- 2 edges to [[_COMMUNITY_Community 149]]
+- 9 edges to [[_COMMUNITY_Community 103]]
+- 4 edges to [[_COMMUNITY_Community 561]]
+- 1 edge to [[_COMMUNITY_Community 1156]]
+- 1 edge to [[_COMMUNITY_Community 330]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 206]] - degree 15, connects to 1 community
-- [[showAnnouncement()_1]] - degree 7, connects to 1 community
-- [[fadeAndDestroy()_1]] - degree 6, connects to 1 community
-- [[onNotify()_1]] - degree 6, connects to 1 community
-- [[pill()_1]] - degree 5, connects to 1 community
+- [[onNotify()_3]] - degree 8, connects to 4 communities
+- [[onNotify()_4]] - degree 6, connects to 2 communities
+- [[Connections_3091_1]] - degree 5, connects to 2 communities
+- [[Connections_333_3]] - degree 4, connects to 1 community
+- [[onNotify()_1]] - degree 4, connects to 1 community

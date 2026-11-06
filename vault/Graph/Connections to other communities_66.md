@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 389.md"
+source_file: "vault/Graph/Connections to other communities_5.md"
 type: "document"
-community: "Community 1097"
-location: "L40"
+community: "Community 1081"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1097
+  - community/Community_1081
 ---
 
 # Connections to other communities
 
 ## Connections
-- [[Community 389]] - `contains` [EXTRACTED]
+- [[Connections_1335]] - `contains` [EXTRACTED]
+- [[Connections to other communities_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1097
+#graphify/document #graphify/EXTRACTED #community/Community_1081

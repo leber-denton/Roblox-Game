@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GraphMain.md"
+source_file: "vault/Graph/GraphMain_2.md"
 type: "document"
-community: "Community 157"
-location: "L12"
+community: "Community 1297"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_157
+  - community/Community_1297
 ---
 
-# GraphMain.md
+# GraphMain_2.md
 
 ## Connections
-- [[Connections_2105]] - `contains` [EXTRACTED]
-- [[GraphMain_1]] - `contains` [EXTRACTED]
+- [[Connections_3729_1]] - `references` [EXTRACTED]
+- [[GraphMain_5]] - `contains` [EXTRACTED]
+- [[GraphMain]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1297]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_157
+#graphify/document #graphify/EXTRACTED #community/Community_1297

@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Features.swirlTail()_2.md"
+source_file: "vault/Graph/Features.swirlTail().md"
 type: "document"
-community: "Community 133"
-location: "L1"
+community: "Community 137"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_137
 ---
 
-# Features.swirlTail()_2.md
+# Features.swirlTail()
 
 ## Connections
-- [[Features.swirlTail()_1]] - `references` [EXTRACTED]
-- [[Features.swirlTail()_2_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
+- [[Connections_6671]] - `contains` [EXTRACTED]
+- [[Features.swirlTail()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_137

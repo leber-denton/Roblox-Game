@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Connections_421.md"
+source_file: "vault/Graph/Connections_6374.md"
 type: "document"
-community: "Community 985"
-location: "L12"
+community: "Community 1"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_985
+  - community/Community_1
 ---
 
-# Connections
+# Connections_6374.md
 
 ## Connections
-- [[Connections_6375]] - `contains` [EXTRACTED]
-- [[Connections_421_1]] - `contains` [EXTRACTED]
+- [[Connections_20]] - `contains` [EXTRACTED]
+- [[Members_471]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_985
+#graphify/document #graphify/EXTRACTED #community/Community_1

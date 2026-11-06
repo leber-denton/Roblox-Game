@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[BattleService.onEnded()]] - `calls` [INFERRED]
 - [[BattleService.onReleased()]] - `calls` [INFERRED]
-- [[DungeonService.luau_3]] - `contains` [EXTRACTED]
+- [[DungeonService.luau_8]] - `contains` [EXTRACTED]
 - [[NPC.prompt()]] - `calls` [INFERRED]
 - [[NPC.say()]] - `calls` [INFERRED]
 - [[ride()]] - `calls` [EXTRACTED]

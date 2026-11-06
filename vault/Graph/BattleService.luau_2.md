@@ -12,8 +12,10 @@ tags:
 # BattleService.luau_2.md
 
 ## Connections
-- [[BattleService.luau_1]] - `references` [EXTRACTED]
-- [[BattleService.luau_2_1]] - `contains` [EXTRACTED]
+- [[BattleService.luau_1_1]] - `references` [EXTRACTED]
+- [[BattleService.luau_2_3]] - `contains` [EXTRACTED]
+- [[BattleService.luau_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 241]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
 

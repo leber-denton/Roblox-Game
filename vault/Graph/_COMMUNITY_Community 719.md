@@ -1,19 +1,28 @@
 ---
 type: community
-members: 6
+members: 15
 ---
 
 # Community 719
 
-**Members:** 6 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_5159]] - document - vault/Graph/nextOrder()_1.md
-- [[Connections_5160]] - document - vault/Graph/nextOrder()_2.md
-- [[nextOrder()_3]] - document - vault/Graph/nextOrder()_2.md
-- [[nextOrder()_1_1]] - document - vault/Graph/nextOrder()_1.md
-- [[nextOrder()_1_2]] - document - vault/Graph/nextOrder()_1.md
-- [[nextOrder()_2_1]] - document - vault/Graph/nextOrder()_2.md
+- [[Connections_22185]] - document - vault/Graph/apply().md
+- [[Connections_22186]] - document - vault/Graph/applyAll().md
+- [[Connections_22187]] - document - vault/Graph/Functions_134.md
+- [[Connections_22188]] - document - vault/Graph/regionName().md
+- [[Connections_22189]] - document - vault/Graph/setSign()_1.md
+- [[Functions_236]] - document - vault/Graph/Functions_134.md
+- [[Functions_134_1]] - document - vault/Graph/Functions_134.md
+- [[apply()_14]] - document - vault/Graph/apply().md
+- [[apply()_13]] - document - vault/Graph/apply().md
+- [[applyAll()_6]] - document - vault/Graph/applyAll().md
+- [[applyAll()_5]] - document - vault/Graph/applyAll().md
+- [[regionName()_6]] - document - vault/Graph/regionName().md
+- [[regionName()_5]] - document - vault/Graph/regionName().md
+- [[setSign()_10]] - document - vault/Graph/setSign()_1.md
+- [[setSign()_1_3]] - document - vault/Graph/setSign()_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +32,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 292]]
-- 2 edges to [[_COMMUNITY_Community 98]]
+- 5 edges to [[_COMMUNITY_Community 1034]]
 
 ## Top bridge nodes
-- [[nextOrder()_1_1]] - degree 5, connects to 2 communities
-- [[nextOrder()_2_1]] - degree 3, connects to 1 community
+- [[setSign()_1_3]] - degree 4, connects to 1 community
+- [[apply()_13]] - degree 4, connects to 1 community
+- [[applyAll()_5]] - degree 4, connects to 1 community
+- [[regionName()_5]] - degree 3, connects to 1 community
+- [[Functions_134_1]] - degree 3, connects to 1 community

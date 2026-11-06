@@ -12,7 +12,7 @@ tags:
 # NpcGuard.luau
 
 ## Connections
-- [[Main.server.luau_3]] - `imports` [EXTRACTED]
+- [[Main.server.luau]] - `imports` [EXTRACTED]
 - [[NpcGuard.run()]] - `contains` [EXTRACTED]
 - [[NpcGuard.stamp()]] - `contains` [EXTRACTED]
 - [[npcs()]] - `contains` [EXTRACTED]

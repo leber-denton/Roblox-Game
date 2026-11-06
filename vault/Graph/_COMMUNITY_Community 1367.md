@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 1367
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_1617]] - document - vault/Graph/updateDot().md
-- [[updateDot()_2]] - document - vault/Graph/updateDot().md
-- [[updateDot()_1]] - document - vault/Graph/updateDot().md
+- [[Community 218]] - document - vault/Graph/_COMMUNITY_Community 218.md
+- [[Connections to other communities_365]] - document - vault/Graph/_COMMUNITY_Community 218.md
+- [[Live Query (requires Dataview plugin)_451]] - document - vault/Graph/_COMMUNITY_Community 218.md
+- [[Members_451]] - document - vault/Graph/_COMMUNITY_Community 218.md
+- [[Top bridge nodes_355]] - document - vault/Graph/_COMMUNITY_Community 218.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 98]]
+- 1 edge to [[_COMMUNITY_Community 218]]
 
 ## Top bridge nodes
-- [[updateDot()_1]] - degree 2, connects to 1 community
+- [[Community 218]] - degree 5, connects to 1 community

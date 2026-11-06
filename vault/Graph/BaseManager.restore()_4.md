@@ -1,28 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.restore().md"
+source_file: "vault/Graph/BaseManager.restore()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 547"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_547
 ---
 
-# BaseManager.restore().md
+# BaseManager.restore()_4.md
 
 ## Connections
-- [[BaseManager.addCreature()_3]] - `references` [EXTRACTED]
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[BaseManager.newRecord()_3]] - `references` [EXTRACTED]
-- [[BaseManager.recalcCapacity()_3]] - `references` [EXTRACTED]
-- [[BaseManager.restore()_5]] - `contains` [EXTRACTED]
-- [[BattleData.applyStars()_3]] - `references` [EXTRACTED]
-- [[BattleData.maxXP()_3]] - `references` [EXTRACTED]
-- [[BattleData.xpForLevel()_3]] - `references` [EXTRACTED]
-- [[SaveService.load()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[finite()_1_2]] - `references` [EXTRACTED]
-- [[setExpansionOpen()_3]] - `references` [EXTRACTED]
+- [[BaseManager.restore()_6]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 547]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_547

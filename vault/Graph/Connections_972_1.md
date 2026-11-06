@@ -2,7 +2,7 @@
 source_file: "vault/Graph/Connections_972.md"
 type: "document"
 community: "Community 12"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,7 +12,7 @@ tags:
 # Connections_972.md
 
 ## Connections
-- [[Connections_1008]] - `contains` [EXTRACTED]
-- [[Connections_972]] - `contains` [EXTRACTED]
+- [[Connections_3578]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1054]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_12

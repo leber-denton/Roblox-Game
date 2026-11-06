@@ -12,7 +12,7 @@ tags:
 # BattleFX.makeBall()
 
 ## Connections
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[BattleFX.throw()]] - `calls` [EXTRACTED]
 - [[plainBall()]] - `calls` [EXTRACTED]
 

@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.restore()_1.md"
+source_file: "vault/Graph/BaseManager.restore()_5.md"
 type: "document"
-community: "Community 547"
-location: "L1"
+community: "Community 2723"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_547
+  - community/Community_2723
 ---
 
-# BaseManager.restore()_1.md
+# BaseManager.restore()
 
 ## Connections
-- [[BaseManager.restore()_3]] - `contains` [EXTRACTED]
-- [[BaseManager.restore()_2]] - `references` [EXTRACTED]
-- [[Connections_69_1]] - `references` [EXTRACTED]
+- [[BaseManager.restore()_5]] - `contains` [EXTRACTED]
+- [[Connections_15201]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_547
+#graphify/document #graphify/EXTRACTED #community/Community_2723

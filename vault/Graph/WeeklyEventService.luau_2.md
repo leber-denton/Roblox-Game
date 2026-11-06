@@ -13,8 +13,9 @@ tags:
 
 ## Connections
 - [[WeeklyEventService.init()_1]] - `references` [EXTRACTED]
-- [[WeeklyEventService.luau_3]] - `contains` [EXTRACTED]
-- [[WeeklyEventService.luau_1]] - `references` [EXTRACTED]
+- [[WeeklyEventService.luau_1_1]] - `references` [EXTRACTED]
+- [[WeeklyEventService.luau_2_1]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.luau_3]] - `references` [EXTRACTED]
 - [[WeeklyEventService.startNow()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
 - [[daysFromCivil()_1]] - `references` [EXTRACTED]

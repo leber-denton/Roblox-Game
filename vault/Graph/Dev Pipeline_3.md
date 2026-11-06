@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Dev Pipeline_2.md"
+source_file: "vault/Graph/Dev Pipeline_3.md"
 type: "document"
-community: "Community 88"
-location: "L12"
+community: "Community 2990"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_2990
 ---
 
-# Dev Pipeline
+# Dev Pipeline_3.md
 
 ## Connections
-- [[Connections_5936]] - `contains` [EXTRACTED]
-- [[Dev Pipeline_2]] - `contains` [EXTRACTED]
+- [[Dev Pipeline_4]] - `contains` [EXTRACTED]
+- [[Dev Pipeline_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 88]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_88
+#graphify/document #graphify/EXTRACTED #community/Community_2990

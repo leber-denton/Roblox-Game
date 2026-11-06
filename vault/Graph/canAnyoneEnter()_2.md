@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/canAnyoneEnter()_2.md"
+source_file: "vault/Graph/canAnyoneEnter()_2_1.md"
 type: "document"
-community: "Community 251"
-location: "L1"
+community: "Community 17"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_251
+  - community/Community_17
 ---
 
 # canAnyoneEnter()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 193]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 251]] - `references` [EXTRACTED]
-- [[canAnyoneEnter()_1]] - `references` [EXTRACTED]
+- [[Connections_9832]] - `contains` [EXTRACTED]
 - [[canAnyoneEnter()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_251
+#graphify/document #graphify/EXTRACTED #community/Community_17

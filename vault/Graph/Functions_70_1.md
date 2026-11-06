@@ -1,19 +1,21 @@
 ---
-source_file: "vault/Graph/Functions_70.md"
+source_file: "vault/Graph/Functions_70_1.md"
 type: "document"
-community: "Community 293"
+community: "Community 1583"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_293
+  - community/Community_1583
 ---
 
-# Functions_70.md
+# Functions_70_1.md
 
 ## Connections
-- [[Functions_94]] - `contains` [EXTRACTED]
 - [[Functions_111]] - `references` [EXTRACTED]
+- [[Functions_70_2]] - `references` [EXTRACTED]
+- [[Functions_70_1_1]] - `contains` [EXTRACTED]
+- [[Functions_94]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 293]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_293
+#graphify/document #graphify/EXTRACTED #community/Community_1583

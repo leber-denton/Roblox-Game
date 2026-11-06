@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/lockButton()_1.md"
+source_file: "vault/Graph/lockButton()_3.md"
 type: "document"
-community: "Community 138"
-location: "L12"
+community: "Community 779"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_779
 ---
 
-# lockButton().md
+# lockButton()_3.md
 
 ## Connections
-- [[Connections_1680]] - `contains` [EXTRACTED]
-- [[lockButton()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_5462_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
+- [[lockButton()_5]] - `contains` [EXTRACTED]
+- [[lockButton()_1_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_779

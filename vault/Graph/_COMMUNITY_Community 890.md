@@ -1,18 +1,24 @@
 ---
 type: community
-members: 5
+members: 11
 ---
 
 # Community 890
 
-**Members:** 5 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Community 155]] - document - vault/Graph/_COMMUNITY_Community 155.md
-- [[Connections to other communities_382]] - document - vault/Graph/_COMMUNITY_Community 155.md
-- [[Live Query (requires Dataview plugin)_426]] - document - vault/Graph/_COMMUNITY_Community 155.md
-- [[Members_426]] - document - vault/Graph/_COMMUNITY_Community 155.md
-- [[Top bridge nodes_384]] - document - vault/Graph/_COMMUNITY_Community 155.md
+- [[Community 519]] - document - vault/Graph/_COMMUNITY_Community 519.md
+- [[Community 890]] - document - vault/Graph/_COMMUNITY_Community 890.md
+- [[Connections_23716]] - document - vault/Graph/Connections_260_1.md
+- [[Connections_260_2]] - document - vault/Graph/Connections_260_1.md
+- [[Connections_260_1_1]] - document - vault/Graph/Connections_260_1.md
+- [[Live Query (requires Dataview plugin)_1902]] - document - vault/Graph/_COMMUNITY_Community 519.md
+- [[Live Query (requires Dataview plugin)_1903]] - document - vault/Graph/_COMMUNITY_Community 890.md
+- [[Members_1901]] - document - vault/Graph/_COMMUNITY_Community 519.md
+- [[Members_1902]] - document - vault/Graph/_COMMUNITY_Community 890.md
+- [[_COMMUNITY_Community 519]] - document - vault/Graph/_COMMUNITY_Community 519.md
+- [[_COMMUNITY_Community 890]] - document - vault/Graph/_COMMUNITY_Community 890.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +28,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 528]]
+- 1 edge to [[_COMMUNITY_Community 112]]
+- 1 edge to [[_COMMUNITY_Community 330]]
+- 1 edge to [[_COMMUNITY_Community 75]]
 
 ## Top bridge nodes
-- [[Community 155]] - degree 5, connects to 1 community
+- [[_COMMUNITY_Community 519]] - degree 5, connects to 2 communities
+- [[Connections_260_1_1]] - degree 3, connects to 1 community

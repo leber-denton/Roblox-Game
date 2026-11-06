@@ -1,18 +1,26 @@
 ---
 type: community
-members: 5
+members: 13
 ---
 
 # Community 998
 
-**Members:** 5 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Community 114]] - document - vault/Graph/_COMMUNITY_Community 114.md
-- [[Connections to other communities_434]] - document - vault/Graph/_COMMUNITY_Community 114.md
-- [[Live Query (requires Dataview plugin)_479]] - document - vault/Graph/_COMMUNITY_Community 114.md
-- [[Members_479]] - document - vault/Graph/_COMMUNITY_Community 114.md
-- [[Top bridge nodes_435]] - document - vault/Graph/_COMMUNITY_Community 114.md
+- [[Community 757]] - document - vault/Graph/_COMMUNITY_Community 757.md
+- [[Connections_24589]] - document - vault/Graph/Connections_193_1.md
+- [[Connections_24590]] - document - vault/Graph/Connections_194_1.md
+- [[Connections_24591]] - document - vault/Graph/Connections_195_1.md
+- [[Connections_193_2]] - document - vault/Graph/Connections_193_1.md
+- [[Connections_193_1_1]] - document - vault/Graph/Connections_193_1.md
+- [[Connections_194_2]] - document - vault/Graph/Connections_194_1.md
+- [[Connections_194_1_1]] - document - vault/Graph/Connections_194_1.md
+- [[Connections_195_2]] - document - vault/Graph/Connections_195_1.md
+- [[Connections_195_1_1]] - document - vault/Graph/Connections_195_1.md
+- [[Live Query (requires Dataview plugin)_1988]] - document - vault/Graph/_COMMUNITY_Community 757.md
+- [[Members_1988]] - document - vault/Graph/_COMMUNITY_Community 757.md
+- [[_COMMUNITY_Community 757]] - document - vault/Graph/_COMMUNITY_Community 757.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +30,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 4 edges to [[_COMMUNITY_Community 1523]]
+- 1 edge to [[_COMMUNITY_Community 1087]]
 - 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 49]]
+- 1 edge to [[_COMMUNITY_Community 555]]
 
 ## Top bridge nodes
-- [[Community 114]] - degree 5, connects to 1 community
+- [[_COMMUNITY_Community 757]] - degree 9, connects to 5 communities
+- [[Connections_195_1_1]] - degree 4, connects to 1 community
+- [[Connections_194_1_1]] - degree 4, connects to 1 community
+- [[Connections_193_1_1]] - degree 3, connects to 1 community

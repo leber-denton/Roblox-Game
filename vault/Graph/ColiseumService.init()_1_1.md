@@ -12,14 +12,14 @@ tags:
 # ColiseumService.init()_1.md
 
 ## Connections
-- [[ColiseumService.init()_3]] - `contains` [EXTRACTED]
-- [[ColiseumService.init()_2_1]] - `references` [EXTRACTED]
-- [[ColiseumService.luau_2_1]] - `references` [EXTRACTED]
+- [[ColiseumService.init()_7]] - `contains` [EXTRACTED]
+- [[ColiseumService.init()_2_3]] - `references` [EXTRACTED]
+- [[ColiseumService.luau_3_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[setupActivities()_1_1]] - `references` [EXTRACTED]
+- [[setupActivities()_1_3]] - `references` [EXTRACTED]
 - [[setupPortals()_1_1]] - `references` [EXTRACTED]
-- [[setupShop()_1_1]] - `references` [EXTRACTED]
+- [[setupShop()_1_2]] - `references` [EXTRACTED]
 - [[updateZones()_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_97

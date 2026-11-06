@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/BattleService.onReleased().md"
+source_file: "vault/Graph/BattleService.onReleased()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2096"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2096
 ---
 
-# BattleService.onReleased()
+# BattleService.onReleased()_4.md
 
 ## Connections
-- [[BattleService.onReleased()_3]] - `contains` [EXTRACTED]
-- [[Connections_5700]] - `contains` [EXTRACTED]
+- [[BattleService.onReleased()_6]] - `contains` [EXTRACTED]
+- [[BattleService.onReleased()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2096

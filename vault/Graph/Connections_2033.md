@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.flameMane()_1.md"
+source_file: "vault/Graph/Connections_1457.md"
 type: "document"
-community: "Community 151"
+community: "Community 1111"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_151
+  - community/Community_1111
 ---
 
 # Connections
 
 ## Connections
-- [[Features.flameMane()_3]] - `contains` [EXTRACTED]
+- [[Connections_2032]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_151
+#graphify/document #graphify/EXTRACTED #community/Community_1111

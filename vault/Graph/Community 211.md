@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 211.md"
+source_file: "vault/Graph/Community 211.md"
 type: "document"
-community: "Community 462"
-location: "L6"
+community: "Community 211"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_462
+  - community/Community_211
 ---
 
-# Community 211
+# Community 211.md
 
 ## Connections
-- [[Live Query (requires Dataview plugin)_371]] - `contains` [EXTRACTED]
-- [[Members_373]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 211]] - `contains` [EXTRACTED]
+- [[Community 211_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 211]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_462
+#graphify/document #graphify/EXTRACTED #community/Community_211

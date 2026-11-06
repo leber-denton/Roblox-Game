@@ -12,8 +12,8 @@ tags:
 # fillBox()
 
 ## Connections
-- [[Menus.client.luau_4]] - `contains` [EXTRACTED]
+- [[Menus.client.luau_8]] - `contains` [EXTRACTED]
 - [[creatureText()]] - `calls` [EXTRACTED]
-- [[render()_1]] - `calls` [EXTRACTED]
+- [[render()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_418

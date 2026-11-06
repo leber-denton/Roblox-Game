@@ -12,12 +12,8 @@ tags:
 # latch()_1.md
 
 ## Connections
-- [[BattleFX.luau_2]] - `references` [EXTRACTED]
-- [[BattleFX.throw()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
-- [[latch()_3]] - `contains` [EXTRACTED]
-- [[latch()_2]] - `references` [EXTRACTED]
-- [[play()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 167]] - `references` [EXTRACTED]
+- [[latch()_6]] - `contains` [EXTRACTED]
+- [[latch()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_167

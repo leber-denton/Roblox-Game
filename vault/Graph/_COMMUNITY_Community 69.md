@@ -1,31 +1,40 @@
 ---
 type: community
-members: 18
+members: 27
 ---
 
 # Community 69
 
-**Members:** 18 nodes
+**Members:** 27 nodes
 
 ## Members
-- [[Connections_5050]] - document - vault/Graph/HUD_2.md
-- [[Connections_5051]] - document - vault/Graph/HUD.md
-- [[Connections_5052]] - document - vault/Graph/Required by_117.md
-- [[Connections_5053]] - document - vault/Graph/Required by_38.md
-- [[Connections_5054]] - document - vault/Graph/Requires_118.md
-- [[Connections_5055]] - document - vault/Graph/Requires_31.md
-- [[GraphHUD_2]] - document - vault/Graph/HUD.md
-- [[HUD]] - document - vault/Graph/HUD.md
-- [[HUD_2]] - document - vault/Graph/HUD_2.md
-- [[HUD_2_1]] - document - vault/Graph/HUD_2.md
-- [[Required by_160]] - document - vault/Graph/Required by_38.md
-- [[Required by_117_1]] - document - vault/Graph/Required by_117.md
-- [[Required by_117_2]] - document - vault/Graph/Required by_117.md
-- [[Required by_38_3]] - document - vault/Graph/Required by_38.md
-- [[Requires_167]] - document - vault/Graph/Requires_31.md
-- [[Requires_118_1]] - document - vault/Graph/Requires_118.md
-- [[Requires_118_2]] - document - vault/Graph/Requires_118.md
-- [[Requires_31_2]] - document - vault/Graph/Requires_31.md
+- [[Connections_22000]] - document - vault/Graph/Connections_3796.md
+- [[Connections_22001]] - document - vault/Graph/Connections_3797.md
+- [[Connections_22002]] - document - vault/Graph/Connections_710.md
+- [[Connections_22003]] - document - vault/Graph/Connections_710.md
+- [[Connections_22004]] - document - vault/Graph/Connections_711.md
+- [[Connections_22005]] - document - vault/Graph/Connections_711.md
+- [[Connections_22006]] - document - vault/Graph/Connections_712.md
+- [[Connections_22007]] - document - vault/Graph/Connections_712.md
+- [[Connections_22008]] - document - vault/Graph/Connections_713.md
+- [[Connections_22009]] - document - vault/Graph/Connections_713.md
+- [[Connections_22010]] - document - vault/Graph/Connections_792.md
+- [[Connections_22011]] - document - vault/Graph/Connections_792.md
+- [[Connections_22012]] - document - vault/Graph/Connections_807_1.md
+- [[Connections_22013]] - document - vault/Graph/Connections_807.md
+- [[Connections_3796_1]] - document - vault/Graph/Connections_3796.md
+- [[Connections_3796_2]] - document - vault/Graph/Connections_3796.md
+- [[Connections_3797_1]] - document - vault/Graph/Connections_3797.md
+- [[Connections_3797_2]] - document - vault/Graph/Connections_3797.md
+- [[Connections_710_3]] - document - vault/Graph/Connections_710.md
+- [[Connections_711_3]] - document - vault/Graph/Connections_711.md
+- [[Connections_712_3]] - document - vault/Graph/Connections_712.md
+- [[Connections_713_1]] - document - vault/Graph/Connections_713.md
+- [[Connections_792_3]] - document - vault/Graph/Connections_792.md
+- [[Connections_807_2]] - document - vault/Graph/Connections_807.md
+- [[Connections_807_3]] - document - vault/Graph/Connections_807.md
+- [[Connections_807_1]] - document - vault/Graph/Connections_807_1.md
+- [[Connections_807_1_1]] - document - vault/Graph/Connections_807_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -35,14 +44,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 6 edges to [[_COMMUNITY_Community 149]]
-- 3 edges to [[_COMMUNITY_Community 117]]
-- 1 edge to [[_COMMUNITY_Community 162]]
-- 1 edge to [[_COMMUNITY_Community 340]]
+- 9 edges to [[_COMMUNITY_Community 803]]
+- 3 edges to [[_COMMUNITY_Community 1050]]
+- 1 edge to [[_COMMUNITY_Community 122]]
+- 1 edge to [[_COMMUNITY_Community 71]]
+- 1 edge to [[_COMMUNITY_Community 881]]
 
 ## Top bridge nodes
-- [[HUD_2]] - degree 8, connects to 4 communities
-- [[Required by_117_1]] - degree 5, connects to 2 communities
-- [[Requires_118_1]] - degree 5, connects to 2 communities
-- [[GraphHUD_2]] - degree 3, connects to 1 community
-- [[Required by_38_3]] - degree 3, connects to 1 community
+- [[Connections_807_1]] - degree 7, connects to 4 communities
+- [[Connections_3796_1]] - degree 6, connects to 2 communities
+- [[Connections_3797_1]] - degree 5, connects to 2 communities
+- [[Connections_710_3]] - degree 5, connects to 2 communities
+- [[Connections_712_3]] - degree 4, connects to 1 community

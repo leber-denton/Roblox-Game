@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 317.md"
+source_file: "vault/Graph/Community 317.md"
 type: "document"
-community: "Community 317"
-location: "L6"
+community: "Community 1576"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_317
+  - community/Community_1576
 ---
 
-# Community 317
+# Community 317.md
 
 ## Connections
-- [[Connections to other communities_247]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_280]] - `contains` [EXTRACTED]
-- [[Members_284]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_253]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 317]] - `contains` [EXTRACTED]
+- [[Community 317_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1485]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 317]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_317
+#graphify/document #graphify/EXTRACTED #community/Community_1576

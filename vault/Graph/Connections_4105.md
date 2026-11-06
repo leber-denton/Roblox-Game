@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/leader()_2.md"
+source_file: "vault/Graph/wanted()_2_1.md"
 type: "document"
-community: "Community 370"
+community: "Community 1225"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_370
+  - community/Community_1225
 ---
 
 # Connections
 
 ## Connections
-- [[leader()_4]] - `contains` [EXTRACTED]
+- [[wanted()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_370
+#graphify/document #graphify/EXTRACTED #community/Community_1225

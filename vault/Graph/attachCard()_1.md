@@ -17,7 +17,7 @@ tags:
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 - [[applyState()_1]] - `references` [EXTRACTED]
 - [[attachCard()_1_1]] - `contains` [EXTRACTED]
-- [[attachCard()_2_1]] - `references` [EXTRACTED]
+- [[attachCard()_1_1_1]] - `references` [EXTRACTED]
 - [[playTurn()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_101

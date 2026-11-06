@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Story_2.md"
+source_file: "vault/Code/Story.md"
 type: "document"
-community: "Community 676"
-location: "L12"
+community: "Community 19"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_676
+  - community/Community_19
 ---
 
 # Story
 
 ## Connections
-- [[Connections_5019]] - `contains` [EXTRACTED]
-- [[Story_2_1]] - `contains` [EXTRACTED]
+- [[CodeStory]] - `contains` [EXTRACTED]
+- [[Functions_103]] - `contains` [EXTRACTED]
+- [[Required by_114]] - `contains` [EXTRACTED]
+- [[Requires_106]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_676
+#graphify/document #graphify/EXTRACTED #community/Community_19

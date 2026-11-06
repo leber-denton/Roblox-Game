@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/preview().md"
+source_file: "vault/Graph/preview()_1.md"
 type: "document"
 community: "Community 106"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_106
 ---
 
-# preview().md
+# preview()
 
 ## Connections
-- [[DecorData.build()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[itemCard()_1]] - `references` [EXTRACTED]
-- [[new()_10]] - `references` [EXTRACTED]
-- [[new()_3_3]] - `references` [EXTRACTED]
-- [[preview()_5]] - `contains` [EXTRACTED]
-- [[showDetail()_2]] - `references` [EXTRACTED]
-- [[showReveal()_1]] - `references` [EXTRACTED]
+- [[Connections_943]] - `contains` [EXTRACTED]
+- [[preview()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_106

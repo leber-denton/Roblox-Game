@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Graph/new().md"
+source_file: "vault/Graph/new()_23.md"
 type: "document"
-community: "Community 106"
-location: "L1"
+community: "Community 1034"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_106
+  - community/Community_1034
 ---
 
-# new().md
+# new()
 
 ## Connections
-- [[CreatureIndex.client.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[label()_5]] - `references` [EXTRACTED]
-- [[new()_12]] - `contains` [EXTRACTED]
-- [[preview()_3]] - `references` [EXTRACTED]
-- [[round()_14]] - `references` [EXTRACTED]
-- [[showDetail()_2]] - `references` [EXTRACTED]
-- [[showGrid()_1]] - `references` [EXTRACTED]
-- [[typeChips()_1]] - `references` [EXTRACTED]
+- [[Connections_617]] - `contains` [EXTRACTED]
+- [[new()_23]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_106
+#graphify/document #graphify/EXTRACTED #community/Community_1034

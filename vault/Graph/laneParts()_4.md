@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/laneParts().md"
+source_file: "vault/Graph/laneParts()_4.md"
 type: "document"
-community: "Community 90"
-location: "L12"
+community: "Community 33"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_33
 ---
 
-# laneParts()
+# laneParts()_4.md
 
 ## Connections
-- [[Connections_6016]] - `contains` [EXTRACTED]
-- [[laneParts()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 33]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 90]] - `references` [EXTRACTED]
+- [[laneParts()_3]] - `references` [EXTRACTED]
+- [[laneParts()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_33

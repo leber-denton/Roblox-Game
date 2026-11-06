@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/buildQuestWorld()_2.md"
+source_file: "vault/Graph/buildQuestWorld()_2_1.md"
 type: "document"
 community: "Community 856"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_856
 ---
 
-# buildQuestWorld()_2.md
+# buildQuestWorld()_2_1.md
 
 ## Connections
-- [[Connections_5626]] - `contains` [EXTRACTED]
-- [[buildQuestWorld()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 856]] - `references` [EXTRACTED]
+- [[buildQuestWorld()_2_2]] - `contains` [EXTRACTED]
+- [[buildQuestWorld()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_856

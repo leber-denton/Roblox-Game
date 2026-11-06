@@ -12,8 +12,8 @@ tags:
 # RareEventService_1_1.md
 
 ## Connections
-- [[RareEventService_1_2]] - `contains` [EXTRACTED]
 - [[RareEventService_1]] - `references` [EXTRACTED]
+- [[RareEventService_1_1_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 236]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_236

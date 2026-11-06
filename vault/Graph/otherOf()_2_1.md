@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/otherOf()_2.md"
 type: "document"
-community: "Community 744"
-location: "L1"
+community: "Community 1166"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_744
+  - community/Community_1166
 ---
 
 # otherOf()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
-- [[otherOf()_2_2]] - `contains` [EXTRACTED]
+- [[Connections_2945]] - `contains` [EXTRACTED]
+- [[otherOf()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_744
+#graphify/document #graphify/EXTRACTED #community/Community_1166

@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/despawnPlaced()_1.md"
+source_file: "vault/Graph/despawnPlaced()_1_1.md"
 type: "document"
-community: "Community 174"
-location: "L1"
+community: "Community 152"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_174
+  - community/Community_152
 ---
 
 # despawnPlaced()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 174]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 98]] - `references` [EXTRACTED]
-- [[actions.move()_1]] - `references` [EXTRACTED]
-- [[actions.remove()_1]] - `references` [EXTRACTED]
+- [[Connections_8251]] - `contains` [EXTRACTED]
 - [[despawnPlaced()_1_1]] - `contains` [EXTRACTED]
-- [[despawnPlaced()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_174
+#graphify/document #graphify/EXTRACTED #community/Community_152

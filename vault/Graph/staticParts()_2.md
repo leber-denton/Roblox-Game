@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/staticParts().md"
+source_file: "vault/Graph/staticParts()_2.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2321"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2321
 ---
 
-# staticParts()
+# staticParts()_2.md
 
 ## Connections
-- [[Connections_5870]] - `contains` [EXTRACTED]
-- [[staticParts()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[staticParts()_1]] - `references` [EXTRACTED]
+- [[staticParts()_1_1]] - `references` [EXTRACTED]
+- [[staticParts()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2321

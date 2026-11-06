@@ -15,6 +15,7 @@ tags:
 - [[CodeBattleData]] - `references` [EXTRACTED]
 - [[CodeGameData]] - `references` [EXTRACTED]
 - [[CodeTutorial_1]] - `contains` [EXTRACTED]
+- [[CodeTutorial_1_1]] - `references` [EXTRACTED]
 - [[GraphTutorial]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]

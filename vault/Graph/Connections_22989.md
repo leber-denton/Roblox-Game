@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/script_parent_wander_2.md"
+type: "document"
+community: "Community 819"
+location: "L14"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_819
+---
+
+# Connections
+
+## Connections
+- [[script_parent_wander_6]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_819

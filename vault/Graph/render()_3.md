@@ -12,7 +12,7 @@ tags:
 # render()
 
 ## Connections
-- [[Connections_6]] - `contains` [EXTRACTED]
+- [[Connections_47]] - `contains` [EXTRACTED]
 - [[render()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_100

@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/GameData.levelCap()_1.md"
+source_file: "vault/Graph/GameData.levelCap().md"
 type: "document"
-community: "Community 341"
-location: "L12"
+community: "Community 276"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_341
+  - community/Community_276
 ---
 
 # GameData.levelCap().md
 
 ## Connections
-- [[Connections_4005]] - `contains` [EXTRACTED]
-- [[GameData.levelCap()_1_1]] - `contains` [EXTRACTED]
+- [[GameData.BaseTraining.levelCap()_3]] - `references` [EXTRACTED]
+- [[GameData.levelCap()_4]] - `contains` [EXTRACTED]
+- [[GameData.luau_8]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
+- [[refresh()_1_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_341
+#graphify/document #graphify/EXTRACTED #community/Community_276

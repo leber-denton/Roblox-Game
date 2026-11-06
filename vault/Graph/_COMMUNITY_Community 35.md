@@ -8,16 +8,16 @@ members: 10
 **Members:** 10 nodes
 
 ## Members
-- [[CodeFirstSpawnLock]] - document - vault/Code/FirstSpawnLock.md
-- [[FirstSpawnLock]] - document - vault/Code/FirstSpawnLock.md
+- [[CodeFirstSpawnLock_6]] - document - vault/Code/FirstSpawnLock.md
+- [[FirstSpawnLock_2]] - document - vault/Code/FirstSpawnLock.md
 - [[FirstSpawnLock.client.luau]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
-- [[Functions_125]] - document - vault/Code/FirstSpawnLock.md
-- [[Required by_94]] - document - vault/Code/FirstSpawnLock.md
-- [[Requires_116]] - document - vault/Code/FirstSpawnLock.md
+- [[Functions_196]] - document - vault/Code/FirstSpawnLock.md
+- [[Required by_191]] - document - vault/Code/FirstSpawnLock.md
+- [[Requires_189]] - document - vault/Code/FirstSpawnLock.md
 - [[isLocked()]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
 - [[lockPrompt()]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
 - [[unlockAll()]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
-- [[update()_1]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
+- [[update()]] - code - src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,4 +30,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[CodeFirstSpawnLock]] - degree 2, connects to 1 community
+- [[CodeFirstSpawnLock_6]] - degree 2, connects to 1 community

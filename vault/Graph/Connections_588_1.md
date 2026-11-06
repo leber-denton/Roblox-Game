@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/Connections_588.md"
+source_file: "vault/Graph/Connections_588_1.md"
 type: "document"
-community: "Community 12"
+community: "Community 1647"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1647
 ---
 
-# Connections_588.md
+# Connections_588_1.md
 
 ## Connections
-- [[BattleData.luau_3]] - `references` [EXTRACTED]
-- [[Connections_780]] - `contains` [EXTRACTED]
+- [[Connections_588_1_1]] - `contains` [EXTRACTED]
+- [[Connections_780_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 171]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1647

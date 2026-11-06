@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Graph/Required by_43.md"
+source_file: "vault/Graph/Connections_4407.md"
 type: "document"
-community: "Community 489"
-location: "L14"
+community: "Community 1159"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_489
+  - community/Community_1159
 ---
 
-# Connections
+# Connections_4407.md
 
 ## Connections
-- [[Required by_43_3]] - `contains` [EXTRACTED]
+- [[Connections_2887]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_340]] - `references` [EXTRACTED]
+- [[Required by_43_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1339]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_489
+#graphify/document #graphify/EXTRACTED #community/Community_1159

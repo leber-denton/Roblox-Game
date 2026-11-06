@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/positionOf()_2.md"
+source_file: "vault/Graph/Connections_3894.md"
 type: "document"
-community: "Community 783"
-location: "L14"
+community: "Community 131"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_783
+  - community/Community_131
 ---
 
 # Connections
 
 ## Connections
-- [[positionOf()_4]] - `contains` [EXTRACTED]
+- [[Connections_5389]] - `contains` [EXTRACTED]
+- [[Connections_3894_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_783
+#graphify/document #graphify/EXTRACTED #community/Community_131

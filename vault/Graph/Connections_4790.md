@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_73.md"
+source_file: "vault/Graph/HavocBlimpFlight_1.md"
 type: "document"
-community: "Community 608"
+community: "Community 127"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_608
+  - community/Community_127
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_4789]] - `contains` [EXTRACTED]
+- [[HavocBlimpFlight_1_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_608
+#graphify/document #graphify/EXTRACTED #community/Community_127

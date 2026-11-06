@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/busy()_1.md"
+source_file: "vault/Graph/Connections_1342.md"
 type: "document"
-community: "Community 1385"
+community: "Community 1099"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1385
+  - community/Community_1099
 ---
 
 # Connections
 
 ## Connections
-- [[busy()_3]] - `contains` [EXTRACTED]
+- [[Connections_1699]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1385
+#graphify/document #graphify/EXTRACTED #community/Community_1099

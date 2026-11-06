@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/Connections_1052.md"
+source_file: "vault/Graph/Connections_1052_1.md"
 type: "document"
 community: "Community 134"
 location: "L1"
@@ -9,10 +9,10 @@ tags:
   - community/Community_134
 ---
 
-# Connections_1052.md
+# Connections_1052_1.md
 
 ## Connections
-- [[Connections_1456]] - `contains` [EXTRACTED]
+- [[Connections_1052_2]] - `contains` [EXTRACTED]
 - [[NPC.say()_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 

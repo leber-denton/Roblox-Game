@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Sfx.play().md"
+source_file: "vault/Graph/Sfx.play()_1_1.md"
 type: "document"
-community: "Community 177"
-location: "L1"
+community: "Community 101"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_177
+  - community/Community_101
 ---
 
-# Sfx.play().md
+# Sfx.play()_1.md
 
 ## Connections
-- [[Sfx.luau_2]] - `references` [EXTRACTED]
-- [[Sfx.play()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 215]] - `references` [EXTRACTED]
-- [[playTurn()_2]] - `references` [EXTRACTED]
+- [[Connections_157]] - `contains` [EXTRACTED]
+- [[Sfx.play()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_177
+#graphify/document #graphify/EXTRACTED #community/Community_101

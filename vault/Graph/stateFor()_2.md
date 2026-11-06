@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/stateFor()_2.md"
+source_file: "vault/Graph/stateFor()_1.md"
 type: "document"
-community: "Community 168"
-location: "L1"
+community: "Community 3734"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_3734
 ---
 
-# stateFor()_2.md
+# stateFor()
 
 ## Connections
-- [[_COMMUNITY_Community 151]] - `references` [EXTRACTED]
-- [[stateFor()_3]] - `contains` [EXTRACTED]
-- [[stateFor()_1]] - `references` [EXTRACTED]
+- [[Connections_18281]] - `contains` [EXTRACTED]
+- [[stateFor()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_3734

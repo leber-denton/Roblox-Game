@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ArenaManager.luau_2.md"
+source_file: "vault/Graph/Connections to other communities_235.md"
 type: "document"
-community: "Community 559"
+community: "Community 1262"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_559
+  - community/Community_1262
 ---
 
 # Connections
 
 ## Connections
-- [[ArenaManager.luau_2_2]] - `contains` [EXTRACTED]
+- [[Connections to other communities_288]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_559
+#graphify/document #graphify/EXTRACTED #community/Community_1262

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/strongest()_5.md"
+source_file: "vault/Graph/Connections_2100.md"
 type: "document"
-community: "Community 205"
-location: "L14"
+community: "Community 1171"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_205
+  - community/Community_1171
 ---
 
 # Connections
 
 ## Connections
-- [[strongest()_5_1]] - `contains` [EXTRACTED]
+- [[Connections_3005]] - `contains` [EXTRACTED]
+- [[Connections_2100_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_205
+#graphify/document #graphify/EXTRACTED #community/Community_1171

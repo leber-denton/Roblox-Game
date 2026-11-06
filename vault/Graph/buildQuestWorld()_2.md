@@ -12,8 +12,10 @@ tags:
 # buildQuestWorld()_2.md
 
 ## Connections
+- [[_COMMUNITY_Community 856]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 99]] - `references` [EXTRACTED]
 - [[buildQuestWorld()_1]] - `references` [EXTRACTED]
-- [[buildQuestWorld()_2_1]] - `contains` [EXTRACTED]
+- [[buildQuestWorld()_2_3]] - `contains` [EXTRACTED]
+- [[buildQuestWorld()_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_856

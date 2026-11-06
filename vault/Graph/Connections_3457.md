@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/gridLayout()_1.md"
+source_file: "vault/Graph/Current Priorities.md"
 type: "document"
-community: "Community 249"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_249
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[gridLayout()_1_1]] - `contains` [EXTRACTED]
+- [[Current Priorities]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_249
+#graphify/document #graphify/EXTRACTED #community/Community_119

@@ -12,7 +12,7 @@ tags:
 # refreshPill()
 
 ## Connections
-- [[ColiseumUI.client.luau_5]] - `contains` [EXTRACTED]
-- [[Functions_69]] - `references` [INFERRED]
+- [[ColiseumUI.client.luau_8]] - `contains` [EXTRACTED]
+- [[Functions_133]] - `references` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_215

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/remember().md"
+source_file: "vault/Graph/RouteTrainerService.init()_2.md"
 type: "document"
-community: "Community 963"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_963
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[remember()_4]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.init()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_963
+#graphify/document #graphify/EXTRACTED #community/Community_134

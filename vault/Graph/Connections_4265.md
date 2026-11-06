@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/DecorUI.md"
+source_file: "vault/Graph/Connections_3024.md"
 type: "document"
-community: "Community 439"
-location: "L14"
+community: "Community 1239"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_439
+  - community/Community_1239
 ---
 
 # Connections
 
 ## Connections
-- [[DecorUI_1]] - `contains` [EXTRACTED]
+- [[Connections_4266]] - `contains` [EXTRACTED]
+- [[Connections_3024_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_439
+#graphify/document #graphify/EXTRACTED #community/Community_1239

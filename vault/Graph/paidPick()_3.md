@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/paidPick().md"
+source_file: "vault/Graph/paidPick()_1.md"
 type: "document"
-community: "Community 53"
-location: "L1"
+community: "Community 292"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_53
+  - community/Community_292
 ---
 
 # paidPick().md
 
 ## Connections
-- [[GameData.canEnter()_3]] - `references` [EXTRACTED]
-- [[RareEventService.luau_3]] - `references` [EXTRACTED]
-- [[RareEventService.trigger()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
-- [[openLanes()_3]] - `references` [EXTRACTED]
-- [[paidPick()_4]] - `contains` [EXTRACTED]
-- [[rarestOf()_3]] - `references` [EXTRACTED]
+- [[Connections_15904]] - `contains` [EXTRACTED]
+- [[paidPick()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_53
+#graphify/document #graphify/EXTRACTED #community/Community_292

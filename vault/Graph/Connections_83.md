@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_83.md"
+source_file: "vault/Graph/Connections_22.md"
 type: "document"
-community: "Community 1025"
-location: "L1"
+community: "Community 1007"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1025
+  - community/Community_1007
 ---
 
-# Connections_83.md
+# Connections
 
 ## Connections
-- [[BattleData.movesAt()_2_1]] - `references` [EXTRACTED]
-- [[Connections_74]] - `contains` [EXTRACTED]
+- [[Connections_82]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1025
+#graphify/document #graphify/EXTRACTED #community/Community_1007

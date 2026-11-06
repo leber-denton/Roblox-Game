@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/BattleFX.makeBall()_2.md"
+source_file: "vault/Graph/BattleFX.makeBall()_4.md"
 type: "document"
-community: "Community 697"
-location: "L12"
+community: "Community 18"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_697
+  - community/Community_18
 ---
 
-# BattleFX.makeBall()
+# BattleFX.makeBall()_4.md
 
 ## Connections
-- [[BattleFX.makeBall()_2_1]] - `contains` [EXTRACTED]
-- [[Connections_5078]] - `contains` [EXTRACTED]
+- [[BattleFX.makeBall()_3]] - `contains` [EXTRACTED]
+- [[BattleFX.makeBall()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 222]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 697]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_697
+#graphify/document #graphify/EXTRACTED #community/Community_18

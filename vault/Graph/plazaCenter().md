@@ -12,7 +12,7 @@ tags:
 # plazaCenter()
 
 ## Connections
-- [[Functions_1]] - `references` [INFERRED]
+- [[Functions]] - `references` [INFERRED]
 - [[SocialService.display()]] - `calls` [EXTRACTED]
 - [[SocialService.luau]] - `contains` [EXTRACTED]
 - [[setupCommunity()]] - `calls` [EXTRACTED]

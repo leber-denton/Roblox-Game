@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Graph/script_parent_weeklyeventservice_1.md"
+source_file: "vault/Graph/script_parent_weeklyeventservice.md"
 type: "document"
-community: "Community 168"
+community: "Community 639"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_639
 ---
 
-# script_parent_weeklyeventservice_1.md
+# script_parent_weeklyeventservice.md
 
 ## Connections
-- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 148]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[script_parent_weeklyeventservice]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[script_parent_weeklyeventservice_7]] - `contains` [EXTRACTED]
+- [[script_parent_weeklyeventservice_1_1]] - `references` [EXTRACTED]
+- [[script_parent_weeklyeventservice_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_639

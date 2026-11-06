@@ -12,9 +12,7 @@ tags:
 # Community 0.md
 
 ## Connections
-- [[Community 0_2]] - `contains` [EXTRACTED]
-- [[Connections to other communities_66_1]] - `references` [EXTRACTED]
-- [[Top bridge nodes_67_1]] - `references` [EXTRACTED]
+- [[Community 0_5]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 252]] - `references` [EXTRACTED]
 

@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_425.md"
+source_file: "vault/Graph/Connections_3998.md"
 type: "document"
-community: "Community 1154"
-location: "L1"
+community: "Community 103"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1154
+  - community/Community_103
 ---
 
-# Connections_425.md
+# Connections
 
 ## Connections
-- [[Connections_381]] - `contains` [EXTRACTED]
-- [[laneSpot()_1]] - `references` [EXTRACTED]
+- [[Connections_3998_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1154
+#graphify/document #graphify/EXTRACTED #community/Community_103

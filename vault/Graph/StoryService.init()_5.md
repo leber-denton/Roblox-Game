@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/StoryService.init().md"
+source_file: "vault/Graph/StoryService.init()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 320"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_320
 ---
 
-# StoryService.init()
+# StoryService.init().md
 
 ## Connections
-- [[Connections_5871]] - `contains` [EXTRACTED]
-- [[StoryService.init()_4]] - `contains` [EXTRACTED]
+- [[Connections_16586]] - `contains` [EXTRACTED]
+- [[StoryService.init()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_320

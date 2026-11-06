@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/button()_1_1.md"
+source_file: "vault/Graph/button()_1_2.md"
 type: "document"
-community: "Community 138"
-location: "L12"
+community: "Community 810"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_810
 ---
 
-# button()_1.md
+# button()_1_2.md
 
 ## Connections
-- [[Connections_1671]] - `contains` [EXTRACTED]
-- [[button()_1_1_1]] - `contains` [EXTRACTED]
+- [[Connections_5258_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
+- [[button()_1_3]] - `contains` [EXTRACTED]
+- [[button()_1_1_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_810

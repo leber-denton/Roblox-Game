@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/shinyColor().md"
+source_file: "vault/Graph/Members_353.md"
 type: "document"
-community: "Community 137"
+community: "Community 1097"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1097
 ---
 
 # Connections
 
 ## Connections
-- [[shinyColor()_2]] - `contains` [EXTRACTED]
+- [[Members_353_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1097

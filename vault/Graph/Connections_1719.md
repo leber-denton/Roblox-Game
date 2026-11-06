@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/CodeSfx.md"
+source_file: "vault/Graph/Connections_182.md"
 type: "document"
-community: "Community 1392"
-location: "L14"
+community: "Community 110"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1392
+  - community/Community_110
 ---
 
 # Connections
 
 ## Connections
-- [[CodeSfx]] - `contains` [EXTRACTED]
+- [[Connections_1720]] - `contains` [EXTRACTED]
+- [[Connections_182_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1392
+#graphify/document #graphify/EXTRACTED #community/Community_110

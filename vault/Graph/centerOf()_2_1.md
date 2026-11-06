@@ -12,9 +12,9 @@ tags:
 # centerOf()_2.md
 
 ## Connections
-- [[Connections_843_1]] - `references` [EXTRACTED]
+- [[Connections_2933_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
-- [[centerOf()_4]] - `contains` [EXTRACTED]
+- [[centerOf()_7]] - `contains` [EXTRACTED]
 - [[centerOf()_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_97

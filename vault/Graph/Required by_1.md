@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Code/SocialService.md"
+source_file: "vault/Graph/Required by.md"
 type: "document"
-community: "Community 10"
-location: "L11"
+community: "Community 100"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_10
+  - community/Community_100
 ---
 
-# Required by
+# Required by.md
 
 ## Connections
-- [[SocialService]] - `contains` [EXTRACTED]
+- [[GraphMusic]] - `references` [EXTRACTED]
+- [[Required by_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_10
+#graphify/document #graphify/EXTRACTED #community/Community_100

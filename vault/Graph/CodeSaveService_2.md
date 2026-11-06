@@ -1,28 +1,21 @@
 ---
-source_file: "vault/Code/SaveService.md"
+source_file: "vault/Graph/CodeSaveService_2.md"
 type: "document"
-community: "Community 13"
+community: "Community 1298"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_1298
 ---
 
-# Code/SaveService.md
+# CodeSaveService_2.md
 
 ## Connections
-- [[CodeBaseManager]] - `references` [EXTRACTED]
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
-- [[CodeColiseumService_2]] - `references` [EXTRACTED]
-- [[CodeDecorService_2]] - `references` [EXTRACTED]
-- [[CodeMain_2]] - `references` [EXTRACTED]
-- [[CodePassService_2]] - `references` [EXTRACTED]
-- [[CodePlayerData_2]] - `references` [EXTRACTED]
-- [[CodeProgressService_2]] - `references` [EXTRACTED]
-- [[CodeSocialService_2]] - `references` [EXTRACTED]
-- [[CodeStoryService]] - `references` [EXTRACTED]
-- [[Index]] - `references` [EXTRACTED]
-- [[SaveService]] - `contains` [EXTRACTED]
+- [[CodeSaveService_4]] - `contains` [EXTRACTED]
+- [[CodeSaveService_1_1]] - `references` [EXTRACTED]
+- [[Connections_2269_1]] - `references` [EXTRACTED]
+- [[GraphIndex]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_1298

@@ -12,7 +12,7 @@ tags:
 # showMenu()
 
 ## Connections
-- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_7]] - `contains` [EXTRACTED]
 - [[GameData.ballMultiplier()]] - `calls` [INFERRED]
 - [[GameData.ballOrder()]] - `calls` [INFERRED]
 - [[GameData.battleItemOrder()]] - `calls` [INFERRED]

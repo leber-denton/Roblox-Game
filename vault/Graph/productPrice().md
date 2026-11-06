@@ -12,7 +12,7 @@ tags:
 # productPrice()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
 - [[tabs.Robux()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

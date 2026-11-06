@@ -12,9 +12,9 @@ tags:
 # Community 162
 
 ## Connections
-- [[Connections to other communities_11]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_11]] - `contains` [EXTRACTED]
-- [[Members_11]] - `contains` [EXTRACTED]
+- [[Connections to other communities_12]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_16]] - `contains` [EXTRACTED]
+- [[Members_16]] - `contains` [EXTRACTED]
 - [[Top bridge nodes_13]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 162]] - `contains` [EXTRACTED]
 

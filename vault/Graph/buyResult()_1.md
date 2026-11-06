@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[_COMMUNITY_Community 179]] - `references` [EXTRACTED]
-- [[buyResult()_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 564]] - `references` [EXTRACTED]
+- [[buyResult()_1_3]] - `contains` [EXTRACTED]
+- [[buyResult()_1_1]] - `references` [EXTRACTED]
 - [[buyResult()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_564

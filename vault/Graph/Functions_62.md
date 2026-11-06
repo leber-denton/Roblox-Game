@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_18.md"
+source_file: "vault/Code/Sfx.md"
 type: "document"
-community: "Community 211"
-location: "L12"
+community: "Community 13"
+location: "L11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_211
+  - community/Community_13
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_3083]] - `contains` [EXTRACTED]
-- [[Functions_18_1]] - `contains` [EXTRACTED]
+- [[Sfx]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_211
+#graphify/document #graphify/EXTRACTED #community/Community_13

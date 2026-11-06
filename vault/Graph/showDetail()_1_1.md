@@ -12,17 +12,15 @@ tags:
 # showDetail()_1.md
 
 ## Connections
-- [[ballIcon()_1]] - `references` [EXTRACTED]
+- [[CreatureIndex.client.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 420]] - `references` [EXTRACTED]
 - [[clearBody()_1]] - `references` [EXTRACTED]
 - [[getIndex()_1]] - `references` [EXTRACTED]
-- [[itemInfo()_1]] - `references` [EXTRACTED]
-- [[label()_1_2]] - `references` [EXTRACTED]
 - [[label()_2_1]] - `references` [EXTRACTED]
-- [[new()_6_1]] - `references` [EXTRACTED]
+- [[new()_5_1]] - `references` [EXTRACTED]
 - [[preview()_1_1]] - `references` [EXTRACTED]
-- [[showDetail()_3]] - `contains` [EXTRACTED]
+- [[showDetail()_2]] - `contains` [EXTRACTED]
 - [[showGrid()_1]] - `references` [EXTRACTED]
-- [[symbolFor()_1]] - `references` [EXTRACTED]
 - [[typeChips()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_106

@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[CreatureBuilder.build()]] - `calls` [INFERRED]
-- [[CreatureIndex.client.luau_5]] - `contains` [EXTRACTED]
-- [[new()_6]] - `calls` [EXTRACTED]
+- [[CreatureIndex.client.luau_8]] - `contains` [EXTRACTED]
+- [[new()_5]] - `calls` [EXTRACTED]
 - [[showDetail()_1]] - `calls` [EXTRACTED]
 - [[showGrid()]] - `calls` [EXTRACTED]
 

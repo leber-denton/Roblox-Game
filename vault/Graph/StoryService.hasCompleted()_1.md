@@ -13,6 +13,8 @@ tags:
 
 ## Connections
 - [[Connections_905_1]] - `references` [EXTRACTED]
-- [[StoryService.hasCompleted()_2]] - `contains` [EXTRACTED]
+- [[StoryService.hasCompleted()_1_1]] - `contains` [EXTRACTED]
+- [[StoryService.hasCompleted()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1245]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1245

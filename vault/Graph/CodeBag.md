@@ -12,7 +12,7 @@ tags:
 # Code/Bag.md
 
 ## Connections
-- [[Bag]] - `contains` [EXTRACTED]
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
+- [[Bag_4]] - `contains` [EXTRACTED]
+- [[Code Map_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_20

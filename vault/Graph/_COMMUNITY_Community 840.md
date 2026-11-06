@@ -1,19 +1,25 @@
 ---
 type: community
-members: 6
+members: 12
 ---
 
 # Community 840
 
-**Members:** 6 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_5577]] - document - vault/Graph/Connections_944.md
-- [[Connections_5578]] - document - vault/Graph/Connections_944.md
-- [[Connections_5579]] - document - vault/Graph/LockedLanes_1_1.md
-- [[Connections_944_1]] - document - vault/Graph/Connections_944.md
-- [[LockedLanes_1_3]] - document - vault/Graph/LockedLanes_1_1.md
-- [[LockedLanes_1_1_1]] - document - vault/Graph/LockedLanes_1_1.md
+- [[Connections_23143]] - document - vault/Graph/apply()_1.md
+- [[Connections_23144]] - document - vault/Graph/Functions_135.md
+- [[Connections_23145]] - document - vault/Graph/onSprint().md
+- [[Connections_23146]] - document - vault/Graph/targetSpeed().md
+- [[Functions_239]] - document - vault/Graph/Functions_135.md
+- [[Functions_135_1]] - document - vault/Graph/Functions_135.md
+- [[apply()_15]] - document - vault/Graph/apply()_1.md
+- [[apply()_1_5]] - document - vault/Graph/apply()_1.md
+- [[onSprint()_8]] - document - vault/Graph/onSprint().md
+- [[onSprint()_7]] - document - vault/Graph/onSprint().md
+- [[targetSpeed()_8]] - document - vault/Graph/targetSpeed().md
+- [[targetSpeed()_7]] - document - vault/Graph/targetSpeed().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +29,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 129]]
-- 1 edge to [[_COMMUNITY_Community 609]]
+- 4 edges to [[_COMMUNITY_Community 1034]]
 
 ## Top bridge nodes
-- [[LockedLanes_1_1_1]] - degree 4, connects to 2 communities
-- [[Connections_944_1]] - degree 3, connects to 1 community
+- [[targetSpeed()_7]] - degree 4, connects to 1 community
+- [[apply()_1_5]] - degree 4, connects to 1 community
+- [[onSprint()_7]] - degree 3, connects to 1 community
+- [[Functions_135_1]] - degree 3, connects to 1 community

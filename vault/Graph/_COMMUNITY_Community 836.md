@@ -8,19 +8,19 @@ members: 13
 **Members:** 13 nodes
 
 ## Members
-- [[Connections_5561]] - document - vault/Graph/Connections_939.md
-- [[Connections_5562]] - document - vault/Graph/Connections_939.md
-- [[Connections_5563]] - document - vault/Graph/Connections_940.md
-- [[Connections_5564]] - document - vault/Graph/Connections_940.md
-- [[Connections_5565]] - document - vault/Graph/Connections_941.md
-- [[Connections_5566]] - document - vault/Graph/Connections_941.md
-- [[Connections_5567]] - document - vault/Graph/Required by_11_1.md
-- [[Connections_939_1]] - document - vault/Graph/Connections_939.md
-- [[Connections_940_1]] - document - vault/Graph/Connections_940.md
-- [[Connections_941_1]] - document - vault/Graph/Connections_941.md
-- [[Required by_11_2]] - document - vault/Graph/Required by_11_1.md
-- [[Required by_11_1]] - document - vault/Graph/Required by_11_1.md
-- [[_COMMUNITY_Community 128]] - document - vault/Graph/_COMMUNITY_Community 128.md
+- [[Connections_23102]] - document - vault/Graph/Connections_5124.md
+- [[Connections_23103]] - document - vault/Graph/Connections_5124.md
+- [[Connections_23104]] - document - vault/Graph/Connections_5125.md
+- [[Connections_23105]] - document - vault/Graph/Connections_5125.md
+- [[Connections_23106]] - document - vault/Graph/Live Query (requires Dataview plugin)_363.md
+- [[Connections_23107]] - document - vault/Graph/Members_368.md
+- [[Connections_5124_1]] - document - vault/Graph/Connections_5124.md
+- [[Connections_5125_1]] - document - vault/Graph/Connections_5125.md
+- [[Live Query (requires Dataview plugin)_1852]] - document - vault/Graph/Live Query (requires Dataview plugin)_363.md
+- [[Live Query (requires Dataview plugin)_363_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_363.md
+- [[Members_1851]] - document - vault/Graph/Members_368.md
+- [[Members_368_1]] - document - vault/Graph/Members_368.md
+- [[_COMMUNITY_Community 1364]] - document - vault/Graph/_COMMUNITY_Community 1364.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,13 +30,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 128]]
-- 2 edges to [[_COMMUNITY_Community 492]]
-- 2 edges to [[_COMMUNITY_Community 838]]
-- 2 edges to [[_COMMUNITY_Community 839]]
-- 2 edges to [[_COMMUNITY_Community 966]]
-- 1 edge to [[_COMMUNITY_Community 499]]
-- 1 edge to [[_COMMUNITY_Community 876]]
+- 3 edges to [[_COMMUNITY_Community 1364]]
+- 2 edges to [[_COMMUNITY_Community 2515]]
+- 2 edges to [[_COMMUNITY_Community 2516]]
+- 1 edge to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 2400]]
+- 1 edge to [[_COMMUNITY_Community 277]]
+- 1 edge to [[_COMMUNITY_Community 2828]]
+- 1 edge to [[_COMMUNITY_Community 410]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 128]] - degree 17, connects to 7 communities
+- [[_COMMUNITY_Community 1364]] - degree 16, connects to 8 communities

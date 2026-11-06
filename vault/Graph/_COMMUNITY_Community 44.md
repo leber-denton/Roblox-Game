@@ -9,7 +9,7 @@ members: 6
 
 ## Members
 - [[ArenaManager.acquire()]] - code - src/ServerScriptService/Modules/ArenaManager.luau
-- [[ArenaManager.luau_2]] - code - src/ServerScriptService/Modules/ArenaManager.luau
+- [[ArenaManager.luau_6]] - code - src/ServerScriptService/Modules/ArenaManager.luau
 - [[ArenaManager.release()]] - code - src/ServerScriptService/Modules/ArenaManager.luau
 - [[build()_1]] - code - src/ServerScriptService/Modules/ArenaManager.luau
 - [[disc()]] - code - src/ServerScriptService/Modules/ArenaManager.luau

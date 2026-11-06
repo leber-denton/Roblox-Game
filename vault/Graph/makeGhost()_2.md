@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/makeGhost().md"
+source_file: "vault/Graph/makeGhost()_2.md"
 type: "document"
-community: "Community 109"
-location: "L12"
+community: "Community 63"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_109
+  - community/Community_63
 ---
 
-# makeGhost()
+# makeGhost()_2.md
 
 ## Connections
-- [[Connections_208]] - `contains` [EXTRACTED]
-- [[makeGhost()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 240]] - `references` [EXTRACTED]
+- [[makeGhost()_1]] - `references` [EXTRACTED]
+- [[makeGhost()_1_1]] - `references` [EXTRACTED]
+- [[makeGhost()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_109
+#graphify/document #graphify/EXTRACTED #community/Community_63

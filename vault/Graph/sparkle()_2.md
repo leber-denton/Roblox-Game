@@ -12,9 +12,10 @@ tags:
 # sparkle()_2.md
 
 ## Connections
-- [[Connections_760_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[sparkle()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
 - [[sparkle()_1]] - `references` [EXTRACTED]
+- [[sparkle()_2_1]] - `contains` [EXTRACTED]
+- [[sparkle()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_18

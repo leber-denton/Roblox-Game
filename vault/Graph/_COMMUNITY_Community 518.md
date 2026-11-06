@@ -1,25 +1,31 @@
 ---
 type: community
-members: 12
+members: 18
 ---
 
 # Community 518
 
-**Members:** 12 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Connections_4520]] - document - vault/Graph/attachCard()_2.md
-- [[Connections_4521]] - document - vault/Graph/Connections_26.md
-- [[Connections_4522]] - document - vault/Graph/Connections_26.md
-- [[Connections_4523]] - document - vault/Graph/Connections_27.md
-- [[Connections_4524]] - document - vault/Graph/Connections_27.md
-- [[Connections_4525]] - document - vault/Graph/Connections_508.md
-- [[Connections_26_1]] - document - vault/Graph/Connections_26.md
-- [[Connections_27_1]] - document - vault/Graph/Connections_27.md
-- [[Connections_508_1]] - document - vault/Graph/Connections_508.md
-- [[Connections_508_2]] - document - vault/Graph/Connections_508.md
-- [[attachCard()_2_1]] - document - vault/Graph/attachCard()_2.md
-- [[attachCard()_2_2]] - document - vault/Graph/attachCard()_2.md
+- [[CodeSocialService_4]] - document - vault/Graph/CodeSocialService_2.md
+- [[CodeSocialService_3]] - document - vault/Graph/CodeSocialService_1.md
+- [[CodeSocialService_1_1]] - document - vault/Graph/CodeSocialService_1.md
+- [[CodeSocialService_2_1]] - document - vault/Graph/CodeSocialService_2.md
+- [[Connections_20394]] - document - vault/Graph/CodeSocialService_1.md
+- [[Connections_20395]] - document - vault/Graph/CodeSocialService_2.md
+- [[Connections_20396]] - document - vault/Graph/Connections_2271.md
+- [[Connections_20397]] - document - vault/Graph/Connections_2271.md
+- [[Connections_20398]] - document - vault/Graph/Connections_2315.md
+- [[Connections_20399]] - document - vault/Graph/Connections_2315.md
+- [[Connections_20400]] - document - vault/Graph/Connections_2316.md
+- [[Connections_20401]] - document - vault/Graph/Connections_2316.md
+- [[Connections_20402]] - document - vault/Graph/Connections_617_1.md
+- [[Connections_2271_1]] - document - vault/Graph/Connections_2271.md
+- [[Connections_2315_1]] - document - vault/Graph/Connections_2315.md
+- [[Connections_2316_1]] - document - vault/Graph/Connections_2316.md
+- [[Connections_617_2]] - document - vault/Graph/Connections_617_1.md
+- [[Connections_617_1]] - document - vault/Graph/Connections_617_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,11 +35,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 75]]
-- 3 edges to [[_COMMUNITY_Community 101]]
+- 6 edges to [[_COMMUNITY_Community 34]]
+- 1 edge to [[_COMMUNITY_Community 119]]
 
 ## Top bridge nodes
-- [[Connections_508_1]] - degree 5, connects to 2 communities
-- [[attachCard()_2_1]] - degree 5, connects to 2 communities
-- [[Connections_26_1]] - degree 4, connects to 1 community
-- [[Connections_27_1]] - degree 3, connects to 1 community
+- [[CodeSocialService_1_1]] - degree 5, connects to 2 communities
+- [[Connections_617_1]] - degree 4, connects to 1 community
+- [[Connections_2315_1]] - degree 4, connects to 1 community
+- [[CodeSocialService_2_1]] - degree 4, connects to 1 community
+- [[Connections_2271_1]] - degree 3, connects to 1 community

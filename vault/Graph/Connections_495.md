@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Connections_495.md"
+source_file: "vault/Graph/Connections_458.md"
 type: "document"
-community: "Community 1140"
-location: "L1"
+community: "Community 1031"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1140
+  - community/Community_1031
 ---
 
-# Connections_495.md
+# Connections
 
 ## Connections
-- [[Connections_335]] - `contains` [EXTRACTED]
-- [[Functions_12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 118]] - `references` [EXTRACTED]
+- [[Connections_496]] - `contains` [EXTRACTED]
+- [[Connections_458]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1140
+#graphify/document #graphify/EXTRACTED #community/Community_1031

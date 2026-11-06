@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/setStep().md"
+source_file: "vault/Graph/setStep()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2056"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2056
 ---
 
-# setStep()
+# setStep()_4.md
 
 ## Connections
-- [[Connections_5859]] - `contains` [EXTRACTED]
-- [[setStep()_3]] - `contains` [EXTRACTED]
+- [[Connections_4897_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
+- [[setStep()_5]] - `contains` [EXTRACTED]
+- [[setStep()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2056

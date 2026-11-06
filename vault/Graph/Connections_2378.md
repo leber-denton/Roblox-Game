@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ProgressService.checkIndex()_2.md"
+source_file: "vault/Graph/Connections to other communities_140.md"
 type: "document"
-community: "Community 168"
+community: "Community 1129"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1129
 ---
 
 # Connections
 
 ## Connections
-- [[ProgressService.checkIndex()_2_1]] - `contains` [EXTRACTED]
+- [[Connections to other communities_164]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1129

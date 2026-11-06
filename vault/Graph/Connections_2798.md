@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ShowcaseBuilder.luau_2.md"
+source_file: "vault/Graph/Connections to other communities_132.md"
 type: "document"
-community: "Community 189"
+community: "Community 1152"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_189
+  - community/Community_1152
 ---
 
 # Connections
 
 ## Connections
-- [[ShowcaseBuilder.luau_2_1]] - `contains` [EXTRACTED]
+- [[Connections to other communities_190]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_189
+#graphify/document #graphify/EXTRACTED #community/Community_1152

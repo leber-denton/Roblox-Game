@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.toLocal().md"
+source_file: "vault/Graph/Connections_4370.md"
 type: "document"
-community: "Community 86"
-location: "L14"
+community: "Community 1331"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1331
 ---
 
 # Connections
 
 ## Connections
-- [[DecorData.toLocal()_2]] - `contains` [EXTRACTED]
+- [[Connections_5741]] - `contains` [EXTRACTED]
+- [[Connections_4370_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1331

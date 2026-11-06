@@ -12,10 +12,10 @@ tags:
 # hubCFrame()_1.md
 
 ## Connections
-- [[ColiseumService.luau_2_1]] - `references` [EXTRACTED]
+- [[ColiseumService.luau_3_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[hubCFrame()_3]] - `contains` [EXTRACTED]
+- [[hubCFrame()_7]] - `contains` [EXTRACTED]
 - [[hubCFrame()_2_1]] - `references` [EXTRACTED]
 - [[setupPortals()_1_1]] - `references` [EXTRACTED]
 

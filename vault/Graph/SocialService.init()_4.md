@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/SocialService.init().md"
+source_file: "vault/Graph/SocialService.init()_3.md"
 type: "document"
-community: "Community 33"
+community: "Community 1798"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_1798
 ---
 
-# SocialService.init()
+# SocialService.init().md
 
 ## Connections
-- [[Connections_3899]] - `contains` [EXTRACTED]
+- [[Connections_10495]] - `contains` [EXTRACTED]
 - [[SocialService.init()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_33
+#graphify/document #graphify/EXTRACTED #community/Community_1798

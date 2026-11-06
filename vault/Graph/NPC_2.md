@@ -14,7 +14,9 @@ tags:
 ## Connections
 - [[CodeNPC]] - `references` [EXTRACTED]
 - [[GraphNPC]] - `references` [EXTRACTED]
-- [[NPC_2_1]] - `contains` [EXTRACTED]
+- [[NPC_2_3]] - `contains` [EXTRACTED]
+- [[NPC_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 159]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 71]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_159

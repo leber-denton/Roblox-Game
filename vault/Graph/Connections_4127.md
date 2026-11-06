@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.quad()_2.md"
+source_file: "vault/Graph/Requires_20.md"
 type: "document"
-community: "Community 384"
+community: "Community 1227"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_384
+  - community/Community_1227
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.quad()_4]] - `contains` [EXTRACTED]
+- [[Requires_25]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_384
+#graphify/document #graphify/EXTRACTED #community/Community_1227

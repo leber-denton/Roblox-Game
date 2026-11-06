@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/collectStatic().md"
+source_file: "vault/Graph/collectStatic()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 152"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_152
 ---
 
-# collectStatic().md
+# collectStatic()_4.md
 
 ## Connections
-- [[DecorService.init()_4]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[canPlace()_1]] - `references` [EXTRACTED]
-- [[collectStatic()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[collectStatic()_6]] - `contains` [EXTRACTED]
+- [[collectStatic()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_152

@@ -1,20 +1,45 @@
 ---
-source_file: "vault/Graph/TutorialService.luau_2.md"
-type: "document"
-community: "Community 134"
+source_file: "src/ServerScriptService/Modules/TutorialService.luau"
+type: "code"
+community: "Community 15"
 location: "L1"
 tags:
-  - graphify/document
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_15
 ---
 
-# TutorialService.luau_2.md
+# TutorialService.luau
 
 ## Connections
-- [[TutorialService.luau_1]] - `references` [EXTRACTED]
-- [[TutorialService.luau_2_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[GameData.luau]] - `imports` [EXTRACTED]
+- [[Main.server.luau]] - `imports` [EXTRACTED]
+- [[TutorialService.finishGuide()]] - `contains` [EXTRACTED]
+- [[TutorialService.init()]] - `contains` [EXTRACTED]
+- [[TutorialService.isGuideStep()]] - `contains` [EXTRACTED]
+- [[TutorialService.logFunnel()]] - `contains` [EXTRACTED]
+- [[TutorialService.onHeal()]] - `contains` [EXTRACTED]
+- [[TutorialService.onShop()]] - `contains` [EXTRACTED]
+- [[TutorialService.resumeGuide()]] - `contains` [EXTRACTED]
+- [[TutorialService.start()]] - `contains` [EXTRACTED]
+- [[clearModels()_1]] - `contains` [EXTRACTED]
+- [[dialogue()]] - `contains` [EXTRACTED]
+- [[guideTarget()]] - `contains` [EXTRACTED]
+- [[onProfessor()]] - `contains` [EXTRACTED]
+- [[pickStarter()]] - `contains` [EXTRACTED]
+- [[playerStarter()]] - `contains` [EXTRACTED]
+- [[profIntro()]] - `contains` [EXTRACTED]
+- [[rivalChallenge()]] - `contains` [EXTRACTED]
+- [[rivalTeam()]] - `contains` [EXTRACTED]
+- [[script_parent_basemanager_8]] - `imports` [EXTRACTED]
+- [[script_parent_battleservice_8]] - `imports` [EXTRACTED]
+- [[script_parent_npc_7]] - `imports` [EXTRACTED]
+- [[script_parent_playerdata_8]] - `imports` [EXTRACTED]
+- [[script_parent_wildspawner_8]] - `imports` [EXTRACTED]
+- [[setStep()]] - `contains` [EXTRACTED]
+- [[spawnFor()]] - `contains` [EXTRACTED]
+- [[startNibbit()]] - `contains` [EXTRACTED]
+- [[startRivalBattle()]] - `contains` [EXTRACTED]
+- [[starterInfo()]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/code #graphify/EXTRACTED #community/Community_15

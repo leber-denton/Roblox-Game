@@ -1,26 +1,52 @@
 ---
 type: community
-members: 13
+members: 39
 ---
 
 # Community 166
 
-**Members:** 13 nodes
+**Members:** 39 nodes
 
 ## Members
-- [[Connections_2157]] - document - vault/Graph/Connections to other communities_24.md
-- [[Connections_2158]] - document - vault/Graph/GraphWildSpawner.md
-- [[Connections_2159]] - document - vault/Graph/WildSpawner_1_1.md
-- [[Connections_2160]] - document - vault/Graph/WildSpawner_1.md
-- [[Connections to other communities_131]] - document - vault/Graph/Connections to other communities_24.md
-- [[Connections to other communities_24_1]] - document - vault/Graph/Connections to other communities_24.md
-- [[GraphWildSpawner_1]] - document - vault/Graph/GraphWildSpawner.md
-- [[GraphWildSpawner_2]] - document - vault/Graph/GraphWildSpawner.md
-- [[WildSpawner_1]] - document - vault/Graph/WildSpawner_1.md
-- [[WildSpawner_1_2]] - document - vault/Graph/WildSpawner_1_1.md
-- [[WildSpawner_1_3]] - document - vault/Graph/WildSpawner_1.md
+- [[Community 166_1]] - document - vault/Graph/Community 166.md
+- [[Community 166_2]] - document - vault/Graph/_COMMUNITY_Community 166.md
+- [[Community 166]] - document - vault/Graph/Community 166.md
+- [[Community 535]] - document - vault/Graph/_COMMUNITY_Community 535.md
+- [[Community 962]] - document - vault/Graph/_COMMUNITY_Community 962.md
+- [[Connections_9298]] - document - vault/Graph/Community 166.md
+- [[Connections_9299]] - document - vault/Graph/Live Query (requires Dataview plugin)_30_1.md
+- [[Connections_9300]] - document - vault/Graph/Live Query (requires Dataview plugin)_31_1.md
+- [[Connections_9301]] - document - vault/Graph/Members_30_1.md
+- [[Connections_9302]] - document - vault/Graph/Top bridge nodes_26_1.md
+- [[Connections_9303]] - document - vault/Graph/WildSpawner_1_1.md
+- [[Connections_9304]] - document - vault/Graph/WildSpawner_1_2.md
+- [[Connections to other communities_599]] - document - vault/Graph/_COMMUNITY_Community 166.md
+- [[Connections to other communities_600]] - document - vault/Graph/_COMMUNITY_Community 535.md
+- [[Connections to other communities_601]] - document - vault/Graph/_COMMUNITY_Community 962.md
+- [[Live Query (requires Dataview plugin)_721]] - document - vault/Graph/_COMMUNITY_Community 166.md
+- [[Live Query (requires Dataview plugin)_722]] - document - vault/Graph/_COMMUNITY_Community 535.md
+- [[Live Query (requires Dataview plugin)_723]] - document - vault/Graph/_COMMUNITY_Community 962.md
+- [[Live Query (requires Dataview plugin)_30_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_30_1.md
+- [[Live Query (requires Dataview plugin)_30_1_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_30_1.md
+- [[Live Query (requires Dataview plugin)_31_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_31_1.md
+- [[Live Query (requires Dataview plugin)_31_1_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_31_1.md
+- [[Members_727]] - document - vault/Graph/_COMMUNITY_Community 166.md
+- [[Members_728]] - document - vault/Graph/_COMMUNITY_Community 535.md
+- [[Members_729]] - document - vault/Graph/_COMMUNITY_Community 962.md
+- [[Members_30_1]] - document - vault/Graph/Members_30_1.md
+- [[Members_30_1_1]] - document - vault/Graph/Members_30_1.md
+- [[Top bridge nodes_589]] - document - vault/Graph/_COMMUNITY_Community 166.md
+- [[Top bridge nodes_590]] - document - vault/Graph/_COMMUNITY_Community 535.md
+- [[Top bridge nodes_591]] - document - vault/Graph/_COMMUNITY_Community 962.md
+- [[Top bridge nodes_26_1]] - document - vault/Graph/Top bridge nodes_26_1.md
+- [[Top bridge nodes_26_1_1]] - document - vault/Graph/Top bridge nodes_26_1.md
+- [[WildSpawner_1_3]] - document - vault/Graph/WildSpawner_1_1.md
+- [[WildSpawner_1_4]] - document - vault/Graph/WildSpawner_1_2.md
 - [[WildSpawner_1_1]] - document - vault/Graph/WildSpawner_1_1.md
+- [[WildSpawner_1_2]] - document - vault/Graph/WildSpawner_1_2.md
 - [[_COMMUNITY_Community 166]] - document - vault/Graph/_COMMUNITY_Community 166.md
+- [[_COMMUNITY_Community 535]] - document - vault/Graph/_COMMUNITY_Community 535.md
+- [[_COMMUNITY_Community 962]] - document - vault/Graph/_COMMUNITY_Community 962.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,18 +56,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 409]]
-- 2 edges to [[_COMMUNITY_Community 962]]
-- 1 edge to [[_COMMUNITY_Community 1020]]
-- 1 edge to [[_COMMUNITY_Community 1257]]
-- 1 edge to [[_COMMUNITY_Community 1289]]
-- 1 edge to [[_COMMUNITY_Community 1290]]
-- 1 edge to [[_COMMUNITY_Community 1303]]
-- 1 edge to [[_COMMUNITY_Community 1358]]
-- 1 edge to [[_COMMUNITY_Community 1359]]
-- 1 edge to [[_COMMUNITY_Community 1374]]
-- 1 edge to [[_COMMUNITY_Community 330]]
+- 3 edges to [[_COMMUNITY_Community 1109]]
+- 2 edges to [[_COMMUNITY_Community 985]]
+- 2 edges to [[_COMMUNITY_Community 279]]
+- 1 edge to [[_COMMUNITY_Community 12]]
+- 1 edge to [[_COMMUNITY_Community 1224]]
+- 1 edge to [[_COMMUNITY_Community 1376]]
+- 1 edge to [[_COMMUNITY_Community 1545]]
+- 1 edge to [[_COMMUNITY_Community 1583]]
+- 1 edge to [[_COMMUNITY_Community 803]]
+- 1 edge to [[_COMMUNITY_Community 577]]
+- 1 edge to [[_COMMUNITY_Community 34]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 166]] - degree 16, connects to 11 communities
-- [[WildSpawner_1]] - degree 5, connects to 1 community
+- [[_COMMUNITY_Community 535]] - degree 9, connects to 6 communities
+- [[_COMMUNITY_Community 166]] - degree 15, connects to 4 communities
+- [[_COMMUNITY_Community 962]] - degree 5, connects to 2 communities
+- [[WildSpawner_1_1]] - degree 4, connects to 1 community

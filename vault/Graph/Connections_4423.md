@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/shipSKILL.md"
+source_file: "vault/Graph/setupStats()_3.md"
 type: "document"
-community: "Community 491"
+community: "Community 1241"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_491
+  - community/Community_1241
 ---
 
 # Connections
 
 ## Connections
-- [[shipSKILL_1]] - `contains` [EXTRACTED]
+- [[setupStats()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_491
+#graphify/document #graphify/EXTRACTED #community/Community_1241

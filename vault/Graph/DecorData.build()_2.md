@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/DecorData.build().md"
+source_file: "vault/Graph/DecorData.build()_2.md"
 type: "document"
-community: "Community 109"
-location: "L12"
+community: "Community 63"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_109
+  - community/Community_63
 ---
 
-# DecorData.build()
+# DecorData.build()_2.md
 
 ## Connections
-- [[Connections_207]] - `contains` [EXTRACTED]
-- [[DecorData.build()_1]] - `contains` [EXTRACTED]
+- [[DecorData.build()_4]] - `contains` [EXTRACTED]
+- [[DecorData.build()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_109
+#graphify/document #graphify/EXTRACTED #community/Community_63

@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/BattleData.movesAt().md"
+source_file: "vault/Graph/BattleData.movesAt()_3.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 102"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_102
 ---
 
-# BattleData.movesAt().md
+# BattleData.movesAt()
 
 ## Connections
-- [[BaseManager.evolve()_3]] - `references` [EXTRACTED]
-- [[BattleData.luau_3]] - `references` [EXTRACTED]
-- [[BattleData.movesAt()_5]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[BattleData.movesAt()_3]] - `contains` [EXTRACTED]
+- [[Connections_228]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_102

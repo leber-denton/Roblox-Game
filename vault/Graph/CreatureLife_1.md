@@ -12,10 +12,12 @@ tags:
 # CreatureLife_1.md
 
 ## Connections
-- [[CreatureLife_1_3]] - `contains` [EXTRACTED]
+- [[CreatureLife_1_6]] - `contains` [EXTRACTED]
 - [[CreatureLife_1_1]] - `references` [EXTRACTED]
+- [[CreatureLife_1_2]] - `references` [EXTRACTED]
+- [[CreatureLife_1_3]] - `references` [EXTRACTED]
 - [[Functions_30_1]] - `references` [EXTRACTED]
-- [[GraphCreatureLife]] - `references` [EXTRACTED]
+- [[GraphCreatureLife_1_1]] - `references` [EXTRACTED]
 - [[Required by_30_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 124]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 51]] - `references` [EXTRACTED]

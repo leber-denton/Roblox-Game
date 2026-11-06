@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GraphArenaManager.md"
+source_file: "vault/Graph/ArenaManager.md"
 type: "document"
-community: "Community 691"
+community: "Community 118"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_691
+  - community/Community_118
 ---
 
-# GraphArenaManager.md
+# Graph/ArenaManager.md
 
 ## Connections
-- [[GraphArenaManager_2]] - `contains` [EXTRACTED]
+- [[ArenaManager_4]] - `contains` [EXTRACTED]
+- [[Connections_2172_1]] - `references` [EXTRACTED]
+- [[GraphArenaManager]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 118]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_691
+#graphify/document #graphify/EXTRACTED #community/Community_118

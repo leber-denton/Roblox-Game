@@ -1,23 +1,24 @@
 ---
 source_file: "vault/Graph/new()_6.md"
 type: "document"
-community: "Community 106"
+community: "Community 109"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_106
+  - community/Community_109
 ---
 
 # new()_6.md
 
 ## Connections
-- [[label()_2_1]] - `references` [EXTRACTED]
-- [[new()_11]] - `contains` [EXTRACTED]
-- [[preview()_1_1]] - `references` [EXTRACTED]
-- [[round()_3_1]] - `references` [EXTRACTED]
-- [[showDetail()_1_1]] - `references` [EXTRACTED]
-- [[showGrid()_1]] - `references` [EXTRACTED]
-- [[typeChips()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 421]] - `references` [EXTRACTED]
+- [[arrowPart()_3]] - `references` [EXTRACTED]
+- [[intro()_1]] - `references` [EXTRACTED]
+- [[new()_14]] - `contains` [EXTRACTED]
+- [[preview()_2_1]] - `references` [EXTRACTED]
+- [[runDialogue()_1]] - `references` [EXTRACTED]
+- [[setHighlight()_1]] - `references` [EXTRACTED]
+- [[showPicker()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_106
+#graphify/document #graphify/EXTRACTED #community/Community_109

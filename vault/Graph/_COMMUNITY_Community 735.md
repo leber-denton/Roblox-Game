@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_5210]] - document - vault/Graph/Connections_221.md
-- [[Connections_5211]] - document - vault/Graph/Connections_221.md
-- [[Connections_5212]] - document - vault/Graph/Connections_222.md
-- [[Connections_5213]] - document - vault/Graph/Connections_222.md
-- [[Connections_221_1]] - document - vault/Graph/Connections_221.md
-- [[Connections_222_1]] - document - vault/Graph/Connections_222.md
+- [[Connections_22288]] - document - vault/Graph/Connections_222.md
+- [[Connections_22289]] - document - vault/Graph/Connections_222.md
+- [[Connections_22290]] - document - vault/Graph/NpcGuard_2_1.md
+- [[Connections_222_3]] - document - vault/Graph/Connections_222.md
+- [[NpcGuard_2_3]] - document - vault/Graph/NpcGuard_2_1.md
+- [[NpcGuard_2_1_1]] - document - vault/Graph/NpcGuard_2_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +21,11 @@ members: 6
 TABLE source_file, type FROM #community/Community_735
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Community 110]]
+- 1 edge to [[_COMMUNITY_Community 395]]
+
+## Top bridge nodes
+- [[NpcGuard_2_1_1]] - degree 4, connects to 2 communities
+- [[Connections_222_3]] - degree 3, connects to 1 community

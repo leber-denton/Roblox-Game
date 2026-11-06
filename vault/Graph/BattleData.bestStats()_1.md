@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/BattleData.bestStats()_1.md"
+source_file: "vault/Graph/BattleData.bestStats()_2.md"
 type: "document"
-community: "Community 1093"
-location: "L1"
+community: "Community 3065"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1093
+  - community/Community_3065
 ---
 
-# BattleData.bestStats()_1.md
+# BattleData.bestStats()
 
 ## Connections
 - [[BattleData.bestStats()_2]] - `contains` [EXTRACTED]
-- [[BattleData.bestStats()_2_1]] - `references` [EXTRACTED]
-- [[Connections_81_1]] - `references` [EXTRACTED]
+- [[Connections_16183]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1093
+#graphify/document #graphify/EXTRACTED #community/Community_3065

@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/Sfx.md"
+source_file: "vault/Graph/GraphSfx.md"
 type: "document"
 community: "Community 162"
 location: "L1"
@@ -9,11 +9,11 @@ tags:
   - community/Community_162
 ---
 
-# Graph/Sfx.md
+# GraphSfx.md
 
 ## Connections
-- [[Sfx]] - `contains` [EXTRACTED]
-- [[Sfx_2_1]] - `references` [EXTRACTED]
+- [[GraphSfx_3]] - `contains` [EXTRACTED]
+- [[GraphSfx_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 162]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_162

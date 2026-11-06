@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/commands.heal()_1.md"
+source_file: "vault/Graph/commands.heal()_3.md"
 type: "document"
 community: "Community 437"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_437
 ---
 
-# commands.heal().md
+# commands.heal()_3.md
 
 ## Connections
-- [[Connections_4263]] - `contains` [EXTRACTED]
-- [[commands.heal()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 437]] - `references` [EXTRACTED]
+- [[commands.heal()_3_1]] - `contains` [EXTRACTED]
+- [[commands.heal()_5]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_437

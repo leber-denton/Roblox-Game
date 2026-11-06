@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/PlayerData.setStatMax()_2.md"
+source_file: "vault/Graph/PlayerData.setStatMax()_4.md"
 type: "document"
-community: "Community 810"
-location: "L12"
+community: "Community 2699"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_810
+  - community/Community_2699
 ---
 
-# PlayerData.setStatMax()
+# PlayerData.setStatMax()_4.md
 
 ## Connections
-- [[Connections_5487]] - `contains` [EXTRACTED]
-- [[PlayerData.setStatMax()_2]] - `contains` [EXTRACTED]
+- [[PlayerData.setStatMax()_7]] - `contains` [EXTRACTED]
+- [[PlayerData.setStatMax()_6]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 810]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_810
+#graphify/document #graphify/EXTRACTED #community/Community_2699

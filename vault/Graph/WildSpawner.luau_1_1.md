@@ -1,18 +1,21 @@
 ---
 source_file: "vault/Graph/WildSpawner.luau_1.md"
 type: "document"
-community: "Community 144"
-location: "L12"
+community: "Community 819"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_144
+  - community/Community_819
 ---
 
 # WildSpawner.luau_1.md
 
 ## Connections
-- [[Connections_1822]] - `contains` [EXTRACTED]
-- [[WildSpawner.luau_1]] - `contains` [EXTRACTED]
+- [[WildSpawner.luau_1]] - `references` [EXTRACTED]
+- [[WildSpawner.luau_1_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.luau_1_1_1]] - `references` [EXTRACTED]
+- [[WildSpawner.luau_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_144
+#graphify/document #graphify/EXTRACTED #community/Community_819

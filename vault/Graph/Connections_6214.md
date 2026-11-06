@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_88.md"
+source_file: "vault/Graph/NPC.luau_1_1.md"
 type: "document"
-community: "Community 93"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Requires_88_2]] - `contains` [EXTRACTED]
+- [[NPC.luau_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_134

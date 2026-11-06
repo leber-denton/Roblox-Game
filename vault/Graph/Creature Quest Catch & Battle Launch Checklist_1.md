@@ -1,20 +1,24 @@
 ---
-source_file: "vault/Graph/Creature Quest Catch & Battle Launch Checklist_1.md"
+source_file: "vault/Graph/Creature Quest Catch & Battle Launch Checklist.md"
 type: "document"
-community: "Community 108"
+community: "Community 569"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_569
 ---
 
-# Creature Quest Catch & Battle Launch Checklist_1.md
+# Creature Quest Catch & Battle Launch Checklist.md
 
 ## Connections
-- [[Connections_213]] - `references` [EXTRACTED]
-- [[Creature Quest Catch & Battle Launch Checklist_2]] - `contains` [EXTRACTED]
-- [[Creature Quest Catch & Battle Launch Checklist]] - `references` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist_8]] - `contains` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist_1_1]] - `references` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist_3]] - `references` [EXTRACTED]
+- [[Graphlaunch-checklist_2]] - `references` [EXTRACTED]
+- [[What you need to do before it makes money_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 108]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 329]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 40]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_569

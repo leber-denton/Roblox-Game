@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[_COMMUNITY_Community 249]] - `references` [EXTRACTED]
-- [[gridLayout()_1_1]] - `contains` [EXTRACTED]
+- [[gridLayout()_1_3]] - `contains` [EXTRACTED]
+- [[gridLayout()_1_1]] - `references` [EXTRACTED]
 - [[gridLayout()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_249

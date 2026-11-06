@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/commands.finishTutorial().md"
+source_file: "vault/Graph/commands.finishTutorial()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 225"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_225
 ---
 
-# commands.finishTutorial()
+# commands.finishTutorial().md
 
 ## Connections
-- [[Connections_5720]] - `contains` [EXTRACTED]
-- [[commands.finishTutorial()_3]] - `contains` [EXTRACTED]
+- [[Connections_13059]] - `contains` [EXTRACTED]
+- [[commands.finishTutorial()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_225

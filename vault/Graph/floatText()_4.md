@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/floatText()_2.md"
+source_file: "vault/Graph/floatText()_4.md"
 type: "document"
-community: "Community 340"
-location: "L12"
+community: "Community 103"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_340
+  - community/Community_103
 ---
 
-# floatText()
+# floatText()_4.md
 
 ## Connections
-- [[Connections_3992]] - `contains` [EXTRACTED]
-- [[floatText()_2]] - `contains` [EXTRACTED]
+- [[Connections_3992]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 103]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 340]] - `references` [EXTRACTED]
+- [[floatText()_2]] - `references` [EXTRACTED]
+- [[floatText()_4_1]] - `contains` [EXTRACTED]
+- [[floatText()_6]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_340
+#graphify/document #graphify/EXTRACTED #community/Community_103

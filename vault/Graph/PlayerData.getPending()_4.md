@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/PlayerData.getPending().md"
+source_file: "vault/Graph/PlayerData.getPending()_3.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 181"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_181
 ---
 
 # PlayerData.getPending().md
 
 ## Connections
-- [[PassService.onLoaded()_4]] - `references` [EXTRACTED]
-- [[PlayerData.getPending()_5]] - `contains` [EXTRACTED]
-- [[PlayerData.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
-- [[setupProducts()_3]] - `references` [EXTRACTED]
+- [[Connections_10846]] - `contains` [EXTRACTED]
+- [[PlayerData.getPending()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_181

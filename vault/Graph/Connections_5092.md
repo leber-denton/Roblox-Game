@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_906.md"
+source_file: "vault/Graph/sameCF()_4.md"
 type: "document"
-community: "Community 700"
-location: "L12"
+community: "Community 1286"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_700
+  - community/Community_1286
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_5093]] - `contains` [EXTRACTED]
-- [[Connections_906_1]] - `contains` [EXTRACTED]
+- [[sameCF()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_700
+#graphify/document #graphify/EXTRACTED #community/Community_1286

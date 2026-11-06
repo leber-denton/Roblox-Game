@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Shapes.turtle().md"
+source_file: "vault/Graph/Shapes.turtle()_4.md"
 type: "document"
-community: "Community 137"
-location: "L12"
+community: "Community 133"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_133
 ---
 
-# Shapes.turtle()
+# Shapes.turtle()_4.md
 
 ## Connections
-- [[Connections_1654]] - `contains` [EXTRACTED]
-- [[Shapes.turtle()_3]] - `contains` [EXTRACTED]
+- [[Shapes.turtle()_3]] - `references` [EXTRACTED]
+- [[Shapes.turtle()_4_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_133

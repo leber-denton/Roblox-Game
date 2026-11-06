@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/positionOf()_1.md"
+source_file: "vault/Graph/positionOf()_3.md"
 type: "document"
-community: "Community 471"
-location: "L12"
+community: "Community 459"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_471
+  - community/Community_459
 ---
 
-# positionOf().md
+# positionOf()_3.md
 
 ## Connections
-- [[Connections_4357]] - `contains` [EXTRACTED]
-- [[positionOf()_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 471]] - `references` [EXTRACTED]
+- [[positionOf()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_471
+#graphify/document #graphify/EXTRACTED #community/Community_459

@@ -2,7 +2,7 @@
 source_file: "vault/Graph/_COMMUNITY_Community 160.md"
 type: "document"
 community: "Community 1013"
-location: "L107"
+location: "L145"
 tags:
   - graphify/document
   - graphify/EXTRACTED

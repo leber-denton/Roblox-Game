@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.opTeam().md"
+source_file: "vault/Graph/Shapes.fox()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 133"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_133
 ---
 
 # Connections
 
 ## Connections
-- [[commands.opTeam()_4]] - `contains` [EXTRACTED]
+- [[Shapes.fox()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_133

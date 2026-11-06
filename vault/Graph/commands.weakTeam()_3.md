@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/commands.weakTeam().md"
+source_file: "vault/Graph/commands.weakTeam()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2823"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2823
 ---
 
-# commands.weakTeam().md
+# commands.weakTeam()_3.md
 
 ## Connections
-- [[AdminService.luau_2_1]] - `references` [EXTRACTED]
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[BaseManager.refresh()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
 - [[commands.weakTeam()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2823

@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/LeaderboardService.onJoin().md"
+source_file: "vault/Graph/LeaderboardService.onJoin()_5.md"
 type: "document"
-community: "Community 956"
+community: "Community 1678"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_956
+  - community/Community_1678
 ---
 
-# LeaderboardService.onJoin().md
+# LeaderboardService.onJoin()_5.md
 
 ## Connections
-- [[LeaderboardService.onJoin()_6]] - `contains` [EXTRACTED]
-- [[onPlayerAdded()_4]] - `references` [EXTRACTED]
-- [[setupStats()_3]] - `references` [EXTRACTED]
+- [[LeaderboardService.onJoin()_1]] - `contains` [EXTRACTED]
+- [[LeaderboardService.onJoin()_6]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_956
+#graphify/document #graphify/EXTRACTED #community/Community_1678

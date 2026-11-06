@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/setupPortals()_1.md"
+source_file: "vault/Graph/setupPortals()_3.md"
 type: "document"
-community: "Community 1465"
-location: "L12"
+community: "Community 2145"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1465
+  - community/Community_2145
 ---
 
-# setupPortals().md
+# setupPortals()_3.md
 
 ## Connections
-- [[Connections_1926]] - `contains` [EXTRACTED]
-- [[setupPortals()_1_1]] - `contains` [EXTRACTED]
+- [[setupPortals()_3_1]] - `contains` [EXTRACTED]
+- [[setupPortals()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1465
+#graphify/document #graphify/EXTRACTED #community/Community_2145

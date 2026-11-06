@@ -1,26 +1,37 @@
 ---
 type: community
-members: 13
+members: 24
 ---
 
 # Community 154
 
-**Members:** 13 nodes
+**Members:** 24 nodes
 
 ## Members
-- [[Connections_2082]] - document - vault/Graph/Required by_23.md
-- [[Connections_2083]] - document - vault/Graph/Required by_42_1.md
-- [[Connections_2084]] - document - vault/Graph/Required by_42.md
-- [[Required by_14_1]] - document - vault/Graph/Required by_14.md
-- [[Required by_21_2]] - document - vault/Graph/Required by_21.md
-- [[Required by_21_1_1]] - document - vault/Graph/Required by_21_1.md
-- [[Required by_23_1]] - document - vault/Graph/Required by_23.md
-- [[Required by_23_2]] - document - vault/Graph/Required by_23.md
-- [[Required by_42]] - document - vault/Graph/Required by_42.md
-- [[Required by_42_2]] - document - vault/Graph/Required by_42_1.md
-- [[Required by_42_3]] - document - vault/Graph/Required by_42.md
-- [[Required by_42_1]] - document - vault/Graph/Required by_42_1.md
-- [[_COMMUNITY_Community 154]] - document - vault/Graph/_COMMUNITY_Community 154.md
+- [[Community 1479]] - document - vault/Graph/_COMMUNITY_Community 1479.md
+- [[Connections_8554]] - document - vault/Graph/Connections_6212.md
+- [[Connections_8555]] - document - vault/Graph/Connections_6212.md
+- [[Connections_8556]] - document - vault/Graph/Connections_6213.md
+- [[Connections_8557]] - document - vault/Graph/Connections_6213.md
+- [[Connections_8558]] - document - vault/Graph/Connections_6214.md
+- [[Connections_8559]] - document - vault/Graph/Connections_6214.md
+- [[Connections_8560]] - document - vault/Graph/Requires_88_2.md
+- [[Connections_8561]] - document - vault/Graph/tickQueue()_2_1.md
+- [[Connections_8562]] - document - vault/Graph/tickQueue()_4.md
+- [[Connections to other communities_535]] - document - vault/Graph/_COMMUNITY_Community 1479.md
+- [[Connections_6212_1]] - document - vault/Graph/Connections_6212.md
+- [[Connections_6213_1]] - document - vault/Graph/Connections_6213.md
+- [[Connections_6214_1]] - document - vault/Graph/Connections_6214.md
+- [[Live Query (requires Dataview plugin)_649]] - document - vault/Graph/_COMMUNITY_Community 1479.md
+- [[Members_654]] - document - vault/Graph/_COMMUNITY_Community 1479.md
+- [[Requires_88]] - document - vault/Graph/Requires_88_2.md
+- [[Requires_88_2]] - document - vault/Graph/Requires_88_2.md
+- [[Top bridge nodes_526]] - document - vault/Graph/_COMMUNITY_Community 1479.md
+- [[_COMMUNITY_Community 1479]] - document - vault/Graph/_COMMUNITY_Community 1479.md
+- [[tickQueue()_5]] - document - vault/Graph/tickQueue()_4.md
+- [[tickQueue()_2_2]] - document - vault/Graph/tickQueue()_2_1.md
+- [[tickQueue()_2_1]] - document - vault/Graph/tickQueue()_2_1.md
+- [[tickQueue()_4]] - document - vault/Graph/tickQueue()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,20 +41,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 440]]
-- 3 edges to [[_COMMUNITY_Community 494]]
-- 1 edge to [[_COMMUNITY_Community 1262]]
-- 1 edge to [[_COMMUNITY_Community 1263]]
-- 1 edge to [[_COMMUNITY_Community 1274]]
-- 1 edge to [[_COMMUNITY_Community 1444]]
-- 1 edge to [[_COMMUNITY_Community 1445]]
-- 1 edge to [[_COMMUNITY_Community 432]]
-- 1 edge to [[_COMMUNITY_Community 889]]
-- 1 edge to [[_COMMUNITY_Community 330]]
+- 1 edge to [[_COMMUNITY_Community 300]]
+- 1 edge to [[_COMMUNITY_Community 332]]
+- 1 edge to [[_COMMUNITY_Community 97]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 154]] - degree 16, connects to 7 communities
-- [[Required by_42]] - degree 6, connects to 2 communities
-- [[Required by_21_1_1]] - degree 5, connects to 1 community
-- [[Required by_21_2]] - degree 3, connects to 1 community
-- [[Required by_14_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 1479]] - degree 7, connects to 1 community
+- [[Connections_6212_1]] - degree 4, connects to 1 community
+- [[Requires_88_2]] - degree 3, connects to 1 community

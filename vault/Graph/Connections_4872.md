@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/skipped()_1.md"
+source_file: "vault/Graph/Connections_3536.md"
 type: "document"
-community: "Community 631"
+community: "Community 1275"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_631
+  - community/Community_1275
 ---
 
 # Connections
 
 ## Connections
-- [[skipped()_3]] - `contains` [EXTRACTED]
+- [[Connections_4871]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_631
+#graphify/document #graphify/EXTRACTED #community/Community_1275

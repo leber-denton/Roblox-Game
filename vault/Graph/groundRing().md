@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[BattleFX.attack()]] - `calls` [EXTRACTED]
 - [[BattleFX.faint()]] - `calls` [EXTRACTED]
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[BattleFX.sendOut()]] - `calls` [EXTRACTED]
 - [[BattleFX.throw()]] - `calls` [EXTRACTED]
 - [[effectPart()]] - `calls` [EXTRACTED]

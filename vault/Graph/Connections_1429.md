@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.firstHealthy()_2.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_10_1.md"
 type: "document"
-community: "Community 134"
+community: "Community 1088"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1088
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.firstHealthy()_3]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_10_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1088

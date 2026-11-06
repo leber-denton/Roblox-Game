@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/onRespond()_1.md"
+source_file: "vault/Graph/Connections_393.md"
 type: "document"
-community: "Community 1164"
+community: "Community 103"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1164
+  - community/Community_103
 ---
 
 # Connections
 
 ## Connections
-- [[onRespond()_2]] - `contains` [EXTRACTED]
+- [[Connections_415]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1164
+#graphify/document #graphify/EXTRACTED #community/Community_103

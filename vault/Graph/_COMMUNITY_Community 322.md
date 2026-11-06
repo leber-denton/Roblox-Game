@@ -1,25 +1,22 @@
 ---
 type: community
-members: 12
+members: 9
 ---
 
 # Community 322
 
-**Members:** 12 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_3858]] - document - vault/Graph/go().md
-- [[Connections_3859]] - document - vault/Graph/header()_2.md
-- [[Connections_3860]] - document - vault/Graph/refresh()_2.md
-- [[Connections_3861]] - document - vault/Graph/row()_3.md
-- [[go()_4]] - document - vault/Graph/go().md
-- [[go()_3]] - document - vault/Graph/go().md
-- [[header()_9]] - document - vault/Graph/header()_2.md
-- [[header()_2_2]] - document - vault/Graph/header()_2.md
-- [[refresh()_11]] - document - vault/Graph/refresh()_2.md
-- [[refresh()_2_2]] - document - vault/Graph/refresh()_2.md
-- [[row()_10]] - document - vault/Graph/row()_3.md
-- [[row()_3_2]] - document - vault/Graph/row()_3.md
+- [[ArenaManager.luau_2]] - document - vault/Graph/ArenaManager.luau_2_2.md
+- [[ArenaManager.luau_2_2]] - document - vault/Graph/ArenaManager.luau_2_2.md
+- [[Connections_16641]] - document - vault/Graph/ArenaManager.luau_2_2.md
+- [[Connections_16642]] - document - vault/Graph/Connections_4670.md
+- [[Connections_16643]] - document - vault/Graph/Connections_4670.md
+- [[Connections_16644]] - document - vault/Graph/Connections_4671.md
+- [[Connections_16645]] - document - vault/Graph/Connections_4671.md
+- [[Connections_4670_1]] - document - vault/Graph/Connections_4670.md
+- [[Connections_4671_1]] - document - vault/Graph/Connections_4671.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,12 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 117]]
-- 1 edge to [[_COMMUNITY_Community 120]]
-- 1 edge to [[_COMMUNITY_Community 86]]
+- 2 edges to [[_COMMUNITY_Community 134]]
+- 1 edge to [[_COMMUNITY_Community 348]]
 
 ## Top bridge nodes
-- [[refresh()_2_2]] - degree 6, connects to 3 communities
-- [[row()_3_2]] - degree 4, connects to 1 community
-- [[go()_3]] - degree 3, connects to 1 community
-- [[header()_2_2]] - degree 3, connects to 1 community
+- [[Connections_4670_1]] - degree 4, connects to 1 community
+- [[Connections_4671_1]] - degree 3, connects to 1 community
+- [[ArenaManager.luau_2_2]] - degree 3, connects to 1 community

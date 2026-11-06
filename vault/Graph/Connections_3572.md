@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/refreshBoards()_2.md"
+source_file: "vault/Graph/Connections_969.md"
 type: "document"
-community: "Community 281"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_281
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[refreshBoards()_4]] - `contains` [EXTRACTED]
+- [[Connections_3573]] - `contains` [EXTRACTED]
+- [[Connections_969_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_281
+#graphify/document #graphify/EXTRACTED #community/Community_12

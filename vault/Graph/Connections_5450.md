@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/NpcGuard.stamp()_2.md"
+source_file: "vault/Graph/ProgressService_1_2.md"
 type: "document"
-community: "Community 798"
+community: "Community 1312"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_798
+  - community/Community_1312
 ---
 
 # Connections
 
 ## Connections
-- [[NpcGuard.stamp()_4]] - `contains` [EXTRACTED]
+- [[ProgressService_1_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_798
+#graphify/document #graphify/EXTRACTED #community/Community_1312

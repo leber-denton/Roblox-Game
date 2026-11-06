@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Community 1378
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Connections_1666]] - document - vault/Graph/apply()_2_1.md
-- [[apply()_2_1]] - document - vault/Graph/apply()_2_1.md
+- [[Connections_6733]] - document - vault/Graph/Connections_1666.md
+- [[Connections_6734]] - document - vault/Graph/Connections_1666.md
+- [[Connections_1666_1]] - document - vault/Graph/Connections_1666.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 306]]
+- 1 edge to [[_COMMUNITY_Community 1967]]
 
 ## Top bridge nodes
-- [[apply()_2_1]] - degree 2, connects to 1 community
+- [[Connections_1666_1]] - degree 2, connects to 1 community

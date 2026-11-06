@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DecorUI_1_1.md"
+source_file: "vault/Graph/NPC.wave()_2_1.md"
 type: "document"
-community: "Community 932"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_932
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[DecorUI_1_2]] - `contains` [EXTRACTED]
+- [[NPC.wave()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_932
+#graphify/document #graphify/EXTRACTED #community/Community_134

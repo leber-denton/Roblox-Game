@@ -1,20 +1,18 @@
 ---
 source_file: "vault/Graph/updateTopBar()_2.md"
 type: "document"
-community: "Community 149"
-location: "L1"
+community: "Community 1861"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_149
+  - community/Community_1861
 ---
 
 # updateTopBar()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 212]] - `references` [EXTRACTED]
-- [[updateTopBar()_1_1]] - `references` [EXTRACTED]
-- [[updateTopBar()_2_2]] - `contains` [EXTRACTED]
+- [[Connections_11110]] - `contains` [EXTRACTED]
+- [[updateTopBar()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_149
+#graphify/document #graphify/EXTRACTED #community/Community_1861

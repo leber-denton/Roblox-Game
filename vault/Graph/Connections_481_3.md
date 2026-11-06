@@ -1,0 +1,19 @@
+---
+source_file: "vault/Graph/Connections_481.md"
+type: "document"
+community: "Community 2878"
+location: "L1"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_2878
+---
+
+# Connections_481.md
+
+## Connections
+- [[Connections_15631]] - `contains` [EXTRACTED]
+- [[Connections_480_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1033]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_2878

@@ -8,15 +8,15 @@ members: 16
 **Members:** 16 nodes
 
 ## Members
-- [[Functions_137]] - document - vault/Code/Tutorial.md
-- [[Required by_126]] - document - vault/Code/Tutorial.md
-- [[Requires_133]] - document - vault/Code/Tutorial.md
-- [[Tutorial_3]] - document - vault/Code/Tutorial.md
-- [[Tutorial.client.luau_5]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
+- [[Functions_214]] - document - vault/Code/Tutorial.md
+- [[Required by_210]] - document - vault/Code/Tutorial.md
+- [[Requires_211]] - document - vault/Code/Tutorial.md
+- [[Tutorial_5]] - document - vault/Code/Tutorial.md
+- [[Tutorial.client.luau_7]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
 - [[arrowPart()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
 - [[hideIfNotMine()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
 - [[intro()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
-- [[new()_7]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
+- [[new()_6]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
 - [[play()_2]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
 - [[preview()_2]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
 - [[queueDialogue()]] - code - src/StarterPlayer/StarterPlayerScripts/Tutorial.client.luau
@@ -38,6 +38,6 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 418]]
 
 ## Top bridge nodes
-- [[Tutorial.client.luau_5]] - degree 12, connects to 1 community
+- [[Tutorial.client.luau_7]] - degree 12, connects to 1 community
 - [[preview()_2]] - degree 4, connects to 1 community
-- [[Tutorial_3]] - degree 4, connects to 1 community
+- [[Tutorial_5]] - degree 4, connects to 1 community

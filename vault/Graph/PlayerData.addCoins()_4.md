@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/PlayerData.addCoins().md"
 type: "document"
-community: "Community 86"
+community: "Community 276"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_276
 ---
 
 # PlayerData.addCoins()
 
 ## Connections
-- [[Connections_5801]] - `contains` [EXTRACTED]
+- [[Connections_15329]] - `contains` [EXTRACTED]
 - [[PlayerData.addCoins()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_276

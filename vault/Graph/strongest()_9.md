@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/strongest().md"
+source_file: "vault/Graph/strongest()_3.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2176"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2176
 ---
 
-# strongest().md
+# strongest()
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[dressPedestal()_3]] - `references` [EXTRACTED]
-- [[strongest()_11]] - `contains` [EXTRACTED]
+- [[Connections_12731]] - `contains` [EXTRACTED]
+- [[strongest()_3_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2176

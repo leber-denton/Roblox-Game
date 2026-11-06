@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Community 955
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_6253]] - document - vault/Graph/Connections_217.md
-- [[Connections_6254]] - document - vault/Graph/Connections_217.md
-- [[Connections_6255]] - document - vault/Graph/Connections_218.md
-- [[Connections_6256]] - document - vault/Graph/Connections_218.md
-- [[Connections_217_1]] - document - vault/Graph/Connections_217.md
-- [[Connections_218_1]] - document - vault/Graph/Connections_218.md
+- [[Community 1091]] - document - vault/Graph/_COMMUNITY_Community 1091.md
+- [[Connections to other communities_1664]] - document - vault/Graph/_COMMUNITY_Community 1091.md
+- [[Live Query (requires Dataview plugin)_1963]] - document - vault/Graph/_COMMUNITY_Community 1091.md
+- [[Members_1962]] - document - vault/Graph/_COMMUNITY_Community 1091.md
+- [[Top bridge nodes_1655]] - document - vault/Graph/_COMMUNITY_Community 1091.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +20,9 @@ members: 6
 TABLE source_file, type FROM #community/Community_955
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Community 1091]]
+
+## Top bridge nodes
+- [[Community 1091]] - degree 5, connects to 1 community

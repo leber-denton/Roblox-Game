@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/ModelSyncLookup.luau_2.md"
+source_file: "vault/Graph/Connections_1369.md"
 type: "document"
-community: "Community 1428"
-location: "L14"
+community: "Community 1100"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1428
+  - community/Community_1100
 ---
 
 # Connections
 
 ## Connections
-- [[ModelSyncLookup.luau_2]] - `contains` [EXTRACTED]
+- [[Connections_1786]] - `contains` [EXTRACTED]
+- [[Connections_1369_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1428
+#graphify/document #graphify/EXTRACTED #community/Community_1100

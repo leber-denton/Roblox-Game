@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/watchProgress()_1.md"
 type: "document"
-community: "Community 90"
+community: "Community 197"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_197
 ---
 
 # watchProgress().md
 
 ## Connections
-- [[Connections_6047]] - `contains` [EXTRACTED]
-- [[watchProgress()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_11762]] - `contains` [EXTRACTED]
+- [[watchProgress()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_197

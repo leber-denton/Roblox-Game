@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/NPCAnimator.server.luau.md"
+source_file: "vault/Graph/NPCAnimator.server.luau_5.md"
 type: "document"
-community: "Community 99"
+community: "Community 856"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_99
+  - community/Community_856
 ---
 
-# NPCAnimator.server.luau.md
+# NPCAnimator.server.luau_5.md
 
 ## Connections
-- [[NPCAnimator.server.luau_6]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 39]] - `references` [EXTRACTED]
-- [[animate()_3]] - `references` [EXTRACTED]
-- [[buildQuestWorld()_3]] - `references` [EXTRACTED]
+- [[NPCAnimator.server.luau_9]] - `contains` [EXTRACTED]
+- [[NPCAnimator.server.luau_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 856]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_99
+#graphify/document #graphify/EXTRACTED #community/Community_856

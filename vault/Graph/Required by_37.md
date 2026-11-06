@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_37_1.md"
+source_file: "vault/Code/DecorService.md"
 type: "document"
-community: "Community 131"
-location: "L12"
+community: "Community 13"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_131
+  - community/Community_13
 ---
 
-# Required by_37.md
+# Required by
 
 ## Connections
-- [[Connections_1378]] - `contains` [EXTRACTED]
-- [[Required by_37_1]] - `contains` [EXTRACTED]
+- [[DecorService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_131
+#graphify/document #graphify/EXTRACTED #community/Community_13

@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/recordFor()_2.md"
+source_file: "vault/Graph/recordFor()_2_1.md"
 type: "document"
 community: "Community 281"
 location: "L1"
@@ -9,11 +9,12 @@ tags:
   - community/Community_281
 ---
 
-# recordFor()_2.md
+# recordFor()_2_1.md
 
 ## Connections
 - [[_COMMUNITY_Community 229]] - `references` [EXTRACTED]
-- [[recordFor()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 281]] - `references` [EXTRACTED]
 - [[recordFor()_1_1]] - `references` [EXTRACTED]
+- [[recordFor()_2_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_281

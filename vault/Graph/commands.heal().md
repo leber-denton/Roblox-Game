@@ -1,18 +1,18 @@
 ---
 source_file: "src/ServerScriptService/Modules/AdminService.luau"
 type: "code"
-community: "Community 17"
+community: "Community 16"
 location: "L156"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_17
+  - community/Community_16
 ---
 
 # commands.heal()
 
 ## Connections
-- [[AdminService.luau_3]] - `contains` [EXTRACTED]
+- [[AdminService.luau]] - `contains` [EXTRACTED]
 - [[BaseManager.healAll()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_17
+#graphify/code #graphify/EXTRACTED #community/Community_16

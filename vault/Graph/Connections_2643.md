@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/groundRing()_2.md"
+source_file: "vault/Graph/Community 43_1.md"
 type: "document"
-community: "Community 18"
+community: "Community 115"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_18
+  - community/Community_115
 ---
 
 # Connections
 
 ## Connections
-- [[groundRing()_4]] - `contains` [EXTRACTED]
+- [[Community 43_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_18
+#graphify/document #graphify/EXTRACTED #community/Community_115

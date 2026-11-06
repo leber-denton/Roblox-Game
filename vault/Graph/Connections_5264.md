@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/incomeRate()_2.md"
+source_file: "vault/Graph/Connections_3730.md"
 type: "document"
-community: "Community 75"
+community: "Community 1297"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_75
+  - community/Community_1297
 ---
 
 # Connections
 
 ## Connections
-- [[incomeRate()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_5263]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_75
+#graphify/document #graphify/EXTRACTED #community/Community_1297

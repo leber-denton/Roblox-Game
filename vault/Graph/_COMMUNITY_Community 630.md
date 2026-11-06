@@ -1,19 +1,31 @@
 ---
 type: community
-members: 6
+members: 18
 ---
 
 # Community 630
 
-**Members:** 6 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Connections_4867]] - document - vault/Graph/Connections_126.md
-- [[Connections_4868]] - document - vault/Graph/Connections_126.md
-- [[Connections_4869]] - document - vault/Graph/regionAt()_2.md
-- [[Connections_126_1]] - document - vault/Graph/Connections_126.md
-- [[regionAt()_4]] - document - vault/Graph/regionAt()_2.md
-- [[regionAt()_2_1]] - document - vault/Graph/regionAt()_2.md
+- [[BattleFX.luau_6]] - document - vault/Graph/BattleFX.luau_5.md
+- [[BattleFX.luau_3]] - document - vault/Graph/BattleFX.luau_4.md
+- [[BattleFX.luau_4]] - document - vault/Graph/BattleFX.luau_4.md
+- [[BattleFX.luau_5]] - document - vault/Graph/BattleFX.luau_5.md
+- [[Community 630]] - document - vault/Graph/_COMMUNITY_Community 630.md
+- [[Community 693]] - document - vault/Graph/_COMMUNITY_Community 693.md
+- [[Connections_21505]] - document - vault/Graph/BattleFX.luau_4.md
+- [[Connections_21506]] - document - vault/Graph/BattleFX.luau_5.md
+- [[Connections to other communities_1431]] - document - vault/Graph/_COMMUNITY_Community 630.md
+- [[Connections to other communities_1432]] - document - vault/Graph/_COMMUNITY_Community 693.md
+- [[Live Query (requires Dataview plugin)_1681]] - document - vault/Graph/_COMMUNITY_Community 630.md
+- [[Live Query (requires Dataview plugin)_1682]] - document - vault/Graph/_COMMUNITY_Community 693.md
+- [[Members_1681]] - document - vault/Graph/_COMMUNITY_Community 630.md
+- [[Members_1682]] - document - vault/Graph/_COMMUNITY_Community 693.md
+- [[Top bridge nodes_1428]] - document - vault/Graph/_COMMUNITY_Community 630.md
+- [[Top bridge nodes_1429]] - document - vault/Graph/_COMMUNITY_Community 693.md
+- [[_COMMUNITY_Community 630]] - document - vault/Graph/_COMMUNITY_Community 630.md
+- [[_COMMUNITY_Community 693]] - document - vault/Graph/_COMMUNITY_Community 693.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +35,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 542]]
-- 1 edge to [[_COMMUNITY_Community 471]]
+- 3 edges to [[_COMMUNITY_Community 837]]
+- 2 edges to [[_COMMUNITY_Community 168]]
+- 2 edges to [[_COMMUNITY_Community 18]]
+- 1 edge to [[_COMMUNITY_Community 1087]]
+- 1 edge to [[_COMMUNITY_Community 138]]
+- 1 edge to [[_COMMUNITY_Community 412]]
+- 1 edge to [[_COMMUNITY_Community 49]]
+- 1 edge to [[_COMMUNITY_Community 732]]
 
 ## Top bridge nodes
-- [[regionAt()_2_1]] - degree 4, connects to 2 communities
-- [[Connections_126_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 630]] - degree 9, connects to 5 communities
+- [[_COMMUNITY_Community 693]] - degree 9, connects to 3 communities
+- [[BattleFX.luau_4]] - degree 6, connects to 2 communities

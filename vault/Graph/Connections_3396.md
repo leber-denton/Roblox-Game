@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/hideIfNotMine()_1.md"
+source_file: "vault/Graph/syncQuests()_5.md"
 type: "document"
-community: "Community 240"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[hideIfNotMine()_3]] - `contains` [EXTRACTED]
+- [[syncQuests()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1187

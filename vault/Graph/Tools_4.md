@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/Tools.md"
 type: "document"
-community: "Community 401"
+community: "Community 115"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_401
+  - community/Community_115
 ---
 
-# Tools
+# Tools.md
 
 ## Connections
-- [[Connections_4164]] - `contains` [EXTRACTED]
-- [[Tools_3]] - `contains` [EXTRACTED]
+- [[Connections_2765]] - `contains` [EXTRACTED]
+- [[Tools]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_401
+#graphify/document #graphify/EXTRACTED #community/Community_115

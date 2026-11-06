@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 168.md"
+source_file: "vault/Graph/Community 168.md"
 type: "document"
-community: "Community 1023"
-location: "L6"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1023
+  - community/Community_168
 ---
 
-# Community 168
+# Community 168.md
 
 ## Connections
-- [[Connections to other communities_15]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_15]] - `contains` [EXTRACTED]
-- [[Members_15]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_17]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 168]] - `contains` [EXTRACTED]
+- [[Community 168_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1023
+#graphify/document #graphify/EXTRACTED #community/Community_168

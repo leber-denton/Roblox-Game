@@ -8,12 +8,12 @@ members: 19
 **Members:** 19 nodes
 
 ## Members
-- [[Bag]] - document - vault/Code/Bag.md
-- [[Bag.client.luau]] - code - src/StarterPlayer/StarterPlayerScripts/Bag.client.luau
+- [[Bag_4]] - document - vault/Code/Bag.md
+- [[Bag.client.luau_7]] - code - src/StarterPlayer/StarterPlayerScripts/Bag.client.luau
 - [[CodeBag]] - document - vault/Code/Bag.md
-- [[Functions_60]] - document - vault/Code/Bag.md
-- [[Required by_54]] - document - vault/Code/Bag.md
-- [[Requires_60]] - document - vault/Code/Bag.md
+- [[Functions_121]] - document - vault/Code/Bag.md
+- [[Required by_119]] - document - vault/Code/Bag.md
+- [[Requires_115]] - document - vault/Code/Bag.md
 - [[ballIcon()]] - code - src/StarterPlayer/StarterPlayerScripts/Bag.client.luau
 - [[getInventory()]] - code - src/StarterPlayer/StarterPlayerScripts/Bag.client.luau
 - [[itemInfo()]] - code - src/StarterPlayer/StarterPlayerScripts/Bag.client.luau
@@ -26,7 +26,7 @@ members: 19
 - [[showPicker()]] - code - src/StarterPlayer/StarterPlayerScripts/Bag.client.luau
 - [[showTradeHistory()]] - code - src/StarterPlayer/StarterPlayerScripts/Bag.client.luau
 - [[symbolFor()]] - code - src/StarterPlayer/StarterPlayerScripts/Bag.client.luau
-- [[updateVisible()_1]] - code - src/StarterPlayer/StarterPlayerScripts/Bag.client.luau
+- [[updateVisible()]] - code - src/StarterPlayer/StarterPlayerScripts/Bag.client.luau
 
 ## Live Query (requires Dataview plugin)
 
@@ -36,11 +36,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 15]]
+- 1 edge to [[_COMMUNITY_Community 418]]
 - 1 edge to [[_COMMUNITY_Community 13]]
-- 1 edge to [[_COMMUNITY_Community 215]]
+- 1 edge to [[_COMMUNITY_Community 185]]
 
 ## Top bridge nodes
-- [[Bag.client.luau]] - degree 14, connects to 1 community
+- [[Bag.client.luau_7]] - degree 14, connects to 1 community
 - [[showDetail()]] - degree 9, connects to 1 community
 - [[CodeBag]] - degree 2, connects to 1 community

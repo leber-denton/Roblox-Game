@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/onRareCatch().md"
+source_file: "vault/Graph/onRareCatch()_3.md"
 type: "document"
-community: "Community 116"
-location: "L1"
+community: "Community 1580"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_116
+  - community/Community_1580
 ---
 
-# onRareCatch().md
+# onRareCatch()
 
 ## Connections
-- [[EventHUD.client.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 45]] - `references` [EXTRACTED]
-- [[describe()_1]] - `references` [EXTRACTED]
-- [[new()_8_1]] - `references` [EXTRACTED]
-- [[onRareCatch()_2]] - `contains` [EXTRACTED]
+- [[Connections_8774]] - `contains` [EXTRACTED]
+- [[onRareCatch()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_116
+#graphify/document #graphify/EXTRACTED #community/Community_1580

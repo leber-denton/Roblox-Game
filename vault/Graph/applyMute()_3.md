@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/applyMute()_1.md"
+source_file: "vault/Graph/applyMute()_3.md"
 type: "document"
-community: "Community 182"
-location: "L12"
+community: "Community 1007"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_182
+  - community/Community_1007
 ---
 
-# applyMute().md
+# applyMute()_3.md
 
 ## Connections
-- [[Connections_2668]] - `contains` [EXTRACTED]
-- [[applyMute()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 100]] - `references` [EXTRACTED]
+- [[applyMute()_5]] - `contains` [EXTRACTED]
+- [[applyMute()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_182
+#graphify/document #graphify/EXTRACTED #community/Community_1007

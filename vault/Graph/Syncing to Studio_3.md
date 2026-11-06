@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Syncing to Studio.md"
+source_file: "vault/Graph/Syncing to Studio_2.md"
 type: "document"
-community: "Community 984"
-location: "L1"
+community: "Community 115"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_984
+  - community/Community_115
 ---
 
-# Syncing to Studio.md
+# Syncing to Studio
 
 ## Connections
-- [[Connections_419_1]] - `references` [EXTRACTED]
-- [[Syncing to Studio_4]] - `contains` [EXTRACTED]
-- [[Syncing to Studio_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 115]] - `references` [EXTRACTED]
+- [[Connections_2761]] - `contains` [EXTRACTED]
+- [[Syncing to Studio_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_984
+#graphify/document #graphify/EXTRACTED #community/Community_115

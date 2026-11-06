@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/MeshIntake.luau_2.md"
+source_file: "vault/Graph/MeshIntake.luau_2_1.md"
 type: "document"
-community: "Community 190"
-location: "L12"
+community: "Community 1659"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_190
+  - community/Community_1659
 ---
 
-# MeshIntake.luau_2.md
+# MeshIntake.luau_2_1.md
 
 ## Connections
-- [[Connections_2809]] - `contains` [EXTRACTED]
-- [[MeshIntake.luau_2]] - `contains` [EXTRACTED]
+- [[MeshIntake.luau_2_2]] - `contains` [EXTRACTED]
+- [[MeshIntake.luau_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_190
+#graphify/document #graphify/EXTRACTED #community/Community_1659

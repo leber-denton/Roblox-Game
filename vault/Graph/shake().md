@@ -12,6 +12,6 @@ tags:
 # shake()
 
 ## Connections
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_235

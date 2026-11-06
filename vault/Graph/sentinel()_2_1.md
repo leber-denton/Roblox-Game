@@ -12,6 +12,8 @@ tags:
 # sentinel()_2.md
 
 ## Connections
+- [[Connections_5649_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 140]] - `references` [EXTRACTED]
 - [[sentinel()_4]] - `contains` [EXTRACTED]
 - [[sentinel()_1_1]] - `references` [EXTRACTED]
 

@@ -1,19 +1,25 @@
 ---
 type: community
-members: 6
+members: 12
 ---
 
 # Community 870
 
-**Members:** 6 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_5910]] - document - vault/Graph/Connections_499.md
-- [[Connections_5911]] - document - vault/Graph/Connections_499.md
-- [[Connections_5912]] - document - vault/Graph/PlayerData.hasBadge()_1.md
-- [[Connections_499_1]] - document - vault/Graph/Connections_499.md
-- [[PlayerData.hasBadge()_4]] - document - vault/Graph/PlayerData.hasBadge()_1.md
-- [[PlayerData.hasBadge()_1_1]] - document - vault/Graph/PlayerData.hasBadge()_1.md
+- [[BattleData.stats()_2_1]] - document - vault/Graph/BattleData.stats()_2.md
+- [[BattleData.stats()_2_2]] - document - vault/Graph/BattleData.stats()_2_1.md
+- [[BattleData.stats()_2_3]] - document - vault/Graph/BattleData.stats()_2.md
+- [[BattleData.stats()_2_1_1]] - document - vault/Graph/BattleData.stats()_2_1.md
+- [[Connections_23459]] - document - vault/Graph/BattleData.stats()_2_1.md
+- [[Connections_23460]] - document - vault/Graph/BattleData.stats()_2.md
+- [[Connections_23461]] - document - vault/Graph/Connections_2419.md
+- [[Connections_23462]] - document - vault/Graph/Connections_2419.md
+- [[Connections_23463]] - document - vault/Graph/Connections_978_1.md
+- [[Connections_2419_1]] - document - vault/Graph/Connections_2419.md
+- [[Connections_978_2]] - document - vault/Graph/Connections_978_1.md
+- [[Connections_978_1_1]] - document - vault/Graph/Connections_978_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,7 +29,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 134]]
+- 4 edges to [[_COMMUNITY_Community 289]]
+- 2 edges to [[_COMMUNITY_Community 555]]
 
 ## Top bridge nodes
-- [[PlayerData.hasBadge()_1_1]] - degree 3, connects to 1 community
+- [[BattleData.stats()_2_1]] - degree 5, connects to 2 communities
+- [[Connections_978_1_1]] - degree 4, connects to 2 communities
+- [[BattleData.stats()_2_1_1]] - degree 4, connects to 1 community
+- [[Connections_2419_1]] - degree 3, connects to 1 community

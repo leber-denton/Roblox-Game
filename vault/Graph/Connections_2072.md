@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/GraphDecorService.md"
+source_file: "vault/Graph/Connections_1478.md"
 type: "document"
-community: "Community 153"
-location: "L14"
+community: "Community 1111"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_153
+  - community/Community_1111
 ---
 
 # Connections
 
 ## Connections
-- [[GraphDecorService_2]] - `contains` [EXTRACTED]
+- [[Connections_2073]] - `contains` [EXTRACTED]
+- [[Connections_1478_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_153
+#graphify/document #graphify/EXTRACTED #community/Community_1111

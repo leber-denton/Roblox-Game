@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_51.md"
+source_file: "vault/Graph/Functions_51_1_2.md"
 type: "document"
-community: "Community 195"
-location: "L1"
+community: "Community 2056"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_2056
 ---
 
-# Functions_51.md
+# Functions_51_1.md
 
 ## Connections
-- [[CreatureIndex_1]] - `references` [EXTRACTED]
-- [[Functions_5_2]] - `references` [EXTRACTED]
-- [[Functions_51_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[clearBody()_1_1]] - `references` [EXTRACTED]
-- [[getIndex()_1_1]] - `references` [EXTRACTED]
-- [[showGrid()_1_1]] - `references` [EXTRACTED]
+- [[Connections_12221]] - `contains` [EXTRACTED]
+- [[Functions_51_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_2056

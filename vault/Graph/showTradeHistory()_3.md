@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/showTradeHistory()_2.md"
+source_file: "vault/Graph/showTradeHistory()_3.md"
 type: "document"
-community: "Community 310"
-location: "L12"
+community: "Community 2022"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_310
+  - community/Community_2022
 ---
 
-# showTradeHistory().md
+# showTradeHistory()_3.md
 
 ## Connections
-- [[Connections_3748]] - `contains` [EXTRACTED]
-- [[showTradeHistory()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 310]] - `references` [EXTRACTED]
+- [[showTradeHistory()_1]] - `references` [EXTRACTED]
+- [[showTradeHistory()_2_1]] - `references` [EXTRACTED]
+- [[showTradeHistory()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_310
+#graphify/document #graphify/EXTRACTED #community/Community_2022

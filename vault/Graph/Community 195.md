@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 195.md"
+source_file: "vault/Graph/Community 195.md"
 type: "document"
-community: "Community 175"
-location: "L6"
+community: "Community 1432"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_175
+  - community/Community_1432
 ---
 
-# Community 195
+# Community 195.md
 
 ## Connections
-- [[Connections to other communities_142]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_149]] - `contains` [EXTRACTED]
-- [[Members_152]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_148]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 195]] - `contains` [EXTRACTED]
+- [[Community 195_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1432]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 175]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 195]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_175
+#graphify/document #graphify/EXTRACTED #community/Community_1432

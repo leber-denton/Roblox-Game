@@ -1,26 +1,28 @@
 ---
 type: community
-members: 13
+members: 15
 ---
 
 # Community 129
 
-**Members:** 13 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_1349]] - document - vault/Graph/Connections_945.md
-- [[Connections_1350]] - document - vault/Graph/Connections_945.md
-- [[Connections_1351]] - document - vault/Graph/Required by_12_1.md
-- [[Connections_1352]] - document - vault/Graph/Requires_35_1.md
-- [[Connections_1353]] - document - vault/Graph/Requires_35.md
-- [[Connections_945_1]] - document - vault/Graph/Connections_945.md
-- [[Required by_12]] - document - vault/Graph/Required by_12_1.md
-- [[Required by_12_1]] - document - vault/Graph/Required by_12_1.md
+- [[Connections_5169]] - document - vault/Graph/Connections_3678.md
+- [[Connections_5170]] - document - vault/Graph/Connections_3678.md
+- [[Connections_5171]] - document - vault/Graph/Connections_945_1.md
+- [[Connections_5172]] - document - vault/Graph/Requires_35_1.md
+- [[Connections_5173]] - document - vault/Graph/Requires_35_2.md
+- [[Connections_5174]] - document - vault/Graph/Requires_35.md
+- [[Connections_3678_1]] - document - vault/Graph/Connections_3678.md
+- [[Connections_945_1]] - document - vault/Graph/Connections_945_1.md
+- [[Connections_945_1_1]] - document - vault/Graph/Connections_945_1.md
 - [[Requires_35]] - document - vault/Graph/Requires_35.md
-- [[Requires_35_2]] - document - vault/Graph/Requires_35_1.md
-- [[Requires_35_3]] - document - vault/Graph/Requires_35.md
+- [[Requires_35_3]] - document - vault/Graph/Requires_35_2.md
+- [[Requires_35_4]] - document - vault/Graph/Requires_35.md
 - [[Requires_35_1]] - document - vault/Graph/Requires_35_1.md
-- [[_COMMUNITY_Community 129]] - document - vault/Graph/_COMMUNITY_Community 129.md
+- [[Requires_35_1_1]] - document - vault/Graph/Requires_35_1.md
+- [[Requires_35_2]] - document - vault/Graph/Requires_35_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,14 +32,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 609]]
-- 2 edges to [[_COMMUNITY_Community 840]]
-- 2 edges to [[_COMMUNITY_Community 948]]
-- 1 edge to [[_COMMUNITY_Community 425]]
-- 1 edge to [[_COMMUNITY_Community 877]]
+- 5 edges to [[_COMMUNITY_Community 877]]
+- 1 edge to [[_COMMUNITY_Community 1238]]
 - 1 edge to [[_COMMUNITY_Community 449]]
-- 1 edge to [[_COMMUNITY_Community 946]]
+- 1 edge to [[_COMMUNITY_Community 1702]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 129]] - degree 14, connects to 6 communities
-- [[Requires_35]] - degree 5, connects to 2 communities
+- [[Requires_35]] - degree 7, connects to 4 communities
+- [[Requires_35_1]] - degree 4, connects to 1 community
+- [[Requires_35_2]] - degree 4, connects to 1 community
+- [[Connections_945_1]] - degree 3, connects to 1 community
+- [[Connections_3678_1]] - degree 3, connects to 1 community

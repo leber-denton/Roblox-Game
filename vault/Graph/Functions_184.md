@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Functions_16.md"
+source_file: "vault/Graph/Functions_184.md"
 type: "document"
-community: "Community 847"
-location: "L12"
+community: "Community 1058"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_847
+  - community/Community_1058
 ---
 
-# Functions
+# Functions_184.md
 
 ## Connections
-- [[Connections_5599]] - `contains` [EXTRACTED]
-- [[Functions_16_2]] - `contains` [EXTRACTED]
+- [[Functions_11]] - `contains` [EXTRACTED]
+- [[GraphWander]] - `references` [EXTRACTED]
+- [[ignoreList()_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_847
+#graphify/document #graphify/EXTRACTED #community/Community_1058

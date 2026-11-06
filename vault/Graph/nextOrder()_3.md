@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/nextOrder()_2.md"
+source_file: "vault/Graph/nextOrder()_3.md"
 type: "document"
-community: "Community 719"
-location: "L12"
+community: "Community 1233"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_719
+  - community/Community_1233
 ---
 
-# nextOrder().md
+# nextOrder()_3.md
 
 ## Connections
-- [[Connections_5160]] - `contains` [EXTRACTED]
-- [[nextOrder()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_5160]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1233]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 719]] - `references` [EXTRACTED]
+- [[nextOrder()_1]] - `references` [EXTRACTED]
+- [[nextOrder()_2_1]] - `references` [EXTRACTED]
+- [[nextOrder()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_719
+#graphify/document #graphify/EXTRACTED #community/Community_1233

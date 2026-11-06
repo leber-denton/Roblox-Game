@@ -12,7 +12,7 @@ tags:
 # boardLabel()
 
 ## Connections
-- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[setupArenaFixtures()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_4

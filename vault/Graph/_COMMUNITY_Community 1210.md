@@ -1,22 +1,18 @@
 ---
 type: community
-members: 9
+members: 5
 ---
 
 # Community 1210
 
-**Members:** 9 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_1139]] - document - vault/Graph/Connections_781.md
-- [[Connections_1140]] - document - vault/Graph/Connections_781.md
-- [[Connections_1141]] - document - vault/Graph/Requires_33_1.md
-- [[Connections_1142]] - document - vault/Graph/Requires_33.md
-- [[Connections_781_1]] - document - vault/Graph/Connections_781.md
-- [[Requires_33]] - document - vault/Graph/Requires_33.md
-- [[Requires_33_2]] - document - vault/Graph/Requires_33_1.md
-- [[Requires_33_3]] - document - vault/Graph/Requires_33.md
-- [[Requires_33_1]] - document - vault/Graph/Requires_33_1.md
+- [[Community 1087]] - document - vault/Graph/_COMMUNITY_Community 1087.md
+- [[Connections to other communities_237]] - document - vault/Graph/_COMMUNITY_Community 1087.md
+- [[Live Query (requires Dataview plugin)_313]] - document - vault/Graph/_COMMUNITY_Community 1087.md
+- [[Members_311]] - document - vault/Graph/_COMMUNITY_Community 1087.md
+- [[Top bridge nodes_233]] - document - vault/Graph/_COMMUNITY_Community 1087.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,9 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 135]]
-- 1 edge to [[_COMMUNITY_Community 127]]
-- 1 edge to [[_COMMUNITY_Community 424]]
+- 1 edge to [[_COMMUNITY_Community 1087]]
 
 ## Top bridge nodes
-- [[Requires_33_1]] - degree 5, connects to 3 communities
+- [[Community 1087]] - degree 5, connects to 1 community

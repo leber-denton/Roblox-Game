@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_89.md"
+source_file: "vault/Code/Wander.md"
 type: "document"
-community: "Community 429"
+community: "Community 22"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_429
+  - community/Community_22
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_4249]] - `contains` [EXTRACTED]
-- [[Functions_89_1]] - `contains` [EXTRACTED]
+- [[Wander_1]] - `contains` [EXTRACTED]
+- [[ignoreList()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_429
+#graphify/document #graphify/EXTRACTED #community/Community_22

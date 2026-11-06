@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/resolveNpcPath()_2.md"
+source_file: "vault/Graph/resolveNpcPath()_2_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 3164"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_3164
 ---
 
-# resolveNpcPath()_2.md
+# resolveNpcPath()_2_1.md
 
 ## Connections
-- [[Connections_339_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[resolveNpcPath()_4]] - `contains` [EXTRACTED]
-- [[resolveNpcPath()_1_1]] - `references` [EXTRACTED]
+- [[resolveNpcPath()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_3164

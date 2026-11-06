@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Graphlaunch-checklist_1.md"
+source_file: "vault/Graph/launch-checklist.md"
 type: "document"
-community: "Community 108"
-location: "L1"
+community: "Community 569"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_569
 ---
 
-# Graphlaunch-checklist_1.md
+# Graph/launch-checklist.md
 
 ## Connections
-- [[Graphlaunch-checklist]] - `references` [EXTRACTED]
-- [[Graphlaunch-checklist_1_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 108]] - `references` [EXTRACTED]
+- [[Connections_20852]] - `contains` [EXTRACTED]
+- [[Graphlaunch-checklist]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_569

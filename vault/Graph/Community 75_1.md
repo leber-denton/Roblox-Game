@@ -1,23 +1,20 @@
 ---
-source_file: "vault/Graph/Community 75.md"
+source_file: "vault/Graph/Community 75_1.md"
 type: "document"
-community: "Community 393"
+community: "Community 1365"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_393
+  - community/Community_1365
 ---
 
-# Community 75.md
+# Community 75_1.md
 
 ## Connections
 - [[Community 75_2]] - `contains` [EXTRACTED]
-- [[Connections to other communities_19_1]] - `references` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_24_1]] - `references` [EXTRACTED]
-- [[Members_22_1]] - `references` [EXTRACTED]
-- [[Top bridge nodes_20_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 163]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 75]] - `references` [EXTRACTED]
+- [[Community 75]] - `references` [EXTRACTED]
+- [[Connections_5127_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1365]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_393
+#graphify/document #graphify/EXTRACTED #community/Community_1365

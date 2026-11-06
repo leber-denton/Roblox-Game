@@ -12,7 +12,7 @@ tags:
 # ballIcon()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_7]] - `contains` [EXTRACTED]
 - [[label()]] - `calls` [EXTRACTED]
 - [[new()_1]] - `calls` [EXTRACTED]
 - [[refresh()]] - `calls` [EXTRACTED]

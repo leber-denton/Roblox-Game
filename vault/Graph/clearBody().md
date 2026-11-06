@@ -12,8 +12,8 @@ tags:
 # clearBody()
 
 ## Connections
-- [[CreatureIndex.client.luau_5]] - `contains` [EXTRACTED]
-- [[Functions_136]] - `references` [INFERRED]
+- [[CreatureIndex.client.luau_8]] - `contains` [EXTRACTED]
+- [[Functions_213]] - `references` [INFERRED]
 - [[setOpen()_1]] - `calls` [EXTRACTED]
 - [[showDetail()_1]] - `calls` [EXTRACTED]
 - [[showGrid()]] - `calls` [EXTRACTED]

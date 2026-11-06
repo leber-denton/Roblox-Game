@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/setExpansionOpen()_2.md"
+source_file: "vault/Graph/Connections_5915.md"
 type: "document"
-community: "Community 12"
+community: "Community 1063"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1063
 ---
 
 # Connections
 
 ## Connections
-- [[setExpansionOpen()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_5915_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1063

@@ -12,10 +12,11 @@ tags:
 # centerOf().md
 
 ## Connections
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
 - [[arriveCFrame()_1]] - `references` [EXTRACTED]
 - [[centerOf()_2]] - `contains` [EXTRACTED]
-- [[setupArenaFixtures()_2]] - `references` [EXTRACTED]
+- [[setupArenaFixtures()_1]] - `references` [EXTRACTED]
 - [[updateZones()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_123

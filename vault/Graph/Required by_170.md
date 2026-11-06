@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Code/HUD.md"
+source_file: "vault/Graph/Required by_170.md"
 type: "document"
-community: "Community 74"
-location: "L7"
+community: "Community 2052"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_74
+  - community/Community_2052
 ---
 
-# Required by
+# Required by_170.md
 
 ## Connections
-- [[HUD_3]] - `contains` [EXTRACTED]
+- [[HUD_3]] - `references` [EXTRACTED]
+- [[Required by_111_1]] - `references` [EXTRACTED]
+- [[Required by_170_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 74]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_74
+#graphify/document #graphify/EXTRACTED #community/Community_2052

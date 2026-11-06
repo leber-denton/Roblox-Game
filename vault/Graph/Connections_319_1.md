@@ -12,7 +12,8 @@ tags:
 # Connections_319.md
 
 ## Connections
-- [[Connections_4799]] - `contains` [EXTRACTED]
-- [[Connections_318_1]] - `references` [EXTRACTED]
+- [[Connections_21274]] - `contains` [EXTRACTED]
+- [[Connections_318_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1028]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_611

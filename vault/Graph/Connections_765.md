@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_765.md"
+source_file: "vault/Graph/ShowcaseBuilder_1_2.md"
 type: "document"
-community: "Community 1089"
-location: "L1"
+community: "Community 1045"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1089
+  - community/Community_1045
 ---
 
-# Connections_765.md
+# Connections
 
 ## Connections
-- [[Connections_203]] - `contains` [EXTRACTED]
-- [[RareEventService.setPaidHandler()_2_1]] - `references` [EXTRACTED]
+- [[ShowcaseBuilder_1_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1089
+#graphify/document #graphify/EXTRACTED #community/Community_1045

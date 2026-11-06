@@ -1,19 +1,205 @@
 ---
 type: community
-members: 6
+members: 192
 ---
 
 # Community 844
 
-**Members:** 6 nodes
+**Members:** 192 nodes
 
 ## Members
-- [[Connections_5589]] - document - vault/Graph/Connections_994.md
-- [[Connections_5590]] - document - vault/Graph/Connections_994.md
-- [[Connections_5591]] - document - vault/Graph/NPCLife_1_1.md
-- [[Connections_994_1]] - document - vault/Graph/Connections_994.md
-- [[NPCLife_1_2]] - document - vault/Graph/NPCLife_1_1.md
-- [[NPCLife_1_1_1]] - document - vault/Graph/NPCLife_1_1.md
+- [[BaseManager.addCreature()_6]] - document - vault/Graph/BaseManager.addCreature().md
+- [[BaseManager.addCreature()_5]] - document - vault/Graph/BaseManager.addCreature().md
+- [[BaseManager.assign()_6]] - document - vault/Graph/BaseManager.assign()_4.md
+- [[BaseManager.assign()_7]] - document - vault/Graph/BaseManager.assign().md
+- [[BaseManager.assign()_5]] - document - vault/Graph/BaseManager.assign().md
+- [[BaseManager.assign()_4_1]] - document - vault/Graph/BaseManager.assign()_4.md
+- [[BaseManager.evolve()_7]] - document - vault/Graph/BaseManager.evolve().md
+- [[BaseManager.evolve()_6]] - document - vault/Graph/BaseManager.evolve().md
+- [[BaseManager.getIndex()_7]] - document - vault/Graph/BaseManager.getIndex().md
+- [[BaseManager.getIndex()_6]] - document - vault/Graph/BaseManager.getIndex().md
+- [[BaseManager.getTeam()_7]] - document - vault/Graph/BaseManager.getTeam().md
+- [[BaseManager.getTeam()_6]] - document - vault/Graph/BaseManager.getTeam().md
+- [[BaseManager.hasRoom()_7]] - document - vault/Graph/BaseManager.hasRoom().md
+- [[BaseManager.hasRoom()_6]] - document - vault/Graph/BaseManager.hasRoom().md
+- [[BaseManager.healAll()_7]] - document - vault/Graph/BaseManager.healAll().md
+- [[BaseManager.healAll()_6]] - document - vault/Graph/BaseManager.healAll().md
+- [[BaseManager.isExpansionUnlocked()_6]] - document - vault/Graph/BaseManager.isExpansionUnlocked().md
+- [[BaseManager.isExpansionUnlocked()_5]] - document - vault/Graph/BaseManager.isExpansionUnlocked().md
+- [[BaseManager.luau_7]] - document - vault/Graph/BaseManager.luau.md
+- [[BaseManager.luau_6]] - document - vault/Graph/BaseManager.luau.md
+- [[BaseManager.newRecord()_6]] - document - vault/Graph/BaseManager.newRecord().md
+- [[BaseManager.newRecord()_5]] - document - vault/Graph/BaseManager.newRecord().md
+- [[BaseManager.recalcCapacity()_6]] - document - vault/Graph/BaseManager.recalcCapacity().md
+- [[BaseManager.recalcCapacity()_5]] - document - vault/Graph/BaseManager.recalcCapacity().md
+- [[BaseManager.refresh()_8]] - document - vault/Graph/BaseManager.refresh().md
+- [[BaseManager.refresh()_7]] - document - vault/Graph/BaseManager.refresh().md
+- [[BaseManager.release()_6]] - document - vault/Graph/BaseManager.release().md
+- [[BaseManager.release()_5]] - document - vault/Graph/BaseManager.release().md
+- [[BaseManager.removeCreature()_8]] - document - vault/Graph/BaseManager.removeCreature().md
+- [[BaseManager.removeCreature()_7]] - document - vault/Graph/BaseManager.removeCreature().md
+- [[BaseManager.restore()_8]] - document - vault/Graph/BaseManager.restore().md
+- [[BaseManager.restore()_7]] - document - vault/Graph/BaseManager.restore().md
+- [[BaseManager.serialize()_7]] - document - vault/Graph/BaseManager.serialize()_5.md
+- [[BaseManager.serialize()_8]] - document - vault/Graph/BaseManager.serialize().md
+- [[BaseManager.serialize()_6]] - document - vault/Graph/BaseManager.serialize().md
+- [[BaseManager.serialize()_5_1]] - document - vault/Graph/BaseManager.serialize()_5.md
+- [[BaseManager.spawnCFrame()_8]] - document - vault/Graph/BaseManager.spawnCFrame().md
+- [[BaseManager.spawnCFrame()_7]] - document - vault/Graph/BaseManager.spawnCFrame().md
+- [[BaseManager.unlockExpansion()_8]] - document - vault/Graph/BaseManager.unlockExpansion().md
+- [[BaseManager.unlockExpansion()_7]] - document - vault/Graph/BaseManager.unlockExpansion().md
+- [[BattleData.applyStars()_7]] - document - vault/Graph/BattleData.applyStars().md
+- [[BattleData.applyStars()_6]] - document - vault/Graph/BattleData.applyStars().md
+- [[BattleData.bestStats()_6]] - document - vault/Graph/BattleData.bestStats().md
+- [[BattleData.bestStats()_5]] - document - vault/Graph/BattleData.bestStats().md
+- [[BattleData.canGetStatus()_12]] - document - vault/Graph/BattleData.canGetStatus().md
+- [[BattleData.canGetStatus()_11]] - document - vault/Graph/BattleData.canGetStatus().md
+- [[BattleData.cleanIVs()_6]] - document - vault/Graph/BattleData.cleanIVs().md
+- [[BattleData.cleanIVs()_5]] - document - vault/Graph/BattleData.cleanIVs().md
+- [[BattleData.effectiveness()_12]] - document - vault/Graph/BattleData.effectiveness().md
+- [[BattleData.effectiveness()_11]] - document - vault/Graph/BattleData.effectiveness().md
+- [[BattleData.learnedAt()_12]] - document - vault/Graph/BattleData.learnedAt().md
+- [[BattleData.learnedAt()_11]] - document - vault/Graph/BattleData.learnedAt().md
+- [[BattleData.luau_7]] - document - vault/Graph/BattleData.luau.md
+- [[BattleData.luau_6]] - document - vault/Graph/BattleData.luau.md
+- [[BattleData.maxXP()_7]] - document - vault/Graph/BattleData.maxXP().md
+- [[BattleData.maxXP()_6]] - document - vault/Graph/BattleData.maxXP().md
+- [[BattleData.movesAt()_9]] - document - vault/Graph/BattleData.movesAt().md
+- [[BattleData.movesAt()_8]] - document - vault/Graph/BattleData.movesAt().md
+- [[BattleData.rollIVs()_6]] - document - vault/Graph/BattleData.rollIVs().md
+- [[BattleData.rollIVs()_5]] - document - vault/Graph/BattleData.rollIVs().md
+- [[BattleData.sizeMult()_7]] - document - vault/Graph/BattleData.sizeMult().md
+- [[BattleData.sizeMult()_6]] - document - vault/Graph/BattleData.sizeMult().md
+- [[BattleData.stageMult()_12]] - document - vault/Graph/BattleData.stageMult().md
+- [[BattleData.stageMult()_11]] - document - vault/Graph/BattleData.stageMult().md
+- [[BattleData.starProgress()_7]] - document - vault/Graph/BattleData.starProgress().md
+- [[BattleData.starProgress()_6]] - document - vault/Graph/BattleData.starProgress().md
+- [[BattleData.starsFor()_6]] - document - vault/Graph/BattleData.starsFor().md
+- [[BattleData.starsFor()_5]] - document - vault/Graph/BattleData.starsFor().md
+- [[BattleData.stats()_8]] - document - vault/Graph/BattleData.stats().md
+- [[BattleData.stats()_7]] - document - vault/Graph/BattleData.stats().md
+- [[BattleData.xpForLevel()_6]] - document - vault/Graph/BattleData.xpForLevel().md
+- [[BattleData.xpForLevel()_5]] - document - vault/Graph/BattleData.xpForLevel().md
+- [[Community 16_6]] - document - vault/Graph/_COMMUNITY_Community 16.md
+- [[Connections_23157]] - document - vault/Graph/BaseManager.addCreature().md
+- [[Connections_23158]] - document - vault/Graph/BaseManager.assign()_4.md
+- [[Connections_23159]] - document - vault/Graph/BaseManager.assign().md
+- [[Connections_23160]] - document - vault/Graph/BaseManager.evolve().md
+- [[Connections_23161]] - document - vault/Graph/BaseManager.getIndex().md
+- [[Connections_23162]] - document - vault/Graph/BaseManager.getTeam().md
+- [[Connections_23163]] - document - vault/Graph/BaseManager.hasRoom().md
+- [[Connections_23164]] - document - vault/Graph/BaseManager.healAll().md
+- [[Connections_23165]] - document - vault/Graph/BaseManager.isExpansionUnlocked().md
+- [[Connections_23166]] - document - vault/Graph/BaseManager.luau.md
+- [[Connections_23167]] - document - vault/Graph/BaseManager.newRecord().md
+- [[Connections_23168]] - document - vault/Graph/BaseManager.recalcCapacity().md
+- [[Connections_23169]] - document - vault/Graph/BaseManager.refresh().md
+- [[Connections_23170]] - document - vault/Graph/BaseManager.release().md
+- [[Connections_23171]] - document - vault/Graph/BaseManager.removeCreature().md
+- [[Connections_23172]] - document - vault/Graph/BaseManager.restore().md
+- [[Connections_23173]] - document - vault/Graph/BaseManager.serialize()_5.md
+- [[Connections_23174]] - document - vault/Graph/BaseManager.serialize().md
+- [[Connections_23175]] - document - vault/Graph/BaseManager.spawnCFrame().md
+- [[Connections_23176]] - document - vault/Graph/BaseManager.unlockExpansion().md
+- [[Connections_23177]] - document - vault/Graph/BattleData.applyStars().md
+- [[Connections_23178]] - document - vault/Graph/BattleData.bestStats().md
+- [[Connections_23179]] - document - vault/Graph/BattleData.canGetStatus().md
+- [[Connections_23180]] - document - vault/Graph/BattleData.cleanIVs().md
+- [[Connections_23181]] - document - vault/Graph/BattleData.effectiveness().md
+- [[Connections_23182]] - document - vault/Graph/BattleData.learnedAt().md
+- [[Connections_23183]] - document - vault/Graph/BattleData.luau.md
+- [[Connections_23184]] - document - vault/Graph/BattleData.maxXP().md
+- [[Connections_23185]] - document - vault/Graph/BattleData.movesAt().md
+- [[Connections_23186]] - document - vault/Graph/BattleData.rollIVs().md
+- [[Connections_23187]] - document - vault/Graph/BattleData.sizeMult().md
+- [[Connections_23188]] - document - vault/Graph/BattleData.stageMult().md
+- [[Connections_23189]] - document - vault/Graph/BattleData.starProgress().md
+- [[Connections_23190]] - document - vault/Graph/BattleData.starsFor().md
+- [[Connections_23191]] - document - vault/Graph/BattleData.stats().md
+- [[Connections_23192]] - document - vault/Graph/BattleData.xpForLevel().md
+- [[Connections_23193]] - document - vault/Graph/commands.addStar().md
+- [[Connections_23194]] - document - vault/Graph/commands.maxTeam().md
+- [[Connections_23195]] - document - vault/Graph/commands.newPlayer().md
+- [[Connections_23196]] - document - vault/Graph/commands.weakTeam().md
+- [[Connections_23197]] - document - vault/Graph/finite()_1.md
+- [[Connections_23198]] - document - vault/Graph/Functions_158.md
+- [[Connections_23199]] - document - vault/Graph/ignoreList().md
+- [[Connections_23200]] - document - vault/Graph/onCharacter().md
+- [[Connections_23201]] - document - vault/Graph/processReceipt()_3.md
+- [[Connections_23202]] - document - vault/Graph/processReceipt()_4.md
+- [[Connections_23203]] - document - vault/Graph/ProgressService.evolveNow().md
+- [[Connections_23204]] - document - vault/Graph/recordIndex().md
+- [[Connections_23205]] - document - vault/Graph/refreshTag().md
+- [[Connections_23206]] - document - vault/Graph/SaveService.save()_5.md
+- [[Connections_23207]] - document - vault/Graph/setExpansionOpen().md
+- [[Connections_23208]] - document - vault/Graph/setGateOpen()_4.md
+- [[Connections_23209]] - document - vault/Graph/setGateOpen().md
+- [[Connections_23210]] - document - vault/Graph/setSign().md
+- [[Connections_23211]] - document - vault/Graph/sortedBases().md
+- [[Connections_23212]] - document - vault/Graph/spawnModel().md
+- [[Connections_23213]] - document - vault/Graph/step().md
+- [[Connections_23214]] - document - vault/Graph/Wander.add().md
+- [[Connections_23215]] - document - vault/Graph/Wander.groundAt().md
+- [[Connections_23216]] - document - vault/Graph/Wander.luau.md
+- [[Connections_23217]] - document - vault/Graph/Wander.remove().md
+- [[Connections_23218]] - document - vault/Graph/WildSpawner.spawnOne().md
+- [[Connections to other communities_1588]] - document - vault/Graph/_COMMUNITY_Community 16.md
+- [[Functions_240]] - document - vault/Graph/Functions_158.md
+- [[Functions_158_1]] - document - vault/Graph/Functions_158.md
+- [[Live Query (requires Dataview plugin)_1860]] - document - vault/Graph/_COMMUNITY_Community 16.md
+- [[Members_1859]] - document - vault/Graph/_COMMUNITY_Community 16.md
+- [[ProgressService.evolveNow()_10]] - document - vault/Graph/ProgressService.evolveNow().md
+- [[ProgressService.evolveNow()_9]] - document - vault/Graph/ProgressService.evolveNow().md
+- [[SaveService.save()_8]] - document - vault/Graph/SaveService.save()_5.md
+- [[SaveService.save()_5_1]] - document - vault/Graph/SaveService.save()_5.md
+- [[Top bridge nodes_1580]] - document - vault/Graph/_COMMUNITY_Community 16.md
+- [[Wander.add()_6]] - document - vault/Graph/Wander.add().md
+- [[Wander.add()_5]] - document - vault/Graph/Wander.add().md
+- [[Wander.groundAt()_6]] - document - vault/Graph/Wander.groundAt().md
+- [[Wander.groundAt()_5]] - document - vault/Graph/Wander.groundAt().md
+- [[Wander.luau_6]] - document - vault/Graph/Wander.luau.md
+- [[Wander.luau_5]] - document - vault/Graph/Wander.luau.md
+- [[Wander.remove()_7]] - document - vault/Graph/Wander.remove().md
+- [[Wander.remove()_6]] - document - vault/Graph/Wander.remove().md
+- [[WildSpawner.spawnOne()_6]] - document - vault/Graph/WildSpawner.spawnOne().md
+- [[WildSpawner.spawnOne()_5]] - document - vault/Graph/WildSpawner.spawnOne().md
+- [[_COMMUNITY_Community 16]] - document - vault/Graph/_COMMUNITY_Community 16.md
+- [[commands.addStar()_9]] - document - vault/Graph/commands.addStar().md
+- [[commands.addStar()_8]] - document - vault/Graph/commands.addStar().md
+- [[commands.maxTeam()_5]] - document - vault/Graph/commands.maxTeam().md
+- [[commands.maxTeam()_2]] - document - vault/Graph/commands.maxTeam().md
+- [[commands.newPlayer()_7]] - document - vault/Graph/commands.newPlayer().md
+- [[commands.newPlayer()_6]] - document - vault/Graph/commands.newPlayer().md
+- [[commands.weakTeam()_7]] - document - vault/Graph/commands.weakTeam().md
+- [[commands.weakTeam()_6]] - document - vault/Graph/commands.weakTeam().md
+- [[finite()_16]] - document - vault/Graph/finite()_1.md
+- [[finite()_1_4]] - document - vault/Graph/finite()_1.md
+- [[ignoreList()_6]] - document - vault/Graph/ignoreList().md
+- [[ignoreList()_5]] - document - vault/Graph/ignoreList().md
+- [[onCharacter()_7]] - document - vault/Graph/onCharacter().md
+- [[onCharacter()_6]] - document - vault/Graph/onCharacter().md
+- [[processReceipt()_6]] - document - vault/Graph/processReceipt()_4.md
+- [[processReceipt()_5]] - document - vault/Graph/processReceipt()_3.md
+- [[processReceipt()_3_1]] - document - vault/Graph/processReceipt()_3.md
+- [[processReceipt()_4_1]] - document - vault/Graph/processReceipt()_4.md
+- [[recordIndex()_7]] - document - vault/Graph/recordIndex().md
+- [[recordIndex()_6]] - document - vault/Graph/recordIndex().md
+- [[refreshTag()_7]] - document - vault/Graph/refreshTag().md
+- [[refreshTag()_6]] - document - vault/Graph/refreshTag().md
+- [[setExpansionOpen()_6]] - document - vault/Graph/setExpansionOpen().md
+- [[setExpansionOpen()_5]] - document - vault/Graph/setExpansionOpen().md
+- [[setGateOpen()_5]] - document - vault/Graph/setGateOpen()_4.md
+- [[setGateOpen()_6]] - document - vault/Graph/setGateOpen().md
+- [[setGateOpen()_4]] - document - vault/Graph/setGateOpen().md
+- [[setGateOpen()_4_1]] - document - vault/Graph/setGateOpen()_4.md
+- [[setSign()_12]] - document - vault/Graph/setSign().md
+- [[setSign()_11]] - document - vault/Graph/setSign().md
+- [[sortedBases()_7]] - document - vault/Graph/sortedBases().md
+- [[sortedBases()_6]] - document - vault/Graph/sortedBases().md
+- [[spawnModel()_7]] - document - vault/Graph/spawnModel().md
+- [[spawnModel()_6]] - document - vault/Graph/spawnModel().md
+- [[step()_6]] - document - vault/Graph/step().md
+- [[step()_5]] - document - vault/Graph/step().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +209,48 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 565]]
-- 1 edge to [[_COMMUNITY_Community 131]]
+- 16 edges to [[_COMMUNITY_Community 276]]
+- 16 edges to [[_COMMUNITY_Community 86]]
+- 10 edges to [[_COMMUNITY_Community 225]]
+- 10 edges to [[_COMMUNITY_Community 567]]
+- 9 edges to [[_COMMUNITY_Community 1187]]
+- 9 edges to [[_COMMUNITY_Community 9]]
+- 6 edges to [[_COMMUNITY_Community 25]]
+- 6 edges to [[_COMMUNITY_Community 53]]
+- 5 edges to [[_COMMUNITY_Community 490]]
+- 4 edges to [[_COMMUNITY_Community 24]]
+- 4 edges to [[_COMMUNITY_Community 2723]]
+- 3 edges to [[_COMMUNITY_Community 123]]
+- 3 edges to [[_COMMUNITY_Community 200]]
+- 3 edges to [[_COMMUNITY_Community 32]]
+- 3 edges to [[_COMMUNITY_Community 33]]
+- 3 edges to [[_COMMUNITY_Community 555]]
+- 2 edges to [[_COMMUNITY_Community 1338]]
+- 2 edges to [[_COMMUNITY_Community 179]]
+- 2 edges to [[_COMMUNITY_Community 50]]
+- 2 edges to [[_COMMUNITY_Community 698]]
+- 1 edge to [[_COMMUNITY_Community 1058]]
+- 1 edge to [[_COMMUNITY_Community 1242]]
+- 1 edge to [[_COMMUNITY_Community 1656]]
+- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 1713]]
+- 1 edge to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 223]]
+- 1 edge to [[_COMMUNITY_Community 227]]
+- 1 edge to [[_COMMUNITY_Community 229]]
+- 1 edge to [[_COMMUNITY_Community 271]]
+- 1 edge to [[_COMMUNITY_Community 274]]
+- 1 edge to [[_COMMUNITY_Community 334]]
+- 1 edge to [[_COMMUNITY_Community 339]]
+- 1 edge to [[_COMMUNITY_Community 553]]
+- 1 edge to [[_COMMUNITY_Community 554]]
+- 1 edge to [[_COMMUNITY_Community 556]]
+- 1 edge to [[_COMMUNITY_Community 90]]
+- 1 edge to [[_COMMUNITY_Community 97]]
 
 ## Top bridge nodes
-- [[NPCLife_1_1_1]] - degree 4, connects to 2 communities
-- [[Connections_994_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 16]] - degree 122, connects to 32 communities
+- [[BaseManager.getTeam()_6]] - degree 28, connects to 8 communities
+- [[WildSpawner.spawnOne()_5]] - degree 9, connects to 5 communities
+- [[BaseManager.luau_6]] - degree 34, connects to 3 communities
+- [[BattleData.luau_6]] - degree 21, connects to 3 communities

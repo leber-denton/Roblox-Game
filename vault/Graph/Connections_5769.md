@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/giveProduct().md"
+source_file: "vault/Graph/Connections_1731.md"
 type: "document"
-community: "Community 86"
-location: "L14"
+community: "Community 1336"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1336
 ---
 
 # Connections
 
 ## Connections
-- [[giveProduct()_5]] - `contains` [EXTRACTED]
+- [[Connections_5770]] - `contains` [EXTRACTED]
+- [[Connections_1731_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1336

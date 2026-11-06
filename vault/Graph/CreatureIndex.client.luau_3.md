@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/CreatureIndex.client.luau.md"
+source_file: "vault/Graph/CreatureIndex.client.luau_3.md"
 type: "document"
-community: "Community 195"
+community: "Community 2693"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_2693
 ---
 
-# CreatureIndex.client.luau.md
+# CreatureIndex.client.luau_3.md
 
 ## Connections
-- [[Connections_148_1]] - `references` [EXTRACTED]
-- [[CreatureIndex.client.luau_4]] - `contains` [EXTRACTED]
-- [[CreatureIndex.client.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
+- [[CreatureIndex.client.luau_7]] - `contains` [EXTRACTED]
+- [[CreatureIndex.client.luau_2_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 181]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_2693

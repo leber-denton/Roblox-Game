@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/Connections_1061.md"
+source_file: "vault/Graph/Connections_1061_1.md"
 type: "document"
-community: "Community 721"
+community: "Community 378"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_721
+  - community/Community_378
 ---
 
-# Connections_1061.md
+# Connections_1061_1.md
 
 ## Connections
-- [[Connections_5165]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
+- [[Connections_1061_2]] - `contains` [EXTRACTED]
+- [[Connections_5285_1]] - `references` [EXTRACTED]
+- [[GameData.battleItemOrder()_2_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_721
+#graphify/document #graphify/EXTRACTED #community/Community_378

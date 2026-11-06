@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/flash()_1.md"
 type: "document"
-community: "Community 790"
+community: "Community 168"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_790
+  - community/Community_168
 ---
 
-# flash().md
+# flash()
 
 ## Connections
-- [[Connections_5420]] - `contains` [EXTRACTED]
-- [[flash()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_9555]] - `contains` [EXTRACTED]
+- [[flash()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_790
+#graphify/document #graphify/EXTRACTED #community/Community_168

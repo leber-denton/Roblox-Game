@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.finEars()_2.md"
+source_file: "vault/Graph/PlayerData.hasBeatenTrainer()_1_1.md"
 type: "document"
-community: "Community 937"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_937
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Features.finEars()_2_2]] - `contains` [EXTRACTED]
+- [[PlayerData.hasBeatenTrainer()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_937
+#graphify/document #graphify/EXTRACTED #community/Community_134

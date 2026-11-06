@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.antennae()_2.md"
+source_file: "vault/Graph/Connections_580_1.md"
 type: "document"
-community: "Community 367"
+community: "Community 1225"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_367
+  - community/Community_1225
 ---
 
 # Connections
 
 ## Connections
-- [[Features.antennae()_4]] - `contains` [EXTRACTED]
+- [[Connections_580_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_367
+#graphify/document #graphify/EXTRACTED #community/Community_1225

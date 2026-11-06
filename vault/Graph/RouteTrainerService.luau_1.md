@@ -13,8 +13,10 @@ tags:
 
 ## Connections
 - [[RouteTrainerService.init()_1]] - `references` [EXTRACTED]
-- [[RouteTrainerService.luau_1_1]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.luau_1_3]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.luau_1_1]] - `references` [EXTRACTED]
 - [[RouteTrainerService.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 311]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]

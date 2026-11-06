@@ -12,7 +12,7 @@ tags:
 # refresh()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_7]] - `contains` [EXTRACTED]
 - [[ballIcon()]] - `calls` [EXTRACTED]
 - [[getInventory()]] - `calls` [EXTRACTED]
 - [[itemInfo()]] - `calls` [EXTRACTED]

@@ -1,19 +1,28 @@
 ---
 type: community
-members: 6
+members: 15
 ---
 
 # Community 772
 
-**Members:** 6 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_5354]] - document - vault/Graph/TrainerAnimations_track()_1.md
-- [[Connections_5355]] - document - vault/Graph/TrainerAnimations_track()_2.md
-- [[TrainerAnimations_track()_4]] - document - vault/Graph/TrainerAnimations_track()_2.md
-- [[TrainerAnimations_track()_3]] - document - vault/Graph/TrainerAnimations_track()_1.md
-- [[TrainerAnimations_track()_1_1]] - document - vault/Graph/TrainerAnimations_track()_1.md
-- [[TrainerAnimations_track()_2_1]] - document - vault/Graph/TrainerAnimations_track()_2.md
+- [[Community 1443]] - document - vault/Graph/_COMMUNITY_Community 1443.md
+- [[Connections_22620]] - document - vault/Graph/Connections_5975.md
+- [[Connections_22621]] - document - vault/Graph/Connections_5975.md
+- [[Connections_22622]] - document - vault/Graph/Connections_5984.md
+- [[Connections_22623]] - document - vault/Graph/Connections_5984.md
+- [[Connections_22624]] - document - vault/Graph/Members_444.md
+- [[Connections to other communities_1542]] - document - vault/Graph/_COMMUNITY_Community 1443.md
+- [[Connections_5975_1]] - document - vault/Graph/Connections_5975.md
+- [[Connections_5984_1]] - document - vault/Graph/Connections_5984.md
+- [[Live Query (requires Dataview plugin)_1804]] - document - vault/Graph/_COMMUNITY_Community 1443.md
+- [[Members_1802]] - document - vault/Graph/_COMMUNITY_Community 1443.md
+- [[Members_1803]] - document - vault/Graph/Members_444.md
+- [[Members_444_1]] - document - vault/Graph/Members_444.md
+- [[Top bridge nodes_1534]] - document - vault/Graph/_COMMUNITY_Community 1443.md
+- [[_COMMUNITY_Community 1443]] - document - vault/Graph/_COMMUNITY_Community 1443.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,11 +32,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 450]]
-- 1 edge to [[_COMMUNITY_Community 143]]
-- 1 edge to [[_COMMUNITY_Community 615]]
-- 1 edge to [[_COMMUNITY_Community 773]]
+- 2 edges to [[_COMMUNITY_Community 2532]]
+- 2 edges to [[_COMMUNITY_Community 2535]]
+- 2 edges to [[_COMMUNITY_Community 2536]]
+- 1 edge to [[_COMMUNITY_Community 1963]]
 
 ## Top bridge nodes
-- [[TrainerAnimations_track()_1_1]] - degree 6, connects to 4 communities
-- [[TrainerAnimations_track()_2_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 1443]] - degree 11, connects to 4 communities

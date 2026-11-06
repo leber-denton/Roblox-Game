@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_445.md"
+source_file: "vault/Graph/script_parent_waitforchild_1.md"
 type: "document"
-community: "Community 1168"
-location: "L1"
+community: "Community 103"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1168
+  - community/Community_103
 ---
 
-# Connections_445.md
+# Connections
 
 ## Connections
-- [[Connections_431]] - `contains` [EXTRACTED]
-- [[part()_6]] - `references` [EXTRACTED]
+- [[script_parent_waitforchild_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1168
+#graphify/document #graphify/EXTRACTED #community/Community_103

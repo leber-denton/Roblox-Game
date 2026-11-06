@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GraphDecorUI.md"
+source_file: "vault/Graph/wins()_2.md"
 type: "document"
-community: "Community 98"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[GraphDecorUI_4]] - `contains` [EXTRACTED]
+- [[wins()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_98
+#graphify/document #graphify/EXTRACTED #community/Community_134

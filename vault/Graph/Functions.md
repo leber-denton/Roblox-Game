@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Code/Music.md"
+source_file: "vault/Code/SocialService.md"
 type: "document"
-community: "Community 1"
-location: "L10"
+community: "Community 10"
+location: "L15"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Community_1
+  - community/Community_10
 ---
 
 # Functions
 
 ## Connections
-- [[Music]] - `contains` [EXTRACTED]
-- [[applyMute()]] - `references` [INFERRED]
-- [[targetVolume()]] - `references` [INFERRED]
-- [[wanted()]] - `references` [INFERRED]
+- [[SocialService]] - `contains` [EXTRACTED]
+- [[boardRows()]] - `references` [INFERRED]
+- [[plazaCenter()]] - `references` [INFERRED]
+- [[setupCommunity()]] - `references` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Community_1
+#graphify/document #graphify/INFERRED #community/Community_10

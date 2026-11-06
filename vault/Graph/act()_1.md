@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 - [[act()_2]] - `contains` [EXTRACTED]
-- [[clearButtons()_3]] - `references` [EXTRACTED]
+- [[clearButtons()_1]] - `references` [EXTRACTED]
 - [[showMenu()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

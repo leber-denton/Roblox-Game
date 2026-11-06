@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_4748]] - document - vault/Graph/Sync_1.md
-- [[Connections_4749]] - document - vault/Graph/Sync_2.md
-- [[Sync_1]] - document - vault/Graph/Sync_1.md
-- [[Sync_1_1]] - document - vault/Graph/Sync_1.md
-- [[Sync_2]] - document - vault/Graph/Sync_2.md
-- [[Sync_2_1]] - document - vault/Graph/Sync_2.md
+- [[Connections_21150]] - document - vault/Graph/Connections_4748.md
+- [[Connections_21151]] - document - vault/Graph/Connections_4748.md
+- [[Connections_21152]] - document - vault/Graph/Connections_4749.md
+- [[Connections_21153]] - document - vault/Graph/Connections_4749.md
+- [[Connections_4748_1]] - document - vault/Graph/Connections_4748.md
+- [[Connections_4749_1]] - document - vault/Graph/Connections_4749.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,10 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 500]]
-- 1 edge to [[_COMMUNITY_Community 592]]
-- 1 edge to [[_COMMUNITY_Community 96]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[Sync_1]] - degree 5, connects to 3 communities
-- [[Sync_2]] - degree 3, connects to 1 community
+- [[Connections_4748_1]] - degree 3, connects to 1 community
+- [[Connections_4749_1]] - degree 3, connects to 1 community

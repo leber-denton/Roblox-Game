@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/onCharacter().md"
+source_file: "vault/Graph/onCharacter()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2271"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2271
 ---
 
-# onCharacter().md
+# onCharacter()_3.md
 
 ## Connections
-- [[BaseManager.spawnCFrame()_3]] - `references` [EXTRACTED]
-- [[Main.server.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[onCharacter()_4]] - `contains` [EXTRACTED]
-- [[onPlayerAdded()_4]] - `references` [EXTRACTED]
+- [[onCharacter()_5]] - `contains` [EXTRACTED]
+- [[onCharacter()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2271

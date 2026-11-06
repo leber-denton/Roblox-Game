@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/RareEventService.setPaidHandler().md"
+source_file: "vault/Graph/RareEventService.setPaidHandler()_2.md"
 type: "document"
-community: "Community 53"
+community: "Community 577"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_53
+  - community/Community_577
 ---
 
-# RareEventService.setPaidHandler()
+# RareEventService.setPaidHandler().md
 
 ## Connections
-- [[Connections_4572]] - `contains` [EXTRACTED]
-- [[RareEventService.setPaidHandler()_4]] - `contains` [EXTRACTED]
+- [[Connections_20983]] - `contains` [EXTRACTED]
+- [[RareEventService.setPaidHandler()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_53
+#graphify/document #graphify/EXTRACTED #community/Community_577

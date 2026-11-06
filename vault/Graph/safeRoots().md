@@ -12,8 +12,8 @@ tags:
 # safeRoots()
 
 ## Connections
-- [[Functions_182]] - `references` [INFERRED]
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[Functions_238]] - `references` [INFERRED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[ModelSync.restore()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_8

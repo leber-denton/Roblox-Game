@@ -15,6 +15,6 @@ tags:
 - [[isLocked()]] - `contains` [EXTRACTED]
 - [[lockPrompt()]] - `contains` [EXTRACTED]
 - [[unlockAll()]] - `contains` [EXTRACTED]
-- [[update()_1]] - `contains` [EXTRACTED]
+- [[update()]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_35

@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[PlayerData.hasBeatenTrainer()_1]] - `references` [EXTRACTED]
-- [[PlayerData.hasBeatenTrainer()_2_1]] - `contains` [EXTRACTED]
+- [[PlayerData.hasBeatenTrainer()_2_3]] - `contains` [EXTRACTED]
+- [[PlayerData.hasBeatenTrainer()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 311]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
 

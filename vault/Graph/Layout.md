@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Layout_3.md"
+source_file: "vault/Graph/Layout.md"
 type: "document"
-community: "Community 1285"
-location: "L12"
+community: "Community 115"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1285
+  - community/Community_115
 ---
 
-# Layout
+# Layout.md
 
 ## Connections
-- [[Connections_1344]] - `contains` [EXTRACTED]
-- [[Layout_3]] - `contains` [EXTRACTED]
+- [[Connections_1830_1]] - `references` [EXTRACTED]
+- [[Layout_9]] - `contains` [EXTRACTED]
+- [[Layout_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 115]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1285
+#graphify/document #graphify/EXTRACTED #community/Community_115

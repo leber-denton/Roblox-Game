@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GraphColiseumUI.md"
+source_file: "vault/Graph/Top bridge nodes_17.md"
 type: "document"
-community: "Community 142"
+community: "Community 110"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_142
+  - community/Community_110
 ---
 
 # Connections
 
 ## Connections
-- [[GraphColiseumUI_2]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_120]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_142
+#graphify/document #graphify/EXTRACTED #community/Community_110

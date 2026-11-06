@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/LeaderboardService.md"
+source_file: "vault/Graph/Connections_4040.md"
 type: "document"
-community: "Community 839"
-location: "L14"
+community: "Community 132"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_839
+  - community/Community_132
 ---
 
 # Connections
 
 ## Connections
-- [[LeaderboardService_3]] - `contains` [EXTRACTED]
+- [[Connections_5577]] - `contains` [EXTRACTED]
+- [[Connections_4040_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_839
+#graphify/document #graphify/EXTRACTED #community/Community_132

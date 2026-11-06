@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Required by_50.md"
+source_file: "vault/Graph/Required by_50_2.md"
 type: "document"
-community: "Community 525"
-location: "L12"
+community: "Community 2598"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_525
+  - community/Community_2598
 ---
 
-# Required by_50.md
+# Required by_50_2.md
 
 ## Connections
-- [[Connections_4555]] - `contains` [EXTRACTED]
-- [[Required by_50_1]] - `contains` [EXTRACTED]
+- [[Connections_4555_1]] - `references` [EXTRACTED]
+- [[Required by_50_3]] - `contains` [EXTRACTED]
+- [[Required by_50_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_525
+#graphify/document #graphify/EXTRACTED #community/Community_2598

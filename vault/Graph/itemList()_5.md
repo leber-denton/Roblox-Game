@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/itemList().md"
+source_file: "vault/Graph/itemList()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 1187"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1187
 ---
 
-# itemList()
+# itemList()_5.md
 
 ## Connections
-- [[Connections_5775]] - `contains` [EXTRACTED]
-- [[itemList()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[itemList()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1187

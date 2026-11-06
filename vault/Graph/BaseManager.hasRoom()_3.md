@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.hasRoom().md"
+source_file: "vault/Graph/BaseManager.hasRoom()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2737"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2737
 ---
 
-# BaseManager.hasRoom().md
+# BaseManager.hasRoom()_3.md
 
 ## Connections
-- [[BaseManager.addCreature()_3]] - `references` [EXTRACTED]
-- [[BaseManager.hasRoom()_4]] - `contains` [EXTRACTED]
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[BaseManager.hasRoom()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2737

@@ -1,28 +1,18 @@
 ---
-source_file: "vault/Graph/LeagueService.luau.md"
+source_file: "vault/Graph/LeagueService.luau_3.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 134"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
 # LeagueService.luau.md
 
 ## Connections
-- [[LeagueService.init()_4]] - `references` [EXTRACTED]
-- [[LeagueService.luau_5]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[challenge()_7]] - `references` [EXTRACTED]
-- [[isChampion()_4]] - `references` [EXTRACTED]
-- [[itemList()_4]] - `references` [EXTRACTED]
-- [[reset()_4]] - `references` [EXTRACTED]
-- [[rivalAce()_4]] - `references` [EXTRACTED]
-- [[setup()_6]] - `references` [EXTRACTED]
-- [[stage()_4]] - `references` [EXTRACTED]
-- [[teamFor()_4]] - `references` [EXTRACTED]
-- [[wins()_4]] - `references` [EXTRACTED]
+- [[Connections_6210]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

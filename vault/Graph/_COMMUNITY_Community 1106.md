@@ -1,19 +1,20 @@
 ---
 type: community
-members: 6
+members: 7
 ---
 
 # Community 1106
 
-**Members:** 6 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Connections_240]] - document - vault/Graph/Connections_930.md
-- [[Connections_241]] - document - vault/Graph/Connections_930.md
-- [[Connections_242]] - document - vault/Graph/update()_4.md
-- [[Connections_930]] - document - vault/Graph/Connections_930.md
-- [[update()_5]] - document - vault/Graph/update()_4.md
-- [[update()_4]] - document - vault/Graph/update()_4.md
+- [[Community 1106]] - document - vault/Graph/_COMMUNITY_Community 1106.md
+- [[Connections_1852]] - document - vault/Graph/Live Query (requires Dataview plugin)_147.md
+- [[Live Query (requires Dataview plugin)_176]] - document - vault/Graph/_COMMUNITY_Community 1106.md
+- [[Live Query (requires Dataview plugin)_177]] - document - vault/Graph/Live Query (requires Dataview plugin)_147.md
+- [[Live Query (requires Dataview plugin)_147_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_147.md
+- [[Members_179]] - document - vault/Graph/_COMMUNITY_Community 1106.md
+- [[_COMMUNITY_Community 1106]] - document - vault/Graph/_COMMUNITY_Community 1106.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +22,17 @@ members: 6
 TABLE source_file, type FROM #community/Community_1106
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Community 1928]]
+- 2 edges to [[_COMMUNITY_Community 1930]]
+- 2 edges to [[_COMMUNITY_Community 1943]]
+- 2 edges to [[_COMMUNITY_Community 1322]]
+- 2 edges to [[_COMMUNITY_Community 1300]]
+- 2 edges to [[_COMMUNITY_Community 2063]]
+- 1 edge to [[_COMMUNITY_Community 511]]
+- 1 edge to [[_COMMUNITY_Community 848]]
+- 1 edge to [[_COMMUNITY_Community 1496]]
+
+## Top bridge nodes
+- [[_COMMUNITY_Community 1106]] - degree 17, connects to 9 communities

@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/teamFor()_1.md"
+source_file: "vault/Graph/teamFor()_5.md"
 type: "document"
-community: "Community 134"
-location: "L1"
+community: "Community 1187"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1187
 ---
 
-# teamFor()_1.md
+# teamFor().md
 
 ## Connections
-- [[LeagueService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
-- [[challenge()_2]] - `references` [EXTRACTED]
-- [[rivalAce()_1]] - `references` [EXTRACTED]
-- [[teamFor()_1_1]] - `contains` [EXTRACTED]
-- [[teamFor()_2]] - `references` [EXTRACTED]
+- [[Connections_3397]] - `contains` [EXTRACTED]
+- [[teamFor()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1187

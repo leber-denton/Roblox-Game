@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/creatureText().md"
+source_file: "vault/Graph/creatureText()_6.md"
 type: "document"
-community: "Community 319"
-location: "L12"
+community: "Community 508"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_319
+  - community/Community_508
 ---
 
-# creatureText()
+# creatureText()_6.md
 
 ## Connections
-- [[Connections_3853]] - `contains` [EXTRACTED]
-- [[creatureText()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 226]] - `references` [EXTRACTED]
+- [[creatureText()_8]] - `contains` [EXTRACTED]
+- [[creatureText()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_319
+#graphify/document #graphify/EXTRACTED #community/Community_508

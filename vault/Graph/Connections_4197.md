@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Graph/gen_trade_beach.py_2.md"
+source_file: "vault/Graph/Connections_4197.md"
 type: "document"
-community: "Community 411"
-location: "L14"
+community: "Community 1126"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_411
+  - community/Community_1126
 ---
 
-# Connections
+# Connections_4197.md
 
 ## Connections
-- [[gen_trade_beach.py_2_2]] - `contains` [EXTRACTED]
+- [[Connections_1569_1]] - `references` [EXTRACTED]
+- [[Connections_4197_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1126]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 411]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_411
+#graphify/document #graphify/EXTRACTED #community/Community_1126

@@ -12,13 +12,13 @@ tags:
 # Code/NPC.md
 
 ## Connections
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
-- [[CodeDungeonService_2]] - `references` [EXTRACTED]
-- [[CodeGymService_2]] - `references` [EXTRACTED]
+- [[Code Map_2]] - `references` [EXTRACTED]
+- [[CodeDungeonService_4]] - `references` [EXTRACTED]
+- [[CodeGymService]] - `references` [EXTRACTED]
 - [[CodeLeagueService_2]] - `references` [EXTRACTED]
 - [[CodeRouteTrainerService_2]] - `references` [EXTRACTED]
 - [[CodeStoryService]] - `references` [EXTRACTED]
 - [[CodeTutorialService_2]] - `references` [EXTRACTED]
-- [[NPC_3]] - `contains` [EXTRACTED]
+- [[NPC]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_13

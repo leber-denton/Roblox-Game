@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_228.md"
+source_file: "vault/Graph/ride()_2.md"
 type: "document"
-community: "Community 958"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_958
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_6263]] - `contains` [EXTRACTED]
+- [[ride()_2_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_958
+#graphify/document #graphify/EXTRACTED #community/Community_134

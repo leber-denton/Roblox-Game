@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/script_parent_wildspawner.md"
+source_file: "vault/Graph/Top bridge nodes_36.md"
 type: "document"
-community: "Community 292"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[script_parent_wildspawner_4]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_224]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_12

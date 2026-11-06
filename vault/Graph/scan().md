@@ -12,7 +12,7 @@ tags:
 # scan()
 
 ## Connections
-- [[CreatureLife.client.luau_5]] - `contains` [EXTRACTED]
+- [[CreatureLife.client.luau_7]] - `contains` [EXTRACTED]
 - [[register()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_80

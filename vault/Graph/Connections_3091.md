@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/onNotify().md"
+source_file: "vault/Graph/Connections_2144.md"
 type: "document"
-community: "Community 212"
+community: "Community 1177"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_212
+  - community/Community_1177
 ---
 
 # Connections
 
 ## Connections
-- [[onNotify()_4]] - `contains` [EXTRACTED]
+- [[Connections_3089]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_212
+#graphify/document #graphify/EXTRACTED #community/Community_1177

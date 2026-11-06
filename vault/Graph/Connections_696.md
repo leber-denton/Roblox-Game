@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.recalcCapacity()_1.md"
+source_file: "vault/Graph/Connections_6386.md"
 type: "document"
-community: "Community 12"
+community: "Community 104"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_104
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.recalcCapacity()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_695]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_104

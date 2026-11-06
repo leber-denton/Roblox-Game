@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/round()_10.md"
+source_file: "vault/Graph/Connections_360_1.md"
 type: "document"
-community: "Community 184"
+community: "Community 115"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_184
+  - community/Community_115
 ---
 
 # Connections
 
 ## Connections
-- [[round()_11]] - `contains` [EXTRACTED]
+- [[Connections_360_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_184
+#graphify/document #graphify/EXTRACTED #community/Community_115

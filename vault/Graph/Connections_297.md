@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GraphDecorData.md"
+source_file: "vault/Graph/BaseManager.unlockExpansion()_2.md"
 type: "document"
-community: "Community 1127"
+community: "Community 1022"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1127
+  - community/Community_1022
 ---
 
 # Connections
 
 ## Connections
-- [[GraphDecorData_1]] - `contains` [EXTRACTED]
+- [[BaseManager.unlockExpansion()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1127
+#graphify/document #graphify/EXTRACTED #community/Community_1022

@@ -15,6 +15,7 @@ tags:
 - [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 170]] - `references` [EXTRACTED]
 - [[rebuildBar()_1]] - `references` [EXTRACTED]
-- [[rebuildBar()_2_1]] - `contains` [EXTRACTED]
+- [[rebuildBar()_2_3]] - `contains` [EXTRACTED]
+- [[rebuildBar()_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_170

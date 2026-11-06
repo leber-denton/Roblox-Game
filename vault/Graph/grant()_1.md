@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/grant().md"
+source_file: "vault/Graph/grant()_4.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2718"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2718
 ---
 
-# grant().md
+# grant()
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.buy()_1]] - `references` [EXTRACTED]
-- [[actions.buyDaily()_1]] - `references` [EXTRACTED]
-- [[actions.openBox()_1]] - `references` [EXTRACTED]
-- [[actions.shardBuy()_1]] - `references` [EXTRACTED]
-- [[applyPremium()_3]] - `references` [EXTRACTED]
-- [[grant()_2]] - `contains` [EXTRACTED]
+- [[Connections_15168]] - `contains` [EXTRACTED]
+- [[grant()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2718

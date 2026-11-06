@@ -1,85 +1,249 @@
 ---
 type: community
-members: 72
+members: 236
 ---
 
 # Community 226
 
-**Members:** 72 nodes
+**Members:** 236 nodes
 
 ## Members
-- [[Community 203]] - document - vault/Graph/_COMMUNITY_Community 203.md
-- [[Community 246]] - document - vault/Graph/_COMMUNITY_Community 246.md
-- [[Connections_3200]] - document - vault/Graph/clear()_1.md
-- [[Connections_3201]] - document - vault/Graph/clear()_2.md
-- [[Connections_3202]] - document - vault/Graph/creatureText()_1.md
-- [[Connections_3203]] - document - vault/Graph/creatureText()_2.md
-- [[Connections_3204]] - document - vault/Graph/decode()_1.md
-- [[Connections_3205]] - document - vault/Graph/decode()_2.md
-- [[Connections_3206]] - document - vault/Graph/fillBox()_1.md
-- [[Connections_3207]] - document - vault/Graph/fillBox()_2.md
-- [[Connections_3208]] - document - vault/Graph/GameData.itemSummary()_1.md
-- [[Connections_3209]] - document - vault/Graph/GameData.itemSummary()_2.md
-- [[Connections_3210]] - document - vault/Graph/inventory()_3.md
-- [[Connections_3211]] - document - vault/Graph/inventory()_4.md
-- [[Connections_3212]] - document - vault/Graph/Menus.client.luau_2.md
-- [[Connections_3213]] - document - vault/Graph/refresh()_4.md
-- [[Connections_3214]] - document - vault/Graph/refresh()_6.md
-- [[Connections_3215]] - document - vault/Graph/render()_1_1.md
-- [[Connections_3216]] - document - vault/Graph/trade.update()_1.md
-- [[Connections_3217]] - document - vault/Graph/trade.update()_2.md
-- [[Connections_3218]] - document - vault/Graph/updateJourney()_1.md
-- [[Connections_3219]] - document - vault/Graph/updateJourney()_2.md
-- [[Connections to other communities_174]] - document - vault/Graph/_COMMUNITY_Community 203.md
-- [[Connections to other communities_175]] - document - vault/Graph/_COMMUNITY_Community 246.md
-- [[GameData.itemSummary()_4]] - document - vault/Graph/GameData.itemSummary()_2.md
-- [[GameData.itemSummary()_3]] - document - vault/Graph/GameData.itemSummary()_1.md
-- [[GameData.itemSummary()_1_1]] - document - vault/Graph/GameData.itemSummary()_1.md
-- [[GameData.itemSummary()_2_1]] - document - vault/Graph/GameData.itemSummary()_2.md
-- [[Live Query (requires Dataview plugin)_205]] - document - vault/Graph/_COMMUNITY_Community 203.md
-- [[Live Query (requires Dataview plugin)_206]] - document - vault/Graph/_COMMUNITY_Community 246.md
-- [[Members_208]] - document - vault/Graph/_COMMUNITY_Community 203.md
-- [[Members_209]] - document - vault/Graph/_COMMUNITY_Community 246.md
-- [[Menus.client.luau_3]] - document - vault/Graph/Menus.client.luau_2.md
+- [[Bag_5]] - document - vault/Graph/Bag_1.md
+- [[Bag.client.luau_1_3]] - document - vault/Graph/Bag.client.luau_1_1.md
+- [[Bag.client.luau_1_1_1]] - document - vault/Graph/Bag.client.luau_1_1.md
+- [[Bag_1_3]] - document - vault/Graph/Bag_1.md
+- [[Bag_1_4]] - document - vault/Graph/Bag_1_1.md
+- [[Bag_1_1_2]] - document - vault/Graph/Bag_1_1.md
+- [[CodeBag_4]] - document - vault/Graph/CodeBag_2.md
+- [[CodeBag_3]] - document - vault/Graph/CodeBag_1.md
+- [[CodeBag_1]] - document - vault/Graph/CodeBag_1.md
+- [[CodeBag_2]] - document - vault/Graph/CodeBag_2.md
+- [[Connections_13144]] - document - vault/Graph/Bag_1_1.md
+- [[Connections_13145]] - document - vault/Graph/Bag_1.md
+- [[Connections_13146]] - document - vault/Graph/Bag.client.luau_1_1.md
+- [[Connections_13147]] - document - vault/Graph/ballIcon()_1_1.md
+- [[Connections_13148]] - document - vault/Graph/clear()_1.md
+- [[Connections_13149]] - document - vault/Graph/clear()_2.md
+- [[Connections_13150]] - document - vault/Graph/clear()_3.md
+- [[Connections_13151]] - document - vault/Graph/clear()_4.md
+- [[Connections_13152]] - document - vault/Graph/clearBody()_1_1.md
+- [[Connections_13153]] - document - vault/Graph/CodeBag_1.md
+- [[Connections_13154]] - document - vault/Graph/CodeBag_2.md
+- [[Connections_13155]] - document - vault/Graph/CreatureIndex.client.luau_2_1.md
+- [[Connections_13156]] - document - vault/Graph/Functions_107.md
+- [[Connections_13157]] - document - vault/Graph/Functions_109.md
+- [[Connections_13158]] - document - vault/Graph/Functions_29_1_1.md
+- [[Connections_13159]] - document - vault/Graph/Functions_29_2.md
+- [[Connections_13160]] - document - vault/Graph/Functions_60_1.md
+- [[Connections_13161]] - document - vault/Graph/Functions_61_1.md
+- [[Connections_13162]] - document - vault/Graph/Functions_97.md
+- [[Connections_13163]] - document - vault/Graph/GameData.itemSummary()_1.md
+- [[Connections_13164]] - document - vault/Graph/GameData.itemSummary()_2.md
+- [[Connections_13165]] - document - vault/Graph/GameData.itemSummary()_3.md
+- [[Connections_13166]] - document - vault/Graph/GameData.itemSummary()_4.md
+- [[Connections_13167]] - document - vault/Graph/getIndex()_1_1.md
+- [[Connections_13168]] - document - vault/Graph/getInventory()_1_1.md
+- [[Connections_13169]] - document - vault/Graph/getInventory()_1.md
+- [[Connections_13170]] - document - vault/Graph/getInventory()_2.md
+- [[Connections_13171]] - document - vault/Graph/GraphBag_1.md
+- [[Connections_13172]] - document - vault/Graph/GraphBag.md
+- [[Connections_13173]] - document - vault/Graph/incoming()_3.md
+- [[Connections_13174]] - document - vault/Graph/incoming()_4.md
+- [[Connections_13175]] - document - vault/Graph/inventory()_3_1.md
+- [[Connections_13176]] - document - vault/Graph/inventory()_4.md
+- [[Connections_13177]] - document - vault/Graph/inventory()_5.md
+- [[Connections_13178]] - document - vault/Graph/inventory()_6.md
+- [[Connections_13179]] - document - vault/Graph/itemInfo()_1_1.md
+- [[Connections_13180]] - document - vault/Graph/label()_1_2.md
+- [[Connections_13181]] - document - vault/Graph/label()_5_1.md
+- [[Connections_13182]] - document - vault/Graph/Menus.client.luau_2.md
+- [[Connections_13183]] - document - vault/Graph/Menus.client.luau_3.md
+- [[Connections_13184]] - document - vault/Graph/Menus.client.luau_4.md
+- [[Connections_13185]] - document - vault/Graph/Menus.client.luau.md
+- [[Connections_13186]] - document - vault/Graph/new()_1_2.md
+- [[Connections_13187]] - document - vault/Graph/new()_25.md
+- [[Connections_13188]] - document - vault/Graph/new()_4_1.md
+- [[Connections_13189]] - document - vault/Graph/new()_6_1_1.md
+- [[Connections_13190]] - document - vault/Graph/offerBox()_3.md
+- [[Connections_13191]] - document - vault/Graph/offerBox()_4.md
+- [[Connections_13192]] - document - vault/Graph/playEvolution()_3.md
+- [[Connections_13193]] - document - vault/Graph/playEvolution()_4.md
+- [[Connections_13194]] - document - vault/Graph/preview()_1_1_1.md
+- [[Connections_13195]] - document - vault/Graph/refresh()_10.md
+- [[Connections_13196]] - document - vault/Graph/refresh()_1_1_1.md
+- [[Connections_13197]] - document - vault/Graph/refresh()_6_1.md
+- [[Connections_13198]] - document - vault/Graph/refresh()_7.md
+- [[Connections_13199]] - document - vault/Graph/refresh()_8.md
+- [[Connections_13200]] - document - vault/Graph/Required by_105.md
+- [[Connections_13201]] - document - vault/Graph/Required by_54_2.md
+- [[Connections_13202]] - document - vault/Graph/Requires_29_1_1.md
+- [[Connections_13203]] - document - vault/Graph/Requires_60_1.md
+- [[Connections_13204]] - document - vault/Graph/Requires_99.md
+- [[Connections_13205]] - document - vault/Graph/round()_16.md
+- [[Connections_13206]] - document - vault/Graph/round()_17.md
+- [[Connections_13207]] - document - vault/Graph/setOpen()_6.md
+- [[Connections_13208]] - document - vault/Graph/setOpen()_7.md
+- [[Connections_13209]] - document - vault/Graph/setOpen()_8.md
+- [[Connections_13210]] - document - vault/Graph/showDetail()_1_1_1.md
+- [[Connections_13211]] - document - vault/Graph/showDetail()_2_1.md
+- [[Connections_13212]] - document - vault/Graph/showDetail()_7.md
+- [[Connections_13213]] - document - vault/Graph/showGrid()_1_1.md
+- [[Connections_13214]] - document - vault/Graph/showTradeHistory()_1_1.md
+- [[Connections_13215]] - document - vault/Graph/symbolFor()_1_1.md
+- [[Connections_13216]] - document - vault/Graph/typeChips()_1_1.md
+- [[Connections_13217]] - document - vault/Graph/updateVisible()_11.md
+- [[Connections_13218]] - document - vault/Graph/updateVisible()_1_1.md
+- [[Connections_13219]] - document - vault/Graph/viewport()_3.md
+- [[Connections_13220]] - document - vault/Graph/viewport()_4.md
+- [[CreatureIndex.client.luau_2_2]] - document - vault/Graph/CreatureIndex.client.luau_2_1.md
+- [[CreatureIndex.client.luau_2_1]] - document - vault/Graph/CreatureIndex.client.luau_2_1.md
+- [[Functions_145]] - document - vault/Graph/Functions_107.md
+- [[Functions_107_1]] - document - vault/Graph/Functions_107.md
+- [[Functions_109_2]] - document - vault/Graph/Functions_109.md
+- [[Functions_109_3]] - document - vault/Graph/Functions_109.md
+- [[Functions_29_3]] - document - vault/Graph/Functions_29_2.md
+- [[Functions_29_1_2]] - document - vault/Graph/Functions_29_1_1.md
+- [[Functions_29_1_1]] - document - vault/Graph/Functions_29_1_1.md
+- [[Functions_29_2_1]] - document - vault/Graph/Functions_29_2.md
+- [[Functions_60_2]] - document - vault/Graph/Functions_60_1.md
+- [[Functions_60_1]] - document - vault/Graph/Functions_60_1.md
+- [[Functions_61_2]] - document - vault/Graph/Functions_61_1.md
+- [[Functions_61_1_1]] - document - vault/Graph/Functions_61_1.md
+- [[Functions_97_1]] - document - vault/Graph/Functions_97.md
+- [[Functions_97_2]] - document - vault/Graph/Functions_97.md
+- [[GameData.itemSummary()_6]] - document - vault/Graph/GameData.itemSummary()_2.md
+- [[GameData.itemSummary()_8]] - document - vault/Graph/GameData.itemSummary()_4.md
+- [[GameData.itemSummary()_5]] - document - vault/Graph/GameData.itemSummary()_1.md
+- [[GameData.itemSummary()_7]] - document - vault/Graph/GameData.itemSummary()_3.md
+- [[GameData.itemSummary()_1]] - document - vault/Graph/GameData.itemSummary()_1.md
+- [[GameData.itemSummary()_2]] - document - vault/Graph/GameData.itemSummary()_2.md
+- [[GameData.itemSummary()_3]] - document - vault/Graph/GameData.itemSummary()_3.md
+- [[GameData.itemSummary()_4]] - document - vault/Graph/GameData.itemSummary()_4.md
+- [[GraphBag_3]] - document - vault/Graph/GraphBag.md
+- [[GraphBag]] - document - vault/Graph/GraphBag.md
+- [[GraphBag_2]] - document - vault/Graph/GraphBag_1.md
+- [[GraphBag_1]] - document - vault/Graph/GraphBag_1.md
+- [[Menus.client.luau]] - document - vault/Graph/Menus.client.luau.md
+- [[Menus.client.luau_5]] - document - vault/Graph/Menus.client.luau_3.md
+- [[Menus.client.luau_6]] - document - vault/Graph/Menus.client.luau_4.md
+- [[Menus.client.luau_7]] - document - vault/Graph/Menus.client.luau.md
+- [[Menus.client.luau_2]] - document - vault/Graph/Menus.client.luau_2.md
 - [[Menus.client.luau_2_1]] - document - vault/Graph/Menus.client.luau_2.md
-- [[Top bridge nodes_180]] - document - vault/Graph/_COMMUNITY_Community 203.md
-- [[Top bridge nodes_181]] - document - vault/Graph/_COMMUNITY_Community 246.md
+- [[Menus.client.luau_3]] - document - vault/Graph/Menus.client.luau_3.md
+- [[Menus.client.luau_4]] - document - vault/Graph/Menus.client.luau_4.md
+- [[Required by_150]] - document - vault/Graph/Required by_105.md
+- [[Required by_105_1]] - document - vault/Graph/Required by_105.md
+- [[Required by_54_3]] - document - vault/Graph/Required by_54_2.md
+- [[Required by_54_2]] - document - vault/Graph/Required by_54_2.md
+- [[Requires_143]] - document - vault/Graph/Requires_99.md
+- [[Requires_29_1]] - document - vault/Graph/Requires_29_1_1.md
+- [[Requires_29_1_1]] - document - vault/Graph/Requires_29_1_1.md
+- [[Requires_60_2]] - document - vault/Graph/Requires_60_1.md
+- [[Requires_60_1_1]] - document - vault/Graph/Requires_60_1.md
+- [[Requires_99_1]] - document - vault/Graph/Requires_99.md
+- [[_COMMUNITY_Community 20]] - document - vault/Graph/_COMMUNITY_Community 20.md
 - [[_COMMUNITY_Community 203]] - document - vault/Graph/_COMMUNITY_Community 203.md
-- [[_COMMUNITY_Community 246]] - document - vault/Graph/_COMMUNITY_Community 246.md
-- [[clear()_4]] - document - vault/Graph/clear()_2.md
-- [[clear()_3]] - document - vault/Graph/clear()_1.md
+- [[_COMMUNITY_Community 224]] - document - vault/Graph/_COMMUNITY_Community 224.md
+- [[_COMMUNITY_Community 237]] - document - vault/Graph/_COMMUNITY_Community 237.md
+- [[_COMMUNITY_Community 475]] - document - vault/Graph/_COMMUNITY_Community 475.md
+- [[ballIcon()_1_2]] - document - vault/Graph/ballIcon()_1_1.md
+- [[ballIcon()_1_1]] - document - vault/Graph/ballIcon()_1_1.md
+- [[clear()_6]] - document - vault/Graph/clear()_4.md
+- [[clear()_5]] - document - vault/Graph/clear()_3.md
+- [[clear()_1]] - document - vault/Graph/clear()_1.md
 - [[clear()_1_1]] - document - vault/Graph/clear()_1.md
+- [[clear()_2]] - document - vault/Graph/clear()_2.md
 - [[clear()_2_1]] - document - vault/Graph/clear()_2.md
-- [[creatureText()_4]] - document - vault/Graph/creatureText()_2.md
-- [[creatureText()_3]] - document - vault/Graph/creatureText()_1.md
-- [[creatureText()_1]] - document - vault/Graph/creatureText()_1.md
-- [[creatureText()_2]] - document - vault/Graph/creatureText()_2.md
-- [[decode()_4]] - document - vault/Graph/decode()_2.md
-- [[decode()_3]] - document - vault/Graph/decode()_1.md
-- [[decode()_1]] - document - vault/Graph/decode()_1.md
-- [[decode()_2]] - document - vault/Graph/decode()_2.md
-- [[fillBox()_4]] - document - vault/Graph/fillBox()_2.md
-- [[fillBox()_3]] - document - vault/Graph/fillBox()_1.md
-- [[fillBox()_1]] - document - vault/Graph/fillBox()_1.md
-- [[fillBox()_2]] - document - vault/Graph/fillBox()_2.md
-- [[inventory()_6]] - document - vault/Graph/inventory()_4.md
-- [[inventory()_5]] - document - vault/Graph/inventory()_3.md
-- [[inventory()_3_1]] - document - vault/Graph/inventory()_3.md
+- [[clear()_3]] - document - vault/Graph/clear()_3.md
+- [[clear()_4]] - document - vault/Graph/clear()_4.md
+- [[clearBody()_1_2]] - document - vault/Graph/clearBody()_1_1.md
+- [[clearBody()_1_1_1]] - document - vault/Graph/clearBody()_1_1.md
+- [[getIndex()_1_2]] - document - vault/Graph/getIndex()_1_1.md
+- [[getIndex()_1_1_1]] - document - vault/Graph/getIndex()_1_1.md
+- [[getInventory()_3]] - document - vault/Graph/getInventory()_1.md
+- [[getInventory()_1_1]] - document - vault/Graph/getInventory()_1.md
+- [[getInventory()_1_2]] - document - vault/Graph/getInventory()_1_1.md
+- [[getInventory()_1_1_1]] - document - vault/Graph/getInventory()_1_1.md
+- [[getInventory()_2_1]] - document - vault/Graph/getInventory()_2.md
+- [[getInventory()_2_2]] - document - vault/Graph/getInventory()_2.md
+- [[incoming()_3]] - document - vault/Graph/incoming()_3.md
+- [[incoming()_3_1]] - document - vault/Graph/incoming()_3.md
+- [[incoming()_4]] - document - vault/Graph/incoming()_4.md
+- [[incoming()_4_1]] - document - vault/Graph/incoming()_4.md
+- [[inventory()_8]] - document - vault/Graph/inventory()_6.md
+- [[inventory()_7]] - document - vault/Graph/inventory()_5.md
+- [[inventory()_3]] - document - vault/Graph/inventory()_3_1.md
+- [[inventory()_3_1]] - document - vault/Graph/inventory()_3_1.md
+- [[inventory()_4]] - document - vault/Graph/inventory()_4.md
 - [[inventory()_4_1]] - document - vault/Graph/inventory()_4.md
-- [[refresh()_10]] - document - vault/Graph/refresh()_6.md
-- [[refresh()_9]] - document - vault/Graph/refresh()_4.md
-- [[refresh()_4_1]] - document - vault/Graph/refresh()_4.md
-- [[refresh()_6_1]] - document - vault/Graph/refresh()_6.md
-- [[render()_1_2]] - document - vault/Graph/render()_1_1.md
-- [[render()_1_1]] - document - vault/Graph/render()_1_1.md
-- [[trade.update()_4]] - document - vault/Graph/trade.update()_2.md
-- [[trade.update()_3]] - document - vault/Graph/trade.update()_1.md
-- [[trade.update()_1]] - document - vault/Graph/trade.update()_1.md
-- [[trade.update()_2]] - document - vault/Graph/trade.update()_2.md
-- [[updateJourney()_4]] - document - vault/Graph/updateJourney()_2.md
-- [[updateJourney()_3]] - document - vault/Graph/updateJourney()_1.md
-- [[updateJourney()_1]] - document - vault/Graph/updateJourney()_1.md
-- [[updateJourney()_2]] - document - vault/Graph/updateJourney()_2.md
+- [[inventory()_5]] - document - vault/Graph/inventory()_5.md
+- [[inventory()_6]] - document - vault/Graph/inventory()_6.md
+- [[itemInfo()_1_2]] - document - vault/Graph/itemInfo()_1_1.md
+- [[itemInfo()_1_1]] - document - vault/Graph/itemInfo()_1_1.md
+- [[label()_1_1]] - document - vault/Graph/label()_1_2.md
+- [[label()_1_2]] - document - vault/Graph/label()_1_2.md
+- [[label()_5_2]] - document - vault/Graph/label()_5_1.md
+- [[label()_5_1_1]] - document - vault/Graph/label()_5_1.md
+- [[new()_24]] - document - vault/Graph/new()_25.md
+- [[new()_1_3]] - document - vault/Graph/new()_1_2.md
+- [[new()_1_2_1]] - document - vault/Graph/new()_1_2.md
+- [[new()_25]] - document - vault/Graph/new()_25.md
+- [[new()_4_1]] - document - vault/Graph/new()_4_1.md
+- [[new()_4_1_1]] - document - vault/Graph/new()_4_1.md
+- [[new()_6_1_2]] - document - vault/Graph/new()_6_1_1.md
+- [[new()_6_1_1_1]] - document - vault/Graph/new()_6_1_1.md
+- [[offerBox()_3]] - document - vault/Graph/offerBox()_3.md
+- [[offerBox()_3_1]] - document - vault/Graph/offerBox()_3.md
+- [[offerBox()_4]] - document - vault/Graph/offerBox()_4.md
+- [[offerBox()_4_1]] - document - vault/Graph/offerBox()_4.md
+- [[playEvolution()_3]] - document - vault/Graph/playEvolution()_3.md
+- [[playEvolution()_3_1]] - document - vault/Graph/playEvolution()_3.md
+- [[playEvolution()_4]] - document - vault/Graph/playEvolution()_4.md
+- [[playEvolution()_4_1]] - document - vault/Graph/playEvolution()_4.md
+- [[preview()_1_1_2]] - document - vault/Graph/preview()_1_1_1.md
+- [[preview()_1_1_1_1]] - document - vault/Graph/preview()_1_1_1.md
+- [[refresh()_12]] - document - vault/Graph/refresh()_8.md
+- [[refresh()_9]] - document - vault/Graph/refresh()_10.md
+- [[refresh()_11]] - document - vault/Graph/refresh()_7.md
+- [[refresh()_10]] - document - vault/Graph/refresh()_10.md
+- [[refresh()_1_1]] - document - vault/Graph/refresh()_1_1_1.md
+- [[refresh()_1_1_1]] - document - vault/Graph/refresh()_1_1_1.md
+- [[refresh()_6_2]] - document - vault/Graph/refresh()_6_1.md
+- [[refresh()_6_1]] - document - vault/Graph/refresh()_6_1.md
+- [[refresh()_7_1]] - document - vault/Graph/refresh()_7.md
+- [[refresh()_8_1]] - document - vault/Graph/refresh()_8.md
+- [[round()_20]] - document - vault/Graph/round()_17.md
+- [[round()_18]] - document - vault/Graph/round()_16.md
+- [[round()_16_1]] - document - vault/Graph/round()_16.md
+- [[round()_17_1]] - document - vault/Graph/round()_17.md
+- [[setOpen()_9]] - document - vault/Graph/setOpen()_8.md
+- [[setOpen()_6]] - document - vault/Graph/setOpen()_6.md
+- [[setOpen()_6_1]] - document - vault/Graph/setOpen()_6.md
+- [[setOpen()_7]] - document - vault/Graph/setOpen()_7.md
+- [[setOpen()_7_1]] - document - vault/Graph/setOpen()_7.md
+- [[setOpen()_8]] - document - vault/Graph/setOpen()_8.md
+- [[showDetail()_10]] - document - vault/Graph/showDetail()_7.md
+- [[showDetail()_1_1_2]] - document - vault/Graph/showDetail()_1_1_1.md
+- [[showDetail()_1_1_1_1]] - document - vault/Graph/showDetail()_1_1_1.md
+- [[showDetail()_2_2]] - document - vault/Graph/showDetail()_2_1.md
+- [[showDetail()_2_1_1]] - document - vault/Graph/showDetail()_2_1.md
+- [[showDetail()_7_1]] - document - vault/Graph/showDetail()_7.md
+- [[showGrid()_1_2]] - document - vault/Graph/showGrid()_1_1.md
+- [[showGrid()_1_1_1]] - document - vault/Graph/showGrid()_1_1.md
+- [[showTradeHistory()_1_2]] - document - vault/Graph/showTradeHistory()_1_1.md
+- [[showTradeHistory()_1_1]] - document - vault/Graph/showTradeHistory()_1_1.md
+- [[symbolFor()_1_2]] - document - vault/Graph/symbolFor()_1_1.md
+- [[symbolFor()_1_1]] - document - vault/Graph/symbolFor()_1_1.md
+- [[typeChips()_1_2]] - document - vault/Graph/typeChips()_1_1.md
+- [[typeChips()_1_1_1]] - document - vault/Graph/typeChips()_1_1.md
+- [[updateVisible()_14]] - document - vault/Graph/updateVisible()_11.md
+- [[updateVisible()_1_2]] - document - vault/Graph/updateVisible()_1_1.md
+- [[updateVisible()_11_1]] - document - vault/Graph/updateVisible()_11.md
+- [[updateVisible()_1_1_1]] - document - vault/Graph/updateVisible()_1_1.md
+- [[viewport()_3]] - document - vault/Graph/viewport()_3.md
+- [[viewport()_3_1]] - document - vault/Graph/viewport()_3.md
+- [[viewport()_4]] - document - vault/Graph/viewport()_4.md
+- [[viewport()_4_1]] - document - vault/Graph/viewport()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -89,23 +253,64 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 10 edges to [[_COMMUNITY_Community 195]]
+- 52 edges to [[_COMMUNITY_Community 508]]
+- 15 edges to [[_COMMUNITY_Community 203]]
+- 11 edges to [[_COMMUNITY_Community 195]]
+- 8 edges to [[_COMMUNITY_Community 121]]
+- 6 edges to [[_COMMUNITY_Community 300]]
+- 5 edges to [[_COMMUNITY_Community 174]]
+- 5 edges to [[_COMMUNITY_Community 577]]
+- 4 edges to [[_COMMUNITY_Community 1031]]
+- 4 edges to [[_COMMUNITY_Community 408]]
+- 3 edges to [[_COMMUNITY_Community 1167]]
+- 3 edges to [[_COMMUNITY_Community 118]]
 - 3 edges to [[_COMMUNITY_Community 168]]
-- 3 edges to [[_COMMUNITY_Community 240]]
-- 2 edges to [[_COMMUNITY_Community 122]]
-- 2 edges to [[_COMMUNITY_Community 301]]
+- 2 edges to [[_COMMUNITY_Community 1034]]
+- 2 edges to [[_COMMUNITY_Community 134]]
+- 2 edges to [[_COMMUNITY_Community 2350]]
+- 2 edges to [[_COMMUNITY_Community 63]]
+- 1 edge to [[_COMMUNITY_Community 1010]]
+- 1 edge to [[_COMMUNITY_Community 119]]
+- 1 edge to [[_COMMUNITY_Community 12]]
 - 1 edge to [[_COMMUNITY_Community 120]]
-- 1 edge to [[_COMMUNITY_Community 121]]
-- 1 edge to [[_COMMUNITY_Community 134]]
-- 1 edge to [[_COMMUNITY_Community 138]]
-- 1 edge to [[_COMMUNITY_Community 151]]
-- 1 edge to [[_COMMUNITY_Community 184]]
-- 1 edge to [[_COMMUNITY_Community 27]]
-- 1 edge to [[_COMMUNITY_Community 310]]
+- 1 edge to [[_COMMUNITY_Community 122]]
+- 1 edge to [[_COMMUNITY_Community 1233]]
+- 1 edge to [[_COMMUNITY_Community 1297]]
+- 1 edge to [[_COMMUNITY_Community 1743]]
+- 1 edge to [[_COMMUNITY_Community 1824]]
+- 1 edge to [[_COMMUNITY_Community 1965]]
+- 1 edge to [[_COMMUNITY_Community 2193]]
+- 1 edge to [[_COMMUNITY_Community 3090]]
+- 1 edge to [[_COMMUNITY_Community 3552]]
+- 1 edge to [[_COMMUNITY_Community 3723]]
+- 1 edge to [[_COMMUNITY_Community 3724]]
+- 1 edge to [[_COMMUNITY_Community 3730]]
+- 1 edge to [[_COMMUNITY_Community 965]]
+- 1 edge to [[_COMMUNITY_Community 994]]
+- 1 edge to [[_COMMUNITY_Community 240]]
+- 1 edge to [[_COMMUNITY_Community 2866]]
+- 1 edge to [[_COMMUNITY_Community 3117]]
+- 1 edge to [[_COMMUNITY_Community 49]]
+- 1 edge to [[_COMMUNITY_Community 3669]]
+- 1 edge to [[_COMMUNITY_Community 2863]]
+- 1 edge to [[_COMMUNITY_Community 319]]
+- 1 edge to [[_COMMUNITY_Community 3564]]
+- 1 edge to [[_COMMUNITY_Community 2921]]
+- 1 edge to [[_COMMUNITY_Community 281]]
+- 1 edge to [[_COMMUNITY_Community 3554]]
+- 1 edge to [[_COMMUNITY_Community 2867]]
+- 1 edge to [[_COMMUNITY_Community 3080]]
+- 1 edge to [[_COMMUNITY_Community 3081]]
+- 1 edge to [[_COMMUNITY_Community 3449]]
+- 1 edge to [[_COMMUNITY_Community 237]]
+- 1 edge to [[_COMMUNITY_Community 2375]]
+- 1 edge to [[_COMMUNITY_Community 3115]]
+- 1 edge to [[_COMMUNITY_Community 34]]
+- 1 edge to [[_COMMUNITY_Community 652]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 203]] - degree 26, connects to 8 communities
-- [[_COMMUNITY_Community 246]] - degree 11, connects to 3 communities
-- [[GameData.itemSummary()_1_1]] - degree 7, connects to 3 communities
-- [[Menus.client.luau_2_1]] - degree 11, connects to 2 communities
-- [[updateJourney()_1]] - degree 6, connects to 2 communities
+- [[_COMMUNITY_Community 237]] - degree 28, connects to 12 communities
+- [[_COMMUNITY_Community 203]] - degree 85, connects to 10 communities
+- [[_COMMUNITY_Community 224]] - degree 33, connects to 9 communities
+- [[_COMMUNITY_Community 20]] - degree 53, connects to 8 communities
+- [[_COMMUNITY_Community 475]] - degree 17, connects to 8 communities

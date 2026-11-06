@@ -1,28 +1,31 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau"
-type: "code"
-community: "Community 420"
+source_file: "vault/Graph/CreatureIndex.client.luau_5.md"
+type: "document"
+community: "Community 195"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_420
+  - community/Community_195
 ---
 
-# CreatureIndex.client.luau
+# CreatureIndex.client.luau_5.md
 
 ## Connections
-- [[clearBody()]] - `contains` [EXTRACTED]
-- [[getIndex()]] - `contains` [EXTRACTED]
-- [[label()_3]] - `contains` [EXTRACTED]
-- [[new()_6]] - `contains` [EXTRACTED]
-- [[preview()_1]] - `contains` [EXTRACTED]
-- [[round()_3]] - `contains` [EXTRACTED]
-- [[setOpen()_1]] - `contains` [EXTRACTED]
-- [[shared_waitforchild_5]] - `imports` [EXTRACTED]
-- [[showDetail()_1]] - `contains` [EXTRACTED]
-- [[showGrid()]] - `contains` [EXTRACTED]
-- [[typeChips()]] - `contains` [EXTRACTED]
-- [[updateVisible()_3]] - `contains` [EXTRACTED]
+- [[CreatureIndex.client.luau_1]] - `references` [EXTRACTED]
+- [[CreatureIndex.client.luau_5_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 420]] - `references` [EXTRACTED]
+- [[clearBody()_1_1]] - `references` [EXTRACTED]
+- [[getIndex()_1_1]] - `references` [EXTRACTED]
+- [[label()_3_1_1]] - `references` [EXTRACTED]
+- [[new()_6_1_1]] - `references` [EXTRACTED]
+- [[preview()_1_1_1]] - `references` [EXTRACTED]
+- [[round()_3_1_2]] - `references` [EXTRACTED]
+- [[setOpen()_1_1_1]] - `references` [EXTRACTED]
+- [[showDetail()_1_1_1]] - `references` [EXTRACTED]
+- [[showGrid()_1_1]] - `references` [EXTRACTED]
+- [[typeChips()_1_1]] - `references` [EXTRACTED]
+- [[updateVisible()_3_1_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_420
+#graphify/document #graphify/EXTRACTED #community/Community_195

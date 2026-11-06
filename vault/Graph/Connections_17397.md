@@ -1,0 +1,18 @@
+---
+source_file: "vault/Graph/Connections_5190.md"
+type: "document"
+community: "Community 3388"
+location: "L12"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_3388
+---
+
+# Connections
+
+## Connections
+- [[Connections_17398]] - `contains` [EXTRACTED]
+- [[Connections_5190_1]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_3388

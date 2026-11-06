@@ -12,14 +12,9 @@ tags:
 # preview()_3.md
 
 ## Connections
-- [[CreatureBuilder.build()_1]] - `references` [EXTRACTED]
-- [[CreatureIndex.client.luau_2]] - `references` [EXTRACTED]
+- [[Connections_1030_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[new()_10_1]] - `references` [EXTRACTED]
-- [[preview()_7]] - `contains` [EXTRACTED]
-- [[preview()_4_1]] - `references` [EXTRACTED]
-- [[showDetail()_2_1]] - `references` [EXTRACTED]
-- [[showGrid()_1_1]] - `references` [EXTRACTED]
+- [[preview()_9]] - `contains` [EXTRACTED]
+- [[preview()_1_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_195

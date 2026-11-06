@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/load().md"
+source_file: "vault/Graph/load()_2.md"
 type: "document"
-community: "Community 30"
-location: "L12"
+community: "Community 237"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_237
 ---
 
-# load()
+# load()_2.md
 
 ## Connections
-- [[Connections_3687]] - `contains` [EXTRACTED]
-- [[load()_1]] - `contains` [EXTRACTED]
+- [[Connections_2981_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1232]] - `references` [EXTRACTED]
+- [[load()_2_2]] - `contains` [EXTRACTED]
+- [[load()_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_237

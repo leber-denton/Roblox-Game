@@ -12,9 +12,9 @@ tags:
 # getIndex().md
 
 ## Connections
-- [[Functions_97]] - `references` [EXTRACTED]
+- [[CreatureIndex.client.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 420]] - `references` [EXTRACTED]
 - [[getIndex()_2]] - `contains` [EXTRACTED]
-- [[showDetail()_2]] - `references` [EXTRACTED]
 - [[showDetail()_1_1]] - `references` [EXTRACTED]
 - [[showGrid()_1]] - `references` [EXTRACTED]
 

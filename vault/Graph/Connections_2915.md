@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Live Query (requires Dataview plugin)_54.md"
+source_file: "vault/Graph/addRegion()_1.md"
 type: "document"
-community: "Community 198"
+community: "Community 1162"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_198
+  - community/Community_1162
 ---
 
 # Connections
 
 ## Connections
-- [[Live Query (requires Dataview plugin)_171]] - `contains` [EXTRACTED]
+- [[addRegion()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_198
+#graphify/document #graphify/EXTRACTED #community/Community_1162

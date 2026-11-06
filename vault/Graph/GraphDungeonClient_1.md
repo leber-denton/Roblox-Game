@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/DungeonClient.md"
+source_file: "vault/Graph/GraphDungeonClient.md"
 type: "document"
 community: "Community 315"
 location: "L1"
@@ -9,10 +9,13 @@ tags:
   - community/Community_315
 ---
 
-# Graph/DungeonClient.md
+# GraphDungeonClient.md
 
 ## Connections
-- [[DungeonClient]] - `contains` [EXTRACTED]
+- [[DungeonClient_1_2]] - `references` [EXTRACTED]
+- [[GraphDungeonClient_4]] - `contains` [EXTRACTED]
+- [[GraphDungeonClient_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1410]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 315]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_315

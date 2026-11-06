@@ -12,7 +12,7 @@ tags:
 # build()
 
 ## Connections
-- [[ColiseumUI.client.luau_5]] - `contains` [EXTRACTED]
+- [[ColiseumUI.client.luau_8]] - `contains` [EXTRACTED]
 - [[GameData.itemSummary()]] - `calls` [INFERRED]
 - [[build()]] - `calls` [EXTRACTED]
 - [[header()_1]] - `calls` [EXTRACTED]

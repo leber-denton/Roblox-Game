@@ -1,26 +1,19 @@
 ---
-source_file: "vault/Graph/publicState().md"
+source_file: "vault/Graph/publicState()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 317"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_317
 ---
 
-# publicState().md
+# publicState()_4.md
 
 ## Connections
-- [[BaseManager.isExpansionUnlocked()_3]] - `references` [EXTRACTED]
-- [[DecorData.dailyShop()_3]] - `references` [EXTRACTED]
-- [[DecorData.today()_3]] - `references` [EXTRACTED]
-- [[DecorService.init()_4]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[bankCap()_3]] - `references` [EXTRACTED]
-- [[incomeRate()_3]] - `references` [EXTRACTED]
-- [[publicState()_5]] - `contains` [EXTRACTED]
-- [[sync()_9]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[publicState()_6]] - `contains` [EXTRACTED]
+- [[publicState()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_317

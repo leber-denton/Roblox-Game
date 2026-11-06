@@ -12,7 +12,7 @@ tags:
 # isOther()
 
 ## Connections
-- [[Connections_128]] - `contains` [EXTRACTED]
+- [[Connections_814]] - `contains` [EXTRACTED]
 - [[isOther()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_105

@@ -1,0 +1,18 @@
+---
+source_file: "vault/Graph/Shapes.bird()_4.md"
+type: "document"
+community: "Community 453"
+location: "L12"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_453
+---
+
+# Shapes.bird()
+
+## Connections
+- [[Connections_19505]] - `contains` [EXTRACTED]
+- [[Shapes.bird()_4]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_453

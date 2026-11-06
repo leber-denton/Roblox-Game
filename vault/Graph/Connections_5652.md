@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/actions.upgrade().md"
+source_file: "vault/Graph/Connections_1714.md"
 type: "document"
-community: "Community 86"
-location: "L14"
+community: "Community 1324"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1324
 ---
 
 # Connections
 
 ## Connections
-- [[actions.upgrade()_2]] - `contains` [EXTRACTED]
+- [[Connections_5653]] - `contains` [EXTRACTED]
+- [[Connections_1714_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1324

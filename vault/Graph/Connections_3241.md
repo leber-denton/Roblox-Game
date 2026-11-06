@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/recordFor().md"
+source_file: "vault/Graph/Connections_2189.md"
 type: "document"
-community: "Community 229"
-location: "L14"
+community: "Community 1181"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_229
+  - community/Community_1181
 ---
 
 # Connections
 
 ## Connections
-- [[recordFor()_2]] - `contains` [EXTRACTED]
+- [[Connections_3242]] - `contains` [EXTRACTED]
+- [[Connections_2189_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_229
+#graphify/document #graphify/EXTRACTED #community/Community_1181

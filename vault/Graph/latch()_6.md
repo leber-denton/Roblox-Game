@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/latch().md"
+source_file: "vault/Graph/latch()_1.md"
 type: "document"
-community: "Community 21"
+community: "Community 167"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_167
 ---
 
-# latch()
+# latch().md
 
 ## Connections
-- [[Connections_3063]] - `contains` [EXTRACTED]
-- [[latch()_5]] - `contains` [EXTRACTED]
+- [[Connections_9358]] - `contains` [EXTRACTED]
+- [[latch()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_167

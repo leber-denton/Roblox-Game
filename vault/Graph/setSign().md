@@ -1,19 +1,19 @@
 ---
-source_file: "src/ServerScriptService/Modules/BaseManager.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Regions.client.luau"
 type: "code"
-community: "Community 16"
-location: "L66"
+community: "Community 1107"
+location: "L40"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_16
+  - community/Community_1107
 ---
 
 # setSign()
 
 ## Connections
-- [[BaseManager.assign()]] - `calls` [EXTRACTED]
-- [[BaseManager.luau]] - `contains` [EXTRACTED]
-- [[BaseManager.release()]] - `calls` [EXTRACTED]
+- [[Regions.client.luau]] - `contains` [EXTRACTED]
+- [[apply()_1]] - `calls` [EXTRACTED]
+- [[regionName()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_16
+#graphify/code #graphify/EXTRACTED #community/Community_1107

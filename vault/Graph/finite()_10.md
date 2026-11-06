@@ -1,30 +1,20 @@
 ---
-source_file: "vault/Graph/finite().md"
+source_file: "vault/Graph/finite()_10.md"
 type: "document"
-community: "Community 86"
+community: "Community 2135"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2135
 ---
 
-# finite().md
+# finite()_10.md
 
 ## Connections
-- [[PlayerData.addBP()_4]] - `references` [EXTRACTED]
-- [[PlayerData.addBoost()_4]] - `references` [EXTRACTED]
-- [[PlayerData.addCoins()_3]] - `references` [EXTRACTED]
-- [[PlayerData.addCoinsRaw()_4]] - `references` [EXTRACTED]
-- [[PlayerData.addItem()_4]] - `references` [EXTRACTED]
-- [[PlayerData.addXP()_4]] - `references` [EXTRACTED]
-- [[PlayerData.load()_4]] - `references` [EXTRACTED]
-- [[PlayerData.luau_4]] - `references` [EXTRACTED]
-- [[PlayerData.setPending()_4]] - `references` [EXTRACTED]
-- [[PlayerData.spend()_1]] - `references` [EXTRACTED]
-- [[PlayerData.spendBP()_3]] - `references` [EXTRACTED]
-- [[PlayerData.takeItem()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
+- [[Connections_5722_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1416]] - `references` [EXTRACTED]
 - [[finite()_12]] - `contains` [EXTRACTED]
+- [[finite()_9_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2135

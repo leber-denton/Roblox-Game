@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.cannons().md"
+source_file: "vault/Graph/Connections_1329.md"
 type: "document"
-community: "Community 137"
+community: "Community 1097"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1097
 ---
 
 # Connections
 
 ## Connections
-- [[Features.cannons()_2]] - `contains` [EXTRACTED]
+- [[Connections_1625]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1097

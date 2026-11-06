@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/npcWave().md"
+source_file: "vault/Graph/npcWave()_6.md"
 type: "document"
-community: "Community 90"
-location: "L12"
+community: "Community 197"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_197
 ---
 
-# npcWave()
+# npcWave()_6.md
 
 ## Connections
-- [[Connections_6022]] - `contains` [EXTRACTED]
-- [[npcWave()_5]] - `contains` [EXTRACTED]
+- [[Connections_4015_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1316]] - `references` [EXTRACTED]
+- [[npcWave()_8]] - `contains` [EXTRACTED]
+- [[npcWave()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_197

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/script_parent_basemanager_1.md"
+source_file: "vault/Graph/script_parent_basemanager_1_1.md"
 type: "document"
-community: "Community 168"
-location: "L12"
+community: "Community 639"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_639
 ---
 
-# script_parent_basemanager_1.md
+# script_parent_basemanager_1_1.md
 
 ## Connections
-- [[Connections_2403]] - `contains` [EXTRACTED]
-- [[script_parent_basemanager_1]] - `contains` [EXTRACTED]
+- [[script_parent_basemanager_1_2]] - `contains` [EXTRACTED]
+- [[script_parent_basemanager_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_639

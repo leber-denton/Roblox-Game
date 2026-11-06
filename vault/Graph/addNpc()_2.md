@@ -12,7 +12,7 @@ tags:
 # addNpc()
 
 ## Connections
-- [[Connections_2447]] - `contains` [EXTRACTED]
+- [[Connections_9762]] - `contains` [EXTRACTED]
 - [[addNpc()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_169

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.luau.md"
+source_file: "vault/Graph/Connections_3845.md"
 type: "document"
-community: "Community 86"
+community: "Community 1325"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1325
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.luau_4]] - `contains` [EXTRACTED]
+- [[Connections_5670]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1325

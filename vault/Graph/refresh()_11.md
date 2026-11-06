@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/refresh()_2.md"
+source_file: "vault/Graph/refresh()_7.md"
 type: "document"
-community: "Community 322"
+community: "Community 226"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_322
+  - community/Community_226
 ---
 
-# refresh()
+# refresh().md
 
 ## Connections
-- [[Connections_3860]] - `contains` [EXTRACTED]
-- [[refresh()_2_2]] - `contains` [EXTRACTED]
+- [[Connections_13198]] - `contains` [EXTRACTED]
+- [[refresh()_7_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_322
+#graphify/document #graphify/EXTRACTED #community/Community_226

@@ -12,10 +12,10 @@ tags:
 # Code/Tutorial.md
 
 ## Connections
+- [[Code Map_2]] - `references` [EXTRACTED]
 - [[CodeBattleData_2]] - `references` [EXTRACTED]
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
-- [[CodeCreatureBuilder_2]] - `references` [EXTRACTED]
+- [[CodeCreatureBuilder_4]] - `references` [EXTRACTED]
 - [[CodeGameData_2]] - `references` [EXTRACTED]
-- [[Tutorial_3]] - `contains` [EXTRACTED]
+- [[Tutorial_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_13

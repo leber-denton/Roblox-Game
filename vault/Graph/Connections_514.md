@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/ModelSync.addToMap()_1.md"
+source_file: "vault/Graph/Connections_471.md"
 type: "document"
-community: "Community 117"
-location: "L14"
+community: "Community 1031"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_1031
 ---
 
 # Connections
 
 ## Connections
-- [[ModelSync.addToMap()_3]] - `contains` [EXTRACTED]
+- [[Connections_515]] - `contains` [EXTRACTED]
+- [[Connections_471]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_1031

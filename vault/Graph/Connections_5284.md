@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_115.md"
+source_file: "vault/Graph/MeshIntake_1_1_1.md"
 type: "document"
-community: "Community 753"
-location: "L12"
+community: "Community 130"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_753
+  - community/Community_130
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_5285]] - `contains` [EXTRACTED]
-- [[Connections_115_1]] - `contains` [EXTRACTED]
+- [[MeshIntake_1_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_753
+#graphify/document #graphify/EXTRACTED #community/Community_130

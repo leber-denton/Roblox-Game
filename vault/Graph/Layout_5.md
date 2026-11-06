@@ -1,17 +1,20 @@
 ---
-source_file: "CLAUDE.md"
+source_file: "vault/Graph/Layout_5.md"
 type: "document"
-community: "Community 36"
-location: "L28"
+community: "Community 115"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_36
+  - community/Community_115
 ---
 
-# Layout
+# Layout_5.md
 
 ## Connections
-- [[Creature Quest]] - `contains` [EXTRACTED]
+- [[Connections_1834_1]] - `references` [EXTRACTED]
+- [[Layout_8]] - `contains` [EXTRACTED]
+- [[Layout_7]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 115]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_36
+#graphify/document #graphify/EXTRACTED #community/Community_115

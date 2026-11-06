@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/header()_6.md"
+source_file: "vault/Graph/header()_7.md"
 type: "document"
-community: "Community 149"
-location: "L12"
+community: "Community 121"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_149
+  - community/Community_121
 ---
 
-# header()
+# header()_7.md
 
 ## Connections
-- [[Connections_1964]] - `contains` [EXTRACTED]
-- [[header()_6_1]] - `contains` [EXTRACTED]
+- [[Connections_2608_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 121]] - `references` [EXTRACTED]
+- [[header()_17]] - `contains` [EXTRACTED]
+- [[header()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_149
+#graphify/document #graphify/EXTRACTED #community/Community_121

@@ -12,7 +12,7 @@ tags:
 # isChampion()
 
 ## Connections
-- [[LeagueService.luau_3]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_7]] - `contains` [EXTRACTED]
 - [[wins()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

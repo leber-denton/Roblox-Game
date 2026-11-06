@@ -1,16 +1,22 @@
 ---
 type: community
-members: 3
+members: 9
 ---
 
 # Community 734
 
-**Members:** 3 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_5209]] - document - vault/Graph/setup()_4.md
-- [[setup()_2]] - document - vault/Graph/setup()_4.md
-- [[setup()_4]] - document - vault/Graph/setup()_4.md
+- [[Community 734]] - document - vault/Graph/_COMMUNITY_Community 734.md
+- [[Connections_22287]] - document - vault/Graph/setup()_2_1.md
+- [[Connections to other communities_1515]] - document - vault/Graph/_COMMUNITY_Community 734.md
+- [[Live Query (requires Dataview plugin)_1776]] - document - vault/Graph/_COMMUNITY_Community 734.md
+- [[Members_1775]] - document - vault/Graph/_COMMUNITY_Community 734.md
+- [[Top bridge nodes_1507]] - document - vault/Graph/_COMMUNITY_Community 734.md
+- [[_COMMUNITY_Community 734]] - document - vault/Graph/_COMMUNITY_Community 734.md
+- [[setup()_2_2]] - document - vault/Graph/setup()_2_1.md
+- [[setup()_2_1_1]] - document - vault/Graph/setup()_2_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,6 +27,7 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_Community 134]]
+- 1 edge to [[_COMMUNITY_Community 207]]
 
 ## Top bridge nodes
-- [[setup()_4]] - degree 2, connects to 1 community
+- [[_COMMUNITY_Community 734]] - degree 4, connects to 2 communities

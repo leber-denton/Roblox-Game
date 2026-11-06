@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/PlayerData.addItem().md"
+source_file: "vault/Graph/PlayerData.addItem()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2283"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2283
 ---
 
-# PlayerData.addItem()
+# PlayerData.addItem()_5.md
 
 ## Connections
-- [[Connections_5803]] - `contains` [EXTRACTED]
-- [[PlayerData.addItem()_4]] - `contains` [EXTRACTED]
+- [[PlayerData.addItem()_1_2]] - `references` [EXTRACTED]
+- [[PlayerData.addItem()_5_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2283

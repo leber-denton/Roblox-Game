@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/GymService_1.md"
+source_file: "vault/Graph/GymService.md"
 type: "document"
 community: "Community 134"
 location: "L12"
@@ -12,7 +12,7 @@ tags:
 # GymService
 
 ## Connections
-- [[Connections_1490]] - `contains` [EXTRACTED]
-- [[GymService_1]] - `contains` [EXTRACTED]
+- [[Connections_6183]] - `contains` [EXTRACTED]
+- [[GraphGymService_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

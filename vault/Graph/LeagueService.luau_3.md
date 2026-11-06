@@ -1,32 +1,20 @@
 ---
-source_file: "src/ServerScriptService/Modules/LeagueService.luau"
-type: "code"
-community: "Community 15"
+source_file: "vault/Graph/LeagueService.luau_3.md"
+type: "document"
+community: "Community 134"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_134
 ---
 
-# LeagueService.luau
+# LeagueService.luau_3.md
 
 ## Connections
-- [[GameData.luau_3]] - `imports` [EXTRACTED]
-- [[LeagueService.init()]] - `contains` [EXTRACTED]
-- [[Main.server.luau_3]] - `imports` [EXTRACTED]
-- [[challenge()]] - `contains` [EXTRACTED]
-- [[isChampion()]] - `contains` [EXTRACTED]
-- [[itemList()]] - `contains` [EXTRACTED]
-- [[reset()]] - `contains` [EXTRACTED]
-- [[rivalAce()]] - `contains` [EXTRACTED]
-- [[script_parent_basemanager_5]] - `imports` [EXTRACTED]
-- [[script_parent_battleservice_5]] - `imports` [EXTRACTED]
-- [[script_parent_npc_5]] - `imports` [EXTRACTED]
-- [[script_parent_playerdata_5]] - `imports` [EXTRACTED]
-- [[setup()_1]] - `contains` [EXTRACTED]
-- [[stage()]] - `contains` [EXTRACTED]
-- [[teamFor()]] - `contains` [EXTRACTED]
-- [[wins()]] - `contains` [EXTRACTED]
+- [[Connections_4832_1]] - `references` [EXTRACTED]
+- [[LeagueService.luau_4]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_134

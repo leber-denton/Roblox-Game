@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/play()_3.md"
+source_file: "vault/Graph/TutorialService.onShop()_3.md"
 type: "document"
-community: "Community 240"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[play()_9]] - `contains` [EXTRACTED]
+- [[TutorialService.onShop()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1187

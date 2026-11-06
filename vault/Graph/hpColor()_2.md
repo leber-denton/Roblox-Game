@@ -2,18 +2,17 @@
 source_file: "vault/Graph/hpColor().md"
 type: "document"
 community: "Community 120"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_120
 ---
 
-# hpColor().md
+# hpColor()
 
 ## Connections
-- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
-- [[hpColor()_3]] - `contains` [EXTRACTED]
-- [[setCardHP()_2]] - `references` [EXTRACTED]
+- [[Connections_3654]] - `contains` [EXTRACTED]
+- [[hpColor()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

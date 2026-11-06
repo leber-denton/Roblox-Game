@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_153.md"
+source_file: "vault/Graph/makeGrunt()_2.md"
 type: "document"
-community: "Community 195"
+community: "Community 1157"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_1157
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_2854]] - `contains` [EXTRACTED]
+- [[makeGrunt()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_1157

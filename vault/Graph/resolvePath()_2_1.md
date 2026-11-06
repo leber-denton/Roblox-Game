@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/resolvePath()_2.md"
+source_file: "vault/Graph/resolvePath()_2_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 112"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_112
 ---
 
-# resolvePath()_2.md
+# resolvePath()_2_1.md
 
 ## Connections
-- [[Connections_340_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[resolvePath()_4]] - `contains` [EXTRACTED]
 - [[resolvePath()_1_1]] - `references` [EXTRACTED]
+- [[resolvePath()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_112

@@ -12,7 +12,7 @@ tags:
 # commands.rare()
 
 ## Connections
-- [[AdminService.luau_3]] - `contains` [EXTRACTED]
+- [[AdminService.luau]] - `contains` [EXTRACTED]
 - [[RareEventService.trigger()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_2

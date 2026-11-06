@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Community 4.md"
+source_file: "vault/Graph/Community 4_1.md"
 type: "document"
-community: "Community 97"
-location: "L1"
+community: "Community 1397"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_97
+  - community/Community_1397
 ---
 
-# Community 4.md
+# Community 4
 
 ## Connections
-- [[Community 4]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
+- [[Community 4_1]] - `contains` [EXTRACTED]
+- [[Connections_6989]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_97
+#graphify/document #graphify/EXTRACTED #community/Community_1397

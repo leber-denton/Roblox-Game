@@ -1,25 +1,34 @@
 ---
 type: community
-members: 12
+members: 21
 ---
 
 # Community 271
 
-**Members:** 12 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[ArenaManager_1_2]] - document - vault/Graph/ArenaManager_1_1.md
-- [[ArenaManager_1_1_1]] - document - vault/Graph/ArenaManager_1_1.md
-- [[Connections_3547]] - document - vault/Graph/ArenaManager_1_1.md
-- [[Connections_3548]] - document - vault/Graph/Functions_29_1.md
-- [[Connections_3549]] - document - vault/Graph/Required by_29_1.md
-- [[Connections_3550]] - document - vault/Graph/Required by_5_1.md
-- [[Functions_29_2]] - document - vault/Graph/Functions_29_1.md
-- [[Functions_29_1_1]] - document - vault/Graph/Functions_29_1.md
-- [[Required by_29_2]] - document - vault/Graph/Required by_29_1.md
-- [[Required by_29_1]] - document - vault/Graph/Required by_29_1.md
-- [[Required by_5_1]] - document - vault/Graph/Required by_5_1.md
-- [[Required by_5_1_1]] - document - vault/Graph/Required by_5_1.md
+- [[Connections_15134]] - document - vault/Graph/commands.weakTeam()_1_1.md
+- [[Connections_15135]] - document - vault/Graph/commands.weakTeam()_1.md
+- [[Connections_15136]] - document - vault/Graph/commands.weakTeam()_2_1.md
+- [[Connections_15137]] - document - vault/Graph/commands.weakTeam()_2.md
+- [[Connections_15138]] - document - vault/Graph/Connections_2424.md
+- [[Connections_15139]] - document - vault/Graph/Connections_2424.md
+- [[Connections_15140]] - document - vault/Graph/Connections_2425.md
+- [[Connections_15141]] - document - vault/Graph/Connections_2425.md
+- [[Connections_15142]] - document - vault/Graph/Connections_982_1.md
+- [[Connections_2424_1]] - document - vault/Graph/Connections_2424.md
+- [[Connections_2425_1]] - document - vault/Graph/Connections_2425.md
+- [[Connections_982_2]] - document - vault/Graph/Connections_982_1.md
+- [[Connections_982_1_1]] - document - vault/Graph/Connections_982_1.md
+- [[commands.weakTeam()_1]] - document - vault/Graph/commands.weakTeam()_1.md
+- [[commands.weakTeam()_1_2]] - document - vault/Graph/commands.weakTeam()_1_1.md
+- [[commands.weakTeam()_1_3]] - document - vault/Graph/commands.weakTeam()_1.md
+- [[commands.weakTeam()_1_1]] - document - vault/Graph/commands.weakTeam()_1_1.md
+- [[commands.weakTeam()_2]] - document - vault/Graph/commands.weakTeam()_2.md
+- [[commands.weakTeam()_2_2]] - document - vault/Graph/commands.weakTeam()_2_1.md
+- [[commands.weakTeam()_2_3]] - document - vault/Graph/commands.weakTeam()_2.md
+- [[commands.weakTeam()_2_1]] - document - vault/Graph/commands.weakTeam()_2_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,11 +38,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_Community 540]]
-- 3 edges to [[_COMMUNITY_Community 118]]
+- 7 edges to [[_COMMUNITY_Community 289]]
+- 3 edges to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 1242]]
+- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 844]]
 
 ## Top bridge nodes
-- [[ArenaManager_1_1_1]] - degree 6, connects to 2 communities
-- [[Required by_29_1]] - degree 5, connects to 2 communities
-- [[Functions_29_1_1]] - degree 4, connects to 2 communities
-- [[Required by_5_1]] - degree 3, connects to 1 community
+- [[commands.weakTeam()_1]] - degree 8, connects to 5 communities
+- [[commands.weakTeam()_2]] - degree 6, connects to 2 communities
+- [[Connections_982_1_1]] - degree 4, connects to 2 communities
+- [[commands.weakTeam()_1_1]] - degree 4, connects to 1 community
+- [[commands.weakTeam()_2_1]] - degree 4, connects to 1 community

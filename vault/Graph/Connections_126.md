@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/grey().md"
+source_file: "vault/Graph/Connections_45.md"
 type: "document"
-community: "Community 105"
-location: "L14"
+community: "Community 1009"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_105
+  - community/Community_1009
 ---
 
 # Connections
 
 ## Connections
-- [[grey()_2]] - `contains` [EXTRACTED]
+- [[Connections_127]] - `contains` [EXTRACTED]
+- [[Connections_45_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_105
+#graphify/document #graphify/EXTRACTED #community/Community_1009

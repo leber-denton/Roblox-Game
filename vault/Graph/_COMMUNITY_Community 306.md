@@ -1,23 +1,34 @@
 ---
 type: community
-members: 10
+members: 21
 ---
 
 # Community 306
 
-**Members:** 10 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[CodeSprint_2]] - document - vault/Graph/CodeSprint.md
-- [[Functions_65_1]] - document - vault/Graph/Functions_65.md
-- [[Required by_66_1]] - document - vault/Graph/Required by_66.md
-- [[Requires_63_1]] - document - vault/Graph/Requires_63.md
-- [[Sprint_2_1]] - document - vault/Graph/Sprint_2.md
-- [[_COMMUNITY_Community 192]] - document - vault/Graph/_COMMUNITY_Community 192.md
-- [[_COMMUNITY_Community 222]] - document - vault/Graph/_COMMUNITY_Community 222.md
-- [[apply()_2_1_1]] - document - vault/Graph/apply()_2_1.md
-- [[onSprint()_1_1]] - document - vault/Graph/onSprint()_1.md
-- [[targetSpeed()_1_1]] - document - vault/Graph/targetSpeed()_1.md
+- [[Community 1377]] - document - vault/Graph/_COMMUNITY_Community 1377.md
+- [[Connections_16172]] - document - vault/Graph/Connections_5236.md
+- [[Connections_16173]] - document - vault/Graph/Connections_5236.md
+- [[Connections_16174]] - document - vault/Graph/Connections to other communities_283.md
+- [[Connections_16175]] - document - vault/Graph/Live Query (requires Dataview plugin)_374.md
+- [[Connections_16176]] - document - vault/Graph/Members_377.md
+- [[Connections_16177]] - document - vault/Graph/Top bridge nodes_279.md
+- [[Connections to other communities_1095]] - document - vault/Graph/_COMMUNITY_Community 1377.md
+- [[Connections to other communities_1096]] - document - vault/Graph/Connections to other communities_283.md
+- [[Connections to other communities_283_1]] - document - vault/Graph/Connections to other communities_283.md
+- [[Connections_5236_1]] - document - vault/Graph/Connections_5236.md
+- [[Live Query (requires Dataview plugin)_1311]] - document - vault/Graph/_COMMUNITY_Community 1377.md
+- [[Live Query (requires Dataview plugin)_1312]] - document - vault/Graph/Live Query (requires Dataview plugin)_374.md
+- [[Live Query (requires Dataview plugin)_374_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_374.md
+- [[Members_1324]] - document - vault/Graph/_COMMUNITY_Community 1377.md
+- [[Members_1325]] - document - vault/Graph/Members_377.md
+- [[Members_377_1]] - document - vault/Graph/Members_377.md
+- [[Top bridge nodes_1094]] - document - vault/Graph/_COMMUNITY_Community 1377.md
+- [[Top bridge nodes_1095]] - document - vault/Graph/Top bridge nodes_279.md
+- [[Top bridge nodes_279_1]] - document - vault/Graph/Top bridge nodes_279.md
+- [[_COMMUNITY_Community 1377]] - document - vault/Graph/_COMMUNITY_Community 1377.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,33 +38,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 168]]
-- 2 edges to [[_COMMUNITY_Community 1273]]
-- 2 edges to [[_COMMUNITY_Community 1311]]
-- 2 edges to [[_COMMUNITY_Community 1324]]
-- 2 edges to [[_COMMUNITY_Community 1341]]
-- 2 edges to [[_COMMUNITY_Community 1353]]
-- 1 edge to [[_COMMUNITY_Community 101]]
-- 1 edge to [[_COMMUNITY_Community 1034]]
-- 1 edge to [[_COMMUNITY_Community 12]]
-- 1 edge to [[_COMMUNITY_Community 1378]]
-- 1 edge to [[_COMMUNITY_Community 1393]]
-- 1 edge to [[_COMMUNITY_Community 1420]]
-- 1 edge to [[_COMMUNITY_Community 1436]]
-- 1 edge to [[_COMMUNITY_Community 1449]]
-- 1 edge to [[_COMMUNITY_Community 1455]]
-- 1 edge to [[_COMMUNITY_Community 1474]]
-- 1 edge to [[_COMMUNITY_Community 1476]]
-- 1 edge to [[_COMMUNITY_Community 192]]
-- 1 edge to [[_COMMUNITY_Community 330]]
-- 1 edge to [[_COMMUNITY_Community 434]]
-- 1 edge to [[_COMMUNITY_Community 904]]
-- 1 edge to [[_COMMUNITY_Community 97]]
-- 1 edge to [[_COMMUNITY_Community 569]]
+- 4 edges to [[_COMMUNITY_Community 1796]]
+- 3 edges to [[_COMMUNITY_Community 991]]
+- 1 edge to [[_COMMUNITY_Community 1152]]
+- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 382]]
+- 1 edge to [[_COMMUNITY_Community 906]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 192]] - degree 18, connects to 9 communities
-- [[_COMMUNITY_Community 222]] - degree 17, connects to 5 communities
-- [[Functions_65_1]] - degree 7, connects to 3 communities
-- [[targetSpeed()_1_1]] - degree 6, connects to 2 communities
-- [[Required by_66_1]] - degree 5, connects to 2 communities
+- [[_COMMUNITY_Community 1377]] - degree 17, connects to 6 communities

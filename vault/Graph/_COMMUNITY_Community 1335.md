@@ -1,16 +1,22 @@
 ---
 type: community
-members: 3
+members: 9
 ---
 
 # Community 1335
 
-**Members:** 3 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1423]] - document - vault/Graph/Requires_103.md
-- [[Requires_13]] - document - vault/Graph/Requires_103.md
-- [[Requires_103]] - document - vault/Graph/Requires_103.md
+- [[Connections_5758]] - document - vault/Graph/Connections_197.md
+- [[Connections_5759]] - document - vault/Graph/Connections_197.md
+- [[Connections_5760]] - document - vault/Graph/Connections_198.md
+- [[Connections_5761]] - document - vault/Graph/Connections_198.md
+- [[Connections_5762]] - document - vault/Graph/Connections_58_1.md
+- [[Connections_197_1]] - document - vault/Graph/Connections_197.md
+- [[Connections_198_1]] - document - vault/Graph/Connections_198.md
+- [[Connections_58_2]] - document - vault/Graph/Connections_58_1.md
+- [[Connections_58_1]] - document - vault/Graph/Connections_58_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,3 +24,11 @@ members: 3
 TABLE source_file, type FROM #community/Community_1335
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 3 edges to [[_COMMUNITY_Community 110]]
+
+## Top bridge nodes
+- [[Connections_197_1]] - degree 4, connects to 1 community
+- [[Connections_58_1]] - degree 3, connects to 1 community
+- [[Connections_198_1]] - degree 3, connects to 1 community

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/viewport().md"
+source_file: "vault/Graph/viewport()_4.md"
 type: "document"
-community: "Community 203"
-location: "L12"
+community: "Community 226"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_226
 ---
 
-# viewport()
+# viewport()_4.md
 
 ## Connections
-- [[Connections_2989]] - `contains` [EXTRACTED]
-- [[viewport()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 203]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 237]] - `references` [EXTRACTED]
+- [[viewport()_3]] - `references` [EXTRACTED]
+- [[viewport()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_226

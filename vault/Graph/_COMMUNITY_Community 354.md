@@ -1,53 +1,73 @@
 ---
 type: community
-members: 42
+members: 62
 ---
 
 # Community 354
 
-**Members:** 42 nodes
+**Members:** 62 nodes
 
 ## Members
-- [[CodeEventHUD_2]] - document - vault/Graph/CodeEventHUD.md
+- [[CodeEventHUD_4]] - document - vault/Graph/CodeEventHUD_2.md
+- [[CodeEventHUD_5]] - document - vault/Graph/CodeEventHUD.md
 - [[CodeEventHUD_1]] - document - vault/Graph/CodeEventHUD.md
-- [[Community 267]] - document - vault/Graph/_COMMUNITY_Community 267.md
-- [[Community 354]] - document - vault/Graph/_COMMUNITY_Community 354.md
-- [[Connections_4061]] - document - vault/Graph/CodeEventHUD.md
-- [[Connections_4062]] - document - vault/Graph/EventHUD_1.md
-- [[Connections_4063]] - document - vault/Graph/EventHUD_2.md
-- [[Connections_4064]] - document - vault/Graph/EventHUD.md
-- [[Connections_4065]] - document - vault/Graph/Functions_59.md
-- [[Connections_4066]] - document - vault/Graph/Functions_81.md
-- [[Connections_4067]] - document - vault/Graph/Required by_65.md
-- [[Connections_4068]] - document - vault/Graph/Required by_90.md
-- [[Connections_4069]] - document - vault/Graph/Requires_61.md
-- [[Connections_4070]] - document - vault/Graph/Requires_85.md
-- [[Connections to other communities_267]] - document - vault/Graph/_COMMUNITY_Community 267.md
-- [[Connections to other communities_268]] - document - vault/Graph/_COMMUNITY_Community 354.md
-- [[EventHUD_3]] - document - vault/Graph/EventHUD_1.md
-- [[EventHUD_4]] - document - vault/Graph/EventHUD.md
-- [[EventHUD_1_2]] - document - vault/Graph/EventHUD_1.md
-- [[EventHUD_2]] - document - vault/Graph/EventHUD_2.md
+- [[CodeEventHUD_3]] - document - vault/Graph/CodeEventHUD_1.md
+- [[CodeEventHUD_1_1]] - document - vault/Graph/CodeEventHUD_1.md
+- [[CodeEventHUD_2]] - document - vault/Graph/CodeEventHUD_2.md
+- [[Community 267_1]] - document - vault/Graph/Community 267.md
+- [[Community 267_2]] - document - vault/Graph/_COMMUNITY_Community 267.md
+- [[Community 267]] - document - vault/Graph/Community 267.md
+- [[Community 354_2]] - document - vault/Graph/Community 354.md
+- [[Community 354_1]] - document - vault/Graph/Community 354.md
+- [[Connections_17917]] - document - vault/Graph/CodeEventHUD_1.md
+- [[Connections_17918]] - document - vault/Graph/CodeEventHUD_2.md
+- [[Connections_17919]] - document - vault/Graph/CodeEventHUD.md
+- [[Connections_17920]] - document - vault/Graph/Community 267.md
+- [[Connections_17921]] - document - vault/Graph/Community 354.md
+- [[Connections_17922]] - document - vault/Graph/Connections_6055.md
+- [[Connections_17923]] - document - vault/Graph/Connections_6055.md
+- [[Connections_17924]] - document - vault/Graph/Connections_6058.md
+- [[Connections_17925]] - document - vault/Graph/Connections_6058.md
+- [[Connections_17926]] - document - vault/Graph/EventHUD_2_1.md
+- [[Connections_17927]] - document - vault/Graph/EventHUD_2.md
+- [[Connections_17928]] - document - vault/Graph/EventHUD_4.md
+- [[Connections_17929]] - document - vault/Graph/Functions_121.md
+- [[Connections_17930]] - document - vault/Graph/Functions_126.md
+- [[Connections_17931]] - document - vault/Graph/Functions_188.md
+- [[Connections_17932]] - document - vault/Graph/Functions_59_1.md
+- [[Connections_17933]] - document - vault/Graph/Functions_84_1.md
+- [[Connections_17934]] - document - vault/Graph/Members_451.md
+- [[Connections_17935]] - document - vault/Graph/Requires_179.md
+- [[Connections_17936]] - document - vault/Graph/Requires_74_1.md
+- [[Connections to other communities_1203]] - document - vault/Graph/_COMMUNITY_Community 267.md
+- [[Connections_6055_1]] - document - vault/Graph/Connections_6055.md
+- [[Connections_6058_1]] - document - vault/Graph/Connections_6058.md
+- [[EventHUD_5]] - document - vault/Graph/EventHUD_4.md
 - [[EventHUD_2_1]] - document - vault/Graph/EventHUD_2.md
-- [[Functions_126]] - document - vault/Graph/Functions_59.md
-- [[Functions_127]] - document - vault/Graph/Functions_81.md
-- [[Functions_59_1]] - document - vault/Graph/Functions_59.md
-- [[Functions_81_1]] - document - vault/Graph/Functions_81.md
-- [[GraphEventHUD_2]] - document - vault/Graph/EventHUD.md
-- [[Live Query (requires Dataview plugin)_301]] - document - vault/Graph/_COMMUNITY_Community 267.md
-- [[Live Query (requires Dataview plugin)_302]] - document - vault/Graph/_COMMUNITY_Community 354.md
-- [[Members_305]] - document - vault/Graph/_COMMUNITY_Community 267.md
-- [[Members_306]] - document - vault/Graph/_COMMUNITY_Community 354.md
-- [[Required by_100]] - document - vault/Graph/Required by_65.md
-- [[Required by_101]] - document - vault/Graph/Required by_90.md
-- [[Required by_65_1]] - document - vault/Graph/Required by_65.md
-- [[Required by_90_1]] - document - vault/Graph/Required by_90.md
-- [[Requires_117]] - document - vault/Graph/Requires_61.md
-- [[Requires_118]] - document - vault/Graph/Requires_85.md
-- [[Requires_61_1]] - document - vault/Graph/Requires_61.md
-- [[Requires_85_1]] - document - vault/Graph/Requires_85.md
-- [[Top bridge nodes_273]] - document - vault/Graph/_COMMUNITY_Community 267.md
-- [[Top bridge nodes_274]] - document - vault/Graph/_COMMUNITY_Community 354.md
+- [[EventHUD_2_2]] - document - vault/Graph/EventHUD_2_1.md
+- [[EventHUD_2_3]] - document - vault/Graph/EventHUD_2.md
+- [[EventHUD_2_1_1]] - document - vault/Graph/EventHUD_2_1.md
+- [[EventHUD_4]] - document - vault/Graph/EventHUD_4.md
+- [[Functions_198]] - document - vault/Graph/Functions_126.md
+- [[Functions_199]] - document - vault/Graph/Functions_188.md
+- [[Functions_121_1]] - document - vault/Graph/Functions_121.md
+- [[Functions_121_2]] - document - vault/Graph/Functions_121.md
+- [[Functions_126_1]] - document - vault/Graph/Functions_126.md
+- [[Functions_188_1]] - document - vault/Graph/Functions_188.md
+- [[Functions_59_2]] - document - vault/Graph/Functions_59_1.md
+- [[Functions_59_1_1]] - document - vault/Graph/Functions_59_1.md
+- [[Functions_84_2]] - document - vault/Graph/Functions_84_1.md
+- [[Functions_84_1_1]] - document - vault/Graph/Functions_84_1.md
+- [[Live Query (requires Dataview plugin)_1385]] - document - vault/Graph/_COMMUNITY_Community 267.md
+- [[Members_1398]] - document - vault/Graph/_COMMUNITY_Community 267.md
+- [[Members_1399]] - document - vault/Graph/Members_451.md
+- [[Members_451_1]] - document - vault/Graph/Members_451.md
+- [[Requires_191]] - document - vault/Graph/Requires_179.md
+- [[Requires_179_1]] - document - vault/Graph/Requires_179.md
+- [[Requires_74_2]] - document - vault/Graph/Requires_74_1.md
+- [[Requires_74_1]] - document - vault/Graph/Requires_74_1.md
+- [[Top bridge nodes_1147]] - document - vault/Graph/_COMMUNITY_Community 267.md
+- [[_COMMUNITY_Community 1458]] - document - vault/Graph/_COMMUNITY_Community 1458.md
 - [[_COMMUNITY_Community 267]] - document - vault/Graph/_COMMUNITY_Community 267.md
 - [[_COMMUNITY_Community 354]] - document - vault/Graph/_COMMUNITY_Community 354.md
 
@@ -59,9 +79,21 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 8 edges to [[_COMMUNITY_Community 887]]
+- 2 edges to [[_COMMUNITY_Community 1649]]
+- 2 edges to [[_COMMUNITY_Community 2040]]
+- 2 edges to [[_COMMUNITY_Community 2543]]
+- 2 edges to [[_COMMUNITY_Community 2544]]
+- 2 edges to [[_COMMUNITY_Community 2545]]
 - 1 edge to [[_COMMUNITY_Community 119]]
-- 1 edge to [[_COMMUNITY_Community 330]]
+- 1 edge to [[_COMMUNITY_Community 1681]]
+- 1 edge to [[_COMMUNITY_Community 2395]]
+- 1 edge to [[_COMMUNITY_Community 2846]]
+- 1 edge to [[_COMMUNITY_Community 311]]
+- 1 edge to [[_COMMUNITY_Community 34]]
+- 1 edge to [[_COMMUNITY_Community 652]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 267]] - degree 9, connects to 1 community
-- [[_COMMUNITY_Community 354]] - degree 8, connects to 1 community
+- [[_COMMUNITY_Community 354]] - degree 27, connects to 8 communities
+- [[_COMMUNITY_Community 1458]] - degree 13, connects to 5 communities
+- [[_COMMUNITY_Community 267]] - degree 12, connects to 1 community

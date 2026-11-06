@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/begin()_2.md"
 type: "document"
-community: "Community 24"
+community: "Community 2097"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_2097
 ---
 
-# begin().md
+# begin()
 
 ## Connections
-- [[Connections_3320]] - `contains` [EXTRACTED]
+- [[Connections_12372]] - `contains` [EXTRACTED]
 - [[begin()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_2097

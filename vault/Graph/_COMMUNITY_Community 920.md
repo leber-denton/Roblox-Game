@@ -1,18 +1,25 @@
 ---
 type: community
-members: 5
+members: 12
 ---
 
 # Community 920
 
-**Members:** 5 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Community 37]] - document - vault/Graph/_COMMUNITY_Community 37.md
-- [[Connections to other communities_406]] - document - vault/Graph/_COMMUNITY_Community 37.md
-- [[Live Query (requires Dataview plugin)_450]] - document - vault/Graph/_COMMUNITY_Community 37.md
-- [[Members_450]] - document - vault/Graph/_COMMUNITY_Community 37.md
-- [[Top bridge nodes_408]] - document - vault/Graph/_COMMUNITY_Community 37.md
+- [[Connections_24024]] - document - vault/Graph/Connections_1351.md
+- [[Connections_24025]] - document - vault/Graph/Connections_1351.md
+- [[Connections_24026]] - document - vault/Graph/Connections_1352.md
+- [[Connections_24027]] - document - vault/Graph/Connections_1352.md
+- [[Connections_24028]] - document - vault/Graph/Connections_231_1.md
+- [[Connections_24029]] - document - vault/Graph/ReplicatedStorage_4.md
+- [[Connections_1351_1]] - document - vault/Graph/Connections_1351.md
+- [[Connections_1352_1]] - document - vault/Graph/Connections_1352.md
+- [[Connections_231_2]] - document - vault/Graph/Connections_231_1.md
+- [[Connections_231_1_1]] - document - vault/Graph/Connections_231_1.md
+- [[ReplicatedStorage_4_1]] - document - vault/Graph/ReplicatedStorage_4.md
+- [[ReplicatedStorage_4_2]] - document - vault/Graph/ReplicatedStorage_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +29,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 93]]
+- 4 edges to [[_COMMUNITY_Community 867]]
+- 1 edge to [[_COMMUNITY_Community 1831]]
 
 ## Top bridge nodes
-- [[Community 37]] - degree 5, connects to 1 community
+- [[ReplicatedStorage_4_1]] - degree 4, connects to 2 communities
+- [[Connections_231_1_1]] - degree 4, connects to 1 community
+- [[Connections_1351_1]] - degree 4, connects to 1 community
+- [[Connections_1352_1]] - degree 3, connects to 1 community

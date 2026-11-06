@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/StoryService.onHeal()_1.md"
+source_file: "vault/Graph/StoryService.onHeal()_4.md"
 type: "document"
-community: "Community 823"
+community: "Community 320"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_823
+  - community/Community_320
 ---
 
 # StoryService.onHeal().md
 
 ## Connections
-- [[Connections_5524]] - `contains` [EXTRACTED]
-- [[StoryService.onHeal()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_16592]] - `contains` [EXTRACTED]
+- [[StoryService.onHeal()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_823
+#graphify/document #graphify/EXTRACTED #community/Community_320

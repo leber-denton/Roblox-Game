@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/train().md"
+source_file: "vault/Graph/train()_4.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2723"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2723
 ---
 
-# train().md
+# train()
 
 ## Connections
-- [[BattleData.xpForLevel()_3]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[DecorService.onLoaded()_5]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[tick()_3]] - `references` [EXTRACTED]
+- [[Connections_15208]] - `contains` [EXTRACTED]
 - [[train()_4]] - `contains` [EXTRACTED]
-- [[trainingRates()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2723

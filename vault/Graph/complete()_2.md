@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/complete()_2.md"
+source_file: "vault/Graph/complete().md"
 type: "document"
 community: "Community 24"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_24
 ---
 
-# complete()_2.md
+# complete()
 
 ## Connections
-- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 24]] - `references` [EXTRACTED]
+- [[Connections_13798]] - `contains` [EXTRACTED]
 - [[complete()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

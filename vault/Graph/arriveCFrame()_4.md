@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/arriveCFrame()_2.md"
+source_file: "vault/Graph/arriveCFrame()_4.md"
 type: "document"
-community: "Community 646"
-location: "L12"
+community: "Community 1805"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_646
+  - community/Community_1805
 ---
 
-# arriveCFrame()
+# arriveCFrame()_4.md
 
 ## Connections
-- [[Connections_4916]] - `contains` [EXTRACTED]
-- [[arriveCFrame()_2_1]] - `contains` [EXTRACTED]
+- [[arriveCFrame()_5]] - `contains` [EXTRACTED]
+- [[arriveCFrame()_3_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_646
+#graphify/document #graphify/EXTRACTED #community/Community_1805

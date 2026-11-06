@@ -1,21 +1,20 @@
 ---
 source_file: "vault/Graph/yaw()_1.md"
 type: "document"
-community: "Community 587"
+community: "Community 1111"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_587
+  - community/Community_1111
 ---
 
 # yaw()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 29]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 89]] - `references` [EXTRACTED]
-- [[gen_coliseum.py_1]] - `references` [EXTRACTED]
-- [[yaw()_1_1]] - `contains` [EXTRACTED]
-- [[yaw()_2]] - `references` [EXTRACTED]
+- [[Connections_1478_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1111]] - `references` [EXTRACTED]
+- [[yaw()_5]] - `contains` [EXTRACTED]
+- [[yaw()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_587
+#graphify/document #graphify/EXTRACTED #community/Community_1111

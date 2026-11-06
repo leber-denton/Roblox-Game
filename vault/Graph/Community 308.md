@@ -1,21 +1,24 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 308.md"
+source_file: "vault/Graph/Community 308.md"
 type: "document"
-community: "Community 436"
-location: "L6"
+community: "Community 1101"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_436
+  - community/Community_1101
 ---
 
-# Community 308
+# Community 308.md
 
 ## Connections
-- [[Connections to other communities_326]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_358]] - `contains` [EXTRACTED]
-- [[Members_363]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_330]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 308]] - `contains` [EXTRACTED]
+- [[Community 308_1]] - `contains` [EXTRACTED]
+- [[Connections to other communities_326]] - `references` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_358]] - `references` [EXTRACTED]
+- [[Members_363]] - `references` [EXTRACTED]
+- [[Top bridge nodes_330]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1101]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 308]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 436]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_436
+#graphify/document #graphify/EXTRACTED #community/Community_1101

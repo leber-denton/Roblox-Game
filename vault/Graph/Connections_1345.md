@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/LeagueService_2.md"
+source_file: "vault/Graph/Connections_1249.md"
 type: "document"
-community: "Community 1286"
-location: "L14"
+community: "Community 1083"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1286
+  - community/Community_1083
 ---
 
 # Connections
 
 ## Connections
-- [[LeagueService_2_1]] - `contains` [EXTRACTED]
+- [[Connections_1346]] - `contains` [EXTRACTED]
+- [[Connections_1249_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1286
+#graphify/document #graphify/EXTRACTED #community/Community_1083

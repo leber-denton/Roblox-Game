@@ -12,7 +12,7 @@ tags:
 # row()
 
 ## Connections
-- [[ColiseumUI.client.luau_5]] - `contains` [EXTRACTED]
+- [[ColiseumUI.client.luau_8]] - `contains` [EXTRACTED]
 - [[build()]] - `calls` [EXTRACTED]
 - [[new()_2]] - `calls` [EXTRACTED]
 

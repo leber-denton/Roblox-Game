@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/med()_1.md"
+source_file: "vault/Graph/Connections_3194.md"
 type: "document"
-community: "Community 527"
-location: "L14"
+community: "Community 125"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_527
+  - community/Community_125
 ---
 
 # Connections
 
 ## Connections
-- [[med()_1_2]] - `contains` [EXTRACTED]
+- [[Connections_4558]] - `contains` [EXTRACTED]
+- [[Connections_3194_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_527
+#graphify/document #graphify/EXTRACTED #community/Community_125

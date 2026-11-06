@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CreatureBuilder_1.md"
+source_file: "vault/Graph/tier().md"
 type: "document"
-community: "Community 406"
+community: "Community 123"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_406
+  - community/Community_123
 ---
 
 # Connections
 
 ## Connections
-- [[CreatureBuilder_2]] - `contains` [EXTRACTED]
+- [[tier()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_406
+#graphify/document #graphify/EXTRACTED #community/Community_123

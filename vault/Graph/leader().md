@@ -12,6 +12,6 @@ tags:
 # leader()
 
 ## Connections
-- [[GameData.luau_3]] - `contains` [EXTRACTED]
+- [[GameData.luau]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

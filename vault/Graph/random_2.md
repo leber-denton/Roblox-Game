@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/random_2.md"
+source_file: "vault/Graph/random.md"
 type: "document"
-community: "Community 353"
-location: "L1"
+community: "Community 1111"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_353
+  - community/Community_1111
 ---
 
-# random_2.md
+# random.md
 
 ## Connections
-- [[_COMMUNITY_Community 353]] - `references` [EXTRACTED]
-- [[random_3]] - `contains` [EXTRACTED]
-- [[random_1]] - `references` [EXTRACTED]
+- [[Connections_2125]] - `contains` [EXTRACTED]
+- [[random]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_353
+#graphify/document #graphify/EXTRACTED #community/Community_1111

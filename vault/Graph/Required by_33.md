@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/BaseManager.md"
+source_file: "vault/Graph/Required by_33_1.md"
 type: "document"
-community: "Community 16"
-location: "L11"
+community: "Community 122"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_16
+  - community/Community_122
 ---
 
-# Required by
+# Required by_33.md
 
 ## Connections
-- [[BaseManager]] - `contains` [EXTRACTED]
+- [[Connections_3923]] - `contains` [EXTRACTED]
+- [[Required by_33_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_16
+#graphify/document #graphify/EXTRACTED #community/Community_122

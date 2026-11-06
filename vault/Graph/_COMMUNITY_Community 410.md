@@ -1,28 +1,334 @@
 ---
 type: community
-members: 15
+members: 321
 ---
 
 # Community 410
 
-**Members:** 15 nodes
+**Members:** 321 nodes
 
 ## Members
-- [[Connections_4191]] - document - vault/Graph/gen_coliseum.py_1.md
-- [[Connections_4192]] - document - vault/Graph/gen_coliseum.py_2.md
-- [[Connections_4193]] - document - vault/Graph/Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_1.md
-- [[Connections_4194]] - document - vault/Graph/Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_2.md
-- [[Connections_4195]] - document - vault/Graph/part()_1_1.md
-- [[Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_1]] - document - vault/Graph/Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_1.md
-- [[Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_1_1]] - document - vault/Graph/Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_1.md
-- [[Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_2]] - document - vault/Graph/Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_2.md
-- [[Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_2_1]] - document - vault/Graph/Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_2.md
-- [[gen_coliseum.py_1]] - document - vault/Graph/gen_coliseum.py_1.md
-- [[gen_coliseum.py_1_1]] - document - vault/Graph/gen_coliseum.py_1.md
-- [[gen_coliseum.py_2]] - document - vault/Graph/gen_coliseum.py_2.md
-- [[gen_coliseum.py_2_1]] - document - vault/Graph/gen_coliseum.py_2.md
-- [[part()_1_1]] - document - vault/Graph/part()_1_1.md
-- [[part()_1_1_1]] - document - vault/Graph/part()_1_1.md
+- [[Community 133_1]] - document - vault/Graph/Community 133.md
+- [[Community 133_2]] - document - vault/Graph/_COMMUNITY_Community 133.md
+- [[Community 133]] - document - vault/Graph/Community 133.md
+- [[Connections_18864]] - document - vault/Graph/Community 133.md
+- [[Connections_18865]] - document - vault/Graph/Connections_4155.md
+- [[Connections_18866]] - document - vault/Graph/Connections_4155.md
+- [[Connections_18867]] - document - vault/Graph/Connections_4156.md
+- [[Connections_18868]] - document - vault/Graph/Connections_4156.md
+- [[Connections_18869]] - document - vault/Graph/Connections_4157.md
+- [[Connections_18870]] - document - vault/Graph/Connections_4157.md
+- [[Connections_18871]] - document - vault/Graph/Connections_4158.md
+- [[Connections_18872]] - document - vault/Graph/Connections_4158.md
+- [[Connections_18873]] - document - vault/Graph/Connections_4159.md
+- [[Connections_18874]] - document - vault/Graph/Connections_4159.md
+- [[Connections_18875]] - document - vault/Graph/Connections_4160.md
+- [[Connections_18876]] - document - vault/Graph/Connections_4160.md
+- [[Connections_18877]] - document - vault/Graph/Connections_4161.md
+- [[Connections_18878]] - document - vault/Graph/Connections_4161.md
+- [[Connections_18879]] - document - vault/Graph/Connections_4162.md
+- [[Connections_18880]] - document - vault/Graph/Connections_4162.md
+- [[Connections_18881]] - document - vault/Graph/Connections_4163.md
+- [[Connections_18882]] - document - vault/Graph/Connections_4163.md
+- [[Connections_18883]] - document - vault/Graph/Connections_4164.md
+- [[Connections_18884]] - document - vault/Graph/Connections_4164.md
+- [[Connections_18885]] - document - vault/Graph/Connections_4165.md
+- [[Connections_18886]] - document - vault/Graph/Connections_4165.md
+- [[Connections_18887]] - document - vault/Graph/Connections_4166.md
+- [[Connections_18888]] - document - vault/Graph/Connections_4166.md
+- [[Connections_18889]] - document - vault/Graph/Connections_4167.md
+- [[Connections_18890]] - document - vault/Graph/Connections_4167.md
+- [[Connections_18891]] - document - vault/Graph/Connections_4168.md
+- [[Connections_18892]] - document - vault/Graph/Connections_4168.md
+- [[Connections_18893]] - document - vault/Graph/Connections_4169.md
+- [[Connections_18894]] - document - vault/Graph/Connections_4169.md
+- [[Connections_18895]] - document - vault/Graph/Connections_4170.md
+- [[Connections_18896]] - document - vault/Graph/Connections_4170.md
+- [[Connections_18897]] - document - vault/Graph/Connections_4171.md
+- [[Connections_18898]] - document - vault/Graph/Connections_4171.md
+- [[Connections_18899]] - document - vault/Graph/Connections_4172.md
+- [[Connections_18900]] - document - vault/Graph/Connections_4172.md
+- [[Connections_18901]] - document - vault/Graph/Connections_4175.md
+- [[Connections_18902]] - document - vault/Graph/Connections_4175.md
+- [[Connections_18903]] - document - vault/Graph/Connections_4176.md
+- [[Connections_18904]] - document - vault/Graph/Connections_4176.md
+- [[Connections_18905]] - document - vault/Graph/Connections_4177.md
+- [[Connections_18906]] - document - vault/Graph/Connections_4177.md
+- [[Connections_18907]] - document - vault/Graph/Connections_4178.md
+- [[Connections_18908]] - document - vault/Graph/Connections_4178.md
+- [[Connections_18909]] - document - vault/Graph/Connections_4179.md
+- [[Connections_18910]] - document - vault/Graph/Connections_4179.md
+- [[Connections_18911]] - document - vault/Graph/Connections_4180.md
+- [[Connections_18912]] - document - vault/Graph/Connections_4180.md
+- [[Connections_18913]] - document - vault/Graph/Connections_4185.md
+- [[Connections_18914]] - document - vault/Graph/Connections_4185.md
+- [[Connections_18915]] - document - vault/Graph/Connections_4186.md
+- [[Connections_18916]] - document - vault/Graph/Connections_4186.md
+- [[Connections_18917]] - document - vault/Graph/Connections_4189.md
+- [[Connections_18918]] - document - vault/Graph/Connections_4189.md
+- [[Connections_18919]] - document - vault/Graph/Connections_4190.md
+- [[Connections_18920]] - document - vault/Graph/Connections_4190.md
+- [[Connections_18921]] - document - vault/Graph/Connections_4191.md
+- [[Connections_18922]] - document - vault/Graph/Connections_4191.md
+- [[Connections_18923]] - document - vault/Graph/Connections_4192.md
+- [[Connections_18924]] - document - vault/Graph/Connections_4192.md
+- [[Connections_18925]] - document - vault/Graph/Connections_4193.md
+- [[Connections_18926]] - document - vault/Graph/Connections_4193.md
+- [[Connections_18927]] - document - vault/Graph/Connections_4194.md
+- [[Connections_18928]] - document - vault/Graph/Connections_4194.md
+- [[Connections_18929]] - document - vault/Graph/Connections_4195.md
+- [[Connections_18930]] - document - vault/Graph/Connections_4195.md
+- [[Connections_18931]] - document - vault/Graph/Connections_4201.md
+- [[Connections_18932]] - document - vault/Graph/Connections_4201.md
+- [[Connections_18933]] - document - vault/Graph/Connections_4202.md
+- [[Connections_18934]] - document - vault/Graph/Connections_4202.md
+- [[Connections_18935]] - document - vault/Graph/Connections_4203.md
+- [[Connections_18936]] - document - vault/Graph/Connections_4203.md
+- [[Connections_18937]] - document - vault/Graph/Connections_4204.md
+- [[Connections_18938]] - document - vault/Graph/Connections_4204.md
+- [[Connections_18939]] - document - vault/Graph/Connections_4205.md
+- [[Connections_18940]] - document - vault/Graph/Connections_4205.md
+- [[Connections_18941]] - document - vault/Graph/Connections_4206.md
+- [[Connections_18942]] - document - vault/Graph/Connections_4206.md
+- [[Connections_18943]] - document - vault/Graph/Connections_4207.md
+- [[Connections_18944]] - document - vault/Graph/Connections_4207.md
+- [[Connections_18945]] - document - vault/Graph/Connections_4208.md
+- [[Connections_18946]] - document - vault/Graph/Connections_4208.md
+- [[Connections_18947]] - document - vault/Graph/Connections_4209.md
+- [[Connections_18948]] - document - vault/Graph/Connections_4209.md
+- [[Connections_18949]] - document - vault/Graph/Connections_4214.md
+- [[Connections_18950]] - document - vault/Graph/Connections_4214.md
+- [[Connections_18951]] - document - vault/Graph/Connections_4215.md
+- [[Connections_18952]] - document - vault/Graph/Connections_4215.md
+- [[Connections_18953]] - document - vault/Graph/Connections_4220.md
+- [[Connections_18954]] - document - vault/Graph/Connections_4220.md
+- [[Connections_18955]] - document - vault/Graph/Connections_4221.md
+- [[Connections_18956]] - document - vault/Graph/Connections_4221.md
+- [[Connections_18957]] - document - vault/Graph/Connections_4222.md
+- [[Connections_18958]] - document - vault/Graph/Connections_4222.md
+- [[Connections_18959]] - document - vault/Graph/Connections_4225.md
+- [[Connections_18960]] - document - vault/Graph/Connections_4225.md
+- [[Connections_18961]] - document - vault/Graph/Connections_4226.md
+- [[Connections_18962]] - document - vault/Graph/Connections_4226.md
+- [[Connections_18963]] - document - vault/Graph/Connections_4227.md
+- [[Connections_18964]] - document - vault/Graph/Connections_4227.md
+- [[Connections_18965]] - document - vault/Graph/Connections_4228.md
+- [[Connections_18966]] - document - vault/Graph/Connections_4228.md
+- [[Connections_18967]] - document - vault/Graph/Connections_4229.md
+- [[Connections_18968]] - document - vault/Graph/Connections_4229.md
+- [[Connections_18969]] - document - vault/Graph/Connections_4230.md
+- [[Connections_18970]] - document - vault/Graph/Connections_4230.md
+- [[Connections_18971]] - document - vault/Graph/Connections_4231.md
+- [[Connections_18972]] - document - vault/Graph/Connections_4231.md
+- [[Connections_18973]] - document - vault/Graph/Connections_4232.md
+- [[Connections_18974]] - document - vault/Graph/Connections_4232.md
+- [[Connections_18975]] - document - vault/Graph/Connections_4233.md
+- [[Connections_18976]] - document - vault/Graph/Connections_4233.md
+- [[Connections_18977]] - document - vault/Graph/Connections_4234.md
+- [[Connections_18978]] - document - vault/Graph/Connections_4234.md
+- [[Connections_18979]] - document - vault/Graph/Connections_4235.md
+- [[Connections_18980]] - document - vault/Graph/Connections_4235.md
+- [[Connections_18981]] - document - vault/Graph/Connections_4236.md
+- [[Connections_18982]] - document - vault/Graph/Connections_4236.md
+- [[Connections_18983]] - document - vault/Graph/Connections_4237.md
+- [[Connections_18984]] - document - vault/Graph/Connections_4237.md
+- [[Connections_18985]] - document - vault/Graph/Connections_4240.md
+- [[Connections_18986]] - document - vault/Graph/Connections_4240.md
+- [[Connections_18987]] - document - vault/Graph/Connections_4241.md
+- [[Connections_18988]] - document - vault/Graph/Connections_4241.md
+- [[Connections_18989]] - document - vault/Graph/Connections_4242.md
+- [[Connections_18990]] - document - vault/Graph/Connections_4242.md
+- [[Connections_18991]] - document - vault/Graph/Connections_4243.md
+- [[Connections_18992]] - document - vault/Graph/Connections_4243.md
+- [[Connections_18993]] - document - vault/Graph/Connections_4247.md
+- [[Connections_18994]] - document - vault/Graph/Connections_4247.md
+- [[Connections_18995]] - document - vault/Graph/Connections_4248.md
+- [[Connections_18996]] - document - vault/Graph/Connections_4248.md
+- [[Connections_18997]] - document - vault/Graph/Connections_4251.md
+- [[Connections_18998]] - document - vault/Graph/Connections_4251.md
+- [[Connections_18999]] - document - vault/Graph/Connections_4252.md
+- [[Connections_19000]] - document - vault/Graph/Connections_4252.md
+- [[Connections_19001]] - document - vault/Graph/Connections_4253.md
+- [[Connections_19002]] - document - vault/Graph/Connections_4253.md
+- [[Connections_19003]] - document - vault/Graph/Connections_4254.md
+- [[Connections_19004]] - document - vault/Graph/Connections_4254.md
+- [[Connections_19005]] - document - vault/Graph/Connections_4255.md
+- [[Connections_19006]] - document - vault/Graph/Connections_4255.md
+- [[Connections_19007]] - document - vault/Graph/Connections_4256.md
+- [[Connections_19008]] - document - vault/Graph/Connections_4256.md
+- [[Connections_19009]] - document - vault/Graph/Connections_4257.md
+- [[Connections_19010]] - document - vault/Graph/Connections_4257.md
+- [[Connections_19011]] - document - vault/Graph/Connections_4258.md
+- [[Connections_19012]] - document - vault/Graph/Connections_4258.md
+- [[Connections_19013]] - document - vault/Graph/Connections_4261.md
+- [[Connections_19014]] - document - vault/Graph/Connections_4261.md
+- [[Connections_19015]] - document - vault/Graph/Connections_4262.md
+- [[Connections_19016]] - document - vault/Graph/Connections_4262.md
+- [[Connections_19017]] - document - vault/Graph/Connections_4263.md
+- [[Connections_19018]] - document - vault/Graph/Connections_4263.md
+- [[Connections_19019]] - document - vault/Graph/Connections_4264.md
+- [[Connections_19020]] - document - vault/Graph/Connections_4264.md
+- [[Connections_19021]] - document - vault/Graph/Connections_4265.md
+- [[Connections_19022]] - document - vault/Graph/Connections_4265.md
+- [[Connections_19023]] - document - vault/Graph/Connections_4266.md
+- [[Connections_19024]] - document - vault/Graph/Connections_4266.md
+- [[Connections_19025]] - document - vault/Graph/Connections_4278.md
+- [[Connections_19026]] - document - vault/Graph/Connections_4278.md
+- [[Connections_19027]] - document - vault/Graph/Connections_4279.md
+- [[Connections_19028]] - document - vault/Graph/Connections_4279.md
+- [[Connections_19029]] - document - vault/Graph/Connections_4281.md
+- [[Connections_19030]] - document - vault/Graph/Connections_4281.md
+- [[Connections_19031]] - document - vault/Graph/Connections_4284.md
+- [[Connections_19032]] - document - vault/Graph/Connections_4284.md
+- [[Connections_19033]] - document - vault/Graph/Connections_4293.md
+- [[Connections_19034]] - document - vault/Graph/Connections_4293.md
+- [[Connections_19035]] - document - vault/Graph/Connections_4294.md
+- [[Connections_19036]] - document - vault/Graph/Connections_4294.md
+- [[Connections_19037]] - document - vault/Graph/Connections_4307.md
+- [[Connections_19038]] - document - vault/Graph/Connections_4307.md
+- [[Connections_19039]] - document - vault/Graph/Connections_4308.md
+- [[Connections_19040]] - document - vault/Graph/Connections_4308.md
+- [[Connections_19041]] - document - vault/Graph/Connections_4313.md
+- [[Connections_19042]] - document - vault/Graph/Connections_4313.md
+- [[Connections_19043]] - document - vault/Graph/Connections_4314.md
+- [[Connections_19044]] - document - vault/Graph/Connections_4314.md
+- [[Connections_19045]] - document - vault/Graph/Connections_4323.md
+- [[Connections_19046]] - document - vault/Graph/Connections_4323.md
+- [[Connections_19047]] - document - vault/Graph/Connections_4324.md
+- [[Connections_19048]] - document - vault/Graph/Connections_4324.md
+- [[Connections_19049]] - document - vault/Graph/Connections_4327.md
+- [[Connections_19050]] - document - vault/Graph/Connections_4327.md
+- [[Connections_19051]] - document - vault/Graph/Connections_4328.md
+- [[Connections_19052]] - document - vault/Graph/Connections_4328.md
+- [[Connections_19053]] - document - vault/Graph/Connections_4331.md
+- [[Connections_19054]] - document - vault/Graph/Connections_4331.md
+- [[Connections_19055]] - document - vault/Graph/Connections_4332.md
+- [[Connections_19056]] - document - vault/Graph/Connections_4332.md
+- [[Connections_19057]] - document - vault/Graph/Connections_4335.md
+- [[Connections_19058]] - document - vault/Graph/Connections_4335.md
+- [[Connections_19059]] - document - vault/Graph/Connections_4336.md
+- [[Connections_19060]] - document - vault/Graph/Connections_4336.md
+- [[Connections_19061]] - document - vault/Graph/Connections_4337.md
+- [[Connections_19062]] - document - vault/Graph/Connections_4337.md
+- [[Connections_19063]] - document - vault/Graph/Connections_4338.md
+- [[Connections_19064]] - document - vault/Graph/Connections_4338.md
+- [[Connections_19065]] - document - vault/Graph/Connections_4345.md
+- [[Connections_19066]] - document - vault/Graph/Connections_4345.md
+- [[Connections_19067]] - document - vault/Graph/Connections_4346.md
+- [[Connections_19068]] - document - vault/Graph/Connections_4346.md
+- [[Connections_19069]] - document - vault/Graph/Connections_4351.md
+- [[Connections_19070]] - document - vault/Graph/Connections_4351.md
+- [[Connections_19071]] - document - vault/Graph/Connections_4352.md
+- [[Connections_19072]] - document - vault/Graph/Connections_4352.md
+- [[Connections to other communities_1271]] - document - vault/Graph/_COMMUNITY_Community 133.md
+- [[Connections_4155_1]] - document - vault/Graph/Connections_4155.md
+- [[Connections_4156_1]] - document - vault/Graph/Connections_4156.md
+- [[Connections_4157_1]] - document - vault/Graph/Connections_4157.md
+- [[Connections_4158_1]] - document - vault/Graph/Connections_4158.md
+- [[Connections_4159_1]] - document - vault/Graph/Connections_4159.md
+- [[Connections_4160_1]] - document - vault/Graph/Connections_4160.md
+- [[Connections_4161_1]] - document - vault/Graph/Connections_4161.md
+- [[Connections_4162_1]] - document - vault/Graph/Connections_4162.md
+- [[Connections_4163_1]] - document - vault/Graph/Connections_4163.md
+- [[Connections_4164_1]] - document - vault/Graph/Connections_4164.md
+- [[Connections_4165_1]] - document - vault/Graph/Connections_4165.md
+- [[Connections_4166_1]] - document - vault/Graph/Connections_4166.md
+- [[Connections_4167_1]] - document - vault/Graph/Connections_4167.md
+- [[Connections_4168_1]] - document - vault/Graph/Connections_4168.md
+- [[Connections_4169_1]] - document - vault/Graph/Connections_4169.md
+- [[Connections_4170_1]] - document - vault/Graph/Connections_4170.md
+- [[Connections_4171_1]] - document - vault/Graph/Connections_4171.md
+- [[Connections_4172_1]] - document - vault/Graph/Connections_4172.md
+- [[Connections_4175_1]] - document - vault/Graph/Connections_4175.md
+- [[Connections_4176_1]] - document - vault/Graph/Connections_4176.md
+- [[Connections_4177_1]] - document - vault/Graph/Connections_4177.md
+- [[Connections_4178_1]] - document - vault/Graph/Connections_4178.md
+- [[Connections_4179_1]] - document - vault/Graph/Connections_4179.md
+- [[Connections_4180_1]] - document - vault/Graph/Connections_4180.md
+- [[Connections_4185_1]] - document - vault/Graph/Connections_4185.md
+- [[Connections_4186_1]] - document - vault/Graph/Connections_4186.md
+- [[Connections_4189_1]] - document - vault/Graph/Connections_4189.md
+- [[Connections_4190_1]] - document - vault/Graph/Connections_4190.md
+- [[Connections_4191_1]] - document - vault/Graph/Connections_4191.md
+- [[Connections_4192_1]] - document - vault/Graph/Connections_4192.md
+- [[Connections_4193_1]] - document - vault/Graph/Connections_4193.md
+- [[Connections_4194_1]] - document - vault/Graph/Connections_4194.md
+- [[Connections_4195_1]] - document - vault/Graph/Connections_4195.md
+- [[Connections_4201_1]] - document - vault/Graph/Connections_4201.md
+- [[Connections_4202_1]] - document - vault/Graph/Connections_4202.md
+- [[Connections_4203_1]] - document - vault/Graph/Connections_4203.md
+- [[Connections_4204_1]] - document - vault/Graph/Connections_4204.md
+- [[Connections_4205_1]] - document - vault/Graph/Connections_4205.md
+- [[Connections_4206_1]] - document - vault/Graph/Connections_4206.md
+- [[Connections_4207_1]] - document - vault/Graph/Connections_4207.md
+- [[Connections_4208_1]] - document - vault/Graph/Connections_4208.md
+- [[Connections_4209_1]] - document - vault/Graph/Connections_4209.md
+- [[Connections_4214_1]] - document - vault/Graph/Connections_4214.md
+- [[Connections_4215_1]] - document - vault/Graph/Connections_4215.md
+- [[Connections_4220_1]] - document - vault/Graph/Connections_4220.md
+- [[Connections_4221_1]] - document - vault/Graph/Connections_4221.md
+- [[Connections_4222_1]] - document - vault/Graph/Connections_4222.md
+- [[Connections_4225_1]] - document - vault/Graph/Connections_4225.md
+- [[Connections_4226_1]] - document - vault/Graph/Connections_4226.md
+- [[Connections_4227_1]] - document - vault/Graph/Connections_4227.md
+- [[Connections_4228_1]] - document - vault/Graph/Connections_4228.md
+- [[Connections_4229_1]] - document - vault/Graph/Connections_4229.md
+- [[Connections_4230_1]] - document - vault/Graph/Connections_4230.md
+- [[Connections_4231_1]] - document - vault/Graph/Connections_4231.md
+- [[Connections_4232_1]] - document - vault/Graph/Connections_4232.md
+- [[Connections_4233_1]] - document - vault/Graph/Connections_4233.md
+- [[Connections_4234_1]] - document - vault/Graph/Connections_4234.md
+- [[Connections_4235_1]] - document - vault/Graph/Connections_4235.md
+- [[Connections_4236_1]] - document - vault/Graph/Connections_4236.md
+- [[Connections_4237_1]] - document - vault/Graph/Connections_4237.md
+- [[Connections_4240_1]] - document - vault/Graph/Connections_4240.md
+- [[Connections_4241_1]] - document - vault/Graph/Connections_4241.md
+- [[Connections_4242_1]] - document - vault/Graph/Connections_4242.md
+- [[Connections_4243_1]] - document - vault/Graph/Connections_4243.md
+- [[Connections_4247_1]] - document - vault/Graph/Connections_4247.md
+- [[Connections_4248_1]] - document - vault/Graph/Connections_4248.md
+- [[Connections_4251_1]] - document - vault/Graph/Connections_4251.md
+- [[Connections_4252_1]] - document - vault/Graph/Connections_4252.md
+- [[Connections_4253_1]] - document - vault/Graph/Connections_4253.md
+- [[Connections_4254_1]] - document - vault/Graph/Connections_4254.md
+- [[Connections_4255_1]] - document - vault/Graph/Connections_4255.md
+- [[Connections_4256_1]] - document - vault/Graph/Connections_4256.md
+- [[Connections_4257_1]] - document - vault/Graph/Connections_4257.md
+- [[Connections_4258_1]] - document - vault/Graph/Connections_4258.md
+- [[Connections_4261_1]] - document - vault/Graph/Connections_4261.md
+- [[Connections_4262_1]] - document - vault/Graph/Connections_4262.md
+- [[Connections_4263_1]] - document - vault/Graph/Connections_4263.md
+- [[Connections_4264_1]] - document - vault/Graph/Connections_4264.md
+- [[Connections_4265_1]] - document - vault/Graph/Connections_4265.md
+- [[Connections_4266_1]] - document - vault/Graph/Connections_4266.md
+- [[Connections_4278_1]] - document - vault/Graph/Connections_4278.md
+- [[Connections_4279_1]] - document - vault/Graph/Connections_4279.md
+- [[Connections_4281_1]] - document - vault/Graph/Connections_4281.md
+- [[Connections_4284_1]] - document - vault/Graph/Connections_4284.md
+- [[Connections_4293_1]] - document - vault/Graph/Connections_4293.md
+- [[Connections_4294_1]] - document - vault/Graph/Connections_4294.md
+- [[Connections_4307_1]] - document - vault/Graph/Connections_4307.md
+- [[Connections_4308_1]] - document - vault/Graph/Connections_4308.md
+- [[Connections_4313_1]] - document - vault/Graph/Connections_4313.md
+- [[Connections_4314_1]] - document - vault/Graph/Connections_4314.md
+- [[Connections_4323_1]] - document - vault/Graph/Connections_4323.md
+- [[Connections_4324_1]] - document - vault/Graph/Connections_4324.md
+- [[Connections_4327_1]] - document - vault/Graph/Connections_4327.md
+- [[Connections_4328_1]] - document - vault/Graph/Connections_4328.md
+- [[Connections_4331_1]] - document - vault/Graph/Connections_4331.md
+- [[Connections_4332_1]] - document - vault/Graph/Connections_4332.md
+- [[Connections_4335_1]] - document - vault/Graph/Connections_4335.md
+- [[Connections_4336_1]] - document - vault/Graph/Connections_4336.md
+- [[Connections_4337_1]] - document - vault/Graph/Connections_4337.md
+- [[Connections_4338_1]] - document - vault/Graph/Connections_4338.md
+- [[Connections_4345_1]] - document - vault/Graph/Connections_4345.md
+- [[Connections_4346_1]] - document - vault/Graph/Connections_4346.md
+- [[Connections_4351_1]] - document - vault/Graph/Connections_4351.md
+- [[Connections_4352_1]] - document - vault/Graph/Connections_4352.md
+- [[Live Query (requires Dataview plugin)_1499]] - document - vault/Graph/_COMMUNITY_Community 133.md
+- [[Members_1502]] - document - vault/Graph/_COMMUNITY_Community 133.md
+- [[Top bridge nodes_1271]] - document - vault/Graph/_COMMUNITY_Community 133.md
+- [[_COMMUNITY_Community 133]] - document - vault/Graph/_COMMUNITY_Community 133.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,14 +338,64 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_Community 353]]
-- 3 edges to [[_COMMUNITY_Community 89]]
-- 1 edge to [[_COMMUNITY_Community 585]]
-- 1 edge to [[_COMMUNITY_Community 587]]
+- 22 edges to [[_COMMUNITY_Community 133]]
+- 22 edges to [[_COMMUNITY_Community 2592]]
+- 21 edges to [[_COMMUNITY_Community 176]]
+- 6 edges to [[_COMMUNITY_Community 1548]]
+- 6 edges to [[_COMMUNITY_Community 2213]]
+- 6 edges to [[_COMMUNITY_Community 241]]
+- 6 edges to [[_COMMUNITY_Community 390]]
+- 6 edges to [[_COMMUNITY_Community 400]]
+- 6 edges to [[_COMMUNITY_Community 402]]
+- 6 edges to [[_COMMUNITY_Community 440]]
+- 6 edges to [[_COMMUNITY_Community 586]]
+- 6 edges to [[_COMMUNITY_Community 619]]
+- 6 edges to [[_COMMUNITY_Community 448]]
+- 6 edges to [[_COMMUNITY_Community 463]]
+- 6 edges to [[_COMMUNITY_Community 565]]
+- 6 edges to [[_COMMUNITY_Community 627]]
+- 6 edges to [[_COMMUNITY_Community 629]]
+- 6 edges to [[_COMMUNITY_Community 633]]
+- 6 edges to [[_COMMUNITY_Community 453]]
+- 6 edges to [[_COMMUNITY_Community 634]]
+- 6 edges to [[_COMMUNITY_Community 656]]
+- 6 edges to [[_COMMUNITY_Community 661]]
+- 6 edges to [[_COMMUNITY_Community 666]]
+- 6 edges to [[_COMMUNITY_Community 467]]
+- 6 edges to [[_COMMUNITY_Community 678]]
+- 6 edges to [[_COMMUNITY_Community 466]]
+- 6 edges to [[_COMMUNITY_Community 680]]
+- 6 edges to [[_COMMUNITY_Community 480]]
+- 6 edges to [[_COMMUNITY_Community 682]]
+- 4 edges to [[_COMMUNITY_Community 168]]
+- 3 edges to [[_COMMUNITY_Community 1532]]
+- 3 edges to [[_COMMUNITY_Community 1534]]
+- 2 edges to [[_COMMUNITY_Community 1574]]
+- 2 edges to [[_COMMUNITY_Community 2325]]
+- 2 edges to [[_COMMUNITY_Community 2329]]
+- 2 edges to [[_COMMUNITY_Community 579]]
+- 2 edges to [[_COMMUNITY_Community 993]]
+- 2 edges to [[_COMMUNITY_Community 535]]
+- 2 edges to [[_COMMUNITY_Community 615]]
+- 2 edges to [[_COMMUNITY_Community 429]]
+- 1 edge to [[_COMMUNITY_Community 1063]]
+- 1 edge to [[_COMMUNITY_Community 1077]]
+- 1 edge to [[_COMMUNITY_Community 1095]]
+- 1 edge to [[_COMMUNITY_Community 197]]
+- 1 edge to [[_COMMUNITY_Community 2460]]
+- 1 edge to [[_COMMUNITY_Community 33]]
+- 1 edge to [[_COMMUNITY_Community 3681]]
+- 1 edge to [[_COMMUNITY_Community 382]]
+- 1 edge to [[_COMMUNITY_Community 972]]
+- 1 edge to [[_COMMUNITY_Community 704]]
+- 1 edge to [[_COMMUNITY_Community 958]]
+- 1 edge to [[_COMMUNITY_Community 465]]
+- 1 edge to [[_COMMUNITY_Community 416]]
+- 1 edge to [[_COMMUNITY_Community 49]]
+- 1 edge to [[_COMMUNITY_Community 508]]
+- 1 edge to [[_COMMUNITY_Community 836]]
+- 1 edge to [[_COMMUNITY_Community 88]]
 
 ## Top bridge nodes
-- [[gen_coliseum.py_1]] - degree 8, connects to 4 communities
-- [[Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_1]] - degree 5, connects to 2 communities
-- [[part()_1_1]] - degree 4, connects to 2 communities
-- [[Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_2]] - degree 3, connects to 1 community
-- [[gen_coliseum.py_2]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 133]] - degree 369, connects to 56 communities
+- [[Connections_4247_1]] - degree 4, connects to 1 community

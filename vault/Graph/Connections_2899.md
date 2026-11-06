@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/fillLane()_2.md"
+source_file: "vault/Graph/Top bridge nodes_250.md"
 type: "document"
-community: "Community 197"
+community: "Community 1159"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_197
+  - community/Community_1159
 ---
 
 # Connections
 
 ## Connections
-- [[fillLane()_2_1]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_192]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_197
+#graphify/document #graphify/EXTRACTED #community/Community_1159

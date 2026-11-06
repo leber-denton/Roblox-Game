@@ -12,13 +12,13 @@ tags:
 # prompt()_1.md
 
 ## Connections
-- [[ColiseumService.luau_2_1]] - `references` [EXTRACTED]
+- [[ColiseumService.luau_3_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
 - [[addTrainerPrompt()_1_1]] - `references` [EXTRACTED]
-- [[prompt()_3]] - `contains` [EXTRACTED]
-- [[prompt()_2_1]] - `references` [EXTRACTED]
+- [[prompt()_6]] - `contains` [EXTRACTED]
+- [[prompt()_2_2]] - `references` [EXTRACTED]
 - [[setupPortals()_1_1]] - `references` [EXTRACTED]
-- [[setupShop()_1_1]] - `references` [EXTRACTED]
+- [[setupShop()_1_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_97

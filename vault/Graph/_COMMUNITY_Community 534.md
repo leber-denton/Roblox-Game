@@ -1,22 +1,31 @@
 ---
 type: community
-members: 9
+members: 18
 ---
 
 # Community 534
 
-**Members:** 9 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Connections_4588]] - document - vault/Graph/RareEventService.md
-- [[Connections_4589]] - document - vault/Graph/Required by_35.md
-- [[Connections_4590]] - document - vault/Graph/Requires_28.md
-- [[GraphRareEventService_2]] - document - vault/Graph/RareEventService.md
-- [[RareEventService_3]] - document - vault/Graph/RareEventService.md
-- [[Required by_144]] - document - vault/Graph/Required by_35.md
-- [[Required by_35_1]] - document - vault/Graph/Required by_35.md
-- [[Requires_148]] - document - vault/Graph/Requires_28.md
-- [[Requires_28_3]] - document - vault/Graph/Requires_28.md
+- [[CodeWeeklyEventService_4]] - document - vault/Graph/CodeWeeklyEventService_2.md
+- [[CodeWeeklyEventService_3]] - document - vault/Graph/CodeWeeklyEventService_1.md
+- [[CodeWeeklyEventService_1_1]] - document - vault/Graph/CodeWeeklyEventService_1.md
+- [[CodeWeeklyEventService_2_1]] - document - vault/Graph/CodeWeeklyEventService_2.md
+- [[Connections_20533]] - document - vault/Graph/CodeWeeklyEventService_1.md
+- [[Connections_20534]] - document - vault/Graph/CodeWeeklyEventService_2.md
+- [[Connections_20535]] - document - vault/Graph/Connections_2281.md
+- [[Connections_20536]] - document - vault/Graph/Connections_2281.md
+- [[Connections_20537]] - document - vault/Graph/Connections_2325.md
+- [[Connections_20538]] - document - vault/Graph/Connections_2325.md
+- [[Connections_20539]] - document - vault/Graph/Connections_2326.md
+- [[Connections_20540]] - document - vault/Graph/Connections_2326.md
+- [[Connections_20541]] - document - vault/Graph/Connections_622_1.md
+- [[Connections_2281_1]] - document - vault/Graph/Connections_2281.md
+- [[Connections_2325_1]] - document - vault/Graph/Connections_2325.md
+- [[Connections_2326_1]] - document - vault/Graph/Connections_2326.md
+- [[Connections_622_2]] - document - vault/Graph/Connections_622_1.md
+- [[Connections_622_1_1]] - document - vault/Graph/Connections_622_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,10 +35,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 292]]
-- 1 edge to [[_COMMUNITY_Community 53]]
+- 6 edges to [[_COMMUNITY_Community 34]]
+- 1 edge to [[_COMMUNITY_Community 119]]
 
 ## Top bridge nodes
-- [[GraphRareEventService_2]] - degree 5, connects to 2 communities
-- [[Requires_28_3]] - degree 3, connects to 1 community
-- [[Required by_35_1]] - degree 3, connects to 1 community
+- [[CodeWeeklyEventService_1_1]] - degree 5, connects to 2 communities
+- [[Connections_622_1_1]] - degree 4, connects to 1 community
+- [[Connections_2325_1]] - degree 4, connects to 1 community
+- [[CodeWeeklyEventService_2_1]] - degree 4, connects to 1 community
+- [[Connections_2281_1]] - degree 3, connects to 1 community

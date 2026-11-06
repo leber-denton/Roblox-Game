@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/RareEventService.md"
+source_file: "vault/Code/TrainerAnimations.md"
 type: "document"
-community: "Community 2"
-location: "L8"
+community: "Community 13"
+location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Community_13
 ---
 
 # Required by
 
 ## Connections
-- [[RareEventService]] - `contains` [EXTRACTED]
+- [[TrainerAnimations]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_2
+#graphify/document #graphify/EXTRACTED #community/Community_13

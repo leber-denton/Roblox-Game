@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/script_parent_tutorialservice.md"
+source_file: "vault/Graph/guideTarget()_3.md"
 type: "document"
-community: "Community 24"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[script_parent_tutorialservice_4]] - `contains` [EXTRACTED]
+- [[guideTarget()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1187

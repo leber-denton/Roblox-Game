@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Graph/WildSpawner.spawnLane().md"
+source_file: "vault/Graph/WildSpawner.spawnLane()_3.md"
 type: "document"
-community: "Community 90"
+community: "Community 33"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_33
 ---
 
-# WildSpawner.spawnLane().md
+# WildSpawner.spawnLane()_3.md
 
 ## Connections
 - [[WildSpawner.luau_2_1]] - `references` [EXTRACTED]
-- [[WildSpawner.spawnLane()_4]] - `contains` [EXTRACTED]
+- [[WildSpawner.spawnLane()_3_1]] - `contains` [EXTRACTED]
+- [[WildSpawner.spawnLane()_4]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 33]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 90]] - `references` [EXTRACTED]
 - [[fillLane()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_33

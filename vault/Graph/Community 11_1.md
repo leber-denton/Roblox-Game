@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/Community 11.md"
 type: "document"
-community: "Community 358"
+community: "Community 3103"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_358
+  - community/Community_3103
 ---
 
 # Community 11.md
@@ -16,4 +16,4 @@ tags:
 - [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 254]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_358
+#graphify/document #graphify/EXTRACTED #community/Community_3103

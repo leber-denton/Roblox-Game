@@ -12,7 +12,7 @@ tags:
 # setModelHidden()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
 - [[startPlacing()]] - `calls` [EXTRACTED]
 - [[stopBuild()]] - `calls` [EXTRACTED]
 

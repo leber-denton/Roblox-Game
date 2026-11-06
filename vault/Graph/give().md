@@ -1,22 +1,22 @@
 ---
 source_file: "src/ServerScriptService/Modules/AdminService.luau"
 type: "code"
-community: "Community 17"
+community: "Community 16"
 location: "L56"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_17
+  - community/Community_16
 ---
 
 # give()
 
 ## Connections
-- [[AdminService.luau_3]] - `contains` [EXTRACTED]
+- [[AdminService.luau]] - `contains` [EXTRACTED]
 - [[BaseManager.addCreature()]] - `calls` [INFERRED]
 - [[BaseManager.newRecord()]] - `calls` [INFERRED]
 - [[commands.finishTutorial()]] - `calls` [EXTRACTED]
 - [[commands.give()]] - `calls` [EXTRACTED]
 - [[commands.opTeam()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_17
+#graphify/code #graphify/EXTRACTED #community/Community_16

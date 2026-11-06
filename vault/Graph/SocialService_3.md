@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/SocialService.md"
+source_file: "vault/Graph/SocialService_3.md"
 type: "document"
-community: "Community 396"
-location: "L12"
+community: "Community 588"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_396
+  - community/Community_588
 ---
 
-# SocialService
+# SocialService_3.md
 
 ## Connections
-- [[Connections_4138]] - `contains` [EXTRACTED]
-- [[GraphSocialService_2]] - `contains` [EXTRACTED]
+- [[SocialService_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 396]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 588]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_396
+#graphify/document #graphify/EXTRACTED #community/Community_588

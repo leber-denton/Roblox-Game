@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/GraphDecorUI_1.md"
+source_file: "vault/Graph/GraphDecorUI_2.md"
 type: "document"
-community: "Community 932"
-location: "L12"
+community: "Community 384"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_932
+  - community/Community_384
 ---
 
-# GraphDecorUI.md
+# GraphDecorUI_2.md
 
 ## Connections
-- [[Connections_6229]] - `contains` [EXTRACTED]
-- [[GraphDecorUI_1]] - `contains` [EXTRACTED]
+- [[GraphDecorUI_3]] - `contains` [EXTRACTED]
+- [[GraphDecorUI_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 384]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_932
+#graphify/document #graphify/EXTRACTED #community/Community_384

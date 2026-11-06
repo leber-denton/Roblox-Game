@@ -12,7 +12,7 @@ tags:
 # today()
 
 ## Connections
-- [[Functions_5]] - `references` [INFERRED]
+- [[Functions_15]] - `references` [INFERRED]
 - [[ProgressService.luau]] - `contains` [EXTRACTED]
 - [[checkDay()]] - `calls` [EXTRACTED]
 

@@ -12,7 +12,7 @@ tags:
 # toast()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
 - [[tryCommit()]] - `calls` [EXTRACTED]
 - [[tryPutAway()]] - `calls` [EXTRACTED]
 

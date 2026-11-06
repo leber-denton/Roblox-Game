@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/makeCard()_1.md"
+source_file: "vault/Graph/makeCard()_4.md"
 type: "document"
-community: "Community 138"
+community: "Community 755"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_755
 ---
 
-# makeCard().md
+# makeCard()
 
 ## Connections
-- [[Connections_1681]] - `contains` [EXTRACTED]
-- [[makeCard()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_22499]] - `contains` [EXTRACTED]
+- [[makeCard()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_755

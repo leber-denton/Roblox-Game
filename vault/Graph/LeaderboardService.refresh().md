@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[LeaderboardService.init()]] - `calls` [EXTRACTED]
-- [[LeaderboardService.luau_5]] - `contains` [EXTRACTED]
+- [[LeaderboardService.luau_8]] - `contains` [EXTRACTED]
 - [[draw()]] - `calls` [EXTRACTED]
 - [[nameOf()]] - `calls` [EXTRACTED]
 

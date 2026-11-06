@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/rivalChallenge()_1.md"
+source_file: "vault/Graph/rivalChallenge()_3.md"
 type: "document"
-community: "Community 1213"
-location: "L1"
+community: "Community 2100"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1213
+  - community/Community_2100
 ---
 
-# rivalChallenge()_1.md
+# rivalChallenge().md
 
 ## Connections
-- [[Connections_784_1]] - `references` [EXTRACTED]
-- [[rivalChallenge()_2]] - `contains` [EXTRACTED]
+- [[Connections_12408]] - `contains` [EXTRACTED]
+- [[rivalChallenge()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1213
+#graphify/document #graphify/EXTRACTED #community/Community_2100

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/lockPart()_2.md"
+source_file: "vault/Graph/lockPart()_4.md"
 type: "document"
-community: "Community 536"
-location: "L12"
+community: "Community 231"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_536
+  - community/Community_231
 ---
 
-# lockPart()
+# lockPart()_4.md
 
 ## Connections
-- [[Connections_4601]] - `contains` [EXTRACTED]
-- [[lockPart()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 231]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 536]] - `references` [EXTRACTED]
+- [[lockPart()_2_1]] - `references` [EXTRACTED]
+- [[lockPart()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_536
+#graphify/document #graphify/EXTRACTED #community/Community_231

@@ -1,24 +1,19 @@
 ---
-source_file: "vault/Graph/tabs.Robux().md"
+source_file: "vault/Graph/tabs.Robux()_1.md"
 type: "document"
-community: "Community 63"
+community: "Community 174"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_63
+  - community/Community_174
 ---
 
-# tabs.Robux().md
+# tabs.Robux()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[button()_3]] - `references` [EXTRACTED]
-- [[heading()_1]] - `references` [EXTRACTED]
-- [[label()_1_2]] - `references` [EXTRACTED]
-- [[listLayout()_1]] - `references` [EXTRACTED]
-- [[new()_3_3]] - `references` [EXTRACTED]
-- [[productPrice()_3]] - `references` [EXTRACTED]
-- [[tabs.Robux()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 174]] - `references` [EXTRACTED]
+- [[tabs.Robux()_1_2]] - `contains` [EXTRACTED]
+- [[tabs.Robux()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_63
+#graphify/document #graphify/EXTRACTED #community/Community_174

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/sync()_2.md"
+source_file: "vault/Graph/pickStarter()_5.md"
 type: "document"
-community: "Community 24"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[sync()_5]] - `contains` [EXTRACTED]
+- [[pickStarter()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1187

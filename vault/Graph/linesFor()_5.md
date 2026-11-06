@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/linesFor().md"
+source_file: "vault/Graph/linesFor()_5.md"
 type: "document"
-community: "Community 24"
-location: "L12"
+community: "Community 320"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_320
 ---
 
-# linesFor()
+# linesFor()_5.md
 
 ## Connections
-- [[Connections_3335]] - `contains` [EXTRACTED]
-- [[linesFor()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 24]] - `references` [EXTRACTED]
+- [[linesFor()_7]] - `contains` [EXTRACTED]
+- [[linesFor()_4_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_320

@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/getInventory()_2.md"
 type: "document"
-community: "Community 310"
+community: "Community 226"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_310
+  - community/Community_226
 ---
 
 # getInventory()_2.md
 
 ## Connections
-- [[Connections_3737]] - `contains` [EXTRACTED]
+- [[Connections_13170]] - `contains` [EXTRACTED]
 - [[getInventory()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_310
+#graphify/document #graphify/EXTRACTED #community/Community_226

@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/commands.newPlayer().md"
+source_file: "vault/Graph/commands.newPlayer()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2117"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2117
 ---
 
-# commands.newPlayer().md
+# commands.newPlayer()_3.md
 
 ## Connections
-- [[AdminService.luau_2_1]] - `references` [EXTRACTED]
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[BaseManager.removeCreature()_3]] - `references` [EXTRACTED]
-- [[BaseManager.spawnCFrame()_3]] - `references` [EXTRACTED]
-- [[PlayerData.get()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[commands.newPlayer()_4]] - `contains` [EXTRACTED]
+- [[commands.newPlayer()_5]] - `contains` [EXTRACTED]
+- [[commands.newPlayer()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2117

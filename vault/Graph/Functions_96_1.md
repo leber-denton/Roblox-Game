@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/Functions_96.md"
+source_file: "vault/Graph/Functions_96_1.md"
 type: "document"
-community: "Community 30"
+community: "Community 1626"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_1626
 ---
 
-# Functions_96.md
+# Functions_96_1.md
 
 ## Connections
-- [[AdminPanel_2_1]] - `references` [EXTRACTED]
-- [[Functions_106]] - `contains` [EXTRACTED]
-- [[load()_1]] - `references` [EXTRACTED]
-- [[nextOrder()_1]] - `references` [EXTRACTED]
-- [[toggle()_1]] - `references` [EXTRACTED]
+- [[Functions_96_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[load()_1_1]] - `references` [EXTRACTED]
+- [[nextOrder()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_1626

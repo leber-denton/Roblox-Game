@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/setColumns().md"
+source_file: "vault/Graph/setColumns()_2_1.md"
 type: "document"
-community: "Community 120"
+community: "Community 1051"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_120
+  - community/Community_1051
 ---
 
-# setColumns()
+# setColumns()_2.md
 
 ## Connections
-- [[Connections_1085]] - `contains` [EXTRACTED]
-- [[setColumns()_1]] - `contains` [EXTRACTED]
+- [[Connections_847]] - `contains` [EXTRACTED]
+- [[setColumns()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_120
+#graphify/document #graphify/EXTRACTED #community/Community_1051

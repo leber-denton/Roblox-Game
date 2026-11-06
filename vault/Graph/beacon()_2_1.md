@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/beacon()_2.md"
+source_file: "vault/Graph/beacon()_2_1.md"
 type: "document"
-community: "Community 292"
-location: "L12"
+community: "Community 577"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_577
 ---
 
-# beacon()_2.md
+# beacon()_2_1.md
 
 ## Connections
-- [[Connections_3598]] - `contains` [EXTRACTED]
-- [[beacon()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 292]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 53]] - `references` [EXTRACTED]
+- [[beacon()_1_1]] - `references` [EXTRACTED]
+- [[beacon()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_577

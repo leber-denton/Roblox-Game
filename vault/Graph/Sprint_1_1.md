@@ -12,8 +12,8 @@ tags:
 # Sprint_1_1.md
 
 ## Connections
-- [[Sprint_1_2]] - `contains` [EXTRACTED]
 - [[Sprint_1]] - `references` [EXTRACTED]
+- [[Sprint_1_1_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 141]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_141

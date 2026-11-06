@@ -12,7 +12,7 @@ tags:
 # firstPropCopy()
 
 ## Connections
-- [[Connections_1602]] - `contains` [EXTRACTED]
+- [[Connections_6583]] - `contains` [EXTRACTED]
 - [[firstPropCopy()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_136

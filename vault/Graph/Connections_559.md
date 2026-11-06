@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_376.md"
+source_file: "vault/Graph/banner()_1.md"
 type: "document"
-community: "Community 1175"
-location: "L12"
+community: "Community 1034"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1175
+  - community/Community_1034
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_560]] - `contains` [EXTRACTED]
-- [[Connections_376_1]] - `contains` [EXTRACTED]
+- [[banner()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1175
+#graphify/document #graphify/EXTRACTED #community/Community_1034

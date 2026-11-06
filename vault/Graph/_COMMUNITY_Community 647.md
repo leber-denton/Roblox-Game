@@ -1,15 +1,18 @@
 ---
 type: community
-members: 2
+members: 5
 ---
 
 # Community 647
 
-**Members:** 2 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_4919]] - document - vault/Graph/Connections_842.md
-- [[Connections_4920]] - document - vault/Graph/Connections_842.md
+- [[Community 414]] - document - vault/Graph/_COMMUNITY_Community 414.md
+- [[Connections to other communities_1454]] - document - vault/Graph/_COMMUNITY_Community 414.md
+- [[Live Query (requires Dataview plugin)_1705]] - document - vault/Graph/_COMMUNITY_Community 414.md
+- [[Members_1705]] - document - vault/Graph/_COMMUNITY_Community 414.md
+- [[Top bridge nodes_1451]] - document - vault/Graph/_COMMUNITY_Community 414.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 1 edge to [[_COMMUNITY_Community 107]]
 
 ## Top bridge nodes
-- [[Connections_4919]] - degree 2, connects to 1 community
+- [[Community 414]] - degree 5, connects to 1 community

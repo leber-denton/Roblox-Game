@@ -1,16 +1,18 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 14"
+source_file: "vault/Graph/script_parent_tutorialservice_1.md"
+type: "document"
+community: "Community 1674"
+location: "L12"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_14
+  - community/Community_1674
 ---
 
 # script_parent_tutorialservice
 
 ## Connections
-- [[StoryService.luau]] - `imports` [EXTRACTED]
+- [[Connections_9398]] - `contains` [EXTRACTED]
+- [[script_parent_tutorialservice_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_14
+#graphify/document #graphify/EXTRACTED #community/Community_1674

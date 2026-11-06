@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Graph/nameHits()_2.md"
+source_file: "vault/Graph/nameHits()_2_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 112"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_112
 ---
 
-# nameHits()_2.md
+# nameHits()_2_1.md
 
 ## Connections
-- [[Connections_336_1]] - `references` [EXTRACTED]
+- [[Connections_275_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[nameHits()_4]] - `contains` [EXTRACTED]
-- [[nameHits()_1_1]] - `references` [EXTRACTED]
+- [[nameHits()_1_3]] - `references` [EXTRACTED]
+- [[nameHits()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_112

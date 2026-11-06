@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Code/AdminPanel.md"
+source_file: "vault/Graph/Functions_98.md"
 type: "document"
-community: "Community 3"
-location: "L10"
+community: "Community 1129"
+location: "L1"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_3
+  - graphify/EXTRACTED
+  - community/Community_1129
 ---
 
-# Functions
+# Functions_98.md
 
 ## Connections
-- [[AdminPanel_2]] - `contains` [EXTRACTED]
-- [[load()]] - `references` [INFERRED]
-- [[nextOrder()]] - `references` [INFERRED]
-- [[toggle()]] - `references` [INFERRED]
+- [[Connections_1629_1]] - `references` [EXTRACTED]
+- [[Functions_98_2]] - `contains` [EXTRACTED]
+- [[Functions_98_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1129]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_3
+#graphify/document #graphify/EXTRACTED #community/Community_1129

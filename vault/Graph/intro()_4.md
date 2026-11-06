@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/intro()_2.md"
+source_file: "vault/Graph/intro()_5.md"
 type: "document"
 community: "Community 240"
 location: "L12"
@@ -9,10 +9,10 @@ tags:
   - community/Community_240
 ---
 
-# intro()
+# intro().md
 
 ## Connections
-- [[Connections_3399]] - `contains` [EXTRACTED]
-- [[intro()_2]] - `contains` [EXTRACTED]
+- [[Connections_13891]] - `contains` [EXTRACTED]
+- [[intro()_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_240

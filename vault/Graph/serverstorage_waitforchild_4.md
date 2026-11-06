@@ -1,16 +1,18 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 83"
+source_file: "vault/Graph/serverstorage_waitforchild.md"
+type: "document"
+community: "Community 1671"
+location: "L12"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_83
+  - community/Community_1671
 ---
 
-# serverstorage_waitforchild
+# serverstorage_waitforchild.md
 
 ## Connections
-- [[Showcase.server.luau_4]] - `imports` [EXTRACTED]
+- [[Connections_9388]] - `contains` [EXTRACTED]
+- [[serverstorage_waitforchild]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_83
+#graphify/document #graphify/EXTRACTED #community/Community_1671

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/ColiseumService.luau.md"
+source_file: "vault/Graph/ColiseumService.luau_5.md"
 type: "document"
-community: "Community 567"
-location: "L12"
+community: "Community 639"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_567
+  - community/Community_639
 ---
 
-# ColiseumService.luau
+# ColiseumService.luau_5.md
 
 ## Connections
-- [[ColiseumService.luau_4]] - `contains` [EXTRACTED]
-- [[Connections_4694]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_6]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 567]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_567
+#graphify/document #graphify/EXTRACTED #community/Community_639

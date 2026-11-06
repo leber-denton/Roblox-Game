@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/clearBody()_1.md"
+source_file: "vault/Graph/Requires_5.md"
 type: "document"
-community: "Community 195"
+community: "Community 1155"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_1155
 ---
 
 # Connections
 
 ## Connections
-- [[clearBody()_3]] - `contains` [EXTRACTED]
+- [[Requires_21]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_1155

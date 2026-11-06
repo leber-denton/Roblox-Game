@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/CodeDecorUI.md"
+source_file: "vault/Graph/Connections_3428.md"
 type: "document"
-community: "Community 566"
-location: "L14"
+community: "Community 1263"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_566
+  - community/Community_1263
 ---
 
 # Connections
 
 ## Connections
-- [[CodeDecorUI_2]] - `contains` [EXTRACTED]
+- [[Connections_4694]] - `contains` [EXTRACTED]
+- [[Connections_3428_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_566
+#graphify/document #graphify/EXTRACTED #community/Community_1263

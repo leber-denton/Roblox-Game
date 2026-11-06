@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/TutorialService.onShop()_2.md"
+source_file: "vault/Graph/TutorialService.onShop().md"
 type: "document"
-community: "Community 134"
+community: "Community 276"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_276
 ---
 
-# TutorialService.onShop()_2.md
+# TutorialService.onShop().md
 
 ## Connections
-- [[TutorialService.onShop()_1]] - `references` [EXTRACTED]
-- [[TutorialService.onShop()_2_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[TutorialService.onShop()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
+- [[dialogue()_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_276

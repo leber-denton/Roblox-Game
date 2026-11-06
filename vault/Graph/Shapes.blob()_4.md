@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Shapes.blob()_2.md"
+source_file: "vault/Graph/Shapes.blob()_4.md"
 type: "document"
-community: "Community 459"
-location: "L12"
+community: "Community 390"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_459
+  - community/Community_390
 ---
 
-# Shapes.blob()
+# Shapes.blob()_4.md
 
 ## Connections
-- [[Connections_4319]] - `contains` [EXTRACTED]
-- [[Shapes.blob()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_4320_1]] - `references` [EXTRACTED]
+- [[Shapes.blob()_6]] - `contains` [EXTRACTED]
+- [[Shapes.blob()_2_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_459
+#graphify/document #graphify/EXTRACTED #community/Community_390

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/serialize().md"
+source_file: "vault/Graph/serialize()_2_1.md"
 type: "document"
-community: "Community 88"
+community: "Community 2724"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_2724
 ---
 
-# serialize()
+# serialize()_2.md
 
 ## Connections
-- [[Connections_5957]] - `contains` [EXTRACTED]
-- [[serialize()_1]] - `contains` [EXTRACTED]
+- [[Connections_15211]] - `contains` [EXTRACTED]
+- [[serialize()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_88
+#graphify/document #graphify/EXTRACTED #community/Community_2724

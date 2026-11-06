@@ -12,8 +12,10 @@ tags:
 # new()_2_1.md
 
 ## Connections
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 234]] - `references` [EXTRACTED]
-- [[new()_2_2]] - `contains` [EXTRACTED]
+- [[new()_2_1_1]] - `contains` [EXTRACTED]
+- [[new()_2_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_122

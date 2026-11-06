@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/syncHistory()_2.md"
+source_file: "vault/Graph/syncHistory()_2_1.md"
 type: "document"
-community: "Community 412"
-location: "L12"
+community: "Community 2788"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_412
+  - community/Community_2788
 ---
 
-# syncHistory()_2.md
+# syncHistory()_2_1.md
 
 ## Connections
-- [[Connections_4204]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 412]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
+- [[syncHistory()_1_1]] - `references` [EXTRACTED]
 - [[syncHistory()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_412
+#graphify/document #graphify/EXTRACTED #community/Community_2788

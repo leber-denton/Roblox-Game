@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/Sprint.client.luau_2.md"
+source_file: "vault/Graph/Sprint.client.luau_3.md"
 type: "document"
-community: "Community 192"
-location: "L12"
+community: "Community 1034"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_192
+  - community/Community_1034
 ---
 
-# Sprint.client.luau.md
+# Sprint.client.luau_3.md
 
 ## Connections
-- [[Connections_2829]] - `contains` [EXTRACTED]
-- [[Sprint.client.luau_2_1]] - `contains` [EXTRACTED]
+- [[Connections_2829]] - `references` [EXTRACTED]
+- [[Sprint.client.luau]] - `references` [EXTRACTED]
+- [[Sprint.client.luau_2_1]] - `references` [EXTRACTED]
+- [[Sprint.client.luau_3_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1034]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 192]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_192
+#graphify/document #graphify/EXTRACTED #community/Community_1034

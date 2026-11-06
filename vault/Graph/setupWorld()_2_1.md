@@ -1,18 +1,19 @@
 ---
 source_file: "vault/Graph/setupWorld()_2.md"
 type: "document"
-community: "Community 661"
+community: "Community 320"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_661
+  - community/Community_320
 ---
 
 # setupWorld()_2.md
 
 ## Connections
-- [[Connections_875_1]] - `references` [EXTRACTED]
-- [[setupWorld()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 24]] - `references` [EXTRACTED]
+- [[setupWorld()_6]] - `contains` [EXTRACTED]
+- [[setupWorld()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_661
+#graphify/document #graphify/EXTRACTED #community/Community_320

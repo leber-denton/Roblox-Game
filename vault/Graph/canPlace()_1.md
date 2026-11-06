@@ -1,31 +1,18 @@
 ---
-source_file: "vault/Graph/canPlace().md"
+source_file: "vault/Graph/canPlace()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 2102"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2102
 ---
 
-# canPlace().md
+# canPlace()_1.md
 
 ## Connections
-- [[BaseManager.getBase()_3]] - `references` [EXTRACTED]
-- [[BaseManager.isExpansionUnlocked()_3]] - `references` [EXTRACTED]
-- [[DecorData.footprint()_1]] - `references` [EXTRACTED]
-- [[DecorData.inBounds()_1]] - `references` [EXTRACTED]
-- [[DecorData.toLocal()_1]] - `references` [EXTRACTED]
-- [[DecorData.toWorld()_1]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[DecorService.onLoaded()_5]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.move()_3]] - `references` [EXTRACTED]
-- [[actions.place()_3]] - `references` [EXTRACTED]
-- [[canPlace()_2]] - `contains` [EXTRACTED]
-- [[collectStatic()_4]] - `references` [EXTRACTED]
-- [[floorOf()_3]] - `references` [EXTRACTED]
-- [[overlaps()_2]] - `references` [EXTRACTED]
+- [[canPlace()_3]] - `contains` [EXTRACTED]
+- [[canPlace()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2102

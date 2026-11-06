@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/exclaim().md"
+source_file: "vault/Graph/exclaim()_5.md"
 type: "document"
-community: "Community 276"
-location: "L12"
+community: "Community 1187"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_276
+  - community/Community_1187
 ---
 
-# exclaim()
+# exclaim()_5.md
 
 ## Connections
-- [[Connections_3552]] - `contains` [EXTRACTED]
-- [[exclaim()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 276]] - `references` [EXTRACTED]
+- [[exclaim()_4]] - `references` [EXTRACTED]
+- [[exclaim()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_276
+#graphify/document #graphify/EXTRACTED #community/Community_1187

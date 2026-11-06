@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/TutorialService.resumeGuide()_2.md"
+source_file: "vault/Graph/TutorialService.resumeGuide().md"
 type: "document"
-community: "Community 134"
-location: "L1"
+community: "Community 276"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_276
 ---
 
-# TutorialService.resumeGuide()_2.md
+# TutorialService.resumeGuide()
 
 ## Connections
-- [[TutorialService.resumeGuide()_4]] - `contains` [EXTRACTED]
-- [[TutorialService.resumeGuide()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[Connections_15380]] - `contains` [EXTRACTED]
+- [[TutorialService.resumeGuide()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_276

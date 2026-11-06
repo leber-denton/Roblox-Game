@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CodeAdminService.md"
+source_file: "vault/Graph/Connections_496.md"
 type: "document"
-community: "Community 119"
+community: "Community 1034"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_119
+  - community/Community_1034
 ---
 
 # Connections
 
 ## Connections
-- [[CodeAdminService_1]] - `contains` [EXTRACTED]
+- [[Connections_600]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_119
+#graphify/document #graphify/EXTRACTED #community/Community_1034

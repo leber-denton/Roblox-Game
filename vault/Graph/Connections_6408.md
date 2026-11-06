@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CodeBaseManager.md"
+source_file: "vault/Graph/Connections_4992.md"
 type: "document"
-community: "Community 996"
+community: "Community 135"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_996
+  - community/Community_135
 ---
 
 # Connections
 
 ## Connections
-- [[CodeBaseManager_2]] - `contains` [EXTRACTED]
+- [[Connections_4992_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_996
+#graphify/document #graphify/EXTRACTED #community/Community_135

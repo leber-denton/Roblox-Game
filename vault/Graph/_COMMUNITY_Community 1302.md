@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 1302
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_1369]] - document - vault/Graph/Members_25.md
-- [[Members_95]] - document - vault/Graph/Members_25.md
-- [[Members_25_1]] - document - vault/Graph/Members_25.md
+- [[Connections_5299]] - document - vault/Graph/Connections_3383.md
+- [[Connections_5300]] - document - vault/Graph/Connections_3383.md
+- [[Connections_5301]] - document - vault/Graph/openLanes()_2.md
+- [[Connections_3383_1]] - document - vault/Graph/Connections_3383.md
+- [[openLanes()_1]] - document - vault/Graph/openLanes()_2.md
+- [[openLanes()_2]] - document - vault/Graph/openLanes()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +23,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 576]]
+- 2 edges to [[_COMMUNITY_Community 292]]
+- 1 edge to [[_COMMUNITY_Community 577]]
 
 ## Top bridge nodes
-- [[Members_25_1]] - degree 2, connects to 1 community
+- [[openLanes()_2]] - degree 4, connects to 2 communities
+- [[Connections_3383_1]] - degree 3, connects to 1 community

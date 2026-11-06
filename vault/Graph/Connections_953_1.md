@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/Connections_953.md"
+source_file: "vault/Graph/Connections_953_1.md"
 type: "document"
-community: "Community 12"
-location: "L12"
+community: "Community 227"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_227
 ---
 
-# Connections_953.md
+# Connections_953_1.md
 
 ## Connections
-- [[Connections_992]] - `contains` [EXTRACTED]
-- [[Connections_953]] - `contains` [EXTRACTED]
+- [[BaseManager.healAll()_2]] - `references` [EXTRACTED]
+- [[Connections_312_1]] - `references` [EXTRACTED]
+- [[Connections_953_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_227

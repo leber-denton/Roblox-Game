@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
-- [[ownerOf()_3]] - `contains` [EXTRACTED]
+- [[ownerOf()_1_1]] - `contains` [EXTRACTED]
 - [[ownerOf()_2]] - `references` [EXTRACTED]
+- [[ownerOf()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_152

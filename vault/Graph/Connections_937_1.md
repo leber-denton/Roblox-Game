@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/Connections_937.md"
+source_file: "vault/Graph/Connections_937_1.md"
 type: "document"
 community: "Community 127"
 location: "L1"
@@ -9,10 +9,10 @@ tags:
   - community/Community_127
 ---
 
-# Connections_937.md
+# Connections_937_1.md
 
 ## Connections
-- [[Connections_1321]] - `contains` [EXTRACTED]
+- [[Connections_937_1_1]] - `contains` [EXTRACTED]
 - [[HavocBlimpFlight_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 127]] - `references` [EXTRACTED]
 

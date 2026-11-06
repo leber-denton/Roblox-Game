@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.spines()_2.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_94.md"
 type: "document"
-community: "Community 739"
+community: "Community 1293"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_739
+  - community/Community_1293
 ---
 
 # Connections
 
 ## Connections
-- [[Features.spines()_4]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_407]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_739
+#graphify/document #graphify/EXTRACTED #community/Community_1293

@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/processReceipt().md"
+source_file: "vault/Graph/processReceipt()_1.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 3663"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3663
 ---
 
 # processReceipt().md
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[SaveService.save()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[giveProduct()_4]] - `references` [EXTRACTED]
-- [[processReceipt()_4]] - `contains` [EXTRACTED]
-- [[sync()_9]] - `references` [EXTRACTED]
+- [[Connections_18101]] - `contains` [EXTRACTED]
+- [[processReceipt()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3663

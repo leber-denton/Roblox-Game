@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/fakeNew().md"
+source_file: "vault/Graph/fakeNew()_2.md"
 type: "document"
-community: "Community 173"
-location: "L1"
+community: "Community 2101"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_173
+  - community/Community_2101
 ---
 
 # fakeNew().md
 
 ## Connections
-- [[TutorialCompletion.spec.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 62]] - `references` [EXTRACTED]
-- [[fakeNew()_4]] - `contains` [EXTRACTED]
+- [[Connections_12416]] - `contains` [EXTRACTED]
+- [[fakeNew()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_173
+#graphify/document #graphify/EXTRACTED #community/Community_2101

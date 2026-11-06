@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/offerBox()_2.md"
+source_file: "vault/Graph/Connections_1620.md"
 type: "document"
-community: "Community 168"
+community: "Community 1128"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1128
 ---
 
 # Connections
 
 ## Connections
-- [[offerBox()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_2341]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1128

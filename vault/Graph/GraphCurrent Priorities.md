@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/GraphCurrent Priorities.md"
+source_file: "vault/Graph/Current Priorities.md"
 type: "document"
-community: "Community 467"
+community: "Community 119"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_467
+  - community/Community_119
 ---
 
-# GraphCurrent Priorities.md
+# Graph/Current Priorities.md
 
 ## Connections
-- [[GraphCurrent Priorities_2]] - `contains` [EXTRACTED]
-- [[GraphCurrent Priorities_1]] - `references` [EXTRACTED]
-- [[GraphIndex]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 313]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 32]] - `references` [EXTRACTED]
+- [[Current Priorities]] - `contains` [EXTRACTED]
+- [[TodoCurrent Priorities]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_467
+#graphify/document #graphify/EXTRACTED #community/Community_119

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.cleanIVs()_2.md"
+source_file: "vault/Graph/Connections_614.md"
 type: "document"
-community: "Community 12"
+community: "Community 1042"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1042
 ---
 
 # Connections
 
 ## Connections
-- [[BattleData.cleanIVs()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_711]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1042

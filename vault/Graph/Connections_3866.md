@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_587.md"
+source_file: "vault/Graph/burst()_6.md"
 type: "document"
-community: "Community 324"
-location: "L12"
+community: "Community 122"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_324
+  - community/Community_122
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_3867]] - `contains` [EXTRACTED]
-- [[Connections_587_1]] - `contains` [EXTRACTED]
+- [[burst()_6_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_324
+#graphify/document #graphify/EXTRACTED #community/Community_122

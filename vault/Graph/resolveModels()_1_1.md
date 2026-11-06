@@ -12,7 +12,7 @@ tags:
 # resolveModels()_1.md
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `references` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 - [[handle()_1_1]] - `references` [EXTRACTED]

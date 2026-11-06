@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/WeeklyEventService.luau.md"
+source_file: "vault/Graph/WeeklyEventService.luau_5.md"
 type: "document"
 community: "Community 144"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,12 +12,7 @@ tags:
 # WeeklyEventService.luau.md
 
 ## Connections
-- [[GameData.luau]] - `references` [EXTRACTED]
-- [[Main.server.luau]] - `references` [EXTRACTED]
-- [[WeeklyEventService.luau_4]] - `contains` [EXTRACTED]
-- [[WeeklyEventService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
-- [[script_parent_rareeventservice]] - `references` [EXTRACTED]
+- [[Connections_7478]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.luau_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_144

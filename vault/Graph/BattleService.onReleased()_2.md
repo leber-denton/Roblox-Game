@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[BattleService.onReleased()_1]] - `references` [EXTRACTED]
-- [[BattleService.onReleased()_2_1]] - `contains` [EXTRACTED]
+- [[BattleService.onReleased()_2_3]] - `contains` [EXTRACTED]
+- [[BattleService.onReleased()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 241]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
 

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/addRegion()_1.md"
+source_file: "vault/Graph/Connections_2774.md"
 type: "document"
-community: "Community 542"
-location: "L14"
+community: "Community 1256"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_542
+  - community/Community_1256
 ---
 
 # Connections
 
 ## Connections
-- [[addRegion()_3]] - `contains` [EXTRACTED]
+- [[Connections_4618]] - `contains` [EXTRACTED]
+- [[Connections_2774_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_542
+#graphify/document #graphify/EXTRACTED #community/Community_1256

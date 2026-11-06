@@ -12,7 +12,7 @@ tags:
 # firstPropCopy().md
 
 ## Connections
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 70]] - `references` [EXTRACTED]
 - [[firstPropCopy()_2]] - `contains` [EXTRACTED]
 - [[resolve()_1]] - `references` [EXTRACTED]
 - [[sourceOf()_1]] - `references` [EXTRACTED]

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/challenge().md"
+source_file: "vault/Graph/Required by_95.md"
 type: "document"
-community: "Community 86"
+community: "Community 1329"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1329
 ---
 
 # Connections
 
 ## Connections
-- [[challenge()_8]] - `contains` [EXTRACTED]
+- [[Required by_95_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1329

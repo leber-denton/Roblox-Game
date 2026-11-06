@@ -12,8 +12,8 @@ tags:
 # AdminService_1_1.md
 
 ## Connections
-- [[AdminService_1_2]] - `contains` [EXTRACTED]
 - [[AdminService_1]] - `references` [EXTRACTED]
+- [[AdminService_1_1_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 145]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_145

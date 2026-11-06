@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleFX.statusEffect().md"
+source_file: "vault/Graph/Connections_911_1.md"
 type: "document"
-community: "Community 21"
+community: "Community 1174"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_1174
 ---
 
 # Connections
 
 ## Connections
-- [[BattleFX.statusEffect()_2]] - `contains` [EXTRACTED]
+- [[Connections_911_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_1174

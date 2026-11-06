@@ -1,23 +1,31 @@
 ---
 type: community
-members: 10
+members: 18
 ---
 
 # Community 565
 
-**Members:** 10 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Connections_4686]] - document - vault/Graph/Connections_991.md
-- [[Connections_4687]] - document - vault/Graph/Connections_991.md
-- [[Connections_4688]] - document - vault/Graph/Connections_992.md
-- [[Connections_4689]] - document - vault/Graph/Connections_992.md
-- [[Connections_4690]] - document - vault/Graph/Connections_993.md
-- [[Connections_4691]] - document - vault/Graph/Connections_993.md
-- [[Connections_991_1]] - document - vault/Graph/Connections_991.md
-- [[Connections_992_1]] - document - vault/Graph/Connections_992.md
-- [[Connections_993_1]] - document - vault/Graph/Connections_993.md
-- [[_COMMUNITY_Community 131]] - document - vault/Graph/_COMMUNITY_Community 131.md
+- [[Connections_20787]] - document - vault/Graph/Connections_4299.md
+- [[Connections_20788]] - document - vault/Graph/Connections_4299.md
+- [[Connections_20789]] - document - vault/Graph/Connections_4300.md
+- [[Connections_20790]] - document - vault/Graph/Connections_4300.md
+- [[Connections_20791]] - document - vault/Graph/Features.flower()_1.md
+- [[Connections_20792]] - document - vault/Graph/Features.flower()_2.md
+- [[Connections_20793]] - document - vault/Graph/Features.flower()_3.md
+- [[Connections_20794]] - document - vault/Graph/Features.flower()_4.md
+- [[Connections_4299_1]] - document - vault/Graph/Connections_4299.md
+- [[Connections_4300_1]] - document - vault/Graph/Connections_4300.md
+- [[Features.flower()_6]] - document - vault/Graph/Features.flower()_4.md
+- [[Features.flower()_5]] - document - vault/Graph/Features.flower()_3.md
+- [[Features.flower()_1_3]] - document - vault/Graph/Features.flower()_1.md
+- [[Features.flower()_1_4]] - document - vault/Graph/Features.flower()_1.md
+- [[Features.flower()_2_3]] - document - vault/Graph/Features.flower()_2.md
+- [[Features.flower()_2_4]] - document - vault/Graph/Features.flower()_2.md
+- [[Features.flower()_3]] - document - vault/Graph/Features.flower()_3.md
+- [[Features.flower()_4]] - document - vault/Graph/Features.flower()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,13 +35,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 131]]
-- 2 edges to [[_COMMUNITY_Community 844]]
-- 2 edges to [[_COMMUNITY_Community 845]]
-- 1 edge to [[_COMMUNITY_Community 1275]]
-- 1 edge to [[_COMMUNITY_Community 1283]]
-- 1 edge to [[_COMMUNITY_Community 427]]
-- 1 edge to [[_COMMUNITY_Community 879]]
+- 6 edges to [[_COMMUNITY_Community 410]]
+- 3 edges to [[_COMMUNITY_Community 176]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 131]] - degree 14, connects to 7 communities
+- [[Features.flower()_1_3]] - degree 6, connects to 2 communities
+- [[Features.flower()_2_3]] - degree 5, connects to 2 communities
+- [[Features.flower()_3]] - degree 4, connects to 1 community
+- [[Features.flower()_4]] - degree 4, connects to 1 community
+- [[Connections_4299_1]] - degree 3, connects to 1 community

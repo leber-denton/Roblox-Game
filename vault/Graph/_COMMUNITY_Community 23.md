@@ -1,58 +1,40 @@
 ---
 type: community
-members: 45
+members: 27
 ---
 
 # Community 23
 
-**Members:** 45 nodes
+**Members:** 27 nodes
 
 ## Members
-- [[Connections_3248]] - document - vault/Graph/aimRay().md
-- [[Connections_3249]] - document - vault/Graph/clearContent().md
-- [[Connections_3250]] - document - vault/Graph/Functions_72.md
-- [[Connections_3251]] - document - vault/Graph/myBase().md
-- [[Connections_3252]] - document - vault/Graph/placedCount()_1.md
-- [[Connections_3253]] - document - vault/Graph/placedModel().md
-- [[Connections_3254]] - document - vault/Graph/rebuildBar().md
-- [[Connections_3255]] - document - vault/Graph/setModelHidden().md
-- [[Connections_3256]] - document - vault/Graph/startPicking().md
-- [[Connections_3257]] - document - vault/Graph/startPlacing().md
-- [[Connections_3258]] - document - vault/Graph/stopBuild().md
-- [[Connections_3259]] - document - vault/Graph/toast().md
-- [[Connections_3260]] - document - vault/Graph/tryCommit().md
-- [[Connections_3261]] - document - vault/Graph/tryPick().md
-- [[Connections_3262]] - document - vault/Graph/tryPutAway().md
-- [[Functions_79]] - document - vault/Graph/Functions_72.md
-- [[Functions_72_1]] - document - vault/Graph/Functions_72.md
-- [[aimRay()_2]] - document - vault/Graph/aimRay().md
-- [[aimRay()_1]] - document - vault/Graph/aimRay().md
-- [[clearContent()_2]] - document - vault/Graph/clearContent().md
-- [[clearContent()_1]] - document - vault/Graph/clearContent().md
-- [[myBase()_2]] - document - vault/Graph/myBase().md
-- [[myBase()_1]] - document - vault/Graph/myBase().md
-- [[placedCount()_6]] - document - vault/Graph/placedCount()_1.md
-- [[placedCount()_1_1]] - document - vault/Graph/placedCount()_1.md
-- [[placedModel()_4]] - document - vault/Graph/placedModel().md
-- [[placedModel()_3]] - document - vault/Graph/placedModel().md
-- [[rebuildBar()_4]] - document - vault/Graph/rebuildBar().md
-- [[rebuildBar()_3]] - document - vault/Graph/rebuildBar().md
-- [[setModelHidden()_4]] - document - vault/Graph/setModelHidden().md
-- [[setModelHidden()_3]] - document - vault/Graph/setModelHidden().md
-- [[startPicking()_4]] - document - vault/Graph/startPicking().md
-- [[startPicking()_3]] - document - vault/Graph/startPicking().md
-- [[startPlacing()_4]] - document - vault/Graph/startPlacing().md
-- [[startPlacing()_3]] - document - vault/Graph/startPlacing().md
-- [[stopBuild()_4]] - document - vault/Graph/stopBuild().md
-- [[stopBuild()_3]] - document - vault/Graph/stopBuild().md
-- [[toast()_2]] - document - vault/Graph/toast().md
-- [[toast()_1]] - document - vault/Graph/toast().md
-- [[tryCommit()_2]] - document - vault/Graph/tryCommit().md
-- [[tryCommit()_1]] - document - vault/Graph/tryCommit().md
-- [[tryPick()_2]] - document - vault/Graph/tryPick().md
-- [[tryPick()_1]] - document - vault/Graph/tryPick().md
-- [[tryPutAway()_2]] - document - vault/Graph/tryPutAway().md
-- [[tryPutAway()_1]] - document - vault/Graph/tryPutAway().md
+- [[Connections_13381]] - document - vault/Graph/canAnyoneEnter().md
+- [[Connections_13382]] - document - vault/Graph/commands.clearWild().md
+- [[Connections_13383]] - document - vault/Graph/Functions_148.md
+- [[Connections_13384]] - document - vault/Graph/refreshActiveLanes().md
+- [[Connections_13385]] - document - vault/Graph/WildSpawner.canReplace().md
+- [[Connections_13386]] - document - vault/Graph/WildSpawner.clear().md
+- [[Connections_13387]] - document - vault/Graph/WildSpawner.clearLane().md
+- [[Connections_13388]] - document - vault/Graph/WildSpawner.getHotZone().md
+- [[Connections_13389]] - document - vault/Graph/WildSpawner.shift().md
+- [[Functions_150]] - document - vault/Graph/Functions_148.md
+- [[Functions_148]] - document - vault/Graph/Functions_148.md
+- [[WildSpawner.canReplace()_4]] - document - vault/Graph/WildSpawner.canReplace().md
+- [[WildSpawner.canReplace()_3]] - document - vault/Graph/WildSpawner.canReplace().md
+- [[WildSpawner.clear()_4]] - document - vault/Graph/WildSpawner.clear().md
+- [[WildSpawner.clear()_3]] - document - vault/Graph/WildSpawner.clear().md
+- [[WildSpawner.clearLane()_4]] - document - vault/Graph/WildSpawner.clearLane().md
+- [[WildSpawner.clearLane()_3]] - document - vault/Graph/WildSpawner.clearLane().md
+- [[WildSpawner.getHotZone()_6]] - document - vault/Graph/WildSpawner.getHotZone().md
+- [[WildSpawner.getHotZone()_5]] - document - vault/Graph/WildSpawner.getHotZone().md
+- [[WildSpawner.shift()_4]] - document - vault/Graph/WildSpawner.shift().md
+- [[WildSpawner.shift()_3]] - document - vault/Graph/WildSpawner.shift().md
+- [[canAnyoneEnter()_6]] - document - vault/Graph/canAnyoneEnter().md
+- [[canAnyoneEnter()_5]] - document - vault/Graph/canAnyoneEnter().md
+- [[commands.clearWild()_4]] - document - vault/Graph/commands.clearWild().md
+- [[commands.clearWild()_3]] - document - vault/Graph/commands.clearWild().md
+- [[refreshActiveLanes()_6]] - document - vault/Graph/refreshActiveLanes().md
+- [[refreshActiveLanes()_5]] - document - vault/Graph/refreshActiveLanes().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -62,15 +44,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 15 edges to [[_COMMUNITY_Community 98]]
-- 9 edges to [[_COMMUNITY_Community 63]]
-- 2 edges to [[_COMMUNITY_Community 310]]
-- 1 edge to [[_COMMUNITY_Community 109]]
-- 1 edge to [[_COMMUNITY_Community 439]]
+- 9 edges to [[_COMMUNITY_Community 33]]
+- 1 edge to [[_COMMUNITY_Community 225]]
+- 1 edge to [[_COMMUNITY_Community 276]]
 
 ## Top bridge nodes
-- [[Functions_72_1]] - degree 14, connects to 3 communities
-- [[startPlacing()_3]] - degree 9, connects to 3 communities
-- [[aimRay()_1]] - degree 7, connects to 3 communities
-- [[clearContent()_1]] - degree 5, connects to 3 communities
-- [[stopBuild()_3]] - degree 11, connects to 2 communities
+- [[commands.clearWild()_3]] - degree 4, connects to 2 communities
+- [[canAnyoneEnter()_5]] - degree 4, connects to 2 communities
+- [[refreshActiveLanes()_5]] - degree 6, connects to 1 community
+- [[WildSpawner.canReplace()_3]] - degree 4, connects to 1 community
+- [[WildSpawner.clearLane()_3]] - degree 4, connects to 1 community

@@ -12,7 +12,7 @@ tags:
 # syncRank()
 
 ## Connections
-- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[finishRanked()]] - `calls` [EXTRACTED]
 - [[recordFor()]] - `calls` [EXTRACTED]
 - [[tier()]] - `calls` [EXTRACTED]

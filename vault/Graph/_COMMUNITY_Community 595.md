@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_4750]] - document - vault/Graph/Testing_1.md
-- [[Connections_4751]] - document - vault/Graph/Testing_2.md
-- [[Testing_1]] - document - vault/Graph/Testing_1.md
-- [[Testing_1_1]] - document - vault/Graph/Testing_1.md
-- [[Testing_2]] - document - vault/Graph/Testing_2.md
-- [[Testing_2_1]] - document - vault/Graph/Testing_2.md
+- [[Connections_21154]] - document - vault/Graph/Connections_4750.md
+- [[Connections_21155]] - document - vault/Graph/Connections_4750.md
+- [[Connections_21156]] - document - vault/Graph/Connections_4751.md
+- [[Connections_21157]] - document - vault/Graph/Connections_4751.md
+- [[Connections_4750_1]] - document - vault/Graph/Connections_4750.md
+- [[Connections_4751_1]] - document - vault/Graph/Connections_4751.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,10 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 500]]
-- 1 edge to [[_COMMUNITY_Community 592]]
-- 1 edge to [[_COMMUNITY_Community 96]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[Testing_1]] - degree 5, connects to 3 communities
-- [[Testing_2]] - degree 3, connects to 1 community
+- [[Connections_4750_1]] - degree 3, connects to 1 community
+- [[Connections_4751_1]] - degree 3, connects to 1 community

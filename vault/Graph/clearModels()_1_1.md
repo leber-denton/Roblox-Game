@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/clearModels()_1_1.md"
+source_file: "vault/Graph/clearModels()_1.md"
 type: "document"
-community: "Community 134"
+community: "Community 276"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_276
 ---
 
-# clearModels()_1_1.md
+# clearModels()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
-- [[clearModels()_1_2]] - `contains` [EXTRACTED]
+- [[TutorialService.start()_6]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
+- [[clearModels()_3]] - `contains` [EXTRACTED]
+- [[startNibbit()_6]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_276

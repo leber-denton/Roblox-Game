@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/Functions_56.md"
 type: "document"
-community: "Community 51"
-location: "L1"
+community: "Community 1034"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_51
+  - community/Community_1034
 ---
 
 # Functions_56.md
 
 ## Connections
-- [[Functions_148]] - `contains` [EXTRACTED]
-- [[GraphBattleData_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 25]] - `references` [EXTRACTED]
+- [[Connections_611]] - `contains` [EXTRACTED]
+- [[Functions_56]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_51
+#graphify/document #graphify/EXTRACTED #community/Community_1034

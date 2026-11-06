@@ -12,9 +12,11 @@ tags:
 # BattleData.canGetStatus()_1.md
 
 ## Connections
-- [[BattleData.canGetStatus()_3]] - `contains` [EXTRACTED]
+- [[BattleData.canGetStatus()_1_1]] - `contains` [EXTRACTED]
 - [[BattleData.canGetStatus()_2]] - `references` [EXTRACTED]
+- [[BattleData.canGetStatus()_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 553]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_553

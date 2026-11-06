@@ -12,8 +12,8 @@ tags:
 # setupArenaFixtures()
 
 ## Connections
-- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
-- [[Functions_130]] - `references` [INFERRED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_211]] - `references` [INFERRED]
 - [[arenaPart()]] - `calls` [EXTRACTED]
 - [[boardLabel()]] - `calls` [EXTRACTED]
 - [[centerOf()]] - `calls` [EXTRACTED]

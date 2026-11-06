@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_985.md"
+source_file: "vault/Graph/boardRows()_5.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 1062"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1062
 ---
 
-# Connections_985.md
+# Connections
 
 ## Connections
-- [[Connections_658]] - `references` [EXTRACTED]
-- [[Connections_985_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
-- [[refreshTag()_2]] - `references` [EXTRACTED]
+- [[boardRows()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1062

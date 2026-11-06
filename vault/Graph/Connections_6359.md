@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/toggle()_2.md"
+source_file: "vault/Graph/Connections_3404.md"
 type: "document"
-community: "Community 98"
-location: "L14"
+community: "Community 1346"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_1346
 ---
 
 # Connections
 
 ## Connections
-- [[toggle()_4]] - `contains` [EXTRACTED]
+- [[Connections_6361]] - `contains` [EXTRACTED]
+- [[Connections_3404_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_98
+#graphify/document #graphify/EXTRACTED #community/Community_1346

@@ -11,7 +11,7 @@ members: 35
 - [[BattleFX.attack()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
 - [[BattleFX.faint()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
 - [[BattleFX.levelUp()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
-- [[BattleFX.luau_3]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
+- [[BattleFX.luau]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
 - [[BattleFX.makeBall()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
 - [[BattleFX.sendOut()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
 - [[BattleFX.statChange()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
@@ -24,7 +24,7 @@ members: 35
 - [[effectPart()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
 - [[fadeBall()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
 - [[flash()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
-- [[game_getservice_4]] - concept
+- [[game_getservice_8]] - concept
 - [[glow()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
 - [[groundRing()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau
 - [[groundY()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleFX.luau

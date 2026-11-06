@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 164.md"
+source_file: "vault/Graph/Community 164.md"
 type: "document"
-community: "Community 894"
-location: "L6"
+community: "Community 804"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_894
+  - community/Community_804
 ---
 
-# Community 164
+# Community 164.md
 
 ## Connections
-- [[Connections to other communities_384]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_428]] - `contains` [EXTRACTED]
-- [[Members_428]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_386]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 164]] - `contains` [EXTRACTED]
+- [[Community 164_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 164]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 894]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_894
+#graphify/document #graphify/EXTRACTED #community/Community_804

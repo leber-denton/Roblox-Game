@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/screenFlash()_2.md"
+source_file: "vault/Graph/screenFlash()_4.md"
 type: "document"
-community: "Community 223"
-location: "L12"
+community: "Community 18"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_223
+  - community/Community_18
 ---
 
-# screenFlash()
+# screenFlash()_4.md
 
 ## Connections
-- [[Connections_3183]] - `contains` [EXTRACTED]
-- [[screenFlash()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_3183_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1037]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 223]] - `references` [EXTRACTED]
+- [[screenFlash()_2_1]] - `references` [EXTRACTED]
+- [[screenFlash()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_223
+#graphify/document #graphify/EXTRACTED #community/Community_18

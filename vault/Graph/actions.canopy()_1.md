@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/actions.canopy().md"
+source_file: "vault/Graph/actions.canopy()_4.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2718"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2718
 ---
 
-# actions.canopy().md
+# actions.canopy()
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[PlayerData.coins()_1]] - `references` [EXTRACTED]
-- [[PlayerData.spend()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.canopy()_2]] - `contains` [EXTRACTED]
-- [[buildBaseProps()_4]] - `references` [EXTRACTED]
+- [[Connections_15162]] - `contains` [EXTRACTED]
+- [[actions.canopy()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2718

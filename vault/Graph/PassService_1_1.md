@@ -12,8 +12,8 @@ tags:
 # PassService_1_1.md
 
 ## Connections
-- [[PassService_1_2]] - `contains` [EXTRACTED]
 - [[PassService_1]] - `references` [EXTRACTED]
+- [[PassService_1_1_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 208]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_208

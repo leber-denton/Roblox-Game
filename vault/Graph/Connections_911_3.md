@@ -1,0 +1,19 @@
+---
+source_file: "vault/Graph/Connections_911.md"
+type: "document"
+community: "Community 827"
+location: "L1"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_827
+---
+
+# Connections_911.md
+
+## Connections
+- [[Connections_23055]] - `contains` [EXTRACTED]
+- [[Connections_910_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1054]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_827

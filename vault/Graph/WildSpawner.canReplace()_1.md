@@ -12,7 +12,8 @@ tags:
 # WildSpawner.canReplace()_1.md
 
 ## Connections
-- [[WildSpawner.canReplace()_1_1]] - `contains` [EXTRACTED]
+- [[WildSpawner.canReplace()_1_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.canReplace()_1_1]] - `references` [EXTRACTED]
 - [[WildSpawner.canReplace()_2]] - `references` [EXTRACTED]
 - [[WildSpawner.clearLane()_1]] - `references` [EXTRACTED]
 - [[WildSpawner.shift()_1]] - `references` [EXTRACTED]

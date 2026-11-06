@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/setVisible().md"
+source_file: "vault/Graph/setVisible()_5.md"
 type: "document"
-community: "Community 234"
+community: "Community 1941"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_1941
 ---
 
-# setVisible().md
+# setVisible()_5.md
 
 ## Connections
-- [[Story.client.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[playScene()_3]] - `references` [EXTRACTED]
-- [[setVisible()_6]] - `contains` [EXTRACTED]
-- [[spawnJuniper()_5]] - `references` [EXTRACTED]
+- [[Connections_2819_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
+- [[setVisible()_7]] - `contains` [EXTRACTED]
+- [[setVisible()_3_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_1941

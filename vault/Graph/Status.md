@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Status_1.md"
+source_file: "vault/Graph/Status.md"
 type: "document"
 community: "Community 115"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_115
 ---
 
-# Status
+# Status.md
 
 ## Connections
-- [[Connections_362]] - `contains` [EXTRACTED]
-- [[Status_1]] - `contains` [EXTRACTED]
+- [[Status_7]] - `contains` [EXTRACTED]
+- [[Status_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 115]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_115

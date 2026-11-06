@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_110.md"
+source_file: "vault/Graph/GameData.ballMultiplier().md"
 type: "document"
-community: "Community 293"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_293
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[Functions_110_1]] - `contains` [EXTRACTED]
+- [[GameData.ballMultiplier()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_293
+#graphify/document #graphify/EXTRACTED #community/Community_120

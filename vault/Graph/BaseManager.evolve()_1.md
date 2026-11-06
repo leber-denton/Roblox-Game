@@ -1,19 +1,20 @@
 ---
 source_file: "vault/Graph/BaseManager.evolve()_1.md"
 type: "document"
-community: "Community 12"
+community: "Community 25"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_25
 ---
 
 # BaseManager.evolve()_1.md
 
 ## Connections
-- [[BaseManager.evolve()_1_1]] - `contains` [EXTRACTED]
-- [[BaseManager.evolve()_2]] - `references` [EXTRACTED]
+- [[BaseManager.evolve()_1_3]] - `contains` [EXTRACTED]
+- [[BaseManager.evolve()_1_1]] - `references` [EXTRACTED]
+- [[BaseManager.evolve()_2_1]] - `references` [EXTRACTED]
 - [[BaseManager.luau_1]] - `references` [EXTRACTED]
 - [[ProgressService.checkEvolutions()_1]] - `references` [EXTRACTED]
 - [[Wander.remove()_1]] - `references` [EXTRACTED]
@@ -23,4 +24,4 @@ tags:
 - [[recordIndex()_1]] - `references` [EXTRACTED]
 - [[spawnModel()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_25

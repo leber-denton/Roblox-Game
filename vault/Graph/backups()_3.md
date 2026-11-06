@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/backups()_1.md"
+source_file: "vault/Graph/backups().md"
 type: "document"
 community: "Community 117"
 location: "L12"
@@ -9,10 +9,10 @@ tags:
   - community/Community_117
 ---
 
-# backups().md
+# backups()
 
 ## Connections
-- [[Connections_437]] - `contains` [EXTRACTED]
-- [[backups()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2957]] - `contains` [EXTRACTED]
+- [[backups()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_117

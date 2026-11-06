@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.snapshot()_2.md"
+source_file: "vault/Graph/Connections_1519.md"
 type: "document"
-community: "Community 168"
+community: "Community 112"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_112
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.snapshot()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_2190]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_112

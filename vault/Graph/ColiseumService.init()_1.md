@@ -13,8 +13,9 @@ tags:
 
 ## Connections
 - [[ColiseumService.init()_2]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[setupActivities()_2]] - `references` [EXTRACTED]
+- [[setupActivities()_1]] - `references` [EXTRACTED]
 - [[setupPortals()_1]] - `references` [EXTRACTED]
 - [[setupShop()_1]] - `references` [EXTRACTED]
 - [[updateZones()_1]] - `references` [EXTRACTED]

@@ -12,9 +12,9 @@ tags:
 # listLayout()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
-- [[Functions_103]] - `references` [INFERRED]
-- [[new()_4]] - `calls` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
+- [[Functions_188]] - `references` [INFERRED]
+- [[new()_3]] - `calls` [EXTRACTED]
 - [[tabs.Base()]] - `calls` [EXTRACTED]
 - [[tabs.Crates()]] - `calls` [EXTRACTED]
 - [[tabs.Daily()]] - `calls` [EXTRACTED]

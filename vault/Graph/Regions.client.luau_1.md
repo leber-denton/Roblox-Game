@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Graph/Regions.client.luau_1.md"
+source_file: "vault/Graph/Regions.client.luau.md"
 type: "document"
-community: "Community 178"
+community: "Community 147"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_178
+  - community/Community_147
 ---
 
-# Regions.client.luau_1.md
+# Regions.client.luau.md
 
 ## Connections
-- [[Regions.client.luau]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 178]] - `references` [EXTRACTED]
-- [[replicatedstorage_waitforchild_1_1]] - `references` [EXTRACTED]
+- [[Connections_6170_1]] - `references` [EXTRACTED]
+- [[Regions.client.luau_2]] - `contains` [EXTRACTED]
+- [[Regions.client.luau_5]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 147]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_178
+#graphify/document #graphify/EXTRACTED #community/Community_147

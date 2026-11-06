@@ -12,11 +12,7 @@ tags:
 # script_parent_saveservice.md
 
 ## Connections
-- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 148]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[script_parent_saveservice_4]] - `contains` [EXTRACTED]
-- [[script_parent_saveservice_1]] - `references` [EXTRACTED]
+- [[script_parent_saveservice_6]] - `contains` [EXTRACTED]
+- [[script_parent_saveservice_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

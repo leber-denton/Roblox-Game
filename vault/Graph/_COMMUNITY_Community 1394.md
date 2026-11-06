@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1394
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[ColiseumService]] - document - vault/Graph/ColiseumService_2.md
-- [[Connections_1721]] - document - vault/Graph/ColiseumService_2.md
+- [[Connections_6966]] - document - vault/Graph/Connections_2355.md
+- [[Connections_6967]] - document - vault/Graph/Connections_2355.md
+- [[Connections_6968]] - document - vault/Graph/Members_243.md
+- [[Connections_6969]] - document - vault/Graph/Members_45_1.md
+- [[Connections_2355_1]] - document - vault/Graph/Connections_2355.md
+- [[Members_487]] - document - vault/Graph/Members_243.md
+- [[Members_243_1]] - document - vault/Graph/Members_243.md
+- [[Members_45_2]] - document - vault/Graph/Members_45_1.md
+- [[Members_45_1_1]] - document - vault/Graph/Members_45_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 3 edges to [[_COMMUNITY_Community 812]]
+- 1 edge to [[_COMMUNITY_Community 1196]]
 
 ## Top bridge nodes
-- [[ColiseumService]] - degree 2, connects to 1 community
+- [[Members_45_1_1]] - degree 4, connects to 2 communities
+- [[Members_243_1]] - degree 4, connects to 1 community
+- [[Connections_2355_1]] - degree 3, connects to 1 community

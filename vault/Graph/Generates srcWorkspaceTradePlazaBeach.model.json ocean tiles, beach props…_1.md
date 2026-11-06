@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props….md"
+source_file: "vault/Graph/Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…_1.md"
 type: "document"
-community: "Community 244"
-location: "L12"
+community: "Community 411"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_244
+  - community/Community_411
 ---
 
-# Generates src/Workspace/TradePlazaBeach.model.json: ocean tiles, beach props…
+# Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…_1.md
 
 ## Connections
-- [[Connections_3426]] - `contains` [EXTRACTED]
-- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…]] - `contains` [EXTRACTED]
+- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…_3]] - `contains` [EXTRACTED]
+- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 244]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 29]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 411]] - `references` [EXTRACTED]
+- [[gen_trade_beach.py_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_244
+#graphify/document #graphify/EXTRACTED #community/Community_411

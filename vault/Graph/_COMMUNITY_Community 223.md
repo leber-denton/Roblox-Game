@@ -1,58 +1,34 @@
 ---
 type: community
-members: 45
+members: 21
 ---
 
 # Community 223
 
-**Members:** 45 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[BattleFX.faint()_4]] - document - vault/Graph/BattleFX.faint()_2.md
-- [[BattleFX.faint()_3]] - document - vault/Graph/BattleFX.faint()_1.md
-- [[BattleFX.faint()_1_1]] - document - vault/Graph/BattleFX.faint()_1.md
-- [[BattleFX.faint()_2_1]] - document - vault/Graph/BattleFX.faint()_2.md
-- [[Connections_3166]] - document - vault/Graph/BattleFX.faint()_1.md
-- [[Connections_3167]] - document - vault/Graph/BattleFX.faint()_2.md
-- [[Connections_3168]] - document - vault/Graph/Connections_693.md
-- [[Connections_3169]] - document - vault/Graph/Connections_693.md
-- [[Connections_3170]] - document - vault/Graph/Connections_720.md
-- [[Connections_3171]] - document - vault/Graph/Connections_720.md
-- [[Connections_3172]] - document - vault/Graph/Connections_724.md
-- [[Connections_3173]] - document - vault/Graph/Connections_724.md
-- [[Connections_3174]] - document - vault/Graph/Connections_748.md
-- [[Connections_3175]] - document - vault/Graph/Connections_748.md
-- [[Connections_3176]] - document - vault/Graph/Connections_757.md
-- [[Connections_3177]] - document - vault/Graph/Connections_757.md
-- [[Connections_3178]] - document - vault/Graph/groundY()_1.md
-- [[Connections_3179]] - document - vault/Graph/groundY()_2.md
-- [[Connections_3180]] - document - vault/Graph/impact()_1.md
-- [[Connections_3181]] - document - vault/Graph/impact()_2.md
-- [[Connections_3182]] - document - vault/Graph/screenFlash()_1.md
-- [[Connections_3183]] - document - vault/Graph/screenFlash()_2.md
-- [[Connections_3184]] - document - vault/Graph/shakeCamera()_1.md
-- [[Connections_3185]] - document - vault/Graph/shakeCamera()_2.md
-- [[Connections_693_1]] - document - vault/Graph/Connections_693.md
-- [[Connections_720_1]] - document - vault/Graph/Connections_720.md
-- [[Connections_724_1]] - document - vault/Graph/Connections_724.md
-- [[Connections_748_1]] - document - vault/Graph/Connections_748.md
-- [[Connections_757_1]] - document - vault/Graph/Connections_757.md
-- [[groundY()_4]] - document - vault/Graph/groundY()_2.md
-- [[groundY()_3]] - document - vault/Graph/groundY()_1.md
-- [[groundY()_1_1]] - document - vault/Graph/groundY()_1.md
-- [[groundY()_2_1]] - document - vault/Graph/groundY()_2.md
-- [[impact()_4]] - document - vault/Graph/impact()_2.md
-- [[impact()_3]] - document - vault/Graph/impact()_1.md
-- [[impact()_1_1]] - document - vault/Graph/impact()_1.md
-- [[impact()_2_1]] - document - vault/Graph/impact()_2.md
-- [[screenFlash()_4]] - document - vault/Graph/screenFlash()_2.md
-- [[screenFlash()_3]] - document - vault/Graph/screenFlash()_1.md
-- [[screenFlash()_1_1]] - document - vault/Graph/screenFlash()_1.md
-- [[screenFlash()_2_1]] - document - vault/Graph/screenFlash()_2.md
-- [[shakeCamera()_4]] - document - vault/Graph/shakeCamera()_2.md
-- [[shakeCamera()_3]] - document - vault/Graph/shakeCamera()_1.md
-- [[shakeCamera()_1_1]] - document - vault/Graph/shakeCamera()_1.md
-- [[shakeCamera()_2_1]] - document - vault/Graph/shakeCamera()_2.md
+- [[BaseManager.getIndex()_1]] - document - vault/Graph/BaseManager.getIndex()_1.md
+- [[BaseManager.getIndex()_1_2]] - document - vault/Graph/BaseManager.getIndex()_1_1.md
+- [[BaseManager.getIndex()_1_3]] - document - vault/Graph/BaseManager.getIndex()_1.md
+- [[BaseManager.getIndex()_1_1]] - document - vault/Graph/BaseManager.getIndex()_1_1.md
+- [[BaseManager.getIndex()_2]] - document - vault/Graph/BaseManager.getIndex()_2.md
+- [[BaseManager.getIndex()_2_2]] - document - vault/Graph/BaseManager.getIndex()_2_1.md
+- [[BaseManager.getIndex()_2_3]] - document - vault/Graph/BaseManager.getIndex()_2.md
+- [[BaseManager.getIndex()_2_1]] - document - vault/Graph/BaseManager.getIndex()_2_1.md
+- [[Connections_12958]] - document - vault/Graph/BaseManager.getIndex()_1_1.md
+- [[Connections_12959]] - document - vault/Graph/BaseManager.getIndex()_1.md
+- [[Connections_12960]] - document - vault/Graph/BaseManager.getIndex()_2_1.md
+- [[Connections_12961]] - document - vault/Graph/BaseManager.getIndex()_2.md
+- [[Connections_12962]] - document - vault/Graph/Connections_2379.md
+- [[Connections_12963]] - document - vault/Graph/Connections_2379.md
+- [[Connections_12964]] - document - vault/Graph/Connections_2380.md
+- [[Connections_12965]] - document - vault/Graph/Connections_2380.md
+- [[Connections_12966]] - document - vault/Graph/Connections_950_1.md
+- [[Connections_2379_1]] - document - vault/Graph/Connections_2379.md
+- [[Connections_2380_1]] - document - vault/Graph/Connections_2380.md
+- [[Connections_950_2]] - document - vault/Graph/Connections_950_1.md
+- [[Connections_950_1]] - document - vault/Graph/Connections_950_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -62,17 +38,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 15 edges to [[_COMMUNITY_Community 27]]
-- 10 edges to [[_COMMUNITY_Community 18]]
-- 5 edges to [[_COMMUNITY_Community 120]]
-- 5 edges to [[_COMMUNITY_Community 21]]
-- 1 edge to [[_COMMUNITY_Community 167]]
-- 1 edge to [[_COMMUNITY_Community 711]]
-- 1 edge to [[_COMMUNITY_Community 790]]
+- 7 edges to [[_COMMUNITY_Community 289]]
+- 3 edges to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 25]]
+- 1 edge to [[_COMMUNITY_Community 844]]
 
 ## Top bridge nodes
-- [[impact()_1_1]] - degree 12, connects to 5 communities
-- [[BattleFX.faint()_1_1]] - degree 11, connects to 5 communities
-- [[shakeCamera()_1_1]] - degree 9, connects to 5 communities
-- [[groundY()_1_1]] - degree 9, connects to 4 communities
-- [[screenFlash()_1_1]] - degree 7, connects to 4 communities
+- [[BaseManager.getIndex()_1]] - degree 8, connects to 5 communities
+- [[BaseManager.getIndex()_2]] - degree 6, connects to 2 communities
+- [[Connections_950_1]] - degree 4, connects to 2 communities
+- [[BaseManager.getIndex()_1_1]] - degree 4, connects to 1 community
+- [[BaseManager.getIndex()_2_1]] - degree 4, connects to 1 community

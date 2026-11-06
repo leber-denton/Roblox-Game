@@ -12,7 +12,7 @@ tags:
 # beacon()
 
 ## Connections
-- [[Connections_4564]] - `contains` [EXTRACTED]
+- [[Connections_20482]] - `contains` [EXTRACTED]
 - [[beacon()_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_53

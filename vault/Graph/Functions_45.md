@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Code/AdminService.md"
+source_file: "vault/Code/DecorService.md"
 type: "document"
-community: "Community 17"
-location: "L19"
+community: "Community 13"
+location: "L18"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_17
+  - community/Community_13
 ---
 
 # Functions
 
 ## Connections
-- [[AdminService_2]] - `contains` [EXTRACTED]
-- [[spots()]] - `references` [INFERRED]
+- [[DecorService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_17
+#graphify/document #graphify/EXTRACTED #community/Community_13

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/commands.opTeam().md"
+source_file: "vault/Graph/commands.opTeam()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 225"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_225
 ---
 
-# commands.opTeam()
+# commands.opTeam().md
 
 ## Connections
-- [[Connections_5726]] - `contains` [EXTRACTED]
-- [[commands.opTeam()_3]] - `contains` [EXTRACTED]
+- [[Connections_13069]] - `contains` [EXTRACTED]
+- [[commands.opTeam()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_225

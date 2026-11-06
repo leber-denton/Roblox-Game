@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/commands.beatTrainers()_2.md"
+source_file: "vault/Graph/commands.beatTrainers()_2_1.md"
 type: "document"
 community: "Community 134"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_134
 ---
 
-# commands.beatTrainers()_2.md
+# commands.beatTrainers()_2_1.md
 
 ## Connections
-- [[Connections_1445]] - `contains` [EXTRACTED]
-- [[commands.beatTrainers()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
+- [[commands.beatTrainers()_1_1]] - `references` [EXTRACTED]
+- [[commands.beatTrainers()_2_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

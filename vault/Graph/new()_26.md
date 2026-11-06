@@ -1,18 +1,24 @@
 ---
-source_file: "vault/Graph/new()_5.md"
+source_file: "vault/Graph/new().md"
 type: "document"
-community: "Community 30"
-location: "L12"
+community: "Community 234"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_234
 ---
 
-# new()
+# new().md
 
 ## Connections
-- [[Connections_3688]] - `contains` [EXTRACTED]
-- [[new()_5_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
+- [[burst()_9]] - `references` [EXTRACTED]
+- [[entry()_5]] - `references` [EXTRACTED]
+- [[new()_27]] - `contains` [EXTRACTED]
+- [[playScene()_5]] - `references` [EXTRACTED]
+- [[regionTour()_5]] - `references` [EXTRACTED]
+- [[row()_14]] - `references` [EXTRACTED]
+- [[runLines()_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_234

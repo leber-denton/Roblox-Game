@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/plazaCenter()_1.md"
+source_file: "vault/Graph/Connections_493.md"
 type: "document"
-community: "Community 1186"
-location: "L14"
+community: "Community 1034"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1186
+  - community/Community_1034
 ---
 
 # Connections
 
 ## Connections
-- [[plazaCenter()_2]] - `contains` [EXTRACTED]
+- [[Connections_595]] - `contains` [EXTRACTED]
+- [[Connections_493_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1186
+#graphify/document #graphify/EXTRACTED #community/Community_1034

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/commands.champion()_1.md"
+source_file: "vault/Graph/Connections_3461.md"
 type: "document"
-community: "Community 600"
-location: "L14"
+community: "Community 1267"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_600
+  - community/Community_1267
 ---
 
 # Connections
 
 ## Connections
-- [[commands.champion()_3]] - `contains` [EXTRACTED]
+- [[Connections_4764]] - `contains` [EXTRACTED]
+- [[Connections_3461_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_600
+#graphify/document #graphify/EXTRACTED #community/Community_1267

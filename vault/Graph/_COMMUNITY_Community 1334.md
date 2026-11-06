@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Connections_1422]] - document - vault/Graph/Requires_102.md
-- [[Requires_12]] - document - vault/Graph/Requires_102.md
-- [[Requires_102]] - document - vault/Graph/Requires_102.md
+- [[Connections_5757]] - document - vault/Graph/Connections to other communities_103.md
+- [[Connections to other communities_332]] - document - vault/Graph/Connections to other communities_103.md
+- [[Connections to other communities_103_1]] - document - vault/Graph/Connections to other communities_103.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,3 +18,9 @@ members: 3
 TABLE source_file, type FROM #community/Community_1334
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Community 1102]]
+
+## Top bridge nodes
+- [[Connections to other communities_103_1]] - degree 2, connects to 1 community

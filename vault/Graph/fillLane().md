@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[WildSpawner.countLane()]] - `calls` [EXTRACTED]
-- [[WildSpawner.luau_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.luau]] - `contains` [EXTRACTED]
 - [[WildSpawner.refillLane()]] - `calls` [EXTRACTED]
 - [[WildSpawner.spawnLane()]] - `calls` [EXTRACTED]
 - [[laneParts()]] - `calls` [EXTRACTED]

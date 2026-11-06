@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_68.md"
+source_file: "vault/Graph/Connections_6185.md"
 type: "document"
-community: "Community 1018"
-location: "L1"
+community: "Community 1003"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1018
+  - community/Community_1003
 ---
 
-# Connections_68.md
+# Connections
 
 ## Connections
-- [[BaseManager.findById()_2_1]] - `references` [EXTRACTED]
-- [[Connections_54]] - `contains` [EXTRACTED]
+- [[Connections_67]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1018
+#graphify/document #graphify/EXTRACTED #community/Community_1003

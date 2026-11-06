@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/Connections_199.md"
+source_file: "vault/Graph/Connections_5305.md"
 type: "document"
-community: "Community 759"
-location: "L14"
+community: "Community 1009"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_759
+  - community/Community_1009
 ---
 
-# Connections
+# Connections_5305.md
 
 ## Connections
-- [[Connections_5304]] - `contains` [EXTRACTED]
+- [[Connections_43_1]] - `references` [EXTRACTED]
+- [[Connections_5304]] - `references` [EXTRACTED]
+- [[Connections_5305_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1009]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 759]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_759
+#graphify/document #graphify/EXTRACTED #community/Community_1009

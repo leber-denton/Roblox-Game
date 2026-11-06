@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/DungeonService.luau.md"
+source_file: "vault/Graph/DungeonService.luau_5.md"
 type: "document"
-community: "Community 87"
-location: "L12"
+community: "Community 134"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_87
+  - community/Community_134
 ---
 
-# DungeonService.luau
+# DungeonService.luau_5.md
 
 ## Connections
-- [[Connections_5905]] - `contains` [EXTRACTED]
-- [[DungeonService.luau_4]] - `contains` [EXTRACTED]
+- [[Connections_5905]] - `references` [EXTRACTED]
+- [[DungeonService.luau_4]] - `references` [EXTRACTED]
+- [[DungeonService.luau_5_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_87
+#graphify/document #graphify/EXTRACTED #community/Community_134

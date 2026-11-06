@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_26.md"
+source_file: "vault/Graph/Functions_26_3.md"
 type: "document"
-community: "Community 234"
+community: "Community 1900"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_1900
 ---
 
-# Functions_26.md
+# Functions_26_3.md
 
 ## Connections
-- [[Functions_80]] - `contains` [EXTRACTED]
-- [[GraphStory]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[regionTour()_3]] - `references` [EXTRACTED]
-- [[spawnJuniper()_5]] - `references` [EXTRACTED]
-- [[updateJourney()_5]] - `references` [EXTRACTED]
-- [[updateMarker()_5]] - `references` [EXTRACTED]
-- [[updateStoryPrompts()_5]] - `references` [EXTRACTED]
-- [[waitUntilFree()_3]] - `references` [EXTRACTED]
+- [[Functions_26_1]] - `contains` [EXTRACTED]
+- [[Functions_26_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_1900

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/BattleFX.sendOut()_1.md"
+source_file: "vault/Graph/BattleFX.sendOut()_3.md"
 type: "document"
 community: "Community 18"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_18
 ---
 
-# BattleFX.sendOut().md
+# BattleFX.sendOut()_3.md
 
 ## Connections
-- [[BattleFX.sendOut()_1]] - `contains` [EXTRACTED]
-- [[Connections_2618]] - `contains` [EXTRACTED]
+- [[BattleFX.sendOut()_7]] - `contains` [EXTRACTED]
+- [[BattleFX.sendOut()_1]] - `references` [EXTRACTED]
+- [[BattleFX.sendOut()_5]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_18

@@ -14,9 +14,10 @@ tags:
 ## Connections
 - [[Wander.add()_1]] - `references` [EXTRACTED]
 - [[Wander.groundAt()_1]] - `references` [EXTRACTED]
-- [[Wander.luau_3]] - `references` [EXTRACTED]
-- [[Wander.luau_1_1]] - `contains` [EXTRACTED]
+- [[Wander.luau_1_3]] - `contains` [EXTRACTED]
+- [[Wander.luau_1_1]] - `references` [EXTRACTED]
 - [[Wander.luau_2]] - `references` [EXTRACTED]
+- [[Wander.luau_3]] - `references` [EXTRACTED]
 - [[Wander.remove()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 179]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 26]] - `references` [EXTRACTED]

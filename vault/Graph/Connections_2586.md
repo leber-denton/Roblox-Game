@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/weld()_1.md"
+source_file: "vault/Graph/Connections_1777.md"
 type: "document"
-community: "Community 176"
+community: "Community 1147"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_176
+  - community/Community_1147
 ---
 
 # Connections
 
 ## Connections
-- [[weld()_3]] - `contains` [EXTRACTED]
+- [[Connections_2585]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_176
+#graphify/document #graphify/EXTRACTED #community/Community_1147

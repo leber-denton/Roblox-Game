@@ -1,25 +1,17 @@
 ---
-source_file: "vault/Graph/showcaseArea()_1.md"
+source_file: "vault/Graph/showcaseArea()_1_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 3190"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_3190
 ---
 
-# showcaseArea()_1.md
+# showcaseArea()_1_1.md
 
 ## Connections
-- [[Functions_121]] - `references` [EXTRACTED]
-- [[ModelSync.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[getShowcase()_1_1]] - `references` [EXTRACTED]
-- [[isShowcaseOrGallery()_1_1]] - `references` [EXTRACTED]
-- [[showcaseArea()_3]] - `contains` [EXTRACTED]
-- [[showcaseArea()_2_1]] - `references` [EXTRACTED]
-- [[showcaseModels()_1_1]] - `references` [EXTRACTED]
+- [[showcaseArea()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_3190

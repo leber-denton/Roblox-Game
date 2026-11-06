@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GraphREADME_1.md"
+source_file: "vault/Graph/GraphREADME_3.md"
 type: "document"
-community: "Community 599"
-location: "L12"
+community: "Community 115"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_599
+  - community/Community_115
 ---
 
-# Graph/README.md
+# GraphREADME_3.md
 
 ## Connections
-- [[Connections_4761]] - `contains` [EXTRACTED]
-- [[GraphREADME_1_1]] - `contains` [EXTRACTED]
+- [[Connections_1827_1]] - `references` [EXTRACTED]
+- [[GraphREADME_4]] - `contains` [EXTRACTED]
+- [[GraphREADME]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 115]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_599
+#graphify/document #graphify/EXTRACTED #community/Community_115

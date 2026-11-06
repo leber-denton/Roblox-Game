@@ -1,28 +1,29 @@
 ---
-source_file: "vault/Graph/lighter().md"
+source_file: "vault/Graph/lighter()_3.md"
 type: "document"
-community: "Community 137"
+community: "Community 133"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_133
 ---
 
-# lighter().md
+# lighter()_3.md
 
 ## Connections
-- [[CreatureBuilder.build()_5]] - `references` [EXTRACTED]
 - [[Features.finEars()_1]] - `references` [EXTRACTED]
 - [[Features.swirlTail()_3]] - `references` [EXTRACTED]
 - [[Shapes.crystal()_1]] - `references` [EXTRACTED]
 - [[Shapes.dragon()_3]] - `references` [EXTRACTED]
 - [[Shapes.fish()_1]] - `references` [EXTRACTED]
 - [[Shapes.fox()_3]] - `references` [EXTRACTED]
-- [[Shapes.rock()_5]] - `references` [EXTRACTED]
 - [[Shapes.rodent()_3]] - `references` [EXTRACTED]
 - [[Shapes.turtle()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
-- [[lighter()_4]] - `contains` [EXTRACTED]
+- [[lighter()_3_1]] - `contains` [EXTRACTED]
+- [[lighter()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_133

@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Code/Tutorial.md"
+source_file: "vault/Code/Main.md"
 type: "document"
-community: "Community 421"
-location: "L12"
+community: "Community 22"
+location: "L32"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_421
+  - graphify/EXTRACTED
+  - community/Community_22
 ---
 
 # Functions
 
 ## Connections
-- [[Tutorial_3]] - `contains` [EXTRACTED]
-- [[intro()]] - `references` [INFERRED]
-- [[targetValue()]] - `references` [INFERRED]
+- [[Main_6]] - `contains` [EXTRACTED]
+- [[refreshActiveLanes()]] - `references` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Community_421
+#graphify/document #graphify/EXTRACTED #community/Community_22

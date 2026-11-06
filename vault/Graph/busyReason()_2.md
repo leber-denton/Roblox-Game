@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/busyReason()_2.md"
+source_file: "vault/Graph/busyReason()_1.md"
 type: "document"
-community: "Community 168"
-location: "L1"
+community: "Community 3082"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_3082
 ---
 
-# busyReason()_2.md
+# busyReason().md
 
 ## Connections
-- [[_COMMUNITY_Community 151]] - `references` [EXTRACTED]
-- [[busyReason()_3]] - `contains` [EXTRACTED]
-- [[busyReason()_1]] - `references` [EXTRACTED]
+- [[Connections_16230]] - `contains` [EXTRACTED]
+- [[busyReason()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_3082

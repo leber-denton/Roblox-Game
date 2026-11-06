@@ -1,26 +1,18 @@
 ---
-source_file: "vault/Graph/consider().md"
+source_file: "vault/Graph/consider()_3.md"
 type: "document"
-community: "Community 105"
-location: "L1"
+community: "Community 101"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_105
+  - community/Community_101
 ---
 
-# consider().md
+# consider()
 
 ## Connections
-- [[LockedLanes.client.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 185]] - `references` [EXTRACTED]
-- [[consider()_2]] - `contains` [EXTRACTED]
-- [[isOther()_1]] - `references` [EXTRACTED]
-- [[lockOther()_1]] - `references` [EXTRACTED]
-- [[lockPart()_1]] - `references` [EXTRACTED]
-- [[lockRegion()_1]] - `references` [EXTRACTED]
-- [[positionOf()_1]] - `references` [EXTRACTED]
-- [[regionAt()_1]] - `references` [EXTRACTED]
-- [[skipped()_1]] - `references` [EXTRACTED]
+- [[Connections_150]] - `contains` [EXTRACTED]
+- [[consider()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_105
+#graphify/document #graphify/EXTRACTED #community/Community_101

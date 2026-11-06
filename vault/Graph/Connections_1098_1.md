@@ -1,19 +1,19 @@
 ---
 source_file: "vault/Graph/Connections_1098.md"
 type: "document"
-community: "Community 367"
+community: "Community 1193"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_367
+  - community/Community_1193
 ---
 
 # Connections_1098.md
 
 ## Connections
-- [[Connections_4087]] - `contains` [EXTRACTED]
-- [[Features.antennae()_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
+- [[Connections_3500]] - `contains` [EXTRACTED]
+- [[Connections_1097_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1067]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_367
+#graphify/document #graphify/EXTRACTED #community/Community_1193

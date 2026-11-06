@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_65.md"
+source_file: "vault/Graph/CreatureBuilder_2_1.md"
 type: "document"
-community: "Community 1015"
-location: "L1"
+community: "Community 1001"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1015
+  - community/Community_1001
 ---
 
-# Connections_65.md
+# Connections
 
 ## Connections
-- [[Connections_48]] - `contains` [EXTRACTED]
-- [[atBadge()_1]] - `references` [EXTRACTED]
+- [[CreatureBuilder_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1015
+#graphify/document #graphify/EXTRACTED #community/Community_1001

@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/Connections_1116.md"
+source_file: "vault/Graph/Connections_1116_1.md"
 type: "document"
-community: "Community 671"
+community: "Community 1208"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_671
+  - community/Community_1208
 ---
 
-# Connections_1116.md
+# Connections_1116_1.md
 
 ## Connections
-- [[Connections_4999]] - `contains` [EXTRACTED]
-- [[Shapes.bird()_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
+- [[Connections_1116_2]] - `contains` [EXTRACTED]
+- [[Connections_2550_1]] - `references` [EXTRACTED]
+- [[Required by_18_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1208]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_671
+#graphify/document #graphify/EXTRACTED #community/Community_1208

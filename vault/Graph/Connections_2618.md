@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleFX.sendOut()_1.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_198.md"
 type: "document"
-community: "Community 18"
+community: "Community 1148"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_18
+  - community/Community_1148
 ---
 
 # Connections
 
 ## Connections
-- [[BattleFX.sendOut()_3]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_241]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_18
+#graphify/document #graphify/EXTRACTED #community/Community_1148

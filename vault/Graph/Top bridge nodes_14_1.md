@@ -12,7 +12,8 @@ tags:
 # Top bridge nodes_14.md
 
 ## Connections
-- [[Top bridge nodes_128]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 158]] - `references` [EXTRACTED]
+- [[Community 165]] - `references` [EXTRACTED]
+- [[Top bridge nodes_557]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1019]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_158

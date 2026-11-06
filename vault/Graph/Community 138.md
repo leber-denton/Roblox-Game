@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 138.md"
+source_file: "vault/Graph/Community 138.md"
 type: "document"
-community: "Community 91"
-location: "L6"
+community: "Community 298"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_91
+  - community/Community_298
 ---
 
-# Community 138
+# Community 138.md
 
 ## Connections
-- [[Connections to other communities_395]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_439]] - `contains` [EXTRACTED]
-- [[Members_439]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_397]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 138]] - `contains` [EXTRACTED]
+- [[Community 138_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 296]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 91]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_91
+#graphify/document #graphify/EXTRACTED #community/Community_298

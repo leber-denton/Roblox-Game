@@ -1,18 +1,18 @@
 ---
 source_file: "src/ServerScriptService/Modules/AdminService.luau"
 type: "code"
-community: "Community 17"
+community: "Community 16"
 location: "L31"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_17
+  - community/Community_16
 ---
 
 # AdminService.isAdmin()
 
 ## Connections
 - [[AdminService.init()]] - `calls` [EXTRACTED]
-- [[AdminService.luau_3]] - `contains` [EXTRACTED]
+- [[AdminService.luau]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_17
+#graphify/code #graphify/EXTRACTED #community/Community_16

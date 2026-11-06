@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Graph/CodeSprint.md"
+source_file: "vault/Graph/CodeSprint_2.md"
 type: "document"
-community: "Community 306"
+community: "Community 802"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_306
+  - community/Community_802
 ---
 
-# CodeSprint.md
+# CodeSprint_2.md
 
 ## Connections
-- [[CodeSprint]] - `contains` [EXTRACTED]
-- [[Sprint_2_1]] - `references` [EXTRACTED]
+- [[CodeSprint_4]] - `contains` [EXTRACTED]
+- [[CodeSprint_1]] - `references` [EXTRACTED]
+- [[CodeSprint_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1393]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 192]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 222]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 306]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_306
+#graphify/document #graphify/EXTRACTED #community/Community_802

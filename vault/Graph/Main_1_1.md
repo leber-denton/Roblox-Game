@@ -12,8 +12,8 @@ tags:
 # Main_1_1.md
 
 ## Connections
-- [[Main_1_2]] - `contains` [EXTRACTED]
 - [[Main_1]] - `references` [EXTRACTED]
+- [[Main_1_1_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 157]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_157

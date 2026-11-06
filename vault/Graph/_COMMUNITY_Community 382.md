@@ -1,28 +1,196 @@
 ---
 type: community
-members: 15
+members: 183
 ---
 
 # Community 382
 
-**Members:** 15 nodes
+**Members:** 183 nodes
 
 ## Members
-- [[Community 273]] - document - vault/Graph/_COMMUNITY_Community 273.md
-- [[Community 3_2]] - document - vault/Graph/Community 3.md
-- [[Community 3_1]] - document - vault/Graph/Community 3.md
-- [[Community 382]] - document - vault/Graph/_COMMUNITY_Community 382.md
-- [[Connections_4123]] - document - vault/Graph/Community 3.md
-- [[Connections to other communities_297]] - document - vault/Graph/_COMMUNITY_Community 273.md
-- [[Connections to other communities_298]] - document - vault/Graph/_COMMUNITY_Community 382.md
-- [[Live Query (requires Dataview plugin)_329]] - document - vault/Graph/_COMMUNITY_Community 273.md
-- [[Live Query (requires Dataview plugin)_330]] - document - vault/Graph/_COMMUNITY_Community 382.md
-- [[Members_334]] - document - vault/Graph/_COMMUNITY_Community 273.md
-- [[Members_335]] - document - vault/Graph/_COMMUNITY_Community 382.md
-- [[Top bridge nodes_302]] - document - vault/Graph/_COMMUNITY_Community 273.md
-- [[Top bridge nodes_303]] - document - vault/Graph/_COMMUNITY_Community 382.md
+- [[Community 11_4]] - document - vault/Graph/Community 11_2.md
+- [[Community 11_3]] - document - vault/Graph/Community 11_1.md
+- [[Community 11_1_1]] - document - vault/Graph/Community 11_1.md
+- [[Community 11_2_1]] - document - vault/Graph/Community 11_2.md
+- [[Community 188_1]] - document - vault/Graph/Community 188.md
+- [[Community 188_2]] - document - vault/Graph/_COMMUNITY_Community 188.md
+- [[Community 188]] - document - vault/Graph/Community 188.md
+- [[Community 254_1]] - document - vault/Graph/Community 254.md
+- [[Community 254_2]] - document - vault/Graph/_COMMUNITY_Community 254.md
+- [[Community 254]] - document - vault/Graph/Community 254.md
+- [[Community 273_1]] - document - vault/Graph/Community 273.md
+- [[Community 273_2]] - document - vault/Graph/_COMMUNITY_Community 273.md
+- [[Community 273]] - document - vault/Graph/Community 273.md
+- [[Community 3_3]] - document - vault/Graph/Community 3_2.md
+- [[Community 3]] - document - vault/Graph/Community 3_1.md
+- [[Community 358_1]] - document - vault/Graph/Community 358.md
+- [[Community 358_2]] - document - vault/Graph/_COMMUNITY_Community 358.md
+- [[Community 358]] - document - vault/Graph/Community 358.md
+- [[Community 37_4]] - document - vault/Graph/Community 37_2.md
+- [[Community 37_2_1]] - document - vault/Graph/Community 37_2.md
+- [[Community 382_1]] - document - vault/Graph/Community 382.md
+- [[Community 382_2]] - document - vault/Graph/_COMMUNITY_Community 382.md
+- [[Community 382]] - document - vault/Graph/Community 382.md
+- [[Community 3_1]] - document - vault/Graph/Community 3_1.md
+- [[Community 3_2]] - document - vault/Graph/Community 3_2.md
+- [[Community 640]] - document - vault/Graph/_COMMUNITY_Community 640.md
+- [[Community 918]] - document - vault/Graph/_COMMUNITY_Community 918.md
+- [[Community 93_1]] - document - vault/Graph/Community 93.md
+- [[Community 93_2]] - document - vault/Graph/_COMMUNITY_Community 93.md
+- [[Community 93]] - document - vault/Graph/Community 93.md
+- [[Connections_18414]] - document - vault/Graph/addEffect()_1_1.md
+- [[Connections_18415]] - document - vault/Graph/canPlace()_1_1.md
+- [[Connections_18416]] - document - vault/Graph/Community 11_1.md
+- [[Connections_18417]] - document - vault/Graph/Community 11_2.md
+- [[Connections_18418]] - document - vault/Graph/Community 188.md
+- [[Connections_18419]] - document - vault/Graph/Community 254.md
+- [[Connections_18420]] - document - vault/Graph/Community 273.md
+- [[Connections_18421]] - document - vault/Graph/Community 358.md
+- [[Connections_18422]] - document - vault/Graph/Community 37_2.md
+- [[Connections_18423]] - document - vault/Graph/Community 382.md
+- [[Connections_18424]] - document - vault/Graph/Community 3_1.md
+- [[Connections_18425]] - document - vault/Graph/Community 3_2.md
+- [[Connections_18426]] - document - vault/Graph/Community 93.md
+- [[Connections_18427]] - document - vault/Graph/CreatureIndex.md
+- [[Connections_18428]] - document - vault/Graph/DecorData.boxOdds()_1_1.md
+- [[Connections_18429]] - document - vault/Graph/DecorData.describe()_1_1.md
+- [[Connections_18430]] - document - vault/Graph/DecorData.footprint()_1_1.md
+- [[Connections_18431]] - document - vault/Graph/DecorData.inBounds()_1_1.md
+- [[Connections_18432]] - document - vault/Graph/DecorData.luau_1_1.md
+- [[Connections_18433]] - document - vault/Graph/DecorData.side()_1_1.md
+- [[Connections_18434]] - document - vault/Graph/DecorData.toLocal()_1_1.md
+- [[Connections_18435]] - document - vault/Graph/DecorData.toWorld()_1_1.md
+- [[Connections_18436]] - document - vault/Graph/DecorData.zRange()_1_1.md
+- [[Connections_18437]] - document - vault/Graph/Functions_49_1.md
+- [[Connections_18438]] - document - vault/Graph/Functions_50_1_1.md
+- [[Connections_18439]] - document - vault/Graph/Functions_50_1_2.md
+- [[Connections_18440]] - document - vault/Graph/Functions_50_1.md
+- [[Connections_18441]] - document - vault/Graph/Functions_5_1_1.md
+- [[Connections_18442]] - document - vault/Graph/Functions_77.md
+- [[Connections_18443]] - document - vault/Graph/GraphCreatureIndex_1.md
+- [[Connections_18444]] - document - vault/Graph/GraphCreatureIndex_2.md
+- [[Connections_18445]] - document - vault/Graph/GraphCreatureIndex.md
+- [[Connections_18446]] - document - vault/Graph/GraphWander_1.md
+- [[Connections_18447]] - document - vault/Graph/GraphWander_2.md
+- [[Connections_18448]] - document - vault/Graph/GraphWander.md
+- [[Connections_18449]] - document - vault/Graph/overlaps()_2_1.md
+- [[Connections_18450]] - document - vault/Graph/Required by_3_1_1.md
+- [[Connections_18451]] - document - vault/Graph/Required by_55_2.md
+- [[Connections_18452]] - document - vault/Graph/Required by_55.md
+- [[Connections_18453]] - document - vault/Graph/Requires_3_1_1.md
+- [[Connections_18454]] - document - vault/Graph/Requires_54_2.md
+- [[Connections_18455]] - document - vault/Graph/rgb()_1_1.md
+- [[Connections_18456]] - document - vault/Graph/Wander_2_1.md
+- [[Connections_18457]] - document - vault/Graph/Wander_2.md
+- [[Connections_18458]] - document - vault/Graph/Wander_3.md
+- [[Connections to other communities_1228]] - document - vault/Graph/_COMMUNITY_Community 188.md
+- [[Connections to other communities_1229]] - document - vault/Graph/_COMMUNITY_Community 254.md
+- [[Connections to other communities_1230]] - document - vault/Graph/_COMMUNITY_Community 273.md
+- [[Connections to other communities_1231]] - document - vault/Graph/_COMMUNITY_Community 358.md
+- [[Connections to other communities_1232]] - document - vault/Graph/_COMMUNITY_Community 382.md
+- [[Connections to other communities_1233]] - document - vault/Graph/_COMMUNITY_Community 640.md
+- [[Connections to other communities_1234]] - document - vault/Graph/_COMMUNITY_Community 918.md
+- [[Connections to other communities_1235]] - document - vault/Graph/_COMMUNITY_Community 93.md
+- [[CreatureIndex]] - document - vault/Graph/CreatureIndex.md
+- [[DecorData.boxOdds()_1_3]] - document - vault/Graph/DecorData.boxOdds()_1_1.md
+- [[DecorData.boxOdds()_1_1_1]] - document - vault/Graph/DecorData.boxOdds()_1_1.md
+- [[DecorData.describe()_1_3]] - document - vault/Graph/DecorData.describe()_1_1.md
+- [[DecorData.describe()_1_1_1]] - document - vault/Graph/DecorData.describe()_1_1.md
+- [[DecorData.footprint()_1_3]] - document - vault/Graph/DecorData.footprint()_1_1.md
+- [[DecorData.footprint()_1_1_1]] - document - vault/Graph/DecorData.footprint()_1_1.md
+- [[DecorData.inBounds()_1_3]] - document - vault/Graph/DecorData.inBounds()_1_1.md
+- [[DecorData.inBounds()_1_1_1]] - document - vault/Graph/DecorData.inBounds()_1_1.md
+- [[DecorData.luau_1_3]] - document - vault/Graph/DecorData.luau_1_1.md
+- [[DecorData.luau_1_1_1]] - document - vault/Graph/DecorData.luau_1_1.md
+- [[DecorData.side()_1_3]] - document - vault/Graph/DecorData.side()_1_1.md
+- [[DecorData.side()_1_1_1]] - document - vault/Graph/DecorData.side()_1_1.md
+- [[DecorData.toLocal()_1_3]] - document - vault/Graph/DecorData.toLocal()_1_1.md
+- [[DecorData.toLocal()_1_1_1]] - document - vault/Graph/DecorData.toLocal()_1_1.md
+- [[DecorData.toWorld()_1_2]] - document - vault/Graph/DecorData.toWorld()_1_1.md
+- [[DecorData.toWorld()_1_1]] - document - vault/Graph/DecorData.toWorld()_1_1.md
+- [[DecorData.zRange()_1_2]] - document - vault/Graph/DecorData.zRange()_1_1.md
+- [[DecorData.zRange()_1_1]] - document - vault/Graph/DecorData.zRange()_1_1.md
+- [[Functions_207]] - document - vault/Graph/Functions_77.md
+- [[Functions_49_2]] - document - vault/Graph/Functions_49_1.md
+- [[Functions_49_1_1]] - document - vault/Graph/Functions_49_1.md
+- [[Functions_50_2]] - document - vault/Graph/Functions_50_1.md
+- [[Functions_50_1_1]] - document - vault/Graph/Functions_50_1.md
+- [[Functions_50_1_3]] - document - vault/Graph/Functions_50_1_1.md
+- [[Functions_50_1_4]] - document - vault/Graph/Functions_50_1_2.md
+- [[Functions_50_1_1_1]] - document - vault/Graph/Functions_50_1_1.md
+- [[Functions_50_1_2]] - document - vault/Graph/Functions_50_1_2.md
+- [[Functions_5_1_2]] - document - vault/Graph/Functions_5_1_1.md
+- [[Functions_5_1_1_1]] - document - vault/Graph/Functions_5_1_1.md
+- [[Functions_77_3]] - document - vault/Graph/Functions_77.md
+- [[GraphCreatureIndex]] - document - vault/Graph/CreatureIndex.md
+- [[GraphCreatureIndex_3]] - document - vault/Graph/GraphCreatureIndex_2.md
+- [[GraphCreatureIndex_4]] - document - vault/Graph/GraphCreatureIndex.md
+- [[GraphCreatureIndex_1]] - document - vault/Graph/GraphCreatureIndex.md
+- [[GraphCreatureIndex_1_1]] - document - vault/Graph/GraphCreatureIndex_1.md
+- [[GraphCreatureIndex_1_2]] - document - vault/Graph/GraphCreatureIndex_1.md
+- [[GraphCreatureIndex_2]] - document - vault/Graph/GraphCreatureIndex_2.md
+- [[GraphWander_3]] - document - vault/Graph/GraphWander.md
+- [[GraphWander_4]] - document - vault/Graph/GraphWander.md
+- [[GraphWander_1]] - document - vault/Graph/GraphWander_1.md
+- [[GraphWander_1_1]] - document - vault/Graph/GraphWander_1.md
+- [[GraphWander_2]] - document - vault/Graph/GraphWander_2.md
+- [[GraphWander_2_1]] - document - vault/Graph/GraphWander_2.md
+- [[Live Query (requires Dataview plugin)_1455]] - document - vault/Graph/_COMMUNITY_Community 188.md
+- [[Live Query (requires Dataview plugin)_1456]] - document - vault/Graph/_COMMUNITY_Community 254.md
+- [[Live Query (requires Dataview plugin)_1457]] - document - vault/Graph/_COMMUNITY_Community 273.md
+- [[Live Query (requires Dataview plugin)_1458]] - document - vault/Graph/_COMMUNITY_Community 358.md
+- [[Live Query (requires Dataview plugin)_1459]] - document - vault/Graph/_COMMUNITY_Community 382.md
+- [[Live Query (requires Dataview plugin)_1460]] - document - vault/Graph/_COMMUNITY_Community 640.md
+- [[Live Query (requires Dataview plugin)_1461]] - document - vault/Graph/_COMMUNITY_Community 918.md
+- [[Live Query (requires Dataview plugin)_1462]] - document - vault/Graph/_COMMUNITY_Community 93.md
+- [[Members_1459]] - document - vault/Graph/_COMMUNITY_Community 188.md
+- [[Members_1460]] - document - vault/Graph/_COMMUNITY_Community 254.md
+- [[Members_1461]] - document - vault/Graph/_COMMUNITY_Community 273.md
+- [[Members_1462]] - document - vault/Graph/_COMMUNITY_Community 358.md
+- [[Members_1463]] - document - vault/Graph/_COMMUNITY_Community 382.md
+- [[Members_1464]] - document - vault/Graph/_COMMUNITY_Community 640.md
+- [[Members_1465]] - document - vault/Graph/_COMMUNITY_Community 918.md
+- [[Members_1466]] - document - vault/Graph/_COMMUNITY_Community 93.md
+- [[Required by_3_1_2]] - document - vault/Graph/Required by_3_1_1.md
+- [[Required by_3_1_1]] - document - vault/Graph/Required by_3_1_1.md
+- [[Required by_55_2]] - document - vault/Graph/Required by_55.md
+- [[Required by_55_3]] - document - vault/Graph/Required by_55.md
+- [[Required by_55_2_1]] - document - vault/Graph/Required by_55_2.md
+- [[Required by_55_2_2]] - document - vault/Graph/Required by_55_2.md
+- [[Requires_3_1_2]] - document - vault/Graph/Requires_3_1_1.md
+- [[Requires_3_1_1]] - document - vault/Graph/Requires_3_1_1.md
+- [[Requires_54_3]] - document - vault/Graph/Requires_54_2.md
+- [[Requires_54_2_1]] - document - vault/Graph/Requires_54_2.md
+- [[Top bridge nodes_1232]] - document - vault/Graph/_COMMUNITY_Community 188.md
+- [[Top bridge nodes_1233]] - document - vault/Graph/_COMMUNITY_Community 254.md
+- [[Top bridge nodes_1234]] - document - vault/Graph/_COMMUNITY_Community 273.md
+- [[Top bridge nodes_1235]] - document - vault/Graph/_COMMUNITY_Community 358.md
+- [[Top bridge nodes_1236]] - document - vault/Graph/_COMMUNITY_Community 382.md
+- [[Top bridge nodes_1237]] - document - vault/Graph/_COMMUNITY_Community 640.md
+- [[Top bridge nodes_1238]] - document - vault/Graph/_COMMUNITY_Community 918.md
+- [[Top bridge nodes_1239]] - document - vault/Graph/_COMMUNITY_Community 93.md
+- [[Wander_2_1]] - document - vault/Graph/Wander_2.md
+- [[Wander_2_2]] - document - vault/Graph/Wander_2_1.md
+- [[Wander_2_3]] - document - vault/Graph/Wander_2.md
+- [[Wander_2_1_1]] - document - vault/Graph/Wander_2_1.md
+- [[Wander_3]] - document - vault/Graph/Wander_3.md
+- [[Wander_3_1]] - document - vault/Graph/Wander_3.md
+- [[_COMMUNITY_Community 188]] - document - vault/Graph/_COMMUNITY_Community 188.md
+- [[_COMMUNITY_Community 254]] - document - vault/Graph/_COMMUNITY_Community 254.md
 - [[_COMMUNITY_Community 273]] - document - vault/Graph/_COMMUNITY_Community 273.md
+- [[_COMMUNITY_Community 358]] - document - vault/Graph/_COMMUNITY_Community 358.md
 - [[_COMMUNITY_Community 382]] - document - vault/Graph/_COMMUNITY_Community 382.md
+- [[_COMMUNITY_Community 640]] - document - vault/Graph/_COMMUNITY_Community 640.md
+- [[_COMMUNITY_Community 918]] - document - vault/Graph/_COMMUNITY_Community 918.md
+- [[_COMMUNITY_Community 93]] - document - vault/Graph/_COMMUNITY_Community 93.md
+- [[addEffect()_1_2]] - document - vault/Graph/addEffect()_1_1.md
+- [[addEffect()_1_1]] - document - vault/Graph/addEffect()_1_1.md
+- [[canPlace()_1_2]] - document - vault/Graph/canPlace()_1_1.md
+- [[canPlace()_1_1]] - document - vault/Graph/canPlace()_1_1.md
+- [[overlaps()_2_2]] - document - vault/Graph/overlaps()_2_1.md
+- [[overlaps()_2_1]] - document - vault/Graph/overlaps()_2_1.md
+- [[rgb()_1_2]] - document - vault/Graph/rgb()_1_1.md
+- [[rgb()_1_1]] - document - vault/Graph/rgb()_1_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,10 +200,110 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 98]]
-- 1 edge to [[_COMMUNITY_Community 174]]
+- 29 edges to [[_COMMUNITY_Community 1187]]
+- 14 edges to [[_COMMUNITY_Community 86]]
+- 11 edges to [[_COMMUNITY_Community 944]]
+- 10 edges to [[_COMMUNITY_Community 168]]
+- 6 edges to [[_COMMUNITY_Community 938]]
+- 5 edges to [[_COMMUNITY_Community 1473]]
+- 5 edges to [[_COMMUNITY_Community 276]]
+- 5 edges to [[_COMMUNITY_Community 63]]
+- 5 edges to [[_COMMUNITY_Community 906]]
+- 4 edges to [[_COMMUNITY_Community 174]]
+- 4 edges to [[_COMMUNITY_Community 2693]]
+- 3 edges to [[_COMMUNITY_Community 1474]]
+- 3 edges to [[_COMMUNITY_Community 152]]
+- 3 edges to [[_COMMUNITY_Community 348]]
+- 3 edges to [[_COMMUNITY_Community 64]]
+- 2 edges to [[_COMMUNITY_Community 149]]
+- 2 edges to [[_COMMUNITY_Community 281]]
+- 2 edges to [[_COMMUNITY_Community 320]]
+- 2 edges to [[_COMMUNITY_Community 355]]
+- 2 edges to [[_COMMUNITY_Community 97]]
+- 2 edges to [[_COMMUNITY_Community 875]]
+- 2 edges to [[_COMMUNITY_Community 508]]
+- 2 edges to [[_COMMUNITY_Community 577]]
+- 2 edges to [[_COMMUNITY_Community 588]]
+- 2 edges to [[_COMMUNITY_Community 679]]
+- 1 edge to [[_COMMUNITY_Community 1003]]
+- 1 edge to [[_COMMUNITY_Community 1008]]
+- 1 edge to [[_COMMUNITY_Community 107]]
+- 1 edge to [[_COMMUNITY_Community 1090]]
+- 1 edge to [[_COMMUNITY_Community 1100]]
+- 1 edge to [[_COMMUNITY_Community 1127]]
+- 1 edge to [[_COMMUNITY_Community 1178]]
+- 1 edge to [[_COMMUNITY_Community 1182]]
+- 1 edge to [[_COMMUNITY_Community 1188]]
+- 1 edge to [[_COMMUNITY_Community 1338]]
+- 1 edge to [[_COMMUNITY_Community 134]]
+- 1 edge to [[_COMMUNITY_Community 1369]]
+- 1 edge to [[_COMMUNITY_Community 1380]]
+- 1 edge to [[_COMMUNITY_Community 142]]
+- 1 edge to [[_COMMUNITY_Community 157]]
+- 1 edge to [[_COMMUNITY_Community 1584]]
+- 1 edge to [[_COMMUNITY_Community 1588]]
+- 1 edge to [[_COMMUNITY_Community 1672]]
+- 1 edge to [[_COMMUNITY_Community 1677]]
+- 1 edge to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 1770]]
+- 1 edge to [[_COMMUNITY_Community 1960]]
+- 1 edge to [[_COMMUNITY_Community 200]]
+- 1 edge to [[_COMMUNITY_Community 2055]]
+- 1 edge to [[_COMMUNITY_Community 2070]]
+- 1 edge to [[_COMMUNITY_Community 2102]]
+- 1 edge to [[_COMMUNITY_Community 2224]]
+- 1 edge to [[_COMMUNITY_Community 2226]]
+- 1 edge to [[_COMMUNITY_Community 2229]]
+- 1 edge to [[_COMMUNITY_Community 2233]]
+- 1 edge to [[_COMMUNITY_Community 2235]]
+- 1 edge to [[_COMMUNITY_Community 240]]
+- 1 edge to [[_COMMUNITY_Community 2456]]
+- 1 edge to [[_COMMUNITY_Community 2667]]
+- 1 edge to [[_COMMUNITY_Community 2703]]
+- 1 edge to [[_COMMUNITY_Community 2713]]
+- 1 edge to [[_COMMUNITY_Community 273]]
+- 1 edge to [[_COMMUNITY_Community 2788]]
+- 1 edge to [[_COMMUNITY_Community 289]]
+- 1 edge to [[_COMMUNITY_Community 292]]
+- 1 edge to [[_COMMUNITY_Community 297]]
+- 1 edge to [[_COMMUNITY_Community 2970]]
+- 1 edge to [[_COMMUNITY_Community 2972]]
+- 1 edge to [[_COMMUNITY_Community 2976]]
+- 1 edge to [[_COMMUNITY_Community 306]]
+- 1 edge to [[_COMMUNITY_Community 3103]]
+- 1 edge to [[_COMMUNITY_Community 3165]]
+- 1 edge to [[_COMMUNITY_Community 324]]
+- 1 edge to [[_COMMUNITY_Community 33]]
+- 1 edge to [[_COMMUNITY_Community 332]]
+- 1 edge to [[_COMMUNITY_Community 34]]
+- 1 edge to [[_COMMUNITY_Community 352]]
+- 1 edge to [[_COMMUNITY_Community 359]]
+- 1 edge to [[_COMMUNITY_Community 3705]]
+- 1 edge to [[_COMMUNITY_Community 410]]
+- 1 edge to [[_COMMUNITY_Community 49]]
+- 1 edge to [[_COMMUNITY_Community 88]]
+- 1 edge to [[_COMMUNITY_Community 93]]
+- 1 edge to [[_COMMUNITY_Community 387]]
+- 1 edge to [[_COMMUNITY_Community 412]]
+- 1 edge to [[_COMMUNITY_Community 422]]
+- 1 edge to [[_COMMUNITY_Community 625]]
+- 1 edge to [[_COMMUNITY_Community 553]]
+- 1 edge to [[_COMMUNITY_Community 554]]
+- 1 edge to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 556]]
+- 1 edge to [[_COMMUNITY_Community 670]]
+- 1 edge to [[_COMMUNITY_Community 644]]
+- 1 edge to [[_COMMUNITY_Community 622]]
+- 1 edge to [[_COMMUNITY_Community 707]]
+- 1 edge to [[_COMMUNITY_Community 922]]
+- 1 edge to [[_COMMUNITY_Community 850]]
+- 1 edge to [[_COMMUNITY_Community 515]]
+- 1 edge to [[_COMMUNITY_Community 9]]
+- 1 edge to [[_COMMUNITY_Community 974]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 382]] - degree 4, connects to 2 communities
-- [[_COMMUNITY_Community 273]] - degree 4, connects to 1 community
-- [[Community 3_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 93]] - degree 149, connects to 71 communities
+- [[_COMMUNITY_Community 188]] - degree 24, connects to 7 communities
+- [[DecorData.luau_1_1_1]] - degree 19, connects to 5 communities
+- [[DecorData.side()_1_1_1]] - degree 10, connects to 5 communities
+- [[DecorData.footprint()_1_1_1]] - degree 9, connects to 5 communities

@@ -12,8 +12,10 @@ tags:
 # updateMarker()_2.md
 
 ## Connections
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 234]] - `references` [EXTRACTED]
-- [[updateMarker()_4]] - `contains` [EXTRACTED]
 - [[updateMarker()_1]] - `references` [EXTRACTED]
+- [[updateMarker()_2_1]] - `contains` [EXTRACTED]
+- [[updateMarker()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_122

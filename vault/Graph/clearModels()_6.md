@@ -1,22 +1,19 @@
 ---
-source_file: "vault/Graph/clearModels().md"
+source_file: "vault/Graph/clearModels()_6.md"
 type: "document"
-community: "Community 86"
+community: "Community 2798"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2798
 ---
 
-# clearModels().md
+# clearModels()_6.md
 
 ## Connections
-- [[BaseManager.getBase()_3]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[DecorService.onLoaded()_5]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[clearModels()_8]] - `contains` [EXTRACTED]
-- [[release()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[clearModels()_9]] - `contains` [EXTRACTED]
+- [[clearModels()_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2798

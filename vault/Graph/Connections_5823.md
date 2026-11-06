@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/playerStarter().md"
+source_file: "vault/Graph/canChallenge()_5.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[playerStarter()_4]] - `contains` [EXTRACTED]
+- [[canChallenge()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

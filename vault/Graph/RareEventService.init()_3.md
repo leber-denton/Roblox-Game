@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/RareEventService.init().md"
+source_file: "vault/Graph/RareEventService.init()_2.md"
 type: "document"
-community: "Community 53"
-location: "L1"
+community: "Community 1304"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_53
+  - community/Community_1304
 ---
 
-# RareEventService.init().md
+# RareEventService.init()
 
 ## Connections
-- [[RareEventService.init()_4]] - `contains` [EXTRACTED]
-- [[RareEventService.luau_3]] - `references` [EXTRACTED]
-- [[RareEventService.trigger()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
+- [[Connections_5325]] - `contains` [EXTRACTED]
+- [[RareEventService.init()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_53
+#graphify/document #graphify/EXTRACTED #community/Community_1304

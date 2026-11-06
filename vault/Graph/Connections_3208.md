@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GameData.itemSummary()_1.md"
+source_file: "vault/Graph/Top bridge nodes_154.md"
 type: "document"
-community: "Community 226"
+community: "Community 118"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_118
 ---
 
 # Connections
 
 ## Connections
-- [[GameData.itemSummary()_3]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_205]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_118

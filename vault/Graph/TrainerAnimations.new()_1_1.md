@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[TrainerAnimations.luau_2_1]] - `references` [EXTRACTED]
-- [[TrainerAnimations.new()_3]] - `contains` [EXTRACTED]
+- [[TrainerAnimations.new()_5]] - `contains` [EXTRACTED]
 - [[TrainerAnimations.new()_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 143]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 48]] - `references` [EXTRACTED]

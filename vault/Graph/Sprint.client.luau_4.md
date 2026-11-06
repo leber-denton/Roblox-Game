@@ -1,20 +1,19 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Sprint.client.luau"
-type: "code"
-community: "Community 215"
+source_file: "vault/Graph/Sprint.client.luau_4.md"
+type: "document"
+community: "Community 178"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_215
+  - community/Community_178
 ---
 
-# Sprint.client.luau
+# Sprint.client.luau_4.md
 
 ## Connections
-- [[apply()_1]] - `contains` [EXTRACTED]
-- [[onSprint()]] - `contains` [EXTRACTED]
-- [[replicatedstorage_waitforchild_4]] - `imports` [EXTRACTED]
-- [[targetSpeed()]] - `contains` [EXTRACTED]
+- [[Sprint.client.luau_6]] - `contains` [EXTRACTED]
+- [[Sprint.client.luau_2_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 178]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_215
+#graphify/document #graphify/EXTRACTED #community/Community_178

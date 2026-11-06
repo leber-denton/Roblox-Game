@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.evolve().md"
+source_file: "vault/Graph/BaseManager.evolve()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2728"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2728
 ---
 
-# BaseManager.evolve()
+# BaseManager.evolve()_4.md
 
 ## Connections
-- [[BaseManager.evolve()_3]] - `contains` [EXTRACTED]
-- [[Connections_5663]] - `contains` [EXTRACTED]
+- [[BaseManager.evolve()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2728

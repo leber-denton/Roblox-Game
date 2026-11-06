@@ -1,28 +1,34 @@
 ---
 type: community
-members: 15
+members: 21
 ---
 
 # Community 375
 
-**Members:** 15 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Community 21_2]] - document - vault/Graph/Community 21.md
-- [[Community 21_1]] - document - vault/Graph/Community 21.md
-- [[Community 263]] - document - vault/Graph/_COMMUNITY_Community 263.md
-- [[Community 375]] - document - vault/Graph/_COMMUNITY_Community 375.md
-- [[Connections_4117]] - document - vault/Graph/Community 21.md
-- [[Connections to other communities_289]] - document - vault/Graph/_COMMUNITY_Community 263.md
-- [[Connections to other communities_290]] - document - vault/Graph/_COMMUNITY_Community 375.md
-- [[Live Query (requires Dataview plugin)_321]] - document - vault/Graph/_COMMUNITY_Community 263.md
-- [[Live Query (requires Dataview plugin)_322]] - document - vault/Graph/_COMMUNITY_Community 375.md
-- [[Members_326]] - document - vault/Graph/_COMMUNITY_Community 263.md
-- [[Members_327]] - document - vault/Graph/_COMMUNITY_Community 375.md
-- [[Top bridge nodes_294]] - document - vault/Graph/_COMMUNITY_Community 263.md
-- [[Top bridge nodes_295]] - document - vault/Graph/_COMMUNITY_Community 375.md
-- [[_COMMUNITY_Community 263]] - document - vault/Graph/_COMMUNITY_Community 263.md
-- [[_COMMUNITY_Community 375]] - document - vault/Graph/_COMMUNITY_Community 375.md
+- [[Connections_18301]] - document - vault/Graph/Connections_3923.md
+- [[Connections_18302]] - document - vault/Graph/Connections_3924.md
+- [[Connections_18303]] - document - vault/Graph/Connections_528_1.md
+- [[Connections_18304]] - document - vault/Graph/Connections_902.md
+- [[Connections_18305]] - document - vault/Graph/Connections_902.md
+- [[Connections_18306]] - document - vault/Graph/Connections_903.md
+- [[Connections_18307]] - document - vault/Graph/Connections_903.md
+- [[Connections_18308]] - document - vault/Graph/Connections_904.md
+- [[Connections_18309]] - document - vault/Graph/Connections_904.md
+- [[Connections_18310]] - document - vault/Graph/Connections_905.md
+- [[Connections_18311]] - document - vault/Graph/Connections_905.md
+- [[Connections_3923_1]] - document - vault/Graph/Connections_3923.md
+- [[Connections_3923_2]] - document - vault/Graph/Connections_3923.md
+- [[Connections_3924_1]] - document - vault/Graph/Connections_3924.md
+- [[Connections_3924_2]] - document - vault/Graph/Connections_3924.md
+- [[Connections_528_1_1]] - document - vault/Graph/Connections_528_1.md
+- [[Connections_528_1_2]] - document - vault/Graph/Connections_528_1.md
+- [[Connections_902_1]] - document - vault/Graph/Connections_902.md
+- [[Connections_903_1]] - document - vault/Graph/Connections_903.md
+- [[Connections_904_3]] - document - vault/Graph/Connections_904.md
+- [[Connections_905_2]] - document - vault/Graph/Connections_905.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,9 +38,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 168]]
+- 7 edges to [[_COMMUNITY_Community 12]]
+- 3 edges to [[_COMMUNITY_Community 75]]
+- 1 edge to [[_COMMUNITY_Community 34]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 263]] - degree 4, connects to 1 community
-- [[Community 21_1]] - degree 3, connects to 1 community
-- [[_COMMUNITY_Community 375]] - degree 3, connects to 1 community
+- [[Connections_528_1_1]] - degree 5, connects to 3 communities
+- [[Connections_3923_1]] - degree 6, connects to 2 communities
+- [[Connections_3924_1]] - degree 5, connects to 2 communities
+- [[Connections_902_1]] - degree 4, connects to 1 community
+- [[Connections_904_3]] - degree 4, connects to 1 community

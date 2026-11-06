@@ -12,8 +12,8 @@ tags:
 # zeroStages()
 
 ## Connections
-- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
-- [[Functions_170]] - `references` [INFERRED]
+- [[BattleUI.client.luau_7]] - `contains` [EXTRACTED]
+- [[Functions_232]] - `references` [INFERRED]
 - [[applyState()]] - `calls` [EXTRACTED]
 - [[playTurn()]] - `calls` [EXTRACTED]
 

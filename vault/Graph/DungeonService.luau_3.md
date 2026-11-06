@@ -1,28 +1,20 @@
 ---
-source_file: "src/ServerScriptService/Modules/DungeonService.luau"
-type: "code"
-community: "Community 15"
+source_file: "vault/Graph/DungeonService.luau_3.md"
+type: "document"
+community: "Community 134"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_134
 ---
 
-# DungeonService.luau
+# DungeonService.luau_3.md
 
 ## Connections
-- [[DungeonService.enter()]] - `contains` [EXTRACTED]
-- [[DungeonService.init()]] - `contains` [EXTRACTED]
-- [[DungeonService.initPlayer()]] - `contains` [EXTRACTED]
-- [[DungeonService.leave()]] - `contains` [EXTRACTED]
-- [[GameData.luau_3]] - `imports` [EXTRACTED]
-- [[Main.server.luau_3]] - `imports` [EXTRACTED]
-- [[hipHeight()]] - `contains` [EXTRACTED]
-- [[ride()]] - `contains` [EXTRACTED]
-- [[room()]] - `contains` [EXTRACTED]
-- [[script_parent_battleservice_5]] - `imports` [EXTRACTED]
-- [[script_parent_npc_5]] - `imports` [EXTRACTED]
-- [[streamTo()]] - `contains` [EXTRACTED]
+- [[Connections_4794_1]] - `references` [EXTRACTED]
+- [[DungeonService.luau_6]] - `contains` [EXTRACTED]
+- [[DungeonService.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_134

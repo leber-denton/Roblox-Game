@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_115.md"
+source_file: "vault/Graph/PlayerData.markTrainerBeaten()_1_1.md"
 type: "document"
-community: "Community 947"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_947
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Functions_115_2]] - `contains` [EXTRACTED]
+- [[PlayerData.markTrainerBeaten()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_947
+#graphify/document #graphify/EXTRACTED #community/Community_134

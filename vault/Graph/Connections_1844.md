@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GraphAdminPanel.md"
+source_file: "vault/Graph/Connections_1384.md"
 type: "document"
-community: "Community 145"
+community: "Community 1104"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_145
+  - community/Community_1104
 ---
 
 # Connections
 
 ## Connections
-- [[GraphAdminPanel_3]] - `contains` [EXTRACTED]
+- [[Connections_1843]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_145
+#graphify/document #graphify/EXTRACTED #community/Community_1104

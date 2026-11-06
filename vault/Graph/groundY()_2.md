@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/groundY().md"
+source_file: "vault/Graph/groundY()_2.md"
 type: "document"
-community: "Community 21"
-location: "L12"
+community: "Community 18"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_18
 ---
 
-# groundY()
+# groundY()_2.md
 
 ## Connections
-- [[Connections_3061]] - `contains` [EXTRACTED]
-- [[groundY()_1]] - `contains` [EXTRACTED]
+- [[Connections_567_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1037]] - `references` [EXTRACTED]
+- [[groundY()_2_2]] - `contains` [EXTRACTED]
+- [[groundY()_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_18

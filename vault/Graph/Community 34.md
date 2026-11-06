@@ -12,8 +12,8 @@ tags:
 # Community 34.md
 
 ## Connections
-- [[Community 34_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 272]] - `references` [EXTRACTED]
+- [[Community 34_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

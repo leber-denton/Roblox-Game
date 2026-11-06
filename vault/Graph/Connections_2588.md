@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Graph/replicatedstorage_waitforchild_2.md"
+source_file: "vault/Graph/Connections_2588.md"
 type: "document"
-community: "Community 177"
-location: "L14"
+community: "Community 1017"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_177
+  - community/Community_1017
 ---
 
-# Connections
+# Connections_2588.md
 
 ## Connections
-- [[replicatedstorage_waitforchild_2_1]] - `contains` [EXTRACTED]
+- [[Connections_2588_1]] - `contains` [EXTRACTED]
+- [[Connections_51_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 101]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_177
+#graphify/document #graphify/EXTRACTED #community/Community_1017

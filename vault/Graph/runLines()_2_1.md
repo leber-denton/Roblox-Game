@@ -12,7 +12,7 @@ tags:
 # runLines()_2.md
 
 ## Connections
-- [[Connections_1181]] - `contains` [EXTRACTED]
+- [[Connections_3932]] - `contains` [EXTRACTED]
 - [[runLines()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_122

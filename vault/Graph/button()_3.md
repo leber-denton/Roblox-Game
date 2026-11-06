@@ -1,27 +1,20 @@
 ---
-source_file: "vault/Graph/button().md"
+source_file: "vault/Graph/button()_3.md"
 type: "document"
-community: "Community 63"
+community: "Community 1181"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_63
+  - community/Community_1181
 ---
 
-# button().md
+# button()_3.md
 
 ## Connections
-- [[DecorUI.client.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[button()_4]] - `contains` [EXTRACTED]
-- [[itemCard()_1]] - `references` [EXTRACTED]
-- [[new()_3_3]] - `references` [EXTRACTED]
-- [[new()_7_1]] - `references` [EXTRACTED]
-- [[tabs.Base()_1]] - `references` [EXTRACTED]
-- [[tabs.Crates()_1]] - `references` [EXTRACTED]
-- [[tabs.Items()_1]] - `references` [EXTRACTED]
-- [[tabs.Robux()_1]] - `references` [EXTRACTED]
-- [[tabs.Themes()_1]] - `references` [EXTRACTED]
+- [[Connections_2186_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1181]] - `references` [EXTRACTED]
+- [[button()_3_2]] - `contains` [EXTRACTED]
+- [[button()_3_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_63
+#graphify/document #graphify/EXTRACTED #community/Community_1181

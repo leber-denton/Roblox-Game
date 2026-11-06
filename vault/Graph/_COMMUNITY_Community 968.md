@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_6298]] - document - vault/Graph/Roblox-Game_2.md
-- [[Connections_6299]] - document - vault/Graph/Syncing to Studio_2.md
-- [[Roblox-Game_2_1]] - document - vault/Graph/Roblox-Game_2.md
-- [[Roblox-Game_2_2]] - document - vault/Graph/Roblox-Game_2.md
-- [[Syncing to Studio_2_1]] - document - vault/Graph/Syncing to Studio_2.md
-- [[Syncing to Studio_2_2]] - document - vault/Graph/Syncing to Studio_2.md
+- [[Connections_24307]] - document - vault/Graph/README.md
+- [[Connections_24308]] - document - vault/Graph/Roblox-Game_3.md
+- [[GraphREADME_8]] - document - vault/Graph/README.md
+- [[GraphREADME_9]] - document - vault/Graph/README.md
+- [[Roblox-Game_7]] - document - vault/Graph/Roblox-Game_3.md
+- [[Roblox-Game_3_1]] - document - vault/Graph/Roblox-Game_3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,14 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 209]]
 - 2 edges to [[_COMMUNITY_Community 115]]
-- 1 edge to [[_COMMUNITY_Community 187]]
-- 1 edge to [[_COMMUNITY_Community 401]]
-- 1 edge to [[_COMMUNITY_Community 505]]
-- 1 edge to [[_COMMUNITY_Community 599]]
-- 1 edge to [[_COMMUNITY_Community 984]]
 
 ## Top bridge nodes
-- [[Roblox-Game_2_1]] - degree 9, connects to 6 communities
-- [[Syncing to Studio_2_1]] - degree 5, connects to 3 communities
+- [[GraphREADME_8]] - degree 3, connects to 1 community
+- [[Roblox-Game_3_1]] - degree 3, connects to 1 community

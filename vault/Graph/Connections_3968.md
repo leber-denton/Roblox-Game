@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/AdminService.init()_2.md"
+source_file: "vault/Graph/Connections_2858.md"
 type: "document"
-community: "Community 334"
+community: "Community 1222"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_334
+  - community/Community_1222
 ---
 
 # Connections
 
 ## Connections
-- [[AdminService.init()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_3967]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_334
+#graphify/document #graphify/EXTRACTED #community/Community_1222

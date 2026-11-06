@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/projectile()_1.md"
+source_file: "vault/Graph/projectile()_3.md"
 type: "document"
 community: "Community 18"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_18
 ---
 
-# projectile().md
+# projectile()_3.md
 
 ## Connections
-- [[Connections_2648]] - `contains` [EXTRACTED]
-- [[projectile()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
+- [[projectile()_1]] - `references` [EXTRACTED]
+- [[projectile()_3_1]] - `contains` [EXTRACTED]
+- [[projectile()_5]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_18

@@ -12,7 +12,8 @@ tags:
 # Connections_830.md
 
 ## Connections
-- [[Connections_3706]] - `contains` [EXTRACTED]
-- [[ServerScriptService_1_1]] - `references` [EXTRACTED]
+- [[Connections_16191]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_60_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1050]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_307

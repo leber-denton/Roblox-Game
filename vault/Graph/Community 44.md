@@ -1,19 +1,22 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 44.md"
+source_file: "vault/Graph/Community 44.md"
 type: "document"
-community: "Community 113"
-location: "L6"
+community: "Community 1759"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_113
+  - community/Community_1759
 ---
 
-# Community 44
+# Community 44.md
 
 ## Connections
-- [[Live Query (requires Dataview plugin)_80]] - `contains` [EXTRACTED]
-- [[Members_80]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 44]] - `contains` [EXTRACTED]
+- [[Community 44_3]] - `contains` [EXTRACTED]
+- [[Community 44_1]] - `references` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_80_1_1]] - `references` [EXTRACTED]
+- [[Members_80_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 113]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 44]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_113
+#graphify/document #graphify/EXTRACTED #community/Community_1759

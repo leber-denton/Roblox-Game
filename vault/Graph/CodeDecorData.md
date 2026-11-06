@@ -12,10 +12,10 @@ tags:
 # Code/DecorData.md
 
 ## Connections
+- [[Code Map_2]] - `references` [EXTRACTED]
 - [[CodeBaseManager]] - `references` [EXTRACTED]
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
 - [[CodeDecorService_2]] - `references` [EXTRACTED]
 - [[CodeDecorUI]] - `references` [EXTRACTED]
-- [[DecorData_3]] - `contains` [EXTRACTED]
+- [[DecorData_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_13

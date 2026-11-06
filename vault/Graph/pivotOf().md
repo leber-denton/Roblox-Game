@@ -12,6 +12,6 @@ tags:
 # pivotOf()
 
 ## Connections
-- [[ModelSyncTests.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSyncTests.luau_8]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_5

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/ShowcaseBuilder.luau_1.md"
+source_file: "vault/Graph/ShowcaseBuilder.luau_4.md"
 type: "document"
-community: "Community 26"
-location: "L12"
+community: "Community 2513"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_26
+  - community/Community_2513
 ---
 
-# ShowcaseBuilder.luau.md
+# ShowcaseBuilder.luau_4.md
 
 ## Connections
-- [[Connections_3477]] - `contains` [EXTRACTED]
-- [[ShowcaseBuilder.luau_1_1]] - `contains` [EXTRACTED]
+- [[Connections_5102_1]] - `references` [EXTRACTED]
+- [[ShowcaseBuilder.luau]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 136]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_26
+#graphify/document #graphify/EXTRACTED #community/Community_2513

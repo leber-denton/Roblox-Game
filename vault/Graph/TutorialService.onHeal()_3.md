@@ -1,18 +1,23 @@
 ---
-source_file: "vault/Graph/TutorialService.onHeal()_2.md"
+source_file: "vault/Graph/TutorialService.onHeal().md"
 type: "document"
-community: "Community 134"
-location: "L12"
+community: "Community 276"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_276
 ---
 
 # TutorialService.onHeal().md
 
 ## Connections
-- [[Connections_1561]] - `contains` [EXTRACTED]
-- [[TutorialService.onHeal()_2]] - `contains` [EXTRACTED]
+- [[PlayerData.addCoins()_3]] - `references` [EXTRACTED]
+- [[PlayerData.addXP()_3]] - `references` [EXTRACTED]
+- [[TutorialService.onHeal()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
+- [[guideTarget()_6]] - `references` [EXTRACTED]
+- [[setStep()_6]] - `references` [EXTRACTED]
+- [[startNibbit()_6]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_276

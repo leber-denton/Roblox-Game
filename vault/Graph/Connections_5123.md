@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/hubCFrame()_2.md"
+source_file: "vault/Graph/Connections_1862.md"
 type: "document"
-community: "Community 710"
+community: "Community 1288"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_710
+  - community/Community_1288
 ---
 
 # Connections
 
 ## Connections
-- [[hubCFrame()_4]] - `contains` [EXTRACTED]
+- [[Connections_5122]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_710
+#graphify/document #graphify/EXTRACTED #community/Community_1288

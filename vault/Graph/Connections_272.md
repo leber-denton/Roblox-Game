@@ -1,19 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_272.md"
+source_file: "vault/Graph/Connections_244.md"
 type: "document"
-community: "Community 110"
-location: "L1"
+community: "Community 1020"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_110
+  - community/Community_1020
 ---
 
-# Connections_272.md
+# Connections
 
 ## Connections
-- [[Code Map_2_1]] - `references` [EXTRACTED]
-- [[Connections_224]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 110]] - `references` [EXTRACTED]
+- [[Connections_271]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_110
+#graphify/document #graphify/EXTRACTED #community/Community_1020

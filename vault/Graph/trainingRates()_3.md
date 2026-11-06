@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/trainingRates().md"
+source_file: "vault/Graph/trainingRates()_1.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2328"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2328
 ---
 
-# trainingRates().md
+# trainingRates()
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[countWith()_3]] - `references` [EXTRACTED]
-- [[train()_3]] - `references` [EXTRACTED]
-- [[trainingRates()_4]] - `contains` [EXTRACTED]
+- [[Connections_13503]] - `contains` [EXTRACTED]
+- [[trainingRates()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2328

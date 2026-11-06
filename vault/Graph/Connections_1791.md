@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/TrainerAnimationsstopAll().md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_139.md"
 type: "document"
-community: "Community 143"
+community: "Community 1100"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_143
+  - community/Community_1100
 ---
 
 # Connections
 
 ## Connections
-- [[TrainerAnimationsstopAll()_2]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_167]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_143
+#graphify/document #graphify/EXTRACTED #community/Community_1100

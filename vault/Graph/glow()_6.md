@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/glow().md"
+source_file: "vault/Graph/glow()_1.md"
 type: "document"
-community: "Community 21"
+community: "Community 167"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_167
 ---
 
-# glow()
+# glow().md
 
 ## Connections
-- [[Connections_3059]] - `contains` [EXTRACTED]
-- [[glow()_5]] - `contains` [EXTRACTED]
+- [[Connections_9353]] - `contains` [EXTRACTED]
+- [[glow()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_167

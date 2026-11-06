@@ -1,17 +1,21 @@
 ---
-source_file: ".claude/skills/ship/SKILL.md"
+source_file: "vault/Graph/Steps_2.md"
 type: "document"
-community: "Community 60"
-location: "L12"
+community: "Community 572"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_60
+  - community/Community_572
 ---
 
-# Steps
+# Steps_2.md
 
 ## Connections
-- [[ship_5]] - `contains` [EXTRACTED]
+- [[Steps]] - `references` [EXTRACTED]
+- [[Steps_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 172]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 60]] - `references` [EXTRACTED]
+- [[ship_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_60
+#graphify/document #graphify/EXTRACTED #community/Community_572

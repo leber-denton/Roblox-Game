@@ -9,10 +9,10 @@ members: 5
 
 ## Members
 - [[Community 333]] - document - vault/Graph/_COMMUNITY_Community 333.md
-- [[Connections to other communities_38]] - document - vault/Graph/_COMMUNITY_Community 333.md
-- [[Live Query (requires Dataview plugin)_37]] - document - vault/Graph/_COMMUNITY_Community 333.md
-- [[Members_37]] - document - vault/Graph/_COMMUNITY_Community 333.md
-- [[Top bridge nodes_41]] - document - vault/Graph/_COMMUNITY_Community 333.md
+- [[Connections to other communities_34]] - document - vault/Graph/_COMMUNITY_Community 333.md
+- [[Live Query (requires Dataview plugin)_60]] - document - vault/Graph/_COMMUNITY_Community 333.md
+- [[Members_63]] - document - vault/Graph/_COMMUNITY_Community 333.md
+- [[Top bridge nodes_34]] - document - vault/Graph/_COMMUNITY_Community 333.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/categories()_2.md"
 type: "document"
-community: "Community 189"
+community: "Community 250"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_189
+  - community/Community_250
 ---
 
 # categories()
 
 ## Connections
-- [[Connections_2751]] - `contains` [EXTRACTED]
+- [[Connections_14292]] - `contains` [EXTRACTED]
 - [[categories()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_189
+#graphify/document #graphify/EXTRACTED #community/Community_250

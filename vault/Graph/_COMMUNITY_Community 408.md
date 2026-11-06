@@ -1,32 +1,25 @@
 ---
 type: community
-members: 19
+members: 12
 ---
 
 # Community 408
 
-**Members:** 19 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_4181]] - document - vault/Graph/Functions_118.md
-- [[Connections_4182]] - document - vault/Graph/Required by_100.md
-- [[Connections_4183]] - document - vault/Graph/Required by_115.md
-- [[Connections_4184]] - document - vault/Graph/Requires_116.md
-- [[Connections_4185]] - document - vault/Graph/Requires_97.md
-- [[Connections_4186]] - document - vault/Graph/WeeklyEventService_2.md
-- [[Functions_118_1]] - document - vault/Graph/Functions_118.md
-- [[Functions_118_2]] - document - vault/Graph/Functions_118.md
-- [[Required by_124]] - document - vault/Graph/Required by_100.md
-- [[Required by_100_1]] - document - vault/Graph/Required by_100.md
-- [[Required by_115_1]] - document - vault/Graph/Required by_115.md
-- [[Required by_115_2]] - document - vault/Graph/Required by_115.md
-- [[Requires_131]] - document - vault/Graph/Requires_97.md
-- [[Requires_116_1]] - document - vault/Graph/Requires_116.md
-- [[Requires_116_2]] - document - vault/Graph/Requires_116.md
-- [[Requires_97_1]] - document - vault/Graph/Requires_97.md
-- [[WeeklyEventService_2]] - document - vault/Graph/WeeklyEventService_2.md
-- [[WeeklyEventService_2_1]] - document - vault/Graph/WeeklyEventService_2.md
-- [[_COMMUNITY_Community 77]] - document - vault/Graph/_COMMUNITY_Community 77.md
+- [[Bag_6]] - document - vault/Graph/Bag.md
+- [[CodeBag_6]] - document - vault/Graph/CodeBag.md
+- [[CodeBag_5]] - document - vault/Graph/CodeBag.md
+- [[Connections_18837]] - document - vault/Graph/Bag.md
+- [[Connections_18838]] - document - vault/Graph/CodeBag.md
+- [[Connections_18839]] - document - vault/Graph/Required by_100.md
+- [[Connections_18840]] - document - vault/Graph/Requires_88.md
+- [[GraphBag_5]] - document - vault/Graph/Bag.md
+- [[Required by_208]] - document - vault/Graph/Required by_100.md
+- [[Required by_100_3]] - document - vault/Graph/Required by_100.md
+- [[Requires_209]] - document - vault/Graph/Requires_88.md
+- [[Requires_88_4]] - document - vault/Graph/Requires_88.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -36,13 +29,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 119]]
-- 1 edge to [[_COMMUNITY_Community 1108]]
-- 1 edge to [[_COMMUNITY_Community 165]]
-- 1 edge to [[_COMMUNITY_Community 365]]
-- 1 edge to [[_COMMUNITY_Community 94]]
+- 4 edges to [[_COMMUNITY_Community 226]]
+- 1 edge to [[_COMMUNITY_Community 203]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 77]] - degree 8, connects to 4 communities
-- [[WeeklyEventService_2]] - degree 6, connects to 1 community
-- [[Functions_118_1]] - degree 4, connects to 1 community
+- [[GraphBag_5]] - degree 6, connects to 2 communities
+- [[CodeBag_5]] - degree 3, connects to 1 community
+- [[Requires_88_4]] - degree 3, connects to 1 community
+- [[Required by_100_3]] - degree 3, connects to 1 community

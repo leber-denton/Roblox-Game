@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Graph/isShowcaseOrGallery()_2.md"
+source_file: "vault/Graph/isShowcaseOrGallery()_2_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 112"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_112
 ---
 
-# isShowcaseOrGallery()_2.md
+# isShowcaseOrGallery()_2_1.md
 
 ## Connections
-- [[Connections_327_1]] - `references` [EXTRACTED]
+- [[Connections_265_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[isShowcaseOrGallery()_4]] - `contains` [EXTRACTED]
 - [[isShowcaseOrGallery()_1_1]] - `references` [EXTRACTED]
+- [[isShowcaseOrGallery()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_112

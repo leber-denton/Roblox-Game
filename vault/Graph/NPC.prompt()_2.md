@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[NPC.prompt()_1]] - `references` [EXTRACTED]
-- [[NPC.prompt()_2_1]] - `contains` [EXTRACTED]
+- [[NPC.prompt()_2_3]] - `contains` [EXTRACTED]
+- [[NPC.prompt()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 333]] - `references` [EXTRACTED]
 

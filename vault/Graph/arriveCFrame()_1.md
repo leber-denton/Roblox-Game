@@ -12,8 +12,9 @@ tags:
 # arriveCFrame().md
 
 ## Connections
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[arriveCFrame()_2]] - `contains` [EXTRACTED]
+- [[arriveCFrame()_3]] - `contains` [EXTRACTED]
 - [[centerOf()_1]] - `references` [EXTRACTED]
 - [[setupPortals()_1]] - `references` [EXTRACTED]
 

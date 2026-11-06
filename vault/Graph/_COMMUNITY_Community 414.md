@@ -1,15 +1,25 @@
 ---
 type: community
-members: 2
+members: 12
 ---
 
 # Community 414
 
-**Members:** 2 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_4209]] - document - vault/Graph/near()_1.md
-- [[near()_4]] - document - vault/Graph/near()_1.md
+- [[Connections_19173]] - document - vault/Graph/GymService.init()_3.md
+- [[Connections_19174]] - document - vault/Graph/GymService.init()_4.md
+- [[Connections_19175]] - document - vault/Graph/placeLeaders()_3.md
+- [[Connections_19176]] - document - vault/Graph/placeLeaders()_4.md
+- [[GymService.init()_6]] - document - vault/Graph/GymService.init()_4.md
+- [[GymService.init()_5]] - document - vault/Graph/GymService.init()_3.md
+- [[GymService.init()_3_1]] - document - vault/Graph/GymService.init()_3.md
+- [[GymService.init()_4_1]] - document - vault/Graph/GymService.init()_4.md
+- [[placeLeaders()_6]] - document - vault/Graph/placeLeaders()_4.md
+- [[placeLeaders()_5]] - document - vault/Graph/placeLeaders()_3.md
+- [[placeLeaders()_3_1]] - document - vault/Graph/placeLeaders()_3.md
+- [[placeLeaders()_4_1]] - document - vault/Graph/placeLeaders()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +29,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 309]]
+- 4 edges to [[_COMMUNITY_Community 1187]]
+- 2 edges to [[_COMMUNITY_Community 276]]
+- 1 edge to [[_COMMUNITY_Community 793]]
+- 1 edge to [[_COMMUNITY_Community 93]]
 
 ## Top bridge nodes
-- [[near()_4]] - degree 2, connects to 1 community
+- [[placeLeaders()_3_1]] - degree 6, connects to 3 communities
+- [[GymService.init()_3_1]] - degree 6, connects to 3 communities
+- [[placeLeaders()_4_1]] - degree 3, connects to 1 community
+- [[GymService.init()_4_1]] - degree 3, connects to 1 community

@@ -1,23 +1,20 @@
 ---
-source_file: "vault/Graph/showPicker()_2.md"
+source_file: "vault/Graph/showPicker()_2_1.md"
 type: "document"
-community: "Community 240"
+community: "Community 1824"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1824
 ---
 
-# showPicker()_2.md
+# showPicker()_2_1.md
 
 ## Connections
-- [[Tutorial.client.luau_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[new()_3_1]] - `references` [EXTRACTED]
-- [[preview()_1_1_1]] - `references` [EXTRACTED]
-- [[showPicker()_5]] - `contains` [EXTRACTED]
-- [[showPicker()_3_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 240]] - `references` [EXTRACTED]
+- [[showPicker()_1_1_1]] - `references` [EXTRACTED]
+- [[showPicker()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1824

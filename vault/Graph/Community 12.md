@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 12.md"
+source_file: "vault/Graph/Community 12_1.md"
 type: "document"
 community: "Community 255"
-location: "L6"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_255
 ---
 
-# Community 12
+# Community 12.md
 
 ## Connections
-- [[Connections to other communities_199]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_230]] - `contains` [EXTRACTED]
-- [[Members_234]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_205]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `contains` [EXTRACTED]
+- [[Community 12_1]] - `contains` [EXTRACTED]
+- [[Connections_14488]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_255

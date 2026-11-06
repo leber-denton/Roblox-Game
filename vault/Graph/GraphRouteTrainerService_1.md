@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/RouteTrainerService.md"
+source_file: "vault/Graph/GraphRouteTrainerService_1.md"
 type: "document"
 community: "Community 161"
 location: "L1"
@@ -9,10 +9,10 @@ tags:
   - community/Community_161
 ---
 
-# Graph/RouteTrainerService.md
+# GraphRouteTrainerService_1.md
 
 ## Connections
-- [[RouteTrainerService]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 161]] - `references` [EXTRACTED]
+- [[GraphRouteTrainerService_4]] - `contains` [EXTRACTED]
+- [[GraphRouteTrainerService_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_161

@@ -9,8 +9,8 @@ members: 3
 
 ## Members
 - [[Community 36]] - document - vault/Graph/_COMMUNITY_Community 36.md
-- [[Live Query (requires Dataview plugin)_81]] - document - vault/Graph/_COMMUNITY_Community 36.md
-- [[Members_81]] - document - vault/Graph/_COMMUNITY_Community 36.md
+- [[Live Query (requires Dataview plugin)_224]] - document - vault/Graph/_COMMUNITY_Community 36.md
+- [[Members_226]] - document - vault/Graph/_COMMUNITY_Community 36.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 96]]
+- 1 edge to [[_COMMUNITY_Community 597]]
 
 ## Top bridge nodes
 - [[Community 36]] - degree 3, connects to 1 community

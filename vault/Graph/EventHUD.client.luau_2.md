@@ -1,21 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/EventHUD.client.luau"
-type: "code"
-community: "Community 45"
-location: "L1"
+source_file: "vault/Graph/EventHUD.client.luau_2_2.md"
+type: "document"
+community: "Community 338"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_45
+  - community/Community_338
 ---
 
-# EventHUD.client.luau
+# EventHUD.client.luau_2.md
 
 ## Connections
-- [[describe()]] - `contains` [EXTRACTED]
-- [[fmt()]] - `contains` [EXTRACTED]
-- [[new()_8]] - `contains` [EXTRACTED]
-- [[onRareCatch()]] - `contains` [EXTRACTED]
-- [[round()_4]] - `contains` [EXTRACTED]
+- [[Connections_17380]] - `contains` [EXTRACTED]
+- [[EventHUD.client.luau_2_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_45
+#graphify/document #graphify/EXTRACTED #community/Community_338

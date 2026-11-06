@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/pickStarter()_1.md"
+source_file: "vault/Graph/pickStarter()_3.md"
 type: "document"
-community: "Community 626"
-location: "L1"
+community: "Community 1187"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_626
+  - community/Community_1187
 ---
 
-# pickStarter()_1.md
+# pickStarter()
 
 ## Connections
-- [[Connections_488_1]] - `references` [EXTRACTED]
+- [[Connections_3358]] - `contains` [EXTRACTED]
 - [[pickStarter()_3]] - `contains` [EXTRACTED]
-- [[pickStarter()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_626
+#graphify/document #graphify/EXTRACTED #community/Community_1187

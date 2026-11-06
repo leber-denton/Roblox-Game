@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/Features.blush()_2.md"
+source_file: "vault/Graph/Connections_4097.md"
 type: "document"
-community: "Community 369"
-location: "L14"
+community: "Community 1077"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_369
+  - community/Community_1077
 ---
 
-# Connections
+# Connections_4097.md
 
 ## Connections
-- [[Features.blush()_4]] - `contains` [EXTRACTED]
+- [[Connections_1189_1]] - `references` [EXTRACTED]
+- [[Connections_4097_1]] - `contains` [EXTRACTED]
+- [[Features.blush()_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1077]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 369]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_369
+#graphify/document #graphify/EXTRACTED #community/Community_1077

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/isChampion()_2.md"
+source_file: "vault/Graph/Connections_1300.md"
 type: "document"
-community: "Community 134"
+community: "Community 1091"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1091
 ---
 
 # Connections
 
 ## Connections
-- [[isChampion()_3]] - `contains` [EXTRACTED]
+- [[Connections_1493]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1091

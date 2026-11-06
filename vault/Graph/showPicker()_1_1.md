@@ -12,9 +12,9 @@ tags:
 # showPicker()_1.md
 
 ## Connections
-- [[label()_1_2]] - `references` [EXTRACTED]
-- [[new()_7_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 421]] - `references` [EXTRACTED]
+- [[new()_6_1]] - `references` [EXTRACTED]
 - [[preview()_2_1]] - `references` [EXTRACTED]
-- [[showPicker()_2]] - `contains` [EXTRACTED]
+- [[showPicker()_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_109

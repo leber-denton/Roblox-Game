@@ -1,18 +1,22 @@
 ---
 source_file: "vault/Graph/Wander_2.md"
 type: "document"
-community: "Community 93"
-location: "L12"
+community: "Community 382"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_382
 ---
 
 # Wander_2.md
 
 ## Connections
-- [[Connections_6224]] - `contains` [EXTRACTED]
-- [[Wander_2]] - `contains` [EXTRACTED]
+- [[GraphWander_1]] - `references` [EXTRACTED]
+- [[Wander_2_3]] - `contains` [EXTRACTED]
+- [[Wander_2_1_1]] - `references` [EXTRACTED]
+- [[Wander_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 322]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 93]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_382

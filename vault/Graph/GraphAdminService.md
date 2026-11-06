@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[AdminService_1]] - `references` [EXTRACTED]
-- [[GraphAdminService_2]] - `contains` [EXTRACTED]
+- [[GraphAdminService_4]] - `contains` [EXTRACTED]
+- [[GraphAdminService_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 145]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_145

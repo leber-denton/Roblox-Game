@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CreatureBuilder.build().md"
+source_file: "vault/Graph/ModelSync.preview().md"
 type: "document"
-community: "Community 203"
+community: "Community 117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[CreatureBuilder.build()_6]] - `contains` [EXTRACTED]
+- [[ModelSync.preview()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_117

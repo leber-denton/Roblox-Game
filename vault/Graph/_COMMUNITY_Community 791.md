@@ -1,19 +1,40 @@
 ---
 type: community
-members: 6
+members: 27
 ---
 
 # Community 791
 
-**Members:** 6 nodes
+**Members:** 27 nodes
 
 ## Members
-- [[Connections_5422]] - document - vault/Graph/button()_2.md
-- [[Connections_5423]] - document - vault/Graph/Connections_705.md
-- [[Connections_5424]] - document - vault/Graph/Connections_705.md
-- [[Connections_705_1]] - document - vault/Graph/Connections_705.md
-- [[button()_5]] - document - vault/Graph/button()_2.md
-- [[button()_2_1]] - document - vault/Graph/button()_2.md
+- [[Connections_22748]] - document - vault/Graph/Connections_1090_1.md
+- [[Connections_22749]] - document - vault/Graph/Connections_5395.md
+- [[Connections_22750]] - document - vault/Graph/Connections_5395.md
+- [[Connections_22751]] - document - vault/Graph/Connections_5396.md
+- [[Connections_22752]] - document - vault/Graph/Connections_5396.md
+- [[Connections_22753]] - document - vault/Graph/Connections_5512.md
+- [[Connections_22754]] - document - vault/Graph/Connections_5512.md
+- [[Connections_22755]] - document - vault/Graph/Connections_5513.md
+- [[Connections_22756]] - document - vault/Graph/Connections_5513.md
+- [[Connections_22757]] - document - vault/Graph/spawnsFrom()_1.md
+- [[Connections_22758]] - document - vault/Graph/spawnsFrom()_2.md
+- [[Connections_22759]] - document - vault/Graph/spawnsFrom()_3.md
+- [[Connections_22760]] - document - vault/Graph/spawnsFrom()_4.md
+- [[Connections_1090_2]] - document - vault/Graph/Connections_1090_1.md
+- [[Connections_1090_1_1]] - document - vault/Graph/Connections_1090_1.md
+- [[Connections_5395_1]] - document - vault/Graph/Connections_5395.md
+- [[Connections_5396_1]] - document - vault/Graph/Connections_5396.md
+- [[Connections_5512_1]] - document - vault/Graph/Connections_5512.md
+- [[Connections_5513_1]] - document - vault/Graph/Connections_5513.md
+- [[spawnsFrom()_6]] - document - vault/Graph/spawnsFrom()_4.md
+- [[spawnsFrom()_5]] - document - vault/Graph/spawnsFrom()_3.md
+- [[spawnsFrom()_1_2]] - document - vault/Graph/spawnsFrom()_1.md
+- [[spawnsFrom()_1_3]] - document - vault/Graph/spawnsFrom()_1.md
+- [[spawnsFrom()_2_2]] - document - vault/Graph/spawnsFrom()_2.md
+- [[spawnsFrom()_2_3]] - document - vault/Graph/spawnsFrom()_2.md
+- [[spawnsFrom()_3]] - document - vault/Graph/spawnsFrom()_3.md
+- [[spawnsFrom()_4]] - document - vault/Graph/spawnsFrom()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +44,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 27]]
-- 1 edge to [[_COMMUNITY_Community 138]]
+- 9 edges to [[_COMMUNITY_Community 49]]
+- 3 edges to [[_COMMUNITY_Community 138]]
+- 1 edge to [[_COMMUNITY_Community 120]]
 
 ## Top bridge nodes
-- [[button()_2_1]] - degree 4, connects to 2 communities
-- [[Connections_705_1]] - degree 3, connects to 1 community
+- [[spawnsFrom()_1_2]] - degree 6, connects to 3 communities
+- [[spawnsFrom()_2_2]] - degree 6, connects to 2 communities
+- [[Connections_1090_1_1]] - degree 5, connects to 2 communities
+- [[Connections_5395_1]] - degree 4, connects to 1 community
+- [[spawnsFrom()_3]] - degree 4, connects to 1 community

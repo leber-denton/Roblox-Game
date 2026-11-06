@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/BaseManager.spawnCFrame().md"
+source_file: "vault/Graph/BaseManager.spawnCFrame()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2089"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2089
 ---
 
-# BaseManager.spawnCFrame()
+# BaseManager.spawnCFrame()_4.md
 
 ## Connections
-- [[BaseManager.spawnCFrame()_3]] - `contains` [EXTRACTED]
-- [[Connections_5680]] - `contains` [EXTRACTED]
+- [[BaseManager.spawnCFrame()_6]] - `contains` [EXTRACTED]
+- [[BaseManager.spawnCFrame()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2089

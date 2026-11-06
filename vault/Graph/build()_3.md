@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/build()_3.md"
+source_file: "vault/Graph/build()_1.md"
 type: "document"
-community: "Community 121"
-location: "L1"
+community: "Community 113"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_121
+  - community/Community_113
 ---
 
-# build()_3.md
+# build()
 
 ## Connections
-- [[ColiseumUI.client.luau_2]] - `references` [EXTRACTED]
-- [[GameData.itemSummary()_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 121]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 239]] - `references` [EXTRACTED]
-- [[build()_5]] - `contains` [EXTRACTED]
-- [[build()_4_1]] - `references` [EXTRACTED]
-- [[header()_4]] - `references` [EXTRACTED]
-- [[row()_1_1]] - `references` [EXTRACTED]
+- [[Connections_2391]] - `contains` [EXTRACTED]
+- [[build()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_121
+#graphify/document #graphify/EXTRACTED #community/Community_113

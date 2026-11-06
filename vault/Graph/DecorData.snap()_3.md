@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.snap().md"
+source_file: "vault/Graph/DecorData.snap()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2231"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2231
 ---
 
-# DecorData.snap().md
+# DecorData.snap()_3.md
 
 ## Connections
-- [[DecorData.luau_1]] - `references` [EXTRACTED]
-- [[DecorData.snap()_4]] - `contains` [EXTRACTED]
-- [[DecorService.onLoaded()_5]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[cleanArgs()_3]] - `references` [EXTRACTED]
+- [[DecorData.snap()_5]] - `contains` [EXTRACTED]
+- [[DecorData.snap()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2231

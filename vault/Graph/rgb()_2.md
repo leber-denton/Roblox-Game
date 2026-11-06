@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/rgb().md"
+source_file: "vault/Graph/rgb()_2.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 3165"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3165
 ---
 
-# rgb()
+# rgb()_2.md
 
 ## Connections
-- [[Connections_5844]] - `contains` [EXTRACTED]
-- [[rgb()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[rgb()_1]] - `references` [EXTRACTED]
+- [[rgb()_1_1]] - `references` [EXTRACTED]
+- [[rgb()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3165

@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/BaseManager.luau"
 type: "code"
-community: "Community 16"
+community: "Community 11"
 location: "L391"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_16
+  - community/Community_11
 ---
 
 # BaseManager.serialize()
@@ -17,4 +17,4 @@ tags:
 - [[BaseManager.luau]] - `contains` [EXTRACTED]
 - [[SaveService.save()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_16
+#graphify/code #graphify/EXTRACTED #community/Community_11

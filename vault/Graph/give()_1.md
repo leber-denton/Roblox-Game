@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/give()_1.md"
+source_file: "vault/Graph/give()_1_1.md"
 type: "document"
 community: "Community 168"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,16 +12,7 @@ tags:
 # give()_1.md
 
 ## Connections
-- [[AdminService.luau]] - `references` [EXTRACTED]
-- [[BaseManager.addCreature()_1]] - `references` [EXTRACTED]
-- [[BaseManager.newRecord()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 75]] - `references` [EXTRACTED]
-- [[commands.finishTutorial()_1]] - `references` [EXTRACTED]
-- [[commands.give()_1]] - `references` [EXTRACTED]
-- [[commands.opTeam()_1]] - `references` [EXTRACTED]
+- [[Connections_9562]] - `contains` [EXTRACTED]
 - [[give()_1_1]] - `contains` [EXTRACTED]
-- [[give()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

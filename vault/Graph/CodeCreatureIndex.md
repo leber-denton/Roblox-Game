@@ -14,8 +14,9 @@ tags:
 ## Connections
 - [[CodeBattleData]] - `references` [EXTRACTED]
 - [[CodeCreatureIndex_1]] - `contains` [EXTRACTED]
+- [[CodeCreatureIndex_1_1]] - `references` [EXTRACTED]
 - [[CodeGameData]] - `references` [EXTRACTED]
-- [[CreatureIndex_1]] - `references` [EXTRACTED]
+- [[CreatureIndex_1_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
 

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Top bridge nodes_14.md"
+source_file: "vault/Graph/yaw()_1_1.md"
 type: "document"
-community: "Community 158"
+community: "Community 1111"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_158
+  - community/Community_1111
 ---
 
 # Connections
 
 ## Connections
-- [[Top bridge nodes_128]] - `contains` [EXTRACTED]
+- [[yaw()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_158
+#graphify/document #graphify/EXTRACTED #community/Community_1111

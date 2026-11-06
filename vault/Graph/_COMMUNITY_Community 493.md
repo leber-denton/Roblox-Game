@@ -1,25 +1,31 @@
 ---
 type: community
-members: 12
+members: 18
 ---
 
 # Community 493
 
-**Members:** 12 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[AdminPanel_3]] - document - vault/Graph/AdminPanel_2.md
-- [[AdminPanel_2_1]] - document - vault/Graph/AdminPanel_2.md
-- [[CodeAdminPanel_2]] - document - vault/Graph/CodeAdminPanel.md
-- [[CodeAdminPanel_1]] - document - vault/Graph/CodeAdminPanel.md
-- [[Connections_4427]] - document - vault/Graph/AdminPanel_2.md
-- [[Connections_4428]] - document - vault/Graph/CodeAdminPanel.md
-- [[Connections_4429]] - document - vault/Graph/Required by_102.md
-- [[Connections_4430]] - document - vault/Graph/Requires_99.md
-- [[Required by_135]] - document - vault/Graph/Required by_102.md
-- [[Required by_102_1]] - document - vault/Graph/Required by_102.md
-- [[Requires_142]] - document - vault/Graph/Requires_99.md
-- [[Requires_99_1]] - document - vault/Graph/Requires_99.md
+- [[Community 1322]] - document - vault/Graph/_COMMUNITY_Community 1322.md
+- [[Connections_19983]] - document - vault/Graph/Connections_4105.md
+- [[Connections_19984]] - document - vault/Graph/Connections_4105.md
+- [[Connections_19985]] - document - vault/Graph/Connections_4106.md
+- [[Connections_19986]] - document - vault/Graph/Connections_4106.md
+- [[Connections_19987]] - document - vault/Graph/Connections_4107.md
+- [[Connections_19988]] - document - vault/Graph/Connections_4107.md
+- [[Connections_19989]] - document - vault/Graph/Connections_4108.md
+- [[Connections_19990]] - document - vault/Graph/Connections_4108.md
+- [[Connections to other communities_1352]] - document - vault/Graph/_COMMUNITY_Community 1322.md
+- [[Connections_4105_1]] - document - vault/Graph/Connections_4105.md
+- [[Connections_4106_1]] - document - vault/Graph/Connections_4106.md
+- [[Connections_4107_1]] - document - vault/Graph/Connections_4107.md
+- [[Connections_4108_1]] - document - vault/Graph/Connections_4108.md
+- [[Live Query (requires Dataview plugin)_1589]] - document - vault/Graph/_COMMUNITY_Community 1322.md
+- [[Members_1591]] - document - vault/Graph/_COMMUNITY_Community 1322.md
+- [[Top bridge nodes_1351]] - document - vault/Graph/_COMMUNITY_Community 1322.md
+- [[_COMMUNITY_Community 1322]] - document - vault/Graph/_COMMUNITY_Community 1322.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,7 +35,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 30]]
+- 1 edge to [[_COMMUNITY_Community 522]]
 
 ## Top bridge nodes
-- [[AdminPanel_2_1]] - degree 5, connects to 1 community
+- [[_COMMUNITY_Community 1322]] - degree 6, connects to 1 community

@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/WeeklyEventService.startNow()_2.md"
 type: "document"
-community: "Community 292"
-location: "L1"
+community: "Community 144"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_144
 ---
 
 # WeeklyEventService.startNow()_2.md
 
 ## Connections
-- [[WeeklyEventService.startNow()_1_1]] - `references` [EXTRACTED]
-- [[WeeklyEventService.startNow()_2_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 316]] - `references` [EXTRACTED]
+- [[Connections_7480]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.startNow()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_144

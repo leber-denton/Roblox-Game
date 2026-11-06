@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/waitUntilFree().md"
+source_file: "vault/Graph/actions.upgrade()_2_1.md"
 type: "document"
-community: "Community 234"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[waitUntilFree()_4]] - `contains` [EXTRACTED]
+- [[actions.upgrade()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_1187

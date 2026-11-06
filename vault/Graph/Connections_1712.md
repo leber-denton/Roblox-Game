@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/darker()_2.md"
+source_file: "vault/Graph/Top bridge nodes_98.md"
 type: "document"
-community: "Community 139"
+community: "Community 1099"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_139
+  - community/Community_1099
 ---
 
 # Connections
 
 ## Connections
-- [[darker()_4]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_118]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_139
+#graphify/document #graphify/EXTRACTED #community/Community_1099

@@ -1,22 +1,31 @@
 ---
 type: community
-members: 9
+members: 18
 ---
 
 # Community 369
 
-**Members:** 9 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Connections_4094]] - document - vault/Graph/Connections_1099.md
-- [[Connections_4095]] - document - vault/Graph/Connections_1099.md
-- [[Connections_4096]] - document - vault/Graph/Features.blush()_1.md
-- [[Connections_4097]] - document - vault/Graph/Features.blush()_2.md
-- [[Connections_1099_1]] - document - vault/Graph/Connections_1099.md
-- [[Features.blush()_4]] - document - vault/Graph/Features.blush()_2.md
-- [[Features.blush()_3]] - document - vault/Graph/Features.blush()_1.md
-- [[Features.blush()_1_1]] - document - vault/Graph/Features.blush()_1.md
-- [[Features.blush()_2_1]] - document - vault/Graph/Features.blush()_2.md
+- [[Community 369_2]] - document - vault/Graph/_COMMUNITY_Community 369.md
+- [[Community 445]] - document - vault/Graph/_COMMUNITY_Community 445.md
+- [[Connections_18144]] - document - vault/Graph/Live Query (requires Dataview plugin)_3_1.md
+- [[Connections_18145]] - document - vault/Graph/Members_2_1.md
+- [[Connections to other communities_1216]] - document - vault/Graph/_COMMUNITY_Community 369.md
+- [[Connections to other communities_1217]] - document - vault/Graph/_COMMUNITY_Community 445.md
+- [[Live Query (requires Dataview plugin)_1443]] - document - vault/Graph/_COMMUNITY_Community 369.md
+- [[Live Query (requires Dataview plugin)_1444]] - document - vault/Graph/_COMMUNITY_Community 445.md
+- [[Live Query (requires Dataview plugin)_3_2]] - document - vault/Graph/Live Query (requires Dataview plugin)_3_1.md
+- [[Live Query (requires Dataview plugin)_3_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_3_1.md
+- [[Members_1446]] - document - vault/Graph/_COMMUNITY_Community 369.md
+- [[Members_1447]] - document - vault/Graph/_COMMUNITY_Community 445.md
+- [[Members_2_2]] - document - vault/Graph/Members_2_1.md
+- [[Members_2_1]] - document - vault/Graph/Members_2_1.md
+- [[Top bridge nodes_1160]] - document - vault/Graph/_COMMUNITY_Community 369.md
+- [[Top bridge nodes_1161]] - document - vault/Graph/_COMMUNITY_Community 445.md
+- [[_COMMUNITY_Community 369]] - document - vault/Graph/_COMMUNITY_Community 369.md
+- [[_COMMUNITY_Community 445]] - document - vault/Graph/_COMMUNITY_Community 445.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,11 +35,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 151]]
-- 1 edge to [[_COMMUNITY_Community 137]]
-- 1 edge to [[_COMMUNITY_Community 176]]
+- 4 edges to [[_COMMUNITY_Community 1077]]
+- 3 edges to [[_COMMUNITY_Community 115]]
+- 2 edges to [[_COMMUNITY_Community 446]]
+- 2 edges to [[_COMMUNITY_Community 916]]
+- 2 edges to [[_COMMUNITY_Community 833]]
+- 1 edge to [[_COMMUNITY_Community 12]]
+- 1 edge to [[_COMMUNITY_Community 1293]]
+- 1 edge to [[_COMMUNITY_Community 1309]]
+- 1 edge to [[_COMMUNITY_Community 1310]]
+- 1 edge to [[_COMMUNITY_Community 34]]
 
 ## Top bridge nodes
-- [[Features.blush()_1_1]] - degree 5, connects to 3 communities
-- [[Features.blush()_2_1]] - degree 4, connects to 1 community
-- [[Connections_1099_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 369]] - degree 16, connects to 7 communities
+- [[_COMMUNITY_Community 445]] - degree 8, connects to 3 communities
+- [[Live Query (requires Dataview plugin)_3_1]] - degree 4, connects to 1 community
+- [[Members_2_1]] - degree 4, connects to 1 community

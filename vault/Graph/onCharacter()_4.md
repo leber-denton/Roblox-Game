@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/onCharacter().md"
+source_file: "vault/Graph/onCharacter()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2271"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2271
 ---
 
-# onCharacter()
+# onCharacter()_4.md
 
 ## Connections
-- [[Connections_5783]] - `contains` [EXTRACTED]
-- [[onCharacter()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[onCharacter()_3]] - `references` [EXTRACTED]
+- [[onCharacter()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2271

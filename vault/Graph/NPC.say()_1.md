@@ -13,9 +13,10 @@ tags:
 
 ## Connections
 - [[DungeonService.init()_1]] - `references` [EXTRACTED]
-- [[LeagueService.init()_1]] - `references` [EXTRACTED]
+- [[LeagueService.init()_1_1]] - `references` [EXTRACTED]
 - [[NPC.luau_1]] - `references` [EXTRACTED]
-- [[NPC.say()_1_1]] - `contains` [EXTRACTED]
+- [[NPC.say()_1_3]] - `contains` [EXTRACTED]
+- [[NPC.say()_1_1]] - `references` [EXTRACTED]
 - [[NPC.say()_2]] - `references` [EXTRACTED]
 - [[RouteTrainerService.init()_1]] - `references` [EXTRACTED]
 - [[TutorialService.init()_1]] - `references` [EXTRACTED]

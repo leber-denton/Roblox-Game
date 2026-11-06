@@ -1,23 +1,25 @@
 ---
-source_file: "vault/Graph/waitUntilFree().md"
+source_file: "vault/Graph/waitUntilFree()_3.md"
 type: "document"
-community: "Community 234"
+community: "Community 122"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_122
 ---
 
-# waitUntilFree().md
+# waitUntilFree()_3.md
 
 ## Connections
-- [[Functions_26_3]] - `references` [EXTRACTED]
 - [[Functions_52]] - `references` [EXTRACTED]
 - [[Story.client.luau_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 234]] - `references` [EXTRACTED]
 - [[playScene()_3]] - `references` [EXTRACTED]
 - [[regionTour()_3]] - `references` [EXTRACTED]
-- [[waitUntilFree()_4]] - `contains` [EXTRACTED]
+- [[waitUntilFree()_3_1]] - `contains` [EXTRACTED]
+- [[waitUntilFree()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_122

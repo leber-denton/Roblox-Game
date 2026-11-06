@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[BaseManager.getTeam()]] - `calls` [INFERRED]
-- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[busy()]] - `calls` [EXTRACTED]
 - [[practice()]] - `calls` [EXTRACTED]
 - [[setupActivities()]] - `calls` [EXTRACTED]

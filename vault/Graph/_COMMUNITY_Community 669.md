@@ -1,35 +1,34 @@
 ---
 type: community
-members: 22
+members: 21
 ---
 
 # Community 669
 
-**Members:** 22 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Connections_4981]] - document - vault/Graph/Connections_885.md
-- [[Connections_4982]] - document - vault/Graph/Connections_885.md
-- [[Connections_4983]] - document - vault/Graph/Connections_886.md
-- [[Connections_4984]] - document - vault/Graph/Connections_886.md
-- [[Connections_4985]] - document - vault/Graph/Connections_889.md
-- [[Connections_4986]] - document - vault/Graph/Connections_889.md
-- [[Connections_4987]] - document - vault/Graph/Connections_890.md
-- [[Connections_4988]] - document - vault/Graph/Connections_890.md
-- [[Connections_4989]] - document - vault/Graph/Connections_894.md
-- [[Connections_4990]] - document - vault/Graph/Connections_894.md
-- [[Connections_4991]] - document - vault/Graph/Connections_896.md
-- [[Connections_4992]] - document - vault/Graph/Connections_896.md
-- [[Connections_4993]] - document - vault/Graph/Connections_898.md
-- [[Connections_4994]] - document - vault/Graph/Connections_898.md
-- [[Connections_885_1]] - document - vault/Graph/Connections_885.md
-- [[Connections_886_1]] - document - vault/Graph/Connections_886.md
-- [[Connections_889_1]] - document - vault/Graph/Connections_889.md
-- [[Connections_890_1]] - document - vault/Graph/Connections_890.md
-- [[Connections_894_1]] - document - vault/Graph/Connections_894.md
-- [[Connections_896_1]] - document - vault/Graph/Connections_896.md
-- [[Connections_898_1]] - document - vault/Graph/Connections_898.md
-- [[_COMMUNITY_Community 124]] - document - vault/Graph/_COMMUNITY_Community 124.md
+- [[Connections_21852]] - document - vault/Graph/Connections_3915.md
+- [[Connections_21853]] - document - vault/Graph/Connections_3916.md
+- [[Connections_21854]] - document - vault/Graph/Connections_524_1.md
+- [[Connections_21855]] - document - vault/Graph/Connections_890.md
+- [[Connections_21856]] - document - vault/Graph/Connections_890.md
+- [[Connections_21857]] - document - vault/Graph/Connections_891.md
+- [[Connections_21858]] - document - vault/Graph/Connections_891.md
+- [[Connections_21859]] - document - vault/Graph/Connections_892.md
+- [[Connections_21860]] - document - vault/Graph/Connections_892.md
+- [[Connections_21861]] - document - vault/Graph/Connections_893.md
+- [[Connections_21862]] - document - vault/Graph/Connections_893.md
+- [[Connections_3915_1]] - document - vault/Graph/Connections_3915.md
+- [[Connections_3915_2]] - document - vault/Graph/Connections_3915.md
+- [[Connections_3916_1]] - document - vault/Graph/Connections_3916.md
+- [[Connections_3916_2]] - document - vault/Graph/Connections_3916.md
+- [[Connections_524_1_1]] - document - vault/Graph/Connections_524_1.md
+- [[Connections_524_1_2]] - document - vault/Graph/Connections_524_1.md
+- [[Connections_890_2]] - document - vault/Graph/Connections_890.md
+- [[Connections_891_2]] - document - vault/Graph/Connections_891.md
+- [[Connections_892_2]] - document - vault/Graph/Connections_892.md
+- [[Connections_893_2]] - document - vault/Graph/Connections_893.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -39,16 +38,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 124]]
-- 4 edges to [[_COMMUNITY_Community 511]]
-- 4 edges to [[_COMMUNITY_Community 516]]
-- 3 edges to [[_COMMUNITY_Community 428]]
-- 3 edges to [[_COMMUNITY_Community 675]]
-- 2 edges to [[_COMMUNITY_Community 361]]
-- 2 edges to [[_COMMUNITY_Community 668]]
-- 2 edges to [[_COMMUNITY_Community 674]]
-- 1 edge to [[_COMMUNITY_Community 351]]
-- 1 edge to [[_COMMUNITY_Community 872]]
+- 7 edges to [[_COMMUNITY_Community 12]]
+- 3 edges to [[_COMMUNITY_Community 75]]
+- 1 edge to [[_COMMUNITY_Community 34]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 124]] - degree 33, connects to 10 communities
+- [[Connections_524_1_1]] - degree 5, connects to 3 communities
+- [[Connections_3915_1]] - degree 6, connects to 2 communities
+- [[Connections_3916_1]] - degree 5, connects to 2 communities
+- [[Connections_890_2]] - degree 4, connects to 1 community
+- [[Connections_892_2]] - degree 4, connects to 1 community

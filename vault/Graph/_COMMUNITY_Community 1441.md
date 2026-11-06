@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1441
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1825]] - document - vault/Graph/publicBattles()_1.md
-- [[publicBattles()_1]] - document - vault/Graph/publicBattles()_1.md
+- [[Connections_7485]] - document - vault/Graph/Connections_2770.md
+- [[Connections_7486]] - document - vault/Graph/Connections_2770.md
+- [[Connections_7487]] - document - vault/Graph/Connections_2771.md
+- [[Connections_7488]] - document - vault/Graph/Connections_2771.md
+- [[Connections_7489]] - document - vault/Graph/Connections_3295.md
+- [[Connections_2770_1]] - document - vault/Graph/Connections_2770.md
+- [[Connections_2771_1]] - document - vault/Graph/Connections_2771.md
+- [[Connections_3295_1]] - document - vault/Graph/Connections_3295.md
+- [[Connections_3295_2]] - document - vault/Graph/Connections_3295.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 4 edges to [[_COMMUNITY_Community 122]]
 
 ## Top bridge nodes
-- [[publicBattles()_1]] - degree 2, connects to 1 community
+- [[Connections_3295_1]] - degree 4, connects to 1 community
+- [[Connections_2770_1]] - degree 4, connects to 1 community
+- [[Connections_2771_1]] - degree 3, connects to 1 community

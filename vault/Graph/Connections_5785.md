@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/onProfessor().md"
+source_file: "vault/Graph/Connections_4400.md"
 type: "document"
-community: "Community 86"
+community: "Community 1338"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1338
 ---
 
 # Connections
 
 ## Connections
-- [[onProfessor()_4]] - `contains` [EXTRACTED]
+- [[Connections_5784]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1338

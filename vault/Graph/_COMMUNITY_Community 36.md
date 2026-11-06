@@ -10,8 +10,8 @@ members: 9
 ## Members
 - [[CLAUDE]] - document - CLAUDE.md
 - [[Creature Quest]] - document - CLAUDE.md
-- [[File endings_1]] - document - CLAUDE.md
-- [[Layout_5]] - document - CLAUDE.md
+- [[File endings_4]] - document - CLAUDE.md
+- [[Layout_12]] - document - CLAUDE.md
 - [[Reading code]] - document - CLAUDE.md
 - [[Sync]] - document - CLAUDE.md
 - [[Testing]] - document - CLAUDE.md

@@ -1,28 +1,18 @@
 ---
-source_file: "src/ServerScriptService/Modules/BattleService.luau"
-type: "code"
-community: "Community 15"
-location: "L1"
+source_file: "vault/Graph/BattleService.luau_3.md"
+type: "document"
+community: "Community 1187"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_1187
 ---
 
-# BattleService.luau
+# BattleService.luau.md
 
 ## Connections
-- [[BattleData.luau]] - `imports` [EXTRACTED]
-- [[BattleService.onEnded()]] - `contains` [EXTRACTED]
-- [[BattleService.onReleased()]] - `contains` [EXTRACTED]
-- [[CreatureBuilder.luau_5]] - `imports` [EXTRACTED]
-- [[GameData.luau_3]] - `imports` [EXTRACTED]
-- [[Main.server.luau_3]] - `imports` [EXTRACTED]
-- [[fire()]] - `contains` [EXTRACTED]
-- [[playbackTime()]] - `contains` [EXTRACTED]
-- [[script_parent_arenamanager_4]] - `imports` [EXTRACTED]
-- [[script_parent_basemanager_5]] - `imports` [EXTRACTED]
-- [[script_parent_playerdata_5]] - `imports` [EXTRACTED]
-- [[script_parent_wander_5]] - `imports` [EXTRACTED]
+- [[BattleService.luau_3]] - `contains` [EXTRACTED]
+- [[Connections_3304]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_1187

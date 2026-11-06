@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Required by_38.md"
+source_file: "vault/Graph/Required by_160.md"
 type: "document"
-community: "Community 69"
-location: "L12"
+community: "Community 2222"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_69
+  - community/Community_2222
 ---
 
-# Required by
+# Required by_160.md
 
 ## Connections
-- [[Connections_5053]] - `contains` [EXTRACTED]
-- [[Required by_38_3]] - `contains` [EXTRACTED]
+- [[Required by_132_1]] - `references` [EXTRACTED]
+- [[Required by_160_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 69]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_69
+#graphify/document #graphify/EXTRACTED #community/Community_2222

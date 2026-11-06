@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/sentinel().md"
 type: "document"
-community: "Community 541"
+community: "Community 140"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_541
+  - community/Community_140
 ---
 
 # sentinel()
 
 ## Connections
-- [[Connections_4616]] - `contains` [EXTRACTED]
+- [[Connections_7040]] - `contains` [EXTRACTED]
 - [[sentinel()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_541
+#graphify/document #graphify/EXTRACTED #community/Community_140

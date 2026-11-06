@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/Required by_56.md"
+source_file: "vault/Graph/Required by_33.md"
 type: "document"
-community: "Community 195"
-location: "L1"
+community: "Community 1331"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_1331
 ---
 
-# Required by_56.md
+# Required by
 
 ## Connections
-- [[CreatureIndex_1]] - `references` [EXTRACTED]
-- [[Required by_53_2]] - `references` [EXTRACTED]
-- [[Required by_56_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 217]] - `references` [EXTRACTED]
+- [[Connections_5746]] - `contains` [EXTRACTED]
+- [[Required by_33_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_1331

@@ -12,7 +12,7 @@ tags:
 # showGrid().md
 
 ## Connections
-- [[Connections_2892]] - `contains` [EXTRACTED]
+- [[Connections_11602]] - `contains` [EXTRACTED]
 - [[showGrid()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_195

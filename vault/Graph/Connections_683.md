@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.getIndex()_2.md"
+source_file: "vault/Graph/Connections_5399.md"
 type: "document"
-community: "Community 12"
+community: "Community 1036"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1036
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.getIndex()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_5399_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1036

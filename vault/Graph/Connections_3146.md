@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Showcase.server.luau_1.md"
+source_file: "vault/Graph/ArenaManager_1_2.md"
 type: "document"
-community: "Community 220"
+community: "Community 118"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_220
+  - community/Community_118
 ---
 
 # Connections
 
 ## Connections
-- [[Showcase.server.luau_1_1]] - `contains` [EXTRACTED]
+- [[ArenaManager_1_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_220
+#graphify/document #graphify/EXTRACTED #community/Community_118

@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_4715]] - document - vault/Graph/CreatureBuilder_2.md
-- [[Connections_4716]] - document - vault/Graph/CreatureBuilder_3.md
-- [[CreatureBuilder_4]] - document - vault/Graph/CreatureBuilder_3.md
-- [[CreatureBuilder_2_1]] - document - vault/Graph/CreatureBuilder_2.md
-- [[CreatureBuilder_2_2]] - document - vault/Graph/CreatureBuilder_2.md
-- [[CreatureBuilder_3_1]] - document - vault/Graph/CreatureBuilder_3.md
+- [[Connections_21026]] - document - vault/Graph/Connections_4173.md
+- [[Connections_21027]] - document - vault/Graph/Connections_4173.md
+- [[Connections_21028]] - document - vault/Graph/Connections_4174.md
+- [[Connections_21029]] - document - vault/Graph/Connections_4174.md
+- [[Connections_4173_1]] - document - vault/Graph/Connections_4173.md
+- [[Connections_4174_1]] - document - vault/Graph/Connections_4174.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,7 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 351]]
+- 2 edges to [[_COMMUNITY_Community 410]]
 
 ## Top bridge nodes
-- [[CreatureBuilder_2_1]] - degree 3, connects to 1 community
+- [[Connections_4173_1]] - degree 3, connects to 1 community
+- [[Connections_4174_1]] - degree 3, connects to 1 community

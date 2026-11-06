@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 286.md"
+source_file: "vault/Graph/_COMMUNITY_Community 1320.md"
 type: "document"
-community: "Community 405"
-location: "L26"
+community: "Community 1320"
+location: "L41"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_405
+  - community/Community_1320
 ---
 
 # Top bridge nodes
 
 ## Connections
-- [[Community 286]] - `contains` [EXTRACTED]
+- [[Community 1320]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_405
+#graphify/document #graphify/EXTRACTED #community/Community_1320

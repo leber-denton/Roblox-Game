@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GraphMeshIntake.md"
+source_file: "vault/Graph/Top bridge nodes_66.md"
 type: "document"
-community: "Community 130"
+community: "Community 1083"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_130
+  - community/Community_1083
 ---
 
 # Connections
 
 ## Connections
-- [[GraphMeshIntake_1]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_72]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_130
+#graphify/document #graphify/EXTRACTED #community/Community_1083

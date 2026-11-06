@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/scan()_1.md"
+source_file: "vault/Graph/scan().md"
 type: "document"
 community: "Community 191"
 location: "L12"
@@ -9,10 +9,10 @@ tags:
   - community/Community_191
 ---
 
-# scan().md
+# scan()
 
 ## Connections
-- [[Connections_2823]] - `contains` [EXTRACTED]
+- [[Connections_11364]] - `contains` [EXTRACTED]
 - [[scan()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_191

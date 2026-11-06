@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Menus_1_1.md"
+source_file: "vault/Graph/Menus_1.md"
 type: "document"
-community: "Community 717"
+community: "Community 384"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_717
+  - community/Community_384
 ---
 
 # Menus_1.md
 
 ## Connections
-- [[Connections_5155]] - `contains` [EXTRACTED]
+- [[Connections_18497]] - `contains` [EXTRACTED]
 - [[Menus_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_717
+#graphify/document #graphify/EXTRACTED #community/Community_384

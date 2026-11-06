@@ -8,11 +8,11 @@ members: 20
 **Members:** 20 nodes
 
 ## Members
-- [[Functions_53]] - document - vault/Code/Story.md
-- [[Required by_47]] - document - vault/Code/Story.md
-- [[Requires_52]] - document - vault/Code/Story.md
-- [[Story]] - document - vault/Code/Story.md
-- [[Story.client.luau_3]] - code - src/StarterPlayer/StarterPlayerScripts/Story.client.luau
+- [[Functions_103]] - document - vault/Code/Story.md
+- [[Required by_114]] - document - vault/Code/Story.md
+- [[Requires_106]] - document - vault/Code/Story.md
+- [[Story_3]] - document - vault/Code/Story.md
+- [[Story.client.luau_2]] - code - src/StarterPlayer/StarterPlayerScripts/Story.client.luau
 - [[burst()]] - code - src/StarterPlayer/StarterPlayerScripts/Story.client.luau
 - [[decode()]] - code - src/StarterPlayer/StarterPlayerScripts/Story.client.luau
 - [[entry()]] - code - src/StarterPlayer/StarterPlayerScripts/Story.client.luau
@@ -42,7 +42,7 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[Story.client.luau_3]] - degree 16, connects to 1 community
+- [[Story.client.luau_2]] - degree 16, connects to 1 community
 - [[regionTour()]] - degree 6, connects to 1 community
-- [[Story]] - degree 4, connects to 1 community
+- [[Story_3]] - degree 4, connects to 1 community
 - [[decode()]] - degree 3, connects to 1 community

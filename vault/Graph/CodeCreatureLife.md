@@ -12,7 +12,7 @@ tags:
 # Code/CreatureLife.md
 
 ## Connections
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
+- [[Code Map_2]] - `references` [EXTRACTED]
 - [[CreatureLife]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_28

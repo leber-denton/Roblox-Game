@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.luau_2.md"
+source_file: "vault/Graph/BaseManager.luau_3.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 2743"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_2743
 ---
 
-# BaseManager.luau_2.md
+# BaseManager.luau.md
 
 ## Connections
-- [[BaseManager.luau_1]] - `references` [EXTRACTED]
-- [[BaseManager.luau_2_1]] - `contains` [EXTRACTED]
-- [[Connections_955]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[BaseManager.luau_3]] - `contains` [EXTRACTED]
+- [[Connections_15244]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_2743

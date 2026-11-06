@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_70.md"
+source_file: "vault/Graph/GameData.medicineOrder().md"
 type: "document"
-community: "Community 293"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_293
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[Functions_94]] - `contains` [EXTRACTED]
+- [[GameData.medicineOrder()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_293
+#graphify/document #graphify/EXTRACTED #community/Community_120

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/HUD.client.luau_1.md"
+source_file: "vault/Graph/HUD.client.luau_2_2.md"
 type: "document"
-community: "Community 26"
+community: "Community 103"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_26
+  - community/Community_103
 ---
 
-# HUD.client.luau.md
+# HUD.client.luau_2.md
 
 ## Connections
-- [[Connections_3474]] - `contains` [EXTRACTED]
-- [[HUD.client.luau_1]] - `contains` [EXTRACTED]
+- [[Connections_443]] - `contains` [EXTRACTED]
+- [[HUD.client.luau_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_26
+#graphify/document #graphify/EXTRACTED #community/Community_103

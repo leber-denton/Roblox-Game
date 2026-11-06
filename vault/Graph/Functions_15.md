@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_104.md"
+source_file: "vault/Code/ProgressService.md"
 type: "document"
-community: "Community 1269"
-location: "L12"
+community: "Community 11"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1269
+  - community/Community_11
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_1320]] - `contains` [EXTRACTED]
-- [[Functions_104]] - `contains` [EXTRACTED]
+- [[ProgressService_1]] - `contains` [EXTRACTED]
+- [[today()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1269
+#graphify/document #graphify/EXTRACTED #community/Community_11

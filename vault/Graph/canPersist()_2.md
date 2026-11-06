@@ -12,7 +12,9 @@ tags:
 # canPersist()_2.md
 
 ## Connections
+- [[_COMMUNITY_Community 1118]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
-- [[canPersist()_2_1]] - `contains` [EXTRACTED]
+- [[canPersist()_2_3]] - `contains` [EXTRACTED]
+- [[canPersist()_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1118

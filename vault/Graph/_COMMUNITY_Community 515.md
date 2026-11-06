@@ -1,28 +1,40 @@
 ---
 type: community
-members: 15
+members: 27
 ---
 
 # Community 515
 
-**Members:** 15 nodes
+**Members:** 27 nodes
 
 ## Members
-- [[CodeRegions_1]] - document - vault/Graph/CodeRegions.md
-- [[CodeRegions_2]] - document - vault/Graph/CodeRegions.md
-- [[Connections_4506]] - document - vault/Graph/CodeRegions.md
-- [[Connections_4507]] - document - vault/Graph/Regions_2.md
-- [[Connections_4508]] - document - vault/Graph/Regions.md
-- [[Connections_4509]] - document - vault/Graph/Required by_12.md
-- [[Connections_4510]] - document - vault/Graph/Required by_64.md
-- [[GraphRegions_2]] - document - vault/Graph/Regions.md
-- [[Regions_3]] - document - vault/Graph/Regions.md
-- [[Regions_2]] - document - vault/Graph/Regions_2.md
-- [[Regions_2_1]] - document - vault/Graph/Regions_2.md
-- [[Required by_141]] - document - vault/Graph/Required by_12.md
-- [[Required by_12_2]] - document - vault/Graph/Required by_12.md
-- [[Required by_64_1]] - document - vault/Graph/Required by_64.md
-- [[Required by_64_2]] - document - vault/Graph/Required by_64.md
+- [[Community 817]] - document - vault/Graph/_COMMUNITY_Community 817.md
+- [[Community 870]] - document - vault/Graph/_COMMUNITY_Community 870.md
+- [[Connections_20361]] - document - vault/Graph/PlayerData.hasBadge()_1_1.md
+- [[Connections_20362]] - document - vault/Graph/PlayerData.hasBadge()_2_1.md
+- [[Connections_20363]] - document - vault/Graph/PlayerData.hasBadge()_2.md
+- [[Connections_20364]] - document - vault/Graph/spawnsFrom()_1_1.md
+- [[Connections_20365]] - document - vault/Graph/spawnsFrom()_2_1.md
+- [[Connections to other communities_1370]] - document - vault/Graph/_COMMUNITY_Community 817.md
+- [[Connections to other communities_1371]] - document - vault/Graph/_COMMUNITY_Community 870.md
+- [[Live Query (requires Dataview plugin)_1609]] - document - vault/Graph/_COMMUNITY_Community 817.md
+- [[Live Query (requires Dataview plugin)_1610]] - document - vault/Graph/_COMMUNITY_Community 870.md
+- [[Members_1610]] - document - vault/Graph/_COMMUNITY_Community 817.md
+- [[Members_1611]] - document - vault/Graph/_COMMUNITY_Community 870.md
+- [[PlayerData.hasBadge()_1_2]] - document - vault/Graph/PlayerData.hasBadge()_1_1.md
+- [[PlayerData.hasBadge()_1_1]] - document - vault/Graph/PlayerData.hasBadge()_1_1.md
+- [[PlayerData.hasBadge()_2_1]] - document - vault/Graph/PlayerData.hasBadge()_2.md
+- [[PlayerData.hasBadge()_2_2]] - document - vault/Graph/PlayerData.hasBadge()_2_1.md
+- [[PlayerData.hasBadge()_2_3]] - document - vault/Graph/PlayerData.hasBadge()_2.md
+- [[PlayerData.hasBadge()_2_1_1]] - document - vault/Graph/PlayerData.hasBadge()_2_1.md
+- [[Top bridge nodes_1368]] - document - vault/Graph/_COMMUNITY_Community 817.md
+- [[Top bridge nodes_1369]] - document - vault/Graph/_COMMUNITY_Community 870.md
+- [[_COMMUNITY_Community 817]] - document - vault/Graph/_COMMUNITY_Community 817.md
+- [[_COMMUNITY_Community 870]] - document - vault/Graph/_COMMUNITY_Community 870.md
+- [[spawnsFrom()_1_1]] - document - vault/Graph/spawnsFrom()_1_1.md
+- [[spawnsFrom()_1_1_1]] - document - vault/Graph/spawnsFrom()_1_1.md
+- [[spawnsFrom()_2_1]] - document - vault/Graph/spawnsFrom()_2_1.md
+- [[spawnsFrom()_2_1_1]] - document - vault/Graph/spawnsFrom()_2_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,13 +44,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 6 edges to [[_COMMUNITY_Community 211]]
-- 3 edges to [[_COMMUNITY_Community 345]]
-- 1 edge to [[_COMMUNITY_Community 610]]
+- 3 edges to [[_COMMUNITY_Community 207]]
+- 3 edges to [[_COMMUNITY_Community 211]]
+- 2 edges to [[_COMMUNITY_Community 103]]
+- 2 edges to [[_COMMUNITY_Community 134]]
+- 1 edge to [[_COMMUNITY_Community 1087]]
+- 1 edge to [[_COMMUNITY_Community 120]]
+- 1 edge to [[_COMMUNITY_Community 382]]
 
 ## Top bridge nodes
-- [[Regions_2]] - degree 8, connects to 3 communities
-- [[Required by_64_1]] - degree 5, connects to 2 communities
-- [[CodeRegions_1]] - degree 4, connects to 2 communities
-- [[GraphRegions_2]] - degree 3, connects to 1 community
-- [[Required by_12_2]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 817]] - degree 8, connects to 3 communities
+- [[PlayerData.hasBadge()_2_1]] - degree 6, connects to 3 communities
+- [[spawnsFrom()_1_1]] - degree 6, connects to 3 communities
+- [[spawnsFrom()_2_1]] - degree 5, connects to 2 communities
+- [[_COMMUNITY_Community 870]] - degree 4, connects to 1 community

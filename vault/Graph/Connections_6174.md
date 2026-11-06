@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/actions.upgrade()_2.md"
+source_file: "vault/Graph/exclaim()_1.md"
 type: "document"
-community: "Community 93"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[actions.upgrade()_4]] - `contains` [EXTRACTED]
+- [[exclaim()_1_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_134

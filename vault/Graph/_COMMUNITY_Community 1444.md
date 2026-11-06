@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1444
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1828]] - document - vault/Graph/Required by_14.md
-- [[Required by_23]] - document - vault/Graph/Required by_14.md
+- [[Connections_7501]] - document - vault/Graph/Connections_2843.md
+- [[Connections_7502]] - document - vault/Graph/Connections_2843.md
+- [[Connections_7503]] - document - vault/Graph/updateStoryPrompts()_3.md
+- [[Connections_7504]] - document - vault/Graph/updateStoryPrompts()_5.md
+- [[Connections_2843_1]] - document - vault/Graph/Connections_2843.md
+- [[updateStoryPrompts()_4]] - document - vault/Graph/updateStoryPrompts()_5.md
+- [[updateStoryPrompts()_3]] - document - vault/Graph/updateStoryPrompts()_3.md
+- [[updateStoryPrompts()_3_1]] - document - vault/Graph/updateStoryPrompts()_3.md
+- [[updateStoryPrompts()_5]] - document - vault/Graph/updateStoryPrompts()_5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 154]]
+- 4 edges to [[_COMMUNITY_Community 122]]
 
 ## Top bridge nodes
-- [[Required by_23]] - degree 2, connects to 1 community
+- [[updateStoryPrompts()_3]] - degree 4, connects to 1 community
+- [[updateStoryPrompts()_5]] - degree 4, connects to 1 community
+- [[Connections_2843_1]] - degree 3, connects to 1 community

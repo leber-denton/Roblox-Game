@@ -12,8 +12,8 @@ tags:
 # setOpen()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_7]] - `contains` [EXTRACTED]
 - [[refresh()]] - `calls` [EXTRACTED]
-- [[updateVisible()_1]] - `calls` [EXTRACTED]
+- [[updateVisible()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_20

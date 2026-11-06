@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/PlayerData.getPending()_2.md"
+source_file: "vault/Graph/Connections_484.md"
 type: "document"
-community: "Community 1180"
+community: "Community 1034"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1180
+  - community/Community_1034
 ---
 
 # Connections
 
 ## Connections
-- [[PlayerData.getPending()_3]] - `contains` [EXTRACTED]
+- [[Connections_576]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1180
+#graphify/document #graphify/EXTRACTED #community/Community_1034

@@ -1,19 +1,21 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/EventHUD.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/AdminPanel.client.luau"
 type: "code"
-community: "Community 45"
-location: "L26"
+community: "Community 529"
+location: "L24"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_45
+  - community/Community_529
 ---
 
 # new()
 
 ## Connections
-- [[EventHUD.client.luau_2]] - `contains` [EXTRACTED]
-- [[onRareCatch()]] - `calls` [EXTRACTED]
-- [[round()_4]] - `calls` [EXTRACTED]
+- [[AdminPanel.client.luau_7]] - `contains` [EXTRACTED]
+- [[btn()]] - `calls` [EXTRACTED]
+- [[corner()]] - `calls` [EXTRACTED]
+- [[header()_2]] - `calls` [EXTRACTED]
+- [[row()_3]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_45
+#graphify/code #graphify/EXTRACTED #community/Community_529

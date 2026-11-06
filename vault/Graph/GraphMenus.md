@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/Menus.md"
+source_file: "vault/Graph/GraphMenus.md"
 type: "document"
-community: "Community 336"
+community: "Community 1185"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_336
+  - community/Community_1185
 ---
 
-# Graph/Menus.md
+# GraphMenus.md
 
 ## Connections
-- [[Functions_66_1]] - `references` [EXTRACTED]
-- [[Menus_3]] - `contains` [EXTRACTED]
-- [[Required by_68_1]] - `references` [EXTRACTED]
-- [[Requires_65_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 284]] - `references` [EXTRACTED]
+- [[Connections_2212_1]] - `references` [EXTRACTED]
+- [[GraphMenus_3]] - `contains` [EXTRACTED]
+- [[GraphMenus_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1185]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_336
+#graphify/document #graphify/EXTRACTED #community/Community_1185

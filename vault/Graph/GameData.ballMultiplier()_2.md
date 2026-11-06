@@ -12,7 +12,7 @@ tags:
 # GameData.ballMultiplier()
 
 ## Connections
-- [[Connections_1058]] - `contains` [EXTRACTED]
+- [[Connections_3647]] - `contains` [EXTRACTED]
 - [[GameData.ballMultiplier()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

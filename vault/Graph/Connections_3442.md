@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections to other communities_61.md"
+source_file: "vault/Graph/CodeLeagueService.md"
 type: "document"
-community: "Community 247"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_247
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[Connections to other communities_191]] - `contains` [EXTRACTED]
+- [[CodeLeagueService_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_247
+#graphify/document #graphify/EXTRACTED #community/Community_119

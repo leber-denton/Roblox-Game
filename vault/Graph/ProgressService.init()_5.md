@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/ProgressService.init().md"
+source_file: "vault/Graph/ProgressService.init()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 168"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_168
 ---
 
-# ProgressService.init()
+# ProgressService.init().md
 
 ## Connections
-- [[Connections_5829]] - `contains` [EXTRACTED]
+- [[Connections_9633]] - `contains` [EXTRACTED]
 - [[ProgressService.init()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_168

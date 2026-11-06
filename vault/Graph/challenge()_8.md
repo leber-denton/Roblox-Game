@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/challenge().md"
+source_file: "vault/Graph/challenge()_8.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 1187"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1187
 ---
 
-# challenge()
+# challenge()_8.md
 
 ## Connections
-- [[Connections_5705]] - `contains` [EXTRACTED]
-- [[challenge()_7]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[challenge()_8_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1187

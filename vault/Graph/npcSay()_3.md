@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/npcSay()_1.md"
 type: "document"
-community: "Community 90"
+community: "Community 197"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_197
 ---
 
 # npcSay().md
 
 ## Connections
-- [[Connections_6019]] - `contains` [EXTRACTED]
-- [[npcSay()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_11729]] - `contains` [EXTRACTED]
+- [[npcSay()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_197

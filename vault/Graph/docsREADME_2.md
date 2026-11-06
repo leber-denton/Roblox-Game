@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/docsREADME_2.md"
+source_file: "vault/Graph/docsREADME_4.md"
 type: "document"
-community: "Community 218"
-location: "L1"
+community: "Community 1668"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_218
+  - community/Community_1668
 ---
 
-# docsREADME_2.md
+# docsREADME.md
 
 ## Connections
-- [[Docs_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 218]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 81]] - `references` [EXTRACTED]
-- [[docsREADME_2_1]] - `contains` [EXTRACTED]
+- [[Connections_9335]] - `contains` [EXTRACTED]
+- [[docsREADME_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_218
+#graphify/document #graphify/EXTRACTED #community/Community_1668

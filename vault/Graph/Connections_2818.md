@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Live Query (requires Dataview plugin)_50.md"
+source_file: "vault/Graph/Top bridge nodes_151.md"
 type: "document"
-community: "Community 191"
+community: "Community 1153"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_191
+  - community/Community_1153
 ---
 
 # Connections
 
 ## Connections
-- [[Live Query (requires Dataview plugin)_167]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_190]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_191
+#graphify/document #graphify/EXTRACTED #community/Community_1153

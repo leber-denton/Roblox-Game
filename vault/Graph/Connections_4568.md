@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/openLanes().md"
+source_file: "vault/Graph/Connections_3199.md"
 type: "document"
-community: "Community 53"
+community: "Community 125"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_53
+  - community/Community_125
 ---
 
 # Connections
 
 ## Connections
-- [[openLanes()_4]] - `contains` [EXTRACTED]
+- [[Connections_4567]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_53
+#graphify/document #graphify/EXTRACTED #community/Community_125

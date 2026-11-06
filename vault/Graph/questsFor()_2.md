@@ -12,10 +12,11 @@ tags:
 # questsFor()_2.md
 
 ## Connections
-- [[Connections_863_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 - [[questsFor()_1]] - `references` [EXTRACTED]
-- [[questsFor()_2_1]] - `contains` [EXTRACTED]
+- [[questsFor()_2_3]] - `contains` [EXTRACTED]
+- [[questsFor()_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

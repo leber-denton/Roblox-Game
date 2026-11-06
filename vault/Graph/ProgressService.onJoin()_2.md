@@ -12,10 +12,11 @@ tags:
 # ProgressService.onJoin()_2.md
 
 ## Connections
-- [[Connections_861_1]] - `references` [EXTRACTED]
 - [[ProgressService.onJoin()_1]] - `references` [EXTRACTED]
-- [[ProgressService.onJoin()_2_1]] - `contains` [EXTRACTED]
+- [[ProgressService.onJoin()_2_3]] - `contains` [EXTRACTED]
+- [[ProgressService.onJoin()_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

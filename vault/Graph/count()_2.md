@@ -2,17 +2,19 @@
 source_file: "vault/Graph/count().md"
 type: "document"
 community: "Community 24"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_24
 ---
 
-# count()
+# count().md
 
 ## Connections
-- [[Connections_3328]] - `contains` [EXTRACTED]
-- [[count()_1]] - `contains` [EXTRACTED]
+- [[StoryService.luau_7]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
+- [[atBadge()_3]] - `references` [EXTRACTED]
+- [[count()_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

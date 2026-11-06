@@ -12,7 +12,7 @@ tags:
 # typeText()
 
 ## Connections
-- [[Connections_1091]] - `contains` [EXTRACTED]
+- [[Connections_3677]] - `contains` [EXTRACTED]
 - [[typeText()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

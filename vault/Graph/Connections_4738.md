@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/FirstSpawnLock_1.md"
+source_file: "vault/Graph/Connections_3444.md"
 type: "document"
-community: "Community 589"
+community: "Community 1265"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_589
+  - community/Community_1265
 ---
 
 # Connections
 
 ## Connections
-- [[FirstSpawnLock_1_1]] - `contains` [EXTRACTED]
+- [[Connections_4737]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_589
+#graphify/document #graphify/EXTRACTED #community/Community_1265

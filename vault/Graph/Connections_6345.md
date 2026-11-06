@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/tabs.Crates()_1.md"
+source_file: "vault/Graph/Requires_54_1_1.md"
 type: "document"
-community: "Community 98"
+community: "Community 1343"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_1343
 ---
 
 # Connections
 
 ## Connections
-- [[tabs.Crates()_3]] - `contains` [EXTRACTED]
+- [[Requires_54_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_98
+#graphify/document #graphify/EXTRACTED #community/Community_1343

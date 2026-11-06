@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/actions.theme().md"
+source_file: "vault/Graph/actions.theme()_4.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2718"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2718
 ---
 
-# actions.theme().md
+# actions.theme()
 
 ## Connections
-- [[BaseManager.getBase()_3]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[PlayerData.coins()_1]] - `references` [EXTRACTED]
-- [[PlayerData.spend()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.theme()_2]] - `contains` [EXTRACTED]
-- [[applyTheme()_3]] - `references` [EXTRACTED]
+- [[Connections_15165]] - `contains` [EXTRACTED]
+- [[actions.theme()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2718

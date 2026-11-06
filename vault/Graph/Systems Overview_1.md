@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Systems Overview_1.md"
+source_file: "vault/Systems/Systems Overview.md"
 type: "document"
-community: "Community 368"
+community: "Community 13"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_368
+  - community/Community_13
 ---
 
-# Systems Overview_1.md
+# Systems Overview
 
 ## Connections
-- [[Systems Overview_1_1]] - `contains` [EXTRACTED]
-- [[Systems Overview_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 32]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 368]] - `references` [EXTRACTED]
+- [[Code map_3]] - `contains` [EXTRACTED]
+- [[SystemsSystems Overview_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_368
+#graphify/document #graphify/EXTRACTED #community/Community_13

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/lighter()_2.md"
+source_file: "vault/Graph/setStatus()_5.md"
 type: "document"
-community: "Community 133"
+community: "Community 1087"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_1087
 ---
 
 # Connections
 
 ## Connections
-- [[lighter()_2_1]] - `contains` [EXTRACTED]
+- [[setStatus()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_1087

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GraphEventHUD.md"
+source_file: "vault/Graph/Connections_184_1.md"
 type: "document"
-community: "Community 126"
+community: "Community 108"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_126
+  - community/Community_108
 ---
 
 # Connections
 
 ## Connections
-- [[GraphEventHUD_1]] - `contains` [EXTRACTED]
+- [[Connections_184_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_126
+#graphify/document #graphify/EXTRACTED #community/Community_108

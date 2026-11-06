@@ -12,8 +12,10 @@ tags:
 # room()_2.md
 
 ## Connections
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 319]] - `references` [EXTRACTED]
-- [[room()_3]] - `contains` [EXTRACTED]
 - [[room()_1]] - `references` [EXTRACTED]
+- [[room()_2_1]] - `contains` [EXTRACTED]
+- [[room()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

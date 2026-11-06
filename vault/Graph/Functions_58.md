@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Code/PassService.md"
+source_file: "vault/Code/NPC.md"
 type: "document"
-community: "Community 2"
-location: "L16"
+community: "Community 13"
+location: "L15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Community_13
 ---
 
 # Functions
 
 ## Connections
-- [[PassService]] - `contains` [EXTRACTED]
-- [[setupProducts()]] - `references` [INFERRED]
+- [[NPC]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_2
+#graphify/document #graphify/EXTRACTED #community/Community_13

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/BattleData.rollIVs().md"
+source_file: "vault/Graph/Connections_1788.md"
 type: "document"
-community: "Community 86"
-location: "L14"
+community: "Community 1328"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1328
 ---
 
 # Connections
 
 ## Connections
-- [[BattleData.rollIVs()_4]] - `contains` [EXTRACTED]
+- [[Connections_5692]] - `contains` [EXTRACTED]
+- [[Connections_1788_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1328

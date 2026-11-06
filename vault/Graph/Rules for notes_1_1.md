@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Graph/Rules for notes_1.md"
+source_file: "vault/Graph/Rules for notes_1_1.md"
 type: "document"
-community: "Community 88"
+community: "Community 196"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_196
 ---
 
-# Rules for notes_1.md
+# Rules for notes_1_1.md
 
 ## Connections
-- [[Rules for notes_1]] - `references` [EXTRACTED]
-- [[Rules for notes_1_2]] - `contains` [EXTRACTED]
-- [[Rules for notes_2]] - `references` [EXTRACTED]
+- [[Creature Quest Vault — Start Here_1_1_1]] - `references` [EXTRACTED]
+- [[Rules for notes_1_3]] - `contains` [EXTRACTED]
+- [[Rules for notes_1_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 196]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 32]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 88]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_88
+#graphify/document #graphify/EXTRACTED #community/Community_196

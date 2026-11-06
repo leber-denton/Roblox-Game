@@ -12,7 +12,7 @@ tags:
 # setCardHP()_1.md
 
 ## Connections
-- [[Connections_32]] - `contains` [EXTRACTED]
+- [[Connections_154]] - `contains` [EXTRACTED]
 - [[setCardHP()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_101

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/otherOf().md"
+source_file: "vault/Graph/otherOf()_3.md"
 type: "document"
-community: "Community 352"
+community: "Community 3076"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_352
+  - community/Community_3076
 ---
 
-# otherOf()
+# otherOf().md
 
 ## Connections
-- [[Connections_4053]] - `contains` [EXTRACTED]
+- [[Connections_16217]] - `contains` [EXTRACTED]
 - [[otherOf()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_352
+#graphify/document #graphify/EXTRACTED #community/Community_3076

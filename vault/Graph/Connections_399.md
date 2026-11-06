@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/fmt().md"
+source_file: "vault/Graph/Connections_365.md"
 type: "document"
-community: "Community 116"
+community: "Community 103"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_116
+  - community/Community_103
 ---
 
 # Connections
 
 ## Connections
-- [[fmt()_2]] - `contains` [EXTRACTED]
+- [[Connections_398]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_116
+#graphify/document #graphify/EXTRACTED #community/Community_103

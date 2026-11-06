@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/script_parent_wander_2.md"
+source_file: "vault/Graph/script_parent_wander_2_1.md"
 type: "document"
 community: "Community 509"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_509
 ---
 
-# script_parent_wander_2.md
+# script_parent_wander_2_1.md
 
 ## Connections
-- [[Connections_4466]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 509]] - `references` [EXTRACTED]
 - [[script_parent_wander_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_509

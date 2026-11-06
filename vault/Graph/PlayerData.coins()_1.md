@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Graph/PlayerData.coins().md"
+source_file: "vault/Graph/PlayerData.coins()_4.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2718"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2718
 ---
 
-# PlayerData.coins().md
+# PlayerData.coins()
 
 ## Connections
-- [[PlayerData.coins()_2]] - `contains` [EXTRACTED]
-- [[PlayerData.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.buy()_1]] - `references` [EXTRACTED]
-- [[actions.buyDaily()_1]] - `references` [EXTRACTED]
-- [[actions.canopy()_1]] - `references` [EXTRACTED]
-- [[actions.openBox()_1]] - `references` [EXTRACTED]
-- [[actions.theme()_1]] - `references` [EXTRACTED]
-- [[actions.upgrade()_1]] - `references` [EXTRACTED]
+- [[Connections_15169]] - `contains` [EXTRACTED]
+- [[PlayerData.coins()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2718

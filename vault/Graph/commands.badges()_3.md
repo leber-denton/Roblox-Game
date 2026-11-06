@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/commands.badges()_1.md"
+source_file: "vault/Graph/commands.badges().md"
 type: "document"
-community: "Community 753"
+community: "Community 276"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_753
+  - community/Community_276
 ---
 
 # commands.badges()
 
 ## Connections
-- [[Connections_5283]] - `contains` [EXTRACTED]
+- [[Connections_15291]] - `contains` [EXTRACTED]
 - [[commands.badges()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_753
+#graphify/document #graphify/EXTRACTED #community/Community_276

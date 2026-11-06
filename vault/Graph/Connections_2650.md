@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/sparkle()_1.md"
+source_file: "vault/Graph/Connections_1803.md"
 type: "document"
-community: "Community 18"
+community: "Community 115"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_18
+  - community/Community_115
 ---
 
 # Connections
 
 ## Connections
-- [[sparkle()_3]] - `contains` [EXTRACTED]
+- [[Connections_2649]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_18
+#graphify/document #graphify/EXTRACTED #community/Community_115

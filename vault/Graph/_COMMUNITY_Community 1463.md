@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1463
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1924]] - document - vault/Graph/setupActivities()_1.md
-- [[setupActivities()_1]] - document - vault/Graph/setupActivities()_1.md
+- [[Connections_7713]] - document - vault/Graph/Connections_1924.md
+- [[Connections_7714]] - document - vault/Graph/Connections_1924.md
+- [[Connections_7715]] - document - vault/Graph/Connections_1925.md
+- [[Connections_7716]] - document - vault/Graph/Connections_1925.md
+- [[Connections_7717]] - document - vault/Graph/Connections_2812.md
+- [[Connections_1924_1]] - document - vault/Graph/Connections_1924.md
+- [[Connections_1925_1]] - document - vault/Graph/Connections_1925.md
+- [[Connections_2812_1]] - document - vault/Graph/Connections_2812.md
+- [[Connections_2812_2]] - document - vault/Graph/Connections_2812.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 3 edges to [[_COMMUNITY_Community 975]]
+- 1 edge to [[_COMMUNITY_Community 190]]
 
 ## Top bridge nodes
-- [[setupActivities()_1]] - degree 2, connects to 1 community
+- [[Connections_2812_1]] - degree 4, connects to 2 communities
+- [[Connections_1924_1]] - degree 4, connects to 1 community
+- [[Connections_1925_1]] - degree 3, connects to 1 community

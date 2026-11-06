@@ -12,7 +12,9 @@ tags:
 # Connections_900.md
 
 ## Connections
-- [[Connections_5031]] - `contains` [EXTRACTED]
-- [[SocialService.sendBoard()_1_1]] - `references` [EXTRACTED]
+- [[Connections_21960]] - `contains` [EXTRACTED]
+- [[Connections_3920_1]] - `references` [EXTRACTED]
+- [[Connections_901_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1054]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_681

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/DecorUI.md"
+source_file: "vault/Code/DecorUI.md"
 type: "document"
-community: "Community 439"
-location: "L12"
+community: "Community 3"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_439
+  - community/Community_3
 ---
 
 # DecorUI
 
 ## Connections
-- [[Connections_4265]] - `contains` [EXTRACTED]
-- [[GraphDecorUI]] - `contains` [EXTRACTED]
+- [[CodeDecorUI]] - `contains` [EXTRACTED]
+- [[Functions_188]] - `contains` [EXTRACTED]
+- [[Required by_188]] - `contains` [EXTRACTED]
+- [[Requires_164]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_439
+#graphify/document #graphify/EXTRACTED #community/Community_3

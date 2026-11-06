@@ -12,7 +12,7 @@ tags:
 # pulse()
 
 ## Connections
-- [[Connections_1079]] - `contains` [EXTRACTED]
+- [[Connections_3664]] - `contains` [EXTRACTED]
 - [[pulse()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

@@ -12,7 +12,7 @@ tags:
 # updateMarker()
 
 ## Connections
-- [[Functions_53]] - `references` [INFERRED]
-- [[Story.client.luau_3]] - `contains` [EXTRACTED]
+- [[Functions_103]] - `references` [INFERRED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_19

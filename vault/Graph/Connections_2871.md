@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/CreatureIndex.client.luau.md"
+source_file: "vault/Graph/Connections_1935.md"
 type: "document"
-community: "Community 195"
-location: "L14"
+community: "Community 1159"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_1159
 ---
 
 # Connections
 
 ## Connections
-- [[CreatureIndex.client.luau_4]] - `contains` [EXTRACTED]
+- [[Connections_2872]] - `contains` [EXTRACTED]
+- [[Connections_1935_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_1159

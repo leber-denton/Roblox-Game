@@ -12,10 +12,11 @@ tags:
 # checkDay()_2.md
 
 ## Connections
-- [[Connections_848_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 - [[checkDay()_1]] - `references` [EXTRACTED]
-- [[checkDay()_2_1]] - `contains` [EXTRACTED]
+- [[checkDay()_2_3]] - `contains` [EXTRACTED]
+- [[checkDay()_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

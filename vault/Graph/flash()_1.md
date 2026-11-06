@@ -1,23 +1,19 @@
 ---
-source_file: "vault/Graph/flash().md"
+source_file: "vault/Graph/flash()_1.md"
 type: "document"
-community: "Community 21"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_168
 ---
 
-# flash().md
+# flash()_1.md
 
 ## Connections
-- [[BattleFX.levelUp()_1]] - `references` [EXTRACTED]
-- [[BattleFX.luau_2]] - `references` [EXTRACTED]
-- [[BattleFX.sendOut()_5]] - `references` [EXTRACTED]
-- [[BattleFX.statusMove()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 235]] - `references` [EXTRACTED]
-- [[flash()_2]] - `contains` [EXTRACTED]
-- [[play()_2_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[flash()_3]] - `contains` [EXTRACTED]
+- [[flash()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_168

@@ -12,7 +12,7 @@ tags:
 # Shapes.spiky()
 
 ## Connections
-- [[Connections_1653]] - `contains` [EXTRACTED]
+- [[Connections_6687]] - `contains` [EXTRACTED]
 - [[Shapes.spiky()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

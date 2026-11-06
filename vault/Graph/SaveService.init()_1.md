@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/SaveService.init()_1.md"
+source_file: "vault/Graph/SaveService.init()_1_1.md"
 type: "document"
 community: "Community 168"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,11 +12,7 @@ tags:
 # SaveService.init()_1.md
 
 ## Connections
+- [[Connections_9655]] - `contains` [EXTRACTED]
 - [[SaveService.init()_1_1]] - `contains` [EXTRACTED]
-- [[SaveService.init()_2]] - `references` [EXTRACTED]
-- [[SaveService.save()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 135]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

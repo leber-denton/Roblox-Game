@@ -12,12 +12,11 @@ tags:
 # despawn().md
 
 ## Connections
-- [[Functions_28_2]] - `references` [EXTRACTED]
-- [[Functions_54]] - `references` [EXTRACTED]
-- [[RareEventService.luau_3]] - `references` [EXTRACTED]
+- [[Functions_101_1]] - `references` [EXTRACTED]
+- [[RareEventService.luau_2_1]] - `references` [EXTRACTED]
 - [[RareEventService.trigger()_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
 - [[despawn()_4]] - `contains` [EXTRACTED]
-- [[finished()_3]] - `references` [EXTRACTED]
+- [[finished()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_53

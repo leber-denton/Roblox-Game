@@ -12,18 +12,20 @@ tags:
 # PlayerData.get()_1.md
 
 ## Connections
-- [[PlayerData.get()_1_1]] - `contains` [EXTRACTED]
+- [[PlayerData.get()_1_3]] - `contains` [EXTRACTED]
+- [[PlayerData.get()_1_1]] - `references` [EXTRACTED]
 - [[PlayerData.get()_2]] - `references` [EXTRACTED]
-- [[PlayerData.luau_1]] - `references` [EXTRACTED]
+- [[PlayerData.luau_1_1]] - `references` [EXTRACTED]
 - [[ProgressService.checkIndex()_1]] - `references` [EXTRACTED]
 - [[ProgressService.init()_1]] - `references` [EXTRACTED]
 - [[ProgressService.progress()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 21]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 - [[checkDay()_1]] - `references` [EXTRACTED]
 - [[commands.newPlayer()_1]] - `references` [EXTRACTED]
-- [[commands.resetTrainers()_1]] - `references` [EXTRACTED]
+- [[commands.resetTrainers()_1_1]] - `references` [EXTRACTED]
 - [[owns()_1]] - `references` [EXTRACTED]
 - [[syncQuests()_1]] - `references` [EXTRACTED]
 - [[wins()_1]] - `references` [EXTRACTED]

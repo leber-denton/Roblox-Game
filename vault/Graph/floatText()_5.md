@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/floatText().md"
+source_file: "vault/Graph/floatText()_5.md"
 type: "document"
-community: "Community 938"
+community: "Community 103"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_938
+  - community/Community_103
 ---
 
-# floatText().md
+# floatText()_5.md
 
 ## Connections
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[floatText()_6]] - `contains` [EXTRACTED]
-- [[updateCoins()_5]] - `references` [EXTRACTED]
+- [[Connections_391]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 103]] - `references` [EXTRACTED]
+- [[floatText()_7]] - `contains` [EXTRACTED]
+- [[floatText()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_938
+#graphify/document #graphify/EXTRACTED #community/Community_103

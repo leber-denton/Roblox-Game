@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/ArenaManager.release()_1.md"
+source_file: "vault/Graph/ArenaManager.release()_3.md"
 type: "document"
-community: "Community 474"
-location: "L12"
+community: "Community 348"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_474
+  - community/Community_348
 ---
 
-# ArenaManager.release().md
+# ArenaManager.release()_3.md
 
 ## Connections
-- [[ArenaManager.release()_1_1]] - `contains` [EXTRACTED]
-- [[Connections_4359]] - `contains` [EXTRACTED]
+- [[ArenaManager.release()_5]] - `contains` [EXTRACTED]
+- [[ArenaManager.release()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 350]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 474]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_474
+#graphify/document #graphify/EXTRACTED #community/Community_348

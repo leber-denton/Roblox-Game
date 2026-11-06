@@ -1,23 +1,19 @@
 ---
-source_file: "vault/Graph/BattleFX.statChange().md"
+source_file: "vault/Graph/BattleFX.statChange()_1.md"
 type: "document"
-community: "Community 21"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_168
 ---
 
-# BattleFX.statChange().md
+# BattleFX.statChange()_1.md
 
 ## Connections
-- [[BattleFX.luau_2]] - `references` [EXTRACTED]
-- [[BattleFX.statChange()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 235]] - `references` [EXTRACTED]
-- [[effectPart()_5]] - `references` [EXTRACTED]
-- [[play()_2_3]] - `references` [EXTRACTED]
-- [[playTurn()_2]] - `references` [EXTRACTED]
-- [[rootOf()_1]] - `references` [EXTRACTED]
+- [[BattleFX.statChange()_3]] - `contains` [EXTRACTED]
+- [[BattleFX.statChange()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_168

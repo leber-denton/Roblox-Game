@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/CodeBattleUI.md"
+source_file: "vault/Code/BattleUI.md"
 type: "document"
-community: "Community 119"
+community: "Community 13"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_119
+  - community/Community_13
 ---
 
-# CodeBattleUI.md
+# Code/BattleUI.md
 
 ## Connections
-- [[CodeBattleUI_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
+- [[BattleUI_4]] - `contains` [EXTRACTED]
+- [[Code Map_2]] - `references` [EXTRACTED]
+- [[CodeBattleData_2]] - `references` [EXTRACTED]
+- [[CodeBattleFX]] - `references` [EXTRACTED]
+- [[CodeGameData_2]] - `references` [EXTRACTED]
+- [[CodeSfx_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_119
+#graphify/document #graphify/EXTRACTED #community/Community_13

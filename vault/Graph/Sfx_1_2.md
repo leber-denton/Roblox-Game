@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Sfx_1_1.md"
+source_file: "vault/Graph/Sfx_1_2.md"
 type: "document"
-community: "Community 466"
-location: "L12"
+community: "Community 162"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_466
+  - community/Community_162
 ---
 
-# Sfx_1.md
+# Sfx_1_2.md
 
 ## Connections
-- [[Connections_4339]] - `contains` [EXTRACTED]
-- [[Sfx_1_1]] - `contains` [EXTRACTED]
+- [[Sfx_1_4]] - `contains` [EXTRACTED]
+- [[Sfx_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 162]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_466
+#graphify/document #graphify/EXTRACTED #community/Community_162

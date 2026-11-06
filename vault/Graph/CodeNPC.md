@@ -14,6 +14,7 @@ tags:
 ## Connections
 - [[CodeLeagueService]] - `references` [EXTRACTED]
 - [[CodeNPC_1]] - `contains` [EXTRACTED]
+- [[CodeNPC_1_1]] - `references` [EXTRACTED]
 - [[CodeRouteTrainerService]] - `references` [EXTRACTED]
 - [[CodeTutorialService]] - `references` [EXTRACTED]
 - [[NPC_2]] - `references` [EXTRACTED]

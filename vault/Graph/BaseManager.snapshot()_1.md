@@ -1,24 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.snapshot().md"
+source_file: "vault/Graph/BaseManager.snapshot()_1.md"
 type: "document"
-community: "Community 352"
+community: "Community 548"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_352
+  - community/Community_548
 ---
 
-# BaseManager.snapshot().md
+# BaseManager.snapshot()_1.md
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[BaseManager.snapshot()_3]] - `contains` [EXTRACTED]
-- [[BattleData.stats()_4]] - `references` [EXTRACTED]
-- [[SocialService.sendBoard()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[setupCommunity()_4]] - `references` [EXTRACTED]
-- [[stateFor()_4]] - `references` [EXTRACTED]
+- [[BaseManager.snapshot()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_352
+#graphify/document #graphify/EXTRACTED #community/Community_548

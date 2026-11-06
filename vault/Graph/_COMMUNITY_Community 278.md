@@ -1,25 +1,34 @@
 ---
 type: community
-members: 12
+members: 21
 ---
 
 # Community 278
 
-**Members:** 12 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Connections_3555]] - document - vault/Graph/Connections_30.md
-- [[Connections_3556]] - document - vault/Graph/Connections_30.md
-- [[Connections_3557]] - document - vault/Graph/Connections_31.md
-- [[Connections_3558]] - document - vault/Graph/Connections_31.md
-- [[Connections_3559]] - document - vault/Graph/Connections_510.md
-- [[Connections_3560]] - document - vault/Graph/playTurn()_2.md
-- [[Connections_30_1]] - document - vault/Graph/Connections_30.md
-- [[Connections_31_1]] - document - vault/Graph/Connections_31.md
-- [[Connections_510_1]] - document - vault/Graph/Connections_510.md
-- [[Connections_510_2]] - document - vault/Graph/Connections_510.md
-- [[playTurn()_2_1]] - document - vault/Graph/playTurn()_2.md
-- [[playTurn()_2_2]] - document - vault/Graph/playTurn()_2.md
+- [[Community 1478]] - document - vault/Graph/_COMMUNITY_Community 1478.md
+- [[Connections_15398]] - document - vault/Graph/Connections_6209.md
+- [[Connections_15399]] - document - vault/Graph/Connections_6209.md
+- [[Connections_15400]] - document - vault/Graph/Connections_6210.md
+- [[Connections_15401]] - document - vault/Graph/Connections_6210.md
+- [[Connections_15402]] - document - vault/Graph/Connections_6211.md
+- [[Connections_15403]] - document - vault/Graph/Connections_6211.md
+- [[Connections_15404]] - document - vault/Graph/tickQueue()_1_1.md
+- [[Connections_15405]] - document - vault/Graph/tickQueue()_3.md
+- [[Connections to other communities_875]] - document - vault/Graph/_COMMUNITY_Community 1478.md
+- [[Connections_6209_1]] - document - vault/Graph/Connections_6209.md
+- [[Connections_6210_1]] - document - vault/Graph/Connections_6210.md
+- [[Connections_6211_1]] - document - vault/Graph/Connections_6211.md
+- [[Live Query (requires Dataview plugin)_1084]] - document - vault/Graph/_COMMUNITY_Community 1478.md
+- [[Members_1094]] - document - vault/Graph/_COMMUNITY_Community 1478.md
+- [[Top bridge nodes_873]] - document - vault/Graph/_COMMUNITY_Community 1478.md
+- [[_COMMUNITY_Community 1478]] - document - vault/Graph/_COMMUNITY_Community 1478.md
+- [[tickQueue()_6]] - document - vault/Graph/tickQueue()_3.md
+- [[tickQueue()_1_2]] - document - vault/Graph/tickQueue()_1_1.md
+- [[tickQueue()_1_1]] - document - vault/Graph/tickQueue()_1_1.md
+- [[tickQueue()_3_1]] - document - vault/Graph/tickQueue()_3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,11 +38,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 75]]
-- 3 edges to [[_COMMUNITY_Community 101]]
+- 1 edge to [[_COMMUNITY_Community 97]]
 
 ## Top bridge nodes
-- [[Connections_510_1]] - degree 5, connects to 2 communities
-- [[playTurn()_2_1]] - degree 5, connects to 2 communities
-- [[Connections_30_1]] - degree 4, connects to 1 community
-- [[Connections_31_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 1478]] - degree 7, connects to 1 community

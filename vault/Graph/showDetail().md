@@ -12,7 +12,7 @@ tags:
 # showDetail()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_7]] - `contains` [EXTRACTED]
 - [[GameData.itemSummary()]] - `calls` [INFERRED]
 - [[ballIcon()]] - `calls` [EXTRACTED]
 - [[itemInfo()]] - `calls` [EXTRACTED]

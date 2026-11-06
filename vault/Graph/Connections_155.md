@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/showReveal().md"
+source_file: "vault/Graph/setStages()_1.md"
 type: "document"
-community: "Community 106"
+community: "Community 101"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_106
+  - community/Community_101
 ---
 
 # Connections
 
 ## Connections
-- [[showReveal()_2]] - `contains` [EXTRACTED]
+- [[setStages()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_106
+#graphify/document #graphify/EXTRACTED #community/Community_101

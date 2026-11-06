@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_47.md"
+source_file: "vault/Graph/Required by_58_1.md"
 type: "document"
-community: "Community 1190"
-location: "L12"
+community: "Community 1034"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1190
+  - community/Community_1034
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_625]] - `contains` [EXTRACTED]
-- [[Connections_47_1]] - `contains` [EXTRACTED]
+- [[Required by_58]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1190
+#graphify/document #graphify/EXTRACTED #community/Community_1034

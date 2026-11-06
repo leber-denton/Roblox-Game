@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/unqueue().md"
+source_file: "vault/Graph/new()_32.md"
 type: "document"
-community: "Community 642"
+community: "Community 1276"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_642
+  - community/Community_1276
 ---
 
 # Connections
 
 ## Connections
-- [[unqueue()_3]] - `contains` [EXTRACTED]
+- [[new()_32_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_642
+#graphify/document #graphify/EXTRACTED #community/Community_1276

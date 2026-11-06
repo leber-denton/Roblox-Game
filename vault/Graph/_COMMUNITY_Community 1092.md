@@ -9,10 +9,10 @@ members: 5
 
 ## Members
 - [[Community 385]] - document - vault/Graph/_COMMUNITY_Community 385.md
-- [[Connections to other communities_62]] - document - vault/Graph/_COMMUNITY_Community 385.md
-- [[Live Query (requires Dataview plugin)_62]] - document - vault/Graph/_COMMUNITY_Community 385.md
-- [[Members_62]] - document - vault/Graph/_COMMUNITY_Community 385.md
-- [[Top bridge nodes_65]] - document - vault/Graph/_COMMUNITY_Community 385.md
+- [[Connections to other communities_90]] - document - vault/Graph/_COMMUNITY_Community 385.md
+- [[Live Query (requires Dataview plugin)_129]] - document - vault/Graph/_COMMUNITY_Community 385.md
+- [[Members_132]] - document - vault/Graph/_COMMUNITY_Community 385.md
+- [[Top bridge nodes_88]] - document - vault/Graph/_COMMUNITY_Community 385.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 88]]
+- 1 edge to [[_COMMUNITY_Community 126]]
 
 ## Top bridge nodes
 - [[Community 385]] - degree 5, connects to 1 community

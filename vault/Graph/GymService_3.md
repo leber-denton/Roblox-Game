@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/GymService.md"
+source_file: "vault/Graph/GymService_3.md"
 type: "document"
-community: "Community 329"
-location: "L12"
+community: "Community 569"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_329
+  - community/Community_569
 ---
 
-# GymService
+# GymService_3.md
 
 ## Connections
-- [[Connections_3893]] - `contains` [EXTRACTED]
-- [[GraphGymService_2]] - `contains` [EXTRACTED]
+- [[GymService_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 329]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 569]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_329
+#graphify/document #graphify/EXTRACTED #community/Community_569

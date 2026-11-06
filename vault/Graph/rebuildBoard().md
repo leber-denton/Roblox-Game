@@ -12,7 +12,7 @@ tags:
 # rebuildBoard()
 
 ## Connections
-- [[Menus.client.luau_4]] - `contains` [EXTRACTED]
+- [[Menus.client.luau_8]] - `contains` [EXTRACTED]
 - [[rebuildBoard()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_418

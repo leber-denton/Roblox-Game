@@ -1,22 +1,18 @@
 ---
 source_file: "vault/Graph/setBoosts()_1.md"
 type: "document"
-community: "Community 292"
-location: "L1"
+community: "Community 144"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_144
 ---
 
 # setBoosts()_1.md
 
 ## Connections
-- [[WeeklyEventService.init()_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 216]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 297]] - `references` [EXTRACTED]
-- [[setBoosts()_1_2]] - `contains` [EXTRACTED]
-- [[setBoosts()_2_1]] - `references` [EXTRACTED]
+- [[Connections_7472]] - `contains` [EXTRACTED]
+- [[setBoosts()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_144

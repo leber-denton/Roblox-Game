@@ -1,36 +1,20 @@
 ---
-source_file: "src/ServerScriptService/Modules/WildSpawner.luau"
-type: "code"
-community: "Community 22"
+source_file: "vault/Graph/WildSpawner.luau_3.md"
+type: "document"
+community: "Community 819"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_22
+  - community/Community_819
 ---
 
-# WildSpawner.luau
+# WildSpawner.luau_3.md
 
 ## Connections
-- [[CreatureBuilder.luau_5]] - `imports` [EXTRACTED]
-- [[GameData.luau_3]] - `imports` [EXTRACTED]
-- [[Main.server.luau_3]] - `imports` [EXTRACTED]
-- [[WildSpawner.canReplace()]] - `contains` [EXTRACTED]
-- [[WildSpawner.clear()]] - `contains` [EXTRACTED]
-- [[WildSpawner.clearLane()]] - `contains` [EXTRACTED]
-- [[WildSpawner.countLane()]] - `contains` [EXTRACTED]
-- [[WildSpawner.getHotZone()]] - `contains` [EXTRACTED]
-- [[WildSpawner.refillLane()]] - `contains` [EXTRACTED]
-- [[WildSpawner.rollVariant()]] - `contains` [EXTRACTED]
-- [[WildSpawner.setHotZone()]] - `contains` [EXTRACTED]
-- [[WildSpawner.shift()]] - `contains` [EXTRACTED]
-- [[WildSpawner.spawnLane()]] - `contains` [EXTRACTED]
-- [[WildSpawner.spawnOne()]] - `contains` [EXTRACTED]
-- [[fillLane()]] - `contains` [EXTRACTED]
-- [[laneParts()]] - `contains` [EXTRACTED]
-- [[pickEntry()]] - `contains` [EXTRACTED]
-- [[script_parent_battleservice_5]] - `imports` [EXTRACTED]
-- [[script_parent_wander_5]] - `imports` [EXTRACTED]
-- [[spawnInLane()]] - `contains` [EXTRACTED]
+- [[Connections_5962_1]] - `references` [EXTRACTED]
+- [[WildSpawner.luau_5]] - `contains` [EXTRACTED]
+- [[WildSpawner.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_22
+#graphify/document #graphify/EXTRACTED #community/Community_819

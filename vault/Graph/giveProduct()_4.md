@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/giveProduct().md"
+source_file: "vault/Graph/giveProduct()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_168
 ---
 
-# giveProduct().md
+# giveProduct()_4.md
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[PlayerData.addCoinsRaw()_4]] - `references` [EXTRACTED]
-- [[PlayerData.addItem()_4]] - `references` [EXTRACTED]
-- [[PlayerData.spend()_1]] - `references` [EXTRACTED]
-- [[PlayerData.takeItem()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[giveProduct()_5]] - `contains` [EXTRACTED]
-- [[processReceipt()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
+- [[giveProduct()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_168

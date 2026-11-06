@@ -12,7 +12,7 @@ tags:
 # commands.addStar()
 
 ## Connections
-- [[AdminService.luau_3]] - `contains` [EXTRACTED]
+- [[AdminService.luau]] - `contains` [EXTRACTED]
 - [[BaseManager.getTeam()]] - `calls` [INFERRED]
 - [[BaseManager.refresh()]] - `calls` [INFERRED]
 - [[BattleData.applyStars()]] - `calls` [INFERRED]

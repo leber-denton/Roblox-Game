@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/addNpc()_1.md"
+source_file: "vault/Graph/addNpc()_3.md"
 type: "document"
 community: "Community 688"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_688
 ---
 
-# addNpc().md
+# addNpc()_3.md
 
 ## Connections
-- [[Connections_5048]] - `contains` [EXTRACTED]
-- [[addNpc()_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 688]] - `references` [EXTRACTED]
+- [[addNpc()_1_1]] - `references` [EXTRACTED]
+- [[addNpc()_3_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_688

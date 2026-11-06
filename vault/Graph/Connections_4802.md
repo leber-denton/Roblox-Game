@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/pivotOf()_2.md"
+source_file: "vault/Graph/Connections_3505.md"
 type: "document"
-community: "Community 613"
+community: "Community 1272"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_613
+  - community/Community_1272
 ---
 
 # Connections
 
 ## Connections
-- [[pivotOf()_4]] - `contains` [EXTRACTED]
+- [[Connections_4801]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_613
+#graphify/document #graphify/EXTRACTED #community/Community_1272

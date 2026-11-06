@@ -1,22 +1,19 @@
 ---
-source_file: "vault/Graph/syncQuests().md"
+source_file: "vault/Graph/syncQuests()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_168
 ---
 
-# syncQuests().md
+# syncQuests()_4.md
 
 ## Connections
-- [[PlayerData.get()_3]] - `references` [EXTRACTED]
-- [[ProgressService.luau_3]] - `references` [EXTRACTED]
-- [[ProgressService.progress()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[checkDay()_3]] - `references` [EXTRACTED]
-- [[syncQuests()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[syncQuests()_6]] - `contains` [EXTRACTED]
+- [[syncQuests()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_168

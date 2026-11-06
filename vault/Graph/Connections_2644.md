@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/lightning()_1.md"
+source_file: "vault/Graph/Community 43.md"
 type: "document"
-community: "Community 18"
+community: "Community 115"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_18
+  - community/Community_115
 ---
 
 # Connections
 
 ## Connections
-- [[lightning()_3]] - `contains` [EXTRACTED]
+- [[Community 43_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_18
+#graphify/document #graphify/EXTRACTED #community/Community_115

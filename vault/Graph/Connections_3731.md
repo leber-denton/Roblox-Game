@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.swarm()_2.md"
+source_file: "vault/Graph/Connections_4079.md"
 type: "document"
-community: "Community 310"
+community: "Community 1209"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_310
+  - community/Community_1209
 ---
 
 # Connections
 
 ## Connections
-- [[commands.swarm()_2_2]] - `contains` [EXTRACTED]
+- [[Connections_4079_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_310
+#graphify/document #graphify/EXTRACTED #community/Community_1209

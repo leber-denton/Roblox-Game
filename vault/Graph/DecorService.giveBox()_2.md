@@ -12,8 +12,9 @@ tags:
 # DecorService.giveBox()_2.md
 
 ## Connections
-- [[DecorService.giveBox()_1]] - `references` [EXTRACTED]
-- [[DecorService.giveBox()_2_1]] - `contains` [EXTRACTED]
+- [[DecorService.giveBox()_1_1]] - `references` [EXTRACTED]
+- [[DecorService.giveBox()_2_3]] - `contains` [EXTRACTED]
+- [[DecorService.giveBox()_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 175]] - `references` [EXTRACTED]
 

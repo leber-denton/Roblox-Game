@@ -12,8 +12,10 @@ tags:
 # LeagueService.init()_2.md
 
 ## Connections
-- [[LeagueService.init()_3]] - `contains` [EXTRACTED]
-- [[LeagueService.init()_1]] - `references` [EXTRACTED]
+- [[LeagueService.init()_1_1]] - `references` [EXTRACTED]
+- [[LeagueService.init()_2_1]] - `contains` [EXTRACTED]
+- [[LeagueService.init()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

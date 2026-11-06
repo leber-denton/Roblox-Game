@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Syncing to Studio.md"
+source_file: "vault/Graph/Requires_8_1.md"
 type: "document"
-community: "Community 984"
+community: "Community 1346"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_984
+  - community/Community_1346
 ---
 
 # Connections
 
 ## Connections
-- [[Syncing to Studio_4]] - `contains` [EXTRACTED]
+- [[Requires_8_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_984
+#graphify/document #graphify/EXTRACTED #community/Community_1346

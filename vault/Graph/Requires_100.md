@@ -12,8 +12,9 @@ tags:
 # Requires_100.md
 
 ## Connections
-- [[Requires_100_1]] - `contains` [EXTRACTED]
-- [[Requires_11_1]] - `references` [EXTRACTED]
+- [[Requires_100_3]] - `contains` [EXTRACTED]
+- [[Requires_100_1]] - `references` [EXTRACTED]
+- [[Requires_11_1_1_1]] - `references` [EXTRACTED]
 - [[TrainerAnimations_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 132]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 59]] - `references` [EXTRACTED]

@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/Connections_970.md"
+source_file: "vault/Graph/Connections_1052.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 1061"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1061
 ---
 
-# Connections_970.md
+# Connections
 
 ## Connections
-- [[BattleData.luau_2]] - `references` [EXTRACTED]
-- [[Connections_634_1]] - `references` [EXTRACTED]
-- [[Connections_970_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[Connections_971]] - `contains` [EXTRACTED]
+- [[Connections_1052]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1061

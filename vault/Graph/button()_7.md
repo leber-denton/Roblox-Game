@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/button()_4.md"
+source_file: "vault/Graph/button()_7.md"
 type: "document"
-community: "Community 98"
-location: "L12"
+community: "Community 174"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_174
 ---
 
-# button().md
+# button()_7.md
 
 ## Connections
-- [[Connections_6322]] - `contains` [EXTRACTED]
-- [[button()_4_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 174]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 98]] - `references` [EXTRACTED]
+- [[button()_4_1]] - `references` [EXTRACTED]
+- [[button()_5_1]] - `references` [EXTRACTED]
+- [[button()_7_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_98
+#graphify/document #graphify/EXTRACTED #community/Community_174

@@ -1,25 +1,26 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Music.client.luau"
-type: "code"
-community: "Community 1"
+source_file: "vault/Graph/Music.client.luau.md"
+type: "document"
+community: "Community 100"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Community_100
 ---
 
-# Music.client.luau
+# Music.client.luau.md
 
 ## Connections
-- [[applyMute()]] - `contains` [EXTRACTED]
-- [[fadeTo()]] - `contains` [EXTRACTED]
-- [[render()]] - `contains` [EXTRACTED]
-- [[replicatedstorage_waitforchild_4]] - `imports` [EXTRACTED]
-- [[switch()]] - `contains` [EXTRACTED]
-- [[targetVolume()]] - `contains` [EXTRACTED]
-- [[update()]] - `contains` [EXTRACTED]
-- [[updateVisible()]] - `contains` [EXTRACTED]
-- [[wanted()]] - `contains` [EXTRACTED]
+- [[Music.client.luau_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
+- [[applyMute()_1]] - `references` [EXTRACTED]
+- [[fadeTo()_1]] - `references` [EXTRACTED]
+- [[render()_2]] - `references` [EXTRACTED]
+- [[switch()_1]] - `references` [EXTRACTED]
+- [[targetVolume()_1]] - `references` [EXTRACTED]
+- [[update()_2]] - `references` [EXTRACTED]
+- [[updateVisible()_4]] - `references` [EXTRACTED]
+- [[wanted()_1]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_1
+#graphify/document #graphify/EXTRACTED #community/Community_100

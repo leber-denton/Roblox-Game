@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/heal()_2.md"
+source_file: "vault/Graph/Connections_352.md"
 type: "document"
-community: "Community 1152"
+community: "Community 103"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1152
+  - community/Community_103
 ---
 
 # Connections
 
 ## Connections
-- [[heal()_3]] - `contains` [EXTRACTED]
+- [[Connections_377]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1152
+#graphify/document #graphify/EXTRACTED #community/Community_103

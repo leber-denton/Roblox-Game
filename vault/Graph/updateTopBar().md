@@ -12,7 +12,7 @@ tags:
 # updateTopBar()
 
 ## Connections
-- [[Functions_68]] - `references` [INFERRED]
-- [[HUD.client.luau]] - `contains` [EXTRACTED]
+- [[Functions_130]] - `references` [INFERRED]
+- [[HUD.client.luau_5]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_214

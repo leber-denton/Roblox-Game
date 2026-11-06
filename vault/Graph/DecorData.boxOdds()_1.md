@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.boxOdds().md"
+source_file: "vault/Graph/DecorData.boxOdds()_1_2.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 1672"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1672
 ---
 
-# DecorData.boxOdds().md
+# DecorData.boxOdds()_1.md
 
 ## Connections
-- [[DecorData.boxOdds()_2]] - `contains` [EXTRACTED]
-- [[DecorData.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[tabs.Crates()_1]] - `references` [EXTRACTED]
+- [[Connections_9394]] - `contains` [EXTRACTED]
+- [[DecorData.boxOdds()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1672

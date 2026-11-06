@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/stopBuild()_1.md"
+source_file: "vault/Graph/stopBuild()_1_1.md"
 type: "document"
 community: "Community 170"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_170
 ---
 
-# stopBuild()_1.md
+# stopBuild()_1_1.md
 
 ## Connections
-- [[Connections_2466]] - `contains` [EXTRACTED]
-- [[stopBuild()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 170]] - `references` [EXTRACTED]
+- [[stopBuild()_1_2]] - `contains` [EXTRACTED]
+- [[stopBuild()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_170

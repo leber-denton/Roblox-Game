@@ -12,7 +12,7 @@ tags:
 # applyMute()
 
 ## Connections
-- [[Connections]] - `contains` [EXTRACTED]
+- [[Connections_41]] - `contains` [EXTRACTED]
 - [[applyMute()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_100

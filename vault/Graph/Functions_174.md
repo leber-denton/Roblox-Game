@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Code/NPC.md"
+source_file: "vault/Graph/Functions_174.md"
 type: "document"
-community: "Community 71"
-location: "L15"
+community: "Community 159"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_71
+  - community/Community_159
 ---
 
-# Functions
+# Functions_174.md
 
 ## Connections
-- [[NPC_3]] - `contains` [EXTRACTED]
+- [[Functions_174_1]] - `contains` [EXTRACTED]
+- [[Functions_48_1]] - `references` [EXTRACTED]
+- [[NPC_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 159]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 71]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_71
+#graphify/document #graphify/EXTRACTED #community/Community_159

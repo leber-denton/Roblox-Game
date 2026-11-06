@@ -1,43 +1,27 @@
 ---
 type: community
-members: 30
+members: 14
 ---
 
 # Community 251
 
-**Members:** 30 nodes
+**Members:** 14 nodes
 
 ## Members
-- [[Community 251]] - document - vault/Graph/_COMMUNITY_Community 251.md
-- [[Connections_3464]] - document - vault/Graph/canAnyoneEnter()_1.md
-- [[Connections_3465]] - document - vault/Graph/canAnyoneEnter()_2.md
-- [[Connections_3466]] - document - vault/Graph/Connections to other communities_65.md
-- [[Connections_3467]] - document - vault/Graph/GameData.canEnter()_1.md
-- [[Connections_3468]] - document - vault/Graph/GameData.canEnter()_2.md
-- [[Connections_3469]] - document - vault/Graph/GameData.regionFor()_1.md
-- [[Connections_3470]] - document - vault/Graph/GameData.regionFor()_2.md
-- [[Connections_3471]] - document - vault/Graph/Top bridge nodes_66.md
-- [[Connections to other communities_194]] - document - vault/Graph/_COMMUNITY_Community 251.md
-- [[Connections to other communities_195]] - document - vault/Graph/Connections to other communities_65.md
-- [[Connections to other communities_65_1]] - document - vault/Graph/Connections to other communities_65.md
-- [[GameData.canEnter()_1]] - document - vault/Graph/GameData.canEnter()_1.md
-- [[GameData.canEnter()_1_1]] - document - vault/Graph/GameData.canEnter()_1.md
-- [[GameData.canEnter()_2]] - document - vault/Graph/GameData.canEnter()_2.md
-- [[GameData.canEnter()_2_1]] - document - vault/Graph/GameData.canEnter()_2.md
-- [[GameData.regionFor()_1_1]] - document - vault/Graph/GameData.regionFor()_1.md
-- [[GameData.regionFor()_1_2]] - document - vault/Graph/GameData.regionFor()_1.md
-- [[GameData.regionFor()_2_1]] - document - vault/Graph/GameData.regionFor()_2.md
-- [[GameData.regionFor()_2_2]] - document - vault/Graph/GameData.regionFor()_2.md
-- [[Live Query (requires Dataview plugin)_226]] - document - vault/Graph/_COMMUNITY_Community 251.md
-- [[Members_230]] - document - vault/Graph/_COMMUNITY_Community 251.md
-- [[Top bridge nodes_200]] - document - vault/Graph/_COMMUNITY_Community 251.md
-- [[Top bridge nodes_201]] - document - vault/Graph/Top bridge nodes_66.md
-- [[Top bridge nodes_66_1]] - document - vault/Graph/Top bridge nodes_66.md
-- [[_COMMUNITY_Community 251]] - document - vault/Graph/_COMMUNITY_Community 251.md
-- [[canAnyoneEnter()_1]] - document - vault/Graph/canAnyoneEnter()_1.md
-- [[canAnyoneEnter()_1_1]] - document - vault/Graph/canAnyoneEnter()_1.md
-- [[canAnyoneEnter()_2]] - document - vault/Graph/canAnyoneEnter()_2.md
-- [[canAnyoneEnter()_2_1]] - document - vault/Graph/canAnyoneEnter()_2.md
+- [[Community 1051]] - document - vault/Graph/_COMMUNITY_Community 1051.md
+- [[Community 318_1]] - document - vault/Graph/Community 318.md
+- [[Community 318]] - document - vault/Graph/Community 318.md
+- [[Connections_14350]] - document - vault/Graph/Community 318.md
+- [[Connections_14351]] - document - vault/Graph/Connections_844.md
+- [[Connections_14352]] - document - vault/Graph/Connections_844.md
+- [[Connections_14353]] - document - vault/Graph/Members_63.md
+- [[Connections_844_1]] - document - vault/Graph/Connections_844.md
+- [[Live Query (requires Dataview plugin)_1023]] - document - vault/Graph/_COMMUNITY_Community 1051.md
+- [[Members_1036]] - document - vault/Graph/_COMMUNITY_Community 1051.md
+- [[Members_1037]] - document - vault/Graph/Members_63.md
+- [[Members_63_3]] - document - vault/Graph/Members_63.md
+- [[_COMMUNITY_Community 1051]] - document - vault/Graph/_COMMUNITY_Community 1051.md
+- [[_COMMUNITY_Community 318]] - document - vault/Graph/_COMMUNITY_Community 318.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -47,20 +31,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 7 edges to [[_COMMUNITY_Community 146]]
-- 4 edges to [[_COMMUNITY_Community 134]]
-- 4 edges to [[_COMMUNITY_Community 26]]
-- 2 edges to [[_COMMUNITY_Community 149]]
-- 2 edges to [[_COMMUNITY_Community 177]]
-- 2 edges to [[_COMMUNITY_Community 347]]
-- 2 edges to [[_COMMUNITY_Community 298]]
-- 2 edges to [[_COMMUNITY_Community 476]]
-- 1 edge to [[_COMMUNITY_Community 101]]
-- 1 edge to [[_COMMUNITY_Community 168]]
+- 4 edges to [[_COMMUNITY_Community 1051]]
+- 4 edges to [[_COMMUNITY_Community 1069]]
+- 3 edges to [[_COMMUNITY_Community 1629]]
+- 3 edges to [[_COMMUNITY_Community 1632]]
+- 3 edges to [[_COMMUNITY_Community 1712]]
+- 2 edges to [[_COMMUNITY_Community 2652]]
+- 1 edge to [[_COMMUNITY_Community 12]]
+- 1 edge to [[_COMMUNITY_Community 3447]]
+- 1 edge to [[_COMMUNITY_Community 3607]]
+- 1 edge to [[_COMMUNITY_Community 2887]]
+- 1 edge to [[_COMMUNITY_Community 34]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 251]] - degree 23, connects to 10 communities
-- [[GameData.canEnter()_1]] - degree 10, connects to 5 communities
-- [[canAnyoneEnter()_1]] - degree 7, connects to 3 communities
-- [[GameData.regionFor()_1_1]] - degree 6, connects to 2 communities
-- [[GameData.canEnter()_2]] - degree 4, connects to 1 community
+- [[_COMMUNITY_Community 1051]] - degree 22, connects to 7 communities
+- [[_COMMUNITY_Community 318]] - degree 9, connects to 4 communities

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/weld()_2.md"
+source_file: "vault/Graph/weld()_4.md"
 type: "document"
-community: "Community 176"
-location: "L12"
+community: "Community 682"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_176
+  - community/Community_682
 ---
 
-# weld()
+# weld()_4.md
 
 ## Connections
-- [[Connections_2587]] - `contains` [EXTRACTED]
-- [[weld()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_4358_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
+- [[weld()_6]] - `contains` [EXTRACTED]
+- [[weld()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_176
+#graphify/document #graphify/EXTRACTED #community/Community_682

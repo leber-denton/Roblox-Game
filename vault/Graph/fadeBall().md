@@ -12,7 +12,7 @@ tags:
 # fadeBall()
 
 ## Connections
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[BattleFX.throw()]] - `calls` [EXTRACTED]
 - [[ballParts()]] - `calls` [EXTRACTED]
 - [[play()_1]] - `calls` [EXTRACTED]

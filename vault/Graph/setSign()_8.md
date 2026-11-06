@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/setSign().md"
+source_file: "vault/Graph/setSign()_8.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 1187"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1187
 ---
 
-# setSign()
+# setSign()_8.md
 
 ## Connections
-- [[Connections_5858]] - `contains` [EXTRACTED]
-- [[setSign()_7]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[setSign()_8_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1187

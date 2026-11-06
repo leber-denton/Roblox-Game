@@ -1,21 +1,22 @@
 ---
-source_file: "vault/Graph/TutorialService.finishGuide()_1.md"
+source_file: "vault/Graph/TutorialService.finishGuide().md"
 type: "document"
-community: "Community 134"
+community: "Community 276"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_276
 ---
 
-# TutorialService.finishGuide()_1.md
+# TutorialService.finishGuide().md
 
 ## Connections
-- [[TutorialService.finishGuide()_3]] - `contains` [EXTRACTED]
-- [[TutorialService.finishGuide()_2]] - `references` [EXTRACTED]
+- [[DecorService.giveBox()_7]] - `references` [EXTRACTED]
+- [[PlayerData.addCoins()_3]] - `references` [EXTRACTED]
+- [[TutorialService.finishGuide()_2]] - `contains` [EXTRACTED]
 - [[TutorialService.logFunnel()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
+- [[setStep()_6]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_276

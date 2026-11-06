@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Connections to other communities_45.md"
+source_file: "vault/Graph/Connections to other communities_108.md"
 type: "document"
-community: "Community 168"
+community: "Community 1109"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1109
 ---
 
 # Connections to other communities
 
 ## Connections
-- [[Connections_2311]] - `contains` [EXTRACTED]
-- [[Connections to other communities_45_1]] - `contains` [EXTRACTED]
+- [[Connections_1895]] - `contains` [EXTRACTED]
+- [[Connections to other communities_108_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1109

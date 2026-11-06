@@ -12,9 +12,9 @@ tags:
 # Functions_33_1.md
 
 ## Connections
-- [[Connections_935]] - `references` [EXTRACTED]
-- [[Functions_33_2]] - `contains` [EXTRACTED]
 - [[Functions_33]] - `references` [EXTRACTED]
+- [[Functions_33_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1110]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 127]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1110

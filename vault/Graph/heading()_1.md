@@ -1,25 +1,19 @@
 ---
-source_file: "vault/Graph/heading().md"
+source_file: "vault/Graph/heading()_1.md"
 type: "document"
-community: "Community 63"
+community: "Community 174"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_63
+  - community/Community_174
 ---
 
-# heading().md
+# heading()_1.md
 
 ## Connections
-- [[DecorUI.client.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[heading()_2]] - `contains` [EXTRACTED]
-- [[label()_2_1]] - `references` [EXTRACTED]
-- [[tabs.Base()_1]] - `references` [EXTRACTED]
-- [[tabs.Crates()_1]] - `references` [EXTRACTED]
-- [[tabs.Daily()_1]] - `references` [EXTRACTED]
-- [[tabs.Robux()_1]] - `references` [EXTRACTED]
-- [[tabs.Themes()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 174]] - `references` [EXTRACTED]
+- [[heading()_1_2]] - `contains` [EXTRACTED]
+- [[heading()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_63
+#graphify/document #graphify/EXTRACTED #community/Community_174

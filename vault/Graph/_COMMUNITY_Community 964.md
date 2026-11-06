@@ -1,19 +1,25 @@
 ---
 type: community
-members: 6
+members: 12
 ---
 
 # Community 964
 
-**Members:** 6 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_6290]] - document - vault/Graph/Required by_112.md
-- [[Connections_6291]] - document - vault/Graph/Required by_24.md
-- [[Required by_184]] - document - vault/Graph/Required by_24.md
-- [[Required by_112_1]] - document - vault/Graph/Required by_112.md
-- [[Required by_112_2]] - document - vault/Graph/Required by_112.md
-- [[Required by_24_3]] - document - vault/Graph/Required by_24.md
+- [[Connections_24278]] - document - vault/Graph/Connections_2552.md
+- [[Connections_24279]] - document - vault/Graph/Connections_2552.md
+- [[Connections_24280]] - document - vault/Graph/Connections_2553.md
+- [[Connections_24281]] - document - vault/Graph/Connections_2553.md
+- [[Connections_24282]] - document - vault/Graph/DecorData.build()_1_2.md
+- [[Connections_24283]] - document - vault/Graph/DecorData.build()_2_2.md
+- [[Connections_2552_1]] - document - vault/Graph/Connections_2552.md
+- [[Connections_2553_1]] - document - vault/Graph/Connections_2553.md
+- [[DecorData.build()_1_3]] - document - vault/Graph/DecorData.build()_1_2.md
+- [[DecorData.build()_1_2_1]] - document - vault/Graph/DecorData.build()_1_2.md
+- [[DecorData.build()_2_3]] - document - vault/Graph/DecorData.build()_2_2.md
+- [[DecorData.build()_2_2_1]] - document - vault/Graph/DecorData.build()_2_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +29,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 162]]
+- 3 edges to [[_COMMUNITY_Community 1208]]
+- 2 edges to [[_COMMUNITY_Community 63]]
 
 ## Top bridge nodes
-- [[Required by_112_1]] - degree 4, connects to 1 community
-- [[Required by_24_3]] - degree 3, connects to 1 community
+- [[Connections_2552_1]] - degree 5, connects to 1 community
+- [[Connections_2553_1]] - degree 4, connects to 1 community
+- [[DecorData.build()_1_2_1]] - degree 3, connects to 1 community
+- [[DecorData.build()_2_2_1]] - degree 3, connects to 1 community

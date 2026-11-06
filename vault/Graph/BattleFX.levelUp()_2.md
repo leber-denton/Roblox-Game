@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/BattleFX.levelUp().md"
+source_file: "vault/Graph/BattleFX.levelUp()_2.md"
 type: "document"
-community: "Community 21"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_168
 ---
 
-# BattleFX.levelUp()
+# BattleFX.levelUp()_2.md
 
 ## Connections
-- [[BattleFX.levelUp()_1]] - `contains` [EXTRACTED]
-- [[Connections_3046]] - `contains` [EXTRACTED]
+- [[BattleFX.levelUp()_4]] - `contains` [EXTRACTED]
+- [[BattleFX.levelUp()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 21]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_168

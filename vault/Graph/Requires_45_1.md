@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[Main_1]] - `references` [EXTRACTED]
-- [[Requires_45]] - `contains` [EXTRACTED]
+- [[Requires_45_1_1]] - `contains` [EXTRACTED]
+- [[Requires_45_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 157]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 69]] - `references` [EXTRACTED]
 

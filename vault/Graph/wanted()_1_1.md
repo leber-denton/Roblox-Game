@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/wanted()_1.md"
 type: "document"
-community: "Community 182"
+community: "Community 1007"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_182
+  - community/Community_1007
 ---
 
 # wanted()_1.md
@@ -17,7 +17,7 @@ tags:
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 100]] - `references` [EXTRACTED]
 - [[update()_2_1]] - `references` [EXTRACTED]
-- [[wanted()_3]] - `contains` [EXTRACTED]
-- [[wanted()_2_1]] - `references` [EXTRACTED]
+- [[wanted()_4]] - `contains` [EXTRACTED]
+- [[wanted()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_182
+#graphify/document #graphify/EXTRACTED #community/Community_1007

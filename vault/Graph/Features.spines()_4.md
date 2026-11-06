@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Features.spines()_2.md"
+source_file: "vault/Graph/Features.spines()_4.md"
 type: "document"
-community: "Community 739"
-location: "L12"
+community: "Community 629"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_739
+  - community/Community_629
 ---
 
-# Features.spines()
+# Features.spines()_4.md
 
 ## Connections
-- [[Connections_5229]] - `contains` [EXTRACTED]
-- [[Features.spines()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_4304_1]] - `references` [EXTRACTED]
+- [[Features.spines()_6]] - `contains` [EXTRACTED]
+- [[Features.spines()_2_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_739
+#graphify/document #graphify/EXTRACTED #community/Community_629

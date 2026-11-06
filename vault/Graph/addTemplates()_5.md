@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/addTemplates().md"
 type: "document"
-community: "Community 169"
-location: "L12"
+community: "Community 689"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_169
+  - community/Community_689
 ---
 
-# addTemplates()
+# addTemplates().md
 
 ## Connections
-- [[Connections_2448]] - `contains` [EXTRACTED]
-- [[addTemplates()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 61]] - `references` [EXTRACTED]
+- [[addTemplates()_9]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_169
+#graphify/document #graphify/EXTRACTED #community/Community_689

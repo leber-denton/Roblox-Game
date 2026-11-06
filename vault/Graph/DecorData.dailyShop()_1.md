@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.dailyShop()_1.md"
+source_file: "vault/Graph/DecorData.dailyShop()_3.md"
 type: "document"
-community: "Community 317"
-location: "L1"
+community: "Community 2225"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_317
+  - community/Community_2225
 ---
 
-# DecorData.dailyShop()_1.md
+# DecorData.dailyShop().md
 
 ## Connections
-- [[DecorData.dailyShop()_1_1]] - `contains` [EXTRACTED]
-- [[DecorData.dailyShop()_2]] - `references` [EXTRACTED]
-- [[DecorData.luau_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 174]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 317]] - `references` [EXTRACTED]
+- [[Connections_12940]] - `contains` [EXTRACTED]
+- [[DecorData.dailyShop()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_317
+#graphify/document #graphify/EXTRACTED #community/Community_2225

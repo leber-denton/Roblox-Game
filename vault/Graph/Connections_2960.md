@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_105.md"
+source_file: "vault/Graph/findTargets().md"
 type: "document"
-community: "Community 202"
-location: "L12"
+community: "Community 117"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_202
+  - community/Community_117
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_2961]] - `contains` [EXTRACTED]
-- [[Connections_105_1]] - `contains` [EXTRACTED]
+- [[findTargets()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_202
+#graphify/document #graphify/EXTRACTED #community/Community_117

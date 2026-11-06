@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/NpcGuard.stamp()_2.md"
+source_file: "vault/Graph/NpcGuard.stamp()_4.md"
 type: "document"
-community: "Community 798"
-location: "L12"
+community: "Community 395"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_798
+  - community/Community_395
 ---
 
-# NpcGuard.stamp()
+# NpcGuard.stamp()_4.md
 
 ## Connections
-- [[Connections_5450]] - `contains` [EXTRACTED]
-- [[NpcGuard.stamp()_2_1]] - `contains` [EXTRACTED]
+- [[NpcGuard.luau_2_1]] - `references` [EXTRACTED]
+- [[NpcGuard.stamp()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 333]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 38]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_798
+#graphify/document #graphify/EXTRACTED #community/Community_395

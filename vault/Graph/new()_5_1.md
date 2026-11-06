@@ -1,24 +1,25 @@
 ---
-source_file: "vault/Graph/new()_5_1.md"
+source_file: "vault/Graph/new()_5.md"
 type: "document"
-community: "Community 121"
+community: "Community 106"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_121
+  - community/Community_106
 ---
 
-# new()_5_1.md
+# new()_5.md
 
 ## Connections
-- [[ColiseumUI.client.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 121]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 239]] - `references` [EXTRACTED]
-- [[header()_4]] - `references` [EXTRACTED]
-- [[new()_16]] - `references` [EXTRACTED]
-- [[new()_5_2]] - `contains` [EXTRACTED]
-- [[round()_2_1]] - `references` [EXTRACTED]
-- [[row()_1_1]] - `references` [EXTRACTED]
+- [[CreatureIndex.client.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 420]] - `references` [EXTRACTED]
+- [[label()_2_1]] - `references` [EXTRACTED]
+- [[new()_11]] - `contains` [EXTRACTED]
+- [[preview()_1_1]] - `references` [EXTRACTED]
+- [[round()_3_1]] - `references` [EXTRACTED]
+- [[showDetail()_1_1]] - `references` [EXTRACTED]
+- [[showGrid()_1]] - `references` [EXTRACTED]
+- [[typeChips()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_121
+#graphify/document #graphify/EXTRACTED #community/Community_106

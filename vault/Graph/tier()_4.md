@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/tier()_2.md"
+source_file: "vault/Graph/tier()_4.md"
 type: "document"
 community: "Community 281"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_281
 ---
 
-# tier()
+# tier()_4.md
 
 ## Connections
-- [[Connections_3580]] - `contains` [EXTRACTED]
-- [[tier()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 281]] - `references` [EXTRACTED]
+- [[tier()_4_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_281

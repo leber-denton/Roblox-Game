@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/PassService.luau.md"
+source_file: "vault/Graph/Connections to other communities_102.md"
 type: "document"
-community: "Community 144"
+community: "Community 1101"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_144
+  - community/Community_1101
 ---
 
 # Connections
 
 ## Connections
-- [[PassService.luau_2]] - `contains` [EXTRACTED]
+- [[Connections to other communities_130]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_144
+#graphify/document #graphify/EXTRACTED #community/Community_1101

@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/ownerOf().md"
+source_file: "vault/Graph/ownerOf()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 152"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_152
 ---
 
-# ownerOf().md
+# ownerOf()_4.md
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[buildBaseProps()_4]] - `references` [EXTRACTED]
-- [[ownerOf()_5]] - `contains` [EXTRACTED]
-- [[refreshBaseLabels()_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[ownerOf()_6]] - `contains` [EXTRACTED]
+- [[ownerOf()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_152

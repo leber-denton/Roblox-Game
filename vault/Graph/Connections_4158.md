@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_831.md"
+source_file: "vault/Graph/practice().md"
 type: "document"
-community: "Community 400"
-location: "L12"
+community: "Community 123"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_400
+  - community/Community_123
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_4159]] - `contains` [EXTRACTED]
-- [[Connections_831_1]] - `contains` [EXTRACTED]
+- [[practice()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_400
+#graphify/document #graphify/EXTRACTED #community/Community_123

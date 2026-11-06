@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/_COMMUNITY_Community 824.md"
+type: "document"
+community: "Community 3012"
+location: "L30"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_3012
+---
+
+# Live Query (requires Dataview plugin)
+
+## Connections
+- [[Community 824]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_3012

@@ -1,31 +1,22 @@
 ---
 type: community
-members: 18
+members: 9
 ---
 
 # Community 536
 
-**Members:** 18 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_4594]] - document - vault/Graph/Connections_118.md
-- [[Connections_4595]] - document - vault/Graph/Connections_118.md
-- [[Connections_4596]] - document - vault/Graph/Connections_123.md
-- [[Connections_4597]] - document - vault/Graph/Connections_123.md
-- [[Connections_4598]] - document - vault/Graph/grey()_1.md
-- [[Connections_4599]] - document - vault/Graph/grey()_2.md
-- [[Connections_4600]] - document - vault/Graph/lockPart()_1.md
-- [[Connections_4601]] - document - vault/Graph/lockPart()_2.md
-- [[Connections_118_1]] - document - vault/Graph/Connections_118.md
-- [[Connections_123_1]] - document - vault/Graph/Connections_123.md
-- [[grey()_4]] - document - vault/Graph/grey()_2.md
-- [[grey()_3]] - document - vault/Graph/grey()_1.md
-- [[grey()_1_1]] - document - vault/Graph/grey()_1.md
-- [[grey()_2_1]] - document - vault/Graph/grey()_2.md
-- [[lockPart()_4]] - document - vault/Graph/lockPart()_2.md
-- [[lockPart()_3]] - document - vault/Graph/lockPart()_1.md
-- [[lockPart()_1_1]] - document - vault/Graph/lockPart()_1.md
-- [[lockPart()_2_1]] - document - vault/Graph/lockPart()_2.md
+- [[Connections_20547]] - document - vault/Graph/Connections_119.md
+- [[Connections_20548]] - document - vault/Graph/Connections_119.md
+- [[Connections_20549]] - document - vault/Graph/Connections_120.md
+- [[Connections_20550]] - document - vault/Graph/Connections_120.md
+- [[Connections_20551]] - document - vault/Graph/Connections_47_1.md
+- [[Connections_119_3]] - document - vault/Graph/Connections_119.md
+- [[Connections_120_3]] - document - vault/Graph/Connections_120.md
+- [[Connections_47_2]] - document - vault/Graph/Connections_47_1.md
+- [[Connections_47_1_1]] - document - vault/Graph/Connections_47_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -35,14 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 6 edges to [[_COMMUNITY_Community 542]]
-- 4 edges to [[_COMMUNITY_Community 105]]
-- 1 edge to [[_COMMUNITY_Community 471]]
-- 1 edge to [[_COMMUNITY_Community 628]]
+- 3 edges to [[_COMMUNITY_Community 1744]]
+- 1 edge to [[_COMMUNITY_Community 1015]]
 
 ## Top bridge nodes
-- [[lockPart()_1_1]] - degree 8, connects to 4 communities
-- [[grey()_1_1]] - degree 6, connects to 2 communities
-- [[grey()_2_1]] - degree 4, connects to 1 community
-- [[lockPart()_2_1]] - degree 4, connects to 1 community
-- [[Connections_118_1]] - degree 3, connects to 1 community
+- [[Connections_47_1_1]] - degree 4, connects to 2 communities
+- [[Connections_119_3]] - degree 4, connects to 1 community
+- [[Connections_120_3]] - degree 3, connects to 1 community

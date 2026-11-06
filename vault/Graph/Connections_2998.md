@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/dressPedestal()_2.md"
+source_file: "vault/Graph/Connections_2097.md"
 type: "document"
-community: "Community 205"
-location: "L14"
+community: "Community 1171"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_205
+  - community/Community_1171
 ---
 
 # Connections
 
 ## Connections
-- [[dressPedestal()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_2999]] - `contains` [EXTRACTED]
+- [[Connections_2097_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_205
+#graphify/document #graphify/EXTRACTED #community/Community_1171

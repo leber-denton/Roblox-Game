@@ -12,8 +12,8 @@ tags:
 # Connections_188.md
 
 ## Connections
-- [[Connections_3891]] - `contains` [EXTRACTED]
-- [[GraphGymService_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 107]] - `references` [EXTRACTED]
+- [[Connections_16854]] - `contains` [EXTRACTED]
+- [[Connections_187_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_329

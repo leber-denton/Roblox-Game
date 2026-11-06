@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/GraphAdminPanel.md"
+source_file: "vault/Graph/GraphAdminPanel_3.md"
 type: "document"
-community: "Community 145"
-location: "L12"
+community: "Community 1179"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_145
+  - community/Community_1179
 ---
 
-# Graph/AdminPanel.md
+# GraphAdminPanel_3.md
 
 ## Connections
-- [[Connections_1844]] - `contains` [EXTRACTED]
-- [[GraphAdminPanel]] - `contains` [EXTRACTED]
+- [[GraphAdminPanel]] - `references` [EXTRACTED]
+- [[GraphAdminPanel_1]] - `references` [EXTRACTED]
+- [[GraphAdminPanel_3_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1179]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 145]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_145
+#graphify/document #graphify/EXTRACTED #community/Community_1179

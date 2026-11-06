@@ -18,6 +18,6 @@ tags:
 - [[playTurn()_1]] - `references` [EXTRACTED]
 - [[setCard()_1]] - `references` [EXTRACTED]
 - [[setStatus()_1_1_1]] - `contains` [EXTRACTED]
-- [[setStatus()_2_1]] - `references` [EXTRACTED]
+- [[setStatus()_1_1_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_101

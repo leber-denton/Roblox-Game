@@ -12,7 +12,7 @@ tags:
 # lockRegion()
 
 ## Connections
-- [[LockedLanes.client.luau_3]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_7]] - `contains` [EXTRACTED]
 - [[consider()]] - `calls` [EXTRACTED]
 - [[isOther()]] - `calls` [EXTRACTED]
 - [[lockOther()]] - `calls` [EXTRACTED]

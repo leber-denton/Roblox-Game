@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.turtle()_1.md"
+source_file: "vault/Graph/Connections_1267.md"
 type: "document"
-community: "Community 133"
+community: "Community 1088"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_1088
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.turtle()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_1415]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_1088

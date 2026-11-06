@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/GraphColiseumService.md"
+source_file: "vault/Graph/ColiseumService.md"
 type: "document"
 community: "Community 305"
 location: "L1"
@@ -9,11 +9,13 @@ tags:
   - community/Community_305
 ---
 
-# GraphColiseumService.md
+# Graph/ColiseumService.md
 
 ## Connections
-- [[ColiseumService_1]] - `references` [EXTRACTED]
-- [[GraphColiseumService_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 305]] - `references` [EXTRACTED]
+- [[ColiseumService_5]] - `contains` [EXTRACTED]
+- [[ColiseumService_2_2]] - `references` [EXTRACTED]
+- [[ColiseumService_2_1]] - `references` [EXTRACTED]
+- [[Connections_5622_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1394]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_305

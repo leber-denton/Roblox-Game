@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/commands.swarm()_1.md"
+source_file: "vault/Graph/commands.swarm()_3.md"
 type: "document"
-community: "Community 168"
-location: "L12"
+community: "Community 1796"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1796
 ---
 
-# commands.swarm().md
+# commands.swarm()_3.md
 
 ## Connections
-- [[Connections_2226]] - `contains` [EXTRACTED]
-- [[commands.swarm()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_5235_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1377]] - `references` [EXTRACTED]
+- [[commands.swarm()_4]] - `contains` [EXTRACTED]
+- [[commands.swarm()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1796

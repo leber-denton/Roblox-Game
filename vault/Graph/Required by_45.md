@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_45_1.md"
+source_file: "vault/Code/NPC.md"
 type: "document"
-community: "Community 157"
-location: "L12"
+community: "Community 13"
+location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_157
+  - community/Community_13
 ---
 
-# Required by_45.md
+# Required by
 
 ## Connections
-- [[Connections_2110]] - `contains` [EXTRACTED]
-- [[Required by_45_1]] - `contains` [EXTRACTED]
+- [[NPC]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_157
+#graphify/document #graphify/EXTRACTED #community/Community_13

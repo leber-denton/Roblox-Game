@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
-- [[refreshBaseLabels()_3]] - `contains` [EXTRACTED]
+- [[refreshBaseLabels()_1_1]] - `contains` [EXTRACTED]
 - [[refreshBaseLabels()_2]] - `references` [EXTRACTED]
+- [[refreshBaseLabels()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_152

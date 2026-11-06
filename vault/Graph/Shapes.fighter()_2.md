@@ -12,7 +12,7 @@ tags:
 # Shapes.fighter()
 
 ## Connections
-- [[Connections_1645]] - `contains` [EXTRACTED]
+- [[Connections_6679]] - `contains` [EXTRACTED]
 - [[Shapes.fighter()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

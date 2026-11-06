@@ -8,24 +8,24 @@ members: 18
 **Members:** 18 nodes
 
 ## Members
-- [[Community 343]] - document - vault/Graph/_COMMUNITY_Community 343.md
-- [[Connections_4941]] - document - vault/Graph/Required by_14_1.md
-- [[Connections_4942]] - document - vault/Graph/Required by_15_1.md
-- [[Connections_4943]] - document - vault/Graph/Required by_38_1.md
-- [[Connections_4944]] - document - vault/Graph/Required by_85.md
-- [[Connections to other communities_354]] - document - vault/Graph/_COMMUNITY_Community 343.md
-- [[Live Query (requires Dataview plugin)_397]] - document - vault/Graph/_COMMUNITY_Community 343.md
-- [[Members_397]] - document - vault/Graph/_COMMUNITY_Community 343.md
-- [[Required by_156]] - document - vault/Graph/Required by_85.md
-- [[Required by_14_1_1]] - document - vault/Graph/Required by_14_1.md
-- [[Required by_14_1_2]] - document - vault/Graph/Required by_14_1.md
-- [[Required by_15_2]] - document - vault/Graph/Required by_15_1.md
-- [[Required by_15_1_1]] - document - vault/Graph/Required by_15_1.md
-- [[Required by_38_2]] - document - vault/Graph/Required by_38_1.md
-- [[Required by_38_1]] - document - vault/Graph/Required by_38_1.md
-- [[Required by_85_1]] - document - vault/Graph/Required by_85.md
-- [[Top bridge nodes_356]] - document - vault/Graph/_COMMUNITY_Community 343.md
-- [[_COMMUNITY_Community 343]] - document - vault/Graph/_COMMUNITY_Community 343.md
+- [[Connections_21739]] - document - vault/Graph/Connections_4325.md
+- [[Connections_21740]] - document - vault/Graph/Connections_4325.md
+- [[Connections_21741]] - document - vault/Graph/Connections_4326.md
+- [[Connections_21742]] - document - vault/Graph/Connections_4326.md
+- [[Connections_21743]] - document - vault/Graph/Shapes.dragon()_1_1.md
+- [[Connections_21744]] - document - vault/Graph/Shapes.dragon()_1.md
+- [[Connections_21745]] - document - vault/Graph/Shapes.dragon()_2_1.md
+- [[Connections_21746]] - document - vault/Graph/Shapes.dragon()_2.md
+- [[Connections_4325_1]] - document - vault/Graph/Connections_4325.md
+- [[Connections_4326_1]] - document - vault/Graph/Connections_4326.md
+- [[Shapes.dragon()_1_1]] - document - vault/Graph/Shapes.dragon()_1.md
+- [[Shapes.dragon()_1_2]] - document - vault/Graph/Shapes.dragon()_1_1.md
+- [[Shapes.dragon()_1_3]] - document - vault/Graph/Shapes.dragon()_1.md
+- [[Shapes.dragon()_1_1_1]] - document - vault/Graph/Shapes.dragon()_1_1.md
+- [[Shapes.dragon()_2_1]] - document - vault/Graph/Shapes.dragon()_2.md
+- [[Shapes.dragon()_2_2]] - document - vault/Graph/Shapes.dragon()_2_1.md
+- [[Shapes.dragon()_2_3]] - document - vault/Graph/Shapes.dragon()_2.md
+- [[Shapes.dragon()_2_1_1]] - document - vault/Graph/Shapes.dragon()_2_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -35,11 +35,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_Community 217]]
-- 1 edge to [[_COMMUNITY_Community 132]]
+- 6 edges to [[_COMMUNITY_Community 410]]
+- 3 edges to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 2592]]
 
 ## Top bridge nodes
-- [[Required by_38_1]] - degree 6, connects to 2 communities
-- [[_COMMUNITY_Community 343]] - degree 6, connects to 1 community
-- [[Required by_14_1_1]] - degree 5, connects to 1 community
-- [[Required by_15_1_1]] - degree 5, connects to 1 community
+- [[Shapes.dragon()_1_1]] - degree 7, connects to 3 communities
+- [[Shapes.dragon()_2_1]] - degree 5, connects to 2 communities
+- [[Shapes.dragon()_1_1_1]] - degree 4, connects to 1 community
+- [[Shapes.dragon()_2_1_1]] - degree 4, connects to 1 community
+- [[Connections_4325_1]] - degree 3, connects to 1 community

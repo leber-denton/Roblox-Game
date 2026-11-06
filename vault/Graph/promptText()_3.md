@@ -12,7 +12,7 @@ tags:
 # promptText().md
 
 ## Connections
-- [[Connections_1685]] - `contains` [EXTRACTED]
+- [[Connections_6809]] - `contains` [EXTRACTED]
 - [[promptText()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_138

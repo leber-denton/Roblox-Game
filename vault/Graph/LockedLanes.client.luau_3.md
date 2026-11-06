@@ -1,29 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/LockedLanes.client.luau"
-type: "code"
-community: "Community 185"
-location: "L1"
+source_file: "vault/Graph/LockedLanes.client.luau_2.md"
+type: "document"
+community: "Community 178"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_185
+  - community/Community_178
 ---
 
-# LockedLanes.client.luau
+# LockedLanes.client.luau.md
 
 ## Connections
-- [[addRegion()]] - `contains` [EXTRACTED]
-- [[consider()]] - `contains` [EXTRACTED]
-- [[grey()]] - `contains` [EXTRACTED]
-- [[isContent()]] - `contains` [EXTRACTED]
-- [[isOther()]] - `contains` [EXTRACTED]
-- [[lockOther()]] - `contains` [EXTRACTED]
-- [[lockPart()]] - `contains` [EXTRACTED]
-- [[lockRegion()]] - `contains` [EXTRACTED]
-- [[positionOf()]] - `contains` [EXTRACTED]
-- [[regionAt()]] - `contains` [EXTRACTED]
-- [[replicatedstorage_waitforchild_4]] - `imports` [EXTRACTED]
-- [[skipped()]] - `contains` [EXTRACTED]
-- [[unlockRegion()]] - `contains` [EXTRACTED]
+- [[Connections_10411]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_185
+#graphify/document #graphify/EXTRACTED #community/Community_178

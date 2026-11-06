@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.resetTrainers().md"
+source_file: "vault/Graph/Shapes.rodent()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 133"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_133
 ---
 
 # Connections
 
 ## Connections
-- [[commands.resetTrainers()_4]] - `contains` [EXTRACTED]
+- [[Shapes.rodent()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_133

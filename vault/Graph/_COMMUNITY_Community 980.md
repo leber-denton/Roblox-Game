@@ -1,18 +1,25 @@
 ---
 type: community
-members: 5
+members: 12
 ---
 
 # Community 980
 
-**Members:** 5 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Community 104]] - document - vault/Graph/_COMMUNITY_Community 104.md
-- [[Connections to other communities_430]] - document - vault/Graph/_COMMUNITY_Community 104.md
-- [[Live Query (requires Dataview plugin)_475]] - document - vault/Graph/_COMMUNITY_Community 104.md
-- [[Members_475]] - document - vault/Graph/_COMMUNITY_Community 104.md
-- [[Top bridge nodes_431]] - document - vault/Graph/_COMMUNITY_Community 104.md
+- [[Connections_24457]] - document - vault/Graph/Connections_3487.md
+- [[Connections_24458]] - document - vault/Graph/Connections_3487.md
+- [[Connections_24459]] - document - vault/Graph/GraphHavocBlimpFlight_1.md
+- [[Connections_24460]] - document - vault/Graph/GraphHavocBlimpFlight_2.md
+- [[Connections_24461]] - document - vault/Graph/GraphHavocBlimpFlight.md
+- [[Connections_3487_1]] - document - vault/Graph/Connections_3487.md
+- [[GraphHavocBlimpFlight_1]] - document - vault/Graph/GraphHavocBlimpFlight.md
+- [[GraphHavocBlimpFlight_3]] - document - vault/Graph/GraphHavocBlimpFlight_2.md
+- [[GraphHavocBlimpFlight_4]] - document - vault/Graph/GraphHavocBlimpFlight.md
+- [[GraphHavocBlimpFlight_1_1]] - document - vault/Graph/GraphHavocBlimpFlight_1.md
+- [[GraphHavocBlimpFlight_1_2]] - document - vault/Graph/GraphHavocBlimpFlight_1.md
+- [[GraphHavocBlimpFlight_2]] - document - vault/Graph/GraphHavocBlimpFlight_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +29,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 202]]
+- 4 edges to [[_COMMUNITY_Community 479]]
+- 1 edge to [[_COMMUNITY_Community 127]]
 
 ## Top bridge nodes
-- [[Community 104]] - degree 5, connects to 1 community
+- [[GraphHavocBlimpFlight_1]] - degree 4, connects to 2 communities
+- [[GraphHavocBlimpFlight_1_1]] - degree 4, connects to 1 community
+- [[GraphHavocBlimpFlight_2]] - degree 4, connects to 1 community
+- [[Connections_3487_1]] - degree 3, connects to 1 community

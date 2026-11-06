@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/staticParts().md"
+source_file: "vault/Graph/staticParts()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 2321"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2321
 ---
 
-# staticParts().md
+# staticParts()_1.md
 
 ## Connections
-- [[DecorUI.client.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[check()_7]] - `references` [EXTRACTED]
-- [[staticParts()_2]] - `contains` [EXTRACTED]
+- [[staticParts()_3]] - `contains` [EXTRACTED]
+- [[staticParts()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2321

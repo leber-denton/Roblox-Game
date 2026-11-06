@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/script_parent_arenamanager_2.md"
+source_file: "vault/Graph/script_parent_arenamanager_2_1.md"
 type: "document"
-community: "Community 1007"
-location: "L12"
+community: "Community 1505"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1007
+  - community/Community_1505
 ---
 
-# script_parent_arenamanager_2.md
+# script_parent_arenamanager_2_1.md
 
 ## Connections
-- [[Connections_18]] - `contains` [EXTRACTED]
-- [[script_parent_arenamanager_2]] - `contains` [EXTRACTED]
+- [[Connections_37_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1007]] - `references` [EXTRACTED]
+- [[script_parent_arenamanager_2_2]] - `contains` [EXTRACTED]
+- [[script_parent_arenamanager_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1007
+#graphify/document #graphify/EXTRACTED #community/Community_1505

@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Pushback_1.md"
+source_file: "claude/launch-checklist.md"
 type: "document"
-community: "Community 1314"
-location: "L1"
+community: "Community 40"
+location: "L23"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1314
+  - community/Community_40
 ---
 
-# Pushback_1.md
+# Pushback
 
 ## Connections
-- [[Pushback]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 40]] - `references` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1314
+#graphify/document #graphify/EXTRACTED #community/Community_40

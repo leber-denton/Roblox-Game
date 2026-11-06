@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/BattleData.canGetStatus().md"
+source_file: "vault/Graph/Connections_4142.md"
 type: "document"
-community: "Community 86"
-location: "L14"
+community: "Community 1327"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1327
 ---
 
 # Connections
 
 ## Connections
-- [[BattleData.canGetStatus()_6]] - `contains` [EXTRACTED]
+- [[Connections_5685]] - `contains` [EXTRACTED]
+- [[Connections_4142_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1327

@@ -16,6 +16,7 @@ tags:
 - [[CodeArenaManager]] - `references` [EXTRACTED]
 - [[CodeBattleData]] - `references` [EXTRACTED]
 - [[CodeBattleService_1]] - `contains` [EXTRACTED]
+- [[CodeBattleService_1_1]] - `references` [EXTRACTED]
 - [[CodeColiseumService]] - `references` [EXTRACTED]
 - [[CodeDecorService]] - `references` [EXTRACTED]
 - [[CodeGameData]] - `references` [EXTRACTED]
@@ -26,9 +27,9 @@ tags:
 - [[CodeRouteTrainerService]] - `references` [EXTRACTED]
 - [[CodeSocialService]] - `references` [EXTRACTED]
 - [[CodeTutorialService]] - `references` [EXTRACTED]
-- [[CodeWander]] - `references` [EXTRACTED]
+- [[CodeWander_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
-- [[vaultIndex]] - `references` [EXTRACTED]
+- [[vaultIndex_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_119

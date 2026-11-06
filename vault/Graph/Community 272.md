@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 272.md"
+source_file: "vault/Graph/Community 272.md"
 type: "document"
 community: "Community 386"
-location: "L6"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_386
 ---
 
-# Community 272
+# Community 272.md
 
 ## Connections
-- [[Connections to other communities_301]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_333]] - `contains` [EXTRACTED]
-- [[Members_338]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_306]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 272]] - `contains` [EXTRACTED]
+- [[Community 272_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 272]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 386]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_386

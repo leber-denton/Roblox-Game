@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/game_getservice_1.md"
+source_file: "vault/Graph/Functions_26.md"
 type: "document"
-community: "Community 227"
+community: "Community 1180"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_227
+  - community/Community_1180
 ---
 
 # Connections
 
 ## Connections
-- [[game_getservice_3]] - `contains` [EXTRACTED]
+- [[Functions_27]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_227
+#graphify/document #graphify/EXTRACTED #community/Community_1180

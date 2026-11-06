@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/SocialService.md"
+source_file: "vault/Graph/Output_3.md"
 type: "document"
-community: "Community 396"
+community: "Community 1229"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_396
+  - community/Community_1229
 ---
 
 # Connections
 
 ## Connections
-- [[SocialService_3]] - `contains` [EXTRACTED]
+- [[Output_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_396
+#graphify/document #graphify/EXTRACTED #community/Community_1229

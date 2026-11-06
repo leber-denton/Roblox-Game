@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[BattleService.onEnded()]] - `calls` [INFERRED]
-- [[LeagueService.luau_3]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_7]] - `contains` [EXTRACTED]
 - [[NPC.say()]] - `calls` [INFERRED]
 - [[PlayerData.addItem()]] - `calls` [INFERRED]
 - [[PlayerData.addStat()]] - `calls` [INFERRED]

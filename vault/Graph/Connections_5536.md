@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/sync()_1_1.md"
+source_file: "vault/Graph/Connections_5536.md"
 type: "document"
-community: "Community 827"
-location: "L14"
+community: "Community 1052"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_827
+  - community/Community_1052
 ---
 
-# Connections
+# Connections_5536.md
 
 ## Connections
-- [[sync()_1_2]] - `contains` [EXTRACTED]
+- [[Connections_5536_1]] - `contains` [EXTRACTED]
+- [[Connections_849_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1052]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 827]] - `references` [EXTRACTED]
+- [[sync()_1_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_827
+#graphify/document #graphify/EXTRACTED #community/Community_1052

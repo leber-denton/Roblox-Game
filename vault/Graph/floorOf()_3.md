@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/floorOf().md"
+source_file: "vault/Graph/floorOf()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2253"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2253
 ---
 
-# floorOf().md
+# floorOf()_3.md
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[buildBaseProps()_4]] - `references` [EXTRACTED]
-- [[canPlace()_1]] - `references` [EXTRACTED]
-- [[floorOf()_4]] - `contains` [EXTRACTED]
-- [[spawnPlaced()_3]] - `references` [EXTRACTED]
+- [[floorOf()_5]] - `contains` [EXTRACTED]
+- [[floorOf()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2253

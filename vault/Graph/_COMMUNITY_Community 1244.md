@@ -1,16 +1,25 @@
 ---
 type: community
-members: 3
+members: 12
 ---
 
 # Community 1244
 
-**Members:** 3 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_1263]] - document - vault/Graph/Connections_677.md
-- [[Connections_1264]] - document - vault/Graph/Connections_677.md
-- [[Connections_677_1]] - document - vault/Graph/Connections_677.md
+- [[Connections_4458]] - document - vault/Graph/Connections_2489.md
+- [[Connections_4459]] - document - vault/Graph/Connections_2489.md
+- [[Connections_4460]] - document - vault/Graph/Connections_990_1.md
+- [[Connections_4461]] - document - vault/Graph/spawnModel()_2_1.md
+- [[Connections_4462]] - document - vault/Graph/spawnModel()_2.md
+- [[Connections_2489_1]] - document - vault/Graph/Connections_2489.md
+- [[Connections_990_2]] - document - vault/Graph/Connections_990_1.md
+- [[Connections_990_1]] - document - vault/Graph/Connections_990_1.md
+- [[spawnModel()_2]] - document - vault/Graph/spawnModel()_2.md
+- [[spawnModel()_2_2]] - document - vault/Graph/spawnModel()_2_1.md
+- [[spawnModel()_2_3]] - document - vault/Graph/spawnModel()_2.md
+- [[spawnModel()_2_1]] - document - vault/Graph/spawnModel()_2_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +29,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 12]]
+- 4 edges to [[_COMMUNITY_Community 289]]
+- 2 edges to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 25]]
 
 ## Top bridge nodes
-- [[Connections_677_1]] - degree 2, connects to 1 community
+- [[spawnModel()_2]] - degree 6, connects to 3 communities
+- [[Connections_990_1]] - degree 4, connects to 2 communities
+- [[spawnModel()_2_1]] - degree 4, connects to 1 community
+- [[Connections_2489_1]] - degree 3, connects to 1 community

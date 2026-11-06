@@ -12,7 +12,8 @@ tags:
 # WildSpawner.clear()_1.md
 
 ## Connections
-- [[WildSpawner.clear()_1_1]] - `contains` [EXTRACTED]
+- [[WildSpawner.clear()_1_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.clear()_1_1]] - `references` [EXTRACTED]
 - [[WildSpawner.clear()_2]] - `references` [EXTRACTED]
 - [[WildSpawner.shift()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]

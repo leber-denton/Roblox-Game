@@ -12,7 +12,7 @@ tags:
 # ignoreList()
 
 ## Connections
-- [[Functions_73]] - `references` [INFERRED]
+- [[Functions_139]] - `references` [INFERRED]
 - [[Wander.groundAt()]] - `calls` [EXTRACTED]
 - [[Wander.luau]] - `contains` [EXTRACTED]
 

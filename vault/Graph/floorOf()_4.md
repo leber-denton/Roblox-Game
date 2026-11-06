@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/floorOf().md"
+source_file: "vault/Graph/floorOf()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2253"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2253
 ---
 
-# floorOf()
+# floorOf()_4.md
 
 ## Connections
-- [[Connections_5761]] - `contains` [EXTRACTED]
-- [[floorOf()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[floorOf()_3]] - `references` [EXTRACTED]
+- [[floorOf()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2253

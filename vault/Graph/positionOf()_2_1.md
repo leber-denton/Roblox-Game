@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Graph/positionOf()_2.md"
+source_file: "vault/Graph/positionOf()_2_1.md"
 type: "document"
-community: "Community 783"
+community: "Community 459"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_783
+  - community/Community_459
 ---
 
-# positionOf()_2.md
+# positionOf()_2_1.md
 
 ## Connections
-- [[Connections_125_1]] - `references` [EXTRACTED]
+- [[Connections_133_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 105]] - `references` [EXTRACTED]
-- [[positionOf()_4]] - `contains` [EXTRACTED]
-- [[positionOf()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 471]] - `references` [EXTRACTED]
+- [[positionOf()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_783
+#graphify/document #graphify/EXTRACTED #community/Community_459

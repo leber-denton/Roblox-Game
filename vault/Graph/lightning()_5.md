@@ -1,22 +1,19 @@
 ---
-source_file: "vault/Graph/lightning().md"
+source_file: "vault/Graph/lightning()_5.md"
 type: "document"
-community: "Community 21"
+community: "Community 18"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_18
 ---
 
-# lightning().md
+# lightning()_5.md
 
 ## Connections
-- [[BattleFX.attack()_5]] - `references` [EXTRACTED]
-- [[BattleFX.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 235]] - `references` [EXTRACTED]
-- [[effectPart()_5]] - `references` [EXTRACTED]
-- [[lightning()_6]] - `contains` [EXTRACTED]
-- [[play()_2_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
+- [[lightning()_7]] - `contains` [EXTRACTED]
+- [[lightning()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_18

@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/symbolFor().md"
+source_file: "vault/Graph/symbolFor()_1.md"
 type: "document"
-community: "Community 203"
+community: "Community 2023"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_2023
 ---
 
-# symbolFor().md
+# symbolFor()_1.md
 
 ## Connections
-- [[Bag.client.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
-- [[refresh()_1_1]] - `references` [EXTRACTED]
-- [[showDetail()_1_1]] - `references` [EXTRACTED]
-- [[symbolFor()_2]] - `contains` [EXTRACTED]
+- [[symbolFor()_4]] - `contains` [EXTRACTED]
+- [[symbolFor()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_2023

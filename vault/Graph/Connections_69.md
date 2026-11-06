@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_80.md"
+source_file: "vault/Graph/DecorData.describe()_2_1.md"
 type: "document"
-community: "Community 1022"
+community: "Community 1003"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1022
+  - community/Community_1003
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_66]] - `contains` [EXTRACTED]
+- [[DecorData.describe()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1022
+#graphify/document #graphify/EXTRACTED #community/Community_1003

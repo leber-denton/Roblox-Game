@@ -12,8 +12,8 @@ tags:
 # GraphGameData.md
 
 ## Connections
-- [[GameData_1_2]] - `references` [EXTRACTED]
-- [[GraphGameData_1]] - `contains` [EXTRACTED]
+- [[GraphGameData_4]] - `contains` [EXTRACTED]
+- [[GraphGameData_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 155]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_155

@@ -12,10 +12,10 @@ tags:
 # Community 96
 
 ## Connections
-- [[Connections to other communities_78]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_78]] - `contains` [EXTRACTED]
-- [[Members_78]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_81]] - `contains` [EXTRACTED]
+- [[Connections to other communities_139]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_185]] - `contains` [EXTRACTED]
+- [[Members_187]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_137]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 96]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1114

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CreatureLife_1.md"
+source_file: "vault/Graph/Connections_1194.md"
 type: "document"
-community: "Community 124"
+community: "Community 1077"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_124
+  - community/Community_1077
 ---
 
 # Connections
 
 ## Connections
-- [[CreatureLife_1_3]] - `contains` [EXTRACTED]
+- [[Connections_1252]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_124
+#graphify/document #graphify/EXTRACTED #community/Community_1077

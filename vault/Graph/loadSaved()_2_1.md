@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/loadSaved()_2.md"
+source_file: "vault/Graph/loadSaved()_2_1.md"
 type: "document"
-community: "Community 199"
-location: "L12"
+community: "Community 152"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_199
+  - community/Community_152
 ---
 
-# loadSaved()_2.md
+# loadSaved()_2_1.md
 
 ## Connections
-- [[Connections_2933]] - `contains` [EXTRACTED]
-- [[loadSaved()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[loadSaved()_2_2]] - `contains` [EXTRACTED]
+- [[loadSaved()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_199
+#graphify/document #graphify/EXTRACTED #community/Community_152

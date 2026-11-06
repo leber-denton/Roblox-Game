@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/safeRoots()_1.md"
+source_file: "vault/Graph/Top bridge nodes_23_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 1031"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_1031
 ---
 
 # Connections
 
 ## Connections
-- [[safeRoots()_3]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_23]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_1031

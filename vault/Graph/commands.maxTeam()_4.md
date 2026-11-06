@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/commands.maxTeam().md"
+source_file: "vault/Graph/commands.maxTeam()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2116"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2116
 ---
 
-# commands.maxTeam()
+# commands.maxTeam()_4.md
 
 ## Connections
-- [[Connections_5724]] - `contains` [EXTRACTED]
-- [[commands.maxTeam()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[commands.maxTeam()_3]] - `references` [EXTRACTED]
+- [[commands.maxTeam()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2116

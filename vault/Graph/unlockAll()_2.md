@@ -1,20 +1,20 @@
 ---
 source_file: "vault/Graph/unlockAll()_2.md"
 type: "document"
-community: "Community 328"
+community: "Community 1393"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_328
+  - community/Community_1393
 ---
 
 # unlockAll()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 328]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 92]] - `references` [EXTRACTED]
-- [[unlockAll()_1]] - `references` [EXTRACTED]
-- [[unlockAll()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_1733_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[unlockAll()_1]] - `contains` [EXTRACTED]
+- [[unlockAll()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_328
+#graphify/document #graphify/EXTRACTED #community/Community_1393

@@ -1,22 +1,21 @@
 ---
-source_file: "vault/Graph/row()_3_1.md"
+source_file: "vault/Graph/row()_3.md"
 type: "document"
-community: "Community 149"
+community: "Community 30"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_149
+  - community/Community_30
 ---
 
-# row()_3_1.md
+# row()_3.md
 
 ## Connections
-- [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 212]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[go()_1]] - `references` [EXTRACTED]
-- [[refresh()_2_1]] - `references` [EXTRACTED]
-- [[row()_3_1_1]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau_5_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 529]] - `references` [EXTRACTED]
+- [[new()_8_1]] - `references` [EXTRACTED]
+- [[nextOrder()_5]] - `references` [EXTRACTED]
+- [[row()_16]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_149
+#graphify/document #graphify/EXTRACTED #community/Community_30

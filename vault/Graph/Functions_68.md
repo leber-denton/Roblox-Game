@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Code/HUD.md"
+source_file: "vault/Code/StoryService.md"
 type: "document"
-community: "Community 214"
-location: "L10"
+community: "Community 14"
+location: "L20"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_214
+  - graphify/EXTRACTED
+  - community/Community_14
 ---
 
 # Functions
 
 ## Connections
-- [[HUD_3]] - `contains` [EXTRACTED]
-- [[updateCoins()]] - `references` [INFERRED]
-- [[updateLevel()]] - `references` [INFERRED]
-- [[updateTeam()]] - `references` [INFERRED]
-- [[updateTopBar()]] - `references` [INFERRED]
-- [[updateWildShiftTimer()]] - `references` [INFERRED]
+- [[StoryService]] - `contains` [EXTRACTED]
+- [[setupWorld()]] - `references` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Community_214
+#graphify/document #graphify/EXTRACTED #community/Community_14

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/BattleData_3.md"
+source_file: "vault/Graph/BattleData_2.md"
 type: "document"
-community: "Community 552"
+community: "Community 351"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_552
+  - community/Community_351
 ---
 
 # BattleData
 
 ## Connections
-- [[BattleData_3]] - `contains` [EXTRACTED]
-- [[Connections_4655]] - `contains` [EXTRACTED]
+- [[BattleData_2]] - `contains` [EXTRACTED]
+- [[Connections_17757]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_552
+#graphify/document #graphify/EXTRACTED #community/Community_351

@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/CodeModelSyncLookup.md"
+source_file: "vault/Graph/CodeModelSyncLookup_1.md"
 type: "document"
-community: "Community 293"
-location: "L1"
+community: "Community 1583"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_293
+  - community/Community_1583
 ---
 
 # CodeModelSyncLookup.md
 
 ## Connections
-- [[CodeModelSync]] - `references` [EXTRACTED]
 - [[CodeModelSyncLookup_1]] - `contains` [EXTRACTED]
-- [[CodeShowcaseBuilder]] - `references` [EXTRACTED]
-- [[ModelSyncLookup_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 293]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 70]] - `references` [EXTRACTED]
+- [[Connections_8787]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_293
+#graphify/document #graphify/EXTRACTED #community/Community_1583

@@ -12,7 +12,7 @@ tags:
 # Features.spines()
 
 ## Connections
-- [[Connections_1635]] - `contains` [EXTRACTED]
+- [[Connections_6670]] - `contains` [EXTRACTED]
 - [[Features.spines()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

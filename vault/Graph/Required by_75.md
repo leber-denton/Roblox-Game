@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/CreatureBuilder.md"
+source_file: "vault/Code/BaseManager.md"
 type: "document"
-community: "Community 294"
-location: "L8"
+community: "Community 16"
+location: "L11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_294
+  - community/Community_16
 ---
 
 # Required by
 
 ## Connections
-- [[CreatureBuilder]] - `contains` [EXTRACTED]
+- [[BaseManager]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_294
+#graphify/document #graphify/EXTRACTED #community/Community_16

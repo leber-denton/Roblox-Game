@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GraphLeaderboardService.md"
+source_file: "vault/Graph/GraphLeaderboardService_1.md"
 type: "document"
 community: "Community 128"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_128
 ---
 
-# GraphLeaderboardService.md
+# GraphLeaderboardService_1.md
 
 ## Connections
-- [[Connections_1337]] - `contains` [EXTRACTED]
-- [[GraphLeaderboardService]] - `contains` [EXTRACTED]
+- [[GraphLeaderboardService]] - `references` [EXTRACTED]
+- [[GraphLeaderboardService_1_1]] - `contains` [EXTRACTED]
+- [[GraphLeaderboardService_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 128]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_128

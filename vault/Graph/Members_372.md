@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 189.md"
+source_file: "vault/Graph/Members_372.md"
 type: "document"
-community: "Community 460"
-location: "L10"
+community: "Community 1091"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_460
+  - community/Community_1091
 ---
 
-# Members
+# Members_372.md
 
 ## Connections
-- [[Community 189]] - `contains` [EXTRACTED]
+- [[Community 189]] - `references` [EXTRACTED]
+- [[Members_124_1]] - `references` [EXTRACTED]
+- [[Members_372_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1091]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 460]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_460
+#graphify/document #graphify/EXTRACTED #community/Community_1091

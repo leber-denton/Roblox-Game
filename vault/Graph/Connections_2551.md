@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections to other communities_30.md"
+source_file: "vault/Graph/isLocked()_3.md"
 type: "document"
-community: "Community 174"
+community: "Community 114"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_174
+  - community/Community_114
 ---
 
 # Connections
 
 ## Connections
-- [[Connections to other communities_141]] - `contains` [EXTRACTED]
+- [[isLocked()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_174
+#graphify/document #graphify/EXTRACTED #community/Community_114

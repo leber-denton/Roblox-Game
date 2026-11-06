@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Creature Quest Catch & Battle Launch Checklist_1.md"
+source_file: "vault/Graph/Connections_84.md"
 type: "document"
-community: "Community 108"
-location: "L14"
+community: "Community 1010"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_1010
 ---
 
 # Connections
 
 ## Connections
-- [[Creature Quest Catch & Battle Launch Checklist_2]] - `contains` [EXTRACTED]
+- [[Connections_188]] - `contains` [EXTRACTED]
+- [[Connections_84_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_1010

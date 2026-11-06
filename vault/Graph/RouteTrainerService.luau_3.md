@@ -1,27 +1,18 @@
 ---
-source_file: "src/ServerScriptService/Modules/RouteTrainerService.luau"
-type: "code"
-community: "Community 15"
-location: "L1"
+source_file: "vault/Graph/RouteTrainerService.luau.md"
+type: "document"
+community: "Community 134"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_134
 ---
 
-# RouteTrainerService.luau
+# RouteTrainerService.luau.md
 
 ## Connections
-- [[GameData.luau_3]] - `imports` [EXTRACTED]
-- [[Main.server.luau_3]] - `imports` [EXTRACTED]
-- [[RouteTrainerService.init()]] - `contains` [EXTRACTED]
-- [[canChallenge()]] - `contains` [EXTRACTED]
-- [[challenge()_1]] - `contains` [EXTRACTED]
-- [[exclaim()]] - `contains` [EXTRACTED]
-- [[reward()]] - `contains` [EXTRACTED]
-- [[script_parent_basemanager_5]] - `imports` [EXTRACTED]
-- [[script_parent_battleservice_5]] - `imports` [EXTRACTED]
-- [[script_parent_npc_5]] - `imports` [EXTRACTED]
-- [[script_parent_playerdata_5]] - `imports` [EXTRACTED]
+- [[Connections_6296]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.luau]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_134

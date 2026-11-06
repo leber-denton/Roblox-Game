@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Sprint_2.md"
+source_file: "vault/Graph/Connections_1422.md"
 type: "document"
-community: "Community 1474"
+community: "Community 111"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1474
+  - community/Community_111
 ---
 
 # Connections
 
 ## Connections
-- [[Sprint_2]] - `contains` [EXTRACTED]
+- [[Connections_1939]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1474
+#graphify/document #graphify/EXTRACTED #community/Community_111

@@ -1,28 +1,19 @@
 ---
 type: community
-members: 15
+members: 6
 ---
 
 # Community 244
 
-**Members:** 15 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_3425]] - document - vault/Graph/gen_trade_beach.py.md
-- [[Connections_3426]] - document - vault/Graph/Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props….md
-- [[Connections_3427]] - document - vault/Graph/node().md
-- [[Connections_3428]] - document - vault/Graph/part()_2.md
-- [[Connections_3429]] - document - vault/Graph/ring().md
-- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…_1]] - document - vault/Graph/Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props….md
-- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…]] - document - vault/Graph/Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props….md
-- [[gen_trade_beach.py_1]] - document - vault/Graph/gen_trade_beach.py.md
-- [[gen_trade_beach.py]] - document - vault/Graph/gen_trade_beach.py.md
-- [[node()_2]] - document - vault/Graph/node().md
-- [[node()_1]] - document - vault/Graph/node().md
-- [[part()_12]] - document - vault/Graph/part()_2.md
-- [[part()_2_1]] - document - vault/Graph/part()_2.md
-- [[ring()_2]] - document - vault/Graph/ring().md
-- [[ring()_1]] - document - vault/Graph/ring().md
+- [[Connections_14054]] - document - vault/Graph/Connections_2752.md
+- [[Connections_14055]] - document - vault/Graph/Connections_2752.md
+- [[Connections_14056]] - document - vault/Graph/Connections_2753.md
+- [[Connections_14057]] - document - vault/Graph/Connections_2753.md
+- [[Connections_2752_1]] - document - vault/Graph/Connections_2752.md
+- [[Connections_2753_1]] - document - vault/Graph/Connections_2753.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,12 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_Community 89]]
-- 1 edge to [[_COMMUNITY_Community 353]]
+- 3 edges to [[_COMMUNITY_Community 122]]
 
 ## Top bridge nodes
-- [[ring()_1]] - degree 4, connects to 2 communities
-- [[gen_trade_beach.py]] - degree 6, connects to 1 community
-- [[node()_1]] - degree 3, connects to 1 community
-- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…]] - degree 3, connects to 1 community
-- [[part()_2_1]] - degree 3, connects to 1 community
+- [[Connections_2752_1]] - degree 4, connects to 1 community
+- [[Connections_2753_1]] - degree 3, connects to 1 community

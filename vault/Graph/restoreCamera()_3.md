@@ -12,7 +12,7 @@ tags:
 # restoreCamera().md
 
 ## Connections
-- [[Connections_1688]] - `contains` [EXTRACTED]
+- [[Connections_6813]] - `contains` [EXTRACTED]
 - [[restoreCamera()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_138

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/TrainerAnimationsstopAll()_1.md"
+source_file: "vault/Graph/TrainerAnimationsstopAll()_3.md"
 type: "document"
-community: "Community 616"
+community: "Community 4001"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_616
+  - community/Community_4001
 ---
 
 # TrainerAnimationsstopAll().md
 
 ## Connections
-- [[Connections_4807]] - `contains` [EXTRACTED]
-- [[TrainerAnimationsstopAll()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_18807]] - `contains` [EXTRACTED]
+- [[TrainerAnimationsstopAll()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_616
+#graphify/document #graphify/EXTRACTED #community/Community_4001

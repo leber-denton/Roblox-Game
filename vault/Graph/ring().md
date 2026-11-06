@@ -12,7 +12,7 @@ tags:
 # ring()
 
 ## Connections
-- [[gen_trade_beach.py_2]] - `contains` [EXTRACTED]
-- [[math_5]] - `calls` [EXTRACTED]
+- [[gen_trade_beach.py]] - `contains` [EXTRACTED]
+- [[math_8]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_29

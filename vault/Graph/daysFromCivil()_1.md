@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/daysFromCivil().md"
+source_file: "vault/Graph/daysFromCivil()_1.md"
 type: "document"
 community: "Community 144"
 location: "L1"
@@ -9,12 +9,14 @@ tags:
   - community/Community_144
 ---
 
-# daysFromCivil().md
+# daysFromCivil()_1.md
 
 ## Connections
 - [[WeeklyEventService.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
-- [[daysFromCivil()_2]] - `contains` [EXTRACTED]
+- [[daysFromCivil()_1_1]] - `contains` [EXTRACTED]
+- [[daysFromCivil()_2]] - `references` [EXTRACTED]
 - [[nthSunday()_1]] - `references` [EXTRACTED]
 - [[schedule()_1]] - `references` [EXTRACTED]
 

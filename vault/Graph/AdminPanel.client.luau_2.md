@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[AdminPanel.client.luau_1]] - `references` [EXTRACTED]
-- [[AdminPanel.client.luau_2_1]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau_2_3]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1010]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 237]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 63]] - `references` [EXTRACTED]
 

@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/apply().md"
+source_file: "vault/Graph/apply()_3.md"
 type: "document"
-community: "Community 147"
+community: "Community 1034"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_147
+  - community/Community_1034
 ---
 
-# apply().md
+# apply()_3.md
 
 ## Connections
-- [[Regions.client.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
+- [[Connections_483_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1034]] - `references` [EXTRACTED]
 - [[apply()_4]] - `contains` [EXTRACTED]
-- [[applyAll()_1]] - `references` [EXTRACTED]
-- [[setSign()_1_1]] - `references` [EXTRACTED]
+- [[apply()_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_147
+#graphify/document #graphify/EXTRACTED #community/Community_1034

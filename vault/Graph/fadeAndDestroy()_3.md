@@ -1,20 +1,24 @@
 ---
-source_file: "vault/Graph/fadeAndDestroy().md"
+source_file: "vault/Graph/fadeAndDestroy()_3.md"
 type: "document"
-community: "Community 212"
+community: "Community 1156"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_212
+  - community/Community_1156
 ---
 
-# fadeAndDestroy().md
+# fadeAndDestroy()_3.md
 
 ## Connections
+- [[_COMMUNITY_Community 103]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 212]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[fadeAndDestroy()_4]] - `contains` [EXTRACTED]
+- [[fadeAndDestroy()_1]] - `references` [EXTRACTED]
+- [[fadeAndDestroy()_3_1]] - `contains` [EXTRACTED]
+- [[fadeAndDestroy()_4]] - `references` [EXTRACTED]
 - [[onNotify()_3]] - `references` [EXTRACTED]
-- [[showAnnouncement()_3]] - `references` [EXTRACTED]
+- [[showAnnouncement()_3_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_212
+#graphify/document #graphify/EXTRACTED #community/Community_1156

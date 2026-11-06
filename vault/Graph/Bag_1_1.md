@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Bag_1.md"
+source_file: "vault/Graph/Bag_1_1_1.md"
 type: "document"
-community: "Community 475"
-location: "L1"
+community: "Community 1167"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_475
+  - community/Community_1167
 ---
 
-# Bag_1.md
+# Bag_1_1.md
 
 ## Connections
-- [[Bag_3]] - `contains` [EXTRACTED]
-- [[GraphBag_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 300]] - `references` [EXTRACTED]
+- [[Bag_1_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2946]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_475
+#graphify/document #graphify/EXTRACTED #community/Community_1167

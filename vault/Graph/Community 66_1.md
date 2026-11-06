@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Community 66.md"
+source_file: "vault/Graph/Community 66_1.md"
 type: "document"
 community: "Community 494"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_494
 ---
 
-# Community 66.md
+# Community 66_1.md
 
 ## Connections
-- [[Community 66]] - `contains` [EXTRACTED]
-- [[Connections_4431]] - `contains` [EXTRACTED]
+- [[Community 66_3]] - `contains` [EXTRACTED]
+- [[Community 66]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 494]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_494

@@ -15,6 +15,6 @@ tags:
 - [[DungeonService.enter()]] - `calls` [EXTRACTED]
 - [[DungeonService.init()]] - `calls` [EXTRACTED]
 - [[DungeonService.leave()]] - `calls` [EXTRACTED]
-- [[DungeonService.luau_3]] - `contains` [EXTRACTED]
+- [[DungeonService.luau_8]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

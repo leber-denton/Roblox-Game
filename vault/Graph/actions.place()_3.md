@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/actions.place().md"
+source_file: "vault/Graph/actions.place()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2710"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2710
 ---
 
-# actions.place().md
+# actions.place()_3.md
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.place()_4]] - `contains` [EXTRACTED]
-- [[canPlace()_1]] - `references` [EXTRACTED]
-- [[cleanArgs()_3]] - `references` [EXTRACTED]
-- [[levelDef()_3]] - `references` [EXTRACTED]
-- [[placedCount()_7]] - `references` [EXTRACTED]
-- [[spawnPlaced()_3]] - `references` [EXTRACTED]
+- [[actions.place()_5]] - `contains` [EXTRACTED]
+- [[actions.place()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2710

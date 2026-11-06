@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 1121
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_285]] - document - vault/Graph/commands.saving().md
-- [[commands.saving()_2]] - document - vault/Graph/commands.saving().md
-- [[commands.saving()_1]] - document - vault/Graph/commands.saving().md
+- [[Community 1109]] - document - vault/Graph/_COMMUNITY_Community 1109.md
+- [[Connections to other communities_150]] - document - vault/Graph/_COMMUNITY_Community 1109.md
+- [[Live Query (requires Dataview plugin)_197]] - document - vault/Graph/_COMMUNITY_Community 1109.md
+- [[Members_199]] - document - vault/Graph/_COMMUNITY_Community 1109.md
+- [[Top bridge nodes_148]] - document - vault/Graph/_COMMUNITY_Community 1109.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,8 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 86]]
-- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 1109]]
 
 ## Top bridge nodes
-- [[commands.saving()_1]] - degree 3, connects to 2 communities
+- [[Community 1109]] - degree 5, connects to 1 community

@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_146.md"
+source_file: "vault/Graph/spawnModel()_2.md"
 type: "document"
-community: "Community 508"
-location: "L12"
+community: "Community 1244"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_508
+  - community/Community_1244
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_4463]] - `contains` [EXTRACTED]
-- [[Connections_146_1]] - `contains` [EXTRACTED]
+- [[spawnModel()_2_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_508
+#graphify/document #graphify/EXTRACTED #community/Community_1244

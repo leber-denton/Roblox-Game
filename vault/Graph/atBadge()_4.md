@@ -12,7 +12,7 @@ tags:
 # atBadge()
 
 ## Connections
-- [[Connections_3319]] - `contains` [EXTRACTED]
+- [[Connections_13795]] - `contains` [EXTRACTED]
 - [[atBadge()_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

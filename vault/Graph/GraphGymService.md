@@ -13,10 +13,12 @@ tags:
 
 ## Connections
 - [[Functions_22]] - `references` [EXTRACTED]
-- [[GraphGymService_1]] - `contains` [EXTRACTED]
-- [[Required by_18]] - `references` [EXTRACTED]
-- [[Requires_18]] - `references` [EXTRACTED]
+- [[GraphGymService_4]] - `contains` [EXTRACTED]
+- [[GraphGymService_1]] - `references` [EXTRACTED]
+- [[Required by_18_1]] - `references` [EXTRACTED]
+- [[Requires_18_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 107]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1208]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1208

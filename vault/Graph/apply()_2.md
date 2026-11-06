@@ -1,19 +1,19 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Regions.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Sprint.client.luau"
 type: "code"
-community: "Community 338"
-location: "L59"
+community: "Community 1146"
+location: "L26"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_338
+  - community/Community_1146
 ---
 
 # apply()
 
 ## Connections
-- [[Regions.client.luau_5]] - `contains` [EXTRACTED]
-- [[applyAll()]] - `calls` [EXTRACTED]
-- [[setSign()_1]] - `calls` [EXTRACTED]
+- [[Sprint.client.luau_2]] - `contains` [EXTRACTED]
+- [[onSprint()]] - `calls` [EXTRACTED]
+- [[targetSpeed()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_338
+#graphify/code #graphify/EXTRACTED #community/Community_1146

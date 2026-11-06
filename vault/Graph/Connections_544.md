@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/showcaseModels()_1.md"
+source_file: "vault/Graph/Connections_6385.md"
 type: "document"
-community: "Community 117"
-location: "L14"
+community: "Community 1032"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_1032
 ---
 
 # Connections
 
 ## Connections
-- [[showcaseModels()_3]] - `contains` [EXTRACTED]
+- [[Connections_545]] - `contains` [EXTRACTED]
+- [[Connections_6385]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_1032

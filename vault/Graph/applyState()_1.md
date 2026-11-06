@@ -16,7 +16,7 @@ tags:
 - [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 - [[applyState()_1_1]] - `contains` [EXTRACTED]
-- [[applyState()_2_1]] - `references` [EXTRACTED]
+- [[applyState()_1_1_1]] - `references` [EXTRACTED]
 - [[attachCard()_1]] - `references` [EXTRACTED]
 - [[playTurn()_1]] - `references` [EXTRACTED]
 - [[setCard()_1]] - `references` [EXTRACTED]

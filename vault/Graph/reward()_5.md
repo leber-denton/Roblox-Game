@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/reward().md"
+source_file: "vault/Graph/reward()_5.md"
 type: "document"
-community: "Community 276"
-location: "L12"
+community: "Community 1187"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_276
+  - community/Community_1187
 ---
 
-# reward()
+# reward()_5.md
 
 ## Connections
-- [[Connections_3553]] - `contains` [EXTRACTED]
-- [[reward()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 276]] - `references` [EXTRACTED]
+- [[reward()_4]] - `references` [EXTRACTED]
+- [[reward()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_276
+#graphify/document #graphify/EXTRACTED #community/Community_1187

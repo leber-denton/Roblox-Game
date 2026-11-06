@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[Wander.remove()_1]] - `references` [EXTRACTED]
-- [[Wander.remove()_2_1]] - `contains` [EXTRACTED]
+- [[Wander.remove()_2_3]] - `contains` [EXTRACTED]
+- [[Wander.remove()_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 179]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 94]] - `references` [EXTRACTED]
 

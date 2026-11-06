@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/Shapes.rock()_2.md"
+source_file: "vault/Graph/Shapes.rock()_4.md"
 type: "document"
-community: "Community 1068"
-location: "L12"
+community: "Community 1321"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1068
+  - community/Community_1321
 ---
 
-# Shapes.rock()
+# Shapes.rock()_4.md
 
 ## Connections
-- [[Connections_169]] - `contains` [EXTRACTED]
-- [[Shapes.rock()_2]] - `contains` [EXTRACTED]
+- [[Connections_169_1]] - `references` [EXTRACTED]
+- [[Shapes.rock()_7]] - `contains` [EXTRACTED]
+- [[Shapes.rock()_6]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1068]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 715]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1068
+#graphify/document #graphify/EXTRACTED #community/Community_1321

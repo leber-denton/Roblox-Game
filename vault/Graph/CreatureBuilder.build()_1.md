@@ -14,16 +14,10 @@ tags:
 ## Connections
 - [[CreatureBuilder.build()_3]] - `contains` [EXTRACTED]
 - [[CreatureBuilder.build()_2]] - `references` [EXTRACTED]
-- [[CreatureBuilder.luau_2]] - `references` [EXTRACTED]
-- [[CreatureBuilder.sizeScale()_1_1]] - `references` [EXTRACTED]
+- [[CreatureBuilder.luau_5]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
-- [[darker()_1_1]] - `references` [EXTRACTED]
-- [[newPart()_1_1]] - `references` [EXTRACTED]
 - [[preview()_1_1_1]] - `references` [EXTRACTED]
-- [[preview()_3_1]] - `references` [EXTRACTED]
-- [[shinyColor()_1_1]] - `references` [EXTRACTED]
-- [[typeChip()_1_1]] - `references` [EXTRACTED]
-- [[weld()_1_1]] - `references` [EXTRACTED]
+- [[preview()_2_1_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_176

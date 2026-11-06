@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Testing_1.md"
+source_file: "vault/Graph/Testing_1_1.md"
 type: "document"
-community: "Community 595"
-location: "L12"
+community: "Community 597"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_595
+  - community/Community_597
 ---
 
-# Testing_1.md
+# Testing_1_1.md
 
 ## Connections
-- [[Connections_4750]] - `contains` [EXTRACTED]
-- [[Testing_1]] - `contains` [EXTRACTED]
+- [[Testing_1_2]] - `contains` [EXTRACTED]
+- [[Testing_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 597]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_595
+#graphify/document #graphify/EXTRACTED #community/Community_597

@@ -12,11 +12,11 @@ tags:
 # Code/AdminService.md
 
 ## Connections
-- [[AdminService_2]] - `contains` [EXTRACTED]
+- [[AdminService]] - `contains` [EXTRACTED]
+- [[Code Map_2]] - `references` [EXTRACTED]
 - [[CodeBaseManager]] - `references` [EXTRACTED]
 - [[CodeBattleData_2]] - `references` [EXTRACTED]
 - [[CodeBattleService_2]] - `references` [EXTRACTED]
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
 - [[CodeGameData_2]] - `references` [EXTRACTED]
 - [[CodeMain_2]] - `references` [EXTRACTED]
 - [[CodePlayerData_2]] - `references` [EXTRACTED]
@@ -24,6 +24,6 @@ tags:
 - [[CodeStoryService]] - `references` [EXTRACTED]
 - [[CodeTutorialService_2]] - `references` [EXTRACTED]
 - [[CodeWeeklyEventService_2]] - `references` [EXTRACTED]
-- [[CodeWildSpawner_2]] - `references` [EXTRACTED]
+- [[CodeWildSpawner_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_13

@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_39_1.md"
+source_file: "vault/Code/ArenaManager.md"
 type: "document"
-community: "Community 145"
-location: "L12"
+community: "Community 13"
+location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_145
+  - community/Community_13
 ---
 
-# Functions_39.md
+# Functions
 
 ## Connections
-- [[Connections_1841]] - `contains` [EXTRACTED]
-- [[Functions_39_1]] - `contains` [EXTRACTED]
+- [[ArenaManager_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_145
+#graphify/document #graphify/EXTRACTED #community/Community_13

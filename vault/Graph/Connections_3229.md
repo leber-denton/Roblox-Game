@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_44.md"
+source_file: "vault/Graph/Top bridge nodes_155.md"
 type: "document"
-community: "Community 228"
+community: "Community 1180"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_228
+  - community/Community_1180
 ---
 
 # Connections
 
 ## Connections
-- [[Functions_78]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_206]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_228
+#graphify/document #graphify/EXTRACTED #community/Community_1180

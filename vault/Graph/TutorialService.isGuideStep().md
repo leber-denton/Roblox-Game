@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[StoryService.init()]] - `calls` [INFERRED]
 - [[StoryService.onLoaded()]] - `calls` [INFERRED]
-- [[TutorialService.luau]] - `contains` [EXTRACTED]
+- [[TutorialService.luau_2]] - `contains` [EXTRACTED]
 - [[check()_1]] - `calls` [INFERRED]
 
 #graphify/code #graphify/INFERRED #community/Community_14

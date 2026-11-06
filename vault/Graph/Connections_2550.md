@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/actions.remove()_2.md"
+source_file: "vault/Graph/GraphFirstSpawnLock_2.md"
 type: "document"
-community: "Community 174"
+community: "Community 114"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_174
+  - community/Community_114
 ---
 
 # Connections
 
 ## Connections
-- [[actions.remove()_2_1]] - `contains` [EXTRACTED]
+- [[GraphFirstSpawnLock_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_174
+#graphify/document #graphify/EXTRACTED #community/Community_114

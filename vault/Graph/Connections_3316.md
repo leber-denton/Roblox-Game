@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/GraphModelSyncLookup.md"
+source_file: "vault/Graph/Connections_2216.md"
 type: "document"
-community: "Community 239"
-location: "L14"
+community: "Community 1187"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_239
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[GraphModelSyncLookup_2]] - `contains` [EXTRACTED]
+- [[Connections_3317]] - `contains` [EXTRACTED]
+- [[Connections_2216_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_239
+#graphify/document #graphify/EXTRACTED #community/Community_1187

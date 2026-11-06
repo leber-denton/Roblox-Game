@@ -13,8 +13,10 @@ tags:
 
 ## Connections
 - [[GraphSprint]] - `references` [EXTRACTED]
-- [[Sprint_1_3]] - `contains` [EXTRACTED]
+- [[Sprint_1_6]] - `contains` [EXTRACTED]
 - [[Sprint_1_1]] - `references` [EXTRACTED]
+- [[Sprint_1_2]] - `references` [EXTRACTED]
+- [[Sprint_1_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 141]] - `references` [EXTRACTED]
 

@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/Syncing to Studio_2.md"
+source_file: "vault/Graph/Syncing to Studio_2_2.md"
 type: "document"
-community: "Community 968"
-location: "L1"
+community: "Community 1688"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_968
+  - community/Community_1688
 ---
 
 # Syncing to Studio_2.md
 
 ## Connections
-- [[Roblox-Game_2_1]] - `references` [EXTRACTED]
-- [[Syncing to Studio_3]] - `references` [EXTRACTED]
+- [[Connections_9747]] - `contains` [EXTRACTED]
 - [[Syncing to Studio_2_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 115]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 43]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_968
+#graphify/document #graphify/EXTRACTED #community/Community_1688

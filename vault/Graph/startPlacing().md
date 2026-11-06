@@ -12,7 +12,7 @@ tags:
 # startPlacing()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
 - [[makeGhost()]] - `calls` [EXTRACTED]
 - [[placedModel()]] - `calls` [EXTRACTED]
 - [[rebuildBar()]] - `calls` [EXTRACTED]

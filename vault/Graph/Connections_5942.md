@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/GraphDev Pipeline.md"
+source_file: "vault/Graph/Connections_4789.md"
 type: "document"
-community: "Community 88"
-location: "L14"
+community: "Community 134"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[GraphDev Pipeline_3]] - `contains` [EXTRACTED]
+- [[Connections_5943]] - `contains` [EXTRACTED]
+- [[Connections_4789_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_88
+#graphify/document #graphify/EXTRACTED #community/Community_134

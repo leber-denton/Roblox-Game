@@ -1,15 +1,28 @@
 ---
 type: community
-members: 2
+members: 15
 ---
 
 # Community 1416
 
-**Members:** 2 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Connections_1765]] - document - vault/Graph/finite()_2_1.md
+- [[Community 1266]] - document - vault/Graph/_COMMUNITY_Community 1266.md
+- [[Connections_7218]] - document - vault/Graph/Connections_3457.md
+- [[Connections_7219]] - document - vault/Graph/Connections_3457.md
+- [[Connections_7220]] - document - vault/Graph/finite()_2_1.md
+- [[Connections_7221]] - document - vault/Graph/finite()_8.md
+- [[Connections to other communities_429]] - document - vault/Graph/_COMMUNITY_Community 1266.md
+- [[Connections_3457_1]] - document - vault/Graph/Connections_3457.md
+- [[Live Query (requires Dataview plugin)_530]] - document - vault/Graph/_COMMUNITY_Community 1266.md
+- [[Members_531]] - document - vault/Graph/_COMMUNITY_Community 1266.md
+- [[Top bridge nodes_416]] - document - vault/Graph/_COMMUNITY_Community 1266.md
+- [[_COMMUNITY_Community 1266]] - document - vault/Graph/_COMMUNITY_Community 1266.md
+- [[finite()_4]] - document - vault/Graph/finite()_8.md
 - [[finite()_2_2]] - document - vault/Graph/finite()_2_1.md
+- [[finite()_2_1_1]] - document - vault/Graph/finite()_2_1.md
+- [[finite()_8]] - document - vault/Graph/finite()_8.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +32,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 4 edges to [[_COMMUNITY_Community 97]]
 
 ## Top bridge nodes
-- [[finite()_2_2]] - degree 2, connects to 1 community
+- [[_COMMUNITY_Community 1266]] - degree 6, connects to 1 community
+- [[finite()_2_1_1]] - degree 5, connects to 1 community

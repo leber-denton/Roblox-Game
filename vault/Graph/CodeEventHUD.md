@@ -12,7 +12,7 @@ tags:
 # Code/EventHUD.md
 
 ## Connections
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
-- [[EventHUD]] - `contains` [EXTRACTED]
+- [[Code Map_2]] - `references` [EXTRACTED]
+- [[EventHUD_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_267

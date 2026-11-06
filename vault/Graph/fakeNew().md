@@ -12,6 +12,6 @@ tags:
 # fakeNew()
 
 ## Connections
-- [[TutorialCompletion.spec.luau_5]] - `contains` [EXTRACTED]
+- [[TutorialCompletion.spec.luau_8]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_62

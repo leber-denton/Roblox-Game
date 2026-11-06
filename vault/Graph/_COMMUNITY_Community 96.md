@@ -1,42 +1,37 @@
 ---
 type: community
-members: 29
+members: 24
 ---
 
 # Community 96
 
-**Members:** 29 nodes
+**Members:** 24 nodes
 
 ## Members
-- [[Connections_6269]] - document - vault/Graph/CLAUDE.md
-- [[Connections_6270]] - document - vault/Graph/Creature Quest.md
-- [[Connections_6271]] - document - vault/Graph/graphify.md
-- [[Connections_6272]] - document - vault/Graph/Layout_1.md
-- [[Connections_6273]] - document - vault/Graph/Reading code.md
-- [[Connections_6274]] - document - vault/Graph/Sync.md
-- [[Connections_6275]] - document - vault/Graph/Testing.md
-- [[Connections_6276]] - document - vault/Graph/Tooling.md
-- [[Connections_6277]] - document - vault/Graph/Workflow.md
-- [[Creature Quest_4]] - document - vault/Graph/Creature Quest.md
-- [[Creature Quest_3]] - document - vault/Graph/Creature Quest.md
-- [[File endings_3]] - document - vault/Graph/File endings.md
-- [[GraphCLAUDE_3]] - document - vault/Graph/CLAUDE.md
-- [[GraphCLAUDE_4]] - document - vault/Graph/CLAUDE.md
-- [[Layout_8]] - document - vault/Graph/Layout_1.md
-- [[Layout_1_3]] - document - vault/Graph/Layout_1.md
-- [[Reading code_4]] - document - vault/Graph/Reading code.md
-- [[Reading code_3]] - document - vault/Graph/Reading code.md
-- [[Sync_4]] - document - vault/Graph/Sync.md
-- [[Sync_3]] - document - vault/Graph/Sync.md
-- [[Testing_4]] - document - vault/Graph/Testing.md
-- [[Testing_3]] - document - vault/Graph/Testing.md
-- [[Tooling_4]] - document - vault/Graph/Tooling.md
-- [[Tooling_3]] - document - vault/Graph/Tooling.md
-- [[Workflow_4]] - document - vault/Graph/Workflow.md
-- [[Workflow_3]] - document - vault/Graph/Workflow.md
-- [[_COMMUNITY_Community 36]] - document - vault/Graph/_COMMUNITY_Community 36.md
-- [[graphify_1]] - document - vault/Graph/graphify.md
-- [[graphify]] - document - vault/Graph/graphify.md
+- [[Connections_24253]] - document - vault/Graph/CLAUDE.md
+- [[Connections_24254]] - document - vault/Graph/Creature Quest.md
+- [[Connections_24255]] - document - vault/Graph/File endings_2.md
+- [[Connections_24256]] - document - vault/Graph/Reading code.md
+- [[Connections_24257]] - document - vault/Graph/Sync_1.md
+- [[Connections_24258]] - document - vault/Graph/Testing.md
+- [[Connections_24259]] - document - vault/Graph/Tooling.md
+- [[Connections_24260]] - document - vault/Graph/Workflow_1.md
+- [[Creature Quest_8]] - document - vault/Graph/Creature Quest.md
+- [[Creature Quest_7]] - document - vault/Graph/Creature Quest.md
+- [[File endings_2_3]] - document - vault/Graph/File endings_2.md
+- [[File endings_2_4]] - document - vault/Graph/File endings_2.md
+- [[GraphCLAUDE_9]] - document - vault/Graph/CLAUDE.md
+- [[GraphCLAUDE_10]] - document - vault/Graph/CLAUDE.md
+- [[Reading code_8]] - document - vault/Graph/Reading code.md
+- [[Reading code_7]] - document - vault/Graph/Reading code.md
+- [[Sync_1_3]] - document - vault/Graph/Sync_1.md
+- [[Sync_1_4]] - document - vault/Graph/Sync_1.md
+- [[Testing_8]] - document - vault/Graph/Testing.md
+- [[Testing_7]] - document - vault/Graph/Testing.md
+- [[Tooling_8]] - document - vault/Graph/Tooling.md
+- [[Tooling_7]] - document - vault/Graph/Tooling.md
+- [[Workflow_1_3]] - document - vault/Graph/Workflow_1.md
+- [[Workflow_1_4]] - document - vault/Graph/Workflow_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -46,17 +41,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 500]]
-- 1 edge to [[_COMMUNITY_Community 1138]]
-- 1 edge to [[_COMMUNITY_Community 1415]]
-- 1 edge to [[_COMMUNITY_Community 591]]
-- 1 edge to [[_COMMUNITY_Community 592]]
-- 1 edge to [[_COMMUNITY_Community 593]]
-- 1 edge to [[_COMMUNITY_Community 594]]
-- 1 edge to [[_COMMUNITY_Community 595]]
-- 1 edge to [[_COMMUNITY_Community 596]]
-- 1 edge to [[_COMMUNITY_Community 597]]
+- 8 edges to [[_COMMUNITY_Community 597]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 36]] - degree 21, connects to 9 communities
-- [[File endings_3]] - degree 3, connects to 1 community
+- [[Creature Quest_7]] - degree 9, connects to 1 community
+- [[GraphCLAUDE_9]] - degree 3, connects to 1 community
+- [[Tooling_7]] - degree 3, connects to 1 community
+- [[Reading code_7]] - degree 3, connects to 1 community
+- [[Testing_7]] - degree 3, connects to 1 community

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.luau.md"
+source_file: "vault/Graph/Connections_4368.md"
 type: "document"
-community: "Community 86"
-location: "L14"
+community: "Community 1331"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1331
 ---
 
 # Connections
 
 ## Connections
-- [[DecorData.luau_2]] - `contains` [EXTRACTED]
+- [[Connections_5737]] - `contains` [EXTRACTED]
+- [[Connections_4368_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1331

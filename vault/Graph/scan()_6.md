@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/scan().md"
+source_file: "vault/Graph/scan()_6.md"
 type: "document"
-community: "Community 191"
-location: "L12"
+community: "Community 1662"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_191
+  - community/Community_1662
 ---
 
-# scan()
+# scan()_6.md
 
 ## Connections
-- [[Connections_2825]] - `contains` [EXTRACTED]
-- [[scan()_3]] - `contains` [EXTRACTED]
+- [[CreatureLife.client.luau_5]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 191]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 80]] - `references` [EXTRACTED]
+- [[scan()_9]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_191
+#graphify/document #graphify/EXTRACTED #community/Community_1662

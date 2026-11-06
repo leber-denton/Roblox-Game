@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/ModelSyncTests.luau.md"
+source_file: "vault/Graph/Connections_3505.md"
 type: "document"
-community: "Community 612"
-location: "L14"
+community: "Community 1272"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_612
+  - community/Community_1272
 ---
 
 # Connections
 
 ## Connections
-- [[ModelSyncTests.luau_5]] - `contains` [EXTRACTED]
+- [[Connections_4802]] - `contains` [EXTRACTED]
+- [[Connections_3505_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_612
+#graphify/document #graphify/EXTRACTED #community/Community_1272

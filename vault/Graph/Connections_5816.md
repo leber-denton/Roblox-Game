@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/PlayerData.serialize().md"
+source_file: "vault/Graph/BattleService.onReleased()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[PlayerData.serialize()_6]] - `contains` [EXTRACTED]
+- [[BattleService.onReleased()_1_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/onPlayerAdded()_2.md"
 type: "document"
-community: "Community 1162"
-location: "L1"
+community: "Community 1161"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1162
+  - community/Community_1161
 ---
 
 # onPlayerAdded()_2.md
 
 ## Connections
-- [[Connections_439]] - `references` [EXTRACTED]
-- [[onPlayerAdded()_3]] - `contains` [EXTRACTED]
+- [[Connections_2914]] - `contains` [EXTRACTED]
+- [[onPlayerAdded()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1162
+#graphify/document #graphify/EXTRACTED #community/Community_1161

@@ -12,8 +12,7 @@ tags:
 # CodeEventHUD.md
 
 ## Connections
-- [[CodeEventHUD_2]] - `contains` [EXTRACTED]
-- [[GraphEventHUD_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 267]] - `references` [EXTRACTED]
+- [[CodeEventHUD_5]] - `contains` [EXTRACTED]
+- [[CodeEventHUD_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_354

@@ -12,7 +12,7 @@ tags:
 # resolveNpcPath()
 
 ## Connections
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[findTargets()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_8

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/NPC.md"
+source_file: "vault/Code/NPC.md"
 type: "document"
-community: "Community 159"
-location: "L12"
+community: "Community 13"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_159
+  - community/Community_13
 ---
 
 # NPC
 
 ## Connections
-- [[Connections_2133]] - `contains` [EXTRACTED]
-- [[GraphNPC]] - `contains` [EXTRACTED]
+- [[CodeNPC_2]] - `contains` [EXTRACTED]
+- [[Functions_58]] - `contains` [EXTRACTED]
+- [[Required by_45]] - `contains` [EXTRACTED]
+- [[Requires_44]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_159
+#graphify/document #graphify/EXTRACTED #community/Community_13

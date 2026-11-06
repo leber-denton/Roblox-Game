@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/Functions_42.md"
+source_file: "vault/Graph/Functions_42_3.md"
 type: "document"
-community: "Community 90"
+community: "Community 494"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_494
 ---
 
-# Functions_42.md
+# Functions_42_3.md
 
 ## Connections
-- [[Functions_189]] - `contains` [EXTRACTED]
-- [[GraphWander]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[ignoreList()_3]] - `references` [EXTRACTED]
+- [[Functions_42_5]] - `contains` [EXTRACTED]
+- [[Functions_42_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 494]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_494

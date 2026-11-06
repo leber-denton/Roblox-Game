@@ -1,16 +1,22 @@
 ---
 type: community
-members: 3
+members: 9
 ---
 
 # Community 1373
 
-**Members:** 3 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1661]] - document - vault/Graph/Where to edit things_1.md
-- [[Where to edit things]] - document - vault/Graph/Where to edit things_1.md
-- [[Where to edit things_1]] - document - vault/Graph/Where to edit things_1.md
+- [[Connections_6702]] - document - vault/Graph/Connections_2342.md
+- [[Connections_6703]] - document - vault/Graph/Connections_2342.md
+- [[Connections_6704]] - document - vault/Graph/Top bridge nodes_164.md
+- [[Connections_6705]] - document - vault/Graph/Top bridge nodes_42_1.md
+- [[Connections_2342_1]] - document - vault/Graph/Connections_2342.md
+- [[Top bridge nodes_357]] - document - vault/Graph/Top bridge nodes_164.md
+- [[Top bridge nodes_164_1]] - document - vault/Graph/Top bridge nodes_164.md
+- [[Top bridge nodes_42_2]] - document - vault/Graph/Top bridge nodes_42_1.md
+- [[Top bridge nodes_42_1]] - document - vault/Graph/Top bridge nodes_42_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 350]]
+- 3 edges to [[_COMMUNITY_Community 1774]]
+- 1 edge to [[_COMMUNITY_Community 171]]
 
 ## Top bridge nodes
-- [[Where to edit things_1]] - degree 2, connects to 1 community
+- [[Top bridge nodes_42_1]] - degree 4, connects to 2 communities
+- [[Top bridge nodes_164_1]] - degree 4, connects to 1 community
+- [[Connections_2342_1]] - degree 3, connects to 1 community

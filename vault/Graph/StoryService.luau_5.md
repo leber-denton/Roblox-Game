@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/StoryService.luau_1.md"
+source_file: "vault/Graph/StoryService.luau_5.md"
 type: "document"
-community: "Community 820"
-location: "L12"
+community: "Community 2186"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_820
+  - community/Community_2186
 ---
 
-# StoryService.luau
+# StoryService.luau_5.md
 
 ## Connections
-- [[Connections_5517]] - `contains` [EXTRACTED]
-- [[StoryService.luau_1_1]] - `contains` [EXTRACTED]
+- [[StoryService.luau_6]] - `contains` [EXTRACTED]
+- [[StoryService.luau_4_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_820
+#graphify/document #graphify/EXTRACTED #community/Community_2186

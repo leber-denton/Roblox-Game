@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Code/BaseManager.md"
+source_file: "vault/Code/BattleFX.md"
 type: "document"
-community: "Community 16"
-location: "L26"
+community: "Community 13"
+location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_16
+  - community/Community_13
 ---
 
 # Functions
 
 ## Connections
-- [[BaseManager]] - `contains` [EXTRACTED]
-- [[sortedBases()]] - `references` [INFERRED]
+- [[BattleFX]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_16
+#graphify/document #graphify/EXTRACTED #community/Community_13

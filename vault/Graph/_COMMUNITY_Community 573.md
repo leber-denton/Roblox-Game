@@ -1,22 +1,34 @@
 ---
 type: community
-members: 9
+members: 21
 ---
 
 # Community 573
 
-**Members:** 9 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Community 60_2]] - document - vault/Graph/Community 60.md
-- [[Community 60_1]] - document - vault/Graph/Community 60.md
-- [[Connections_4699]] - document - vault/Graph/Community 60.md
-- [[Connections_4700]] - document - vault/Graph/Live Query (requires Dataview plugin)_37.md
-- [[Connections_4701]] - document - vault/Graph/Members_36.md
-- [[Live Query (requires Dataview plugin)_391]] - document - vault/Graph/Live Query (requires Dataview plugin)_37.md
-- [[Live Query (requires Dataview plugin)_37_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_37.md
-- [[Members_392]] - document - vault/Graph/Members_36.md
-- [[Members_36_1]] - document - vault/Graph/Members_36.md
+- [[Community 573]] - document - vault/Graph/_COMMUNITY_Community 573.md
+- [[Community 973]] - document - vault/Graph/_COMMUNITY_Community 973.md
+- [[Connections_20911]] - document - vault/Graph/Steps_1.md
+- [[Connections_20912]] - document - vault/Graph/Steps_3.md
+- [[Connections_20913]] - document - vault/Graph/Steps_4.md
+- [[Connections to other communities_1405]] - document - vault/Graph/_COMMUNITY_Community 573.md
+- [[Connections to other communities_1406]] - document - vault/Graph/_COMMUNITY_Community 973.md
+- [[Live Query (requires Dataview plugin)_1649]] - document - vault/Graph/_COMMUNITY_Community 573.md
+- [[Live Query (requires Dataview plugin)_1650]] - document - vault/Graph/_COMMUNITY_Community 973.md
+- [[Members_1650]] - document - vault/Graph/_COMMUNITY_Community 573.md
+- [[Members_1651]] - document - vault/Graph/_COMMUNITY_Community 973.md
+- [[Steps_6]] - document - vault/Graph/Steps_4.md
+- [[Steps_5]] - document - vault/Graph/Steps_3.md
+- [[Steps_1_1]] - document - vault/Graph/Steps_1.md
+- [[Steps_1_2]] - document - vault/Graph/Steps_1.md
+- [[Steps_3]] - document - vault/Graph/Steps_3.md
+- [[Steps_4]] - document - vault/Graph/Steps_4.md
+- [[Top bridge nodes_1403]] - document - vault/Graph/_COMMUNITY_Community 573.md
+- [[Top bridge nodes_1404]] - document - vault/Graph/_COMMUNITY_Community 973.md
+- [[_COMMUNITY_Community 573]] - document - vault/Graph/_COMMUNITY_Community 573.md
+- [[_COMMUNITY_Community 973]] - document - vault/Graph/_COMMUNITY_Community 973.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,10 +38,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 417]]
-- 1 edge to [[_COMMUNITY_Community 172]]
+- 7 edges to [[_COMMUNITY_Community 572]]
+- 1 edge to [[_COMMUNITY_Community 1521]]
+- 1 edge to [[_COMMUNITY_Community 1730]]
+- 1 edge to [[_COMMUNITY_Community 2405]]
+- 1 edge to [[_COMMUNITY_Community 491]]
+- 1 edge to [[_COMMUNITY_Community 818]]
 
 ## Top bridge nodes
-- [[Community 60_1]] - degree 5, connects to 2 communities
-- [[Members_36_1]] - degree 3, connects to 1 community
-- [[Live Query (requires Dataview plugin)_37_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 573]] - degree 14, connects to 5 communities
+- [[Steps_3]] - degree 7, connects to 2 communities
+- [[_COMMUNITY_Community 973]] - degree 5, connects to 1 community

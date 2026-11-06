@@ -12,7 +12,7 @@ tags:
 # commands.newPlayer()
 
 ## Connections
-- [[AdminService.luau_3]] - `contains` [EXTRACTED]
+- [[AdminService.luau]] - `contains` [EXTRACTED]
 - [[BaseManager.getTeam()]] - `calls` [INFERRED]
 - [[BaseManager.removeCreature()]] - `calls` [INFERRED]
 - [[BaseManager.spawnCFrame()]] - `calls` [INFERRED]

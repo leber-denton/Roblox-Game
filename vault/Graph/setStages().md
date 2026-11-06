@@ -12,7 +12,7 @@ tags:
 # setStages()
 
 ## Connections
-- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_7]] - `contains` [EXTRACTED]
 - [[applyState()]] - `calls` [EXTRACTED]
 - [[new()_9]] - `calls` [EXTRACTED]
 - [[playTurn()]] - `calls` [EXTRACTED]

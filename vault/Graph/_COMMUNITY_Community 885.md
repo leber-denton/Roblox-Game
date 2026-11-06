@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_5967]] - document - vault/Graph/Connections_739.md
-- [[Connections_5968]] - document - vault/Graph/Connections_739.md
-- [[Connections_5969]] - document - vault/Graph/pulse()_2.md
-- [[Connections_739_1]] - document - vault/Graph/Connections_739.md
-- [[pulse()_4]] - document - vault/Graph/pulse()_2.md
-- [[pulse()_2_1]] - document - vault/Graph/pulse()_2.md
+- [[Connections_23674]] - document - vault/Graph/Connections_4456.md
+- [[Connections_23675]] - document - vault/Graph/Connections_4456.md
+- [[Connections_23676]] - document - vault/Graph/Connections_4457.md
+- [[Connections_23677]] - document - vault/Graph/Connections_4457.md
+- [[Connections_4456_1]] - document - vault/Graph/Connections_4456.md
+- [[Connections_4457_1]] - document - vault/Graph/Connections_4457.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 27]]
-- 1 edge to [[_COMMUNITY_Community 138]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[pulse()_2_1]] - degree 4, connects to 2 communities
-- [[Connections_739_1]] - degree 3, connects to 1 community
+- [[Connections_4456_1]] - degree 3, connects to 1 community
+- [[Connections_4457_1]] - degree 3, connects to 1 community

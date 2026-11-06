@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 51.md"
+source_file: "vault/Graph/Community 51_2.md"
 type: "document"
-community: "Community 924"
-location: "L6"
+community: "Community 351"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_924
+  - community/Community_351
 ---
 
-# Community 51
+# Community 51_2.md
 
 ## Connections
-- [[Connections to other communities_410]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_454]] - `contains` [EXTRACTED]
-- [[Members_454]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_412]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 51]] - `contains` [EXTRACTED]
+- [[Community 51_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 351]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 51]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 924]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_924
+#graphify/document #graphify/EXTRACTED #community/Community_351

@@ -12,8 +12,8 @@ tags:
 # PlayerData.luau
 
 ## Connections
-- [[GameData.luau_3]] - `imports` [EXTRACTED]
-- [[Main.server.luau_3]] - `imports` [EXTRACTED]
+- [[GameData.luau]] - `imports` [EXTRACTED]
+- [[Main.server.luau]] - `imports` [EXTRACTED]
 - [[PlayerData.addBP()]] - `contains` [EXTRACTED]
 - [[PlayerData.addBadge()]] - `contains` [EXTRACTED]
 - [[PlayerData.addBoost()]] - `contains` [EXTRACTED]

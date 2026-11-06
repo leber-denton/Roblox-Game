@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/fixture()_2.md"
+source_file: "vault/Graph/Connections_294_1.md"
 type: "document"
-community: "Community 168"
+community: "Community 1127"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1127
 ---
 
 # Connections
 
 ## Connections
-- [[fixture()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_294_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1127

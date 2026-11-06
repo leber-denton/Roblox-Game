@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/tryCommit().md"
+source_file: "vault/Graph/Connections_606.md"
 type: "document"
-community: "Community 23"
-location: "L14"
+community: "Community 1184"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_23
+  - community/Community_1184
 ---
 
 # Connections
 
 ## Connections
-- [[tryCommit()_2]] - `contains` [EXTRACTED]
+- [[Connections_3261]] - `contains` [EXTRACTED]
+- [[Connections_606_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_23
+#graphify/document #graphify/EXTRACTED #community/Community_1184

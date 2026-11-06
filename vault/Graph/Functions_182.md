@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Code/ModelSync.md"
+source_file: "vault/Graph/Functions_185.md"
 type: "document"
-community: "Community 8"
-location: "L11"
+community: "Community 2677"
+location: "L12"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_8
+  - graphify/EXTRACTED
+  - community/Community_2677
 ---
 
 # Functions
 
 ## Connections
-- [[ModelSync_3]] - `contains` [EXTRACTED]
-- [[backups()]] - `references` [INFERRED]
-- [[safeRoots()]] - `references` [INFERRED]
-- [[showcaseArea()]] - `references` [INFERRED]
-- [[showcaseModels()]] - `references` [INFERRED]
+- [[Connections_15006]] - `contains` [EXTRACTED]
+- [[Functions_185]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_8
+#graphify/document #graphify/EXTRACTED #community/Community_2677

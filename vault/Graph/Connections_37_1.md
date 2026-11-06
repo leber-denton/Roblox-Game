@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/Connections_37.md"
+source_file: "vault/Graph/Connections_37_1.md"
 type: "document"
-community: "Community 296"
+community: "Community 1010"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_296
+  - community/Community_1010
 ---
 
-# Connections_37.md
+# Connections_37_1.md
 
 ## Connections
-- [[Connections_3669]] - `contains` [EXTRACTED]
-- [[Connections_36_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 101]] - `references` [EXTRACTED]
+- [[AdminPanel.client.luau]] - `references` [EXTRACTED]
+- [[Connections_37_2]] - `contains` [EXTRACTED]
+- [[Connections_79_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1010]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_296
+#graphify/document #graphify/EXTRACTED #community/Community_1010

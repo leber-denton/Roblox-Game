@@ -1,16 +1,31 @@
 ---
 type: community
-members: 3
+members: 18
 ---
 
 # Community 1305
 
-**Members:** 3 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Connections_1372]] - document - vault/Graph/Members_32.md
-- [[Members_98]] - document - vault/Graph/Members_32.md
-- [[Members_32_1]] - document - vault/Graph/Members_32.md
+- [[Connections_5326]] - document - vault/Graph/Connections_3356.md
+- [[Connections_5327]] - document - vault/Graph/Connections_3356.md
+- [[Connections_5328]] - document - vault/Graph/Connections_3357.md
+- [[Connections_5330]] - document - vault/Graph/Connections_3357.md
+- [[Connections_5331]] - document - vault/Graph/Connections_3391.md
+- [[Connections_5332]] - document - vault/Graph/Connections_3391.md
+- [[Connections_5341]] - document - vault/Graph/Connections_4573.md
+- [[Connections_5342]] - document - vault/Graph/RareEventService.summon()_1.md
+- [[Connections_5343]] - document - vault/Graph/RareEventService.summon()_4.md
+- [[Connections_3356_1]] - document - vault/Graph/Connections_3356.md
+- [[Connections_3357_1]] - document - vault/Graph/Connections_3357.md
+- [[Connections_3391_1]] - document - vault/Graph/Connections_3391.md
+- [[Connections_4573_1]] - document - vault/Graph/Connections_4573.md
+- [[Connections_4573_2]] - document - vault/Graph/Connections_4573.md
+- [[RareEventService.summon()_2]] - document - vault/Graph/RareEventService.summon()_1.md
+- [[RareEventService.summon()_1]] - document - vault/Graph/RareEventService.summon()_1.md
+- [[RareEventService.summon()_4]] - document - vault/Graph/RareEventService.summon()_4.md
+- [[RareEventService.summon()_4_1]] - document - vault/Graph/RareEventService.summon()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +35,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 168]]
+- 6 edges to [[_COMMUNITY_Community 292]]
+- 2 edges to [[_COMMUNITY_Community 577]]
 
 ## Top bridge nodes
-- [[Members_32_1]] - degree 2, connects to 1 community
+- [[Connections_4573_1]] - degree 5, connects to 2 communities
+- [[RareEventService.summon()_4]] - degree 5, connects to 2 communities
+- [[Connections_3356_1]] - degree 4, connects to 1 community
+- [[RareEventService.summon()_1]] - degree 4, connects to 1 community
+- [[Connections_3357_1]] - degree 3, connects to 1 community

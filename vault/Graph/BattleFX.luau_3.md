@@ -1,50 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/BattleFX.luau"
-type: "code"
-community: "Community 235"
-location: "L1"
+source_file: "vault/Graph/BattleFX.luau_4.md"
+type: "document"
+community: "Community 630"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_235
+  - community/Community_630
 ---
 
-# BattleFX.luau
+# BattleFX.luau.md
 
 ## Connections
-- [[BattleFX.attack()]] - `contains` [EXTRACTED]
-- [[BattleFX.faint()]] - `contains` [EXTRACTED]
-- [[BattleFX.levelUp()]] - `contains` [EXTRACTED]
-- [[BattleFX.makeBall()]] - `contains` [EXTRACTED]
-- [[BattleFX.sendOut()]] - `contains` [EXTRACTED]
-- [[BattleFX.statChange()]] - `contains` [EXTRACTED]
-- [[BattleFX.statusEffect()]] - `contains` [EXTRACTED]
-- [[BattleFX.statusMove()]] - `contains` [EXTRACTED]
-- [[BattleFX.throw()]] - `contains` [EXTRACTED]
-- [[ballParts()]] - `contains` [EXTRACTED]
-- [[burst()_1]] - `contains` [EXTRACTED]
-- [[charge()]] - `contains` [EXTRACTED]
-- [[effectPart()]] - `contains` [EXTRACTED]
-- [[fadeBall()]] - `contains` [EXTRACTED]
-- [[flash()]] - `contains` [EXTRACTED]
-- [[game_getservice_4]] - `imports` [EXTRACTED]
-- [[glow()]] - `contains` [EXTRACTED]
-- [[groundRing()]] - `contains` [EXTRACTED]
-- [[groundY()]] - `contains` [EXTRACTED]
-- [[impact()]] - `contains` [EXTRACTED]
-- [[latch()]] - `contains` [EXTRACTED]
-- [[lightning()]] - `contains` [EXTRACTED]
-- [[plainBall()]] - `contains` [EXTRACTED]
-- [[play()_1]] - `contains` [EXTRACTED]
-- [[projectile()]] - `contains` [EXTRACTED]
-- [[rearBack()]] - `contains` [EXTRACTED]
-- [[rootOf()]] - `contains` [EXTRACTED]
-- [[scaleModel()]] - `contains` [EXTRACTED]
-- [[screenFlash()]] - `contains` [EXTRACTED]
-- [[setHidden()]] - `contains` [EXTRACTED]
-- [[setLid()]] - `contains` [EXTRACTED]
-- [[shake()]] - `contains` [EXTRACTED]
-- [[shakeCamera()]] - `contains` [EXTRACTED]
-- [[sparkle()]] - `contains` [EXTRACTED]
+- [[BattleFX.luau_4]] - `contains` [EXTRACTED]
+- [[Connections_21505]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_235
+#graphify/document #graphify/EXTRACTED #community/Community_630

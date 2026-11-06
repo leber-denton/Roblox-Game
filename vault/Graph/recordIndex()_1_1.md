@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/recordIndex()_1.md"
+source_file: "vault/Graph/recordIndex()_1_1.md"
 type: "document"
-community: "Community 12"
-location: "L12"
+community: "Community 25"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_25
 ---
 
-# recordIndex()_1.md
+# recordIndex()_1_1.md
 
 ## Connections
-- [[Connections_1031]] - `contains` [EXTRACTED]
-- [[recordIndex()_1]] - `contains` [EXTRACTED]
+- [[Connections_2473_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
+- [[recordIndex()_1_2]] - `contains` [EXTRACTED]
+- [[recordIndex()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_25

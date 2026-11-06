@@ -12,13 +12,9 @@ tags:
 # setOpen()_2.md
 
 ## Connections
-- [[CreatureIndex.client.luau_2]] - `references` [EXTRACTED]
+- [[Connections_1034_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[clearBody()_1_1]] - `references` [EXTRACTED]
-- [[setOpen()_4]] - `contains` [EXTRACTED]
-- [[setOpen()_3]] - `references` [EXTRACTED]
-- [[showGrid()_1_1]] - `references` [EXTRACTED]
-- [[updateVisible()_1_1]] - `references` [EXTRACTED]
+- [[setOpen()_3]] - `contains` [EXTRACTED]
+- [[setOpen()_1_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_195

@@ -1,21 +1,21 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 15"
+source_file: "vault/Graph/script_parent_npc_5.md"
+type: "document"
+community: "Community 387"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_387
 ---
 
-# script_parent_npc
+# script_parent_npc_5.md
 
 ## Connections
-- [[DungeonService.luau_3]] - `imports` [EXTRACTED]
-- [[GymService.luau_3]] - `imports` [EXTRACTED]
-- [[LeagueService.luau_3]] - `imports` [EXTRACTED]
-- [[RouteTrainerService.luau_3]] - `imports` [EXTRACTED]
-- [[StoryService.luau]] - `imports` [EXTRACTED]
-- [[TutorialService.luau]] - `imports` [EXTRACTED]
+- [[TutorialService.luau_3_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 276]] - `references` [EXTRACTED]
+- [[script_parent_npc]] - `references` [EXTRACTED]
+- [[script_parent_npc_5_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_387

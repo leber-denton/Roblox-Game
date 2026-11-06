@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/onRareCatch()_1.md"
+source_file: "vault/Graph/onRareCatch()_3.md"
 type: "document"
-community: "Community 506"
-location: "L12"
+community: "Community 1580"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_506
+  - community/Community_1580
 ---
 
-# onRareCatch().md
+# onRareCatch()_3.md
 
 ## Connections
-- [[Connections_4454]] - `contains` [EXTRACTED]
-- [[onRareCatch()_1_1]] - `contains` [EXTRACTED]
+- [[onRareCatch()_1]] - `contains` [EXTRACTED]
+- [[onRareCatch()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_506
+#graphify/document #graphify/EXTRACTED #community/Community_1580

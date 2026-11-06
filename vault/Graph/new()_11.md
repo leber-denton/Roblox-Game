@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/new()_6.md"
+source_file: "vault/Graph/new()_5.md"
 type: "document"
 community: "Community 106"
 location: "L12"
@@ -12,7 +12,7 @@ tags:
 # new()
 
 ## Connections
-- [[Connections_146]] - `contains` [EXTRACTED]
-- [[new()_6_1]] - `contains` [EXTRACTED]
+- [[Connections_942]] - `contains` [EXTRACTED]
+- [[new()_5_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_106

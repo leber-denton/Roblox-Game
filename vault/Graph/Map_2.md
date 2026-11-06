@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Map_2.md"
+source_file: "vault/Graph/Map_1.md"
 type: "document"
-community: "Community 88"
-location: "L1"
+community: "Community 1578"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_1578
 ---
 
-# Map_2.md
+# Map
 
 ## Connections
-- [[Map_3]] - `contains` [EXTRACTED]
-- [[Map_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 196]] - `references` [EXTRACTED]
+- [[Connections_8754]] - `contains` [EXTRACTED]
+- [[Map_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_88
+#graphify/document #graphify/EXTRACTED #community/Community_1578

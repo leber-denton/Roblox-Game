@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/BattleService.onReleased().md"
+source_file: "vault/Graph/BattleService.onReleased()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2096"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2096
 ---
 
-# BattleService.onReleased().md
+# BattleService.onReleased()_3.md
 
 ## Connections
-- [[BattleService.luau_3]] - `references` [EXTRACTED]
-- [[BattleService.onReleased()_4]] - `contains` [EXTRACTED]
-- [[DungeonService.init()_4]] - `references` [EXTRACTED]
-- [[ProgressService.init()_4]] - `references` [EXTRACTED]
-- [[RouteTrainerService.init()_4]] - `references` [EXTRACTED]
-- [[StoryService.init()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
-- [[setupProducts()_3]] - `references` [EXTRACTED]
+- [[BattleService.onReleased()_5]] - `contains` [EXTRACTED]
+- [[BattleService.onReleased()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2096

@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/LeaderboardService.refresh().md"
+source_file: "vault/Graph/LeaderboardService.refresh()_3.md"
 type: "document"
-community: "Community 104"
-location: "L1"
+community: "Community 1536"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_104
+  - community/Community_1536
 ---
 
-# LeaderboardService.refresh().md
+# LeaderboardService.refresh()
 
 ## Connections
-- [[LeaderboardService.init()_1]] - `references` [EXTRACTED]
-- [[LeaderboardService.refresh()_2]] - `contains` [EXTRACTED]
-- [[draw()_1]] - `references` [EXTRACTED]
-- [[nameOf()_1]] - `references` [EXTRACTED]
+- [[Connections_8550]] - `contains` [EXTRACTED]
+- [[LeaderboardService.refresh()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_104
+#graphify/document #graphify/EXTRACTED #community/Community_1536

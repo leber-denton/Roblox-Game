@@ -12,8 +12,9 @@ tags:
 # DecorService.init()_2.md
 
 ## Connections
-- [[DecorService.init()_1]] - `references` [EXTRACTED]
-- [[DecorService.init()_2_1]] - `contains` [EXTRACTED]
+- [[DecorService.init()_1_1]] - `references` [EXTRACTED]
+- [[DecorService.init()_2_3]] - `contains` [EXTRACTED]
+- [[DecorService.init()_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 175]] - `references` [EXTRACTED]
 

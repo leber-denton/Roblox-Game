@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/applyTheme().md"
+source_file: "vault/Graph/Connections_3814.md"
 type: "document"
-community: "Community 86"
-location: "L14"
+community: "Community 1325"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1325
 ---
 
 # Connections
 
 ## Connections
-- [[applyTheme()_4]] - `contains` [EXTRACTED]
+- [[Connections_5659]] - `contains` [EXTRACTED]
+- [[Connections_3814_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1325

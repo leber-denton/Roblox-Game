@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/attachCard()_2.md"
+source_file: "vault/Graph/Connections_102_1.md"
 type: "document"
-community: "Community 518"
+community: "Community 1247"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_518
+  - community/Community_1247
 ---
 
 # Connections
 
 ## Connections
-- [[attachCard()_2_2]] - `contains` [EXTRACTED]
+- [[Connections_102_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_518
+#graphify/document #graphify/EXTRACTED #community/Community_1247

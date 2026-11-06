@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/ArenaManager.acquire()_2.md"
+source_file: "vault/Graph/ArenaManager.acquire()_4.md"
 type: "document"
-community: "Community 549"
-location: "L12"
+community: "Community 348"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_549
+  - community/Community_348
 ---
 
-# ArenaManager.acquire()
+# ArenaManager.acquire()_4.md
 
 ## Connections
-- [[ArenaManager.acquire()_2_1]] - `contains` [EXTRACTED]
-- [[Connections_4645]] - `contains` [EXTRACTED]
+- [[ArenaManager.acquire()_6]] - `contains` [EXTRACTED]
+- [[ArenaManager.acquire()_2_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 348]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 549]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_549
+#graphify/document #graphify/EXTRACTED #community/Community_348

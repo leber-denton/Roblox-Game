@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/File endings_2.md"
+source_file: "vault/Graph/File endings_1.md"
 type: "document"
-community: "Community 500"
-location: "L1"
+community: "Community 2609"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_500
+  - community/Community_2609
 ---
 
-# File endings_2.md
+# File endings
 
 ## Connections
-- [[File endings_1_1]] - `references` [EXTRACTED]
-- [[File endings_2_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 96]] - `references` [EXTRACTED]
+- [[Connections_14795]] - `contains` [EXTRACTED]
+- [[File endings_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_500
+#graphify/document #graphify/EXTRACTED #community/Community_2609

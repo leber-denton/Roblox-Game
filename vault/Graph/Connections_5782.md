@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/NPC.say().md"
+source_file: "vault/Graph/Community 16_2.md"
 type: "document"
-community: "Community 86"
+community: "Community 1338"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1338
 ---
 
 # Connections
 
 ## Connections
-- [[NPC.say()_5]] - `contains` [EXTRACTED]
+- [[Community 16_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1338

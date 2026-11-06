@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/queueDialogue()_2.md"
+source_file: "vault/Graph/queueDialogue()_2_1.md"
 type: "document"
-community: "Community 240"
+community: "Community 603"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_603
 ---
 
-# queueDialogue()_2.md
+# queueDialogue()_2_1.md
 
 ## Connections
-- [[Connections_242_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
-- [[queueDialogue()_4]] - `contains` [EXTRACTED]
 - [[queueDialogue()_1_1]] - `references` [EXTRACTED]
+- [[queueDialogue()_2_2]] - `contains` [EXTRACTED]
+- [[queueDialogue()_4_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_603

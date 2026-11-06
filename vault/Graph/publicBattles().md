@@ -12,8 +12,8 @@ tags:
 # publicBattles()
 
 ## Connections
-- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
-- [[Functions_130]] - `references` [INFERRED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_211]] - `references` [INFERRED]
 - [[setupActivities()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_4

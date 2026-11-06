@@ -12,7 +12,7 @@ tags:
 # setStatus()
 
 ## Connections
-- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_7]] - `contains` [EXTRACTED]
 - [[playTurn()]] - `calls` [EXTRACTED]
 - [[setCard()]] - `calls` [EXTRACTED]
 

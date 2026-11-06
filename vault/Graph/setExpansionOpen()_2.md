@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/setExpansionOpen()_2.md"
+source_file: "vault/Graph/setExpansionOpen()_4.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 3185"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_3185
 ---
 
-# setExpansionOpen()_2.md
+# setExpansionOpen()
 
 ## Connections
-- [[Connections_986]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
-- [[setExpansionOpen()_1]] - `references` [EXTRACTED]
-- [[setExpansionOpen()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_16470]] - `contains` [EXTRACTED]
+- [[setExpansionOpen()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_3185

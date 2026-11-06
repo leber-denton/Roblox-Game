@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/dressPedestal()_1.md"
+source_file: "vault/Graph/dressPedestal()_1_1.md"
 type: "document"
-community: "Community 205"
-location: "L12"
+community: "Community 152"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_205
+  - community/Community_152
 ---
 
-# dressPedestal()_1.md
+# dressPedestal()_1_1.md
 
 ## Connections
-- [[Connections_2997]] - `contains` [EXTRACTED]
-- [[dressPedestal()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[dressPedestal()_1_2]] - `contains` [EXTRACTED]
+- [[dressPedestal()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_205
+#graphify/document #graphify/EXTRACTED #community/Community_152

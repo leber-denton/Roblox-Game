@@ -1,19 +1,172 @@
 ---
 type: community
-members: 6
+members: 159
 ---
 
 # Community 639
 
-**Members:** 6 nodes
+**Members:** 159 nodes
 
 ## Members
-- [[Connections_4892]] - document - vault/Graph/Connections_1049.md
-- [[Connections_4893]] - document - vault/Graph/Connections_1049.md
-- [[Connections_4894]] - document - vault/Graph/Connections_1050.md
-- [[Connections_4895]] - document - vault/Graph/Connections_1050.md
-- [[Connections_1049_1]] - document - vault/Graph/Connections_1049.md
-- [[Connections_1050_1]] - document - vault/Graph/Connections_1050.md
+- [[ColiseumService.luau_6]] - document - vault/Graph/ColiseumService.luau_5.md
+- [[ColiseumService.luau_3]] - document - vault/Graph/ColiseumService.luau_4.md
+- [[ColiseumService.luau_4]] - document - vault/Graph/ColiseumService.luau_4.md
+- [[ColiseumService.luau_5]] - document - vault/Graph/ColiseumService.luau_5.md
+- [[Community 1334]] - document - vault/Graph/_COMMUNITY_Community 1334.md
+- [[Community 148_1]] - document - vault/Graph/Community 148.md
+- [[Community 148_2]] - document - vault/Graph/_COMMUNITY_Community 148.md
+- [[Community 148]] - document - vault/Graph/Community 148.md
+- [[Community 567]] - document - vault/Graph/_COMMUNITY_Community 567.md
+- [[Community 639]] - document - vault/Graph/_COMMUNITY_Community 639.md
+- [[Community 705]] - document - vault/Graph/_COMMUNITY_Community 705.md
+- [[Connections_21540]] - document - vault/Graph/ColiseumService.luau_4.md
+- [[Connections_21541]] - document - vault/Graph/ColiseumService.luau_5.md
+- [[Connections_21542]] - document - vault/Graph/Community 148.md
+- [[Connections_21543]] - document - vault/Graph/Connections_4383.md
+- [[Connections_21544]] - document - vault/Graph/Connections_4383.md
+- [[Connections_21545]] - document - vault/Graph/Connections_4384.md
+- [[Connections_21546]] - document - vault/Graph/Connections_4384.md
+- [[Connections_21547]] - document - vault/Graph/Connections_4385.md
+- [[Connections_21548]] - document - vault/Graph/Connections_4385.md
+- [[Connections_21549]] - document - vault/Graph/Connections_4386.md
+- [[Connections_21550]] - document - vault/Graph/Connections_4386.md
+- [[Connections_21551]] - document - vault/Graph/Connections_4387.md
+- [[Connections_21552]] - document - vault/Graph/Connections_4387.md
+- [[Connections_21553]] - document - vault/Graph/Connections to other communities_249.md
+- [[Connections_21554]] - document - vault/Graph/Connections to other communities_364.md
+- [[Connections_21555]] - document - vault/Graph/Connections to other communities_9_1.md
+- [[Connections_21556]] - document - vault/Graph/Live Query (requires Dataview plugin)_338.md
+- [[Connections_21557]] - document - vault/Graph/Live Query (requires Dataview plugin)_460.md
+- [[Connections_21558]] - document - vault/Graph/Members_13_1.md
+- [[Connections_21559]] - document - vault/Graph/Members_342.md
+- [[Connections_21560]] - document - vault/Graph/Members_462.md
+- [[Connections_21561]] - document - vault/Graph/script_parent_basemanager_1_1.md
+- [[Connections_21562]] - document - vault/Graph/script_parent_basemanager_1.md
+- [[Connections_21563]] - document - vault/Graph/script_parent_basemanager_2.md
+- [[Connections_21564]] - document - vault/Graph/script_parent_basemanager_3.md
+- [[Connections_21565]] - document - vault/Graph/script_parent_basemanager_4.md
+- [[Connections_21566]] - document - vault/Graph/script_parent_basemanager.md
+- [[Connections_21567]] - document - vault/Graph/script_parent_battleservice_1_1.md
+- [[Connections_21568]] - document - vault/Graph/script_parent_battleservice_1.md
+- [[Connections_21569]] - document - vault/Graph/script_parent_battleservice_2.md
+- [[Connections_21570]] - document - vault/Graph/script_parent_battleservice_3.md
+- [[Connections_21571]] - document - vault/Graph/script_parent_battleservice_4.md
+- [[Connections_21572]] - document - vault/Graph/script_parent_battleservice.md
+- [[Connections_21573]] - document - vault/Graph/script_parent_playerdata_1_1.md
+- [[Connections_21574]] - document - vault/Graph/script_parent_playerdata_1.md
+- [[Connections_21575]] - document - vault/Graph/script_parent_playerdata_2.md
+- [[Connections_21576]] - document - vault/Graph/script_parent_playerdata_3.md
+- [[Connections_21577]] - document - vault/Graph/script_parent_playerdata_4.md
+- [[Connections_21578]] - document - vault/Graph/script_parent_playerdata.md
+- [[Connections_21579]] - document - vault/Graph/script_parent_socialservice_1.md
+- [[Connections_21580]] - document - vault/Graph/script_parent_socialservice_3.md
+- [[Connections_21581]] - document - vault/Graph/script_parent_socialservice_4.md
+- [[Connections_21582]] - document - vault/Graph/script_parent_weeklyeventservice_1.md
+- [[Connections_21583]] - document - vault/Graph/script_parent_weeklyeventservice_3.md
+- [[Connections_21584]] - document - vault/Graph/script_parent_weeklyeventservice.md
+- [[Connections_21585]] - document - vault/Graph/Top bridge nodes_10_1.md
+- [[Connections_21586]] - document - vault/Graph/Top bridge nodes_249.md
+- [[Connections_21587]] - document - vault/Graph/Top bridge nodes_363.md
+- [[Connections to other communities_1441]] - document - vault/Graph/_COMMUNITY_Community 1334.md
+- [[Connections to other communities_1442]] - document - vault/Graph/_COMMUNITY_Community 148.md
+- [[Connections to other communities_1443]] - document - vault/Graph/_COMMUNITY_Community 567.md
+- [[Connections to other communities_1444]] - document - vault/Graph/_COMMUNITY_Community 639.md
+- [[Connections to other communities_1445]] - document - vault/Graph/_COMMUNITY_Community 705.md
+- [[Connections to other communities_1446]] - document - vault/Graph/Connections to other communities_249.md
+- [[Connections to other communities_1447]] - document - vault/Graph/Connections to other communities_364.md
+- [[Connections to other communities_249_1]] - document - vault/Graph/Connections to other communities_249.md
+- [[Connections to other communities_364_1]] - document - vault/Graph/Connections to other communities_364.md
+- [[Connections to other communities_9_2]] - document - vault/Graph/Connections to other communities_9_1.md
+- [[Connections to other communities_9_1_1]] - document - vault/Graph/Connections to other communities_9_1.md
+- [[Connections_4383_1]] - document - vault/Graph/Connections_4383.md
+- [[Connections_4384_1]] - document - vault/Graph/Connections_4384.md
+- [[Connections_4385_1]] - document - vault/Graph/Connections_4385.md
+- [[Connections_4386_1]] - document - vault/Graph/Connections_4386.md
+- [[Connections_4387_1]] - document - vault/Graph/Connections_4387.md
+- [[Live Query (requires Dataview plugin)_1692]] - document - vault/Graph/_COMMUNITY_Community 1334.md
+- [[Live Query (requires Dataview plugin)_1693]] - document - vault/Graph/_COMMUNITY_Community 148.md
+- [[Live Query (requires Dataview plugin)_1694]] - document - vault/Graph/_COMMUNITY_Community 567.md
+- [[Live Query (requires Dataview plugin)_1695]] - document - vault/Graph/_COMMUNITY_Community 639.md
+- [[Live Query (requires Dataview plugin)_1696]] - document - vault/Graph/_COMMUNITY_Community 705.md
+- [[Live Query (requires Dataview plugin)_1697]] - document - vault/Graph/Live Query (requires Dataview plugin)_338.md
+- [[Live Query (requires Dataview plugin)_1698]] - document - vault/Graph/Live Query (requires Dataview plugin)_460.md
+- [[Live Query (requires Dataview plugin)_338_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_338.md
+- [[Live Query (requires Dataview plugin)_460_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_460.md
+- [[Members_1692]] - document - vault/Graph/_COMMUNITY_Community 1334.md
+- [[Members_1693]] - document - vault/Graph/_COMMUNITY_Community 148.md
+- [[Members_1694]] - document - vault/Graph/_COMMUNITY_Community 567.md
+- [[Members_1695]] - document - vault/Graph/_COMMUNITY_Community 639.md
+- [[Members_1696]] - document - vault/Graph/_COMMUNITY_Community 705.md
+- [[Members_1697]] - document - vault/Graph/Members_342.md
+- [[Members_1698]] - document - vault/Graph/Members_462.md
+- [[Members_13_1_1]] - document - vault/Graph/Members_13_1.md
+- [[Members_13_1_2]] - document - vault/Graph/Members_13_1.md
+- [[Members_342_1]] - document - vault/Graph/Members_342.md
+- [[Members_462_1]] - document - vault/Graph/Members_462.md
+- [[Top bridge nodes_1438]] - document - vault/Graph/_COMMUNITY_Community 1334.md
+- [[Top bridge nodes_1439]] - document - vault/Graph/_COMMUNITY_Community 148.md
+- [[Top bridge nodes_1440]] - document - vault/Graph/_COMMUNITY_Community 567.md
+- [[Top bridge nodes_1441]] - document - vault/Graph/_COMMUNITY_Community 639.md
+- [[Top bridge nodes_1442]] - document - vault/Graph/_COMMUNITY_Community 705.md
+- [[Top bridge nodes_1443]] - document - vault/Graph/Top bridge nodes_249.md
+- [[Top bridge nodes_1444]] - document - vault/Graph/Top bridge nodes_363.md
+- [[Top bridge nodes_10_1_1]] - document - vault/Graph/Top bridge nodes_10_1.md
+- [[Top bridge nodes_10_1_2]] - document - vault/Graph/Top bridge nodes_10_1.md
+- [[Top bridge nodes_249_1]] - document - vault/Graph/Top bridge nodes_249.md
+- [[Top bridge nodes_363_1]] - document - vault/Graph/Top bridge nodes_363.md
+- [[_COMMUNITY_Community 1334]] - document - vault/Graph/_COMMUNITY_Community 1334.md
+- [[_COMMUNITY_Community 148]] - document - vault/Graph/_COMMUNITY_Community 148.md
+- [[_COMMUNITY_Community 567]] - document - vault/Graph/_COMMUNITY_Community 567.md
+- [[_COMMUNITY_Community 639]] - document - vault/Graph/_COMMUNITY_Community 639.md
+- [[_COMMUNITY_Community 705]] - document - vault/Graph/_COMMUNITY_Community 705.md
+- [[script_parent_basemanager_4]] - document - vault/Graph/script_parent_basemanager.md
+- [[script_parent_basemanager_6]] - document - vault/Graph/script_parent_basemanager_4.md
+- [[script_parent_basemanager_7]] - document - vault/Graph/script_parent_basemanager.md
+- [[script_parent_basemanager_1]] - document - vault/Graph/script_parent_basemanager_1.md
+- [[script_parent_basemanager_1_2]] - document - vault/Graph/script_parent_basemanager_1_1.md
+- [[script_parent_basemanager_1_3]] - document - vault/Graph/script_parent_basemanager_1.md
+- [[script_parent_basemanager_1_1]] - document - vault/Graph/script_parent_basemanager_1_1.md
+- [[script_parent_basemanager_2]] - document - vault/Graph/script_parent_basemanager_2.md
+- [[script_parent_basemanager_2_1]] - document - vault/Graph/script_parent_basemanager_2.md
+- [[script_parent_basemanager_3]] - document - vault/Graph/script_parent_basemanager_3.md
+- [[script_parent_basemanager_3_1]] - document - vault/Graph/script_parent_basemanager_3.md
+- [[script_parent_basemanager_4_1]] - document - vault/Graph/script_parent_basemanager_4.md
+- [[script_parent_battleservice_4]] - document - vault/Graph/script_parent_battleservice.md
+- [[script_parent_battleservice_6]] - document - vault/Graph/script_parent_battleservice_4.md
+- [[script_parent_battleservice_7]] - document - vault/Graph/script_parent_battleservice.md
+- [[script_parent_battleservice_1]] - document - vault/Graph/script_parent_battleservice_1.md
+- [[script_parent_battleservice_1_2]] - document - vault/Graph/script_parent_battleservice_1_1.md
+- [[script_parent_battleservice_1_3]] - document - vault/Graph/script_parent_battleservice_1.md
+- [[script_parent_battleservice_1_1]] - document - vault/Graph/script_parent_battleservice_1_1.md
+- [[script_parent_battleservice_2]] - document - vault/Graph/script_parent_battleservice_2.md
+- [[script_parent_battleservice_2_1]] - document - vault/Graph/script_parent_battleservice_2.md
+- [[script_parent_battleservice_3]] - document - vault/Graph/script_parent_battleservice_3.md
+- [[script_parent_battleservice_3_1]] - document - vault/Graph/script_parent_battleservice_3.md
+- [[script_parent_battleservice_4_1]] - document - vault/Graph/script_parent_battleservice_4.md
+- [[script_parent_playerdata_4]] - document - vault/Graph/script_parent_playerdata.md
+- [[script_parent_playerdata_6]] - document - vault/Graph/script_parent_playerdata_4.md
+- [[script_parent_playerdata_7]] - document - vault/Graph/script_parent_playerdata.md
+- [[script_parent_playerdata_1]] - document - vault/Graph/script_parent_playerdata_1.md
+- [[script_parent_playerdata_1_2]] - document - vault/Graph/script_parent_playerdata_1_1.md
+- [[script_parent_playerdata_1_3]] - document - vault/Graph/script_parent_playerdata_1.md
+- [[script_parent_playerdata_1_1]] - document - vault/Graph/script_parent_playerdata_1_1.md
+- [[script_parent_playerdata_2]] - document - vault/Graph/script_parent_playerdata_2.md
+- [[script_parent_playerdata_2_1]] - document - vault/Graph/script_parent_playerdata_2.md
+- [[script_parent_playerdata_3]] - document - vault/Graph/script_parent_playerdata_3.md
+- [[script_parent_playerdata_3_1]] - document - vault/Graph/script_parent_playerdata_3.md
+- [[script_parent_playerdata_4_1]] - document - vault/Graph/script_parent_playerdata_4.md
+- [[script_parent_socialservice_6]] - document - vault/Graph/script_parent_socialservice_3.md
+- [[script_parent_socialservice_7]] - document - vault/Graph/script_parent_socialservice_4.md
+- [[script_parent_socialservice_1_1]] - document - vault/Graph/script_parent_socialservice_1.md
+- [[script_parent_socialservice_1_2]] - document - vault/Graph/script_parent_socialservice_1.md
+- [[script_parent_socialservice_3]] - document - vault/Graph/script_parent_socialservice_3.md
+- [[script_parent_socialservice_4]] - document - vault/Graph/script_parent_socialservice_4.md
+- [[script_parent_weeklyeventservice_1]] - document - vault/Graph/script_parent_weeklyeventservice.md
+- [[script_parent_weeklyeventservice_6]] - document - vault/Graph/script_parent_weeklyeventservice_3.md
+- [[script_parent_weeklyeventservice_7]] - document - vault/Graph/script_parent_weeklyeventservice.md
+- [[script_parent_weeklyeventservice_1_1]] - document - vault/Graph/script_parent_weeklyeventservice_1.md
+- [[script_parent_weeklyeventservice_1_2]] - document - vault/Graph/script_parent_weeklyeventservice_1.md
+- [[script_parent_weeklyeventservice_3]] - document - vault/Graph/script_parent_weeklyeventservice_3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +176,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 134]]
+- 24 edges to [[_COMMUNITY_Community 168]]
+- 4 edges to [[_COMMUNITY_Community 97]]
+- 3 edges to [[_COMMUNITY_Community 33]]
+- 2 edges to [[_COMMUNITY_Community 276]]
+- 1 edge to [[_COMMUNITY_Community 134]]
+- 1 edge to [[_COMMUNITY_Community 2277]]
+- 1 edge to [[_COMMUNITY_Community 3569]]
+- 1 edge to [[_COMMUNITY_Community 819]]
+- 1 edge to [[_COMMUNITY_Community 88]]
 
 ## Top bridge nodes
-- [[Connections_1049_1]] - degree 3, connects to 1 community
-- [[Connections_1050_1]] - degree 3, connects to 1 community
+- [[script_parent_basemanager_4_1]] - degree 7, connects to 4 communities
+- [[_COMMUNITY_Community 567]] - degree 11, connects to 3 communities
+- [[script_parent_battleservice_4_1]] - degree 6, connects to 3 communities
+- [[script_parent_playerdata_4_1]] - degree 6, connects to 3 communities
+- [[_COMMUNITY_Community 148]] - degree 25, connects to 2 communities

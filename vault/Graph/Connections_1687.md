@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/resolveModels()_1.md"
+source_file: "vault/Graph/Top bridge nodes_95.md"
 type: "document"
-community: "Community 138"
+community: "Community 1098"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_1098
 ---
 
 # Connections
 
 ## Connections
-- [[resolveModels()_3]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_113]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_1098

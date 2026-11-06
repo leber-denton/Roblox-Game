@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[_COMMUNITY_Community 79]] - `references` [EXTRACTED]
 - [[find()_3]] - `references` [EXTRACTED]
-- [[orient()_6]] - `contains` [EXTRACTED]
+- [[orient()_8]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_190

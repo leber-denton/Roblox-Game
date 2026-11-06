@@ -1,20 +1,24 @@
 ---
-source_file: "vault/Graph/Requires_32_1.md"
+source_file: "vault/Graph/Requires_32.md"
 type: "document"
-community: "Community 126"
+community: "Community 1346"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_126
+  - community/Community_1346
 ---
 
-# Requires_32_1.md
+# Requires_32.md
 
 ## Connections
-- [[Connections_924_1]] - `references` [EXTRACTED]
-- [[Requires_32_2]] - `contains` [EXTRACTED]
-- [[Requires_32]] - `references` [EXTRACTED]
+- [[EventHUD_1_1]] - `references` [EXTRACTED]
+- [[Requires_32_5]] - `contains` [EXTRACTED]
+- [[Requires_32_1_1]] - `references` [EXTRACTED]
+- [[Requires_32_2]] - `references` [EXTRACTED]
+- [[Requires_32_3]] - `references` [EXTRACTED]
+- [[Requires_8_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 126]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 53]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_126
+#graphify/document #graphify/EXTRACTED #community/Community_1346

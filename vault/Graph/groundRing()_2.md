@@ -12,9 +12,10 @@ tags:
 # groundRing()_2.md
 
 ## Connections
-- [[Connections_719_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[groundRing()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
 - [[groundRing()_1]] - `references` [EXTRACTED]
+- [[groundRing()_2_1]] - `contains` [EXTRACTED]
+- [[groundRing()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_18

@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/commands.items()_2.md"
+source_file: "vault/Graph/commands.items()_6.md"
 type: "document"
 community: "Community 168"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_168
 ---
 
-# commands.items()_2.md
+# commands.items()
 
 ## Connections
-- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
-- [[commands.items()_4]] - `contains` [EXTRACTED]
-- [[commands.items()_1]] - `references` [EXTRACTED]
+- [[Connections_9474]] - `contains` [EXTRACTED]
+- [[commands.items()_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

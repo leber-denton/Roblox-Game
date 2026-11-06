@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/showReveal().md"
+source_file: "vault/Graph/showReveal()_1.md"
 type: "document"
-community: "Community 106"
+community: "Community 174"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_106
+  - community/Community_174
 ---
 
-# showReveal().md
+# showReveal()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[preview()_3]] - `references` [EXTRACTED]
-- [[showReveal()_2]] - `contains` [EXTRACTED]
-- [[tabs.Crates()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 174]] - `references` [EXTRACTED]
+- [[showReveal()_1_2]] - `contains` [EXTRACTED]
+- [[showReveal()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_106
+#graphify/document #graphify/EXTRACTED #community/Community_174

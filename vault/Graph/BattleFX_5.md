@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/BattleFX_3.md"
+source_file: "vault/Graph/BattleFX_5.md"
 type: "document"
 community: "Community 557"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_557
 ---
 
-# BattleFX
+# BattleFX_5.md
 
 ## Connections
-- [[BattleFX_3]] - `contains` [EXTRACTED]
-- [[Connections_4666]] - `contains` [EXTRACTED]
+- [[BattleFX_8]] - `contains` [EXTRACTED]
+- [[BattleFX_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 557]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_557

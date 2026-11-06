@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[ColiseumService.init()]] - `calls` [EXTRACTED]
-- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
-- [[Functions_130]] - `references` [INFERRED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
+- [[Functions_211]] - `references` [INFERRED]
 - [[PlayerData.addItem()]] - `calls` [INFERRED]
 - [[PlayerData.spendBP()]] - `calls` [INFERRED]
 - [[SaveService.requestSave()]] - `calls` [INFERRED]

@@ -1,27 +1,20 @@
 ---
-source_file: "vault/Graph/LeagueService.init().md"
+source_file: "vault/Graph/LeagueService.init()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
-# LeagueService.init().md
+# LeagueService.init()_4.md
 
 ## Connections
-- [[BattleService.onEnded()_5]] - `references` [EXTRACTED]
-- [[LeagueService.init()_5]] - `contains` [EXTRACTED]
-- [[LeagueService.luau_4]] - `references` [EXTRACTED]
-- [[NPC.say()_4]] - `references` [EXTRACTED]
-- [[PlayerData.addItem()_4]] - `references` [EXTRACTED]
-- [[PlayerData.addStat()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[itemList()_4]] - `references` [EXTRACTED]
-- [[reset()_4]] - `references` [EXTRACTED]
-- [[setup()_6]] - `references` [EXTRACTED]
-- [[wins()_4]] - `references` [EXTRACTED]
+- [[Connections_4829_1]] - `references` [EXTRACTED]
+- [[LeagueService.init()_6]] - `contains` [EXTRACTED]
+- [[LeagueService.init()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

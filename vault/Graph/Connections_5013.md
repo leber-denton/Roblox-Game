@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Graph/CreatureLife.md"
+source_file: "vault/Graph/Connections_5013.md"
 type: "document"
-community: "Community 674"
-location: "L14"
+community: "Community 1130"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_674
+  - community/Community_1130
 ---
 
-# Connections
+# Connections_5013.md
 
 ## Connections
-- [[CreatureLife_4]] - `contains` [EXTRACTED]
+- [[Connections_1640_1]] - `references` [EXTRACTED]
+- [[Connections_5013_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1130]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 674]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_674
+#graphify/document #graphify/EXTRACTED #community/Community_1130

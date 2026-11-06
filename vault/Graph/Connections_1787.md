@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/TrainerAnimations.luau_1.md"
+source_file: "vault/Graph/Connections to other communities_100.md"
 type: "document"
-community: "Community 143"
+community: "Community 1100"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_143
+  - community/Community_1100
 ---
 
 # Connections
 
 ## Connections
-- [[TrainerAnimations.luau]] - `contains` [EXTRACTED]
+- [[Connections to other communities_126]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_143
+#graphify/document #graphify/EXTRACTED #community/Community_1100

@@ -1,26 +1,18 @@
 ---
-source_file: "vault/Graph/commands.maxTeam()_1.md"
+source_file: "vault/Graph/commands.maxTeam()_3.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 2116"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_2116
 ---
 
-# commands.maxTeam()_1.md
+# commands.maxTeam()
 
 ## Connections
-- [[AdminService.luau]] - `references` [EXTRACTED]
-- [[BaseManager.getTeam()_1]] - `references` [EXTRACTED]
-- [[BaseManager.refresh()_1]] - `references` [EXTRACTED]
-- [[BattleData.applyStars()_1]] - `references` [EXTRACTED]
-- [[BattleData.xpForLevel()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
-- [[commands.maxTeam()_1_1]] - `contains` [EXTRACTED]
-- [[commands.maxTeam()_2]] - `references` [EXTRACTED]
+- [[Connections_12501]] - `contains` [EXTRACTED]
+- [[commands.maxTeam()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_2116

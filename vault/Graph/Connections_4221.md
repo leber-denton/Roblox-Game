@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/GameData.battleItemOrder()_1.md"
+source_file: "vault/Graph/Connections_3002.md"
 type: "document"
-community: "Community 419"
-location: "L14"
+community: "Community 1235"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_419
+  - community/Community_1235
 ---
 
 # Connections
 
 ## Connections
-- [[GameData.battleItemOrder()_3]] - `contains` [EXTRACTED]
+- [[Connections_4222]] - `contains` [EXTRACTED]
+- [[Connections_3002_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_419
+#graphify/document #graphify/EXTRACTED #community/Community_1235

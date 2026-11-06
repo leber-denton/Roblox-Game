@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.isExpansionUnlocked()_1.md"
+source_file: "vault/Graph/BaseManager.isExpansionUnlocked()_3.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 2741"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_2741
 ---
 
-# BaseManager.isExpansionUnlocked()_1.md
+# BaseManager.isExpansionUnlocked().md
 
 ## Connections
-- [[BaseManager.isExpansionUnlocked()_1_1]] - `contains` [EXTRACTED]
-- [[BaseManager.isExpansionUnlocked()_2]] - `references` [EXTRACTED]
-- [[BaseManager.luau_1]] - `references` [EXTRACTED]
-- [[BaseManager.recalcCapacity()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
-- [[canPlace()_1_1]] - `references` [EXTRACTED]
+- [[BaseManager.isExpansionUnlocked()_3]] - `contains` [EXTRACTED]
+- [[Connections_15242]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_2741

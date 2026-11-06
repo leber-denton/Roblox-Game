@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/TrainerAnimationsplay()_1.md"
+source_file: "vault/Graph/Connections_2724.md"
 type: "document"
-community: "Community 773"
+community: "Community 1306"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_773
+  - community/Community_1306
 ---
 
 # Connections
 
 ## Connections
-- [[TrainerAnimationsplay()_3]] - `contains` [EXTRACTED]
+- [[Connections_5355]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_773
+#graphify/document #graphify/EXTRACTED #community/Community_1306

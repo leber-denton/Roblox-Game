@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/spawnPlaced().md"
+source_file: "vault/Graph/spawnPlaced()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2316"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2316
 ---
 
-# spawnPlaced()
+# spawnPlaced()_4.md
 
 ## Connections
-- [[Connections_5865]] - `contains` [EXTRACTED]
-- [[spawnPlaced()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[spawnPlaced()_3]] - `references` [EXTRACTED]
+- [[spawnPlaced()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2316

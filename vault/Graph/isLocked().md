@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[FirstSpawnLock.client.luau]] - `contains` [EXTRACTED]
-- [[Functions_125]] - `references` [INFERRED]
+- [[Functions_196]] - `references` [INFERRED]
 - [[lockPrompt()]] - `calls` [EXTRACTED]
-- [[update()_1]] - `calls` [EXTRACTED]
+- [[update()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_35

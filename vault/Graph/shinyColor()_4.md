@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/shinyColor()_2.md"
+source_file: "vault/Graph/shinyColor()_4.md"
 type: "document"
-community: "Community 176"
-location: "L12"
+community: "Community 680"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_176
+  - community/Community_680
 ---
 
-# shinyColor()
+# shinyColor()_4.md
 
 ## Connections
-- [[Connections_2585]] - `contains` [EXTRACTED]
-- [[shinyColor()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_4354_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
+- [[shinyColor()_6]] - `contains` [EXTRACTED]
+- [[shinyColor()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_176
+#graphify/document #graphify/EXTRACTED #community/Community_680

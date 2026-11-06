@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/game_serverscriptservice_modules_wildspawner_2.md"
+source_file: "vault/Graph/game_serverscriptservice_modules_wildspawner_3.md"
 type: "document"
-community: "Community 448"
-location: "L12"
+community: "Community 413"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_448
+  - community/Community_413
 ---
 
-# game_serverscriptservice_modules_wildspawner.md
+# game_serverscriptservice_modules_wildspawner_3.md
 
 ## Connections
-- [[Connections_4296]] - `contains` [EXTRACTED]
-- [[game_serverscriptservice_modules_wildspawner_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 448]] - `references` [EXTRACTED]
+- [[game_serverscriptservice_modules_wildspawner_2]] - `references` [EXTRACTED]
+- [[game_serverscriptservice_modules_wildspawner_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_448
+#graphify/document #graphify/EXTRACTED #community/Community_413

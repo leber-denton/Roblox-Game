@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/typesOf().md"
+source_file: "vault/Graph/typesOf()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2334"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2334
 ---
 
-# typesOf().md
+# typesOf()_3.md
 
 ## Connections
-- [[ProgressService.init()_4]] - `references` [EXTRACTED]
-- [[ProgressService.luau_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[typesOf()_4]] - `contains` [EXTRACTED]
+- [[typesOf()_5]] - `contains` [EXTRACTED]
+- [[typesOf()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2334

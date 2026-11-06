@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/bankCap()_2.md"
+source_file: "vault/Graph/Connections_3728.md"
 type: "document"
-community: "Community 75"
-location: "L14"
+community: "Community 1297"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_75
+  - community/Community_1297
 ---
 
 # Connections
 
 ## Connections
-- [[bankCap()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_5259]] - `contains` [EXTRACTED]
+- [[Connections_3728_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_75
+#graphify/document #graphify/EXTRACTED #community/Community_1297

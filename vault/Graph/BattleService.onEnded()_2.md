@@ -12,8 +12,10 @@ tags:
 # BattleService.onEnded()_2.md
 
 ## Connections
-- [[BattleService.onEnded()_4]] - `contains` [EXTRACTED]
 - [[BattleService.onEnded()_1]] - `references` [EXTRACTED]
+- [[BattleService.onEnded()_2_1]] - `contains` [EXTRACTED]
+- [[BattleService.onEnded()_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

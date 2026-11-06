@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/commands.coins()_1.md"
+source_file: "vault/Graph/commands.coins()_5.md"
 type: "document"
 community: "Community 168"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_168
 ---
 
-# commands.coins()_1.md
+# commands.coins().md
 
 ## Connections
-- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
-- [[commands.coins()_3]] - `contains` [EXTRACTED]
-- [[commands.coins()_2]] - `references` [EXTRACTED]
+- [[Connections_9465]] - `contains` [EXTRACTED]
+- [[commands.coins()_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

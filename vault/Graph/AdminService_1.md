@@ -12,12 +12,13 @@ tags:
 # AdminService_1.md
 
 ## Connections
-- [[AdminService_1_3]] - `contains` [EXTRACTED]
+- [[AdminService_1_4]] - `contains` [EXTRACTED]
 - [[AdminService_1_1]] - `references` [EXTRACTED]
+- [[AdminService_1_2]] - `references` [EXTRACTED]
+- [[AdminService_1_3_1]] - `references` [EXTRACTED]
 - [[Functions_39_1]] - `references` [EXTRACTED]
 - [[GraphAdminService]] - `references` [EXTRACTED]
-- [[Required by_39_1]] - `references` [EXTRACTED]
-- [[Requires_39]] - `references` [EXTRACTED]
+- [[Requires_39_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 145]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 63]] - `references` [EXTRACTED]
 

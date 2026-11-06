@@ -1,25 +1,19 @@
 ---
 type: community
-members: 12
+members: 6
 ---
 
 # Community 516
 
-**Members:** 12 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_4511]] - document - vault/Graph/Connections_895.md
-- [[Connections_4512]] - document - vault/Graph/Connections_895.md
-- [[Connections_4513]] - document - vault/Graph/Functions_15.md
-- [[Connections_4514]] - document - vault/Graph/Functions_8_1.md
-- [[Connections_4515]] - document - vault/Graph/Functions_9_1.md
-- [[Connections_895_1]] - document - vault/Graph/Connections_895.md
-- [[Functions_151]] - document - vault/Graph/Functions_15.md
-- [[Functions_15_1]] - document - vault/Graph/Functions_15.md
-- [[Functions_8_1]] - document - vault/Graph/Functions_8_1.md
-- [[Functions_8_1_1]] - document - vault/Graph/Functions_8_1.md
-- [[Functions_9_2]] - document - vault/Graph/Functions_9_1.md
-- [[Functions_9_1]] - document - vault/Graph/Functions_9_1.md
+- [[Connections_20366]] - document - vault/Graph/Connections_4511.md
+- [[Connections_20367]] - document - vault/Graph/Connections_4511.md
+- [[Connections_20368]] - document - vault/Graph/Connections_4512.md
+- [[Connections_20369]] - document - vault/Graph/Connections_4512.md
+- [[Connections_4511_1]] - document - vault/Graph/Connections_4511.md
+- [[Connections_4512_1]] - document - vault/Graph/Connections_4512.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,11 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 669]]
-- 1 edge to [[_COMMUNITY_Community 675]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[Functions_8_1]] - degree 4, connects to 2 communities
-- [[Functions_9_1]] - degree 4, connects to 1 community
-- [[Functions_15_1]] - degree 4, connects to 1 community
-- [[Connections_895_1]] - degree 3, connects to 1 community
+- [[Connections_4511_1]] - degree 3, connects to 1 community
+- [[Connections_4512_1]] - degree 3, connects to 1 community

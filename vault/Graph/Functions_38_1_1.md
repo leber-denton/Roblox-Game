@@ -1,22 +1,18 @@
 ---
 source_file: "vault/Graph/Functions_38_1.md"
 type: "document"
-community: "Community 217"
-location: "L1"
+community: "Community 1666"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_217
+  - community/Community_1666
 ---
 
 # Functions_38_1.md
 
 ## Connections
-- [[Functions_16_1]] - `references` [EXTRACTED]
-- [[Functions_38_2]] - `contains` [EXTRACTED]
-- [[TrainerAnimations_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 132]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 230]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 59]] - `references` [EXTRACTED]
+- [[Connections_9325]] - `contains` [EXTRACTED]
+- [[Functions_38_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_217
+#graphify/document #graphify/EXTRACTED #community/Community_1666

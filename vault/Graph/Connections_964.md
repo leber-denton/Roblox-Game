@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/Connections_964.md"
+source_file: "vault/Graph/Connections_1049.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 1061"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1061
 ---
 
-# Connections_964.md
+# Connections
 
 ## Connections
-- [[BattleData.applyStars()_2]] - `references` [EXTRACTED]
-- [[Connections_630_1]] - `references` [EXTRACTED]
-- [[Connections_964_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[Connections_965]] - `contains` [EXTRACTED]
+- [[Connections_1049]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1061

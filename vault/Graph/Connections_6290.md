@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Graph/Required by_112.md"
+source_file: "vault/Graph/Connections_6290.md"
 type: "document"
-community: "Community 964"
-location: "L14"
+community: "Community 1021"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_964
+  - community/Community_1021
 ---
 
-# Connections
+# Connections_6290.md
 
 ## Connections
-- [[Required by_112_2]] - `contains` [EXTRACTED]
+- [[Connections_292]] - `contains` [EXTRACTED]
+- [[Connections_6289]] - `references` [EXTRACTED]
+- [[Required by_112_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_964
+#graphify/document #graphify/EXTRACTED #community/Community_1021

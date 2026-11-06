@@ -1,42 +1,28 @@
 ---
 type: community
-members: 30
+members: 16
 ---
 
 # Community 208
 
-**Members:** 30 nodes
+**Members:** 16 nodes
 
 ## Members
-- [[Community 208]] - document - vault/Graph/_COMMUNITY_Community 208.md
-- [[Connections_3031]] - document - vault/Graph/Connections to other communities_51.md
-- [[Connections_3032]] - document - vault/Graph/GraphPassService.md
-- [[Connections_3033]] - document - vault/Graph/Live Query (requires Dataview plugin)_62.md
-- [[Connections_3034]] - document - vault/Graph/Members_61.md
-- [[Connections_3035]] - document - vault/Graph/PassService_1_1.md
-- [[Connections_3036]] - document - vault/Graph/PassService_1.md
-- [[Connections_3037]] - document - vault/Graph/PassService.md
-- [[Connections_3038]] - document - vault/Graph/Top bridge nodes_52.md
-- [[Connections to other communities_167]] - document - vault/Graph/_COMMUNITY_Community 208.md
-- [[Connections to other communities_168]] - document - vault/Graph/Connections to other communities_51.md
-- [[Connections to other communities_51_1]] - document - vault/Graph/Connections to other communities_51.md
-- [[GraphPassService_1]] - document - vault/Graph/PassService.md
+- [[Connections_12309]] - document - vault/Graph/GraphPassService_2.md
+- [[Connections_12310]] - document - vault/Graph/GraphPassService.md
+- [[Connections_12311]] - document - vault/Graph/PassService_1_1.md
+- [[Connections_12312]] - document - vault/Graph/PassService_1_2.md
+- [[Connections_12313]] - document - vault/Graph/PassService_1.md
 - [[GraphPassService]] - document - vault/Graph/GraphPassService.md
-- [[GraphPassService_2]] - document - vault/Graph/GraphPassService.md
-- [[Live Query (requires Dataview plugin)_178]] - document - vault/Graph/_COMMUNITY_Community 208.md
-- [[Live Query (requires Dataview plugin)_179]] - document - vault/Graph/Live Query (requires Dataview plugin)_62.md
-- [[Live Query (requires Dataview plugin)_62_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_62.md
-- [[Members_181]] - document - vault/Graph/_COMMUNITY_Community 208.md
-- [[Members_182]] - document - vault/Graph/Members_61.md
-- [[Members_61_1]] - document - vault/Graph/Members_61.md
-- [[PassService_2]] - document - vault/Graph/PassService.md
+- [[GraphPassService_1]] - document - vault/Graph/GraphPassService.md
+- [[GraphPassService_2]] - document - vault/Graph/GraphPassService_2.md
+- [[GraphPassService_2_1]] - document - vault/Graph/GraphPassService_2.md
 - [[PassService_1]] - document - vault/Graph/PassService_1.md
-- [[PassService_1_2]] - document - vault/Graph/PassService_1_1.md
-- [[PassService_1_3]] - document - vault/Graph/PassService_1.md
+- [[PassService_1_3]] - document - vault/Graph/PassService_1_2.md
+- [[PassService_1_4]] - document - vault/Graph/PassService_1.md
 - [[PassService_1_1]] - document - vault/Graph/PassService_1_1.md
-- [[Top bridge nodes_173]] - document - vault/Graph/_COMMUNITY_Community 208.md
-- [[Top bridge nodes_174]] - document - vault/Graph/Top bridge nodes_52.md
-- [[Top bridge nodes_52_1]] - document - vault/Graph/Top bridge nodes_52.md
+- [[PassService_1_1_1]] - document - vault/Graph/PassService_1_1.md
+- [[PassService_1_2]] - document - vault/Graph/PassService_1_2.md
 - [[_COMMUNITY_Community 208]] - document - vault/Graph/_COMMUNITY_Community 208.md
 
 ## Live Query (requires Dataview plugin)
@@ -47,8 +33,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 292]]
+- 2 edges to [[_COMMUNITY_Community 577]]
+- 1 edge to [[_COMMUNITY_Community 3558]]
+- 1 edge to [[_COMMUNITY_Community 2547]]
+- 1 edge to [[_COMMUNITY_Community 2377]]
+- 1 edge to [[_COMMUNITY_Community 3116]]
+- 1 edge to [[_COMMUNITY_Community 2694]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 208]] - degree 11, connects to 1 community
-- [[PassService_1]] - degree 5, connects to 1 community
+- [[_COMMUNITY_Community 208]] - degree 9, connects to 4 communities
+- [[PassService_1]] - degree 7, connects to 2 communities
+- [[GraphPassService_2]] - degree 4, connects to 1 community

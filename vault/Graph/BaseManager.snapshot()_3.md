@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.snapshot().md"
+source_file: "vault/Graph/BaseManager.snapshot()_3.md"
 type: "document"
-community: "Community 352"
-location: "L12"
+community: "Community 625"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_352
+  - community/Community_625
 ---
 
-# BaseManager.snapshot()
+# BaseManager.snapshot()_3.md
 
 ## Connections
-- [[BaseManager.snapshot()_1]] - `contains` [EXTRACTED]
-- [[Connections_4052]] - `contains` [EXTRACTED]
+- [[BaseManager.snapshot()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 548]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_352
+#graphify/document #graphify/EXTRACTED #community/Community_625

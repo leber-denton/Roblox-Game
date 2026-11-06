@@ -1,23 +1,20 @@
 ---
-source_file: "vault/Graph/rivalChallenge().md"
+source_file: "vault/Graph/rivalChallenge()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2100"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2100
 ---
 
-# rivalChallenge().md
+# rivalChallenge()_3.md
 
 ## Connections
-- [[NPC.say()_4]] - `references` [EXTRACTED]
-- [[TutorialService.init()_3]] - `references` [EXTRACTED]
-- [[TutorialService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
-- [[dialogue()_3]] - `references` [EXTRACTED]
-- [[playerStarter()_3]] - `references` [EXTRACTED]
-- [[rivalChallenge()_4]] - `contains` [EXTRACTED]
+- [[Connections_2656_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1213]] - `references` [EXTRACTED]
+- [[rivalChallenge()_1]] - `contains` [EXTRACTED]
+- [[rivalChallenge()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2100

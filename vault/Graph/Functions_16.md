@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_105.md"
+source_file: "vault/Code/Regions.md"
 type: "document"
-community: "Community 1270"
-location: "L12"
+community: "Community 1107"
+location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1270
+  - community/Community_1107
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_1326]] - `contains` [EXTRACTED]
-- [[Functions_105]] - `contains` [EXTRACTED]
+- [[Regions]] - `contains` [EXTRACTED]
+- [[applyAll()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1270
+#graphify/document #graphify/EXTRACTED #community/Community_1107

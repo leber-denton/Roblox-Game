@@ -1,20 +1,20 @@
 ---
 source_file: "vault/Graph/typeText()_2.md"
 type: "document"
-community: "Community 348"
+community: "Community 138"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_348
+  - community/Community_138
 ---
 
 # typeText()_2.md
 
 ## Connections
-- [[Connections_761_1]] - `references` [EXTRACTED]
+- [[Connections_2512_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
 - [[typeText()_4]] - `contains` [EXTRACTED]
 - [[typeText()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_348
+#graphify/document #graphify/EXTRACTED #community/Community_138

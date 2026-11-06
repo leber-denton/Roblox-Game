@@ -1,18 +1,23 @@
 ---
-source_file: "vault/Graph/processReceipt()_1.md"
+source_file: "vault/Graph/processReceipt()_1_1.md"
 type: "document"
-community: "Community 75"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_75
+  - community/Community_168
 ---
 
-# processReceipt()_1.md
+# processReceipt()_1_1.md
 
 ## Connections
-- [[Connections_5267]] - `contains` [EXTRACTED]
+- [[SaveService.save()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 101]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 75]] - `references` [EXTRACTED]
+- [[giveProduct()_1_1]] - `references` [EXTRACTED]
 - [[processReceipt()_1]] - `contains` [EXTRACTED]
+- [[processReceipt()_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_75
+#graphify/document #graphify/EXTRACTED #community/Community_168

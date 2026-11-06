@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_7.md"
+source_file: "vault/Code/BaseManager.md"
 type: "document"
-community: "Community 240"
-location: "L12"
+community: "Community 16"
+location: "L26"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_16
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_3395]] - `contains` [EXTRACTED]
-- [[Functions_7_1]] - `contains` [EXTRACTED]
+- [[BaseManager]] - `contains` [EXTRACTED]
+- [[sortedBases()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_16

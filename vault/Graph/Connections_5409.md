@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/BattleFX.statusMove()_2.md"
+source_file: "vault/Graph/Connections_3907.md"
 type: "document"
-community: "Community 790"
-location: "L14"
+community: "Community 131"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_790
+  - community/Community_131
 ---
 
 # Connections
 
 ## Connections
-- [[BattleFX.statusMove()_4]] - `contains` [EXTRACTED]
+- [[Connections_5410]] - `contains` [EXTRACTED]
+- [[Connections_3907_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_790
+#graphify/document #graphify/EXTRACTED #community/Community_131

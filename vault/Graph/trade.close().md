@@ -12,6 +12,6 @@ tags:
 # trade.close()
 
 ## Connections
-- [[Menus.client.luau_4]] - `contains` [EXTRACTED]
+- [[Menus.client.luau_8]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_418

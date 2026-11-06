@@ -1,22 +1,32 @@
 ---
 type: community
-members: 9
+members: 19
 ---
 
 # Community 367
 
-**Members:** 9 nodes
+**Members:** 19 nodes
 
 ## Members
-- [[Connections_4087]] - document - vault/Graph/Connections_1098.md
-- [[Connections_4088]] - document - vault/Graph/Connections_1098.md
-- [[Connections_4089]] - document - vault/Graph/Features.antennae()_1.md
-- [[Connections_4090]] - document - vault/Graph/Features.antennae()_2.md
-- [[Connections_1098_1]] - document - vault/Graph/Connections_1098.md
-- [[Features.antennae()_4]] - document - vault/Graph/Features.antennae()_2.md
-- [[Features.antennae()_3]] - document - vault/Graph/Features.antennae()_1.md
-- [[Features.antennae()_1_1]] - document - vault/Graph/Features.antennae()_1.md
-- [[Features.antennae()_2_1]] - document - vault/Graph/Features.antennae()_2.md
+- [[Community 1202]] - document - vault/Graph/_COMMUNITY_Community 1202.md
+- [[Connections_18108]] - document - vault/Graph/Connections_1098_1.md
+- [[Connections_18109]] - document - vault/Graph/Connections_2523.md
+- [[Connections_18110]] - document - vault/Graph/Connections_2523.md
+- [[Connections_18111]] - document - vault/Graph/Connections_2524.md
+- [[Connections_18112]] - document - vault/Graph/Connections_2524.md
+- [[Connections_18113]] - document - vault/Graph/Connections_2525.md
+- [[Connections_18114]] - document - vault/Graph/Connections_2525.md
+- [[Connections_18115]] - document - vault/Graph/Connections_543_1.md
+- [[Connections_1098_2]] - document - vault/Graph/Connections_1098_1.md
+- [[Connections_1098_1_1]] - document - vault/Graph/Connections_1098_1.md
+- [[Connections_2523_1]] - document - vault/Graph/Connections_2523.md
+- [[Connections_2524_1]] - document - vault/Graph/Connections_2524.md
+- [[Connections_2525_1]] - document - vault/Graph/Connections_2525.md
+- [[Connections_543_2]] - document - vault/Graph/Connections_543_1.md
+- [[Connections_543_1_1]] - document - vault/Graph/Connections_543_1.md
+- [[Live Query (requires Dataview plugin)_1441]] - document - vault/Graph/_COMMUNITY_Community 1202.md
+- [[Members_1444]] - document - vault/Graph/_COMMUNITY_Community 1202.md
+- [[_COMMUNITY_Community 1202]] - document - vault/Graph/_COMMUNITY_Community 1202.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,12 +36,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 151]]
-- 1 edge to [[_COMMUNITY_Community 137]]
-- 1 edge to [[_COMMUNITY_Community 139]]
-- 1 edge to [[_COMMUNITY_Community 176]]
+- 2 edges to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 330]]
+- 1 edge to [[_COMMUNITY_Community 75]]
 
 ## Top bridge nodes
-- [[Features.antennae()_1_1]] - degree 6, connects to 4 communities
-- [[Features.antennae()_2_1]] - degree 4, connects to 1 community
-- [[Connections_1098_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 1202]] - degree 8, connects to 2 communities
+- [[Connections_543_1_1]] - degree 4, connects to 1 community
+- [[Connections_1098_1_1]] - degree 3, connects to 1 community

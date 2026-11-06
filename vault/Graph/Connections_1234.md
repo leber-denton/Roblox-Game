@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_596.md"
+source_file: "vault/Graph/atBadge()_2_1.md"
 type: "document"
-community: "Community 1233"
-location: "L12"
+community: "Community 1075"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1233
+  - community/Community_1075
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_1235]] - `contains` [EXTRACTED]
-- [[Connections_596_1]] - `contains` [EXTRACTED]
+- [[atBadge()_2_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1233
+#graphify/document #graphify/EXTRACTED #community/Community_1075

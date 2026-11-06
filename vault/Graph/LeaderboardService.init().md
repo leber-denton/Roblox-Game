@@ -12,7 +12,7 @@ tags:
 # LeaderboardService.init()
 
 ## Connections
-- [[LeaderboardService.luau_5]] - `contains` [EXTRACTED]
+- [[LeaderboardService.luau_8]] - `contains` [EXTRACTED]
 - [[LeaderboardService.refresh()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_687

@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_959.md"
+source_file: "vault/Graph/label()_7.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 1060"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1060
 ---
 
-# Connections_959.md
+# Connections
 
 ## Connections
-- [[BaseManager.release()_2]] - `references` [EXTRACTED]
-- [[Connections_316_1]] - `references` [EXTRACTED]
-- [[Connections_959_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[label()_7_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1060

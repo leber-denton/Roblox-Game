@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.rollIVs().md"
+source_file: "vault/Graph/BattleData.rollIVs()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 3067"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3067
 ---
 
-# BattleData.rollIVs().md
+# BattleData.rollIVs()_3.md
 
 ## Connections
-- [[BattleData.applyStars()_3]] - `references` [EXTRACTED]
-- [[BattleData.luau_3]] - `references` [EXTRACTED]
-- [[BattleData.rollIVs()_4]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[BattleData.rollIVs()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3067

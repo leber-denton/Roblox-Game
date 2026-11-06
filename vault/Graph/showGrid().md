@@ -12,12 +12,12 @@ tags:
 # showGrid()
 
 ## Connections
-- [[CreatureIndex.client.luau_5]] - `contains` [EXTRACTED]
-- [[Functions_136]] - `references` [INFERRED]
+- [[CreatureIndex.client.luau_8]] - `contains` [EXTRACTED]
+- [[Functions_213]] - `references` [INFERRED]
 - [[clearBody()]] - `calls` [EXTRACTED]
 - [[getIndex()]] - `calls` [EXTRACTED]
-- [[label()_3]] - `calls` [EXTRACTED]
-- [[new()_6]] - `calls` [EXTRACTED]
+- [[label()_2]] - `calls` [EXTRACTED]
+- [[new()_5]] - `calls` [EXTRACTED]
 - [[preview()_1]] - `calls` [EXTRACTED]
 - [[setOpen()_1]] - `calls` [EXTRACTED]
 - [[showDetail()_1]] - `calls` [EXTRACTED]

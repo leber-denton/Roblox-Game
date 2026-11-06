@@ -1,35 +1,63 @@
 ---
 type: community
-members: 24
+members: 52
 ---
 
 # Community 140
 
-**Members:** 24 nodes
+**Members:** 52 nodes
 
 ## Members
-- [[Connections_1729]] - document - vault/Graph/check()_2.md
-- [[Connections_1730]] - document - vault/Graph/ModelSyncTests.luau_1.md
-- [[Connections_1731]] - document - vault/Graph/near().md
-- [[Connections_1732]] - document - vault/Graph/pivotOf().md
-- [[Connections_1733]] - document - vault/Graph/sameCF().md
-- [[Connections_1734]] - document - vault/Graph/scaleOf().md
-- [[Connections_1735]] - document - vault/Graph/snapshotReal().md
-- [[Connections_1736]] - document - vault/Graph/Tests.run().md
-- [[ModelSyncTests.luau]] - document - vault/Graph/ModelSyncTests.luau_1.md
-- [[ModelSyncTests.luau_1]] - document - vault/Graph/ModelSyncTests.luau_1.md
-- [[Tests.run()_4]] - document - vault/Graph/Tests.run().md
+- [[Community 5_4]] - document - vault/Graph/_COMMUNITY_Community 5.md
+- [[Connections_7026]] - document - vault/Graph/check()_2.md
+- [[Connections_7027]] - document - vault/Graph/Connections_5645.md
+- [[Connections_7028]] - document - vault/Graph/Connections_5645.md
+- [[Connections_7029]] - document - vault/Graph/Connections_5646.md
+- [[Connections_7030]] - document - vault/Graph/Connections_5646.md
+- [[Connections_7031]] - document - vault/Graph/ModelSyncTests.luau_4.md
+- [[Connections_7032]] - document - vault/Graph/near()_1.md
+- [[Connections_7033]] - document - vault/Graph/near()_2.md
+- [[Connections_7034]] - document - vault/Graph/near().md
+- [[Connections_7035]] - document - vault/Graph/pivotOf()_1.md
+- [[Connections_7036]] - document - vault/Graph/pivotOf()_2.md
+- [[Connections_7037]] - document - vault/Graph/pivotOf().md
+- [[Connections_7038]] - document - vault/Graph/sameCF().md
+- [[Connections_7039]] - document - vault/Graph/scaleOf().md
+- [[Connections_7040]] - document - vault/Graph/sentinel().md
+- [[Connections_7041]] - document - vault/Graph/snapshotReal().md
+- [[Connections_7042]] - document - vault/Graph/Tests.run()_4.md
+- [[Connections_7043]] - document - vault/Graph/Tests.run().md
+- [[Connections_5645_1]] - document - vault/Graph/Connections_5645.md
+- [[Connections_5646_1]] - document - vault/Graph/Connections_5646.md
+- [[Live Query (requires Dataview plugin)_501]] - document - vault/Graph/_COMMUNITY_Community 5.md
+- [[Members_501]] - document - vault/Graph/_COMMUNITY_Community 5.md
+- [[ModelSyncTests.luau_4]] - document - vault/Graph/ModelSyncTests.luau_4.md
+- [[ModelSyncTests.luau_4_1]] - document - vault/Graph/ModelSyncTests.luau_4.md
 - [[Tests.run()_3]] - document - vault/Graph/Tests.run().md
+- [[Tests.run()_1]] - document - vault/Graph/Tests.run().md
+- [[Tests.run()_2]] - document - vault/Graph/Tests.run()_4.md
+- [[Tests.run()_4]] - document - vault/Graph/Tests.run()_4.md
+- [[_COMMUNITY_Community 5]] - document - vault/Graph/_COMMUNITY_Community 5.md
 - [[check()_3]] - document - vault/Graph/check()_2.md
-- [[check()_2_2]] - document - vault/Graph/check()_2.md
-- [[near()_2]] - document - vault/Graph/near().md
-- [[near()_1]] - document - vault/Graph/near().md
-- [[pivotOf()_2]] - document - vault/Graph/pivotOf().md
-- [[pivotOf()_1]] - document - vault/Graph/pivotOf().md
-- [[sameCF()_2]] - document - vault/Graph/sameCF().md
-- [[sameCF()_1]] - document - vault/Graph/sameCF().md
-- [[scaleOf()_5]] - document - vault/Graph/scaleOf().md
-- [[scaleOf()_4]] - document - vault/Graph/scaleOf().md
+- [[check()_2_1]] - document - vault/Graph/check()_2.md
+- [[near()_5]] - document - vault/Graph/near()_2.md
+- [[near()_6]] - document - vault/Graph/near().md
+- [[near()_3]] - document - vault/Graph/near().md
+- [[near()_4]] - document - vault/Graph/near()_1.md
+- [[near()_1]] - document - vault/Graph/near()_1.md
+- [[near()_2]] - document - vault/Graph/near()_2.md
+- [[pivotOf()_5]] - document - vault/Graph/pivotOf()_2.md
+- [[pivotOf()_6]] - document - vault/Graph/pivotOf().md
+- [[pivotOf()_3]] - document - vault/Graph/pivotOf().md
+- [[pivotOf()_4]] - document - vault/Graph/pivotOf()_1.md
+- [[pivotOf()_1]] - document - vault/Graph/pivotOf()_1.md
+- [[pivotOf()_2]] - document - vault/Graph/pivotOf()_2.md
+- [[sameCF()_6]] - document - vault/Graph/sameCF().md
+- [[sameCF()_5]] - document - vault/Graph/sameCF().md
+- [[scaleOf()_10]] - document - vault/Graph/scaleOf().md
+- [[scaleOf()_9]] - document - vault/Graph/scaleOf().md
+- [[sentinel()_2]] - document - vault/Graph/sentinel().md
+- [[sentinel()_1]] - document - vault/Graph/sentinel().md
 - [[snapshotReal()_2]] - document - vault/Graph/snapshotReal().md
 - [[snapshotReal()_1]] - document - vault/Graph/snapshotReal().md
 
@@ -41,11 +69,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 8 edges to [[_COMMUNITY_Community 309]]
+- 19 edges to [[_COMMUNITY_Community 413]]
+- 4 edges to [[_COMMUNITY_Community 614]]
+- 1 edge to [[_COMMUNITY_Community 1139]]
+- 1 edge to [[_COMMUNITY_Community 1286]]
+- 1 edge to [[_COMMUNITY_Community 2061]]
+- 1 edge to [[_COMMUNITY_Community 2068]]
+- 1 edge to [[_COMMUNITY_Community 1488]]
+- 1 edge to [[_COMMUNITY_Community 950]]
+- 1 edge to [[_COMMUNITY_Community 197]]
+- 1 edge to [[_COMMUNITY_Community 688]]
 
 ## Top bridge nodes
-- [[ModelSyncTests.luau_1]] - degree 8, connects to 1 community
-- [[Tests.run()_3]] - degree 8, connects to 1 community
-- [[near()_1]] - degree 5, connects to 1 community
-- [[sameCF()_1]] - degree 5, connects to 1 community
-- [[scaleOf()_4]] - degree 4, connects to 1 community
+- [[_COMMUNITY_Community 5]] - degree 34, connects to 8 communities
+- [[ModelSyncTests.luau_4]] - degree 7, connects to 2 communities
+- [[Tests.run()_4]] - degree 6, connects to 2 communities
+- [[near()_1]] - degree 6, connects to 1 community
+- [[pivotOf()_1]] - degree 5, connects to 1 community

@@ -1,20 +1,18 @@
 ---
 source_file: "vault/Graph/Functions_83.md"
 type: "document"
-community: "Community 99"
+community: "Community 3551"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_99
+  - community/Community_3551
 ---
 
 # Functions_83.md
 
 ## Connections
-- [[Functions_29]] - `contains` [EXTRACTED]
-- [[GraphNPCAnimator_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 39]] - `references` [EXTRACTED]
-- [[buildQuestWorld()_3]] - `references` [EXTRACTED]
+- [[Functions_83_2]] - `contains` [EXTRACTED]
+- [[Functions_83_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_99
+#graphify/document #graphify/EXTRACTED #community/Community_3551

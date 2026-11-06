@@ -1,18 +1,19 @@
 ---
 source_file: "vault/Graph/WildSpawner.setHotZone()_1.md"
 type: "document"
-community: "Community 686"
-location: "L12"
+community: "Community 33"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_686
+  - community/Community_33
 ---
 
 # WildSpawner.setHotZone()_1.md
 
 ## Connections
-- [[Connections_5046]] - `contains` [EXTRACTED]
-- [[WildSpawner.setHotZone()_1]] - `contains` [EXTRACTED]
+- [[WildSpawner.setHotZone()_5]] - `contains` [EXTRACTED]
+- [[WildSpawner.setHotZone()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 33]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_686
+#graphify/document #graphify/EXTRACTED #community/Community_33

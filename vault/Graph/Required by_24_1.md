@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Required by_24_1.md"
+source_file: "vault/Graph/Required by_24_3.md"
 type: "document"
-community: "Community 231"
-location: "L1"
+community: "Community 1801"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_231
+  - community/Community_1801
 ---
 
-# Required by_24_1.md
+# Required by_24.md
 
 ## Connections
-- [[NpcGuard_1_1]] - `references` [EXTRACTED]
-- [[Required by_24_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 38]] - `references` [EXTRACTED]
+- [[Connections_10777]] - `contains` [EXTRACTED]
+- [[Required by_24_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_231
+#graphify/document #graphify/EXTRACTED #community/Community_1801

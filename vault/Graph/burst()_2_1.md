@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/burst()_2.md"
+source_file: "vault/Graph/burst()_2_1.md"
 type: "document"
-community: "Community 790"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_790
+  - community/Community_168
 ---
 
-# burst()_2.md
+# burst()_2_1.md
 
 ## Connections
-- [[Connections_704_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[burst()_7]] - `contains` [EXTRACTED]
-- [[burst()_1_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 21]] - `references` [EXTRACTED]
+- [[burst()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_790
+#graphify/document #graphify/EXTRACTED #community/Community_168

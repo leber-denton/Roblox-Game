@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/resolvePath()_1.md"
+source_file: "vault/Graph/resolvePath().md"
 type: "document"
 community: "Community 117"
 location: "L12"
@@ -9,10 +9,10 @@ tags:
   - community/Community_117
 ---
 
-# resolvePath().md
+# resolvePath()
 
 ## Connections
-- [[Connections_536]] - `contains` [EXTRACTED]
-- [[resolvePath()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2975]] - `contains` [EXTRACTED]
+- [[resolvePath()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_117

@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/PlayerData.spendBP().md"
+source_file: "vault/Graph/PlayerData.spendBP()_1.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2700"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2700
 ---
 
-# PlayerData.spendBP().md
+# PlayerData.spendBP()
 
 ## Connections
-- [[PlayerData.luau_4]] - `references` [EXTRACTED]
-- [[PlayerData.spendBP()_4]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[finite()_10]] - `references` [EXTRACTED]
-- [[setupShop()_1]] - `references` [EXTRACTED]
-- [[sync()_1_3]] - `references` [EXTRACTED]
+- [[Connections_15114]] - `contains` [EXTRACTED]
+- [[PlayerData.spendBP()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2700

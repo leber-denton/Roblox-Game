@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Where to edit things_1.md"
+source_file: "vault/Graph/Top bridge nodes_94.md"
 type: "document"
-community: "Community 1373"
+community: "Community 1097"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1373
+  - community/Community_1097
 ---
 
 # Connections
 
 ## Connections
-- [[Where to edit things]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_110]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1373
+#graphify/document #graphify/EXTRACTED #community/Community_1097

@@ -1,17 +1,18 @@
 ---
-source_file: "tools/gen_trade_beach.py"
-type: "rationale"
-community: "Community 29"
-location: "L2"
+source_file: "vault/Graph/Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…_2_1.md"
+type: "document"
+community: "Community 1111"
+location: "L12"
 tags:
-  - graphify/rationale
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_29
+  - community/Community_1111
 ---
 
-# Generates src/Workspace/TradePlazaBeach.model.json: ocean tiles, beach props…
+# Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…_2.md
 
 ## Connections
-- [[gen_trade_beach.py_2]] - `rationale_for` [EXTRACTED]
+- [[Connections_2096]] - `contains` [EXTRACTED]
+- [[Generates srcWorkspaceTradePlazaBeach.model.json ocean tiles, beach props…_2_1]] - `contains` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_29
+#graphify/document #graphify/EXTRACTED #community/Community_1111

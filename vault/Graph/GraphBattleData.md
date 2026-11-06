@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/GraphBattleData.md"
+source_file: "vault/Graph/BattleData.md"
 type: "document"
 community: "Community 351"
 location: "L1"
@@ -9,13 +9,12 @@ tags:
   - community/Community_351
 ---
 
-# GraphBattleData.md
+# Graph/BattleData.md
 
 ## Connections
-- [[BattleData_1]] - `references` [EXTRACTED]
-- [[CodeBattleData]] - `references` [EXTRACTED]
-- [[GraphBattleData_1]] - `contains` [EXTRACTED]
+- [[BattleData_7]] - `contains` [EXTRACTED]
+- [[Functions_186_1]] - `references` [EXTRACTED]
+- [[Requires_164_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 25]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 51]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_351

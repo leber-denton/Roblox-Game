@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_111.md"
+source_file: "vault/Graph/Top bridge nodes_37.md"
 type: "document"
-community: "Community 160"
+community: "Community 1113"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_160
+  - community/Community_1113
 ---
 
 # Connections
 
 ## Connections
-- [[Requires_111_1]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_136]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_160
+#graphify/document #graphify/EXTRACTED #community/Community_1113

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/productPrice()_2.md"
+source_file: "vault/Graph/productPrice()_2_1.md"
 type: "document"
-community: "Community 149"
-location: "L12"
+community: "Community 411"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_149
+  - community/Community_411
 ---
 
-# productPrice()_2.md
+# productPrice()_2_1.md
 
 ## Connections
-- [[Connections_1972]] - `contains` [EXTRACTED]
-- [[productPrice()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 244]] - `references` [EXTRACTED]
+- [[productPrice()_2_2]] - `contains` [EXTRACTED]
+- [[productPrice()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_149
+#graphify/document #graphify/EXTRACTED #community/Community_411

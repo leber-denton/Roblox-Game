@@ -12,7 +12,7 @@ tags:
 # CreatureBuilder.build().md
 
 ## Connections
-- [[Connections_2576]] - `contains` [EXTRACTED]
+- [[Connections_10310]] - `contains` [EXTRACTED]
 - [[CreatureBuilder.build()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_176

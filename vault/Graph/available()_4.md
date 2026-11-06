@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/available().md"
+source_file: "vault/Graph/available()_3.md"
 type: "document"
-community: "Community 642"
-location: "L1"
+community: "Community 199"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_642
+  - community/Community_199
 ---
 
 # available().md
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[available()_5]] - `contains` [EXTRACTED]
-- [[busy()_1]] - `references` [EXTRACTED]
-- [[practice()_2]] - `references` [EXTRACTED]
-- [[setupActivities()_2]] - `references` [EXTRACTED]
-- [[tickQueue()_3]] - `references` [EXTRACTED]
+- [[Connections_11859]] - `contains` [EXTRACTED]
+- [[available()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_642
+#graphify/document #graphify/EXTRACTED #community/Community_199

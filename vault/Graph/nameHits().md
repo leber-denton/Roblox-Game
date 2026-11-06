@@ -12,7 +12,7 @@ tags:
 # nameHits()
 
 ## Connections
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[findTargets()]] - `calls` [EXTRACTED]
 - [[isShowcaseOrGallery()]] - `calls` [EXTRACTED]
 

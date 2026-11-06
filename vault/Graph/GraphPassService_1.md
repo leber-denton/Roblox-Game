@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/PassService.md"
+source_file: "vault/Graph/GraphPassService.md"
 type: "document"
 community: "Community 208"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_208
 ---
 
-# Graph/PassService.md
+# GraphPassService.md
 
 ## Connections
-- [[PassService_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 208]] - `references` [EXTRACTED]
+- [[Connections_12310]] - `contains` [EXTRACTED]
+- [[GraphPassService]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_208

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.spiky()_1.md"
+source_file: "vault/Graph/Connections_3064.md"
 type: "document"
-community: "Community 465"
+community: "Community 124"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_465
+  - community/Community_124
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.spiky()_3]] - `contains` [EXTRACTED]
+- [[Connections_4335]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_465
+#graphify/document #graphify/EXTRACTED #community/Community_124

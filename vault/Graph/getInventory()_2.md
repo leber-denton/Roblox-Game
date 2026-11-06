@@ -12,7 +12,7 @@ tags:
 # getInventory()
 
 ## Connections
-- [[Connections_2972]] - `contains` [EXTRACTED]
+- [[Connections_12068]] - `contains` [EXTRACTED]
 - [[getInventory()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_203

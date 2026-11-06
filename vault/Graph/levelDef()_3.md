@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/levelDef().md"
+source_file: "vault/Graph/levelDef()_2.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2266"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2266
 ---
 
-# levelDef().md
+# levelDef()
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[DecorService.onLoaded()_5]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.place()_3]] - `references` [EXTRACTED]
-- [[bankCap()_3]] - `references` [EXTRACTED]
-- [[incomeRate()_3]] - `references` [EXTRACTED]
-- [[levelDef()_4]] - `contains` [EXTRACTED]
+- [[Connections_13244]] - `contains` [EXTRACTED]
+- [[levelDef()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2266

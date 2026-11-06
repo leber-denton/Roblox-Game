@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/gen_coliseum.py_1.md"
+source_file: "vault/Graph/Connections to other communities_214.md"
 type: "document"
-community: "Community 410"
+community: "Community 1233"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_410
+  - community/Community_1233
 ---
 
 # Connections
 
 ## Connections
-- [[gen_coliseum.py_1_1]] - `contains` [EXTRACTED]
+- [[Connections to other communities_263]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_410
+#graphify/document #graphify/EXTRACTED #community/Community_1233

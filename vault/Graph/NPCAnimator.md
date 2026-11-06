@@ -12,7 +12,7 @@ tags:
 # NPCAnimator
 
 ## Connections
-- [[Connections_1796]] - `contains` [EXTRACTED]
-- [[GraphNPCAnimator_2]] - `contains` [EXTRACTED]
+- [[Connections_7411]] - `contains` [EXTRACTED]
+- [[GraphNPCAnimator]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1434

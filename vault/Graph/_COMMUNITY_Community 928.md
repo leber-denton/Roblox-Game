@@ -1,18 +1,28 @@
 ---
 type: community
-members: 5
+members: 15
 ---
 
 # Community 928
 
-**Members:** 5 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[Community 57_2]] - document - vault/Graph/_COMMUNITY_Community 57.md
-- [[Connections to other communities_413]] - document - vault/Graph/_COMMUNITY_Community 57.md
-- [[Live Query (requires Dataview plugin)_457]] - document - vault/Graph/_COMMUNITY_Community 57.md
-- [[Members_457]] - document - vault/Graph/_COMMUNITY_Community 57.md
-- [[Top bridge nodes_415]] - document - vault/Graph/_COMMUNITY_Community 57.md
+- [[CodeGymService_5]] - document - vault/Graph/CodeGymService.md
+- [[CodeGymService_6]] - document - vault/Graph/CodeGymService.md
+- [[Connections_24048]] - document - vault/Graph/CodeGymService.md
+- [[Connections_24049]] - document - vault/Graph/Functions_159.md
+- [[Connections_24050]] - document - vault/Graph/GymService_2.md
+- [[Connections_24051]] - document - vault/Graph/Required by_148.md
+- [[Connections_24052]] - document - vault/Graph/Requires_145.md
+- [[Functions_246]] - document - vault/Graph/Functions_159.md
+- [[Functions_159_1]] - document - vault/Graph/Functions_159.md
+- [[GymService_5]] - document - vault/Graph/GymService_2.md
+- [[GymService_2_1]] - document - vault/Graph/GymService_2.md
+- [[Required by_233]] - document - vault/Graph/Required by_148.md
+- [[Required by_148_1]] - document - vault/Graph/Required by_148.md
+- [[Requires_240]] - document - vault/Graph/Requires_145.md
+- [[Requires_145_1]] - document - vault/Graph/Requires_145.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +32,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 426]]
+- 1 edge to [[_COMMUNITY_Community 119]]
+- 1 edge to [[_COMMUNITY_Community 276]]
 
 ## Top bridge nodes
-- [[Community 57_2]] - degree 5, connects to 1 community
+- [[CodeGymService_5]] - degree 3, connects to 1 community
+- [[Functions_159_1]] - degree 3, connects to 1 community

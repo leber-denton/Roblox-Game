@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/orient().md"
+source_file: "vault/Graph/orient()_6.md"
 type: "document"
 community: "Community 190"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_190
 ---
 
-# orient()
+# orient()_6.md
 
 ## Connections
-- [[Connections_2813]] - `contains` [EXTRACTED]
-- [[orient()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 190]] - `references` [EXTRACTED]
+- [[orient()_7]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_190

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/canPersist()_2.md"
+source_file: "vault/Graph/Connections_72_1.md"
 type: "document"
-community: "Community 1118"
+community: "Community 102"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1118
+  - community/Community_102
 ---
 
 # Connections
 
 ## Connections
-- [[canPersist()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_72_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1118
+#graphify/document #graphify/EXTRACTED #community/Community_102

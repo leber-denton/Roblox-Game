@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[DecorData.build()]] - `calls` [INFERRED]
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
-- [[new()_4]] - `calls` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
+- [[new()_3]] - `calls` [EXTRACTED]
 - [[startPlacing()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Connections to other communities_8.md"
+source_file: "vault/Graph/Connections to other communities_8_1.md"
 type: "document"
-community: "Community 451"
+community: "Community 242"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_451
+  - community/Community_242
 ---
 
-# Connections to other communities_8.md
+# Connections to other communities_8_1.md
 
 ## Connections
-- [[Connections to other communities_330]] - `contains` [EXTRACTED]
+- [[Connections to other communities_8_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 146]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 451]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_451
+#graphify/document #graphify/EXTRACTED #community/Community_242

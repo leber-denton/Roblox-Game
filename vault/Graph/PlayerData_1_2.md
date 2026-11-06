@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/PlayerData_1_1.md"
+source_file: "vault/Graph/PlayerData_1_2.md"
 type: "document"
-community: "Community 453"
-location: "L12"
+community: "Community 160"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_453
+  - community/Community_160
 ---
 
-# PlayerData_1.md
+# PlayerData_1_2.md
 
 ## Connections
-- [[Connections_4305]] - `contains` [EXTRACTED]
-- [[PlayerData_1_1]] - `contains` [EXTRACTED]
+- [[PlayerData_1_4]] - `contains` [EXTRACTED]
+- [[PlayerData_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 160]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_453
+#graphify/document #graphify/EXTRACTED #community/Community_160

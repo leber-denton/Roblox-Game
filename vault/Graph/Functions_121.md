@@ -1,25 +1,19 @@
 ---
-source_file: "vault/Graph/Functions_121.md"
+source_file: "vault/Code/Bag.md"
 type: "document"
-community: "Community 117"
-location: "L1"
+community: "Community 20"
+location: "L10"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Community_117
+  - graphify/INFERRED
+  - community/Community_20
 ---
 
-# Functions_121.md
+# Functions
 
 ## Connections
-- [[Functions_121_1]] - `contains` [EXTRACTED]
-- [[Functions_8]] - `references` [EXTRACTED]
-- [[ModelSync_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[backups()_1_1]] - `references` [EXTRACTED]
-- [[safeRoots()_1_1]] - `references` [EXTRACTED]
-- [[showcaseArea()_1_1]] - `references` [EXTRACTED]
-- [[showcaseModels()_1_1]] - `references` [EXTRACTED]
+- [[Bag_4]] - `contains` [EXTRACTED]
+- [[getInventory()]] - `references` [INFERRED]
+- [[showTradeHistory()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/INFERRED #community/Community_20

@@ -1,104 +1,49 @@
 ---
 type: community
-members: 91
+members: 36
 ---
 
 # Community 182
 
-**Members:** 91 nodes
+**Members:** 36 nodes
 
 ## Members
-- [[Connections_2668]] - document - vault/Graph/applyMute()_1.md
-- [[Connections_2669]] - document - vault/Graph/applyMute()_2.md
-- [[Connections_2670]] - document - vault/Graph/Connections_1.md
-- [[Connections_2671]] - document - vault/Graph/Connections_1.md
-- [[Connections_2672]] - document - vault/Graph/Connections_2.md
-- [[Connections_2673]] - document - vault/Graph/Connections_2.md
-- [[Connections_2674]] - document - vault/Graph/Connections_3.md
-- [[Connections_2675]] - document - vault/Graph/Connections_3.md
-- [[Connections_2676]] - document - vault/Graph/Connections_4.md
-- [[Connections_2677]] - document - vault/Graph/Connections_4.md
-- [[Connections_2678]] - document - vault/Graph/Connections_5.md
-- [[Connections_2679]] - document - vault/Graph/Connections_5.md
-- [[Connections_2680]] - document - vault/Graph/Connections_6.md
-- [[Connections_2681]] - document - vault/Graph/Connections_6.md
-- [[Connections_2682]] - document - vault/Graph/Connections_7.md
-- [[Connections_2683]] - document - vault/Graph/Connections_7.md
-- [[Connections_2684]] - document - vault/Graph/Connections_8.md
-- [[Connections_2685]] - document - vault/Graph/Connections_8.md
-- [[Connections_2686]] - document - vault/Graph/Connections_9.md
-- [[Connections_2687]] - document - vault/Graph/Connections_9.md
-- [[Connections_2688]] - document - vault/Graph/Connections.md
-- [[Connections_2689]] - document - vault/Graph/Connections.md
-- [[Connections_2690]] - document - vault/Graph/fadeTo()_1.md
-- [[Connections_2691]] - document - vault/Graph/fadeTo()_2.md
-- [[Connections_2692]] - document - vault/Graph/Functions_2.md
-- [[Connections_2693]] - document - vault/Graph/Functions_3.md
-- [[Connections_2694]] - document - vault/Graph/Music.client.luau_1.md
-- [[Connections_2695]] - document - vault/Graph/Music.client.luau_2.md
-- [[Connections_2696]] - document - vault/Graph/render()_2.md
-- [[Connections_2697]] - document - vault/Graph/render()_3.md
-- [[Connections_2698]] - document - vault/Graph/switch()_1.md
-- [[Connections_2699]] - document - vault/Graph/switch()_2.md
-- [[Connections_2700]] - document - vault/Graph/targetVolume()_1.md
-- [[Connections_2701]] - document - vault/Graph/targetVolume()_2.md
-- [[Connections_2702]] - document - vault/Graph/update()_2.md
-- [[Connections_2703]] - document - vault/Graph/update()_3.md
-- [[Connections_2704]] - document - vault/Graph/updateVisible()_4.md
-- [[Connections_2705]] - document - vault/Graph/updateVisible()_5.md
-- [[Connections_2706]] - document - vault/Graph/wanted()_1.md
-- [[Connections_2707]] - document - vault/Graph/wanted()_2.md
-- [[Connections_2667]] - document - vault/Graph/Connections.md
-- [[Connections_1_1]] - document - vault/Graph/Connections_1.md
+- [[CodeMusic_4]] - document - vault/Graph/CodeMusic_2.md
+- [[CodeMusic_3]] - document - vault/Graph/CodeMusic_1.md
+- [[CodeMusic_1_1]] - document - vault/Graph/CodeMusic_1.md
+- [[CodeMusic_2]] - document - vault/Graph/CodeMusic_2.md
+- [[Connections_10911]] - document - vault/Graph/CodeMusic_1.md
+- [[Connections_10912]] - document - vault/Graph/CodeMusic_2.md
+- [[Connections_10913]] - document - vault/Graph/Connections_12.md
+- [[Connections_10914]] - document - vault/Graph/Connections_12.md
+- [[Connections_10915]] - document - vault/Graph/Connections_13.md
+- [[Connections_10916]] - document - vault/Graph/Connections_13.md
+- [[Connections_10917]] - document - vault/Graph/Connections_2.md
+- [[Connections_10918]] - document - vault/Graph/Connections_2.md
+- [[Connections_10919]] - document - vault/Graph/Connections_9.md
+- [[Connections_10920]] - document - vault/Graph/Connections_9.md
+- [[Connections_10921]] - document - vault/Graph/GraphMusic.md
+- [[Connections_10922]] - document - vault/Graph/Music_1.md
+- [[Connections_10923]] - document - vault/Graph/Required by_1.md
+- [[Connections_10924]] - document - vault/Graph/Required by_2.md
+- [[Connections_10925]] - document - vault/Graph/Requires_1.md
+- [[Connections_10926]] - document - vault/Graph/Requires_2.md
+- [[Connections_12_1]] - document - vault/Graph/Connections_12.md
+- [[Connections_13_3]] - document - vault/Graph/Connections_13.md
 - [[Connections_2_1]] - document - vault/Graph/Connections_2.md
-- [[Connections_3_1]] - document - vault/Graph/Connections_3.md
-- [[Connections_4_1]] - document - vault/Graph/Connections_4.md
-- [[Connections_5_1]] - document - vault/Graph/Connections_5.md
-- [[Connections_6_1]] - document - vault/Graph/Connections_6.md
-- [[Connections_7_1]] - document - vault/Graph/Connections_7.md
-- [[Connections_8_1]] - document - vault/Graph/Connections_8.md
 - [[Connections_9_1]] - document - vault/Graph/Connections_9.md
-- [[Functions_47]] - document - vault/Graph/Functions_3.md
-- [[Functions_46]] - document - vault/Graph/Functions_2.md
-- [[Functions_2_1]] - document - vault/Graph/Functions_2.md
-- [[Functions_3_3]] - document - vault/Graph/Functions_3.md
-- [[Music.client.luau_4]] - document - vault/Graph/Music.client.luau_2.md
-- [[Music.client.luau_3]] - document - vault/Graph/Music.client.luau_1.md
-- [[Music.client.luau_1_1]] - document - vault/Graph/Music.client.luau_1.md
-- [[Music.client.luau_2_1]] - document - vault/Graph/Music.client.luau_2.md
-- [[_COMMUNITY_Community 100]] - document - vault/Graph/_COMMUNITY_Community 100.md
-- [[applyMute()_4]] - document - vault/Graph/applyMute()_2.md
-- [[applyMute()_3]] - document - vault/Graph/applyMute()_1.md
-- [[applyMute()_1_1]] - document - vault/Graph/applyMute()_1.md
-- [[applyMute()_2_1]] - document - vault/Graph/applyMute()_2.md
-- [[fadeTo()_4]] - document - vault/Graph/fadeTo()_2.md
-- [[fadeTo()_3]] - document - vault/Graph/fadeTo()_1.md
-- [[fadeTo()_1_1]] - document - vault/Graph/fadeTo()_1.md
-- [[fadeTo()_2_1]] - document - vault/Graph/fadeTo()_2.md
-- [[render()_5]] - document - vault/Graph/render()_3.md
-- [[render()_4]] - document - vault/Graph/render()_2.md
-- [[render()_2_1]] - document - vault/Graph/render()_2.md
-- [[render()_3_1]] - document - vault/Graph/render()_3.md
-- [[switch()_4]] - document - vault/Graph/switch()_2.md
-- [[switch()_3]] - document - vault/Graph/switch()_1.md
-- [[switch()_1_1]] - document - vault/Graph/switch()_1.md
-- [[switch()_2_1]] - document - vault/Graph/switch()_2.md
-- [[targetVolume()_4]] - document - vault/Graph/targetVolume()_2.md
-- [[targetVolume()_3]] - document - vault/Graph/targetVolume()_1.md
-- [[targetVolume()_1_1]] - document - vault/Graph/targetVolume()_1.md
-- [[targetVolume()_2_1]] - document - vault/Graph/targetVolume()_2.md
-- [[update()_7]] - document - vault/Graph/update()_3.md
-- [[update()_6]] - document - vault/Graph/update()_2.md
-- [[update()_2_1]] - document - vault/Graph/update()_2.md
-- [[update()_3_1]] - document - vault/Graph/update()_3.md
-- [[updateVisible()_8]] - document - vault/Graph/updateVisible()_5.md
-- [[updateVisible()_7]] - document - vault/Graph/updateVisible()_4.md
-- [[updateVisible()_4_1]] - document - vault/Graph/updateVisible()_4.md
-- [[updateVisible()_5_1]] - document - vault/Graph/updateVisible()_5.md
-- [[wanted()_4]] - document - vault/Graph/wanted()_2.md
-- [[wanted()_3]] - document - vault/Graph/wanted()_1.md
-- [[wanted()_1_1]] - document - vault/Graph/wanted()_1.md
-- [[wanted()_2_1]] - document - vault/Graph/wanted()_2.md
+- [[GraphMusic_2]] - document - vault/Graph/GraphMusic.md
+- [[GraphMusic_1]] - document - vault/Graph/GraphMusic.md
+- [[Music_2]] - document - vault/Graph/Music_1.md
+- [[Music_1_3]] - document - vault/Graph/Music_1.md
+- [[Required by_111]] - document - vault/Graph/Required by_2.md
+- [[Required by_109]] - document - vault/Graph/Required by_1.md
+- [[Required by_1_1]] - document - vault/Graph/Required by_1.md
+- [[Required by_2_1]] - document - vault/Graph/Required by_2.md
+- [[Requires_104]] - document - vault/Graph/Requires_2.md
+- [[Requires_103]] - document - vault/Graph/Requires_1.md
+- [[Requires_1_1]] - document - vault/Graph/Requires_1.md
+- [[Requires_2_1]] - document - vault/Graph/Requires_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -108,17 +53,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 10 edges to [[_COMMUNITY_Community 100]]
-- 2 edges to [[_COMMUNITY_Community 295]]
-- 1 edge to [[_COMMUNITY_Community 101]]
-- 1 edge to [[_COMMUNITY_Community 177]]
-- 1 edge to [[_COMMUNITY_Community 178]]
-- 1 edge to [[_COMMUNITY_Community 861]]
-- 1 edge to [[_COMMUNITY_Community 366]]
+- 12 edges to [[_COMMUNITY_Community 37]]
+- 4 edges to [[_COMMUNITY_Community 100]]
+- 1 edge to [[_COMMUNITY_Community 1007]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 100]] - degree 35, connects to 5 communities
-- [[Music.client.luau_1_1]] - degree 13, connects to 2 communities
-- [[Functions_2_1]] - degree 8, connects to 2 communities
-- [[applyMute()_1_1]] - degree 9, connects to 1 community
-- [[switch()_1_1]] - degree 8, connects to 1 community
+- [[GraphMusic_1]] - degree 8, connects to 3 communities
+- [[CodeMusic_1_1]] - degree 5, connects to 2 communities
+- [[Required by_1_1]] - degree 5, connects to 2 communities
+- [[Requires_1_1]] - degree 5, connects to 2 communities
+- [[CodeMusic_2]] - degree 4, connects to 1 community

@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/owns().md"
 type: "document"
-community: "Community 86"
+community: "Community 33"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_33
 ---
 
 # owns()
 
 ## Connections
-- [[Connections_5789]] - `contains` [EXTRACTED]
+- [[Connections_16914]] - `contains` [EXTRACTED]
 - [[owns()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_33

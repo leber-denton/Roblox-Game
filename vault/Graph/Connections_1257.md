@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_672.md"
+source_file: "vault/Graph/Features.blush()_4.md"
 type: "document"
-community: "Community 1241"
-location: "L12"
+community: "Community 1077"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1241
+  - community/Community_1077
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_1258]] - `contains` [EXTRACTED]
-- [[Connections_672_1]] - `contains` [EXTRACTED]
+- [[Features.blush()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1241
+#graphify/document #graphify/EXTRACTED #community/Community_1077

@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/preview()_6.md"
+source_file: "vault/Graph/preview()_10.md"
 type: "document"
-community: "Community 874"
-location: "L12"
+community: "Community 1063"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_874
+  - community/Community_1063
 ---
 
-# preview().md
+# preview()_10.md
 
 ## Connections
-- [[Connections_5915]] - `contains` [EXTRACTED]
-- [[preview()_6_1]] - `contains` [EXTRACTED]
+- [[Connections_5915]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1063]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 874]] - `references` [EXTRACTED]
+- [[preview()_10_1]] - `contains` [EXTRACTED]
+- [[preview()_4]] - `references` [EXTRACTED]
+- [[preview()_6_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_874
+#graphify/document #graphify/EXTRACTED #community/Community_1063

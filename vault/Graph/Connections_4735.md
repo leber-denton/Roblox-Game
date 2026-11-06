@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/yaw()_2.md"
+source_file: "vault/Graph/Connections_3443.md"
 type: "document"
-community: "Community 587"
-location: "L14"
+community: "Community 1265"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_587
+  - community/Community_1265
 ---
 
 # Connections
 
 ## Connections
-- [[yaw()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_4736]] - `contains` [EXTRACTED]
+- [[Connections_3443_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_587
+#graphify/document #graphify/EXTRACTED #community/Community_1265

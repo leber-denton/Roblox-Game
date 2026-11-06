@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/NpcGuard.stamp()_1.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_305.md"
 type: "document"
-community: "Community 513"
+community: "Community 1245"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_513
+  - community/Community_1245
 ---
 
 # Connections
 
 ## Connections
-- [[NpcGuard.stamp()_3]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_362]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_513
+#graphify/document #graphify/EXTRACTED #community/Community_1245

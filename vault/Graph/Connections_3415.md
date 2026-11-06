@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/showPicker()_3.md"
+source_file: "vault/Graph/Community 52_1.md"
 type: "document"
-community: "Community 240"
+community: "Community 1189"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1189
 ---
 
 # Connections
 
 ## Connections
-- [[showPicker()_6]] - `contains` [EXTRACTED]
+- [[Community 52_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1189

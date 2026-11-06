@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_65.md"
+source_file: "vault/Code/WildSpawner.md"
 type: "document"
-community: "Community 1420"
-location: "L12"
+community: "Community 13"
+location: "L16"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1420
+  - community/Community_13
 ---
 
-# Functions_65.md
+# Functions
 
 ## Connections
-- [[Connections_1777]] - `contains` [EXTRACTED]
-- [[Functions_65_1]] - `contains` [EXTRACTED]
+- [[WildSpawner_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1420
+#graphify/document #graphify/EXTRACTED #community/Community_13

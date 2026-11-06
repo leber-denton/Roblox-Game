@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/BaseManager_1.md"
+source_file: "vault/Graph/BaseManager_3.md"
 type: "document"
-community: "Community 31"
-location: "L12"
+community: "Community 1624"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_31
+  - community/Community_1624
 ---
 
-# BaseManager
+# BaseManager_3.md
 
 ## Connections
-- [[BaseManager_1]] - `contains` [EXTRACTED]
-- [[Connections_3719]] - `contains` [EXTRACTED]
+- [[BaseManager_4]] - `contains` [EXTRACTED]
+- [[BaseManager_1]] - `references` [EXTRACTED]
+- [[GraphBaseManager]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 31]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_31
+#graphify/document #graphify/EXTRACTED #community/Community_1624

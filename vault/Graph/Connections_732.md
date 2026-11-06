@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.maxTeam()_2.md"
+source_file: "vault/Graph/Connections_462_1.md"
 type: "document"
-community: "Community 12"
+community: "Community 1044"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1044
 ---
 
 # Connections
 
 ## Connections
-- [[commands.maxTeam()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_462_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1044

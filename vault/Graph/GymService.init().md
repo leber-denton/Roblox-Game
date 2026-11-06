@@ -12,7 +12,7 @@ tags:
 # GymService.init()
 
 ## Connections
-- [[GymService.luau_3]] - `contains` [EXTRACTED]
+- [[GymService.luau_8]] - `contains` [EXTRACTED]
 - [[placeLeaders()]] - `calls` [EXTRACTED]
 - [[setup()]] - `calls` [EXTRACTED]
 

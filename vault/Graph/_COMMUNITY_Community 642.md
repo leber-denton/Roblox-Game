@@ -1,46 +1,49 @@
 ---
 type: community
-members: 33
+members: 36
 ---
 
 # Community 642
 
-**Members:** 33 nodes
+**Members:** 36 nodes
 
 ## Members
-- [[Connections_4898]] - document - vault/Graph/arenaPart().md
-- [[Connections_4899]] - document - vault/Graph/available().md
-- [[Connections_4900]] - document - vault/Graph/boardLabel().md
-- [[Connections_4901]] - document - vault/Graph/Functions_84.md
-- [[Connections_4902]] - document - vault/Graph/practice().md
-- [[Connections_4903]] - document - vault/Graph/publicBattles().md
-- [[Connections_4904]] - document - vault/Graph/setupActivities().md
-- [[Connections_4905]] - document - vault/Graph/setupArenaFixtures().md
-- [[Connections_4906]] - document - vault/Graph/strongest()_2.md
-- [[Connections_4907]] - document - vault/Graph/tickQueue().md
-- [[Connections_4908]] - document - vault/Graph/unqueue().md
-- [[Functions_164]] - document - vault/Graph/Functions_84.md
-- [[Functions_84_1]] - document - vault/Graph/Functions_84.md
-- [[arenaPart()_3]] - document - vault/Graph/arenaPart().md
-- [[arenaPart()_2]] - document - vault/Graph/arenaPart().md
-- [[available()_5]] - document - vault/Graph/available().md
-- [[available()_4]] - document - vault/Graph/available().md
-- [[boardLabel()_3]] - document - vault/Graph/boardLabel().md
-- [[boardLabel()_2]] - document - vault/Graph/boardLabel().md
-- [[practice()_3]] - document - vault/Graph/practice().md
-- [[practice()_2]] - document - vault/Graph/practice().md
-- [[publicBattles()_3]] - document - vault/Graph/publicBattles().md
-- [[publicBattles()_2]] - document - vault/Graph/publicBattles().md
-- [[setupActivities()_3]] - document - vault/Graph/setupActivities().md
-- [[setupActivities()_2]] - document - vault/Graph/setupActivities().md
-- [[setupArenaFixtures()_3]] - document - vault/Graph/setupArenaFixtures().md
-- [[setupArenaFixtures()_2]] - document - vault/Graph/setupArenaFixtures().md
-- [[strongest()_7]] - document - vault/Graph/strongest()_2.md
-- [[strongest()_2_2]] - document - vault/Graph/strongest()_2.md
-- [[tickQueue()_4]] - document - vault/Graph/tickQueue().md
-- [[tickQueue()_3]] - document - vault/Graph/tickQueue().md
-- [[unqueue()_3]] - document - vault/Graph/unqueue().md
-- [[unqueue()_2]] - document - vault/Graph/unqueue().md
+- [[Community 1307]] - document - vault/Graph/_COMMUNITY_Community 1307.md
+- [[Connections_21626]] - document - vault/Graph/Connections_3875.md
+- [[Connections_21627]] - document - vault/Graph/Connections_3875.md
+- [[Connections_21628]] - document - vault/Graph/Connections_3876.md
+- [[Connections_21629]] - document - vault/Graph/Connections_3876.md
+- [[Connections_21630]] - document - vault/Graph/Connections_3877.md
+- [[Connections_21631]] - document - vault/Graph/Connections_3877.md
+- [[Connections_21632]] - document - vault/Graph/Connections_3878.md
+- [[Connections_21633]] - document - vault/Graph/Connections_3878.md
+- [[Connections_21634]] - document - vault/Graph/Connections_3879.md
+- [[Connections_21635]] - document - vault/Graph/Connections_3879.md
+- [[Connections_21636]] - document - vault/Graph/Connections_3880.md
+- [[Connections_21637]] - document - vault/Graph/Connections_3880.md
+- [[Connections_21638]] - document - vault/Graph/Connections_3881.md
+- [[Connections_21639]] - document - vault/Graph/Connections_3881.md
+- [[Connections_21640]] - document - vault/Graph/Connections_3882.md
+- [[Connections_21641]] - document - vault/Graph/Connections_3882.md
+- [[Connections_21642]] - document - vault/Graph/Connections_3883.md
+- [[Connections_21643]] - document - vault/Graph/Connections_3883.md
+- [[Connections_21644]] - document - vault/Graph/Connections_3884.md
+- [[Connections_21645]] - document - vault/Graph/Connections_3884.md
+- [[Connections to other communities_1450]] - document - vault/Graph/_COMMUNITY_Community 1307.md
+- [[Connections_3875_1]] - document - vault/Graph/Connections_3875.md
+- [[Connections_3876_1]] - document - vault/Graph/Connections_3876.md
+- [[Connections_3877_1]] - document - vault/Graph/Connections_3877.md
+- [[Connections_3878_1]] - document - vault/Graph/Connections_3878.md
+- [[Connections_3879_1]] - document - vault/Graph/Connections_3879.md
+- [[Connections_3880_1]] - document - vault/Graph/Connections_3880.md
+- [[Connections_3881_1]] - document - vault/Graph/Connections_3881.md
+- [[Connections_3882_1]] - document - vault/Graph/Connections_3882.md
+- [[Connections_3883_1]] - document - vault/Graph/Connections_3883.md
+- [[Connections_3884_1]] - document - vault/Graph/Connections_3884.md
+- [[Live Query (requires Dataview plugin)_1701]] - document - vault/Graph/_COMMUNITY_Community 1307.md
+- [[Members_1701]] - document - vault/Graph/_COMMUNITY_Community 1307.md
+- [[Top bridge nodes_1447]] - document - vault/Graph/_COMMUNITY_Community 1307.md
+- [[_COMMUNITY_Community 1307]] - document - vault/Graph/_COMMUNITY_Community 1307.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -50,14 +53,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 11 edges to [[_COMMUNITY_Community 97]]
-- 6 edges to [[_COMMUNITY_Community 123]]
-- 5 edges to [[_COMMUNITY_Community 86]]
-- 4 edges to [[_COMMUNITY_Community 229]]
+- 1 edge to [[_COMMUNITY_Community 1127]]
+- 1 edge to [[_COMMUNITY_Community 189]]
 
 ## Top bridge nodes
-- [[setupActivities()_2]] - degree 15, connects to 4 communities
-- [[Functions_84_1]] - degree 10, connects to 3 communities
-- [[available()_4]] - degree 7, connects to 3 communities
-- [[tickQueue()_3]] - degree 8, connects to 2 communities
-- [[setupArenaFixtures()_2]] - degree 7, connects to 2 communities
+- [[_COMMUNITY_Community 1307]] - degree 13, connects to 2 communities

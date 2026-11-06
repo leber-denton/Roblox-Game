@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/row()_8.md"
+source_file: "vault/Graph/row()_10.md"
 type: "document"
-community: "Community 316"
-location: "L1"
+community: "Community 1253"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_316
+  - community/Community_1253
 ---
 
-# row()_8.md
+# row()
 
 ## Connections
-- [[Connections_821_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
-- [[row()_9]] - `contains` [EXTRACTED]
-- [[row()_6_1]] - `references` [EXTRACTED]
+- [[Connections_4606]] - `contains` [EXTRACTED]
+- [[row()_10]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_316
+#graphify/document #graphify/EXTRACTED #community/Community_1253

@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/burst()_2.md"
 type: "document"
-community: "Community 790"
+community: "Community 1845"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_790
+  - community/Community_1845
 ---
 
-# burst()
+# burst().md
 
 ## Connections
-- [[Connections_5411]] - `contains` [EXTRACTED]
-- [[burst()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_11059]] - `contains` [EXTRACTED]
+- [[burst()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_790
+#graphify/document #graphify/EXTRACTED #community/Community_1845

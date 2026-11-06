@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/SocialService.display().md"
+source_file: "vault/Graph/SocialService.display()_4.md"
 type: "document"
-community: "Community 33"
-location: "L1"
+community: "Community 2788"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_33
+  - community/Community_2788
 ---
 
 # SocialService.display().md
 
 ## Connections
-- [[BaseManager.findById()_4]] - `references` [EXTRACTED]
-- [[SocialService.display()_3]] - `contains` [EXTRACTED]
-- [[SocialService.init()_3]] - `references` [EXTRACTED]
-- [[SocialService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[busyReason()_4]] - `references` [EXTRACTED]
-- [[caption()_3]] - `references` [EXTRACTED]
-- [[plazaCenter()_3]] - `references` [EXTRACTED]
+- [[Connections_15418]] - `contains` [EXTRACTED]
+- [[SocialService.display()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_33
+#graphify/document #graphify/EXTRACTED #community/Community_2788

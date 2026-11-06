@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/script_parent_weeklyeventservice_1.md"
+source_file: "vault/Graph/GraphCreatureLife_2.md"
 type: "document"
-community: "Community 168"
+community: "Community 1130"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1130
 ---
 
 # Connections
 
 ## Connections
-- [[script_parent_weeklyeventservice]] - `contains` [EXTRACTED]
+- [[GraphCreatureLife_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1130

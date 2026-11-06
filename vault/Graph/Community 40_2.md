@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 40.md"
+source_file: "vault/Graph/Community 40_2.md"
 type: "document"
-community: "Community 951"
-location: "L6"
+community: "Community 1135"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_951
+  - community/Community_1135
 ---
 
-# Community 40
+# Community 40_2.md
 
 ## Connections
-- [[Live Query (requires Dataview plugin)_472]] - `contains` [EXTRACTED]
-- [[Members_472]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 40]] - `contains` [EXTRACTED]
+- [[Community 40_4]] - `contains` [EXTRACTED]
+- [[Community 40_1]] - `references` [EXTRACTED]
+- [[Connections_1677_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1135]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_951
+#graphify/document #graphify/EXTRACTED #community/Community_1135

@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1412
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1761]] - document - vault/Graph/fakeNew()_2.md
-- [[fakeNew()_2]] - document - vault/Graph/fakeNew()_2.md
+- [[Connections_7202]] - document - vault/Graph/Connections_2527.md
+- [[Connections_7203]] - document - vault/Graph/Connections_2527.md
+- [[Connections_7204]] - document - vault/Graph/Live Query (requires Dataview plugin)_251.md
+- [[Connections_7205]] - document - vault/Graph/Live Query (requires Dataview plugin)_52_1.md
+- [[Connections_2527_1]] - document - vault/Graph/Connections_2527.md
+- [[Live Query (requires Dataview plugin)_528]] - document - vault/Graph/Live Query (requires Dataview plugin)_251.md
+- [[Live Query (requires Dataview plugin)_251_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_251.md
+- [[Live Query (requires Dataview plugin)_52_2]] - document - vault/Graph/Live Query (requires Dataview plugin)_52_1.md
+- [[Live Query (requires Dataview plugin)_52_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_52_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 486]]
+- 3 edges to [[_COMMUNITY_Community 1990]]
+- 1 edge to [[_COMMUNITY_Community 1077]]
 
 ## Top bridge nodes
-- [[fakeNew()_2]] - degree 2, connects to 1 community
+- [[Live Query (requires Dataview plugin)_52_1]] - degree 4, connects to 2 communities
+- [[Live Query (requires Dataview plugin)_251_1]] - degree 4, connects to 1 community
+- [[Connections_2527_1]] - degree 3, connects to 1 community

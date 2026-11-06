@@ -12,11 +12,10 @@ tags:
 # typeChips().md
 
 ## Connections
-- [[label()_5]] - `references` [EXTRACTED]
+- [[CreatureIndex.client.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 420]] - `references` [EXTRACTED]
 - [[label()_2_1]] - `references` [EXTRACTED]
-- [[new()_10]] - `references` [EXTRACTED]
-- [[new()_6_1]] - `references` [EXTRACTED]
-- [[showDetail()_2]] - `references` [EXTRACTED]
+- [[new()_5_1]] - `references` [EXTRACTED]
 - [[showDetail()_1_1]] - `references` [EXTRACTED]
 - [[typeChips()_2]] - `contains` [EXTRACTED]
 

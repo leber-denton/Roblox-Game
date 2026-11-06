@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Requires_59.md"
+source_file: "vault/Graph/Requires_151.md"
 type: "document"
-community: "Community 540"
-location: "L12"
+community: "Community 1058"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_540
+  - community/Community_1058
 ---
 
-# Requires
+# Requires_151.md
 
 ## Connections
-- [[Connections_4613]] - `contains` [EXTRACTED]
-- [[Requires_59_1]] - `contains` [EXTRACTED]
+- [[GraphWander]] - `references` [EXTRACTED]
+- [[Requires_9]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_540
+#graphify/document #graphify/EXTRACTED #community/Community_1058

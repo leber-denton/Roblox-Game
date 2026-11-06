@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/openTrade()_2.md"
+source_file: "vault/Graph/Connections_1621.md"
 type: "document"
-community: "Community 168"
-location: "L14"
+community: "Community 1128"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1128
 ---
 
 # Connections
 
 ## Connections
-- [[openTrade()_2_2]] - `contains` [EXTRACTED]
+- [[Connections_2344]] - `contains` [EXTRACTED]
+- [[Connections_1621_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1128

@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/part()_7.md"
+source_file: "vault/Graph/part()_9.md"
 type: "document"
-community: "Community 24"
-location: "L12"
+community: "Community 1315"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1315
 ---
 
-# part().md
+# part()_9.md
 
 ## Connections
-- [[Connections_3340]] - `contains` [EXTRACTED]
-- [[part()_7_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1315]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 24]] - `references` [EXTRACTED]
+- [[part()_12]] - `references` [EXTRACTED]
+- [[part()_7_1]] - `references` [EXTRACTED]
+- [[part()_9_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1315

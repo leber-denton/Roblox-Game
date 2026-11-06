@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Wander_1.md"
+source_file: "vault/Graph/NPC.say()_1.md"
 type: "document"
-community: "Community 93"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Wander_1_2]] - `contains` [EXTRACTED]
+- [[NPC.say()_1_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_134

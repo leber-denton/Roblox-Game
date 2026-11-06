@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/creatureText()_2.md"
+source_file: "vault/Graph/Requires_5_1_1.md"
 type: "document"
-community: "Community 226"
+community: "Community 118"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_118
 ---
 
 # Connections
 
 ## Connections
-- [[creatureText()_4]] - `contains` [EXTRACTED]
+- [[Requires_5_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_118

@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Graph/tryPick()_2.md"
+source_file: "vault/Graph/tryPick()_2_1.md"
 type: "document"
-community: "Community 347"
+community: "Community 2693"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_347
+  - community/Community_2693
 ---
 
-# tryPick()_2.md
+# tryPick()_2_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 146]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 242]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 23]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 98]] - `references` [EXTRACTED]
 - [[tryPick()_1_1]] - `references` [EXTRACTED]
-- [[tryPick()_2_2]] - `contains` [EXTRACTED]
+- [[tryPick()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_347
+#graphify/document #graphify/EXTRACTED #community/Community_2693

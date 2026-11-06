@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/today()_2.md"
+source_file: "vault/Graph/Connections_3766.md"
 type: "document"
-community: "Community 828"
-location: "L14"
+community: "Community 1318"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_828
+  - community/Community_1318
 ---
 
 # Connections
 
 ## Connections
-- [[today()_3]] - `contains` [EXTRACTED]
+- [[Connections_5546]] - `contains` [EXTRACTED]
+- [[Connections_3766_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_828
+#graphify/document #graphify/EXTRACTED #community/Community_1318

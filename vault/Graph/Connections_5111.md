@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/check()_4.md"
+source_file: "vault/Graph/scaleOf()_5.md"
 type: "document"
-community: "Community 706"
+community: "Community 1287"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_706
+  - community/Community_1287
 ---
 
 # Connections
 
 ## Connections
-- [[check()_6]] - `contains` [EXTRACTED]
+- [[scaleOf()_8]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_706
+#graphify/document #graphify/EXTRACTED #community/Community_1287

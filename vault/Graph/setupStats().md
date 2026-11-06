@@ -12,7 +12,7 @@ tags:
 # setupStats()
 
 ## Connections
-- [[LeaderboardService.luau_5]] - `contains` [EXTRACTED]
+- [[LeaderboardService.luau_8]] - `contains` [EXTRACTED]
 - [[LeaderboardService.onJoin()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_687

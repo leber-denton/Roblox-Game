@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 293.md"
+source_file: "vault/Graph/Community 293.md"
 type: "document"
-community: "Community 392"
-location: "L6"
+community: "Community 1583"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_392
+  - community/Community_1583
 ---
 
-# Community 293
+# Community 293.md
 
 ## Connections
-- [[Connections to other communities_308]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_340]] - `contains` [EXTRACTED]
-- [[Members_345]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_313]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 293]] - `contains` [EXTRACTED]
+- [[Community 293_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 293]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_392
+#graphify/document #graphify/EXTRACTED #community/Community_1583

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/give().md"
+source_file: "vault/Graph/Connections_1730.md"
 type: "document"
-community: "Community 86"
+community: "Community 1336"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1336
 ---
 
 # Connections
 
 ## Connections
-- [[give()_4]] - `contains` [EXTRACTED]
+- [[Connections_5767]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1336

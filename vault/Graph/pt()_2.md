@@ -1,19 +1,20 @@
 ---
 source_file: "vault/Graph/pt()_2.md"
 type: "document"
-community: "Community 585"
+community: "Community 1111"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_585
+  - community/Community_1111
 ---
 
 # pt()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 89]] - `references` [EXTRACTED]
-- [[pt()_1]] - `references` [EXTRACTED]
-- [[pt()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_1477_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1111]] - `references` [EXTRACTED]
+- [[pt()_6]] - `contains` [EXTRACTED]
+- [[pt()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_585
+#graphify/document #graphify/EXTRACTED #community/Community_1111

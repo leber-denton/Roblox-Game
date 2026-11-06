@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Showcase_1.md"
+source_file: "vault/Graph/CodePlayerData.md"
 type: "document"
-community: "Community 247"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_247
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[Showcase_1_3]] - `contains` [EXTRACTED]
+- [[CodePlayerData_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_247
+#graphify/document #graphify/EXTRACTED #community/Community_119

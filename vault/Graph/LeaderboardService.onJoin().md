@@ -12,7 +12,7 @@ tags:
 # LeaderboardService.onJoin()
 
 ## Connections
-- [[LeaderboardService.luau_5]] - `contains` [EXTRACTED]
+- [[LeaderboardService.luau_8]] - `contains` [EXTRACTED]
 - [[onPlayerAdded()]] - `calls` [INFERRED]
 - [[setupStats()]] - `calls` [EXTRACTED]
 

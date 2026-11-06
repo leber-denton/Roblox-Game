@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/arenaPart()_2.md"
+source_file: "vault/Graph/arenaPart()_3.md"
 type: "document"
-community: "Community 645"
+community: "Community 476"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_645
+  - community/Community_476
 ---
 
-# arenaPart()
+# arenaPart().md
 
 ## Connections
-- [[Connections_4913]] - `contains` [EXTRACTED]
-- [[arenaPart()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_19686]] - `contains` [EXTRACTED]
+- [[arenaPart()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_645
+#graphify/document #graphify/EXTRACTED #community/Community_476

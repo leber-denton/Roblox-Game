@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/WildSpawner_1.md"
+source_file: "vault/Code/WildSpawner.md"
 type: "document"
-community: "Community 166"
+community: "Community 13"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_166
+  - community/Community_13
 ---
 
-# WildSpawner_1.md
+# WildSpawner
 
 ## Connections
-- [[GraphWildSpawner_1]] - `references` [EXTRACTED]
-- [[WildSpawner_1_3]] - `contains` [EXTRACTED]
-- [[WildSpawner_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 166]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 78]] - `references` [EXTRACTED]
+- [[CodeWildSpawner_4]] - `contains` [EXTRACTED]
+- [[Functions_65]] - `contains` [EXTRACTED]
+- [[Required by_53]] - `contains` [EXTRACTED]
+- [[Requires_54]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_166
+#graphify/document #graphify/EXTRACTED #community/Community_13

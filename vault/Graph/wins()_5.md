@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/wins().md"
+source_file: "vault/Graph/wins()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
-# wins()
+# wins().md
 
 ## Connections
-- [[Connections_5895]] - `contains` [EXTRACTED]
+- [[Connections_6328]] - `contains` [EXTRACTED]
 - [[wins()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

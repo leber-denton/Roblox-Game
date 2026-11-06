@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Community 551
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_4651]] - document - vault/Graph/Connections_72.md
-- [[Connections_4652]] - document - vault/Graph/Connections_72.md
-- [[Connections_4653]] - document - vault/Graph/NpcGuard.luau.md
-- [[Connections_72_1]] - document - vault/Graph/Connections_72.md
-- [[NpcGuard.luau_4]] - document - vault/Graph/NpcGuard.luau.md
-- [[NpcGuard.luau_3]] - document - vault/Graph/NpcGuard.luau.md
+- [[Community 676]] - document - vault/Graph/_COMMUNITY_Community 676.md
+- [[Connections to other communities_1388]] - document - vault/Graph/_COMMUNITY_Community 676.md
+- [[Live Query (requires Dataview plugin)_1632]] - document - vault/Graph/_COMMUNITY_Community 676.md
+- [[Members_1633]] - document - vault/Graph/_COMMUNITY_Community 676.md
+- [[Top bridge nodes_1386]] - document - vault/Graph/_COMMUNITY_Community 676.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 510]]
-- 1 edge to [[_COMMUNITY_Community 513]]
+- 1 edge to [[_COMMUNITY_Community 176]]
 
 ## Top bridge nodes
-- [[NpcGuard.luau_3]] - degree 4, connects to 2 communities
-- [[Connections_72_1]] - degree 3, connects to 1 community
+- [[Community 676]] - degree 5, connects to 1 community

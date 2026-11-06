@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/Showcase.md"
 type: "document"
-community: "Community 247"
+community: "Community 2019"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_247
+  - community/Community_2019
 ---
 
 # Showcase
 
 ## Connections
-- [[Connections_3446]] - `contains` [EXTRACTED]
-- [[GraphShowcase_1]] - `contains` [EXTRACTED]
+- [[Connections_12014]] - `contains` [EXTRACTED]
+- [[GraphShowcase]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_247
+#graphify/document #graphify/EXTRACTED #community/Community_2019

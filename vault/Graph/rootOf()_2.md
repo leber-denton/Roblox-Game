@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/rootOf().md"
+source_file: "vault/Graph/rootOf()_2.md"
 type: "document"
-community: "Community 21"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_168
 ---
 
-# rootOf()
+# rootOf()_2.md
 
 ## Connections
-- [[Connections_3071]] - `contains` [EXTRACTED]
-- [[rootOf()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 21]] - `references` [EXTRACTED]
+- [[rootOf()_1]] - `references` [EXTRACTED]
+- [[rootOf()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_168

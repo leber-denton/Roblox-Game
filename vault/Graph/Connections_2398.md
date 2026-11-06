@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/SaveService.load()_2.md"
+source_file: "vault/Graph/Connections_1638.md"
 type: "document"
-community: "Community 168"
-location: "L14"
+community: "Community 1130"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1130
 ---
 
 # Connections
 
 ## Connections
-- [[SaveService.load()_3]] - `contains` [EXTRACTED]
+- [[Connections_2399]] - `contains` [EXTRACTED]
+- [[Connections_1638_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1130

@@ -12,8 +12,8 @@ tags:
 # getInventory()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
-- [[Functions_60]] - `references` [INFERRED]
+- [[Bag.client.luau_7]] - `contains` [EXTRACTED]
+- [[Functions_121]] - `references` [INFERRED]
 - [[refresh()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_20

@@ -1,23 +1,18 @@
 ---
 source_file: "vault/Graph/daysFromCivil()_1.md"
 type: "document"
-community: "Community 292"
-location: "L1"
+community: "Community 144"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_144
 ---
 
 # daysFromCivil()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 204]] - `references` [EXTRACTED]
-- [[daysFromCivil()_1_2]] - `contains` [EXTRACTED]
-- [[daysFromCivil()_2_1]] - `references` [EXTRACTED]
-- [[nthSunday()_1_1]] - `references` [EXTRACTED]
-- [[schedule()_1_1]] - `references` [EXTRACTED]
+- [[Connections_7462]] - `contains` [EXTRACTED]
+- [[daysFromCivil()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_144

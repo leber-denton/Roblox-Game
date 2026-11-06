@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/levelDef()_2.md"
+source_file: "vault/Graph/levelDef()_2_1.md"
 type: "document"
-community: "Community 75"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_75
+  - community/Community_168
 ---
 
-# levelDef()_2.md
+# levelDef()_2_1.md
 
 ## Connections
-- [[Connections_5266]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 101]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 75]] - `references` [EXTRACTED]
+- [[levelDef()_1]] - `references` [EXTRACTED]
 - [[levelDef()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_75
+#graphify/document #graphify/EXTRACTED #community/Community_168

@@ -12,7 +12,7 @@ tags:
 # sourceOf().md
 
 ## Connections
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 70]] - `references` [EXTRACTED]
 - [[categories()_1]] - `references` [EXTRACTED]
 - [[firstPropCopy()_1]] - `references` [EXTRACTED]
 - [[resolve()_1]] - `references` [EXTRACTED]

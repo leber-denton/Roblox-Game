@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.weakTeam()_1.md"
+source_file: "vault/Graph/Connections_5472.md"
 type: "document"
-community: "Community 12"
+community: "Community 1044"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1044
 ---
 
 # Connections
 
 ## Connections
-- [[commands.weakTeam()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_5472_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1044

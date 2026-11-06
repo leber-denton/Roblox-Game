@@ -12,7 +12,7 @@ tags:
 # setStatus()_1_1.md
 
 ## Connections
-- [[Connections_34]] - `contains` [EXTRACTED]
+- [[Connections_156]] - `contains` [EXTRACTED]
 - [[setStatus()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_101

@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/nameHits().md"
 type: "document"
-community: "Community 112"
+community: "Community 117"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_112
+  - community/Community_117
 ---
 
 # nameHits().md
@@ -15,6 +15,6 @@ tags:
 - [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
 - [[findTargets()_1]] - `references` [EXTRACTED]
 - [[isShowcaseOrGallery()_1]] - `references` [EXTRACTED]
-- [[nameHits()_2]] - `contains` [EXTRACTED]
+- [[nameHits()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_112
+#graphify/document #graphify/EXTRACTED #community/Community_117

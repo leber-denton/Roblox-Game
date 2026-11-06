@@ -1,26 +1,20 @@
 ---
-source_file: "vault/Graph/BattleFX.faint().md"
+source_file: "vault/Graph/BattleFX.faint()_1.md"
 type: "document"
-community: "Community 21"
+community: "Community 18"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_18
 ---
 
-# BattleFX.faint().md
+# BattleFX.faint()_1.md
 
 ## Connections
-- [[BattleFX.faint()_2]] - `contains` [EXTRACTED]
-- [[BattleFX.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 235]] - `references` [EXTRACTED]
-- [[groundRing()_5]] - `references` [EXTRACTED]
-- [[groundY()_1]] - `references` [EXTRACTED]
-- [[play()_2_3]] - `references` [EXTRACTED]
-- [[playTurn()_2]] - `references` [EXTRACTED]
-- [[rootOf()_1]] - `references` [EXTRACTED]
-- [[shakeCamera()_1]] - `references` [EXTRACTED]
-- [[sparkle()_5]] - `references` [EXTRACTED]
+- [[BattleFX.faint()_5]] - `contains` [EXTRACTED]
+- [[BattleFX.faint()_3]] - `references` [EXTRACTED]
+- [[Connections_519_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1037]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_18

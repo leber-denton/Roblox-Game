@@ -12,9 +12,10 @@ tags:
 # syncQuests()_2.md
 
 ## Connections
-- [[Connections_404_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
-- [[syncQuests()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 - [[syncQuests()_1]] - `references` [EXTRACTED]
+- [[syncQuests()_2_1]] - `contains` [EXTRACTED]
+- [[syncQuests()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

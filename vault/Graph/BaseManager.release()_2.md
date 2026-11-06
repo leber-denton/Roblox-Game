@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.release()_2.md"
+source_file: "vault/Graph/BaseManager.release()_4.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 2750"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_2750
 ---
 
-# BaseManager.release()_2.md
+# BaseManager.release()
 
 ## Connections
-- [[BaseManager.release()_1]] - `references` [EXTRACTED]
-- [[BaseManager.release()_2_1]] - `contains` [EXTRACTED]
-- [[Connections_959]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[BaseManager.release()_4]] - `contains` [EXTRACTED]
+- [[Connections_15278]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_2750

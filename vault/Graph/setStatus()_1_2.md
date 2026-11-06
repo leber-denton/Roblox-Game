@@ -15,6 +15,6 @@ tags:
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 - [[playTurn()_2]] - `references` [EXTRACTED]
 - [[setCard()_2]] - `references` [EXTRACTED]
-- [[setStatus()_2]] - `contains` [EXTRACTED]
+- [[setStatus()_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

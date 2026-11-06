@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_4742]] - document - vault/Graph/GraphCLAUDE_1.md
-- [[Connections_4743]] - document - vault/Graph/GraphCLAUDE.md
-- [[GraphCLAUDE]] - document - vault/Graph/GraphCLAUDE.md
-- [[GraphCLAUDE_2]] - document - vault/Graph/GraphCLAUDE.md
-- [[GraphCLAUDE_1]] - document - vault/Graph/GraphCLAUDE_1.md
-- [[GraphCLAUDE_1_1]] - document - vault/Graph/GraphCLAUDE_1.md
+- [[Connections_21138]] - document - vault/Graph/Connections_4742.md
+- [[Connections_21139]] - document - vault/Graph/Connections_4742.md
+- [[Connections_21140]] - document - vault/Graph/Connections_4743.md
+- [[Connections_21141]] - document - vault/Graph/Connections_4743.md
+- [[Connections_4742_1]] - document - vault/Graph/Connections_4742.md
+- [[Connections_4743_1]] - document - vault/Graph/Connections_4743.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,10 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 500]]
-- 1 edge to [[_COMMUNITY_Community 592]]
-- 1 edge to [[_COMMUNITY_Community 96]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[GraphCLAUDE]] - degree 5, connects to 3 communities
-- [[GraphCLAUDE_1]] - degree 3, connects to 1 community
+- [[Connections_4742_1]] - degree 3, connects to 1 community
+- [[Connections_4743_1]] - degree 3, connects to 1 community

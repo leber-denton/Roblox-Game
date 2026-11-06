@@ -12,7 +12,7 @@ tags:
 # galleryTrainers().md
 
 ## Connections
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 70]] - `references` [EXTRACTED]
 - [[categories()_1]] - `references` [EXTRACTED]
 - [[galleryTrainers()_2]] - `contains` [EXTRACTED]
 

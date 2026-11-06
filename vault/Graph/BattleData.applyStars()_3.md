@@ -1,26 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.applyStars().md"
+source_file: "vault/Graph/BattleData.applyStars()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2760"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2760
 ---
 
-# BattleData.applyStars().md
+# BattleData.applyStars()_3.md
 
 ## Connections
-- [[BaseManager.newRecord()_3]] - `references` [EXTRACTED]
-- [[BaseManager.restore()_4]] - `references` [EXTRACTED]
-- [[BattleData.applyStars()_4]] - `contains` [EXTRACTED]
-- [[BattleData.bestStats()_3]] - `references` [EXTRACTED]
-- [[BattleData.luau_3]] - `references` [EXTRACTED]
-- [[BattleData.rollIVs()_3]] - `references` [EXTRACTED]
-- [[BattleData.starsFor()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[commands.addStar()_3]] - `references` [EXTRACTED]
-- [[commands.maxTeam()_3]] - `references` [EXTRACTED]
+- [[BattleData.applyStars()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2760

@@ -1,25 +1,19 @@
 ---
-source_file: "vault/Graph/tabs.Items().md"
+source_file: "vault/Graph/tabs.Items()_1.md"
 type: "document"
-community: "Community 63"
+community: "Community 174"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_63
+  - community/Community_174
 ---
 
-# tabs.Items().md
+# tabs.Items()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[button()_3]] - `references` [EXTRACTED]
-- [[itemCard()_1]] - `references` [EXTRACTED]
-- [[label()_1_2]] - `references` [EXTRACTED]
-- [[listLayout()_1]] - `references` [EXTRACTED]
-- [[new()_3_3]] - `references` [EXTRACTED]
-- [[placedCount()_1_1]] - `references` [EXTRACTED]
-- [[startPlacing()_3]] - `references` [EXTRACTED]
-- [[tabs.Items()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 174]] - `references` [EXTRACTED]
+- [[tabs.Items()_1_2]] - `contains` [EXTRACTED]
+- [[tabs.Items()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_63
+#graphify/document #graphify/EXTRACTED #community/Community_174

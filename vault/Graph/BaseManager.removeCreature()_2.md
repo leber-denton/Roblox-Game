@@ -13,8 +13,10 @@ tags:
 
 ## Connections
 - [[BaseManager.removeCreature()_1]] - `references` [EXTRACTED]
-- [[BaseManager.removeCreature()_2_1]] - `contains` [EXTRACTED]
+- [[BaseManager.removeCreature()_2_3]] - `contains` [EXTRACTED]
+- [[BaseManager.removeCreature()_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 179]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 200]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_179

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GraphGameData.md"
+source_file: "vault/Graph/GraphGameData_1.md"
 type: "document"
 community: "Community 155"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_155
 ---
 
-# GraphGameData.md
+# GraphGameData_1.md
 
 ## Connections
-- [[Connections_2086]] - `contains` [EXTRACTED]
-- [[GraphGameData]] - `contains` [EXTRACTED]
+- [[GraphGameData]] - `references` [EXTRACTED]
+- [[GraphGameData_1_1]] - `contains` [EXTRACTED]
+- [[GraphGameData_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 155]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_155

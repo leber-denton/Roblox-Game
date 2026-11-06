@@ -1,55 +1,18 @@
 ---
-source_file: "src/ServerScriptService/Modules/AdminService.luau"
-type: "code"
-community: "Community 17"
-location: "L1"
+source_file: "vault/Graph/AdminService.luau_4.md"
+type: "document"
+community: "Community 2074"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_17
+  - community/Community_2074
 ---
 
 # AdminService.luau
 
 ## Connections
-- [[AdminService.init()]] - `contains` [EXTRACTED]
-- [[AdminService.isAdmin()]] - `contains` [EXTRACTED]
-- [[BattleData.luau]] - `imports` [EXTRACTED]
-- [[GameData.luau_3]] - `imports` [EXTRACTED]
-- [[Main.server.luau_3]] - `imports` [EXTRACTED]
-- [[commands.addStar()]] - `contains` [EXTRACTED]
-- [[commands.allBadges()]] - `contains` [EXTRACTED]
-- [[commands.badges()]] - `contains` [EXTRACTED]
-- [[commands.beatTrainers()]] - `contains` [EXTRACTED]
-- [[commands.bp()]] - `contains` [EXTRACTED]
-- [[commands.capacity()]] - `contains` [EXTRACTED]
-- [[commands.champion()]] - `contains` [EXTRACTED]
-- [[commands.clearWild()]] - `contains` [EXTRACTED]
-- [[commands.coins()]] - `contains` [EXTRACTED]
-- [[commands.finishTutorial()]] - `contains` [EXTRACTED]
-- [[commands.give()]] - `contains` [EXTRACTED]
-- [[commands.heal()]] - `contains` [EXTRACTED]
-- [[commands.info()]] - `contains` [EXTRACTED]
-- [[commands.items()]] - `contains` [EXTRACTED]
-- [[commands.juniper()]] - `contains` [EXTRACTED]
-- [[commands.maxTeam()]] - `contains` [EXTRACTED]
-- [[commands.newPlayer()]] - `contains` [EXTRACTED]
-- [[commands.opTeam()]] - `contains` [EXTRACTED]
-- [[commands.rare()]] - `contains` [EXTRACTED]
-- [[commands.resetTrainers()]] - `contains` [EXTRACTED]
-- [[commands.saving()]] - `contains` [EXTRACTED]
-- [[commands.storm()]] - `contains` [EXTRACTED]
-- [[commands.swarm()]] - `contains` [EXTRACTED]
-- [[commands.teleport()]] - `contains` [EXTRACTED]
-- [[commands.towerTop()]] - `contains` [EXTRACTED]
-- [[commands.weakTeam()]] - `contains` [EXTRACTED]
-- [[give()]] - `contains` [EXTRACTED]
-- [[script_parent_basemanager_5]] - `imports` [EXTRACTED]
-- [[script_parent_battleservice_5]] - `imports` [EXTRACTED]
-- [[script_parent_playerdata_5]] - `imports` [EXTRACTED]
-- [[script_parent_rareeventservice_5]] - `imports` [EXTRACTED]
-- [[script_parent_wildspawner_5]] - `imports` [EXTRACTED]
-- [[spots()]] - `contains` [EXTRACTED]
-- [[strongest()_1]] - `contains` [EXTRACTED]
+- [[AdminService.luau_4]] - `contains` [EXTRACTED]
+- [[Connections_12297]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_17
+#graphify/document #graphify/EXTRACTED #community/Community_2074

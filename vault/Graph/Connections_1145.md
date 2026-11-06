@@ -1,19 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_1145.md"
+source_file: "vault/Graph/GraphSaveService_1.md"
 type: "document"
-community: "Community 1071"
-location: "L1"
+community: "Community 1069"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1071
+  - community/Community_1069
 ---
 
-# Connections_1145.md
+# Connections
 
 ## Connections
-- [[Connections_178]] - `contains` [EXTRACTED]
-- [[Connections_1144]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
+- [[GraphSaveService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1071
+#graphify/document #graphify/EXTRACTED #community/Community_1069

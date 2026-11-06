@@ -1,19 +1,22 @@
 ---
-source_file: "vault/Graph/Connections_944.md"
+source_file: "vault/Graph/Connections_944_1.md"
 type: "document"
-community: "Community 840"
+community: "Community 1238"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_840
+  - community/Community_1238
 ---
 
-# Connections_944.md
+# Connections_944_1.md
 
 ## Connections
-- [[Connections_5577]] - `contains` [EXTRACTED]
+- [[Connections_5577_1]] - `references` [EXTRACTED]
+- [[Connections_944_1_1]] - `contains` [EXTRACTED]
 - [[LockedLanes_1_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1238]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 129]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 840]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_840
+#graphify/document #graphify/EXTRACTED #community/Community_1238

@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/go()_2.md"
+source_file: "vault/Graph/go().md"
 type: "document"
-community: "Community 149"
-location: "L1"
+community: "Community 212"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_149
+  - community/Community_212
 ---
 
-# go()_2.md
+# go()
 
 ## Connections
-- [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 212]] - `references` [EXTRACTED]
-- [[go()_1]] - `references` [EXTRACTED]
-- [[go()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_12525]] - `contains` [EXTRACTED]
+- [[go()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_149
+#graphify/document #graphify/EXTRACTED #community/Community_212

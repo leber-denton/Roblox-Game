@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/updateJourney()_2.md"
+source_file: "vault/Graph/updateJourney().md"
 type: "document"
-community: "Community 226"
-location: "L1"
+community: "Community 234"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_234
 ---
 
-# updateJourney()_2.md
+# updateJourney()
 
 ## Connections
-- [[_COMMUNITY_Community 246]] - `references` [EXTRACTED]
-- [[updateJourney()_4]] - `contains` [EXTRACTED]
-- [[updateJourney()_1]] - `references` [EXTRACTED]
+- [[Connections_13557]] - `contains` [EXTRACTED]
+- [[updateJourney()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_234

@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/unlockAll()_1.md"
+source_file: "vault/Graph/unlockAll()_2.md"
 type: "document"
-community: "Community 328"
-location: "L1"
+community: "Community 1393"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_328
+  - community/Community_1393
 ---
 
-# unlockAll()_1.md
+# unlockAll()
 
 ## Connections
-- [[FirstSpawnLock.client.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 328]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 35]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 92]] - `references` [EXTRACTED]
-- [[unlockAll()_1_1]] - `contains` [EXTRACTED]
-- [[unlockAll()_2]] - `references` [EXTRACTED]
-- [[update()_1_1_1]] - `references` [EXTRACTED]
+- [[Connections_6964]] - `contains` [EXTRACTED]
+- [[unlockAll()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_328
+#graphify/document #graphify/EXTRACTED #community/Community_1393

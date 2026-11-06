@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/commands.allBadges().md"
+source_file: "vault/Graph/commands.allBadges()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 2806"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2806
 ---
 
-# commands.allBadges().md
+# commands.allBadges()_4.md
 
 ## Connections
-- [[AdminService.luau_2_1]] - `references` [EXTRACTED]
-- [[PlayerData.addBadge()_1]] - `references` [EXTRACTED]
-- [[PlayerData.hasBadge()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
 - [[commands.allBadges()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2806

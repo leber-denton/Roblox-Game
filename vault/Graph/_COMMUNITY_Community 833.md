@@ -1,19 +1,25 @@
 ---
 type: community
-members: 6
+members: 12
 ---
 
 # Community 833
 
-**Members:** 6 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_5551]] - document - vault/Graph/Connections_369.md
-- [[Connections_5552]] - document - vault/Graph/Connections_369.md
-- [[Connections_5553]] - document - vault/Graph/FirstSpawnLock.client.luau.md
-- [[Connections_369_1]] - document - vault/Graph/Connections_369.md
-- [[FirstSpawnLock.client.luau_3]] - document - vault/Graph/FirstSpawnLock.client.luau.md
-- [[FirstSpawnLock.client.luau_4]] - document - vault/Graph/FirstSpawnLock.client.luau.md
+- [[Connections_23089]] - document - vault/Graph/Connections_1187.md
+- [[Connections_23090]] - document - vault/Graph/Connections_1187.md
+- [[Connections_23091]] - document - vault/Graph/Connections_1188.md
+- [[Connections_23092]] - document - vault/Graph/Connections_1188.md
+- [[Connections_23093]] - document - vault/Graph/Connections_4096.md
+- [[Connections_23094]] - document - vault/Graph/Features.blush()_3.md
+- [[Connections_1187_1]] - document - vault/Graph/Connections_1187.md
+- [[Connections_1188_1]] - document - vault/Graph/Connections_1188.md
+- [[Connections_4096_1]] - document - vault/Graph/Connections_4096.md
+- [[Connections_4096_2]] - document - vault/Graph/Connections_4096.md
+- [[Features.blush()_3_1]] - document - vault/Graph/Features.blush()_3.md
+- [[Features.blush()_3_2]] - document - vault/Graph/Features.blush()_3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,7 +29,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 328]]
+- 4 edges to [[_COMMUNITY_Community 1077]]
+- 2 edges to [[_COMMUNITY_Community 369]]
+- 1 edge to [[_COMMUNITY_Community 1310]]
 
 ## Top bridge nodes
-- [[FirstSpawnLock.client.luau_3]] - degree 3, connects to 1 community
+- [[Features.blush()_3_1]] - degree 5, connects to 3 communities
+- [[Connections_4096_1]] - degree 5, connects to 2 communities
+- [[Connections_1187_1]] - degree 4, connects to 1 community
+- [[Connections_1188_1]] - degree 3, connects to 1 community

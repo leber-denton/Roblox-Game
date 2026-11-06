@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/io_2.md"
+source_file: "vault/Graph/io_4.md"
 type: "document"
-community: "Community 219"
-location: "L1"
+community: "Community 1669"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_219
+  - community/Community_1669
 ---
 
-# io_2.md
+# io.md
 
 ## Connections
-- [[_COMMUNITY_Community 219]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 82]] - `references` [EXTRACTED]
-- [[io_2_1]] - `contains` [EXTRACTED]
-- [[write_vault.py_2]] - `references` [EXTRACTED]
+- [[Connections_9339]] - `contains` [EXTRACTED]
+- [[io_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_219
+#graphify/document #graphify/EXTRACTED #community/Community_1669

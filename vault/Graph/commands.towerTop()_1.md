@@ -1,19 +1,22 @@
 ---
-source_file: "vault/Graph/commands.towerTop().md"
+source_file: "vault/Graph/commands.towerTop()_1.md"
 type: "document"
-community: "Community 1126"
+community: "Community 1127"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1126
+  - community/Community_1127
 ---
 
-# commands.towerTop().md
+# commands.towerTop()_1.md
 
 ## Connections
-- [[AdminService.luau_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1126]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
-- [[commands.towerTop()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 194]] - `references` [EXTRACTED]
+- [[commands.towerTop()_1_1]] - `contains` [EXTRACTED]
+- [[commands.towerTop()_2]] - `references` [EXTRACTED]
+- [[commands.towerTop()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1126
+#graphify/document #graphify/EXTRACTED #community/Community_1127

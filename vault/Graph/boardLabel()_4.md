@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/boardLabel()_2.md"
+source_file: "vault/Graph/boardLabel()_3.md"
 type: "document"
-community: "Community 990"
+community: "Community 256"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_990
+  - community/Community_256
 ---
 
-# boardLabel()
+# boardLabel().md
 
 ## Connections
-- [[Connections_6390]] - `contains` [EXTRACTED]
-- [[boardLabel()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_14529]] - `contains` [EXTRACTED]
+- [[boardLabel()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_990
+#graphify/document #graphify/EXTRACTED #community/Community_256

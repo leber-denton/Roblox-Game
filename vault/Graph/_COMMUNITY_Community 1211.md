@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 1211
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_1143]] - document - vault/Graph/Connections_56.md
-- [[Connections_1146]] - document - vault/Graph/Connections_56.md
-- [[Connections_56_1]] - document - vault/Graph/Connections_56.md
+- [[Community 1090]] - document - vault/Graph/_COMMUNITY_Community 1090.md
+- [[Connections to other communities_238]] - document - vault/Graph/_COMMUNITY_Community 1090.md
+- [[Live Query (requires Dataview plugin)_315]] - document - vault/Graph/_COMMUNITY_Community 1090.md
+- [[Members_312]] - document - vault/Graph/_COMMUNITY_Community 1090.md
+- [[Top bridge nodes_234]] - document - vault/Graph/_COMMUNITY_Community 1090.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 75]]
+- 1 edge to [[_COMMUNITY_Community 1090]]
 
 ## Top bridge nodes
-- [[Connections_56_1]] - degree 2, connects to 1 community
+- [[Community 1090]] - degree 5, connects to 1 community

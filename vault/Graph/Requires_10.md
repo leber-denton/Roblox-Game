@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_10.md"
+source_file: "vault/Code/PassService.md"
 type: "document"
-community: "Community 126"
-location: "L1"
+community: "Community 11"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_126
+  - community/Community_11
 ---
 
-# Requires_10.md
+# Requires
 
 ## Connections
-- [[Connections_925_1]] - `references` [EXTRACTED]
-- [[Requires_7]] - `contains` [EXTRACTED]
-- [[Requires_7_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 126]] - `references` [EXTRACTED]
+- [[PassService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_126
+#graphify/document #graphify/EXTRACTED #community/Community_11

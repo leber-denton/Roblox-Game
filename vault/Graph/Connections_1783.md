@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/LeaderboardService.refresh()_1.md"
+source_file: "vault/Graph/Connections_1368.md"
 type: "document"
-community: "Community 1426"
-location: "L14"
+community: "Community 1100"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1426
+  - community/Community_1100
 ---
 
 # Connections
 
 ## Connections
-- [[LeaderboardService.refresh()_3]] - `contains` [EXTRACTED]
+- [[Connections_1784]] - `contains` [EXTRACTED]
+- [[Connections_1368_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1426
+#graphify/document #graphify/EXTRACTED #community/Community_1100

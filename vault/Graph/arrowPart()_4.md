@@ -12,7 +12,7 @@ tags:
 # arrowPart()
 
 ## Connections
-- [[Connections_206]] - `contains` [EXTRACTED]
+- [[Connections_1459]] - `contains` [EXTRACTED]
 - [[arrowPart()_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_109

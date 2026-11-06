@@ -1,19 +1,35 @@
 ---
 type: community
-members: 6
+members: 22
 ---
 
 # Community 851
 
-**Members:** 6 nodes
+**Members:** 22 nodes
 
 ## Members
-- [[Connections_5609]] - document - vault/Graph/Connections_436.md
-- [[Connections_5610]] - document - vault/Graph/Connections_436.md
-- [[Connections_5611]] - document - vault/Graph/round()_8.md
-- [[Connections_436_1]] - document - vault/Graph/Connections_436.md
-- [[round()_18]] - document - vault/Graph/round()_8.md
-- [[round()_8_1]] - document - vault/Graph/round()_8.md
+- [[CodeGymService_3]] - document - vault/Graph/CodeGymService_1.md
+- [[CodeGymService_4]] - document - vault/Graph/CodeGymService_2.md
+- [[CodeGymService_1]] - document - vault/Graph/CodeGymService_1.md
+- [[CodeGymService_2]] - document - vault/Graph/CodeGymService_2.md
+- [[Community 550]] - document - vault/Graph/_COMMUNITY_Community 550.md
+- [[Community 851]] - document - vault/Graph/_COMMUNITY_Community 851.md
+- [[Connections_23253]] - document - vault/Graph/CodeGymService_1.md
+- [[Connections_23254]] - document - vault/Graph/CodeGymService_2.md
+- [[Connections_23255]] - document - vault/Graph/Connections_109_1.md
+- [[Connections_23256]] - document - vault/Graph/Connections_111_1.md
+- [[Connections to other communities_1592]] - document - vault/Graph/_COMMUNITY_Community 851.md
+- [[Connections_109_2]] - document - vault/Graph/Connections_109_1.md
+- [[Connections_109_1_1]] - document - vault/Graph/Connections_109_1.md
+- [[Connections_111_2]] - document - vault/Graph/Connections_111_1.md
+- [[Connections_111_1_1]] - document - vault/Graph/Connections_111_1.md
+- [[Live Query (requires Dataview plugin)_1865]] - document - vault/Graph/_COMMUNITY_Community 550.md
+- [[Live Query (requires Dataview plugin)_1866]] - document - vault/Graph/_COMMUNITY_Community 851.md
+- [[Members_1864]] - document - vault/Graph/_COMMUNITY_Community 550.md
+- [[Members_1865]] - document - vault/Graph/_COMMUNITY_Community 851.md
+- [[Top bridge nodes_1584]] - document - vault/Graph/_COMMUNITY_Community 851.md
+- [[_COMMUNITY_Community 550]] - document - vault/Graph/_COMMUNITY_Community 550.md
+- [[_COMMUNITY_Community 851]] - document - vault/Graph/_COMMUNITY_Community 851.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +39,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 602]]
-- 1 edge to [[_COMMUNITY_Community 506]]
+- 4 edges to [[_COMMUNITY_Community 1042]]
+- 1 edge to [[_COMMUNITY_Community 329]]
 
 ## Top bridge nodes
-- [[round()_8_1]] - degree 4, connects to 2 communities
-- [[Connections_436_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 550]] - degree 7, connects to 1 community
+- [[CodeGymService_1]] - degree 3, connects to 1 community
+- [[Connections_109_1_1]] - degree 3, connects to 1 community
+- [[Connections_111_1_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 851]] - degree 3, connects to 1 community

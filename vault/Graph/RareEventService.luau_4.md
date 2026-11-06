@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/RareEventService.luau.md"
+source_file: "vault/Graph/RareEventService.luau_2.md"
 type: "document"
 community: "Community 53"
 location: "L12"
@@ -12,7 +12,7 @@ tags:
 # RareEventService.luau
 
 ## Connections
-- [[Connections_4571]] - `contains` [EXTRACTED]
-- [[RareEventService.luau_3]] - `contains` [EXTRACTED]
+- [[Connections_20505]] - `contains` [EXTRACTED]
+- [[RareEventService.luau_2_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_53

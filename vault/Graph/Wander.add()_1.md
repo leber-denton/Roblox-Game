@@ -12,7 +12,8 @@ tags:
 # Wander.add()_1.md
 
 ## Connections
-- [[Wander.add()_1_1]] - `contains` [EXTRACTED]
+- [[Wander.add()_1_3]] - `contains` [EXTRACTED]
+- [[Wander.add()_1_1]] - `references` [EXTRACTED]
 - [[Wander.add()_2]] - `references` [EXTRACTED]
 - [[Wander.luau_1]] - `references` [EXTRACTED]
 - [[WildSpawner.spawnOne()_1]] - `references` [EXTRACTED]

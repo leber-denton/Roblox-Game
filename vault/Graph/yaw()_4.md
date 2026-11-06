@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/yaw().md"
+source_file: "vault/Graph/yaw()_4.md"
 type: "document"
-community: "Community 89"
-location: "L12"
+community: "Community 1111"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_89
+  - community/Community_1111
 ---
 
-# yaw()
+# yaw()_4.md
 
 ## Connections
-- [[Connections_5981]] - `contains` [EXTRACTED]
-- [[yaw()_3]] - `contains` [EXTRACTED]
+- [[Connections_5981]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1111]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 89]] - `references` [EXTRACTED]
+- [[yaw()_2]] - `references` [EXTRACTED]
+- [[yaw()_3]] - `references` [EXTRACTED]
+- [[yaw()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_89
+#graphify/document #graphify/EXTRACTED #community/Community_1111

@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/Creature Quest.md"
+source_file: "vault/Graph/Connections_6270.md"
 type: "document"
-community: "Community 96"
-location: "L14"
+community: "Community 1139"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_96
+  - community/Community_1139
 ---
 
-# Connections
+# Connections_6270.md
 
 ## Connections
-- [[Creature Quest_4]] - `contains` [EXTRACTED]
+- [[Connections_2525]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_465]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1488]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_96
+#graphify/document #graphify/EXTRACTED #community/Community_1139

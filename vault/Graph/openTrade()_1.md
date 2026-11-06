@@ -12,7 +12,8 @@ tags:
 # openTrade()_1.md
 
 ## Connections
-- [[Connections_442]] - `references` [EXTRACTED]
-- [[openTrade()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1165]] - `references` [EXTRACTED]
+- [[openTrade()_1_1]] - `contains` [EXTRACTED]
+- [[openTrade()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1165

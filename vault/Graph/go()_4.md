@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/go().md"
+source_file: "vault/Graph/go()_4.md"
 type: "document"
-community: "Community 322"
-location: "L12"
+community: "Community 561"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_322
+  - community/Community_561
 ---
 
-# go()
+# go()_4.md
 
 ## Connections
-- [[Connections_3858]] - `contains` [EXTRACTED]
-- [[go()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 212]] - `references` [EXTRACTED]
+- [[go()_6]] - `contains` [EXTRACTED]
+- [[go()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_322
+#graphify/document #graphify/EXTRACTED #community/Community_561

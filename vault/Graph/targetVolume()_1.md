@@ -12,8 +12,8 @@ tags:
 # targetVolume().md
 
 ## Connections
-- [[Functions_2]] - `references` [EXTRACTED]
-- [[Music.client.luau_1]] - `references` [EXTRACTED]
+- [[Functions_1]] - `references` [EXTRACTED]
+- [[Music.client.luau]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 - [[applyMute()_1]] - `references` [EXTRACTED]
 - [[switch()_1]] - `references` [EXTRACTED]

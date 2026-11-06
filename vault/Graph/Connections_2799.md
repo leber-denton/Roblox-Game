@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ShowcaseBuilder.luau.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_175.md"
 type: "document"
-community: "Community 189"
+community: "Community 1152"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_189
+  - community/Community_1152
 ---
 
 # Connections
 
 ## Connections
-- [[ShowcaseBuilder.luau_1]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_245]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_189
+#graphify/document #graphify/EXTRACTED #community/Community_1152

@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/commands.items().md"
+source_file: "vault/Graph/commands.items()_5.md"
 type: "document"
-community: "Community 86"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_168
 ---
 
-# commands.items().md
+# commands.items()_5.md
 
 ## Connections
-- [[AdminService.luau_2_1]] - `references` [EXTRACTED]
-- [[PlayerData.addItem()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
-- [[commands.items()_6]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
+- [[commands.items()_1]] - `contains` [EXTRACTED]
+- [[commands.items()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_168

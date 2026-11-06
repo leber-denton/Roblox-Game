@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[CLAUDE]] - `contains` [EXTRACTED]
-- [[File endings_1]] - `contains` [EXTRACTED]
-- [[Layout_5]] - `contains` [EXTRACTED]
+- [[File endings_4]] - `contains` [EXTRACTED]
+- [[Layout_12]] - `contains` [EXTRACTED]
 - [[Reading code]] - `contains` [EXTRACTED]
 - [[Sync]] - `contains` [EXTRACTED]
 - [[Testing]] - `contains` [EXTRACTED]

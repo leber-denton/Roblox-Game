@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/setGateOpen().md"
+source_file: "vault/Graph/setGateOpen()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 3186"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3186
 ---
 
-# setGateOpen().md
+# setGateOpen()_3.md
 
 ## Connections
-- [[BaseManager.assign()_3]] - `references` [EXTRACTED]
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[BaseManager.release()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[setGateOpen()_4]] - `contains` [EXTRACTED]
+- [[setGateOpen()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3186

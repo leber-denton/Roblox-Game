@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Shapes.fighter()_1.md"
+source_file: "vault/Graph/Shapes.fighter()_3.md"
 type: "document"
-community: "Community 745"
-location: "L12"
+community: "Community 661"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_745
+  - community/Community_661
 ---
 
-# Shapes.fighter().md
+# Shapes.fighter()_3.md
 
 ## Connections
-- [[Connections_5243]] - `contains` [EXTRACTED]
-- [[Shapes.fighter()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_4329_1]] - `references` [EXTRACTED]
+- [[Shapes.fighter()_5]] - `contains` [EXTRACTED]
+- [[Shapes.fighter()_1_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_745
+#graphify/document #graphify/EXTRACTED #community/Community_661

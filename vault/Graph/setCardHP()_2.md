@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
-- [[hpColor()_2]] - `references` [EXTRACTED]
+- [[hpColor()_1]] - `references` [EXTRACTED]
 - [[playTurn()_2]] - `references` [EXTRACTED]
 - [[setCard()_2]] - `references` [EXTRACTED]
 - [[setCardHP()_3]] - `contains` [EXTRACTED]

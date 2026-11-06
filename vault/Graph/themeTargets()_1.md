@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/themeTargets()_1.md"
+source_file: "vault/Graph/themeTargets()_3.md"
 type: "document"
-community: "Community 249"
-location: "L1"
+community: "Community 2326"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_249
+  - community/Community_2326
 ---
 
-# themeTargets()_1.md
+# themeTargets()
 
 ## Connections
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 249]] - `references` [EXTRACTED]
-- [[applyTheme()_1]] - `references` [EXTRACTED]
-- [[rememberOriginals()_1]] - `references` [EXTRACTED]
-- [[themeTargets()_1_1]] - `contains` [EXTRACTED]
-- [[themeTargets()_2]] - `references` [EXTRACTED]
+- [[Connections_13499]] - `contains` [EXTRACTED]
+- [[themeTargets()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_249
+#graphify/document #graphify/EXTRACTED #community/Community_2326

@@ -12,7 +12,7 @@ tags:
 # GraphBattleFX.md
 
 ## Connections
-- [[GraphBattleFX_2]] - `contains` [EXTRACTED]
+- [[GraphBattleFX_5]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 303]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_303

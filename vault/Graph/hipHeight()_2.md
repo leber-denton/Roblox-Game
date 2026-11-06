@@ -12,8 +12,10 @@ tags:
 # hipHeight()_2.md
 
 ## Connections
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 319]] - `references` [EXTRACTED]
-- [[hipHeight()_3]] - `contains` [EXTRACTED]
 - [[hipHeight()_1]] - `references` [EXTRACTED]
+- [[hipHeight()_2_1]] - `contains` [EXTRACTED]
+- [[hipHeight()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

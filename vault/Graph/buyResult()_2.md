@@ -12,7 +12,9 @@ tags:
 # buyResult()_2.md
 
 ## Connections
-- [[buyResult()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 564]] - `references` [EXTRACTED]
 - [[buyResult()_1]] - `references` [EXTRACTED]
+- [[buyResult()_2_1]] - `contains` [EXTRACTED]
+- [[buyResult()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_564

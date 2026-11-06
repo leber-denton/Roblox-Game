@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/SocialService.init()_1.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_314.md"
 type: "document"
-community: "Community 1235"
+community: "Community 1076"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1235
+  - community/Community_1076
 ---
 
 # Connections
 
 ## Connections
-- [[SocialService.init()_2]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_314_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1235
+#graphify/document #graphify/EXTRACTED #community/Community_1076

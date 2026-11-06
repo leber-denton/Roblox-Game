@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/setVisible().md"
+source_file: "vault/Graph/setVisible()_6.md"
 type: "document"
-community: "Community 234"
-location: "L12"
+community: "Community 1697"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_1697
 ---
 
-# setVisible()
+# setVisible()_6.md
 
 ## Connections
-- [[Connections_3294]] - `contains` [EXTRACTED]
-- [[setVisible()_5]] - `contains` [EXTRACTED]
+- [[Connections_2820_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
+- [[setVisible()_3]] - `contains` [EXTRACTED]
+- [[setVisible()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_1697

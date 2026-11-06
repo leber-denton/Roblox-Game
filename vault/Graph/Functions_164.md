@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Functions_84.md"
+source_file: "vault/Graph/Functions_164.md"
 type: "document"
-community: "Community 642"
-location: "L12"
+community: "Community 1056"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_642
+  - community/Community_1056
 ---
 
-# Functions
+# Functions_164.md
 
 ## Connections
-- [[Connections_4901]] - `contains` [EXTRACTED]
-- [[Functions_84_1]] - `contains` [EXTRACTED]
+- [[Functions_10]] - `contains` [EXTRACTED]
+- [[ProgressService_2]] - `references` [EXTRACTED]
+- [[today()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_642
+#graphify/document #graphify/EXTRACTED #community/Community_1056

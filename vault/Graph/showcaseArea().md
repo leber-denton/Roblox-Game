@@ -12,8 +12,8 @@ tags:
 # showcaseArea()
 
 ## Connections
-- [[Functions_182]] - `references` [INFERRED]
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[Functions_238]] - `references` [INFERRED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[getShowcase()]] - `calls` [EXTRACTED]
 - [[isShowcaseOrGallery()]] - `calls` [EXTRACTED]
 - [[showcaseModels()]] - `calls` [EXTRACTED]

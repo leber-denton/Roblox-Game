@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_320.md"
+source_file: "vault/Graph/updateCoins()_5.md"
 type: "document"
-community: "Community 117"
+community: "Community 103"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_103
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_449]] - `contains` [EXTRACTED]
+- [[updateCoins()_7]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_103

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Code/NPCLife.md"
+source_file: "vault/Graph/CodeNPCLife_2.md"
 type: "document"
-community: "Community 58"
+community: "Community 131"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_58
+  - community/Community_131
 ---
 
-# Code/NPCLife.md
+# CodeNPCLife_2.md
 
 ## Connections
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
-- [[NPCLife]] - `contains` [EXTRACTED]
+- [[CodeNPCLife_4]] - `contains` [EXTRACTED]
+- [[CodeNPCLife_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 427]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_58
+#graphify/document #graphify/EXTRACTED #community/Community_131

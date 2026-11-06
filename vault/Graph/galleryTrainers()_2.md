@@ -12,7 +12,7 @@ tags:
 # galleryTrainers()
 
 ## Connections
-- [[Connections_1603]] - `contains` [EXTRACTED]
+- [[Connections_6584]] - `contains` [EXTRACTED]
 - [[galleryTrainers()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_136

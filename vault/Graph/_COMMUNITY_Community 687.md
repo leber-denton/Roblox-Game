@@ -9,7 +9,7 @@ members: 7
 
 ## Members
 - [[LeaderboardService.init()]] - code - src/ServerScriptService/Modules/LeaderboardService.luau
-- [[LeaderboardService.luau_5]] - code - src/ServerScriptService/Modules/LeaderboardService.luau
+- [[LeaderboardService.luau_8]] - code - src/ServerScriptService/Modules/LeaderboardService.luau
 - [[LeaderboardService.onJoin()]] - code - src/ServerScriptService/Modules/LeaderboardService.luau
 - [[LeaderboardService.refresh()]] - code - src/ServerScriptService/Modules/LeaderboardService.luau
 - [[draw()]] - code - src/ServerScriptService/Modules/LeaderboardService.luau
@@ -24,10 +24,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 2]]
-- 1 edge to [[_COMMUNITY_Community 15]]
-- 1 edge to [[_COMMUNITY_Community 22]]
+- 2 edges to [[_COMMUNITY_Community 15]]
+- 1 edge to [[_COMMUNITY_Community 11]]
 
 ## Top bridge nodes
-- [[LeaderboardService.luau_5]] - degree 8, connects to 2 communities
+- [[LeaderboardService.luau_8]] - degree 8, connects to 1 community
 - [[LeaderboardService.onJoin()]] - degree 3, connects to 1 community

@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/defaults().md"
+source_file: "vault/Graph/defaults()_6.md"
 type: "document"
-community: "Community 86"
+community: "Community 152"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_152
 ---
 
-# defaults().md
+# defaults()_6.md
 
 ## Connections
-- [[DecorService.initPlayer()_3]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[defaults()_8]] - `contains` [EXTRACTED]
-- [[loadSaved()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[defaults()_7]] - `contains` [EXTRACTED]
+- [[defaults()_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_152

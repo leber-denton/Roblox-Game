@@ -12,7 +12,7 @@ tags:
 # refresh()
 
 ## Connections
-- [[Connections_2982]] - `contains` [EXTRACTED]
-- [[refresh()_6]] - `contains` [EXTRACTED]
+- [[Connections_12072]] - `contains` [EXTRACTED]
+- [[refresh()_7]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_203

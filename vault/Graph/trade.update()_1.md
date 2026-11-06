@@ -1,22 +1,19 @@
 ---
-source_file: "vault/Graph/trade.update()_1.md"
+source_file: "vault/Graph/trade.update().md"
 type: "document"
-community: "Community 226"
+community: "Community 319"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_319
 ---
 
-# trade.update()_1.md
+# trade.update().md
 
 ## Connections
-- [[Menus.client.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 203]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 418]] - `references` [EXTRACTED]
 - [[render()_1_1]] - `references` [EXTRACTED]
-- [[trade.update()_3]] - `contains` [EXTRACTED]
-- [[trade.update()_2]] - `references` [EXTRACTED]
+- [[trade.update()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_319

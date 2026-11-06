@@ -12,7 +12,9 @@ tags:
 # gridLayout()_2.md
 
 ## Connections
-- [[gridLayout()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 249]] - `references` [EXTRACTED]
 - [[gridLayout()_1]] - `references` [EXTRACTED]
+- [[gridLayout()_2_1]] - `contains` [EXTRACTED]
+- [[gridLayout()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_249

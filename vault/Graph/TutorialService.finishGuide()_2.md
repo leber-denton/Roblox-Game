@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/TutorialService.finishGuide()_2.md"
+source_file: "vault/Graph/TutorialService.finishGuide().md"
 type: "document"
-community: "Community 134"
-location: "L1"
+community: "Community 276"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_276
 ---
 
-# TutorialService.finishGuide()_2.md
+# TutorialService.finishGuide()
 
 ## Connections
-- [[TutorialService.finishGuide()_4]] - `contains` [EXTRACTED]
-- [[TutorialService.finishGuide()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[Connections_15375]] - `contains` [EXTRACTED]
+- [[TutorialService.finishGuide()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_276

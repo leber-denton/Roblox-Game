@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/setupActivities()_2.md"
+source_file: "vault/Graph/setupActivities()_4.md"
 type: "document"
-community: "Community 762"
-location: "L12"
+community: "Community 1644"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_762
+  - community/Community_1644
 ---
 
-# setupActivities()
+# setupActivities()_4.md
 
 ## Connections
-- [[Connections_5316]] - `contains` [EXTRACTED]
-- [[setupActivities()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 762]] - `references` [EXTRACTED]
+- [[setupActivities()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_762
+#graphify/document #graphify/EXTRACTED #community/Community_1644

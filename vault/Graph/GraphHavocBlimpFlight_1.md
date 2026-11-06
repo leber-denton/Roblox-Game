@@ -1,18 +1,20 @@
 ---
 source_file: "vault/Graph/GraphHavocBlimpFlight.md"
 type: "document"
-community: "Community 127"
-location: "L12"
+community: "Community 980"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_127
+  - community/Community_980
 ---
 
 # GraphHavocBlimpFlight.md
 
 ## Connections
-- [[Connections_1323]] - `contains` [EXTRACTED]
-- [[GraphHavocBlimpFlight]] - `contains` [EXTRACTED]
+- [[GraphHavocBlimpFlight_4]] - `contains` [EXTRACTED]
+- [[GraphHavocBlimpFlight_1_1]] - `references` [EXTRACTED]
+- [[HavocBlimpFlight_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 127]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_127
+#graphify/document #graphify/EXTRACTED #community/Community_980

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/queueDialogue()_1.md"
+source_file: "vault/Graph/commands.juniper()_3.md"
 type: "document"
-community: "Community 240"
+community: "Community 1188"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1188
 ---
 
 # Connections
 
 ## Connections
-- [[queueDialogue()_3]] - `contains` [EXTRACTED]
+- [[commands.juniper()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1188

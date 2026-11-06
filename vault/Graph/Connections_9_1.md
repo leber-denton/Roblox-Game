@@ -12,8 +12,8 @@ tags:
 # Connections_9.md
 
 ## Connections
-- [[Connections_2686]] - `contains` [EXTRACTED]
+- [[Connections_10919]] - `contains` [EXTRACTED]
+- [[Music_1_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 100]] - `references` [EXTRACTED]
-- [[wanted()_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_182

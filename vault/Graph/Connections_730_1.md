@@ -1,19 +1,19 @@
 ---
-source_file: "vault/Graph/Connections_730.md"
+source_file: "vault/Graph/Connections_730_1.md"
 type: "document"
-community: "Community 884"
+community: "Community 3434"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_884
+  - community/Community_3434
 ---
 
-# Connections_730.md
+# Connections_730_1.md
 
 ## Connections
-- [[Connections_5964]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[makeCard()_2_1]] - `references` [EXTRACTED]
+- [[Connections_730_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 171]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_884
+#graphify/document #graphify/EXTRACTED #community/Community_3434

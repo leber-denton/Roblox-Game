@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/canChallenge()_1.md"
+source_file: "vault/Graph/Members_15.md"
 type: "document"
-community: "Community 134"
+community: "Community 1088"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1088
 ---
 
 # Connections
 
 ## Connections
-- [[canChallenge()_1_1]] - `contains` [EXTRACTED]
+- [[Members_125]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1088

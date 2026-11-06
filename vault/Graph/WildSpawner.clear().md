@@ -12,7 +12,7 @@ tags:
 # WildSpawner.clear()
 
 ## Connections
-- [[WildSpawner.luau_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.luau]] - `contains` [EXTRACTED]
 - [[WildSpawner.shift()]] - `calls` [EXTRACTED]
 - [[commands.clearWild()]] - `calls` [INFERRED]
 

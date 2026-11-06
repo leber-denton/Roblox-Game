@@ -12,12 +12,12 @@ tags:
 # typeChips()_1.md
 
 ## Connections
-- [[CreatureIndex.client.luau_2]] - `references` [EXTRACTED]
+- [[CreatureIndex.client.luau_5]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[label()_5_1]] - `references` [EXTRACTED]
-- [[new()_10_1]] - `references` [EXTRACTED]
-- [[showDetail()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 420]] - `references` [EXTRACTED]
+- [[label()_3_1_1]] - `references` [EXTRACTED]
+- [[new()_6_1_1]] - `references` [EXTRACTED]
+- [[showDetail()_1_1_1]] - `references` [EXTRACTED]
 - [[typeChips()_3]] - `contains` [EXTRACTED]
 - [[typeChips()_2_1]] - `references` [EXTRACTED]
 

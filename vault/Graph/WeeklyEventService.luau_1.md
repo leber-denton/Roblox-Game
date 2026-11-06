@@ -1,20 +1,26 @@
 ---
-source_file: "vault/Graph/WeeklyEventService.luau_1.md"
-type: "document"
-community: "Community 144"
+source_file: "src/ServerScriptService/Modules/WeeklyEventService.luau"
+type: "code"
+community: "Community 2"
 location: "L1"
 tags:
-  - graphify/document
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Community_144
+  - community/Community_2
 ---
 
-# WeeklyEventService.luau_1.md
+# WeeklyEventService.luau
 
 ## Connections
-- [[WeeklyEventService.luau]] - `references` [EXTRACTED]
-- [[WeeklyEventService.luau_1_1]] - `contains` [EXTRACTED]
-- [[WeeklyEventService.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
+- [[GameData.luau]] - `imports` [EXTRACTED]
+- [[Main.server.luau]] - `imports` [EXTRACTED]
+- [[WeeklyEventService.init()]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.startNow()]] - `contains` [EXTRACTED]
+- [[daysFromCivil()]] - `contains` [EXTRACTED]
+- [[nthSunday()]] - `contains` [EXTRACTED]
+- [[pacificDST()]] - `contains` [EXTRACTED]
+- [[schedule()]] - `contains` [EXTRACTED]
+- [[script_parent_rareeventservice_8]] - `imports` [EXTRACTED]
+- [[setBoosts()]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_144
+#graphify/code #graphify/EXTRACTED #community/Community_2

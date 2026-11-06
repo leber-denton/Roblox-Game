@@ -1,18 +1,17 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/CreatureIndex.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Music.client.luau"
 type: "code"
-community: "Community 420"
-location: "L282"
+community: "Community 529"
+location: "L183"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_420
+  - community/Community_529
 ---
 
 # updateVisible()
 
 ## Connections
-- [[CreatureIndex.client.luau_5]] - `contains` [EXTRACTED]
-- [[setOpen()_1]] - `calls` [EXTRACTED]
+- [[Music.client.luau_7]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_420
+#graphify/code #graphify/EXTRACTED #community/Community_529

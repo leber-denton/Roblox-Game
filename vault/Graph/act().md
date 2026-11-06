@@ -12,7 +12,7 @@ tags:
 # act()
 
 ## Connections
-- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_7]] - `contains` [EXTRACTED]
 - [[clearButtons()]] - `calls` [EXTRACTED]
 - [[showMenu()]] - `calls` [EXTRACTED]
 

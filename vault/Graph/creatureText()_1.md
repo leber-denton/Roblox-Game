@@ -1,23 +1,20 @@
 ---
-source_file: "vault/Graph/creatureText()_1.md"
+source_file: "vault/Graph/creatureText().md"
 type: "document"
-community: "Community 226"
+community: "Community 319"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_319
 ---
 
-# creatureText()_1.md
+# creatureText().md
 
 ## Connections
-- [[Menus.client.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 203]] - `references` [EXTRACTED]
-- [[creatureText()_3]] - `contains` [EXTRACTED]
-- [[creatureText()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 418]] - `references` [EXTRACTED]
+- [[creatureText()_2]] - `contains` [EXTRACTED]
 - [[fillBox()_1]] - `references` [EXTRACTED]
 - [[render()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_319

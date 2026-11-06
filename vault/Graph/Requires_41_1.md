@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/Requires_41_1.md"
+source_file: "vault/Graph/Requires_41.md"
 type: "document"
-community: "Community 153"
+community: "Community 147"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_153
+  - community/Community_147
 ---
 
-# Requires_41_1.md
+# Requires_41.md
 
 ## Connections
-- [[DecorService_1]] - `references` [EXTRACTED]
-- [[Requires_20_1]] - `references` [EXTRACTED]
-- [[Requires_41]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 153]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 65]] - `references` [EXTRACTED]
+- [[Connections_6173_1]] - `references` [EXTRACTED]
+- [[Requires_65]] - `contains` [EXTRACTED]
+- [[Requires_97]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 147]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_153
+#graphify/document #graphify/EXTRACTED #community/Community_147

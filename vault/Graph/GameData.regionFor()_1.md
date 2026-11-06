@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/GameData.regionFor().md"
+source_file: "vault/Graph/GameData.regionFor()_1_1.md"
 type: "document"
-community: "Community 120"
-location: "L1"
+community: "Community 17"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_120
+  - community/Community_17
 ---
 
-# GameData.regionFor().md
+# GameData.regionFor()_1.md
 
 ## Connections
-- [[GameData.canEnter()_3]] - `references` [EXTRACTED]
-- [[GameData.regionFor()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
+- [[Connections_9837]] - `contains` [EXTRACTED]
+- [[GameData.regionFor()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_120
+#graphify/document #graphify/EXTRACTED #community/Community_17

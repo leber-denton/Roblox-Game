@@ -1,20 +1,21 @@
 ---
-source_file: "vault/Graph/moveStyle()_2.md"
+source_file: "vault/Graph/moveStyle()_2_1.md"
 type: "document"
-community: "Community 27"
+community: "Community 1087"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_27
+  - community/Community_1087
 ---
 
-# moveStyle()_2.md
+# moveStyle()_2_1.md
 
 ## Connections
-- [[Connections_731_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[moveStyle()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 27]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 275]] - `references` [EXTRACTED]
 - [[moveStyle()_1_1]] - `references` [EXTRACTED]
+- [[moveStyle()_2_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_27
+#graphify/document #graphify/EXTRACTED #community/Community_1087

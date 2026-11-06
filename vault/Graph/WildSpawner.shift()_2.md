@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[WildSpawner.shift()_1]] - `references` [EXTRACTED]
-- [[WildSpawner.shift()_2_1]] - `contains` [EXTRACTED]
+- [[WildSpawner.shift()_2_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.shift()_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 201]] - `references` [EXTRACTED]
 

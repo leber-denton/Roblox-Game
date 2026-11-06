@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_52_1.md"
+source_file: "vault/Code/WeeklyEventService.md"
 type: "document"
-community: "Community 161"
-location: "L12"
+community: "Community 13"
+location: "L8"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_161
+  - community/Community_13
 ---
 
-# Required by_52.md
+# Required by
 
 ## Connections
-- [[Connections_2145]] - `contains` [EXTRACTED]
-- [[Required by_52_1]] - `contains` [EXTRACTED]
+- [[WeeklyEventService_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_161
+#graphify/document #graphify/EXTRACTED #community/Community_13

@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/Connections_516.md"
+source_file: "vault/Graph/Connections_516_2.md"
 type: "document"
-community: "Community 312"
-location: "L1"
+community: "Community 2276"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_312
+  - community/Community_2276
 ---
 
 # Connections_516.md
 
 ## Connections
-- [[Connections_42_1]] - `references` [EXTRACTED]
+- [[Connections_13295]] - `contains` [EXTRACTED]
 - [[Connections_516_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 101]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
-- [[zeroStages()_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_312
+#graphify/document #graphify/EXTRACTED #community/Community_2276

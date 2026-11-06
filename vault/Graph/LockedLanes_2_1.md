@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/LockedLanes_2.md"
+source_file: "vault/Graph/LockedLanes_2_1.md"
 type: "document"
 community: "Community 425"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_425
 ---
 
-# LockedLanes_2.md
+# LockedLanes_2_1.md
 
 ## Connections
-- [[Connections_4236]] - `contains` [EXTRACTED]
-- [[LockedLanes_2]] - `contains` [EXTRACTED]
+- [[LockedLanes_2_2]] - `contains` [EXTRACTED]
+- [[LockedLanes_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 425]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_425

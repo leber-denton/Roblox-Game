@@ -1,18 +1,25 @@
 ---
 type: community
-members: 5
+members: 12
 ---
 
 # Community 898
 
-**Members:** 5 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Community 197]] - document - vault/Graph/_COMMUNITY_Community 197.md
-- [[Connections to other communities_386]] - document - vault/Graph/_COMMUNITY_Community 197.md
-- [[Live Query (requires Dataview plugin)_430]] - document - vault/Graph/_COMMUNITY_Community 197.md
-- [[Members_430]] - document - vault/Graph/_COMMUNITY_Community 197.md
-- [[Top bridge nodes_388]] - document - vault/Graph/_COMMUNITY_Community 197.md
+- [[Connections_23772]] - document - vault/Graph/commands.maxTeam()_2_1.md
+- [[Connections_23773]] - document - vault/Graph/commands.maxTeam()_2.md
+- [[Connections_23774]] - document - vault/Graph/Connections_2423.md
+- [[Connections_23775]] - document - vault/Graph/Connections_2423.md
+- [[Connections_23776]] - document - vault/Graph/Connections_981_1.md
+- [[Connections_2423_1]] - document - vault/Graph/Connections_2423.md
+- [[Connections_981_2]] - document - vault/Graph/Connections_981_1.md
+- [[Connections_981_1_1]] - document - vault/Graph/Connections_981_1.md
+- [[commands.maxTeam()_2_1]] - document - vault/Graph/commands.maxTeam()_2.md
+- [[commands.maxTeam()_2_2]] - document - vault/Graph/commands.maxTeam()_2_1.md
+- [[commands.maxTeam()_2_3]] - document - vault/Graph/commands.maxTeam()_2.md
+- [[commands.maxTeam()_2_1_1]] - document - vault/Graph/commands.maxTeam()_2_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +29,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 197]]
+- 4 edges to [[_COMMUNITY_Community 289]]
+- 2 edges to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 567]]
 
 ## Top bridge nodes
-- [[Community 197]] - degree 5, connects to 1 community
+- [[commands.maxTeam()_2_1]] - degree 6, connects to 3 communities
+- [[Connections_981_1_1]] - degree 4, connects to 2 communities
+- [[commands.maxTeam()_2_1_1]] - degree 4, connects to 1 community
+- [[Connections_2423_1]] - degree 3, connects to 1 community

@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/graphify.md"
 type: "document"
-community: "Community 96"
+community: "Community 597"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_96
+  - community/Community_597
 ---
 
 # graphify.md
@@ -14,6 +14,9 @@ tags:
 ## Connections
 - [[Creature Quest_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 36]] - `references` [EXTRACTED]
-- [[graphify_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 597]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 96]] - `references` [EXTRACTED]
+- [[graphify_3]] - `contains` [EXTRACTED]
+- [[graphify_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_96
+#graphify/document #graphify/EXTRACTED #community/Community_597

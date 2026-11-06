@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[ModelSync.audit()]] - `calls` [EXTRACTED]
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[ModelSync.restore()]] - `calls` [EXTRACTED]
 - [[findTargets()]] - `calls` [EXTRACTED]
 

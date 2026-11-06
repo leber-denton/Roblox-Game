@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleFX.attack()_2.md"
+source_file: "vault/Graph/Connections to other communities_149.md"
 type: "document"
-community: "Community 18"
+community: "Community 1148"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_18
+  - community/Community_1148
 ---
 
 # Connections
 
 ## Connections
-- [[BattleFX.attack()_4]] - `contains` [EXTRACTED]
+- [[Connections to other communities_187]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_18
+#graphify/document #graphify/EXTRACTED #community/Community_1148

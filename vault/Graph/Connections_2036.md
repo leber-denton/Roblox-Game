@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Features.leafBud()_2.md"
+source_file: "vault/Graph/Connections_1460.md"
 type: "document"
-community: "Community 151"
-location: "L14"
+community: "Community 1111"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_151
+  - community/Community_1111
 ---
 
 # Connections
 
 ## Connections
-- [[Features.leafBud()_4]] - `contains` [EXTRACTED]
+- [[Connections_2037]] - `contains` [EXTRACTED]
+- [[Connections_1460_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_151
+#graphify/document #graphify/EXTRACTED #community/Community_1111

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/PlayerData.getPending().md"
+source_file: "vault/Graph/BattleService.onEnded()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[PlayerData.getPending()_5]] - `contains` [EXTRACTED]
+- [[BattleService.onEnded()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

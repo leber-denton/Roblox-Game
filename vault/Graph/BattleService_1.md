@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/BattleService_1.md"
+source_file: "vault/Graph/BattleService.md"
 type: "document"
-community: "Community 150"
-location: "L1"
+community: "Community 1180"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_150
+  - community/Community_1180
 ---
 
-# BattleService_1.md
+# BattleService
 
 ## Connections
-- [[BattleService_1_3]] - `contains` [EXTRACTED]
-- [[BattleService_1_1]] - `references` [EXTRACTED]
-- [[Functions_40_1]] - `references` [EXTRACTED]
-- [[GraphBattleService]] - `references` [EXTRACTED]
-- [[Required by_40_1]] - `references` [EXTRACTED]
-- [[Requires_40_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 150]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 64]] - `references` [EXTRACTED]
+- [[Connections_3210]] - `contains` [EXTRACTED]
+- [[GraphBattleService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_150
+#graphify/document #graphify/EXTRACTED #community/Community_1180

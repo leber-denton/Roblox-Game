@@ -1,22 +1,19 @@
 ---
-source_file: "vault/Graph/setHighlight()_1.md"
+source_file: "vault/Graph/setHighlight()_1_1.md"
 type: "document"
-community: "Community 240"
+community: "Community 1824"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1824
 ---
 
-# setHighlight()_1.md
+# setHighlight()_1_1.md
 
 ## Connections
-- [[Tutorial.client.luau_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[new()_3_1]] - `references` [EXTRACTED]
-- [[setHighlight()_3]] - `contains` [EXTRACTED]
-- [[setHighlight()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 240]] - `references` [EXTRACTED]
+- [[setHighlight()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1824

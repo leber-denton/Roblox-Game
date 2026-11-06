@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 1122
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_286]] - document - vault/Graph/commands.storm().md
-- [[commands.storm()_2]] - document - vault/Graph/commands.storm().md
-- [[commands.storm()_1]] - document - vault/Graph/commands.storm().md
+- [[Community 1111]] - document - vault/Graph/_COMMUNITY_Community 1111.md
+- [[Connections to other communities_151]] - document - vault/Graph/_COMMUNITY_Community 1111.md
+- [[Live Query (requires Dataview plugin)_198]] - document - vault/Graph/_COMMUNITY_Community 1111.md
+- [[Members_200]] - document - vault/Graph/_COMMUNITY_Community 1111.md
+- [[Top bridge nodes_149]] - document - vault/Graph/_COMMUNITY_Community 1111.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,8 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 86]]
-- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 1111]]
 
 ## Top bridge nodes
-- [[commands.storm()_1]] - degree 3, connects to 2 communities
+- [[Community 1111]] - degree 5, connects to 1 community

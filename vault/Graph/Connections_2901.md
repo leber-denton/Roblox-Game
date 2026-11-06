@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/laneParts()_2.md"
+source_file: "vault/Graph/Connections_5128.md"
 type: "document"
-community: "Community 197"
-location: "L14"
+community: "Community 116"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_197
+  - community/Community_116
 ---
 
 # Connections
 
 ## Connections
-- [[laneParts()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_2902]] - `contains` [EXTRACTED]
+- [[Connections_5128]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_197
+#graphify/document #graphify/EXTRACTED #community/Community_116

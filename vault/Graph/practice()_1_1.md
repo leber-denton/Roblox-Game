@@ -1,25 +1,19 @@
 ---
-source_file: "vault/Graph/practice()_1.md"
+source_file: "vault/Graph/practice()_1_1.md"
 type: "document"
-community: "Community 97"
+community: "Community 2310"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_97
+  - community/Community_2310
 ---
 
-# practice()_1.md
+# practice()_1_1.md
 
 ## Connections
-- [[ColiseumService.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[available()_1_1]] - `references` [EXTRACTED]
-- [[practice()_1]] - `contains` [EXTRACTED]
-- [[practice()_2_1]] - `references` [EXTRACTED]
-- [[setupActivities()_1_1]] - `references` [EXTRACTED]
-- [[strongest()_2_1_1]] - `references` [EXTRACTED]
-- [[unqueue()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1438]] - `references` [EXTRACTED]
+- [[practice()_1_2]] - `contains` [EXTRACTED]
+- [[practice()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_97
+#graphify/document #graphify/EXTRACTED #community/Community_2310

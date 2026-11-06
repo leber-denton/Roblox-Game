@@ -1,20 +1,21 @@
 ---
 source_file: "vault/Graph/CodeRegions.md"
 type: "document"
-community: "Community 515"
+community: "Community 147"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_515
+  - community/Community_147
 ---
 
 # CodeRegions.md
 
 ## Connections
-- [[CodeRegions_2]] - `contains` [EXTRACTED]
-- [[Regions_2]] - `references` [EXTRACTED]
+- [[CodeRegions_3]] - `contains` [EXTRACTED]
+- [[CodeRegions_1_1]] - `references` [EXTRACTED]
+- [[GraphRegions]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 147]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 215]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 338]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_515
+#graphify/document #graphify/EXTRACTED #community/Community_147

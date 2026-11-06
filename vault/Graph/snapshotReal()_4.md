@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/snapshotReal()_2.md"
+source_file: "vault/Graph/snapshotReal()_4.md"
 type: "document"
-community: "Community 1473"
-location: "L12"
+community: "Community 413"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1473
+  - community/Community_413
 ---
 
-# snapshotReal()
+# snapshotReal()_4.md
 
 ## Connections
-- [[Connections_1939]] - `contains` [EXTRACTED]
-- [[snapshotReal()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1292]] - `references` [EXTRACTED]
+- [[snapshotReal()_2_1]] - `references` [EXTRACTED]
+- [[snapshotReal()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1473
+#graphify/document #graphify/EXTRACTED #community/Community_413

@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/sortedBases().md"
+source_file: "vault/Graph/sortedBases()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 3198"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3198
 ---
 
-# sortedBases()
+# sortedBases()_4.md
 
 ## Connections
-- [[Connections_5863]] - `contains` [EXTRACTED]
-- [[sortedBases()_3]] - `contains` [EXTRACTED]
+- [[sortedBases()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3198

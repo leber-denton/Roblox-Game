@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/practice()_2.md"
+source_file: "vault/Graph/practice()_3.md"
 type: "document"
-community: "Community 907"
+community: "Community 2310"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_907
+  - community/Community_2310
 ---
 
-# practice()
+# practice().md
 
 ## Connections
-- [[Connections_6070]] - `contains` [EXTRACTED]
-- [[practice()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_13451]] - `contains` [EXTRACTED]
+- [[practice()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_907
+#graphify/document #graphify/EXTRACTED #community/Community_2310

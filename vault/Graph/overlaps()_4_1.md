@@ -1,20 +1,18 @@
 ---
 source_file: "vault/Graph/overlaps()_4.md"
 type: "document"
-community: "Community 93"
-location: "L1"
+community: "Community 1187"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_1187
 ---
 
 # overlaps()_4.md
 
 ## Connections
-- [[_COMMUNITY_Community 37]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
-- [[overlaps()_2_1]] - `references` [EXTRACTED]
-- [[overlaps()_4_2]] - `contains` [EXTRACTED]
+- [[Connections_3355]] - `contains` [EXTRACTED]
+- [[overlaps()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_1187

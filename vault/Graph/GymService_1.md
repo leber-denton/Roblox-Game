@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[Functions_21_1]] - `references` [EXTRACTED]
-- [[GymService]] - `contains` [EXTRACTED]
+- [[GymService_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
 

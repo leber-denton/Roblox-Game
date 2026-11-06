@@ -1,27 +1,18 @@
 ---
-source_file: "vault/Graph/label()_1_1.md"
+source_file: "vault/Graph/label()_1_2.md"
 type: "document"
-community: "Community 310"
-location: "L1"
+community: "Community 226"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_310
+  - community/Community_226
 ---
 
-# label()_1_1.md
+# label()_1.md
 
 ## Connections
-- [[Bag.client.luau_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 310]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 33]] - `references` [EXTRACTED]
-- [[ballIcon()_1_1]] - `references` [EXTRACTED]
-- [[label()_1_1_1]] - `contains` [EXTRACTED]
-- [[new()_4_1_1]] - `references` [EXTRACTED]
-- [[refresh()_1_1_1]] - `references` [EXTRACTED]
-- [[showDetail()_1_1_1]] - `references` [EXTRACTED]
-- [[showPicker()_1_1_1]] - `references` [EXTRACTED]
-- [[showTradeHistory()_1_1]] - `references` [EXTRACTED]
+- [[Connections_13180]] - `contains` [EXTRACTED]
+- [[label()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_310
+#graphify/document #graphify/EXTRACTED #community/Community_226

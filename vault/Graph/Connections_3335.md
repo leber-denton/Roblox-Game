@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/linesFor().md"
+source_file: "vault/Graph/DecorService.init()_5.md"
 type: "document"
-community: "Community 24"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[linesFor()_5]] - `contains` [EXTRACTED]
+- [[DecorService.init()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1187

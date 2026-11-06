@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/GraphColiseumUI.md"
+source_file: "vault/Graph/GraphColiseumUI_2.md"
 type: "document"
-community: "Community 142"
-location: "L1"
+community: "Community 2227"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_142
+  - community/Community_2227
 ---
 
 # GraphColiseumUI.md
 
 ## Connections
-- [[ColiseumUI_1]] - `references` [EXTRACTED]
+- [[Connections_12950]] - `contains` [EXTRACTED]
 - [[GraphColiseumUI_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 142]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_142
+#graphify/document #graphify/EXTRACTED #community/Community_2227

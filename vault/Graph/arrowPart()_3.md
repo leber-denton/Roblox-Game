@@ -12,7 +12,8 @@ tags:
 # arrowPart().md
 
 ## Connections
+- [[_COMMUNITY_Community 421]] - `references` [EXTRACTED]
 - [[arrowPart()_4]] - `contains` [EXTRACTED]
-- [[new()_7_1]] - `references` [EXTRACTED]
+- [[new()_6_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_109

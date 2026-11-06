@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/effectPart().md"
+source_file: "vault/Graph/effectPart()_6.md"
 type: "document"
-community: "Community 21"
-location: "L12"
+community: "Community 18"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_18
 ---
 
-# effectPart()
+# effectPart()_6.md
 
 ## Connections
-- [[Connections_3056]] - `contains` [EXTRACTED]
-- [[effectPart()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
+- [[effectPart()_8]] - `contains` [EXTRACTED]
+- [[effectPart()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_18

@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/sameCF().md"
+source_file: "vault/Graph/sameCF()_1.md"
 type: "document"
-community: "Community 140"
+community: "Community 1286"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_140
+  - community/Community_1286
 ---
 
-# sameCF().md
+# sameCF()_1.md
 
 ## Connections
-- [[ModelSyncTests.luau_1]] - `references` [EXTRACTED]
-- [[Tests.run()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
-- [[near()_1]] - `references` [EXTRACTED]
-- [[sameCF()_2]] - `contains` [EXTRACTED]
+- [[Connections_3627_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1286]] - `references` [EXTRACTED]
+- [[sameCF()_1_2]] - `contains` [EXTRACTED]
+- [[sameCF()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_140
+#graphify/document #graphify/EXTRACTED #community/Community_1286

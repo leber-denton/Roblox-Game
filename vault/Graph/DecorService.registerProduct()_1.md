@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/DecorService.registerProduct()_1.md"
+source_file: "vault/Graph/DecorService.registerProduct()_2.md"
 type: "document"
-community: "Community 1129"
-location: "L1"
+community: "Community 3524"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1129
+  - community/Community_3524
 ---
 
-# DecorService.registerProduct()_1.md
+# DecorService.registerProduct().md
 
 ## Connections
-- [[Connections_358]] - `references` [EXTRACTED]
-- [[DecorService.registerProduct()_2]] - `contains` [EXTRACTED]
+- [[Connections_17886]] - `contains` [EXTRACTED]
+- [[DecorService.registerProduct()_2_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1129
+#graphify/document #graphify/EXTRACTED #community/Community_3524

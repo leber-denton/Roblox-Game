@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[CodeBaseManager]] - `contains` [EXTRACTED]
-- [[Functions_42]] - `contains` [EXTRACTED]
-- [[Required by_33]] - `contains` [EXTRACTED]
-- [[Requires_42]] - `contains` [EXTRACTED]
+- [[Functions_81]] - `contains` [EXTRACTED]
+- [[Required by_75]] - `contains` [EXTRACTED]
+- [[Requires_74]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_16

@@ -2,7 +2,7 @@
 source_file: "vault/Graph/SocialService_2.md"
 type: "document"
 community: "Community 332"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,7 +12,10 @@ tags:
 # SocialService_2.md
 
 ## Connections
-- [[Connections_3962]] - `contains` [EXTRACTED]
-- [[SocialService_2]] - `contains` [EXTRACTED]
+- [[GraphSocialService_2]] - `references` [EXTRACTED]
+- [[SocialService_2_3]] - `contains` [EXTRACTED]
+- [[SocialService_2_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 332]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_332

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/GraphCreatureBuilder.md"
+source_file: "vault/Graph/CreatureBuilder.md"
 type: "document"
-community: "Community 406"
-location: "L12"
+community: "Community 1683"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_406
+  - community/Community_1683
 ---
 
 # Graph/CreatureBuilder.md
 
 ## Connections
-- [[Connections_4176]] - `contains` [EXTRACTED]
-- [[GraphCreatureBuilder_1]] - `contains` [EXTRACTED]
+- [[CreatureBuilder_5]] - `contains` [EXTRACTED]
+- [[GraphCreatureBuilder_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_406
+#graphify/document #graphify/EXTRACTED #community/Community_1683

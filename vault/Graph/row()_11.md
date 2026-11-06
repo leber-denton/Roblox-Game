@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/row()_4.md"
+source_file: "vault/Graph/row()_7.md"
 type: "document"
-community: "Community 897"
+community: "Community 1938"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_897
+  - community/Community_1938
 ---
 
-# row()
+# row().md
 
 ## Connections
-- [[Connections_5993]] - `contains` [EXTRACTED]
-- [[row()_4_1]] - `contains` [EXTRACTED]
+- [[Connections_11499]] - `contains` [EXTRACTED]
+- [[row()_7_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_897
+#graphify/document #graphify/EXTRACTED #community/Community_1938

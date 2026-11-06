@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/sortedBases()_2.md"
+source_file: "vault/Graph/Connections_1046.md"
 type: "document"
-community: "Community 12"
-location: "L14"
+community: "Community 1060"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1060
 ---
 
-# Connections
+# Connections_1046.md
 
 ## Connections
-- [[sortedBases()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_954]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1060]] - `references` [EXTRACTED]
+- [[label()_6]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1060

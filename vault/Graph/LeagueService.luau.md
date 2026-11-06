@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/LeagueService.luau_2.md"
+source_file: "vault/Graph/LeagueService.luau_5.md"
 type: "document"
-community: "Community 134"
+community: "Community 1187"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1187
 ---
 
-# LeagueService.luau.md
+# LeagueService.luau
 
 ## Connections
-- [[Connections_1500]] - `contains` [EXTRACTED]
-- [[LeagueService.luau_2]] - `contains` [EXTRACTED]
+- [[Connections_3349]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1187

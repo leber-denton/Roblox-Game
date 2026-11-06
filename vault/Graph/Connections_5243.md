@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.fighter()_1.md"
+source_file: "vault/Graph/Connections_3724.md"
 type: "document"
-community: "Community 745"
+community: "Community 1296"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_745
+  - community/Community_1296
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.fighter()_3]] - `contains` [EXTRACTED]
+- [[Connections_5242]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_745
+#graphify/document #graphify/EXTRACTED #community/Community_1296

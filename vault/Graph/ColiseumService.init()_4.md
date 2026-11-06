@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/ColiseumService.init()_2.md"
+source_file: "vault/Graph/ColiseumService.init()_4.md"
 type: "document"
-community: "Community 649"
-location: "L12"
+community: "Community 2114"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_649
+  - community/Community_2114
 ---
 
-# ColiseumService.init()
+# ColiseumService.init()_4.md
 
 ## Connections
-- [[ColiseumService.init()_2_1]] - `contains` [EXTRACTED]
-- [[Connections_4923]] - `contains` [EXTRACTED]
+- [[ColiseumService.init()_6]] - `contains` [EXTRACTED]
+- [[ColiseumService.init()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_649
+#graphify/document #graphify/EXTRACTED #community/Community_2114

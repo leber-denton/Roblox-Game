@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/rivalAce().md"
+source_file: "vault/Graph/rivalAce()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 1187"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1187
 ---
 
-# rivalAce()
+# rivalAce()_5.md
 
 ## Connections
-- [[Connections_5845]] - `contains` [EXTRACTED]
-- [[rivalAce()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[rivalAce()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1187

@@ -1,18 +1,19 @@
 ---
 source_file: "vault/Graph/Connections_166.md"
 type: "document"
-community: "Community 715"
+community: "Community 1968"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_715
+  - community/Community_1968
 ---
 
 # Connections_166.md
 
 ## Connections
-- [[Connections_5147]] - `contains` [EXTRACTED]
-- [[Connections_167_1]] - `references` [EXTRACTED]
+- [[Connections_11680]] - `contains` [EXTRACTED]
+- [[Connections_165_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_715
+#graphify/document #graphify/EXTRACTED #community/Community_1968

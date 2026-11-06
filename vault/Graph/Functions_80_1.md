@@ -1,21 +1,18 @@
 ---
 source_file: "vault/Graph/Functions_80.md"
 type: "document"
-community: "Community 92"
-location: "L1"
+community: "Community 1250"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_92
+  - community/Community_1250
 ---
 
 # Functions_80.md
 
 ## Connections
-- [[Functions_191]] - `contains` [EXTRACTED]
-- [[GraphFirstSpawnLock_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 35]] - `references` [EXTRACTED]
-- [[isLocked()_3]] - `references` [EXTRACTED]
-- [[unlockAll()_3]] - `references` [EXTRACTED]
+- [[Connections_4585]] - `contains` [EXTRACTED]
+- [[Functions_80]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_92
+#graphify/document #graphify/EXTRACTED #community/Community_1250

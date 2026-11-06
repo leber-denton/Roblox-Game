@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Graphlaunch-checklist.md"
+source_file: "vault/Graph/launch-checklist.md"
 type: "document"
-community: "Community 108"
+community: "Community 569"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_569
 ---
 
-# Graphlaunch-checklist.md
+# Graph/launch-checklist.md
 
 ## Connections
-- [[Creature Quest Catch & Battle Launch Checklist]] - `references` [EXTRACTED]
-- [[Graphlaunch-checklist_2]] - `contains` [EXTRACTED]
-- [[Graphlaunch-checklist_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 108]] - `references` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist_4]] - `references` [EXTRACTED]
+- [[Graphlaunch-checklist_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_569

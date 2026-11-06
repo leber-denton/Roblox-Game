@@ -1,19 +1,19 @@
 ---
 source_file: "vault/Systems/BattleService.md"
 type: "document"
-community: "Community 3"
+community: "Community 529"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_3
+  - community/Community_529
 ---
 
 # Systems/BattleService.md
 
 ## Connections
-- [[Architecture Map]] - `references` [EXTRACTED]
-- [[BattleService_2]] - `contains` [EXTRACTED]
+- [[BattleService_5]] - `contains` [EXTRACTED]
+- [[SystemsArchitecture Map]] - `references` [EXTRACTED]
 - [[SystemsSaveService]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_3
+#graphify/document #graphify/EXTRACTED #community/Community_529

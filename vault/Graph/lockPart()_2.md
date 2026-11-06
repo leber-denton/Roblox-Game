@@ -12,7 +12,7 @@ tags:
 # lockPart()
 
 ## Connections
-- [[Connections_131]] - `contains` [EXTRACTED]
+- [[Connections_817]] - `contains` [EXTRACTED]
 - [[lockPart()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_105

@@ -12,7 +12,7 @@ tags:
 # resolveModels()
 
 ## Connections
-- [[Connections_1080]] - `contains` [EXTRACTED]
+- [[Connections_3667]] - `contains` [EXTRACTED]
 - [[resolveModels()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

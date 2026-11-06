@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[BattleFX.levelUp()]] - `calls` [EXTRACTED]
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[BattleFX.sendOut()]] - `calls` [EXTRACTED]
 - [[BattleFX.statusMove()]] - `calls` [EXTRACTED]
 - [[BattleFX.throw()]] - `calls` [EXTRACTED]

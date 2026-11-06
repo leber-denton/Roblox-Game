@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[BaseManager.getTeam()]] - `calls` [INFERRED]
-- [[LeagueService.luau_3]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_7]] - `contains` [EXTRACTED]
 - [[teamFor()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

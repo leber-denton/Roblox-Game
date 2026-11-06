@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/incomeRate().md"
+source_file: "vault/Graph/incomeRate()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2723"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2723
 ---
 
-# incomeRate()
+# incomeRate()_4.md
 
 ## Connections
-- [[Connections_5773]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[bankCap()_4_1]] - `references` [EXTRACTED]
 - [[incomeRate()_3]] - `contains` [EXTRACTED]
+- [[tick()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2723

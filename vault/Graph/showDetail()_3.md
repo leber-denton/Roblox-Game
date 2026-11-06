@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/showDetail()_1.md"
+source_file: "vault/Graph/showDetail()_3.md"
 type: "document"
-community: "Community 106"
-location: "L12"
+community: "Community 1929"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_106
+  - community/Community_1929
 ---
 
-# showDetail()
+# showDetail()_3.md
 
 ## Connections
-- [[Connections_152]] - `contains` [EXTRACTED]
-- [[showDetail()_1_1]] - `contains` [EXTRACTED]
+- [[showDetail()_6]] - `contains` [EXTRACTED]
+- [[showDetail()_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_106
+#graphify/document #graphify/EXTRACTED #community/Community_1929

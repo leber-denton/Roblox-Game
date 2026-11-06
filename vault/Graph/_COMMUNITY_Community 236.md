@@ -8,29 +8,29 @@ members: 24
 **Members:** 24 nodes
 
 ## Members
-- [[Community 236]] - document - vault/Graph/_COMMUNITY_Community 236.md
-- [[Connections_3301]] - document - vault/Graph/Connections to other communities_59.md
-- [[Connections_3302]] - document - vault/Graph/Live Query (requires Dataview plugin)_83.md
-- [[Connections_3303]] - document - vault/Graph/Members_82.md
-- [[Connections_3304]] - document - vault/Graph/RareEventService_1_1.md
-- [[Connections_3305]] - document - vault/Graph/RareEventService_1.md
-- [[Connections_3306]] - document - vault/Graph/Top bridge nodes_60.md
-- [[Connections to other communities_184]] - document - vault/Graph/_COMMUNITY_Community 236.md
-- [[Connections to other communities_185]] - document - vault/Graph/Connections to other communities_59.md
-- [[Connections to other communities_59_1]] - document - vault/Graph/Connections to other communities_59.md
-- [[Live Query (requires Dataview plugin)_215]] - document - vault/Graph/_COMMUNITY_Community 236.md
-- [[Live Query (requires Dataview plugin)_216]] - document - vault/Graph/Live Query (requires Dataview plugin)_83.md
-- [[Live Query (requires Dataview plugin)_83_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_83.md
-- [[Members_218]] - document - vault/Graph/_COMMUNITY_Community 236.md
-- [[Members_219]] - document - vault/Graph/Members_82.md
-- [[Members_82_1]] - document - vault/Graph/Members_82.md
+- [[Community 236_1]] - document - vault/Graph/Community 236.md
+- [[Community 236_2]] - document - vault/Graph/_COMMUNITY_Community 236.md
+- [[Community 236]] - document - vault/Graph/Community 236.md
+- [[Connections_13619]] - document - vault/Graph/Community 236.md
+- [[Connections_13620]] - document - vault/Graph/Connections_3305.md
+- [[Connections_13621]] - document - vault/Graph/Connections_3305.md
+- [[Connections_13622]] - document - vault/Graph/RareEventService_1_1.md
+- [[Connections_13623]] - document - vault/Graph/RareEventService_1_2.md
+- [[Connections_13624]] - document - vault/Graph/RareEventService_1_3.md
+- [[Connections_13625]] - document - vault/Graph/RareEventService_1.md
+- [[Connections to other communities_748]] - document - vault/Graph/_COMMUNITY_Community 236.md
+- [[Connections_3305_1]] - document - vault/Graph/Connections_3305.md
+- [[Live Query (requires Dataview plugin)_944]] - document - vault/Graph/_COMMUNITY_Community 236.md
+- [[Members_958]] - document - vault/Graph/_COMMUNITY_Community 236.md
 - [[RareEventService_1]] - document - vault/Graph/RareEventService_1.md
-- [[RareEventService_1_2]] - document - vault/Graph/RareEventService_1_1.md
-- [[RareEventService_1_3]] - document - vault/Graph/RareEventService_1.md
+- [[RareEventService_1_4]] - document - vault/Graph/RareEventService_1_2.md
+- [[RareEventService_1_5]] - document - vault/Graph/RareEventService_1_3.md
+- [[RareEventService_1_6]] - document - vault/Graph/RareEventService_1.md
 - [[RareEventService_1_1]] - document - vault/Graph/RareEventService_1_1.md
-- [[Top bridge nodes_190]] - document - vault/Graph/_COMMUNITY_Community 236.md
-- [[Top bridge nodes_191]] - document - vault/Graph/Top bridge nodes_60.md
-- [[Top bridge nodes_60_1]] - document - vault/Graph/Top bridge nodes_60.md
+- [[RareEventService_1_1_1]] - document - vault/Graph/RareEventService_1_1.md
+- [[RareEventService_1_2]] - document - vault/Graph/RareEventService_1_2.md
+- [[RareEventService_1_3]] - document - vault/Graph/RareEventService_1_3.md
+- [[Top bridge nodes_749]] - document - vault/Graph/_COMMUNITY_Community 236.md
 - [[_COMMUNITY_Community 236]] - document - vault/Graph/_COMMUNITY_Community 236.md
 
 ## Live Query (requires Dataview plugin)
@@ -41,8 +41,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 292]]
+- 2 edges to [[_COMMUNITY_Community 577]]
+- 1 edge to [[_COMMUNITY_Community 292]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 236]] - degree 9, connects to 1 community
-- [[RareEventService_1]] - degree 4, connects to 1 community
+- [[RareEventService_1]] - degree 6, connects to 1 community
+- [[_COMMUNITY_Community 236]] - degree 6, connects to 1 community
+- [[Connections_3305_1]] - degree 3, connects to 1 community

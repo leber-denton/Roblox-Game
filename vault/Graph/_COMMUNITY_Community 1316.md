@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 1316
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_1386]] - document - vault/Graph/rebuildBoard().md
-- [[rebuildBoard()_2]] - document - vault/Graph/rebuildBoard().md
-- [[rebuildBoard()_1]] - document - vault/Graph/rebuildBoard().md
+- [[Connections_5505]] - document - vault/Graph/Connections_3480.md
+- [[Connections_5506]] - document - vault/Graph/Connections_3480.md
+- [[Connections_5507]] - document - vault/Graph/Connections_3481.md
+- [[Connections_5508]] - document - vault/Graph/Connections_3481.md
+- [[Connections_3480_1]] - document - vault/Graph/Connections_3480.md
+- [[Connections_3481_1]] - document - vault/Graph/Connections_3481.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,3 +21,10 @@ members: 3
 TABLE source_file, type FROM #community/Community_1316
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Community 479]]
+
+## Top bridge nodes
+- [[Connections_3480_1]] - degree 3, connects to 1 community
+- [[Connections_3481_1]] - degree 3, connects to 1 community

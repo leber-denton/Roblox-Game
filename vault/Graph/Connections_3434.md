@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Live Query (requires Dataview plugin)_85.md"
+source_file: "vault/Graph/CodeAdminService.md"
 type: "document"
-community: "Community 245"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_245
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[Live Query (requires Dataview plugin)_223]] - `contains` [EXTRACTED]
+- [[CodeAdminService_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_245
+#graphify/document #graphify/EXTRACTED #community/Community_119

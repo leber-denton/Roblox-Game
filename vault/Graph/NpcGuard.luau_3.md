@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/NpcGuard.luau.md"
+source_file: "vault/Graph/NpcGuard.luau_2.md"
 type: "document"
-community: "Community 551"
-location: "L1"
+community: "Community 395"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_551
+  - community/Community_395
 ---
 
-# NpcGuard.luau.md
+# NpcGuard.luau
 
 ## Connections
-- [[Connections_72_1]] - `references` [EXTRACTED]
-- [[NpcGuard.luau_4]] - `contains` [EXTRACTED]
-- [[NpcGuard.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
+- [[Connections_18723]] - `contains` [EXTRACTED]
+- [[NpcGuard.luau_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_551
+#graphify/document #graphify/EXTRACTED #community/Community_395

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/NpcGuard.run().md"
+source_file: "vault/Graph/Top bridge nodes_71.md"
 type: "document"
-community: "Community 333"
+community: "Community 1221"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_333
+  - community/Community_1221
 ---
 
 # Connections
 
 ## Connections
-- [[NpcGuard.run()_2]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_237]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_333
+#graphify/document #graphify/EXTRACTED #community/Community_1221

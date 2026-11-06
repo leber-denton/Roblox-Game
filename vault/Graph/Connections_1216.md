@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_585.md"
+source_file: "vault/Graph/GymService.luau.md"
 type: "document"
-community: "Community 1229"
+community: "Community 107"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1229
+  - community/Community_107
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_1215]] - `contains` [EXTRACTED]
+- [[GymService.luau_7]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1229
+#graphify/document #graphify/EXTRACTED #community/Community_107

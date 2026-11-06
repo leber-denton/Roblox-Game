@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_28.md"
+source_file: "vault/Code/GymService.md"
 type: "document"
-community: "Community 225"
-location: "L12"
+community: "Community 15"
+location: "L11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_225
+  - community/Community_15
 ---
 
 # Required by
 
 ## Connections
-- [[Connections_3197]] - `contains` [EXTRACTED]
-- [[Required by_28_3]] - `contains` [EXTRACTED]
+- [[GymService_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_225
+#graphify/document #graphify/EXTRACTED #community/Community_15

@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.inBounds().md"
+source_file: "vault/Graph/DecorData.inBounds()_1_2.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 1473"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1473
 ---
 
-# DecorData.inBounds().md
+# DecorData.inBounds()_1.md
 
 ## Connections
-- [[DecorData.inBounds()_2]] - `contains` [EXTRACTED]
-- [[DecorData.luau_1]] - `references` [EXTRACTED]
-- [[DecorData.zRange()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[canPlace()_1]] - `references` [EXTRACTED]
-- [[check()_7]] - `references` [EXTRACTED]
+- [[Connections_7841]] - `contains` [EXTRACTED]
+- [[DecorData.inBounds()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1473

@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Graph/openLanes()_1.md"
+source_file: "vault/Graph/openLanes()_2.md"
 type: "document"
-community: "Community 292"
-location: "L1"
+community: "Community 1302"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_1302
 ---
 
-# openLanes()_1.md
+# openLanes()
 
 ## Connections
-- [[RareEventService.luau_1]] - `references` [EXTRACTED]
-- [[RareEventService.summon()_1]] - `references` [EXTRACTED]
-- [[RareEventService.trigger()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 237]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 292]] - `references` [EXTRACTED]
-- [[openLanes()_1_1]] - `contains` [EXTRACTED]
-- [[openLanes()_2]] - `references` [EXTRACTED]
-- [[paidPick()_1]] - `references` [EXTRACTED]
+- [[Connections_5301]] - `contains` [EXTRACTED]
+- [[openLanes()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_1302

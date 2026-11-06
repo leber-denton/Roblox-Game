@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/Connections to other communities_3.md"
+source_file: "vault/Graph/Connections to other communities_3_1.md"
 type: "document"
-community: "Community 444"
+community: "Community 134"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_444
+  - community/Community_134
 ---
 
-# Connections to other communities_3.md
+# Connections to other communities_3_1.md
 
 ## Connections
-- [[Community 59_1]] - `references` [EXTRACTED]
-- [[Connections to other communities_328]] - `contains` [EXTRACTED]
+- [[Connections to other communities_3_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 132]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 241]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 444]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_444
+#graphify/document #graphify/EXTRACTED #community/Community_134

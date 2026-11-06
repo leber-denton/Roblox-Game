@@ -1,0 +1,19 @@
+---
+source_file: "vault/Graph/Connections_4534.md"
+type: "document"
+community: "Community 2378"
+location: "L1"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_2378
+---
+
+# Connections_4534.md
+
+## Connections
+- [[Connections_13695]] - `contains` [EXTRACTED]
+- [[Connections_4533_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_2378

@@ -1,22 +1,19 @@
 ---
 type: community
-members: 9
+members: 6
 ---
 
 # Community 165
 
-**Members:** 9 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_2154]] - document - vault/Graph/GraphWeeklyEventService.md
-- [[Connections_2155]] - document - vault/Graph/WeeklyEventService_1_1.md
-- [[Connections_2156]] - document - vault/Graph/WeeklyEventService_1.md
-- [[GraphWeeklyEventService_1]] - document - vault/Graph/GraphWeeklyEventService.md
-- [[GraphWeeklyEventService_2]] - document - vault/Graph/GraphWeeklyEventService.md
-- [[WeeklyEventService_1]] - document - vault/Graph/WeeklyEventService_1.md
-- [[WeeklyEventService_1_2]] - document - vault/Graph/WeeklyEventService_1_1.md
-- [[WeeklyEventService_1_3]] - document - vault/Graph/WeeklyEventService_1.md
-- [[WeeklyEventService_1_1]] - document - vault/Graph/WeeklyEventService_1_1.md
+- [[Connections_9250]] - document - vault/Graph/addTrail()_2.md
+- [[Connections_9251]] - document - vault/Graph/Connections_2156.md
+- [[Connections_9252]] - document - vault/Graph/Connections_2156.md
+- [[Connections_2156_1]] - document - vault/Graph/Connections_2156.md
+- [[addTrail()_5]] - document - vault/Graph/addTrail()_2.md
+- [[addTrail()_2_1]] - document - vault/Graph/addTrail()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,10 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 576]]
-- 1 edge to [[_COMMUNITY_Community 408]]
+- 3 edges to [[_COMMUNITY_Community 1178]]
 
 ## Top bridge nodes
-- [[WeeklyEventService_1]] - degree 5, connects to 2 communities
-- [[GraphWeeklyEventService_1]] - degree 3, connects to 1 community
-- [[WeeklyEventService_1_1]] - degree 3, connects to 1 community
+- [[addTrail()_2_1]] - degree 4, connects to 1 community
+- [[Connections_2156_1]] - degree 3, connects to 1 community

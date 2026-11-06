@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_33.md"
+source_file: "vault/Graph/collectStatic()_5.md"
 type: "document"
-community: "Community 238"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_238
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[Required by_65]] - `contains` [EXTRACTED]
+- [[collectStatic()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_238
+#graphify/document #graphify/EXTRACTED #community/Community_1187

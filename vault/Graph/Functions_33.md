@@ -12,10 +12,13 @@ tags:
 # Functions_33.md
 
 ## Connections
-- [[Functions_11_1]] - `references` [EXTRACTED]
-- [[Functions_33_3]] - `contains` [EXTRACTED]
+- [[Functions_11_1_1]] - `references` [EXTRACTED]
+- [[Functions_33_6]] - `contains` [EXTRACTED]
 - [[Functions_33_1]] - `references` [EXTRACTED]
+- [[Functions_33_2]] - `references` [EXTRACTED]
+- [[Functions_33_3]] - `references` [EXTRACTED]
 - [[HavocBlimpFlight_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1110]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 127]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 54]] - `references` [EXTRACTED]
 

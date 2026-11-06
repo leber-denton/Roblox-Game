@@ -12,8 +12,10 @@ tags:
 # RareEventService_1.md
 
 ## Connections
-- [[RareEventService_1_3]] - `contains` [EXTRACTED]
+- [[RareEventService_1_6]] - `contains` [EXTRACTED]
 - [[RareEventService_1_1]] - `references` [EXTRACTED]
+- [[RareEventService_1_2]] - `references` [EXTRACTED]
+- [[RareEventService_1_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 236]] - `references` [EXTRACTED]
 

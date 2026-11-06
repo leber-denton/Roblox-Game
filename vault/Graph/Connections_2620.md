@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/charge()_1.md"
+source_file: "vault/Graph/Top bridge nodes_149.md"
 type: "document"
-community: "Community 18"
+community: "Community 1148"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_18
+  - community/Community_1148
 ---
 
 # Connections
 
 ## Connections
-- [[charge()_3]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_184]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_18
+#graphify/document #graphify/EXTRACTED #community/Community_1148

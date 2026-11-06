@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 1120
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_284]] - document - vault/Graph/commands.rare().md
-- [[commands.rare()_2]] - document - vault/Graph/commands.rare().md
-- [[commands.rare()_1]] - document - vault/Graph/commands.rare().md
+- [[Community 1108]] - document - vault/Graph/_COMMUNITY_Community 1108.md
+- [[Connections to other communities_149]] - document - vault/Graph/_COMMUNITY_Community 1108.md
+- [[Live Query (requires Dataview plugin)_196]] - document - vault/Graph/_COMMUNITY_Community 1108.md
+- [[Members_198]] - document - vault/Graph/_COMMUNITY_Community 1108.md
+- [[Top bridge nodes_147]] - document - vault/Graph/_COMMUNITY_Community 1108.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,9 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 86]]
-- 1 edge to [[_COMMUNITY_Community 53]]
-- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 1108]]
 
 ## Top bridge nodes
-- [[commands.rare()_1]] - degree 4, connects to 3 communities
+- [[Community 1108]] - degree 5, connects to 1 community

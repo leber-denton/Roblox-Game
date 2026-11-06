@@ -14,8 +14,9 @@ tags:
 ## Connections
 - [[CodeBattleData]] - `references` [EXTRACTED]
 - [[CodeBattleService]] - `references` [EXTRACTED]
-- [[CodeDecorData_1]] - `references` [EXTRACTED]
+- [[CodeDecorData_1_1]] - `references` [EXTRACTED]
 - [[CodeDecorService_1]] - `contains` [EXTRACTED]
+- [[CodeDecorService_1_1]] - `references` [EXTRACTED]
 - [[CodeGameData]] - `references` [EXTRACTED]
 - [[CodeMain]] - `references` [EXTRACTED]
 - [[CodePlayerData]] - `references` [EXTRACTED]

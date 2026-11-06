@@ -1,22 +1,34 @@
 ---
 type: community
-members: 9
+members: 21
 ---
 
 # Community 1084
 
-**Members:** 9 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Connections_196]] - document - vault/Graph/Connections_713.md
-- [[Connections_197]] - document - vault/Graph/Connections_713.md
-- [[Connections_198]] - document - vault/Graph/game_getservice_2.md
-- [[Connections_199]] - document - vault/Graph/game_getservice.md
-- [[Connections_713]] - document - vault/Graph/Connections_713.md
-- [[game_getservice_1]] - document - vault/Graph/game_getservice.md
-- [[game_getservice]] - document - vault/Graph/game_getservice.md
-- [[game_getservice_2]] - document - vault/Graph/game_getservice_2.md
-- [[game_getservice_2_1]] - document - vault/Graph/game_getservice_2.md
+- [[Community 1005]] - document - vault/Graph/_COMMUNITY_Community 1005.md
+- [[Community 136_2]] - document - vault/Graph/Community 136.md
+- [[Community 136_1]] - document - vault/Graph/Community 136.md
+- [[Connections_1367]] - document - vault/Graph/Community 136.md
+- [[Connections_1368]] - document - vault/Graph/Connections to other communities_6.md
+- [[Connections_1369]] - document - vault/Graph/Live Query (requires Dataview plugin)_6.md
+- [[Connections_1370]] - document - vault/Graph/Members_6.md
+- [[Connections_1371]] - document - vault/Graph/Top bridge nodes_6.md
+- [[Connections to other communities_74]] - document - vault/Graph/_COMMUNITY_Community 1005.md
+- [[Connections to other communities_75]] - document - vault/Graph/Connections to other communities_6.md
+- [[Connections to other communities_6_1]] - document - vault/Graph/Connections to other communities_6.md
+- [[Live Query (requires Dataview plugin)_113]] - document - vault/Graph/_COMMUNITY_Community 1005.md
+- [[Live Query (requires Dataview plugin)_114]] - document - vault/Graph/Live Query (requires Dataview plugin)_6.md
+- [[Live Query (requires Dataview plugin)_6_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_6.md
+- [[Members_116]] - document - vault/Graph/_COMMUNITY_Community 1005.md
+- [[Members_117]] - document - vault/Graph/Members_6.md
+- [[Members_6_1]] - document - vault/Graph/Members_6.md
+- [[Top bridge nodes_74]] - document - vault/Graph/_COMMUNITY_Community 1005.md
+- [[Top bridge nodes_75]] - document - vault/Graph/Top bridge nodes_6.md
+- [[Top bridge nodes_6_1]] - document - vault/Graph/Top bridge nodes_6.md
+- [[_COMMUNITY_Community 1005]] - document - vault/Graph/_COMMUNITY_Community 1005.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,11 +38,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 27]]
-- 1 edge to [[_COMMUNITY_Community 21]]
-- 1 edge to [[_COMMUNITY_Community 120]]
+- 2 edges to [[_COMMUNITY_Community 352]]
+- 1 edge to [[_COMMUNITY_Community 1222]]
 
 ## Top bridge nodes
-- [[game_getservice_2]] - degree 5, connects to 3 communities
-- [[game_getservice]] - degree 4, connects to 1 community
-- [[Connections_713]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 1005]] - degree 8, connects to 2 communities
+- [[Community 136_1]] - degree 7, connects to 1 community

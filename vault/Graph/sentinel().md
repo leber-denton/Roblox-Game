@@ -12,6 +12,6 @@ tags:
 # sentinel()
 
 ## Connections
-- [[WildShiftTests.luau_5]] - `contains` [EXTRACTED]
+- [[WildShiftTests.luau_6]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_5

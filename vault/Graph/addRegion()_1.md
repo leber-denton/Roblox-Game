@@ -12,7 +12,7 @@ tags:
 # addRegion().md
 
 ## Connections
-- [[LockedLanes.client.luau_2]] - `references` [EXTRACTED]
+- [[LockedLanes.client.luau_5]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 185]] - `references` [EXTRACTED]
 - [[addRegion()_2]] - `contains` [EXTRACTED]
 

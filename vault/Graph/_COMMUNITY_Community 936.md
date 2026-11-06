@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[Community 69_2]] - document - vault/Graph/_COMMUNITY_Community 69.md
-- [[Connections to other communities_420]] - document - vault/Graph/_COMMUNITY_Community 69.md
-- [[Live Query (requires Dataview plugin)_463]] - document - vault/Graph/_COMMUNITY_Community 69.md
-- [[Members_463]] - document - vault/Graph/_COMMUNITY_Community 69.md
-- [[Top bridge nodes_421]] - document - vault/Graph/_COMMUNITY_Community 69.md
+- [[Community 69_6]] - document - vault/Graph/_COMMUNITY_Community 69.md
+- [[Connections to other communities_1653]] - document - vault/Graph/_COMMUNITY_Community 69.md
+- [[Live Query (requires Dataview plugin)_1947]] - document - vault/Graph/_COMMUNITY_Community 69.md
+- [[Members_1946]] - document - vault/Graph/_COMMUNITY_Community 69.md
+- [[Top bridge nodes_1644]] - document - vault/Graph/_COMMUNITY_Community 69.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,4 +25,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 157]]
 
 ## Top bridge nodes
-- [[Community 69_2]] - degree 5, connects to 1 community
+- [[Community 69_6]] - degree 5, connects to 1 community

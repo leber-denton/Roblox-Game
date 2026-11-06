@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[BattleFX.attack()]] - `calls` [EXTRACTED]
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[play()_1]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_235

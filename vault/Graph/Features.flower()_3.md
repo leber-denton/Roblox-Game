@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Features.flower()_1.md"
+source_file: "vault/Graph/Features.flower()_3.md"
 type: "document"
-community: "Community 703"
-location: "L12"
+community: "Community 565"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_703
+  - community/Community_565
 ---
 
-# Features.flower().md
+# Features.flower()_3.md
 
 ## Connections
-- [[Connections_5103]] - `contains` [EXTRACTED]
-- [[Features.flower()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_4299_1]] - `references` [EXTRACTED]
+- [[Features.flower()_5]] - `contains` [EXTRACTED]
+- [[Features.flower()_1_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_703
+#graphify/document #graphify/EXTRACTED #community/Community_565

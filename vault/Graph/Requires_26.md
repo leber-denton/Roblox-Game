@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/StoryService.md"
+source_file: "vault/Code/ArenaManager.md"
 type: "document"
-community: "Community 14"
-location: "L6"
+community: "Community 13"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_14
+  - community/Community_13
 ---
 
 # Requires
 
 ## Connections
-- [[StoryService]] - `contains` [EXTRACTED]
+- [[ArenaManager_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_14
+#graphify/document #graphify/EXTRACTED #community/Community_13

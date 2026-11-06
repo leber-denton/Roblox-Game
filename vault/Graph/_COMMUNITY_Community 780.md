@@ -1,19 +1,20 @@
 ---
 type: community
-members: 6
+members: 7
 ---
 
 # Community 780
 
-**Members:** 6 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Connections_5371]] - document - vault/Graph/Connections_548.md
-- [[Connections_5372]] - document - vault/Graph/Connections_548.md
-- [[Connections_5373]] - document - vault/Graph/promptAt()_1.md
-- [[Connections_548_1]] - document - vault/Graph/Connections_548.md
-- [[promptAt()_2]] - document - vault/Graph/promptAt()_1.md
-- [[promptAt()_1]] - document - vault/Graph/promptAt()_1.md
+- [[Community 780]] - document - vault/Graph/_COMMUNITY_Community 780.md
+- [[Connections_22692]] - document - vault/Graph/promptAt()_5.md
+- [[Live Query (requires Dataview plugin)_1812]] - document - vault/Graph/_COMMUNITY_Community 780.md
+- [[Members_1811]] - document - vault/Graph/_COMMUNITY_Community 780.md
+- [[_COMMUNITY_Community 780]] - document - vault/Graph/_COMMUNITY_Community 780.md
+- [[promptAt()_6]] - document - vault/Graph/promptAt()_5.md
+- [[promptAt()_5_1]] - document - vault/Graph/promptAt()_5.md
 
 ## Live Query (requires Dataview plugin)
 

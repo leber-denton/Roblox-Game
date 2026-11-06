@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/LockedLanes_1.md"
+source_file: "vault/Graph/Connections_1148_1.md"
 type: "document"
-community: "Community 609"
+community: "Community 1270"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_609
+  - community/Community_1270
 ---
 
 # Connections
 
 ## Connections
-- [[LockedLanes_1_2]] - `contains` [EXTRACTED]
+- [[Connections_1148_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_609
+#graphify/document #graphify/EXTRACTED #community/Community_1270

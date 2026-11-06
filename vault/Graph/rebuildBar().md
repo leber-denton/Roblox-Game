@@ -12,8 +12,8 @@ tags:
 # rebuildBar()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
-- [[Functions_103]] - `references` [INFERRED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
+- [[Functions_188]] - `references` [INFERRED]
 - [[startPicking()]] - `calls` [EXTRACTED]
 - [[startPlacing()]] - `calls` [EXTRACTED]
 - [[stopBuild()]] - `calls` [EXTRACTED]

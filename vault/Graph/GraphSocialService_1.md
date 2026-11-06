@@ -2,7 +2,7 @@
 source_file: "vault/Graph/GraphSocialService.md"
 type: "document"
 community: "Community 332"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,7 +12,7 @@ tags:
 # GraphSocialService.md
 
 ## Connections
-- [[Connections_3955]] - `contains` [EXTRACTED]
-- [[GraphSocialService]] - `contains` [EXTRACTED]
+- [[GraphSocialService_5]] - `contains` [EXTRACTED]
+- [[GraphSocialService_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_332

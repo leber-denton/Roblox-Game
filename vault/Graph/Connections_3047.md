@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleFX.luau_2.md"
+source_file: "vault/Graph/travelCFrame()_6.md"
 type: "document"
-community: "Community 21"
+community: "Community 1173"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_1173
 ---
 
 # Connections
 
 ## Connections
-- [[BattleFX.luau_2_1]] - `contains` [EXTRACTED]
+- [[travelCFrame()_8]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_1173

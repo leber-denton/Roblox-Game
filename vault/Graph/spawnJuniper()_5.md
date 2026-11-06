@@ -1,23 +1,20 @@
 ---
-source_file: "vault/Graph/spawnJuniper().md"
+source_file: "vault/Graph/spawnJuniper()_5.md"
 type: "document"
-community: "Community 234"
+community: "Community 122"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_122
 ---
 
-# spawnJuniper().md
+# spawnJuniper()_5.md
 
 ## Connections
-- [[Functions_26_3]] - `references` [EXTRACTED]
-- [[Functions_52]] - `references` [EXTRACTED]
-- [[Story.client.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[playScene()_3]] - `references` [EXTRACTED]
-- [[setVisible()_5]] - `references` [EXTRACTED]
-- [[spawnJuniper()_6]] - `contains` [EXTRACTED]
+- [[Connections_2823_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
+- [[spawnJuniper()_4]] - `contains` [EXTRACTED]
+- [[spawnJuniper()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_122

@@ -12,8 +12,8 @@ tags:
 # showTradeHistory()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
-- [[Functions_60]] - `references` [INFERRED]
+- [[Bag.client.luau_7]] - `contains` [EXTRACTED]
+- [[Functions_121]] - `references` [INFERRED]
 - [[label()]] - `calls` [EXTRACTED]
 - [[new()_1]] - `calls` [EXTRACTED]
 

@@ -12,7 +12,8 @@ tags:
 # runDialogue().md
 
 ## Connections
-- [[new()_7_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 421]] - `references` [EXTRACTED]
+- [[new()_6_1]] - `references` [EXTRACTED]
 - [[runDialogue()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_109

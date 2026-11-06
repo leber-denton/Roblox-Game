@@ -12,9 +12,10 @@ tags:
 # charge()_2.md
 
 ## Connections
-- [[Connections_706_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[charge()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
 - [[charge()_1]] - `references` [EXTRACTED]
+- [[charge()_2_1]] - `contains` [EXTRACTED]
+- [[charge()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_18

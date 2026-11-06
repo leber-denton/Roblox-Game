@@ -12,7 +12,8 @@ tags:
 # BattleFX_3.md
 
 ## Connections
-- [[BattleFX_5]] - `contains` [EXTRACTED]
-- [[BattleFX_2]] - `references` [EXTRACTED]
+- [[BattleFX_2_1]] - `references` [EXTRACTED]
+- [[BattleFX_3_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 557]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_557

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/LeagueService.luau_2.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_121.md"
 type: "document"
-community: "Community 134"
+community: "Community 1091"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1091
 ---
 
 # Connections
 
 ## Connections
-- [[LeagueService.luau]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_128]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1091

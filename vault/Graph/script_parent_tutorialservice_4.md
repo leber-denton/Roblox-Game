@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/script_parent_tutorialservice.md"
+source_file: "vault/Graph/script_parent_tutorialservice_4.md"
 type: "document"
-community: "Community 24"
-location: "L12"
+community: "Community 1674"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1674
 ---
 
-# script_parent_tutorialservice
+# script_parent_tutorialservice_4.md
 
 ## Connections
-- [[Connections_3345]] - `contains` [EXTRACTED]
-- [[script_parent_tutorialservice]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 24]] - `references` [EXTRACTED]
+- [[script_parent_tutorialservice]] - `references` [EXTRACTED]
+- [[script_parent_tutorialservice_1]] - `references` [EXTRACTED]
+- [[script_parent_tutorialservice_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1674

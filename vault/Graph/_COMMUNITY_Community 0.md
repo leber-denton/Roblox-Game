@@ -1,14 +1,16 @@
 ---
 type: community
-members: 74
+members: 76
 ---
 
 # Community 0
 
-**Members:** 74 nodes
+**Members:** 76 nodes
 
 ## Members
 - [[BaseManager.getBase()]] - code - src/ServerScriptService/Modules/BaseManager.luau
+- [[BaseManager.isExpansionUnlocked()]] - code - src/ServerScriptService/Modules/BaseManager.luau
+- [[BaseManager.setWings()]] - code - src/ServerScriptService/Modules/BaseManager.luau
 - [[DecorData.boxOdds()]] - code - src/ReplicatedStorage/Shared/DecorData.luau
 - [[DecorData.dailyShop()]] - code - src/ReplicatedStorage/Shared/DecorData.luau
 - [[DecorData.describe()]] - code - src/ReplicatedStorage/Shared/DecorData.luau
@@ -91,19 +93,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 15 edges to [[_COMMUNITY_Community 16]]
-- 11 edges to [[_COMMUNITY_Community 11]]
-- 8 edges to [[_COMMUNITY_Community 3]]
-- 5 edges to [[_COMMUNITY_Community 15]]
-- 4 edges to [[_COMMUNITY_Community 4]]
-- 3 edges to [[_COMMUNITY_Community 2]]
-- 1 edge to [[_COMMUNITY_Community 41]]
-- 1 edge to [[_COMMUNITY_Community 22]]
+- 21 edges to [[_COMMUNITY_Community 11]]
+- 13 edges to [[_COMMUNITY_Community 16]]
+- 7 edges to [[_COMMUNITY_Community 3]]
+- 7 edges to [[_COMMUNITY_Community 15]]
+- 1 edge to [[_COMMUNITY_Community 529]]
 - 1 edge to [[_COMMUNITY_Community 6]]
 
 ## Top bridge nodes
-- [[DecorService.luau]] - degree 65, connects to 7 communities
+- [[DecorService.luau]] - degree 65, connects to 5 communities
 - [[DecorService.onLoaded()]] - degree 17, connects to 2 communities
-- [[buildBaseProps()]] - degree 14, connects to 2 communities
 - [[DecorService.init()]] - degree 11, connects to 2 communities
+- [[BaseManager.isExpansionUnlocked()]] - degree 5, connects to 2 communities
 - [[DecorService.giveBox()]] - degree 5, connects to 2 communities

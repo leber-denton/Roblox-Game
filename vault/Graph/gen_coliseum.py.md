@@ -1,22 +1,20 @@
 ---
-source_file: "tools/gen_coliseum.py"
-type: "code"
-community: "Community 29"
+source_file: "vault/Graph/gen_coliseum.py.md"
+type: "document"
+community: "Community 1111"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_29
+  - community/Community_1111
 ---
 
-# gen_coliseum.py
+# gen_coliseum.py.md
 
 ## Connections
-- [[Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…]] - `rationale_for` [EXTRACTED]
-- [[json_5]] - `imports` [EXTRACTED]
-- [[math_5]] - `imports` [EXTRACTED]
-- [[part()_1]] - `contains` [EXTRACTED]
-- [[pt()]] - `contains` [EXTRACTED]
-- [[yaw()]] - `contains` [EXTRACTED]
+- [[Connections_1471_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1111]] - `references` [EXTRACTED]
+- [[gen_coliseum.py_5]] - `contains` [EXTRACTED]
+- [[gen_coliseum.py_3]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_29
+#graphify/document #graphify/EXTRACTED #community/Community_1111

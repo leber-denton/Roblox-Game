@@ -1,22 +1,19 @@
 ---
 type: community
-members: 9
+members: 6
 ---
 
 # Community 582
 
-**Members:** 9 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_4719]] - document - vault/Graph/json_1.md
-- [[Connections_4720]] - document - vault/Graph/json_2.md
-- [[Connections_4721]] - document - vault/Graph/json.md
-- [[json]] - document - vault/Graph/json.md
-- [[json_3]] - document - vault/Graph/json_2.md
-- [[json_4]] - document - vault/Graph/json.md
-- [[json_1]] - document - vault/Graph/json_1.md
-- [[json_1_1]] - document - vault/Graph/json_1.md
-- [[json_2]] - document - vault/Graph/json_2.md
+- [[Connections_21065]] - document - vault/Graph/Connections_4720.md
+- [[Connections_21066]] - document - vault/Graph/Connections_4720.md
+- [[Connections_21067]] - document - vault/Graph/Connections_4721.md
+- [[Connections_21068]] - document - vault/Graph/Connections_4721.md
+- [[Connections_4720_1]] - document - vault/Graph/Connections_4720.md
+- [[Connections_4721_1]] - document - vault/Graph/Connections_4721.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,9 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 353]]
-- 1 edge to [[_COMMUNITY_Community 89]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[json]] - degree 4, connects to 2 communities
-- [[json_1]] - degree 4, connects to 1 community
+- [[Connections_4720_1]] - degree 3, connects to 1 community
+- [[Connections_4721_1]] - degree 3, connects to 1 community

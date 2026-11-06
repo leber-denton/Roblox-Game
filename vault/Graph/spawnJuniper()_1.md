@@ -13,10 +13,12 @@ tags:
 
 ## Connections
 - [[Functions_52]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 234]] - `references` [EXTRACTED]
 - [[setVisible()_1]] - `references` [EXTRACTED]
-- [[spawnJuniper()_3]] - `contains` [EXTRACTED]
+- [[spawnJuniper()_1_1]] - `contains` [EXTRACTED]
 - [[spawnJuniper()_2]] - `references` [EXTRACTED]
+- [[spawnJuniper()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_122

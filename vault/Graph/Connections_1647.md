@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.fox().md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_275.md"
 type: "document"
-community: "Community 137"
+community: "Community 1097"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1097
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.fox()_4]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_151]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1097

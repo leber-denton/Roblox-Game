@@ -12,7 +12,7 @@ tags:
 # centerOf()
 
 ## Connections
-- [[Connections_1220]] - `contains` [EXTRACTED]
+- [[Connections_4146]] - `contains` [EXTRACTED]
 - [[centerOf()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_123

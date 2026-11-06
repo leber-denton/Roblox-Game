@@ -12,7 +12,8 @@ tags:
 # part()_6.md
 
 ## Connections
-- [[Connections_445]] - `references` [EXTRACTED]
-- [[part()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1168]] - `references` [EXTRACTED]
+- [[part()_5]] - `references` [EXTRACTED]
+- [[part()_6_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1168

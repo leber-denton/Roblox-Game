@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/WildSpawner.spawnOne()_1.md"
+source_file: "vault/Graph/Top bridge nodes_19.md"
 type: "document"
-community: "Community 265"
+community: "Community 1190"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_265
+  - community/Community_1190
 ---
 
 # Connections
 
 ## Connections
-- [[WildSpawner.spawnOne()_1_1]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_215]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_265
+#graphify/document #graphify/EXTRACTED #community/Community_1190

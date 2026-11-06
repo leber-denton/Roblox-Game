@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/rivalTeam()_1.md"
+source_file: "vault/Graph/rivalTeam()_1_1.md"
 type: "document"
-community: "Community 304"
+community: "Community 1745"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_304
+  - community/Community_1745
 ---
 
-# rivalTeam()_1.md
+# rivalTeam()_1_1.md
 
 ## Connections
-- [[Connections_785_1]] - `references` [EXTRACTED]
-- [[rivalTeam()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1215]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 304]] - `references` [EXTRACTED]
+- [[rivalTeam()_1]] - `contains` [EXTRACTED]
+- [[rivalTeam()_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_304
+#graphify/document #graphify/EXTRACTED #community/Community_1745

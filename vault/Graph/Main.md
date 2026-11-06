@@ -12,7 +12,7 @@ tags:
 # Main
 
 ## Connections
-- [[Connections_1361]] - `contains` [EXTRACTED]
-- [[GraphMain]] - `contains` [EXTRACTED]
+- [[Connections_5268]] - `contains` [EXTRACTED]
+- [[GraphMain_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1297

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/DecorData.side()_2.md"
+source_file: "vault/Graph/DecorData.side()_2_2.md"
 type: "document"
-community: "Community 93"
-location: "L12"
+community: "Community 1474"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_1474
 ---
 
-# DecorData.side()_2.md
+# DecorData.side()_2_2.md
 
 ## Connections
-- [[Connections_6193]] - `contains` [EXTRACTED]
-- [[DecorData.side()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_6193_1]] - `references` [EXTRACTED]
+- [[DecorData.side()_2_3]] - `contains` [EXTRACTED]
+- [[DecorData.side()_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_1474

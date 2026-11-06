@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleFX.luau_1.md"
+source_file: "vault/Graph/Connections to other communities_154.md"
 type: "document"
-community: "Community 227"
+community: "Community 1180"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_227
+  - community/Community_1180
 ---
 
 # Connections
 
 ## Connections
-- [[BattleFX.luau]] - `contains` [EXTRACTED]
+- [[Connections to other communities_210]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_227
+#graphify/document #graphify/EXTRACTED #community/Community_1180

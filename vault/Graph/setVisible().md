@@ -12,7 +12,7 @@ tags:
 # setVisible()
 
 ## Connections
-- [[Story.client.luau_3]] - `contains` [EXTRACTED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
 - [[playScene()]] - `calls` [EXTRACTED]
 - [[spawnJuniper()]] - `calls` [EXTRACTED]
 

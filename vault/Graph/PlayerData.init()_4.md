@@ -1,22 +1,18 @@
 ---
 source_file: "vault/Graph/PlayerData.init().md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 276"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_276
 ---
 
-# PlayerData.init().md
+# PlayerData.init()
 
 ## Connections
-- [[PlayerData.init()_5]] - `contains` [EXTRACTED]
-- [[PlayerData.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[defaults()_1_2]] - `references` [EXTRACTED]
-- [[onPlayerAdded()_4]] - `references` [EXTRACTED]
-- [[sync()_1_3]] - `references` [EXTRACTED]
+- [[Connections_15337]] - `contains` [EXTRACTED]
+- [[PlayerData.init()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_276

@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 1374
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_1662]] - document - vault/Graph/WildSpawner.md
-- [[GraphWildSpawner]] - document - vault/Graph/WildSpawner.md
-- [[WildSpawner]] - document - vault/Graph/WildSpawner.md
+- [[Connections_6706]] - document - vault/Graph/Connections_1662.md
+- [[Connections_6707]] - document - vault/Graph/Connections_1662.md
+- [[Connections_6708]] - document - vault/Graph/Connections_1663.md
+- [[Connections_6709]] - document - vault/Graph/Connections_1663.md
+- [[Connections_1662_1]] - document - vault/Graph/Connections_1662.md
+- [[Connections_1663_1]] - document - vault/Graph/Connections_1663.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +23,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 166]]
+- 2 edges to [[_COMMUNITY_Community 1967]]
+- 1 edge to [[_COMMUNITY_Community 2837]]
 
 ## Top bridge nodes
-- [[GraphWildSpawner]] - degree 2, connects to 1 community
+- [[Connections_1662_1]] - degree 4, connects to 2 communities
+- [[Connections_1663_1]] - degree 3, connects to 1 community

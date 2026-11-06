@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Features.fangs().md"
+source_file: "vault/Graph/Connections_1330.md"
 type: "document"
-community: "Community 137"
-location: "L14"
+community: "Community 1097"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1097
 ---
 
 # Connections
 
 ## Connections
-- [[Features.fangs()_6]] - `contains` [EXTRACTED]
+- [[Connections_1628]] - `contains` [EXTRACTED]
+- [[Connections_1330_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1097

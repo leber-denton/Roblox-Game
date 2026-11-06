@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/TutorialService.luau_1.md"
+source_file: "vault/Graph/TutorialService.luau.md"
 type: "document"
-community: "Community 832"
-location: "L12"
+community: "Community 2502"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_832
+  - community/Community_2502
 ---
 
-# TutorialService.luau
+# TutorialService.luau.md
 
 ## Connections
-- [[Connections_5550]] - `contains` [EXTRACTED]
-- [[TutorialService.luau_1]] - `contains` [EXTRACTED]
+- [[Connections_4935_1]] - `references` [EXTRACTED]
+- [[TutorialService.luau_6]] - `contains` [EXTRACTED]
+- [[TutorialService.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_832
+#graphify/document #graphify/EXTRACTED #community/Community_2502

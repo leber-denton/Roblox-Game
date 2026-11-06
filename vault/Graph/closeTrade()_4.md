@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/closeTrade()_1.md"
+source_file: "vault/Graph/closeTrade()_2.md"
 type: "document"
-community: "Community 539"
+community: "Community 3091"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_539
+  - community/Community_3091
 ---
 
 # closeTrade()
 
 ## Connections
-- [[Connections_4609]] - `contains` [EXTRACTED]
-- [[closeTrade()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_16276]] - `contains` [EXTRACTED]
+- [[closeTrade()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_539
+#graphify/document #graphify/EXTRACTED #community/Community_3091

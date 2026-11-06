@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_47.md"
+source_file: "vault/Graph/commands.beatTrainers()_4.md"
 type: "document"
-community: "Community 239"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_239
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[Functions_47_3]] - `contains` [EXTRACTED]
+- [[commands.beatTrainers()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_239
+#graphify/document #graphify/EXTRACTED #community/Community_1187

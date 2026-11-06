@@ -1,24 +1,20 @@
 ---
-source_file: "vault/Graph/HUD_2.md"
+source_file: "vault/Code/HUD.md"
 type: "document"
-community: "Community 69"
+community: "Community 214"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_69
+  - community/Community_214
 ---
 
-# HUD_2.md
+# HUD
 
 ## Connections
-- [[CodeHUD]] - `references` [EXTRACTED]
-- [[Functions_120]] - `references` [EXTRACTED]
-- [[GraphHUD_2]] - `references` [EXTRACTED]
-- [[HUD_2_1]] - `contains` [EXTRACTED]
-- [[Required by_117_1]] - `references` [EXTRACTED]
-- [[Requires_118_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 212]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
+- [[CodeHUD_2]] - `contains` [EXTRACTED]
+- [[Functions_130]] - `contains` [EXTRACTED]
+- [[Required by_142]] - `contains` [EXTRACTED]
+- [[Requires_134]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_69
+#graphify/document #graphify/EXTRACTED #community/Community_214

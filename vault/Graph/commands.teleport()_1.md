@@ -1,23 +1,20 @@
 ---
-source_file: "vault/Graph/commands.teleport()_1.md"
+source_file: "vault/Graph/commands.teleport().md"
 type: "document"
-community: "Community 168"
+community: "Community 225"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_225
 ---
 
-# commands.teleport()_1.md
+# commands.teleport().md
 
 ## Connections
-- [[AdminService.luau]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[AdminService.luau_5]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 225]] - `references` [EXTRACTED]
-- [[commands.teleport()_1_1]] - `contains` [EXTRACTED]
-- [[commands.teleport()_2]] - `references` [EXTRACTED]
+- [[commands.teleport()_2]] - `contains` [EXTRACTED]
 - [[spots()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_225

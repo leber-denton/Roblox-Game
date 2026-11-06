@@ -12,8 +12,10 @@ tags:
 # stage()_2.md
 
 ## Connections
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
-- [[stage()_3]] - `contains` [EXTRACTED]
 - [[stage()_1]] - `references` [EXTRACTED]
+- [[stage()_2_1]] - `contains` [EXTRACTED]
+- [[stage()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/shake()_1.md"
+source_file: "vault/Graph/shake()_3.md"
 type: "document"
-community: "Community 461"
-location: "L12"
+community: "Community 392"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_461
+  - community/Community_392
 ---
 
-# shake().md
+# shake()_3.md
 
 ## Connections
-- [[Connections_4322]] - `contains` [EXTRACTED]
-- [[shake()_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 392]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 461]] - `references` [EXTRACTED]
+- [[shake()_1_1]] - `references` [EXTRACTED]
+- [[shake()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_461
+#graphify/document #graphify/EXTRACTED #community/Community_392

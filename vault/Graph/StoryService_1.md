@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/StoryService_1.md"
+source_file: "vault/Graph/StoryService.md"
 type: "document"
 community: "Community 24"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_24
 ---
 
-# StoryService_1.md
+# StoryService
 
 ## Connections
-- [[GraphStoryService]] - `references` [EXTRACTED]
-- [[StoryService_1_3]] - `contains` [EXTRACTED]
-- [[StoryService_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 24]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 320]] - `references` [EXTRACTED]
+- [[Connections_13814]] - `contains` [EXTRACTED]
+- [[GraphStoryService_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/fire().md"
 type: "document"
-community: "Community 86"
+community: "Community 276"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_276
 ---
 
 # fire()
 
 ## Connections
-- [[Connections_5760]] - `contains` [EXTRACTED]
+- [[Connections_15301]] - `contains` [EXTRACTED]
 - [[fire()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_276

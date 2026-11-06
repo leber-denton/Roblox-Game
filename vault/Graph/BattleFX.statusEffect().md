@@ -12,7 +12,7 @@ tags:
 # BattleFX.statusEffect()
 
 ## Connections
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[playTurn()]] - `calls` [INFERRED]
 - [[rootOf()]] - `calls` [EXTRACTED]
 - [[sparkle()]] - `calls` [EXTRACTED]

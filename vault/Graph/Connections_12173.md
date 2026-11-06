@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/Members_348.md"
+type: "document"
+community: "Community 2043"
+location: "L14"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_2043
+---
+
+# Connections
+
+## Connections
+- [[Members_909]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_2043

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.cocoon()_2.md"
+source_file: "vault/Graph/Connections_146.md"
 type: "document"
-community: "Community 139"
+community: "Community 110"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_139
+  - community/Community_110
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.cocoon()_4]] - `contains` [EXTRACTED]
+- [[Connections_1713]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_139
+#graphify/document #graphify/EXTRACTED #community/Community_110

@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/_COMMUNITY_Community 907.md"
+type: "document"
+community: "Community 907"
+location: "L28"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_907
+---
+
+# Top bridge nodes
+
+## Connections
+- [[Community 907]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_907

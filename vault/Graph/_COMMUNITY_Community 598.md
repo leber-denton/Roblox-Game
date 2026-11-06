@@ -1,22 +1,19 @@
 ---
 type: community
-members: 9
+members: 6
 ---
 
 # Community 598
 
-**Members:** 9 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_4756]] - document - vault/Graph/NPCAnimator_1.md
-- [[Connections_4757]] - document - vault/Graph/NPCAnimator_2.md
-- [[Connections_4758]] - document - vault/Graph/NPCAnimator_3.md
-- [[NPCAnimator_4]] - document - vault/Graph/NPCAnimator_3.md
-- [[NPCAnimator_1_1]] - document - vault/Graph/NPCAnimator_1.md
-- [[NPCAnimator_1_2]] - document - vault/Graph/NPCAnimator_1.md
-- [[NPCAnimator_2]] - document - vault/Graph/NPCAnimator_2.md
-- [[NPCAnimator_2_1]] - document - vault/Graph/NPCAnimator_2.md
-- [[NPCAnimator_3]] - document - vault/Graph/NPCAnimator_3.md
+- [[Connections_21208]] - document - vault/Graph/Connections_4756.md
+- [[Connections_21209]] - document - vault/Graph/Connections_4756.md
+- [[Connections_21210]] - document - vault/Graph/Connections_4757.md
+- [[Connections_21211]] - document - vault/Graph/Connections_4757.md
+- [[Connections_4756_1]] - document - vault/Graph/Connections_4756.md
+- [[Connections_4757_1]] - document - vault/Graph/Connections_4757.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,9 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 856]]
-- 1 edge to [[_COMMUNITY_Community 99]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[NPCAnimator_1_1]] - degree 4, connects to 2 communities
-- [[NPCAnimator_2]] - degree 4, connects to 1 community
+- [[Connections_4756_1]] - degree 3, connects to 1 community
+- [[Connections_4757_1]] - degree 3, connects to 1 community

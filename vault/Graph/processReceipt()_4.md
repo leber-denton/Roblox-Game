@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/processReceipt().md"
+source_file: "vault/Graph/processReceipt()_2.md"
 type: "document"
-community: "Community 86"
+community: "Community 3664"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3664
 ---
 
 # processReceipt()
 
 ## Connections
-- [[Connections_5824]] - `contains` [EXTRACTED]
-- [[processReceipt()_3]] - `contains` [EXTRACTED]
+- [[Connections_18102]] - `contains` [EXTRACTED]
+- [[processReceipt()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3664

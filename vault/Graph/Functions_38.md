@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Code/GymService.md"
+source_file: "vault/Graph/Functions_37.md"
 type: "document"
-community: "Community 15"
-location: "L14"
+community: "Community 1269"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_1269
 ---
 
 # Functions
 
 ## Connections
-- [[GymService_2]] - `contains` [EXTRACTED]
-- [[placeLeaders()]] - `references` [INFERRED]
+- [[Connections_4783]] - `contains` [EXTRACTED]
+- [[Functions_37_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_1269

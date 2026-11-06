@@ -1,20 +1,22 @@
 ---
 source_file: "vault/Graph/GameData.ballMultiplier()_2.md"
 type: "document"
-community: "Community 796"
+community: "Community 505"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_796
+  - community/Community_505
 ---
 
 # GameData.ballMultiplier()_2.md
 
 ## Connections
-- [[Connections_714_1]] - `references` [EXTRACTED]
-- [[GameData.ballMultiplier()_4]] - `contains` [EXTRACTED]
+- [[Connections_1058_1]] - `references` [EXTRACTED]
 - [[GameData.ballMultiplier()_1_1]] - `references` [EXTRACTED]
+- [[GameData.ballMultiplier()_2_2]] - `contains` [EXTRACTED]
+- [[GameData.ballMultiplier()_4]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_796
+#graphify/document #graphify/EXTRACTED #community/Community_505

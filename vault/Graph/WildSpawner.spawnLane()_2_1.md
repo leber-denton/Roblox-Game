@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/WildSpawner.spawnLane()_2.md"
+source_file: "vault/Graph/WildSpawner.spawnLane()_2_1.md"
 type: "document"
 community: "Community 197"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_197
 ---
 
-# WildSpawner.spawnLane()_2.md
+# WildSpawner.spawnLane()_2_1.md
 
 ## Connections
-- [[Connections_2907]] - `contains` [EXTRACTED]
-- [[WildSpawner.spawnLane()_2]] - `contains` [EXTRACTED]
+- [[WildSpawner.spawnLane()_2_2]] - `contains` [EXTRACTED]
+- [[WildSpawner.spawnLane()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 197]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_197

@@ -1,18 +1,18 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/Sprint.client.luau"
 type: "code"
-community: "Community 215"
+community: "Community 1146"
 location: "L33"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_215
+  - community/Community_1146
 ---
 
 # onSprint()
 
 ## Connections
-- [[Sprint.client.luau_4]] - `contains` [EXTRACTED]
-- [[apply()_1]] - `calls` [EXTRACTED]
+- [[Sprint.client.luau_2]] - `contains` [EXTRACTED]
+- [[apply()_2]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_215
+#graphify/code #graphify/EXTRACTED #community/Community_1146

@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Graph/Shapes.dragon().md"
+source_file: "vault/Graph/Shapes.dragon()_3.md"
 type: "document"
-community: "Community 137"
+community: "Community 133"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_133
 ---
 
-# Shapes.dragon().md
+# Shapes.dragon()_3.md
 
 ## Connections
-- [[Shapes.dragon()_4]] - `contains` [EXTRACTED]
+- [[Shapes.dragon()_3_1]] - `contains` [EXTRACTED]
+- [[Shapes.dragon()_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
 - [[darker()_1]] - `references` [EXTRACTED]
 - [[lighter()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_133

@@ -1,19 +1,31 @@
 ---
 type: community
-members: 6
+members: 18
 ---
 
 # Community 400
 
-**Members:** 6 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Connections_4158]] - document - vault/Graph/Connections_831.md
-- [[Connections_4159]] - document - vault/Graph/Connections_831.md
-- [[Connections_4160]] - document - vault/Graph/ServerStorage_2.md
-- [[Connections_831_1]] - document - vault/Graph/Connections_831.md
-- [[ServerStorage_3]] - document - vault/Graph/ServerStorage_2.md
-- [[ServerStorage_2_1]] - document - vault/Graph/ServerStorage_2.md
+- [[Connections_18798]] - document - vault/Graph/Connections_4286.md
+- [[Connections_18799]] - document - vault/Graph/Connections_4286.md
+- [[Connections_18800]] - document - vault/Graph/Connections_4292.md
+- [[Connections_18801]] - document - vault/Graph/Connections_4292.md
+- [[Connections_18802]] - document - vault/Graph/Features.cannons()_1.md
+- [[Connections_18803]] - document - vault/Graph/Features.cannons()_2.md
+- [[Connections_18804]] - document - vault/Graph/Features.cannons()_3.md
+- [[Connections_18805]] - document - vault/Graph/Features.cannons()_4.md
+- [[Connections_4286_1]] - document - vault/Graph/Connections_4286.md
+- [[Connections_4292_1]] - document - vault/Graph/Connections_4292.md
+- [[Features.cannons()_6]] - document - vault/Graph/Features.cannons()_4.md
+- [[Features.cannons()_5]] - document - vault/Graph/Features.cannons()_3.md
+- [[Features.cannons()_1_2]] - document - vault/Graph/Features.cannons()_1.md
+- [[Features.cannons()_1_3]] - document - vault/Graph/Features.cannons()_1.md
+- [[Features.cannons()_2_2]] - document - vault/Graph/Features.cannons()_2.md
+- [[Features.cannons()_2_3]] - document - vault/Graph/Features.cannons()_2.md
+- [[Features.cannons()_3_1]] - document - vault/Graph/Features.cannons()_3.md
+- [[Features.cannons()_4_1]] - document - vault/Graph/Features.cannons()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,7 +35,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 110]]
+- 6 edges to [[_COMMUNITY_Community 410]]
+- 3 edges to [[_COMMUNITY_Community 176]]
 
 ## Top bridge nodes
-- [[ServerStorage_2_1]] - degree 3, connects to 1 community
+- [[Features.cannons()_1_2]] - degree 6, connects to 2 communities
+- [[Features.cannons()_2_2]] - degree 5, connects to 2 communities
+- [[Features.cannons()_3_1]] - degree 4, connects to 1 community
+- [[Features.cannons()_4_1]] - degree 4, connects to 1 community
+- [[Connections_4286_1]] - degree 3, connects to 1 community

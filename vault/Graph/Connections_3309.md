@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_89.md"
+source_file: "vault/Graph/challenge()_6.md"
 type: "document"
-community: "Community 237"
-location: "L12"
+community: "Community 1187"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_237
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_3310]] - `contains` [EXTRACTED]
-- [[Connections_89_1]] - `contains` [EXTRACTED]
+- [[challenge()_6_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_237
+#graphify/document #graphify/EXTRACTED #community/Community_1187

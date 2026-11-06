@@ -1,18 +1,25 @@
 ---
 type: community
-members: 5
+members: 12
 ---
 
 # Community 880
 
-**Members:** 5 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Community 132]] - document - vault/Graph/_COMMUNITY_Community 132.md
-- [[Connections to other communities_377]] - document - vault/Graph/_COMMUNITY_Community 132.md
-- [[Live Query (requires Dataview plugin)_420]] - document - vault/Graph/_COMMUNITY_Community 132.md
-- [[Members_420]] - document - vault/Graph/_COMMUNITY_Community 132.md
-- [[Top bridge nodes_379]] - document - vault/Graph/_COMMUNITY_Community 132.md
+- [[Connections_23644]] - document - vault/Graph/clearContent()_1.md
+- [[Connections_23645]] - document - vault/Graph/clearContent()_2.md
+- [[Connections_23646]] - document - vault/Graph/productPrice()_3.md
+- [[Connections_23647]] - document - vault/Graph/productPrice()_4.md
+- [[clearContent()_6]] - document - vault/Graph/clearContent()_2.md
+- [[clearContent()_5]] - document - vault/Graph/clearContent()_1.md
+- [[clearContent()_1_2]] - document - vault/Graph/clearContent()_1.md
+- [[clearContent()_2_2]] - document - vault/Graph/clearContent()_2.md
+- [[productPrice()_6]] - document - vault/Graph/productPrice()_4.md
+- [[productPrice()_5]] - document - vault/Graph/productPrice()_3.md
+- [[productPrice()_3_1]] - document - vault/Graph/productPrice()_3.md
+- [[productPrice()_4_1]] - document - vault/Graph/productPrice()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +29,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 217]]
+- 4 edges to [[_COMMUNITY_Community 174]]
+- 2 edges to [[_COMMUNITY_Community 63]]
 
 ## Top bridge nodes
-- [[Community 132]] - degree 5, connects to 1 community
+- [[clearContent()_1_2]] - degree 4, connects to 2 communities
+- [[productPrice()_3_1]] - degree 4, connects to 2 communities
+- [[clearContent()_2_2]] - degree 3, connects to 1 community
+- [[productPrice()_4_1]] - degree 3, connects to 1 community

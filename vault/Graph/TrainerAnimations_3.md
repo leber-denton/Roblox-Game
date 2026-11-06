@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Code/TrainerAnimations.md"
+source_file: "vault/Graph/TrainerAnimations_3.md"
 type: "document"
-community: "Community 59"
+community: "Community 468"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_59
+  - community/Community_468
 ---
 
-# TrainerAnimations
+# TrainerAnimations_3.md
 
 ## Connections
-- [[CodeTrainerAnimations_2]] - `contains` [EXTRACTED]
-- [[Functions_161]] - `contains` [EXTRACTED]
-- [[Required by_151]] - `contains` [EXTRACTED]
-- [[Requires_157]] - `contains` [EXTRACTED]
+- [[Functions_161_1]] - `references` [EXTRACTED]
+- [[Required by_151_1]] - `references` [EXTRACTED]
+- [[Requires_157_1]] - `references` [EXTRACTED]
+- [[TrainerAnimations_3_1]] - `contains` [EXTRACTED]
+- [[TrainerAnimations_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1375]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 59]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_59
+#graphify/document #graphify/EXTRACTED #community/Community_468

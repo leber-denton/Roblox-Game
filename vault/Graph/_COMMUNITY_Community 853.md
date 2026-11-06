@@ -1,19 +1,25 @@
 ---
 type: community
-members: 6
+members: 12
 ---
 
 # Community 853
 
-**Members:** 6 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_5616]] - document - vault/Graph/Connections_459.md
-- [[Connections_5617]] - document - vault/Graph/Connections_459.md
-- [[Connections_5618]] - document - vault/Graph/Connections_460.md
-- [[Connections_5619]] - document - vault/Graph/Connections_460.md
-- [[Connections_459_1]] - document - vault/Graph/Connections_459.md
-- [[Connections_460_1]] - document - vault/Graph/Connections_460.md
+- [[BaseManager.hasRoom()_2_1]] - document - vault/Graph/BaseManager.hasRoom()_2.md
+- [[BaseManager.hasRoom()_2_2]] - document - vault/Graph/BaseManager.hasRoom()_2_1.md
+- [[BaseManager.hasRoom()_2_3]] - document - vault/Graph/BaseManager.hasRoom()_2.md
+- [[BaseManager.hasRoom()_2_1_1]] - document - vault/Graph/BaseManager.hasRoom()_2_1.md
+- [[Connections_23258]] - document - vault/Graph/BaseManager.hasRoom()_2_1.md
+- [[Connections_23259]] - document - vault/Graph/BaseManager.hasRoom()_2.md
+- [[Connections_23260]] - document - vault/Graph/Connections_2383.md
+- [[Connections_23261]] - document - vault/Graph/Connections_2383.md
+- [[Connections_23262]] - document - vault/Graph/Connections_952_1.md
+- [[Connections_2383_1]] - document - vault/Graph/Connections_2383.md
+- [[Connections_952_2]] - document - vault/Graph/Connections_952_1.md
+- [[Connections_952_1_1]] - document - vault/Graph/Connections_952_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +29,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 146]]
+- 4 edges to [[_COMMUNITY_Community 289]]
+- 2 edges to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 25]]
 
 ## Top bridge nodes
-- [[Connections_459_1]] - degree 3, connects to 1 community
-- [[Connections_460_1]] - degree 3, connects to 1 community
+- [[BaseManager.hasRoom()_2_1]] - degree 6, connects to 3 communities
+- [[Connections_952_1_1]] - degree 4, connects to 2 communities
+- [[BaseManager.hasRoom()_2_1_1]] - degree 4, connects to 1 community
+- [[Connections_2383_1]] - degree 3, connects to 1 community

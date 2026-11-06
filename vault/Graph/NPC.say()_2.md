@@ -13,8 +13,9 @@ tags:
 
 ## Connections
 - [[Connections_1052_1]] - `references` [EXTRACTED]
-- [[NPC.say()_3]] - `contains` [EXTRACTED]
 - [[NPC.say()_1]] - `references` [EXTRACTED]
+- [[NPC.say()_2_1]] - `contains` [EXTRACTED]
+- [[NPC.say()_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

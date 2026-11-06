@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/CodeWildSpawner.md"
+source_file: "vault/Graph/CodeWildSpawner_1.md"
 type: "document"
 community: "Community 1046"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_1046
 ---
 
-# CodeWildSpawner.md
+# Code/WildSpawner.md
 
 ## Connections
 - [[CodeWildSpawner_1]] - `contains` [EXTRACTED]
-- [[Connections_112_1]] - `references` [EXTRACTED]
+- [[Connections_767]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1046

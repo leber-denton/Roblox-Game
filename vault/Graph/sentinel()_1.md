@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/sentinel().md"
 type: "document"
-community: "Community 541"
+community: "Community 140"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_541
+  - community/Community_140
 ---
 
 # sentinel().md
@@ -15,4 +15,4 @@ tags:
 - [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
 - [[sentinel()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_541
+#graphify/document #graphify/EXTRACTED #community/Community_140

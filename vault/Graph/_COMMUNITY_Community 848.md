@@ -1,19 +1,16 @@
 ---
 type: community
-members: 6
+members: 3
 ---
 
 # Community 848
 
-**Members:** 6 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Connections_5600]] - document - vault/Graph/Connections_998.md
-- [[Connections_5601]] - document - vault/Graph/Connections_998.md
-- [[Connections_5602]] - document - vault/Graph/Required by_11.md
-- [[Connections_998_1]] - document - vault/Graph/Connections_998.md
-- [[Required by_176]] - document - vault/Graph/Required by_11.md
-- [[Required by_11_3]] - document - vault/Graph/Required by_11.md
+- [[Connections_23235]] - document - vault/Graph/Connections_1397.md
+- [[Connections_23236]] - document - vault/Graph/Connections_1397.md
+- [[Connections_1397_1]] - document - vault/Graph/Connections_1397.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 217]]
-- 1 edge to [[_COMMUNITY_Community 132]]
+- 1 edge to [[_COMMUNITY_Community 1106]]
 
 ## Top bridge nodes
-- [[Required by_11_3]] - degree 4, connects to 2 communities
-- [[Connections_998_1]] - degree 3, connects to 1 community
+- [[Connections_1397_1]] - degree 2, connects to 1 community

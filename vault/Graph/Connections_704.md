@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.setWings()_1.md"
+source_file: "vault/Graph/CodeCreatureBuilder.md"
 type: "document"
-community: "Community 12"
+community: "Community 1040"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1040
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.setWings()_1_1]] - `contains` [EXTRACTED]
+- [[CodeCreatureBuilder_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1040

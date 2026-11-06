@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/busy()_1.md"
+source_file: "vault/Graph/busy()_2.md"
 type: "document"
-community: "Community 1385"
+community: "Community 1850"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1385
+  - community/Community_1850
 ---
 
-# busy().md
+# busy()
 
 ## Connections
-- [[Connections_1700]] - `contains` [EXTRACTED]
-- [[busy()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_11072]] - `contains` [EXTRACTED]
+- [[busy()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1385
+#graphify/document #graphify/EXTRACTED #community/Community_1850

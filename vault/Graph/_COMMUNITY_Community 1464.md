@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1464
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1925]] - document - vault/Graph/setupArenaFixtures()_1.md
-- [[setupArenaFixtures()_1]] - document - vault/Graph/setupArenaFixtures()_1.md
+- [[Connections_7718]] - document - vault/Graph/Connections_3021.md
+- [[Connections_7719]] - document - vault/Graph/Connections_3021.md
+- [[Connections_7720]] - document - vault/Graph/Connections_3022.md
+- [[Connections_7721]] - document - vault/Graph/Connections_3022.md
+- [[Connections_7722]] - document - vault/Graph/Connections_5579.md
+- [[Connections_3021_1]] - document - vault/Graph/Connections_3021.md
+- [[Connections_3022_1]] - document - vault/Graph/Connections_3022.md
+- [[Connections_5579_1]] - document - vault/Graph/Connections_5579.md
+- [[Connections_5579_2]] - document - vault/Graph/Connections_5579.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 3 edges to [[_COMMUNITY_Community 1458]]
+- 1 edge to [[_COMMUNITY_Community 1238]]
 
 ## Top bridge nodes
-- [[setupArenaFixtures()_1]] - degree 2, connects to 1 community
+- [[Connections_5579_1]] - degree 4, connects to 2 communities
+- [[Connections_3021_1]] - degree 4, connects to 1 community
+- [[Connections_3022_1]] - degree 3, connects to 1 community

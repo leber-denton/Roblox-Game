@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/spawnsFrom()_2.md"
+source_file: "vault/Graph/spawnsFrom()_4.md"
 type: "document"
-community: "Community 817"
-location: "L12"
+community: "Community 791"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_817
+  - community/Community_791
 ---
 
-# spawnsFrom()
+# spawnsFrom()_4.md
 
 ## Connections
-- [[Connections_5508]] - `contains` [EXTRACTED]
-- [[spawnsFrom()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_5513_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
+- [[spawnsFrom()_6]] - `contains` [EXTRACTED]
+- [[spawnsFrom()_2_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_817
+#graphify/document #graphify/EXTRACTED #community/Community_791

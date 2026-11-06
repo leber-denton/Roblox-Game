@@ -12,7 +12,8 @@ tags:
 # GymService.init()_1.md
 
 ## Connections
-- [[GymService.init()_1_1]] - `contains` [EXTRACTED]
+- [[GymService.init()_1_3]] - `contains` [EXTRACTED]
+- [[GymService.init()_1_1]] - `references` [EXTRACTED]
 - [[GymService.init()_2]] - `references` [EXTRACTED]
 - [[GymService.luau]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 107]] - `references` [EXTRACTED]

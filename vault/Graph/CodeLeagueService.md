@@ -15,6 +15,7 @@ tags:
 - [[CodeBattleService]] - `references` [EXTRACTED]
 - [[CodeGameData]] - `references` [EXTRACTED]
 - [[CodeLeagueService_1]] - `contains` [EXTRACTED]
+- [[CodeLeagueService_1_1]] - `references` [EXTRACTED]
 - [[CodeMain]] - `references` [EXTRACTED]
 - [[CodeNPC]] - `references` [EXTRACTED]
 - [[CodePlayerData]] - `references` [EXTRACTED]

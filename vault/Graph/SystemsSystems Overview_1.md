@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/SystemsSystems Overview.md"
 type: "document"
-community: "Community 974"
-location: "L1"
+community: "Community 119"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_974
+  - community/Community_119
 ---
 
-# SystemsSystems Overview.md
+# Systems/Systems Overview.md
 
 ## Connections
-- [[GraphSystems Overview_2]] - `references` [EXTRACTED]
-- [[SystemsSystems Overview_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 32]] - `references` [EXTRACTED]
+- [[Connections_3479]] - `contains` [EXTRACTED]
+- [[SystemsSystems Overview]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_974
+#graphify/document #graphify/EXTRACTED #community/Community_119

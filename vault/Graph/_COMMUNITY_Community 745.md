@@ -1,22 +1,34 @@
 ---
 type: community
-members: 9
+members: 21
 ---
 
 # Community 745
 
-**Members:** 9 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Connections_5241]] - document - vault/Graph/Connections_1121.md
-- [[Connections_5242]] - document - vault/Graph/Connections_1121.md
-- [[Connections_5243]] - document - vault/Graph/Shapes.fighter()_1.md
-- [[Connections_5244]] - document - vault/Graph/Shapes.fighter()_2.md
-- [[Connections_1121_1]] - document - vault/Graph/Connections_1121.md
-- [[Shapes.fighter()_4]] - document - vault/Graph/Shapes.fighter()_2.md
-- [[Shapes.fighter()_3]] - document - vault/Graph/Shapes.fighter()_1.md
-- [[Shapes.fighter()_1_1]] - document - vault/Graph/Shapes.fighter()_1.md
-- [[Shapes.fighter()_2_1]] - document - vault/Graph/Shapes.fighter()_2.md
+- [[BaseManager.assign()_4]] - document - vault/Graph/BaseManager.assign()_3.md
+- [[BaseManager.assign()_2_3]] - document - vault/Graph/BaseManager.assign()_2_1.md
+- [[BaseManager.assign()_2_4]] - document - vault/Graph/BaseManager.assign()_2_2.md
+- [[BaseManager.assign()_2_1]] - document - vault/Graph/BaseManager.assign()_2_1.md
+- [[BaseManager.assign()_2_2]] - document - vault/Graph/BaseManager.assign()_2_2.md
+- [[BaseManager.assign()_3_1]] - document - vault/Graph/BaseManager.assign()_3.md
+- [[Community 728]] - document - vault/Graph/_COMMUNITY_Community 728.md
+- [[Connections_22355]] - document - vault/Graph/BaseManager.assign()_2_1.md
+- [[Connections_22356]] - document - vault/Graph/BaseManager.assign()_2_2.md
+- [[Connections_22357]] - document - vault/Graph/BaseManager.assign()_3.md
+- [[Connections_22358]] - document - vault/Graph/Connections_180_1.md
+- [[Connections_22359]] - document - vault/Graph/Connections_181_1.md
+- [[Connections to other communities_1526]] - document - vault/Graph/_COMMUNITY_Community 728.md
+- [[Connections_180_2]] - document - vault/Graph/Connections_180_1.md
+- [[Connections_180_1_1]] - document - vault/Graph/Connections_180_1.md
+- [[Connections_181_2]] - document - vault/Graph/Connections_181_1.md
+- [[Connections_181_1_1]] - document - vault/Graph/Connections_181_1.md
+- [[Live Query (requires Dataview plugin)_1788]] - document - vault/Graph/_COMMUNITY_Community 728.md
+- [[Members_1786]] - document - vault/Graph/_COMMUNITY_Community 728.md
+- [[Top bridge nodes_1518]] - document - vault/Graph/_COMMUNITY_Community 728.md
+- [[_COMMUNITY_Community 728]] - document - vault/Graph/_COMMUNITY_Community 728.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,12 +38,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 151]]
-- 1 edge to [[_COMMUNITY_Community 137]]
-- 1 edge to [[_COMMUNITY_Community 139]]
+- 4 edges to [[_COMMUNITY_Community 1075]]
+- 1 edge to [[_COMMUNITY_Community 168]]
 - 1 edge to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 471]]
 
 ## Top bridge nodes
-- [[Shapes.fighter()_1_1]] - degree 6, connects to 4 communities
-- [[Shapes.fighter()_2_1]] - degree 4, connects to 1 community
-- [[Connections_1121_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 728]] - degree 8, connects to 3 communities
+- [[BaseManager.assign()_2_1]] - degree 6, connects to 1 community
+- [[Connections_180_1_1]] - degree 4, connects to 1 community
+- [[BaseManager.assign()_2_2]] - degree 3, connects to 1 community
+- [[Connections_181_1_1]] - degree 3, connects to 1 community

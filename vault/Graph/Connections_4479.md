@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/NpcGuard.md"
+source_file: "vault/Graph/Connections_4479.md"
 type: "document"
-community: "Community 510"
-location: "L14"
+community: "Community 102"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_510
+  - community/Community_102
 ---
 
-# Connections
+# Connections_4479.md
 
 ## Connections
-- [[NpcGuard_3]] - `contains` [EXTRACTED]
+- [[Connections_171_1]] - `references` [EXTRACTED]
+- [[Connections_4479_1]] - `contains` [EXTRACTED]
+- [[NpcGuard_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 510]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_510
+#graphify/document #graphify/EXTRACTED #community/Community_102

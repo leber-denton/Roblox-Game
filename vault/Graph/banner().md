@@ -1,17 +1,17 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/DungeonClient.client.luau"
 type: "code"
-community: "Community 215"
+community: "Community 185"
 location: "L28"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_215
+  - community/Community_185
 ---
 
 # banner()
 
 ## Connections
-- [[DungeonClient.client.luau_2]] - `contains` [EXTRACTED]
+- [[DungeonClient.client.luau_6]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_215
+#graphify/code #graphify/EXTRACTED #community/Community_185

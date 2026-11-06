@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/incoming()_1.md"
+source_file: "vault/Graph/incoming()_1_1.md"
 type: "document"
-community: "Community 168"
-location: "L12"
+community: "Community 1031"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1031
 ---
 
-# incoming()_1.md
+# incoming()_1_1.md
 
 ## Connections
-- [[Connections_2332]] - `contains` [EXTRACTED]
-- [[incoming()_1]] - `contains` [EXTRACTED]
+- [[Connections_458]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1031]] - `references` [EXTRACTED]
+- [[incoming()_1_2]] - `contains` [EXTRACTED]
+- [[incoming()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1031

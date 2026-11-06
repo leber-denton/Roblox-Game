@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/challenge().md"
+source_file: "vault/Graph/challenge()_5.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 134"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
 # challenge().md
 
 ## Connections
-- [[LeagueService.luau_4]] - `references` [EXTRACTED]
-- [[NPC.say()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[challenge()_8]] - `contains` [EXTRACTED]
-- [[setup()_6]] - `references` [EXTRACTED]
-- [[stage()_4]] - `references` [EXTRACTED]
-- [[teamFor()_4]] - `references` [EXTRACTED]
-- [[wins()_4]] - `references` [EXTRACTED]
+- [[Connections_5830]] - `contains` [EXTRACTED]
+- [[challenge()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

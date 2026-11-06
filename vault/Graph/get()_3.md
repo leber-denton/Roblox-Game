@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/get()_1.md"
+source_file: "vault/Graph/get()_3.md"
 type: "document"
-community: "Community 618"
-location: "L12"
+community: "Community 320"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_618
+  - community/Community_320
 ---
 
-# get().md
+# get()_3.md
 
 ## Connections
-- [[Connections_4814]] - `contains` [EXTRACTED]
-- [[get()_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 617]] - `references` [EXTRACTED]
+- [[get()_7]] - `contains` [EXTRACTED]
+- [[get()_1_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_618
+#graphify/document #graphify/EXTRACTED #community/Community_320

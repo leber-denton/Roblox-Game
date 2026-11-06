@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/rememberOriginals()_1.md"
+source_file: "vault/Graph/rememberOriginals()_3.md"
 type: "document"
-community: "Community 249"
-location: "L1"
+community: "Community 2299"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_249
+  - community/Community_2299
 ---
 
-# rememberOriginals()_1.md
+# rememberOriginals()
 
 ## Connections
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 249]] - `references` [EXTRACTED]
-- [[rememberOriginals()_1_1]] - `contains` [EXTRACTED]
-- [[rememberOriginals()_2]] - `references` [EXTRACTED]
-- [[themeTargets()_1]] - `references` [EXTRACTED]
+- [[Connections_13379]] - `contains` [EXTRACTED]
+- [[rememberOriginals()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_249
+#graphify/document #graphify/EXTRACTED #community/Community_2299

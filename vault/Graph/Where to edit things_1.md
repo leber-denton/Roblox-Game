@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Where to edit things_1.md"
+source_file: "claude/launch-checklist.md"
 type: "document"
-community: "Community 1373"
-location: "L1"
+community: "Community 40"
+location: "L34"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1373
+  - community/Community_40
 ---
 
-# Where to edit things_1.md
+# Where to edit things
 
 ## Connections
-- [[Where to edit things]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 40]] - `references` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1373
+#graphify/document #graphify/EXTRACTED #community/Community_40

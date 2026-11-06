@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Wander.remove().md"
+source_file: "vault/Graph/Wander.remove()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 3223"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3223
 ---
 
-# Wander.remove()
+# Wander.remove().md
 
 ## Connections
-- [[Connections_5894]] - `contains` [EXTRACTED]
+- [[Connections_16651]] - `contains` [EXTRACTED]
 - [[Wander.remove()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3223

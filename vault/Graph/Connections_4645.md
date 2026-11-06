@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ArenaManager.acquire()_2.md"
+source_file: "vault/Graph/Connections to other communities_300.md"
 type: "document"
-community: "Community 549"
+community: "Community 126"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_549
+  - community/Community_126
 ---
 
 # Connections
 
 ## Connections
-- [[ArenaManager.acquire()_4]] - `contains` [EXTRACTED]
+- [[Connections to other communities_300_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_549
+#graphify/document #graphify/EXTRACTED #community/Community_126

@@ -14,7 +14,8 @@ tags:
 ## Connections
 - [[Main_1]] - `references` [EXTRACTED]
 - [[Required by_25_1]] - `references` [EXTRACTED]
-- [[Required by_45]] - `contains` [EXTRACTED]
+- [[Required by_45_1_1]] - `contains` [EXTRACTED]
+- [[Required by_45_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 157]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 331]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 69]] - `references` [EXTRACTED]

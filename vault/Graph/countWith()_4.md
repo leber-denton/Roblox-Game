@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/countWith().md"
+source_file: "vault/Graph/countWith()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2223"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2223
 ---
 
-# countWith()
+# countWith()_4.md
 
 ## Connections
-- [[Connections_5730]] - `contains` [EXTRACTED]
-- [[countWith()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[countWith()_1_2]] - `references` [EXTRACTED]
+- [[countWith()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2223

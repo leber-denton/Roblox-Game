@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/File endings.md"
 type: "document"
-community: "Community 96"
-location: "L1"
+community: "Community 2609"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_96
+  - community/Community_2609
 ---
 
 # File endings.md
 
 ## Connections
-- [[Creature Quest_3]] - `references` [EXTRACTED]
+- [[Connections_14796]] - `contains` [EXTRACTED]
 - [[File endings]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 36]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_96
+#graphify/document #graphify/EXTRACTED #community/Community_2609

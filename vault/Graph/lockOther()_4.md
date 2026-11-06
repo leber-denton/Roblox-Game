@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/lockOther()_2.md"
+source_file: "vault/Graph/lockOther()_4.md"
 type: "document"
-community: "Community 776"
-location: "L12"
+community: "Community 459"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_776
+  - community/Community_459
 ---
 
-# lockOther()
+# lockOther()_4.md
 
 ## Connections
-- [[Connections_5364]] - `contains` [EXTRACTED]
-- [[lockOther()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 471]] - `references` [EXTRACTED]
+- [[lockOther()_5]] - `contains` [EXTRACTED]
+- [[lockOther()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_776
+#graphify/document #graphify/EXTRACTED #community/Community_459

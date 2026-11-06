@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Sfx.luau.md"
+source_file: "vault/Graph/Connections_1779.md"
 type: "document"
-community: "Community 177"
+community: "Community 1147"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_177
+  - community/Community_1147
 ---
 
 # Connections
 
 ## Connections
-- [[Sfx.luau_1]] - `contains` [EXTRACTED]
+- [[Connections_2590]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_177
+#graphify/document #graphify/EXTRACTED #community/Community_1147

@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_238.md"
+source_file: "vault/Graph/refreshBaseLabels()_5.md"
 type: "document"
-community: "Community 240"
-location: "L12"
+community: "Community 1187"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_3372]] - `contains` [EXTRACTED]
-- [[Connections_238_1]] - `contains` [EXTRACTED]
+- [[refreshBaseLabels()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1187

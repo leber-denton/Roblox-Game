@@ -1,21 +1,24 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 319.md"
+source_file: "vault/Graph/Community 319.md"
 type: "document"
-community: "Community 1052"
-location: "L6"
+community: "Community 1542"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1052
+  - community/Community_1542
 ---
 
-# Community 319
+# Community 319.md
 
 ## Connections
-- [[Connections to other communities_32]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_32]] - `contains` [EXTRACTED]
-- [[Members_32]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_36]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 319]] - `contains` [EXTRACTED]
+- [[Community 319_1]] - `contains` [EXTRACTED]
+- [[Connections to other communities_32_1]] - `references` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_32_1]] - `references` [EXTRACTED]
+- [[Members_32_1]] - `references` [EXTRACTED]
+- [[Top bridge nodes_36_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1052]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1260]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 319]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1052
+#graphify/document #graphify/EXTRACTED #community/Community_1542

@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Required by_62.md"
+source_file: "vault/Graph/Required by_38.md"
 type: "document"
-community: "Community 121"
-location: "L1"
+community: "Community 1434"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_121
+  - community/Community_1434
 ---
 
-# Required by_62.md
+# Required by
 
 ## Connections
-- [[ColiseumUI_2]] - `references` [EXTRACTED]
-- [[Required by_6]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 239]] - `references` [EXTRACTED]
+- [[Connections_7413]] - `contains` [EXTRACTED]
+- [[Required by_38_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_121
+#graphify/document #graphify/EXTRACTED #community/Community_1434

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/render()_3.md"
+source_file: "vault/Graph/render()_2.md"
 type: "document"
-community: "Community 182"
+community: "Community 1007"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_182
+  - community/Community_1007
 ---
 
-# render()
+# render().md
 
 ## Connections
-- [[Connections_2697]] - `contains` [EXTRACTED]
-- [[render()_3_1]] - `contains` [EXTRACTED]
+- [[Connections_96]] - `contains` [EXTRACTED]
+- [[render()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_182
+#graphify/document #graphify/EXTRACTED #community/Community_1007

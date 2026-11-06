@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/CreatureBuilder.luau_1.md"
+source_file: "vault/Graph/CreatureBuilder.luau.md"
 type: "document"
-community: "Community 144"
-location: "L1"
+community: "Community 176"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_144
+  - community/Community_176
 ---
 
-# CreatureBuilder.luau_1.md
+# CreatureBuilder.luau
 
 ## Connections
+- [[Connections_10314]] - `contains` [EXTRACTED]
 - [[CreatureBuilder.luau]] - `contains` [EXTRACTED]
-- [[GameData.luau]] - `references` [EXTRACTED]
-- [[WildSpawner.luau]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_144
+#graphify/document #graphify/EXTRACTED #community/Community_176

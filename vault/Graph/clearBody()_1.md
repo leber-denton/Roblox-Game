@@ -12,11 +12,10 @@ tags:
 # clearBody().md
 
 ## Connections
-- [[Functions_97]] - `references` [EXTRACTED]
+- [[CreatureIndex.client.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 420]] - `references` [EXTRACTED]
 - [[clearBody()_2]] - `contains` [EXTRACTED]
-- [[setOpen()_6]] - `references` [EXTRACTED]
 - [[setOpen()_1_1]] - `references` [EXTRACTED]
-- [[showDetail()_2]] - `references` [EXTRACTED]
 - [[showDetail()_1_1]] - `references` [EXTRACTED]
 - [[showGrid()_1]] - `references` [EXTRACTED]
 

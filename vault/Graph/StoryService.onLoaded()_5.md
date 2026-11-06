@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/StoryService.onLoaded().md"
+source_file: "vault/Graph/StoryService.onLoaded()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 320"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_320
 ---
 
-# StoryService.onLoaded()
+# StoryService.onLoaded()_5.md
 
 ## Connections
-- [[Connections_5872]] - `contains` [EXTRACTED]
-- [[StoryService.onLoaded()_4]] - `contains` [EXTRACTED]
+- [[StoryService.onLoaded()_7]] - `contains` [EXTRACTED]
+- [[StoryService.onLoaded()_4_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 24]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_320

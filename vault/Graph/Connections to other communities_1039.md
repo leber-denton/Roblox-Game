@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/_COMMUNITY_Community 697.md"
+type: "document"
+community: "Community 2969"
+location: "L37"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_2969
+---
+
+# Connections to other communities
+
+## Connections
+- [[Community 697]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_2969

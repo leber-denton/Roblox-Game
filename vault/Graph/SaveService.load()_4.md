@@ -1,24 +1,19 @@
 ---
-source_file: "vault/Graph/SaveService.load().md"
+source_file: "vault/Graph/SaveService.load()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_168
 ---
 
-# SaveService.load().md
+# SaveService.load()_4.md
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[BaseManager.restore()_4]] - `references` [EXTRACTED]
-- [[PlayerData.load()_4]] - `references` [EXTRACTED]
 - [[SaveService.load()_5]] - `contains` [EXTRACTED]
-- [[SaveService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[claim()_3]] - `references` [EXTRACTED]
-- [[onPlayerAdded()_4]] - `references` [EXTRACTED]
+- [[SaveService.load()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_168

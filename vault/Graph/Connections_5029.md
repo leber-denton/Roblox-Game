@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/unlockRegion()_1.md"
+source_file: "vault/Graph/Connections_299_1.md"
 type: "document"
-community: "Community 680"
+community: "Community 1283"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_680
+  - community/Community_1283
 ---
 
 # Connections
 
 ## Connections
-- [[unlockRegion()_3]] - `contains` [EXTRACTED]
+- [[Connections_299_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_680
+#graphify/document #graphify/EXTRACTED #community/Community_1283

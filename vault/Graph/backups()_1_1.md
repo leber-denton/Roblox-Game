@@ -1,24 +1,17 @@
 ---
-source_file: "vault/Graph/backups()_1.md"
+source_file: "vault/Graph/backups()_1_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 2720"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_2720
 ---
 
-# backups()_1.md
+# backups()_1_1.md
 
 ## Connections
-- [[Functions_121]] - `references` [EXTRACTED]
-- [[ModelSync.apply()_1_1]] - `references` [EXTRACTED]
-- [[ModelSync.luau_2]] - `references` [EXTRACTED]
-- [[ModelSync.restore()_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[backups()_3]] - `contains` [EXTRACTED]
-- [[backups()_2_1]] - `references` [EXTRACTED]
+- [[backups()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_2720

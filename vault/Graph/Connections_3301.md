@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections to other communities_59.md"
+source_file: "vault/Graph/BaseManager.unlockExpansion()_4.md"
 type: "document"
-community: "Community 236"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_236
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[Connections to other communities_185]] - `contains` [EXTRACTED]
+- [[BaseManager.unlockExpansion()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_236
+#graphify/document #graphify/EXTRACTED #community/Community_1187

@@ -12,8 +12,8 @@ tags:
 # restoreCamera()_1.md
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `references` [EXTRACTED]
-- [[Functions_109]] - `references` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `references` [EXTRACTED]
+- [[Functions_170]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 - [[handle()_1_1]] - `references` [EXTRACTED]

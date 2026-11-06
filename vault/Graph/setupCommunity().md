@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[BaseManager.snapshot()]] - `calls` [INFERRED]
-- [[Functions_1]] - `references` [INFERRED]
+- [[Functions]] - `references` [INFERRED]
 - [[SocialService.init()]] - `calls` [EXTRACTED]
 - [[SocialService.luau]] - `contains` [EXTRACTED]
 - [[SocialService.request()]] - `calls` [EXTRACTED]

@@ -8,15 +8,15 @@ members: 9
 **Members:** 9 nodes
 
 ## Members
-- [[Connections_4119]] - document - vault/Graph/Connections_1124.md
-- [[Connections_4120]] - document - vault/Graph/Connections_1124.md
-- [[Connections_4121]] - document - vault/Graph/Shapes.ghost()_1.md
-- [[Connections_4122]] - document - vault/Graph/Shapes.ghost()_2.md
-- [[Connections_1124_1]] - document - vault/Graph/Connections_1124.md
-- [[Shapes.ghost()_4]] - document - vault/Graph/Shapes.ghost()_2.md
-- [[Shapes.ghost()_3]] - document - vault/Graph/Shapes.ghost()_1.md
-- [[Shapes.ghost()_1_1]] - document - vault/Graph/Shapes.ghost()_1.md
-- [[Shapes.ghost()_2_1]] - document - vault/Graph/Shapes.ghost()_2.md
+- [[Community 447]] - document - vault/Graph/_COMMUNITY_Community 447.md
+- [[Connections_18332]] - document - vault/Graph/Live Query (requires Dataview plugin)_9_1.md
+- [[Connections to other communities_1224]] - document - vault/Graph/_COMMUNITY_Community 447.md
+- [[Live Query (requires Dataview plugin)_1451]] - document - vault/Graph/_COMMUNITY_Community 447.md
+- [[Live Query (requires Dataview plugin)_9_2]] - document - vault/Graph/Live Query (requires Dataview plugin)_9_1.md
+- [[Live Query (requires Dataview plugin)_9_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_9_1.md
+- [[Members_1455]] - document - vault/Graph/_COMMUNITY_Community 447.md
+- [[Top bridge nodes_1196]] - document - vault/Graph/_COMMUNITY_Community 447.md
+- [[_COMMUNITY_Community 447]] - document - vault/Graph/_COMMUNITY_Community 447.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,12 +26,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 151]]
-- 1 edge to [[_COMMUNITY_Community 137]]
-- 1 edge to [[_COMMUNITY_Community 139]]
-- 1 edge to [[_COMMUNITY_Community 176]]
+- 2 edges to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 1]]
+- 1 edge to [[_COMMUNITY_Community 413]]
+- 1 edge to [[_COMMUNITY_Community 452]]
 
 ## Top bridge nodes
-- [[Shapes.ghost()_1_1]] - degree 6, connects to 4 communities
-- [[Shapes.ghost()_2_1]] - degree 4, connects to 1 community
-- [[Connections_1124_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 447]] - degree 5, connects to 3 communities
+- [[Live Query (requires Dataview plugin)_9_1]] - degree 4, connects to 2 communities

@@ -12,7 +12,7 @@ tags:
 # Shapes.bird()
 
 ## Connections
-- [[Connections_1640]] - `contains` [EXTRACTED]
+- [[Connections_6674]] - `contains` [EXTRACTED]
 - [[Shapes.bird()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

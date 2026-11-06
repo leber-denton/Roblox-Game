@@ -12,7 +12,7 @@ tags:
 # isContent()
 
 ## Connections
-- [[Connections_127]] - `contains` [EXTRACTED]
+- [[Connections_813]] - `contains` [EXTRACTED]
 - [[isContent()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_105

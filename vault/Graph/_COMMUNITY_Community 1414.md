@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1414
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1763]] - document - vault/Graph/fakePlayerGetAttributeChangedSignal()_1.md
-- [[fakePlayerGetAttributeChangedSignal()_3]] - document - vault/Graph/fakePlayerGetAttributeChangedSignal()_1.md
+- [[Connections_7210]] - document - vault/Graph/Connections_2531.md
+- [[Connections_7211]] - document - vault/Graph/Connections_2531.md
+- [[Connections_7212]] - document - vault/Graph/Live Query (requires Dataview plugin)_253.md
+- [[Connections_7213]] - document - vault/Graph/Live Query (requires Dataview plugin)_53_1.md
+- [[Connections_2531_1]] - document - vault/Graph/Connections_2531.md
+- [[Live Query (requires Dataview plugin)_529]] - document - vault/Graph/Live Query (requires Dataview plugin)_253.md
+- [[Live Query (requires Dataview plugin)_253_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_253.md
+- [[Live Query (requires Dataview plugin)_53_2]] - document - vault/Graph/Live Query (requires Dataview plugin)_53_1.md
+- [[Live Query (requires Dataview plugin)_53_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_53_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 486]]
+- 3 edges to [[_COMMUNITY_Community 699]]
+- 1 edge to [[_COMMUNITY_Community 1078]]
 
 ## Top bridge nodes
-- [[fakePlayerGetAttributeChangedSignal()_3]] - degree 2, connects to 1 community
+- [[Live Query (requires Dataview plugin)_53_1]] - degree 4, connects to 2 communities
+- [[Live Query (requires Dataview plugin)_253_1]] - degree 4, connects to 1 community
+- [[Connections_2531_1]] - degree 3, connects to 1 community

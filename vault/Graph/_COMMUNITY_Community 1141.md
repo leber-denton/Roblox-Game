@@ -1,16 +1,23 @@
 ---
 type: community
-members: 3
+members: 10
 ---
 
 # Community 1141
 
-**Members:** 3 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Community 61]] - document - vault/Graph/_COMMUNITY_Community 61.md
-- [[Live Query (requires Dataview plugin)_83]] - document - vault/Graph/_COMMUNITY_Community 61.md
-- [[Members_83]] - document - vault/Graph/_COMMUNITY_Community 61.md
+- [[Connections_2561]] - document - vault/Graph/Connections_31.md
+- [[Connections_2562]] - document - vault/Graph/Connections_31.md
+- [[Connections_2563]] - document - vault/Graph/Live Query (requires Dataview plugin)_8.md
+- [[Connections_2564]] - document - vault/Graph/Top bridge nodes_8.md
+- [[Connections_31_1]] - document - vault/Graph/Connections_31.md
+- [[Live Query (requires Dataview plugin)_233]] - document - vault/Graph/Live Query (requires Dataview plugin)_8.md
+- [[Live Query (requires Dataview plugin)_8_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_8.md
+- [[Top bridge nodes_179]] - document - vault/Graph/Top bridge nodes_8.md
+- [[Top bridge nodes_8_1]] - document - vault/Graph/Top bridge nodes_8.md
+- [[_COMMUNITY_Community 1007]] - document - vault/Graph/_COMMUNITY_Community 1007.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +27,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 689]]
+- 4 edges to [[_COMMUNITY_Community 523]]
+- 3 edges to [[_COMMUNITY_Community 1332]]
+- 3 edges to [[_COMMUNITY_Community 1340]]
+- 3 edges to [[_COMMUNITY_Community 1505]]
+- 2 edges to [[_COMMUNITY_Community 1942]]
+- 2 edges to [[_COMMUNITY_Community 2268]]
+- 2 edges to [[_COMMUNITY_Community 2284]]
+- 2 edges to [[_COMMUNITY_Community 2721]]
+- 1 edge to [[_COMMUNITY_Community 2753]]
+- 1 edge to [[_COMMUNITY_Community 451]]
+- 1 edge to [[_COMMUNITY_Community 3642]]
+- 1 edge to [[_COMMUNITY_Community 168]]
 
 ## Top bridge nodes
-- [[Community 61]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 1007]] - degree 28, connects to 12 communities

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/docsREADME_2.md"
+source_file: "vault/Graph/addTrail()_1.md"
 type: "document"
-community: "Community 218"
+community: "Community 1178"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_218
+  - community/Community_1178
 ---
 
 # Connections
 
 ## Connections
-- [[docsREADME_2_1]] - `contains` [EXTRACTED]
+- [[addTrail()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_218
+#graphify/document #graphify/EXTRACTED #community/Community_1178

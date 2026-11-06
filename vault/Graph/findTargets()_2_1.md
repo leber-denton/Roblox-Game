@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/findTargets()_2.md"
+source_file: "vault/Graph/findTargets()_2_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 3000"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_3000
 ---
 
-# findTargets()_2.md
+# findTargets()_2_1.md
 
 ## Connections
-- [[Connections_323_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[findTargets()_4]] - `contains` [EXTRACTED]
-- [[findTargets()_1_1]] - `references` [EXTRACTED]
+- [[findTargets()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_3000

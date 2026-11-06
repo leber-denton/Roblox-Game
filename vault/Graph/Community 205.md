@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 205.md"
+source_file: "vault/Graph/Community 205.md"
 type: "document"
-community: "Community 205"
-location: "L6"
+community: "Community 1437"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_205
+  - community/Community_1437
 ---
 
-# Community 205
+# Community 205.md
 
 ## Connections
-- [[Connections to other communities_163]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_174]] - `contains` [EXTRACTED]
-- [[Members_177]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_169]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 205]] - `contains` [EXTRACTED]
+- [[Community 205_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1437]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 205]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_205
+#graphify/document #graphify/EXTRACTED #community/Community_1437

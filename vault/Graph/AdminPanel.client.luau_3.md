@@ -1,25 +1,20 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/AdminPanel.client.luau"
-type: "code"
-community: "Community 3"
+source_file: "vault/Graph/AdminPanel.client.luau_3.md"
+type: "document"
+community: "Community 1010"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_3
+  - community/Community_1010
 ---
 
-# AdminPanel.client.luau
+# AdminPanel.client.luau_3.md
 
 ## Connections
-- [[btn()]] - `contains` [EXTRACTED]
-- [[corner()]] - `contains` [EXTRACTED]
-- [[header()_2]] - `contains` [EXTRACTED]
-- [[load()]] - `contains` [EXTRACTED]
-- [[new()_3]] - `contains` [EXTRACTED]
-- [[nextOrder()]] - `contains` [EXTRACTED]
-- [[row()_3]] - `contains` [EXTRACTED]
-- [[run()]] - `contains` [EXTRACTED]
-- [[toggle()]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau_4]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau]] - `references` [EXTRACTED]
+- [[Connections_78_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1010]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_3
+#graphify/document #graphify/EXTRACTED #community/Community_1010

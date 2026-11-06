@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[NPC.say()]] - `calls` [INFERRED]
 - [[RouteTrainerService.init()]] - `calls` [EXTRACTED]
-- [[RouteTrainerService.luau_3]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.luau_6]] - `contains` [EXTRACTED]
 - [[exclaim()]] - `calls` [EXTRACTED]
 - [[reward()]] - `calls` [EXTRACTED]
 

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/NPCLife.md"
+source_file: "vault/Graph/Requires_62.md"
 type: "document"
-community: "Community 58"
-location: "L4"
+community: "Community 2715"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_58
+  - community/Community_2715
 ---
 
 # Requires
 
 ## Connections
-- [[NPCLife]] - `contains` [EXTRACTED]
+- [[Connections_15155]] - `contains` [EXTRACTED]
+- [[Requires_62_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_58
+#graphify/document #graphify/EXTRACTED #community/Community_2715

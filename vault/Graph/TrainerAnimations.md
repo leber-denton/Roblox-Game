@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/TrainerAnimations_1.md"
+source_file: "vault/Code/TrainerAnimations.md"
 type: "document"
-community: "Community 132"
-location: "L12"
+community: "Community 13"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_132
+  - community/Community_13
 ---
 
 # TrainerAnimations
 
 ## Connections
-- [[Connections_1394]] - `contains` [EXTRACTED]
-- [[TrainerAnimations_1]] - `contains` [EXTRACTED]
+- [[CodeTrainerAnimations]] - `contains` [EXTRACTED]
+- [[Functions_63]] - `contains` [EXTRACTED]
+- [[Required by_51]] - `contains` [EXTRACTED]
+- [[Requires_51]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_132
+#graphify/document #graphify/EXTRACTED #community/Community_13

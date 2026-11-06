@@ -12,9 +12,9 @@ tags:
 # Community 361
 
 ## Connections
-- [[Connections to other communities_47]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_47]] - `contains` [EXTRACTED]
-- [[Members_47]] - `contains` [EXTRACTED]
+- [[Connections to other communities_50]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_87]] - `contains` [EXTRACTED]
+- [[Members_90]] - `contains` [EXTRACTED]
 - [[Top bridge nodes_50]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 361]] - `contains` [EXTRACTED]
 

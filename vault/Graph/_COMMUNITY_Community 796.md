@@ -1,22 +1,49 @@
 ---
 type: community
-members: 9
+members: 36
 ---
 
 # Community 796
 
-**Members:** 9 nodes
+**Members:** 36 nodes
 
 ## Members
-- [[Connections_5440]] - document - vault/Graph/Connections_714.md
-- [[Connections_5441]] - document - vault/Graph/Connections_714.md
-- [[Connections_5442]] - document - vault/Graph/GameData.ballMultiplier()_1.md
-- [[Connections_5443]] - document - vault/Graph/GameData.ballMultiplier()_2.md
-- [[Connections_714_1]] - document - vault/Graph/Connections_714.md
-- [[GameData.ballMultiplier()_4]] - document - vault/Graph/GameData.ballMultiplier()_2.md
-- [[GameData.ballMultiplier()_3]] - document - vault/Graph/GameData.ballMultiplier()_1.md
-- [[GameData.ballMultiplier()_1_1]] - document - vault/Graph/GameData.ballMultiplier()_1.md
-- [[GameData.ballMultiplier()_2_1]] - document - vault/Graph/GameData.ballMultiplier()_2.md
+- [[Community 109_2]] - document - vault/Graph/Community 109.md
+- [[Community 109_1]] - document - vault/Graph/Community 109.md
+- [[Community 1388]] - document - vault/Graph/_COMMUNITY_Community 1388.md
+- [[Connections_22776]] - document - vault/Graph/Community 109.md
+- [[Connections_22777]] - document - vault/Graph/Connections_5586.md
+- [[Connections_22778]] - document - vault/Graph/Connections_5586.md
+- [[Connections_22779]] - document - vault/Graph/Connections_5587.md
+- [[Connections_22780]] - document - vault/Graph/Connections_5587.md
+- [[Connections_22781]] - document - vault/Graph/Connections_5588.md
+- [[Connections_22782]] - document - vault/Graph/Connections_5588.md
+- [[Connections_22783]] - document - vault/Graph/Connections_5592.md
+- [[Connections_22784]] - document - vault/Graph/Connections_5592.md
+- [[Connections_22785]] - document - vault/Graph/Connections_5593.md
+- [[Connections_22786]] - document - vault/Graph/Connections_5593.md
+- [[Connections_22787]] - document - vault/Graph/Connections to other communities_298.md
+- [[Connections_22788]] - document - vault/Graph/Live Query (requires Dataview plugin)_392.md
+- [[Connections_22789]] - document - vault/Graph/Members_395.md
+- [[Connections_22790]] - document - vault/Graph/Top bridge nodes_289.md
+- [[Connections to other communities_1559]] - document - vault/Graph/_COMMUNITY_Community 1388.md
+- [[Connections to other communities_1560]] - document - vault/Graph/Connections to other communities_298.md
+- [[Connections to other communities_298_1]] - document - vault/Graph/Connections to other communities_298.md
+- [[Connections_5586_1]] - document - vault/Graph/Connections_5586.md
+- [[Connections_5587_1]] - document - vault/Graph/Connections_5587.md
+- [[Connections_5588_1]] - document - vault/Graph/Connections_5588.md
+- [[Connections_5592_1]] - document - vault/Graph/Connections_5592.md
+- [[Connections_5593_1]] - document - vault/Graph/Connections_5593.md
+- [[Live Query (requires Dataview plugin)_1825]] - document - vault/Graph/_COMMUNITY_Community 1388.md
+- [[Live Query (requires Dataview plugin)_1826]] - document - vault/Graph/Live Query (requires Dataview plugin)_392.md
+- [[Live Query (requires Dataview plugin)_392_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_392.md
+- [[Members_1823]] - document - vault/Graph/_COMMUNITY_Community 1388.md
+- [[Members_1824]] - document - vault/Graph/Members_395.md
+- [[Members_395_1]] - document - vault/Graph/Members_395.md
+- [[Top bridge nodes_1551]] - document - vault/Graph/_COMMUNITY_Community 1388.md
+- [[Top bridge nodes_1552]] - document - vault/Graph/Top bridge nodes_289.md
+- [[Top bridge nodes_289_1]] - document - vault/Graph/Top bridge nodes_289.md
+- [[_COMMUNITY_Community 1388]] - document - vault/Graph/_COMMUNITY_Community 1388.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,11 +53,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 27]]
-- 1 edge to [[_COMMUNITY_Community 120]]
-- 1 edge to [[_COMMUNITY_Community 138]]
+- 3 edges to [[_COMMUNITY_Community 240]]
+- 1 edge to [[_COMMUNITY_Community 1824]]
 
 ## Top bridge nodes
-- [[GameData.ballMultiplier()_1_1]] - degree 5, connects to 3 communities
-- [[GameData.ballMultiplier()_2_1]] - degree 4, connects to 1 community
-- [[Connections_714_1]] - degree 3, connects to 1 community
+- [[Community 109_1]] - degree 4, connects to 2 communities
+- [[_COMMUNITY_Community 1388]] - degree 13, connects to 1 community

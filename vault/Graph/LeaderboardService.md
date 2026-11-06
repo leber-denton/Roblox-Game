@@ -1,20 +1,20 @@
 ---
 source_file: "vault/Code/LeaderboardService.md"
 type: "document"
-community: "Community 55"
+community: "Community 13"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_55
+  - community/Community_13
 ---
 
 # LeaderboardService
 
 ## Connections
-- [[CodeLeaderboardService_2]] - `contains` [EXTRACTED]
-- [[Functions_157]] - `contains` [EXTRACTED]
-- [[Required by_147]] - `contains` [EXTRACTED]
-- [[Requires_152]] - `contains` [EXTRACTED]
+- [[CodeLeaderboardService]] - `contains` [EXTRACTED]
+- [[Functions_49]] - `contains` [EXTRACTED]
+- [[Required by_41]] - `contains` [EXTRACTED]
+- [[Requires_40]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_55
+#graphify/document #graphify/EXTRACTED #community/Community_13

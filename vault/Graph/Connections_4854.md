@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/listLayout().md"
+source_file: "vault/Graph/Connections_2718.md"
 type: "document"
-community: "Community 63"
-location: "L14"
+community: "Community 1274"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_63
+  - community/Community_1274
 ---
 
 # Connections
 
 ## Connections
-- [[listLayout()_2]] - `contains` [EXTRACTED]
+- [[Connections_4855]] - `contains` [EXTRACTED]
+- [[Connections_2718_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_63
+#graphify/document #graphify/EXTRACTED #community/Community_1274

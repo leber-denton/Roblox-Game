@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/NPC.luau_1.md"
+source_file: "vault/Graph/NPC.luau_1_1.md"
 type: "document"
 community: "Community 134"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_134
 ---
 
-# NPC.luau_1.md
+# NPC.luau_1_1.md
 
 ## Connections
-- [[Connections_1501]] - `contains` [EXTRACTED]
-- [[NPC.luau_1]] - `contains` [EXTRACTED]
+- [[Connections_4834_1]] - `references` [EXTRACTED]
+- [[NPC.luau_1_2]] - `contains` [EXTRACTED]
+- [[NPC.luau_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

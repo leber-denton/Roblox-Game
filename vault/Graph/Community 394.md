@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 394.md"
+source_file: "vault/Graph/Community 394.md"
 type: "document"
-community: "Community 1098"
-location: "L6"
+community: "Community 394"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1098
+  - community/Community_394
 ---
 
-# Community 394
+# Community 394.md
 
 ## Connections
-- [[Connections to other communities_67]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_67]] - `contains` [EXTRACTED]
-- [[Members_67]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_70]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 394]] - `contains` [EXTRACTED]
+- [[Community 394_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 394]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1098
+#graphify/document #graphify/EXTRACTED #community/Community_394

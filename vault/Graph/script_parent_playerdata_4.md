@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/script_parent_playerdata.md"
 type: "document"
-community: "Community 168"
-location: "L12"
+community: "Community 639"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_639
 ---
 
 # script_parent_playerdata.md
 
 ## Connections
-- [[Connections_2411]] - `contains` [EXTRACTED]
-- [[script_parent_playerdata]] - `contains` [EXTRACTED]
+- [[script_parent_playerdata_7]] - `contains` [EXTRACTED]
+- [[script_parent_playerdata_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_639

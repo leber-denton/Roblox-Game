@@ -1,23 +1,19 @@
 ---
-source_file: "vault/Graph/refreshBaseLabels().md"
+source_file: "vault/Graph/refreshBaseLabels()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 152"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_152
 ---
 
-# refreshBaseLabels().md
+# refreshBaseLabels()_4.md
 
 ## Connections
-- [[DecorService.init()_4]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[DecorService.onLoaded()_5]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[buildBaseProps()_4]] - `references` [EXTRACTED]
-- [[ownerOf()_4]] - `references` [EXTRACTED]
-- [[refreshBaseLabels()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[refreshBaseLabels()_6]] - `contains` [EXTRACTED]
+- [[refreshBaseLabels()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_152

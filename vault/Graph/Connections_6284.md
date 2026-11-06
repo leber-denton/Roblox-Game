@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_234.md"
+source_file: "vault/Graph/RouteTrainerService.init()_1_1.md"
 type: "document"
-community: "Community 961"
-location: "L12"
+community: "Community 134"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_961
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_6285]] - `contains` [EXTRACTED]
-- [[Connections_234_1]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.init()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_961
+#graphify/document #graphify/EXTRACTED #community/Community_134

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/play()_2.md"
+source_file: "vault/Graph/play()_6.md"
 type: "document"
-community: "Community 21"
-location: "L12"
+community: "Community 1318"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_1318
 ---
 
-# play()
+# play()_6.md
 
 ## Connections
-- [[Connections_3067]] - `contains` [EXTRACTED]
-- [[play()_2_3]] - `contains` [EXTRACTED]
+- [[Connections_3785_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1300]] - `references` [EXTRACTED]
+- [[play()_4]] - `contains` [EXTRACTED]
+- [[play()_9]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_1318

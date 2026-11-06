@@ -12,6 +12,6 @@ tags:
 # WeeklyEventService.startNow()
 
 ## Connections
-- [[WeeklyEventService.luau_5]] - `contains` [EXTRACTED]
+- [[WeeklyEventService.luau_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_2

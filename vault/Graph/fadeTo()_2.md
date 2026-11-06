@@ -12,7 +12,7 @@ tags:
 # fadeTo()
 
 ## Connections
-- [[Connections_2]] - `contains` [EXTRACTED]
+- [[Connections_43]] - `contains` [EXTRACTED]
 - [[fadeTo()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_100

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.swirlTail().md"
+source_file: "vault/Graph/Connections_2694.md"
 type: "document"
-community: "Community 137"
+community: "Community 1097"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1097
 ---
 
 # Connections
 
 ## Connections
-- [[Features.swirlTail()_4]] - `contains` [EXTRACTED]
+- [[Connections_1635]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1097

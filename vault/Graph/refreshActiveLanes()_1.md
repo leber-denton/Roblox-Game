@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/refreshActiveLanes()_1.md"
+source_file: "vault/Graph/refreshActiveLanes()_1_1.md"
 type: "document"
-community: "Community 298"
-location: "L1"
+community: "Community 17"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_298
+  - community/Community_17
 ---
 
 # refreshActiveLanes()_1.md
 
 ## Connections
-- [[WildSpawner.clearLane()_1]] - `references` [EXTRACTED]
-- [[WildSpawner.getHotZone()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 223]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 26]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 298]] - `references` [EXTRACTED]
-- [[canAnyoneEnter()_1]] - `references` [EXTRACTED]
+- [[Connections_9842]] - `contains` [EXTRACTED]
 - [[refreshActiveLanes()_1_1]] - `contains` [EXTRACTED]
-- [[refreshActiveLanes()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_298
+#graphify/document #graphify/EXTRACTED #community/Community_17

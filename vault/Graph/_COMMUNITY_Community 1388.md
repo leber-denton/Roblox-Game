@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Community 1388
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Connections_1703]] - document - vault/Graph/centerOf()_2.md
-- [[centerOf()_4]] - document - vault/Graph/centerOf()_2.md
+- [[Connections_6920]] - document - vault/Graph/Connections to other communities_186.md
+- [[Connections to other communities_391]] - document - vault/Graph/Connections to other communities_186.md
+- [[Connections to other communities_186_1]] - document - vault/Graph/Connections to other communities_186.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 1 edge to [[_COMMUNITY_Community 341]]
 
 ## Top bridge nodes
-- [[centerOf()_4]] - degree 2, connects to 1 community
+- [[Connections to other communities_186_1]] - degree 2, connects to 1 community

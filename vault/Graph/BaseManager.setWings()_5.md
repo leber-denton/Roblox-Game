@@ -1,0 +1,22 @@
+---
+source_file: "vault/Graph/BaseManager.setWings().md"
+type: "document"
+community: "Community 86"
+location: "L1"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_86
+---
+
+# BaseManager.setWings().md
+
+## Connections
+- [[BaseManager.luau_6]] - `references` [EXTRACTED]
+- [[BaseManager.release()_5]] - `references` [EXTRACTED]
+- [[BaseManager.setWings()_6]] - `contains` [EXTRACTED]
+- [[DecorService.onLoaded()_9]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[actions.upgrade()_3]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_86

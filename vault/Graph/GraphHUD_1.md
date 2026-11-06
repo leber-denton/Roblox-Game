@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/GraphHUD.md"
 type: "document"
-community: "Community 232"
+community: "Community 1995"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_232
+  - community/Community_1995
 ---
 
-# GraphHUD.md
+# Graph/HUD.md
 
 ## Connections
-- [[Connections_3273]] - `contains` [EXTRACTED]
+- [[Connections_11888]] - `contains` [EXTRACTED]
 - [[GraphHUD]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_232
+#graphify/document #graphify/EXTRACTED #community/Community_1995

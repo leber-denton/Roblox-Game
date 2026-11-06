@@ -12,7 +12,8 @@ tags:
 # Functions_1_1.md
 
 ## Connections
-- [[Connections_406_1]] - `references` [EXTRACTED]
-- [[Functions_1_2]] - `contains` [EXTRACTED]
+- [[Functions_1_1_1]] - `contains` [EXTRACTED]
+- [[Functions_1_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 532]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_532

@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.serialize().md"
+source_file: "vault/Graph/BaseManager.serialize()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 638"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_638
 ---
 
-# BaseManager.serialize().md
+# BaseManager.serialize()_4.md
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[BaseManager.isExpansionUnlocked()_3]] - `references` [EXTRACTED]
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
 - [[BaseManager.serialize()_5]] - `contains` [EXTRACTED]
-- [[SaveService.save()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 638]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_638

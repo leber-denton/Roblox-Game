@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/syncRank().md"
+source_file: "vault/Graph/Connections_2191.md"
 type: "document"
-community: "Community 229"
-location: "L14"
+community: "Community 1181"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_229
+  - community/Community_1181
 ---
 
 # Connections
 
 ## Connections
-- [[syncRank()_2]] - `contains` [EXTRACTED]
+- [[Connections_3246]] - `contains` [EXTRACTED]
+- [[Connections_2191_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_229
+#graphify/document #graphify/EXTRACTED #community/Community_1181

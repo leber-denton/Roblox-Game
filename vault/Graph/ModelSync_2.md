@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/ModelSync_2.md"
+source_file: "vault/Graph/ModelSync_1.md"
 type: "document"
-community: "Community 103"
-location: "L1"
+community: "Community 2034"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_103
+  - community/Community_2034
 ---
 
-# ModelSync_2.md
+# ModelSync
 
 ## Connections
-- [[CodeModelSync]] - `references` [EXTRACTED]
-- [[Functions_121]] - `references` [EXTRACTED]
-- [[GraphModelSync]] - `references` [EXTRACTED]
-- [[ModelSync_2_1]] - `contains` [EXTRACTED]
-- [[Required by_118]] - `references` [EXTRACTED]
-- [[Requires_119]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 212]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
+- [[Connections_12102]] - `contains` [EXTRACTED]
+- [[ModelSync_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_103
+#graphify/document #graphify/EXTRACTED #community/Community_2034

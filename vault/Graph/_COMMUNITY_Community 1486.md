@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Community 1486
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Connections_1952]] - document - vault/Graph/What you need to do before it makes money_2.md
-- [[What you need to do before it makes money_2_1]] - document - vault/Graph/What you need to do before it makes money_2.md
+- [[Connections_7953]] - document - vault/Graph/Top bridge nodes_103.md
+- [[Top bridge nodes_467]] - document - vault/Graph/Top bridge nodes_103.md
+- [[Top bridge nodes_103_1]] - document - vault/Graph/Top bridge nodes_103.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 350]]
+- 1 edge to [[_COMMUNITY_Community 1102]]
 
 ## Top bridge nodes
-- [[What you need to do before it makes money_2_1]] - degree 2, connects to 1 community
+- [[Top bridge nodes_103_1]] - degree 2, connects to 1 community

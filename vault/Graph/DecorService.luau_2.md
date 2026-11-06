@@ -12,8 +12,9 @@ tags:
 # DecorService.luau_2.md
 
 ## Connections
-- [[DecorService.luau_1]] - `references` [EXTRACTED]
-- [[DecorService.luau_2_1]] - `contains` [EXTRACTED]
+- [[DecorService.luau_1_1]] - `references` [EXTRACTED]
+- [[DecorService.luau_2_3]] - `contains` [EXTRACTED]
+- [[DecorService.luau_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 175]] - `references` [EXTRACTED]
 

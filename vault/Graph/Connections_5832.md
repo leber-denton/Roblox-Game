@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ProgressService.progress().md"
+source_file: "vault/Graph/commands.beatTrainers()_2_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[ProgressService.progress()_5]] - `contains` [EXTRACTED]
+- [[commands.beatTrainers()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

@@ -1,181 +1,34 @@
 ---
 type: community
-members: 168
+members: 21
 ---
 
 # Community 90
 
-**Members:** 168 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Connections_6008]] - document - vault/Graph/addPrompt().md
-- [[Connections_6009]] - document - vault/Graph/canAnyoneEnter().md
-- [[Connections_6010]] - document - vault/Graph/commands.clearWild().md
-- [[Connections_6011]] - document - vault/Graph/fillLane().md
-- [[Connections_6012]] - document - vault/Graph/Functions_103.md
-- [[Connections_6013]] - document - vault/Graph/Functions_41.md
-- [[Connections_6014]] - document - vault/Graph/Functions_42.md
-- [[Connections_6015]] - document - vault/Graph/ignoreList().md
-- [[Connections_6016]] - document - vault/Graph/laneParts().md
-- [[Connections_6017]] - document - vault/Graph/Main_2.md
-- [[Connections_6018]] - document - vault/Graph/Main.server.luau_2.md
-- [[Connections_6019]] - document - vault/Graph/npcSay()_1.md
-- [[Connections_6020]] - document - vault/Graph/npcSay()_2.md
-- [[Connections_6021]] - document - vault/Graph/npcSay().md
-- [[Connections_6022]] - document - vault/Graph/npcWave().md
-- [[Connections_6023]] - document - vault/Graph/PassService.onCharacter()_2.md
-- [[Connections_6024]] - document - vault/Graph/pickEntry().md
-- [[Connections_6025]] - document - vault/Graph/refreshActiveLanes().md
-- [[Connections_6026]] - document - vault/Graph/Required by_57.md
-- [[Connections_6027]] - document - vault/Graph/Required by_59.md
-- [[Connections_6028]] - document - vault/Graph/Requires_43.md
-- [[Connections_6029]] - document - vault/Graph/Requires_45.md
-- [[Connections_6030]] - document - vault/Graph/spawnFor().md
-- [[Connections_6031]] - document - vault/Graph/spawnInLane().md
-- [[Connections_6032]] - document - vault/Graph/standAt()_1.md
-- [[Connections_6033]] - document - vault/Graph/standAt()_2.md
-- [[Connections_6034]] - document - vault/Graph/standAt().md
-- [[Connections_6035]] - document - vault/Graph/standInFront()_1.md
-- [[Connections_6036]] - document - vault/Graph/standInFront()_2.md
-- [[Connections_6037]] - document - vault/Graph/standInFront().md
-- [[Connections_6038]] - document - vault/Graph/step().md
-- [[Connections_6039]] - document - vault/Graph/trainerTag()_1.md
-- [[Connections_6040]] - document - vault/Graph/trainerTag()_2.md
-- [[Connections_6041]] - document - vault/Graph/trainerTag().md
-- [[Connections_6042]] - document - vault/Graph/travelCFrame().md
-- [[Connections_6043]] - document - vault/Graph/Wander.add().md
-- [[Connections_6044]] - document - vault/Graph/Wander.md
-- [[Connections_6045]] - document - vault/Graph/Wander.groundAt().md
-- [[Connections_6046]] - document - vault/Graph/Wander.luau.md
-- [[Connections_6047]] - document - vault/Graph/watchProgress()_1.md
-- [[Connections_6048]] - document - vault/Graph/watchProgress()_2.md
-- [[Connections_6049]] - document - vault/Graph/watchProgress().md
-- [[Connections_6050]] - document - vault/Graph/WildSpawner.canReplace().md
-- [[Connections_6051]] - document - vault/Graph/WildSpawner.clear().md
-- [[Connections_6052]] - document - vault/Graph/WildSpawner.clearLane().md
-- [[Connections_6053]] - document - vault/Graph/WildSpawner.countLane().md
-- [[Connections_6054]] - document - vault/Graph/WildSpawner.getHotZone().md
-- [[Connections_6055]] - document - vault/Graph/WildSpawner.luau_2.md
-- [[Connections_6056]] - document - vault/Graph/WildSpawner.refillLane().md
-- [[Connections_6057]] - document - vault/Graph/WildSpawner.rollVariant().md
-- [[Connections_6058]] - document - vault/Graph/WildSpawner.setHotZone().md
-- [[Connections_6059]] - document - vault/Graph/WildSpawner.shift().md
-- [[Connections_6060]] - document - vault/Graph/WildSpawner.spawnLane().md
-- [[Connections_6061]] - document - vault/Graph/WildSpawner.spawnOne().md
-- [[Functions_187]] - document - vault/Graph/Functions_103.md
-- [[Functions_188]] - document - vault/Graph/Functions_41.md
-- [[Functions_189]] - document - vault/Graph/Functions_42.md
-- [[Functions_103_1]] - document - vault/Graph/Functions_103.md
-- [[Functions_41_2]] - document - vault/Graph/Functions_41.md
-- [[Functions_42_3]] - document - vault/Graph/Functions_42.md
-- [[GraphWander]] - document - vault/Graph/Wander.md
-- [[Main_3]] - document - vault/Graph/Main_2.md
-- [[Main.server.luau_4]] - document - vault/Graph/Main.server.luau_2.md
-- [[Main.server.luau_2_1]] - document - vault/Graph/Main.server.luau_2.md
-- [[Main_2_1]] - document - vault/Graph/Main_2.md
-- [[PassService.onCharacter()_5]] - document - vault/Graph/PassService.onCharacter()_2.md
-- [[PassService.onCharacter()_2_1]] - document - vault/Graph/PassService.onCharacter()_2.md
-- [[Required by_180]] - document - vault/Graph/Required by_57.md
-- [[Required by_181]] - document - vault/Graph/Required by_59.md
-- [[Required by_57_3]] - document - vault/Graph/Required by_57.md
-- [[Required by_59_1]] - document - vault/Graph/Required by_59.md
-- [[Requires_184]] - document - vault/Graph/Requires_43.md
-- [[Requires_185]] - document - vault/Graph/Requires_45.md
-- [[Requires_43_2]] - document - vault/Graph/Requires_43.md
-- [[Requires_45_2]] - document - vault/Graph/Requires_45.md
-- [[Wander_1]] - document - vault/Graph/Wander.md
-- [[Wander.add()_4]] - document - vault/Graph/Wander.add().md
-- [[Wander.add()_3]] - document - vault/Graph/Wander.add().md
-- [[Wander.groundAt()_4]] - document - vault/Graph/Wander.groundAt().md
-- [[Wander.groundAt()_3]] - document - vault/Graph/Wander.groundAt().md
-- [[Wander.luau_3]] - document - vault/Graph/Wander.luau.md
-- [[Wander.luau_4]] - document - vault/Graph/Wander.luau.md
-- [[WildSpawner.canReplace()_4]] - document - vault/Graph/WildSpawner.canReplace().md
-- [[WildSpawner.canReplace()_3]] - document - vault/Graph/WildSpawner.canReplace().md
-- [[WildSpawner.clear()_4]] - document - vault/Graph/WildSpawner.clear().md
-- [[WildSpawner.clear()_3]] - document - vault/Graph/WildSpawner.clear().md
-- [[WildSpawner.clearLane()_4]] - document - vault/Graph/WildSpawner.clearLane().md
-- [[WildSpawner.clearLane()_3]] - document - vault/Graph/WildSpawner.clearLane().md
-- [[WildSpawner.countLane()_4]] - document - vault/Graph/WildSpawner.countLane().md
-- [[WildSpawner.countLane()_3]] - document - vault/Graph/WildSpawner.countLane().md
-- [[WildSpawner.getHotZone()_4]] - document - vault/Graph/WildSpawner.getHotZone().md
-- [[WildSpawner.getHotZone()_3]] - document - vault/Graph/WildSpawner.getHotZone().md
-- [[WildSpawner.luau_4]] - document - vault/Graph/WildSpawner.luau_2.md
-- [[WildSpawner.luau_2_1]] - document - vault/Graph/WildSpawner.luau_2.md
-- [[WildSpawner.refillLane()_4]] - document - vault/Graph/WildSpawner.refillLane().md
-- [[WildSpawner.refillLane()_3]] - document - vault/Graph/WildSpawner.refillLane().md
-- [[WildSpawner.rollVariant()_4]] - document - vault/Graph/WildSpawner.rollVariant().md
-- [[WildSpawner.rollVariant()_3]] - document - vault/Graph/WildSpawner.rollVariant().md
-- [[WildSpawner.setHotZone()_4]] - document - vault/Graph/WildSpawner.setHotZone().md
-- [[WildSpawner.setHotZone()_3]] - document - vault/Graph/WildSpawner.setHotZone().md
-- [[WildSpawner.shift()_4]] - document - vault/Graph/WildSpawner.shift().md
-- [[WildSpawner.shift()_3]] - document - vault/Graph/WildSpawner.shift().md
-- [[WildSpawner.spawnLane()_4]] - document - vault/Graph/WildSpawner.spawnLane().md
-- [[WildSpawner.spawnLane()_3]] - document - vault/Graph/WildSpawner.spawnLane().md
-- [[WildSpawner.spawnOne()_4]] - document - vault/Graph/WildSpawner.spawnOne().md
-- [[WildSpawner.spawnOne()_3]] - document - vault/Graph/WildSpawner.spawnOne().md
-- [[_COMMUNITY_Community 22]] - document - vault/Graph/_COMMUNITY_Community 22.md
-- [[_COMMUNITY_Community 338]] - document - vault/Graph/_COMMUNITY_Community 338.md
-- [[_COMMUNITY_Community 365]] - document - vault/Graph/_COMMUNITY_Community 365.md
-- [[_COMMUNITY_Community 366]] - document - vault/Graph/_COMMUNITY_Community 366.md
-- [[_COMMUNITY_Community 369]] - document - vault/Graph/_COMMUNITY_Community 369.md
-- [[_COMMUNITY_Community 377]] - document - vault/Graph/_COMMUNITY_Community 377.md
-- [[addPrompt()_6]] - document - vault/Graph/addPrompt().md
-- [[addPrompt()_5]] - document - vault/Graph/addPrompt().md
-- [[canAnyoneEnter()_4]] - document - vault/Graph/canAnyoneEnter().md
-- [[canAnyoneEnter()_3]] - document - vault/Graph/canAnyoneEnter().md
-- [[commands.clearWild()_4]] - document - vault/Graph/commands.clearWild().md
-- [[commands.clearWild()_3]] - document - vault/Graph/commands.clearWild().md
-- [[fillLane()_4]] - document - vault/Graph/fillLane().md
-- [[fillLane()_3]] - document - vault/Graph/fillLane().md
-- [[ignoreList()_4]] - document - vault/Graph/ignoreList().md
-- [[ignoreList()_3]] - document - vault/Graph/ignoreList().md
-- [[laneParts()_4]] - document - vault/Graph/laneParts().md
-- [[laneParts()_3]] - document - vault/Graph/laneParts().md
-- [[npcSay()_4]] - document - vault/Graph/npcSay()_2.md
-- [[npcSay()_5]] - document - vault/Graph/npcSay().md
-- [[npcSay()_1]] - document - vault/Graph/npcSay().md
-- [[npcSay()_3]] - document - vault/Graph/npcSay()_1.md
-- [[npcSay()_1_1]] - document - vault/Graph/npcSay()_1.md
-- [[npcSay()_2]] - document - vault/Graph/npcSay()_2.md
-- [[npcWave()_6]] - document - vault/Graph/npcWave().md
-- [[npcWave()_5]] - document - vault/Graph/npcWave().md
-- [[pickEntry()_4]] - document - vault/Graph/pickEntry().md
-- [[pickEntry()_3]] - document - vault/Graph/pickEntry().md
-- [[refreshActiveLanes()_4]] - document - vault/Graph/refreshActiveLanes().md
-- [[refreshActiveLanes()_3]] - document - vault/Graph/refreshActiveLanes().md
-- [[spawnFor()_6]] - document - vault/Graph/spawnFor().md
-- [[spawnFor()_5]] - document - vault/Graph/spawnFor().md
-- [[spawnInLane()_4]] - document - vault/Graph/spawnInLane().md
-- [[spawnInLane()_3]] - document - vault/Graph/spawnInLane().md
-- [[standAt()_4]] - document - vault/Graph/standAt()_2.md
-- [[standAt()_5]] - document - vault/Graph/standAt().md
-- [[standAt()_1]] - document - vault/Graph/standAt().md
-- [[standAt()_3]] - document - vault/Graph/standAt()_1.md
-- [[standAt()_1_1]] - document - vault/Graph/standAt()_1.md
-- [[standAt()_2]] - document - vault/Graph/standAt()_2.md
-- [[standInFront()_4]] - document - vault/Graph/standInFront()_2.md
-- [[standInFront()_5]] - document - vault/Graph/standInFront().md
-- [[standInFront()_1]] - document - vault/Graph/standInFront().md
-- [[standInFront()_3]] - document - vault/Graph/standInFront()_1.md
-- [[standInFront()_1_1]] - document - vault/Graph/standInFront()_1.md
-- [[standInFront()_2]] - document - vault/Graph/standInFront()_2.md
-- [[step()_4]] - document - vault/Graph/step().md
-- [[step()_3]] - document - vault/Graph/step().md
-- [[trainerTag()_4]] - document - vault/Graph/trainerTag()_2.md
-- [[trainerTag()_5]] - document - vault/Graph/trainerTag().md
-- [[trainerTag()_1]] - document - vault/Graph/trainerTag().md
-- [[trainerTag()_3]] - document - vault/Graph/trainerTag()_1.md
-- [[trainerTag()_1_1]] - document - vault/Graph/trainerTag()_1.md
-- [[trainerTag()_2]] - document - vault/Graph/trainerTag()_2.md
-- [[travelCFrame()_6]] - document - vault/Graph/travelCFrame().md
-- [[travelCFrame()_5]] - document - vault/Graph/travelCFrame().md
-- [[watchProgress()_4]] - document - vault/Graph/watchProgress()_2.md
-- [[watchProgress()_5]] - document - vault/Graph/watchProgress().md
-- [[watchProgress()_1]] - document - vault/Graph/watchProgress().md
-- [[watchProgress()_3]] - document - vault/Graph/watchProgress()_1.md
-- [[watchProgress()_1_1]] - document - vault/Graph/watchProgress()_1.md
-- [[watchProgress()_2]] - document - vault/Graph/watchProgress()_2.md
+- [[Connections_23829]] - document - vault/Graph/fillLane().md
+- [[Connections_23830]] - document - vault/Graph/laneParts().md
+- [[Connections_23831]] - document - vault/Graph/pickEntry().md
+- [[Connections_23832]] - document - vault/Graph/spawnInLane().md
+- [[Connections_23833]] - document - vault/Graph/WildSpawner.countLane().md
+- [[Connections_23834]] - document - vault/Graph/WildSpawner.refillLane().md
+- [[Connections_23835]] - document - vault/Graph/WildSpawner.spawnLane().md
+- [[WildSpawner.countLane()_6]] - document - vault/Graph/WildSpawner.countLane().md
+- [[WildSpawner.countLane()_5]] - document - vault/Graph/WildSpawner.countLane().md
+- [[WildSpawner.refillLane()_6]] - document - vault/Graph/WildSpawner.refillLane().md
+- [[WildSpawner.refillLane()_5]] - document - vault/Graph/WildSpawner.refillLane().md
+- [[WildSpawner.spawnLane()_6]] - document - vault/Graph/WildSpawner.spawnLane().md
+- [[WildSpawner.spawnLane()_5]] - document - vault/Graph/WildSpawner.spawnLane().md
+- [[fillLane()_6]] - document - vault/Graph/fillLane().md
+- [[fillLane()_5]] - document - vault/Graph/fillLane().md
+- [[laneParts()_6]] - document - vault/Graph/laneParts().md
+- [[laneParts()_5]] - document - vault/Graph/laneParts().md
+- [[pickEntry()_6]] - document - vault/Graph/pickEntry().md
+- [[pickEntry()_5]] - document - vault/Graph/pickEntry().md
+- [[spawnInLane()_6]] - document - vault/Graph/spawnInLane().md
+- [[spawnInLane()_5]] - document - vault/Graph/spawnInLane().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -185,37 +38,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 15 edges to [[_COMMUNITY_Community 168]]
-- 12 edges to [[_COMMUNITY_Community 86]]
-- 6 edges to [[_COMMUNITY_Community 134]]
-- 5 edges to [[_COMMUNITY_Community 144]]
-- 2 edges to [[_COMMUNITY_Community 179]]
-- 1 edge to [[_COMMUNITY_Community 102]]
-- 1 edge to [[_COMMUNITY_Community 1060]]
-- 1 edge to [[_COMMUNITY_Community 1074]]
-- 1 edge to [[_COMMUNITY_Community 1076]]
-- 1 edge to [[_COMMUNITY_Community 1077]]
-- 1 edge to [[_COMMUNITY_Community 1082]]
-- 1 edge to [[_COMMUNITY_Community 119]]
-- 1 edge to [[_COMMUNITY_Community 120]]
-- 1 edge to [[_COMMUNITY_Community 137]]
-- 1 edge to [[_COMMUNITY_Community 203]]
-- 1 edge to [[_COMMUNITY_Community 24]]
-- 1 edge to [[_COMMUNITY_Community 264]]
-- 1 edge to [[_COMMUNITY_Community 265]]
-- 1 edge to [[_COMMUNITY_Community 292]]
-- 1 edge to [[_COMMUNITY_Community 360]]
-- 1 edge to [[_COMMUNITY_Community 376]]
-- 1 edge to [[_COMMUNITY_Community 396]]
-- 1 edge to [[_COMMUNITY_Community 433]]
-- 1 edge to [[_COMMUNITY_Community 53]]
-- 1 edge to [[_COMMUNITY_Community 678]]
-- 1 edge to [[_COMMUNITY_Community 94]]
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 7 edges to [[_COMMUNITY_Community 33]]
+- 1 edge to [[_COMMUNITY_Community 844]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 22]] - degree 73, connects to 18 communities
-- [[_COMMUNITY_Community 338]] - degree 5, connects to 3 communities
-- [[_COMMUNITY_Community 365]] - degree 5, connects to 3 communities
-- [[_COMMUNITY_Community 366]] - degree 5, connects to 3 communities
-- [[_COMMUNITY_Community 369]] - degree 5, connects to 3 communities
+- [[spawnInLane()_5]] - degree 5, connects to 2 communities
+- [[fillLane()_5]] - degree 7, connects to 1 community
+- [[laneParts()_5]] - degree 3, connects to 1 community
+- [[WildSpawner.countLane()_5]] - degree 3, connects to 1 community
+- [[WildSpawner.spawnLane()_5]] - degree 3, connects to 1 community

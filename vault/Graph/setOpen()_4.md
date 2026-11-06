@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/setOpen()_2.md"
+source_file: "vault/Graph/setOpen().md"
 type: "document"
-community: "Community 195"
-location: "L12"
+community: "Community 203"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_203
 ---
 
 # setOpen().md
 
 ## Connections
-- [[Connections_2888]] - `contains` [EXTRACTED]
-- [[setOpen()_2_1]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
+- [[refresh()_7]] - `references` [EXTRACTED]
+- [[setOpen()_5]] - `contains` [EXTRACTED]
+- [[updateVisible()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_203

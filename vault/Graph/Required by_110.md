@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[PlayerData_2]] - `references` [EXTRACTED]
-- [[Required by_110_1]] - `contains` [EXTRACTED]
-- [[Required by_17]] - `references` [EXTRACTED]
+- [[Required by_110_3]] - `contains` [EXTRACTED]
+- [[Required by_110_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 160]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 72]] - `references` [EXTRACTED]
 

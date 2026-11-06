@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Members_53.md"
+source_file: "vault/Graph/Members_53_1.md"
 type: "document"
-community: "Community 198"
+community: "Community 1415"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_198
+  - community/Community_1415
 ---
 
-# Members_53.md
+# Members_53_1.md
 
 ## Connections
-- [[Members_173]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 198]] - `references` [EXTRACTED]
+- [[Members_257_1]] - `references` [EXTRACTED]
+- [[Members_53_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1078]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1204]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_198
+#graphify/document #graphify/EXTRACTED #community/Community_1415

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/buildBaseProps()_2.md"
+source_file: "vault/Graph/buildBaseProps()_2_1.md"
 type: "document"
 community: "Community 152"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_152
 ---
 
-# buildBaseProps()_2.md
+# buildBaseProps()_2_1.md
 
 ## Connections
-- [[Connections_2042]] - `contains` [EXTRACTED]
-- [[buildBaseProps()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[buildBaseProps()_2_2]] - `contains` [EXTRACTED]
+- [[buildBaseProps()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_152

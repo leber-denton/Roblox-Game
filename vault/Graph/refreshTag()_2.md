@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/refreshTag()_2.md"
+source_file: "vault/Graph/refreshTag()_3.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 3145"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_3145
 ---
 
-# refreshTag()_2.md
+# refreshTag().md
 
 ## Connections
-- [[Connections_985]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
-- [[refreshTag()_1]] - `references` [EXTRACTED]
-- [[refreshTag()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_16368]] - `contains` [EXTRACTED]
+- [[refreshTag()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_3145

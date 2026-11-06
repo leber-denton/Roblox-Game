@@ -1,22 +1,19 @@
 ---
-source_file: "vault/Graph/stateFor().md"
+source_file: "vault/Graph/stateFor()_4.md"
 type: "document"
-community: "Community 352"
+community: "Community 412"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_352
+  - community/Community_412
 ---
 
-# stateFor().md
+# stateFor()_4.md
 
 ## Connections
-- [[BaseManager.snapshot()_1]] - `references` [EXTRACTED]
-- [[SocialService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[otherOf()_3]] - `references` [EXTRACTED]
-- [[push()_3]] - `references` [EXTRACTED]
-- [[stateFor()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 412]] - `references` [EXTRACTED]
+- [[stateFor()_6]] - `contains` [EXTRACTED]
+- [[stateFor()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_352
+#graphify/document #graphify/EXTRACTED #community/Community_412

@@ -12,7 +12,7 @@ tags:
 # BattleFX.sendOut()
 
 ## Connections
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[burst()_1]] - `calls` [EXTRACTED]
 - [[effectPart()]] - `calls` [EXTRACTED]
 - [[flash()]] - `calls` [EXTRACTED]

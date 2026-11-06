@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/PlayerData.hasBadge()_1.md"
+source_file: "vault/Graph/PlayerData.hasBadge()_1_1.md"
 type: "document"
-community: "Community 870"
+community: "Community 515"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_870
+  - community/Community_515
 ---
 
-# PlayerData.hasBadge()_1.md
+# PlayerData.hasBadge()_1_1.md
 
 ## Connections
-- [[Connections_499_1]] - `references` [EXTRACTED]
-- [[PlayerData.hasBadge()_4]] - `contains` [EXTRACTED]
-- [[PlayerData.hasBadge()_2]] - `references` [EXTRACTED]
+- [[PlayerData.hasBadge()_1_2]] - `contains` [EXTRACTED]
+- [[PlayerData.hasBadge()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 817]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 870]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_870
+#graphify/document #graphify/EXTRACTED #community/Community_515

@@ -1,19 +1,17 @@
 ---
-source_file: "vault/Code/Bag.md"
+source_file: "vault/Code/RouteTrainerService.md"
 type: "document"
-community: "Community 20"
-location: "L10"
+community: "Community 13"
+location: "L15"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Community_20
+  - graphify/EXTRACTED
+  - community/Community_13
 ---
 
 # Functions
 
 ## Connections
-- [[Bag]] - `contains` [EXTRACTED]
-- [[getInventory()]] - `references` [INFERRED]
-- [[showTradeHistory()]] - `references` [INFERRED]
+- [[RouteTrainerService]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_20
+#graphify/document #graphify/EXTRACTED #community/Community_13

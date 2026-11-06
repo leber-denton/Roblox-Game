@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Workflow_2.md"
+source_file: "vault/Graph/Showcase_1_3.md"
 type: "document"
-community: "Community 597"
+community: "Community 1265"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_597
+  - community/Community_1265
 ---
 
 # Connections
 
 ## Connections
-- [[Workflow_2_1]] - `contains` [EXTRACTED]
+- [[Showcase_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_597
+#graphify/document #graphify/EXTRACTED #community/Community_1265

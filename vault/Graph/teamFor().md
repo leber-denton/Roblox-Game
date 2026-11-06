@@ -12,7 +12,7 @@ tags:
 # teamFor()
 
 ## Connections
-- [[LeagueService.luau_3]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_7]] - `contains` [EXTRACTED]
 - [[challenge()]] - `calls` [EXTRACTED]
 - [[rivalAce()]] - `calls` [EXTRACTED]
 

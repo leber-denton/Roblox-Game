@@ -12,7 +12,7 @@ tags:
 # setStatus()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
 - [[buyResult()]] - `calls` [EXTRACTED]
 - [[openMenu()]] - `calls` [EXTRACTED]
 - [[tabs.Crates()]] - `calls` [EXTRACTED]

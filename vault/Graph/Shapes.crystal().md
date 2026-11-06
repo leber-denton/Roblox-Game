@@ -12,7 +12,7 @@ tags:
 # Shapes.crystal()
 
 ## Connections
-- [[CreatureBuilder.luau_5]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_3]] - `contains` [EXTRACTED]
 - [[darker()]] - `calls` [EXTRACTED]
 - [[lighter()]] - `calls` [EXTRACTED]
 

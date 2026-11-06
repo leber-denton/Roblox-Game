@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CodeMusic.md"
+source_file: "vault/Graph/Connections_6301.md"
 type: "document"
-community: "Community 100"
+community: "Community 1"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_100
+  - community/Community_1
 ---
 
 # Connections
 
 ## Connections
-- [[CodeMusic_2]] - `contains` [EXTRACTED]
+- [[Connections]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_100
+#graphify/document #graphify/EXTRACTED #community/Community_1

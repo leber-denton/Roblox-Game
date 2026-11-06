@@ -12,8 +12,10 @@ tags:
 # isChampion()_2.md
 
 ## Connections
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
-- [[isChampion()_3]] - `contains` [EXTRACTED]
 - [[isChampion()_1]] - `references` [EXTRACTED]
+- [[isChampion()_2_1]] - `contains` [EXTRACTED]
+- [[isChampion()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

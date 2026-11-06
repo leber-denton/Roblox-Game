@@ -9,10 +9,10 @@ members: 5
 
 ## Members
 - [[Community 377]] - document - vault/Graph/_COMMUNITY_Community 377.md
-- [[Connections to other communities_56]] - document - vault/Graph/_COMMUNITY_Community 377.md
-- [[Live Query (requires Dataview plugin)_56]] - document - vault/Graph/_COMMUNITY_Community 377.md
-- [[Members_56]] - document - vault/Graph/_COMMUNITY_Community 377.md
-- [[Top bridge nodes_59]] - document - vault/Graph/_COMMUNITY_Community 377.md
+- [[Connections to other communities_67]] - document - vault/Graph/_COMMUNITY_Community 377.md
+- [[Live Query (requires Dataview plugin)_106]] - document - vault/Graph/_COMMUNITY_Community 377.md
+- [[Members_108]] - document - vault/Graph/_COMMUNITY_Community 377.md
+- [[Top bridge nodes_66]] - document - vault/Graph/_COMMUNITY_Community 377.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 90]]
+- 1 edge to [[_COMMUNITY_Community 176]]
 
 ## Top bridge nodes
 - [[Community 377]] - degree 5, connects to 1 community

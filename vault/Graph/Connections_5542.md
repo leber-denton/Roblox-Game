@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/toggle()_1.md"
+source_file: "vault/Graph/Connections_5542.md"
 type: "document"
-community: "Community 829"
-location: "L14"
+community: "Community 1053"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_829
+  - community/Community_1053
 ---
 
-# Connections
+# Connections_5542.md
 
 ## Connections
-- [[toggle()_3]] - `contains` [EXTRACTED]
+- [[Connections_5542_1]] - `contains` [EXTRACTED]
+- [[Connections_858_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1053]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 829]] - `references` [EXTRACTED]
+- [[toggle()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_829
+#graphify/document #graphify/EXTRACTED #community/Community_1053

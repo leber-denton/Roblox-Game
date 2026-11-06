@@ -12,9 +12,9 @@ tags:
 # intro()
 
 ## Connections
-- [[Functions_137]] - `references` [INFERRED]
-- [[Tutorial.client.luau_5]] - `contains` [EXTRACTED]
-- [[new()_7]] - `calls` [EXTRACTED]
+- [[Functions_214]] - `references` [INFERRED]
+- [[Tutorial.client.luau_7]] - `contains` [EXTRACTED]
+- [[new()_6]] - `calls` [EXTRACTED]
 - [[play()_2]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_421

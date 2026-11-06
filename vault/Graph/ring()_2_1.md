@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/ring()_2.md"
 type: "document"
-community: "Community 586"
-location: "L1"
+community: "Community 411"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_586
+  - community/Community_411
 ---
 
 # ring()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 89]] - `references` [EXTRACTED]
-- [[ring()_1_1]] - `references` [EXTRACTED]
-- [[ring()_2_2]] - `contains` [EXTRACTED]
+- [[Connections_19094]] - `contains` [EXTRACTED]
+- [[ring()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_586
+#graphify/document #graphify/EXTRACTED #community/Community_411

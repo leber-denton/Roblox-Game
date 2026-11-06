@@ -1,24 +1,22 @@
 ---
-source_file: "vault/Graph/spots()_1.md"
+source_file: "vault/Graph/spots().md"
 type: "document"
-community: "Community 168"
+community: "Community 225"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_225
 ---
 
-# spots()_1.md
+# spots().md
 
 ## Connections
-- [[AdminService.luau]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[AdminService.luau_5]] - `references` [EXTRACTED]
+- [[Functions_73_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 225]] - `references` [EXTRACTED]
 - [[commands.info()_1]] - `references` [EXTRACTED]
 - [[commands.teleport()_1]] - `references` [EXTRACTED]
-- [[spots()_1_1]] - `contains` [EXTRACTED]
-- [[spots()_2]] - `references` [EXTRACTED]
+- [[spots()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_225

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_44.md"
+source_file: "vault/Code/AdminService.md"
 type: "document"
-community: "Community 228"
-location: "L12"
+community: "Community 16"
+location: "L19"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_228
+  - community/Community_16
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_3229]] - `contains` [EXTRACTED]
-- [[Functions_44_1]] - `contains` [EXTRACTED]
+- [[AdminService]] - `contains` [EXTRACTED]
+- [[spots()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_228
+#graphify/document #graphify/EXTRACTED #community/Community_16

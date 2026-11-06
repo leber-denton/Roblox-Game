@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.setWings()_2.md"
+source_file: "vault/Graph/BaseManager.setWings()_4.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 2088"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_2088
 ---
 
-# BaseManager.setWings()_2.md
+# BaseManager.setWings()
 
 ## Connections
-- [[BaseManager.setWings()_1]] - `references` [EXTRACTED]
-- [[BaseManager.setWings()_2_1]] - `contains` [EXTRACTED]
-- [[Connections_962]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[BaseManager.setWings()_4]] - `contains` [EXTRACTED]
+- [[Connections_12338]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_2088

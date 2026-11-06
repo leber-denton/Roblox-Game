@@ -13,6 +13,7 @@ tags:
 
 ## Connections
 - [[CodeAdminService_1]] - `contains` [EXTRACTED]
+- [[CodeAdminService_1_1]] - `references` [EXTRACTED]
 - [[CodeBattleData]] - `references` [EXTRACTED]
 - [[CodeBattleService]] - `references` [EXTRACTED]
 - [[CodeGameData]] - `references` [EXTRACTED]

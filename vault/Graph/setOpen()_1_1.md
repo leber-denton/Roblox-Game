@@ -12,6 +12,8 @@ tags:
 # setOpen()_1.md
 
 ## Connections
+- [[CreatureIndex.client.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 420]] - `references` [EXTRACTED]
 - [[clearBody()_1]] - `references` [EXTRACTED]
 - [[setOpen()_2]] - `contains` [EXTRACTED]
 - [[showGrid()_1]] - `references` [EXTRACTED]

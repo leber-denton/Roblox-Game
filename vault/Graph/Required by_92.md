@@ -13,8 +13,9 @@ tags:
 
 ## Connections
 - [[ArenaManager_2]] - `references` [EXTRACTED]
-- [[Required by_6_2]] - `references` [EXTRACTED]
-- [[Required by_92_1]] - `contains` [EXTRACTED]
+- [[Required by_6_2_1]] - `references` [EXTRACTED]
+- [[Required by_92_3]] - `contains` [EXTRACTED]
+- [[Required by_92_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 118]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 50]] - `references` [EXTRACTED]
 

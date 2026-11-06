@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/StoryService.chat().md"
+source_file: "vault/Graph/NPC.luau_3.md"
 type: "document"
-community: "Community 24"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[StoryService.chat()_4]] - `contains` [EXTRACTED]
+- [[NPC.luau_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1187

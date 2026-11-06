@@ -1,18 +1,24 @@
 ---
 type: community
-members: 5
+members: 11
 ---
 
 # Community 1107
 
-**Members:** 5 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Community 74]] - document - vault/Graph/_COMMUNITY_Community 74.md
-- [[Connections to other communities_73]] - document - vault/Graph/_COMMUNITY_Community 74.md
-- [[Live Query (requires Dataview plugin)_73]] - document - vault/Graph/_COMMUNITY_Community 74.md
-- [[Members_73]] - document - vault/Graph/_COMMUNITY_Community 74.md
-- [[Top bridge nodes_76]] - document - vault/Graph/_COMMUNITY_Community 74.md
+- [[CodeRegions]] - document - vault/Code/Regions.md
+- [[Functions_16]] - document - vault/Code/Regions.md
+- [[Regions]] - document - vault/Code/Regions.md
+- [[Regions.client.luau]] - code - src/StarterPlayer/StarterPlayerScripts/Regions.client.luau
+- [[Required by_10]] - document - vault/Code/Regions.md
+- [[Requires_12]] - document - vault/Code/Regions.md
+- [[apply()_1]] - code - src/StarterPlayer/StarterPlayerScripts/Regions.client.luau
+- [[applyAll()]] - code - src/StarterPlayer/StarterPlayerScripts/Regions.client.luau
+- [[onTouch()]] - code - src/StarterPlayer/StarterPlayerScripts/Regions.client.luau
+- [[regionName()]] - code - src/StarterPlayer/StarterPlayerScripts/Regions.client.luau
+- [[setSign()]] - code - src/StarterPlayer/StarterPlayerScripts/Regions.client.luau
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +28,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 162]]
+- 1 edge to [[_COMMUNITY_Community 185]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[Community 74]] - degree 5, connects to 1 community
+- [[Regions.client.luau]] - degree 6, connects to 1 community
+- [[CodeRegions]] - degree 2, connects to 1 community

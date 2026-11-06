@@ -1,25 +1,31 @@
 ---
 type: community
-members: 12
+members: 18
 ---
 
 # Community 678
 
-**Members:** 12 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Community 370]] - document - vault/Graph/_COMMUNITY_Community 370.md
-- [[Connections_5024]] - document - vault/Graph/travelCFrame()_1.md
-- [[Connections_5025]] - document - vault/Graph/travelCFrame()_2.md
-- [[Connections to other communities_358]] - document - vault/Graph/_COMMUNITY_Community 370.md
-- [[Live Query (requires Dataview plugin)_401]] - document - vault/Graph/_COMMUNITY_Community 370.md
-- [[Members_401]] - document - vault/Graph/_COMMUNITY_Community 370.md
-- [[Top bridge nodes_360]] - document - vault/Graph/_COMMUNITY_Community 370.md
-- [[_COMMUNITY_Community 370]] - document - vault/Graph/_COMMUNITY_Community 370.md
-- [[travelCFrame()_4]] - document - vault/Graph/travelCFrame()_2.md
-- [[travelCFrame()_3]] - document - vault/Graph/travelCFrame()_1.md
-- [[travelCFrame()_1]] - document - vault/Graph/travelCFrame()_1.md
-- [[travelCFrame()_2]] - document - vault/Graph/travelCFrame()_2.md
+- [[Connections_21921]] - document - vault/Graph/Connections_4343.md
+- [[Connections_21922]] - document - vault/Graph/Connections_4343.md
+- [[Connections_21923]] - document - vault/Graph/Connections_4344.md
+- [[Connections_21924]] - document - vault/Graph/Connections_4344.md
+- [[Connections_21925]] - document - vault/Graph/Shapes.rodent()_1_1.md
+- [[Connections_21926]] - document - vault/Graph/Shapes.rodent()_1.md
+- [[Connections_21927]] - document - vault/Graph/Shapes.rodent()_2_1.md
+- [[Connections_21928]] - document - vault/Graph/Shapes.rodent()_2.md
+- [[Connections_4343_1]] - document - vault/Graph/Connections_4343.md
+- [[Connections_4344_1]] - document - vault/Graph/Connections_4344.md
+- [[Shapes.rodent()_1_1]] - document - vault/Graph/Shapes.rodent()_1.md
+- [[Shapes.rodent()_1_2]] - document - vault/Graph/Shapes.rodent()_1_1.md
+- [[Shapes.rodent()_1_3]] - document - vault/Graph/Shapes.rodent()_1.md
+- [[Shapes.rodent()_1_1_1]] - document - vault/Graph/Shapes.rodent()_1_1.md
+- [[Shapes.rodent()_2_1]] - document - vault/Graph/Shapes.rodent()_2.md
+- [[Shapes.rodent()_2_2]] - document - vault/Graph/Shapes.rodent()_2_1.md
+- [[Shapes.rodent()_2_3]] - document - vault/Graph/Shapes.rodent()_2.md
+- [[Shapes.rodent()_2_1_1]] - document - vault/Graph/Shapes.rodent()_2_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,10 +35,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 134]]
-- 1 edge to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 90]]
+- 6 edges to [[_COMMUNITY_Community 410]]
+- 3 edges to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 2592]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 370]] - degree 5, connects to 2 communities
-- [[travelCFrame()_1]] - degree 4, connects to 1 community
+- [[Shapes.rodent()_1_1]] - degree 7, connects to 3 communities
+- [[Shapes.rodent()_2_1]] - degree 5, connects to 2 communities
+- [[Shapes.rodent()_1_1_1]] - degree 4, connects to 1 community
+- [[Shapes.rodent()_2_1_1]] - degree 4, connects to 1 community
+- [[Connections_4343_1]] - degree 3, connects to 1 community

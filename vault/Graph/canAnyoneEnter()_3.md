@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/canAnyoneEnter().md"
+source_file: "vault/Graph/canAnyoneEnter()_1.md"
 type: "document"
-community: "Community 90"
-location: "L1"
+community: "Community 197"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_197
 ---
 
 # canAnyoneEnter().md
 
 ## Connections
-- [[GameData.canEnter()_3]] - `references` [EXTRACTED]
-- [[Main.server.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[canAnyoneEnter()_4]] - `contains` [EXTRACTED]
-- [[refreshActiveLanes()_3]] - `references` [EXTRACTED]
+- [[Connections_11689]] - `contains` [EXTRACTED]
+- [[canAnyoneEnter()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_197

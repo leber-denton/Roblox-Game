@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_4746]] - document - vault/Graph/Reading code_1.md
-- [[Connections_4747]] - document - vault/Graph/Reading code_2.md
-- [[Reading code_1]] - document - vault/Graph/Reading code_1.md
-- [[Reading code_1_1]] - document - vault/Graph/Reading code_1.md
-- [[Reading code_2]] - document - vault/Graph/Reading code_2.md
-- [[Reading code_2_1]] - document - vault/Graph/Reading code_2.md
+- [[Connections_21146]] - document - vault/Graph/Connections_4746.md
+- [[Connections_21147]] - document - vault/Graph/Connections_4746.md
+- [[Connections_21148]] - document - vault/Graph/Connections_4747.md
+- [[Connections_21149]] - document - vault/Graph/Connections_4747.md
+- [[Connections_4746_1]] - document - vault/Graph/Connections_4746.md
+- [[Connections_4747_1]] - document - vault/Graph/Connections_4747.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,10 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 500]]
-- 1 edge to [[_COMMUNITY_Community 592]]
-- 1 edge to [[_COMMUNITY_Community 96]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[Reading code_1]] - degree 5, connects to 3 communities
-- [[Reading code_2]] - degree 3, connects to 1 community
+- [[Connections_4746_1]] - degree 3, connects to 1 community
+- [[Connections_4747_1]] - degree 3, connects to 1 community

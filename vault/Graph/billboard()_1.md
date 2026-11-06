@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
-- [[billboard()_3]] - `contains` [EXTRACTED]
+- [[billboard()_1_1]] - `contains` [EXTRACTED]
 - [[billboard()_2]] - `references` [EXTRACTED]
+- [[billboard()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_152

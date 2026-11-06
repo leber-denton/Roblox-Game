@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Top bridge nodes_62.md"
+source_file: "vault/Graph/CodeRareEventService.md"
 type: "document"
-community: "Community 247"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_247
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[Top bridge nodes_197]] - `contains` [EXTRACTED]
+- [[CodeRareEventService_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_247
+#graphify/document #graphify/EXTRACTED #community/Community_119

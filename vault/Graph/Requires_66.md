@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/Wander.md"
+source_file: "vault/Code/GymService.md"
 type: "document"
-community: "Community 22"
+community: "Community 15"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_22
+  - community/Community_15
 ---
 
 # Requires
 
 ## Connections
-- [[Wander]] - `contains` [EXTRACTED]
+- [[GymService_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_22
+#graphify/document #graphify/EXTRACTED #community/Community_15

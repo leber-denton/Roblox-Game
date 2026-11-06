@@ -1,25 +1,37 @@
 ---
 type: community
-members: 12
+members: 24
 ---
 
 # Community 300
 
-**Members:** 12 nodes
+**Members:** 24 nodes
 
 ## Members
-- [[Bag_1]] - document - vault/Graph/Bag.md
-- [[CodeBag_2]] - document - vault/Graph/CodeBag.md
-- [[CodeBag_1]] - document - vault/Graph/CodeBag.md
-- [[Connections_3693]] - document - vault/Graph/Bag.md
-- [[Connections_3694]] - document - vault/Graph/CodeBag.md
-- [[Connections_3695]] - document - vault/Graph/Required by_36.md
-- [[Connections_3696]] - document - vault/Graph/Requires_29.md
-- [[GraphBag]] - document - vault/Graph/Bag.md
-- [[Required by_80]] - document - vault/Graph/Required by_36.md
-- [[Required by_36_2]] - document - vault/Graph/Required by_36.md
-- [[Requires_85]] - document - vault/Graph/Requires_29.md
-- [[Requires_29_1]] - document - vault/Graph/Requires_29.md
+- [[Community 300_1]] - document - vault/Graph/Community 300.md
+- [[Community 300_2]] - document - vault/Graph/_COMMUNITY_Community 300.md
+- [[Community 300]] - document - vault/Graph/Community 300.md
+- [[Connections_16078]] - document - vault/Graph/Community 300.md
+- [[Connections_16079]] - document - vault/Graph/Required by_80_1.md
+- [[Connections_16080]] - document - vault/Graph/Required by_87_1.md
+- [[Connections_16081]] - document - vault/Graph/Required by_87_2.md
+- [[Connections_16082]] - document - vault/Graph/Requires_29_1.md
+- [[Connections_16083]] - document - vault/Graph/Requires_90_1.md
+- [[Connections to other communities_1062]] - document - vault/Graph/_COMMUNITY_Community 300.md
+- [[Live Query (requires Dataview plugin)_1276]] - document - vault/Graph/_COMMUNITY_Community 300.md
+- [[Members_1288]] - document - vault/Graph/_COMMUNITY_Community 300.md
+- [[Required by_80_2]] - document - vault/Graph/Required by_80_1.md
+- [[Required by_80_1_1]] - document - vault/Graph/Required by_80_1.md
+- [[Required by_87_3]] - document - vault/Graph/Required by_87_1.md
+- [[Required by_87_4]] - document - vault/Graph/Required by_87_2.md
+- [[Required by_87_1_1]] - document - vault/Graph/Required by_87_1.md
+- [[Required by_87_2]] - document - vault/Graph/Required by_87_2.md
+- [[Requires_29_3]] - document - vault/Graph/Requires_29_1.md
+- [[Requires_29_1_2]] - document - vault/Graph/Requires_29_1.md
+- [[Requires_90_2]] - document - vault/Graph/Requires_90_1.md
+- [[Requires_90_1]] - document - vault/Graph/Requires_90_1.md
+- [[Top bridge nodes_1061]] - document - vault/Graph/_COMMUNITY_Community 300.md
+- [[_COMMUNITY_Community 300]] - document - vault/Graph/_COMMUNITY_Community 300.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,11 +41,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 310]]
-- 1 edge to [[_COMMUNITY_Community 203]]
+- 6 edges to [[_COMMUNITY_Community 226]]
+- 4 edges to [[_COMMUNITY_Community 856]]
+- 1 edge to [[_COMMUNITY_Community 1167]]
+- 1 edge to [[_COMMUNITY_Community 1380]]
+- 1 edge to [[_COMMUNITY_Community 1434]]
+- 1 edge to [[_COMMUNITY_Community 154]]
+- 1 edge to [[_COMMUNITY_Community 348]]
 
 ## Top bridge nodes
-- [[GraphBag]] - degree 6, connects to 2 communities
-- [[CodeBag_1]] - degree 3, connects to 1 community
-- [[Requires_29_1]] - degree 3, connects to 1 community
-- [[Required by_36_2]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 300]] - degree 13, connects to 4 communities
+- [[Required by_87_1_1]] - degree 5, connects to 2 communities
+- [[Requires_90_1]] - degree 5, connects to 1 community
+- [[Required by_80_1_1]] - degree 4, connects to 1 community
+- [[Community 300]] - degree 3, connects to 1 community

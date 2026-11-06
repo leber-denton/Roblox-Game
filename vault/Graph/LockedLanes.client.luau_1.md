@@ -12,7 +12,8 @@ tags:
 # LockedLanes.client.luau_1.md
 
 ## Connections
-- [[LockedLanes.client.luau]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_1_1]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 178]] - `references` [EXTRACTED]
 - [[replicatedstorage_waitforchild_1_1]] - `references` [EXTRACTED]

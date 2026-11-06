@@ -1,25 +1,22 @@
 ---
-source_file: "vault/Code/ColiseumService.md"
+source_file: "vault/Code/HUD.md"
 type: "document"
-community: "Community 4"
-location: "L16"
+community: "Community 214"
+location: "L10"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Community_4
+  - community/Community_214
 ---
 
 # Functions
 
 ## Connections
-- [[ColiseumService_3]] - `contains` [EXTRACTED]
-- [[publicBattles()]] - `references` [INFERRED]
-- [[refreshBoards()]] - `references` [INFERRED]
-- [[setupActivities()]] - `references` [INFERRED]
-- [[setupArenaFixtures()]] - `references` [INFERRED]
-- [[setupPortals()]] - `references` [INFERRED]
-- [[setupShop()]] - `references` [INFERRED]
-- [[tickQueue()]] - `references` [INFERRED]
-- [[updateZones()]] - `references` [INFERRED]
+- [[HUD_2]] - `contains` [EXTRACTED]
+- [[updateCoins()]] - `references` [INFERRED]
+- [[updateLevel()]] - `references` [INFERRED]
+- [[updateTeam()]] - `references` [INFERRED]
+- [[updateTopBar()]] - `references` [INFERRED]
+- [[updateWildShiftTimer()]] - `references` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Community_4
+#graphify/document #graphify/INFERRED #community/Community_214

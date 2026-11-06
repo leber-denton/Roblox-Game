@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData_3.md"
+source_file: "vault/Graph/Top bridge nodes_83.md"
 type: "document"
-community: "Community 552"
+community: "Community 126"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_552
+  - community/Community_126
 ---
 
 # Connections
 
 ## Connections
-- [[BattleData_5]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_277]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_552
+#graphify/document #graphify/EXTRACTED #community/Community_126

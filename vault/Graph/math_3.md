@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/math_2.md"
+source_file: "vault/Graph/math_3.md"
 type: "document"
-community: "Community 353"
-location: "L12"
+community: "Community 1111"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_353
+  - community/Community_1111
 ---
 
-# math.md
+# math_3.md
 
 ## Connections
-- [[Connections_4056]] - `contains` [EXTRACTED]
-- [[math_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 353]] - `references` [EXTRACTED]
+- [[math_2]] - `references` [EXTRACTED]
+- [[math_3_1]] - `contains` [EXTRACTED]
+- [[math_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_353
+#graphify/document #graphify/EXTRACTED #community/Community_1111

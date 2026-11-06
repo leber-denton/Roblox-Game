@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_831.md"
+source_file: "vault/Graph/prompt().md"
 type: "document"
-community: "Community 400"
+community: "Community 123"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_400
+  - community/Community_123
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_4158]] - `contains` [EXTRACTED]
+- [[prompt()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_400
+#graphify/document #graphify/EXTRACTED #community/Community_123

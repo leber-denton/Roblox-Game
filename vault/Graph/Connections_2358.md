@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/PlayerData.addXP()_2.md"
+source_file: "vault/Graph/Top bridge nodes_139.md"
 type: "document"
-community: "Community 168"
+community: "Community 1128"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1128
 ---
 
 # Connections
 
 ## Connections
-- [[PlayerData.addXP()_3]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_159]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1128

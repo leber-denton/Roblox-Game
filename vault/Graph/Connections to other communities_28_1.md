@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/Connections to other communities_28.md"
+source_file: "vault/Graph/Connections to other communities_28_1.md"
 type: "document"
-community: "Community 168"
+community: "Community 1098"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1098
 ---
 
-# Connections to other communities_28.md
+# Connections to other communities_28_1.md
 
 ## Connections
-- [[Community 17_1]] - `references` [EXTRACTED]
-- [[Connections to other communities_132]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[Connections to other communities_28_2]] - `contains` [EXTRACTED]
+- [[Connections to other communities_96_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1048]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1098]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1098

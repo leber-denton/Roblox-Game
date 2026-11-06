@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GraphStory.md"
+source_file: "vault/Graph/GraphStory_2.md"
 type: "document"
-community: "Community 371"
-location: "L12"
+community: "Community 122"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_371
+  - community/Community_122
 ---
 
-# Graph/Story.md
+# GraphStory_2.md
 
 ## Connections
-- [[Connections_4106]] - `contains` [EXTRACTED]
-- [[GraphStory_1]] - `contains` [EXTRACTED]
+- [[GraphStory_1]] - `references` [EXTRACTED]
+- [[GraphStory_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1328]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 371]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_371
+#graphify/document #graphify/EXTRACTED #community/Community_122

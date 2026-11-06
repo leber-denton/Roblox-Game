@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/SocialService.display()_1.md"
+source_file: "vault/Graph/Connections_3568.md"
 type: "document"
-community: "Community 663"
-location: "L14"
+community: "Community 128"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_663
+  - community/Community_128
 ---
 
 # Connections
 
 ## Connections
-- [[SocialService.display()_4]] - `contains` [EXTRACTED]
+- [[Connections_4966]] - `contains` [EXTRACTED]
+- [[Connections_3568_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_663
+#graphify/document #graphify/EXTRACTED #community/Community_128

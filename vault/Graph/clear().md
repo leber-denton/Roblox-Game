@@ -12,7 +12,7 @@ tags:
 # clear()
 
 ## Connections
-- [[Menus.client.luau_4]] - `contains` [EXTRACTED]
+- [[Menus.client.luau_8]] - `contains` [EXTRACTED]
 - [[refresh()_2]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_418

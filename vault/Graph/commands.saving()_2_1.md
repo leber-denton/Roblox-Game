@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/commands.saving()_2.md"
 type: "document"
-community: "Community 168"
-location: "L1"
+community: "Community 1795"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1795
 ---
 
 # commands.saving()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 224]] - `references` [EXTRACTED]
-- [[commands.saving()_2_2]] - `contains` [EXTRACTED]
+- [[Connections_10478]] - `contains` [EXTRACTED]
+- [[commands.saving()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1795

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.findById()_2.md"
+source_file: "vault/Graph/updateVisible().md"
 type: "document"
-community: "Community 1018"
+community: "Community 100"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1018
+  - community/Community_100
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.findById()_3]] - `contains` [EXTRACTED]
+- [[updateVisible()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1018
+#graphify/document #graphify/EXTRACTED #community/Community_100

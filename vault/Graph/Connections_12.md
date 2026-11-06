@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/updateVisible().md"
+source_file: "vault/Graph/Connections_6360.md"
 type: "document"
-community: "Community 100"
-location: "L14"
+community: "Community 1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_100
+  - community/Community_1
 ---
 
 # Connections
 
 ## Connections
-- [[updateVisible()_5]] - `contains` [EXTRACTED]
+- [[Connections_13]] - `contains` [EXTRACTED]
+- [[Connections_6360]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_100
+#graphify/document #graphify/EXTRACTED #community/Community_1

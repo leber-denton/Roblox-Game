@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/NpcGuard_2.md"
+source_file: "vault/Graph/Connections_4548.md"
 type: "document"
-community: "Community 102"
+community: "Community 1000"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_102
+  - community/Community_1000
 ---
 
 # Connections
 
 ## Connections
-- [[NpcGuard_2_1]] - `contains` [EXTRACTED]
+- [[Connections_57]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_102
+#graphify/document #graphify/EXTRACTED #community/Community_1000

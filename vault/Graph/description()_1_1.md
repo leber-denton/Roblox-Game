@@ -1,18 +1,23 @@
 ---
-source_file: "vault/Graph/description()_1.md"
+source_file: "vault/Graph/description()_1_1.md"
 type: "document"
 community: "Community 168"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_168
 ---
 
-# description()_1.md
+# description()_1_1.md
 
 ## Connections
-- [[Connections_2316]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 151]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
 - [[description()_1]] - `contains` [EXTRACTED]
+- [[description()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

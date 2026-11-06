@@ -12,7 +12,7 @@ tags:
 # BattleFX.faint()
 
 ## Connections
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[groundRing()]] - `calls` [EXTRACTED]
 - [[groundY()]] - `calls` [EXTRACTED]
 - [[play()_1]] - `calls` [EXTRACTED]

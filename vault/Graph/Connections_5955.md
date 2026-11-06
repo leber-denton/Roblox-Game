@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Rules for notes_2.md"
+source_file: "vault/Graph/Connections_4800.md"
 type: "document"
-community: "Community 88"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Rules for notes_3]] - `contains` [EXTRACTED]
+- [[Connections_5954]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_88
+#graphify/document #graphify/EXTRACTED #community/Community_134

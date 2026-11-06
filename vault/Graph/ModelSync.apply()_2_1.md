@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/ModelSync.apply()_2.md"
+source_file: "vault/Graph/ModelSync.apply()_2_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 3058"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_3058
 ---
 
-# ModelSync.apply()_2.md
+# ModelSync.apply()_2_1.md
 
 ## Connections
-- [[Connections_330_1]] - `references` [EXTRACTED]
-- [[ModelSync.apply()_4]] - `contains` [EXTRACTED]
-- [[ModelSync.apply()_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
+- [[ModelSync.apply()_2_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_3058

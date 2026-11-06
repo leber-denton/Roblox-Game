@@ -1,18 +1,32 @@
 ---
 type: community
-members: 5
+members: 19
 ---
 
 # Community 1067
 
-**Members:** 5 nodes
+**Members:** 19 nodes
 
 ## Members
-- [[Community 355]] - document - vault/Graph/_COMMUNITY_Community 355.md
-- [[Connections to other communities_45]] - document - vault/Graph/_COMMUNITY_Community 355.md
-- [[Live Query (requires Dataview plugin)_45]] - document - vault/Graph/_COMMUNITY_Community 355.md
-- [[Members_45]] - document - vault/Graph/_COMMUNITY_Community 355.md
-- [[Top bridge nodes_48]] - document - vault/Graph/_COMMUNITY_Community 355.md
+- [[Community 954]] - document - vault/Graph/_COMMUNITY_Community 954.md
+- [[Connections_1127]] - document - vault/Graph/Connections_215_1.md
+- [[Connections_1128]] - document - vault/Graph/Connections_216_1.md
+- [[Connections_1129]] - document - vault/Graph/Connections_6249.md
+- [[Connections_1130]] - document - vault/Graph/Connections_6250.md
+- [[Connections_1131]] - document - vault/Graph/Connections_6251.md
+- [[Connections_215_1]] - document - vault/Graph/Connections_215_1.md
+- [[Connections_215_1_1]] - document - vault/Graph/Connections_215_1.md
+- [[Connections_216_1]] - document - vault/Graph/Connections_216_1.md
+- [[Connections_216_1_1]] - document - vault/Graph/Connections_216_1.md
+- [[Connections_6249]] - document - vault/Graph/Connections_6249.md
+- [[Connections_6249_1]] - document - vault/Graph/Connections_6249.md
+- [[Connections_6250]] - document - vault/Graph/Connections_6250.md
+- [[Connections_6250_1]] - document - vault/Graph/Connections_6250.md
+- [[Connections_6251]] - document - vault/Graph/Connections_6251.md
+- [[Connections_6251_1]] - document - vault/Graph/Connections_6251.md
+- [[Live Query (requires Dataview plugin)_86]] - document - vault/Graph/_COMMUNITY_Community 954.md
+- [[Members_89]] - document - vault/Graph/_COMMUNITY_Community 954.md
+- [[_COMMUNITY_Community 954]] - document - vault/Graph/_COMMUNITY_Community 954.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +36,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 93]]
+- 6 edges to [[_COMMUNITY_Community 1196]]
+- 2 edges to [[_COMMUNITY_Community 1193]]
+- 1 edge to [[_COMMUNITY_Community 1892]]
+- 1 edge to [[_COMMUNITY_Community 1895]]
+- 1 edge to [[_COMMUNITY_Community 1897]]
+- 1 edge to [[_COMMUNITY_Community 704]]
 
 ## Top bridge nodes
-- [[Community 355]] - degree 5, connects to 1 community
+- [[_COMMUNITY_Community 954]] - degree 9, connects to 3 communities
+- [[Connections_6251]] - degree 6, connects to 3 communities
+- [[Connections_6249]] - degree 6, connects to 2 communities
+- [[Connections_6250]] - degree 5, connects to 2 communities
+- [[Connections_215_1]] - degree 5, connects to 1 community

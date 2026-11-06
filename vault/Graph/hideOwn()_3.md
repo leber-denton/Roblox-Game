@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/hideOwn()_1.md"
+source_file: "vault/Graph/hideOwn()_3.md"
 type: "document"
-community: "Community 184"
-location: "L12"
+community: "Community 121"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_184
+  - community/Community_121
 ---
 
-# hideOwn().md
+# hideOwn()_3.md
 
 ## Connections
-- [[Connections_2725]] - `contains` [EXTRACTED]
-- [[hideOwn()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2613_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 121]] - `references` [EXTRACTED]
+- [[hideOwn()_5]] - `contains` [EXTRACTED]
+- [[hideOwn()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_184
+#graphify/document #graphify/EXTRACTED #community/Community_121

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ballParts().md"
+source_file: "vault/Graph/travelCFrame()_2.md"
 type: "document"
-community: "Community 21"
+community: "Community 1173"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_1173
 ---
 
 # Connections
 
 ## Connections
-- [[ballParts()_2]] - `contains` [EXTRACTED]
+- [[travelCFrame()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_1173

@@ -12,7 +12,8 @@ tags:
 # CodeCreatureBuilder.md
 
 ## Connections
-- [[CodeCreatureBuilder_1]] - `contains` [EXTRACTED]
-- [[Connections_106]] - `references` [EXTRACTED]
+- [[CodeCreatureBuilder_3]] - `contains` [EXTRACTED]
+- [[CodeCreatureBuilder_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1040]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1040

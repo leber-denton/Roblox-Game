@@ -1,30 +1,22 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/DecorUI.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Menus.client.luau"
 type: "code"
-community: "Community 3"
-location: "L40"
+community: "Community 418"
+location: "L38"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_3
+  - community/Community_418
 ---
 
 # new()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
-- [[button()]] - `calls` [EXTRACTED]
-- [[gridLayout()]] - `calls` [EXTRACTED]
-- [[itemCard()]] - `calls` [EXTRACTED]
-- [[label()_2]] - `calls` [EXTRACTED]
-- [[listLayout()]] - `calls` [EXTRACTED]
-- [[makeGhost()]] - `calls` [EXTRACTED]
-- [[preview()]] - `calls` [EXTRACTED]
-- [[round()_2]] - `calls` [EXTRACTED]
-- [[tabs.Crates()]] - `calls` [EXTRACTED]
-- [[tabs.Daily()]] - `calls` [EXTRACTED]
-- [[tabs.Items()]] - `calls` [EXTRACTED]
-- [[tabs.Robux()]] - `calls` [EXTRACTED]
-- [[tabs.Themes()]] - `calls` [EXTRACTED]
+- [[Menus.client.luau_8]] - `contains` [EXTRACTED]
+- [[incoming()]] - `calls` [EXTRACTED]
+- [[offerBox()]] - `calls` [EXTRACTED]
+- [[playEvolution()]] - `calls` [EXTRACTED]
+- [[refresh()_2]] - `calls` [EXTRACTED]
+- [[viewport()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_3
+#graphify/code #graphify/EXTRACTED #community/Community_418

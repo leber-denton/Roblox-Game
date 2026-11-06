@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.canGetStatus()_1.md"
+source_file: "vault/Graph/Top bridge nodes_84.md"
 type: "document"
-community: "Community 553"
+community: "Community 126"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_553
+  - community/Community_126
 ---
 
 # Connections
 
 ## Connections
-- [[BattleData.canGetStatus()_3]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_278]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_553
+#graphify/document #graphify/EXTRACTED #community/Community_126

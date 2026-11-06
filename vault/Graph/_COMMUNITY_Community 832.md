@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_5548]] - document - vault/Graph/Connections_921.md
-- [[Connections_5549]] - document - vault/Graph/Connections_921.md
-- [[Connections_5550]] - document - vault/Graph/TutorialService.luau_1.md
-- [[Connections_921_1]] - document - vault/Graph/Connections_921.md
-- [[TutorialService.luau_3]] - document - vault/Graph/TutorialService.luau_1.md
-- [[TutorialService.luau_1]] - document - vault/Graph/TutorialService.luau_1.md
+- [[Community 832]] - document - vault/Graph/_COMMUNITY_Community 832.md
+- [[Connections to other communities_1578]] - document - vault/Graph/_COMMUNITY_Community 832.md
+- [[Live Query (requires Dataview plugin)_1849]] - document - vault/Graph/_COMMUNITY_Community 832.md
+- [[Members_1848]] - document - vault/Graph/_COMMUNITY_Community 832.md
+- [[Top bridge nodes_1570]] - document - vault/Graph/_COMMUNITY_Community 832.md
+- [[_COMMUNITY_Community 832]] - document - vault/Graph/_COMMUNITY_Community 832.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,4 +26,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[TutorialService.luau_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 832]] - degree 2, connects to 1 community

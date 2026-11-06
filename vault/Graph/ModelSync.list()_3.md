@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/ModelSync.list()_1.md"
+source_file: "vault/Graph/ModelSync.list().md"
 type: "document"
 community: "Community 117"
 location: "L12"
@@ -9,10 +9,10 @@ tags:
   - community/Community_117
 ---
 
-# ModelSync.list().md
+# ModelSync.list()
 
 ## Connections
-- [[Connections_520]] - `contains` [EXTRACTED]
-- [[ModelSync.list()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2968]] - `contains` [EXTRACTED]
+- [[ModelSync.list()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_117

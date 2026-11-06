@@ -12,10 +12,10 @@ tags:
 # showcaseModels()
 
 ## Connections
-- [[Functions_182]] - `references` [INFERRED]
+- [[Functions_238]] - `references` [INFERRED]
 - [[ModelSync.audit()]] - `calls` [EXTRACTED]
 - [[ModelSync.list()]] - `calls` [EXTRACTED]
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[findTargets()]] - `calls` [EXTRACTED]
 - [[getShowcase()]] - `calls` [EXTRACTED]
 - [[showcaseArea()]] - `calls` [EXTRACTED]

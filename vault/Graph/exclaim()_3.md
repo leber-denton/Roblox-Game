@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/exclaim()_2.md"
+source_file: "vault/Graph/exclaim()_3.md"
 type: "document"
 community: "Community 134"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_134
 ---
 
-# exclaim().md
+# exclaim()_3.md
 
 ## Connections
-- [[Connections_1482]] - `contains` [EXTRACTED]
-- [[exclaim()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
+- [[exclaim()_2]] - `references` [EXTRACTED]
+- [[exclaim()_3_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

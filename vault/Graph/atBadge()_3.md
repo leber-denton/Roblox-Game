@@ -12,10 +12,9 @@ tags:
 # atBadge().md
 
 ## Connections
-- [[StoryService.luau_1]] - `references` [EXTRACTED]
-- [[StoryService.luau_2]] - `references` [EXTRACTED]
+- [[StoryService.luau_7]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
 - [[atBadge()_4]] - `contains` [EXTRACTED]
-- [[count()_1]] - `references` [EXTRACTED]
+- [[count()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

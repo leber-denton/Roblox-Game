@@ -13,9 +13,9 @@ tags:
 
 ## Connections
 - [[Connections to other communities_30]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_30]] - `contains` [EXTRACTED]
-- [[Members_30]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_33]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_52]] - `contains` [EXTRACTED]
+- [[Members_56]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_30]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 316]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1050

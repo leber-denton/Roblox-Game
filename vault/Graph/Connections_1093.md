@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/zeroStages().md"
+source_file: "vault/Graph/Connections to other communities_43.md"
 type: "document"
-community: "Community 120"
+community: "Community 1064"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_120
+  - community/Community_1064
 ---
 
 # Connections
 
 ## Connections
-- [[zeroStages()_3]] - `contains` [EXTRACTED]
+- [[Connections to other communities_46]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_120
+#graphify/document #graphify/EXTRACTED #community/Community_1064

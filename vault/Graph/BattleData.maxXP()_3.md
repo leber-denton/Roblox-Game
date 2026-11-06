@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.maxXP().md"
+source_file: "vault/Graph/BattleData.maxXP()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2766"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2766
 ---
 
-# BattleData.maxXP().md
+# BattleData.maxXP()_3.md
 
 ## Connections
-- [[BaseManager.restore()_4]] - `references` [EXTRACTED]
-- [[BattleData.luau_3]] - `references` [EXTRACTED]
-- [[BattleData.maxXP()_4]] - `contains` [EXTRACTED]
-- [[BattleData.xpForLevel()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[BattleData.maxXP()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2766

@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/nextScene()_2.md"
+source_file: "vault/Graph/nextScene().md"
 type: "document"
 community: "Community 24"
 location: "L12"
@@ -9,10 +9,10 @@ tags:
   - community/Community_24
 ---
 
-# nextScene().md
+# nextScene()
 
 ## Connections
-- [[Connections_3338]] - `contains` [EXTRACTED]
+- [[Connections_13809]] - `contains` [EXTRACTED]
 - [[nextScene()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

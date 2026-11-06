@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleFX.attack().md"
+source_file: "vault/Graph/travelCFrame()_3.md"
 type: "document"
-community: "Community 21"
+community: "Community 1173"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_1173
 ---
 
 # Connections
 
 ## Connections
-- [[BattleFX.attack()_6]] - `contains` [EXTRACTED]
+- [[travelCFrame()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_1173

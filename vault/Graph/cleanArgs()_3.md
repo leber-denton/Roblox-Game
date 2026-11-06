@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/cleanArgs().md"
+source_file: "vault/Graph/cleanArgs()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2796"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2796
 ---
 
-# cleanArgs().md
+# cleanArgs()_3.md
 
 ## Connections
-- [[DecorData.snap()_3]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.move()_3]] - `references` [EXTRACTED]
-- [[actions.place()_3]] - `references` [EXTRACTED]
-- [[cleanArgs()_4]] - `contains` [EXTRACTED]
+- [[cleanArgs()_5]] - `contains` [EXTRACTED]
+- [[cleanArgs()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2796

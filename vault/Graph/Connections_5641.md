@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/actions.buy().md"
+source_file: "vault/Graph/Connections_3806.md"
 type: "document"
-community: "Community 86"
-location: "L14"
+community: "Community 1323"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1323
 ---
 
 # Connections
 
 ## Connections
-- [[actions.buy()_2]] - `contains` [EXTRACTED]
+- [[Connections_5642]] - `contains` [EXTRACTED]
+- [[Connections_3806_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1323

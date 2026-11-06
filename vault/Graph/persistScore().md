@@ -12,7 +12,7 @@ tags:
 # persistScore()
 
 ## Connections
-- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[recordFor()]] - `calls` [EXTRACTED]
 - [[sundayKey()]] - `calls` [EXTRACTED]
 - [[weeklyStore()]] - `calls` [EXTRACTED]

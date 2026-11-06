@@ -1,37 +1,34 @@
 ---
 type: community
-members: 24
+members: 21
 ---
 
 # Community 334
 
-**Members:** 24 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[AdminService.init()_1]] - document - vault/Graph/AdminService.init()_1.md
-- [[AdminService.init()_1_1]] - document - vault/Graph/AdminService.init()_1.md
-- [[AdminService.init()_2]] - document - vault/Graph/AdminService.init()_2.md
-- [[AdminService.init()_2_1]] - document - vault/Graph/AdminService.init()_2.md
-- [[AdminService.isAdmin()_1]] - document - vault/Graph/AdminService.isAdmin()_1.md
-- [[AdminService.isAdmin()_1_1]] - document - vault/Graph/AdminService.isAdmin()_1.md
-- [[AdminService.isAdmin()_2]] - document - vault/Graph/AdminService.isAdmin()_2.md
-- [[AdminService.isAdmin()_2_1]] - document - vault/Graph/AdminService.isAdmin()_2.md
-- [[Community 334]] - document - vault/Graph/_COMMUNITY_Community 334.md
-- [[Community 95]] - document - vault/Graph/_COMMUNITY_Community 95.md
-- [[Connections_3967]] - document - vault/Graph/AdminService.init()_1.md
-- [[Connections_3968]] - document - vault/Graph/AdminService.init()_2.md
-- [[Connections_3969]] - document - vault/Graph/AdminService.isAdmin()_1.md
-- [[Connections_3970]] - document - vault/Graph/AdminService.isAdmin()_2.md
-- [[Connections to other communities_253]] - document - vault/Graph/_COMMUNITY_Community 334.md
-- [[Connections to other communities_254]] - document - vault/Graph/_COMMUNITY_Community 95.md
-- [[Live Query (requires Dataview plugin)_287]] - document - vault/Graph/_COMMUNITY_Community 334.md
-- [[Live Query (requires Dataview plugin)_288]] - document - vault/Graph/_COMMUNITY_Community 95.md
-- [[Members_291]] - document - vault/Graph/_COMMUNITY_Community 334.md
-- [[Members_292]] - document - vault/Graph/_COMMUNITY_Community 95.md
-- [[Top bridge nodes_259]] - document - vault/Graph/_COMMUNITY_Community 334.md
-- [[Top bridge nodes_260]] - document - vault/Graph/_COMMUNITY_Community 95.md
-- [[_COMMUNITY_Community 334]] - document - vault/Graph/_COMMUNITY_Community 334.md
-- [[_COMMUNITY_Community 95]] - document - vault/Graph/_COMMUNITY_Community 95.md
+- [[Connections_17272]] - document - vault/Graph/Connections_2469.md
+- [[Connections_17273]] - document - vault/Graph/Connections_2469.md
+- [[Connections_17274]] - document - vault/Graph/Connections_2470.md
+- [[Connections_17275]] - document - vault/Graph/Connections_2470.md
+- [[Connections_17276]] - document - vault/Graph/Connections_983_1.md
+- [[Connections_17277]] - document - vault/Graph/finite()_4_1.md
+- [[Connections_17278]] - document - vault/Graph/finite()_4.md
+- [[Connections_17279]] - document - vault/Graph/finite()_5_1.md
+- [[Connections_17280]] - document - vault/Graph/finite()_5.md
+- [[Connections_2469_1]] - document - vault/Graph/Connections_2469.md
+- [[Connections_2470_1]] - document - vault/Graph/Connections_2470.md
+- [[Connections_983_2]] - document - vault/Graph/Connections_983_1.md
+- [[Connections_983_1_1]] - document - vault/Graph/Connections_983_1.md
+- [[finite()_4_1]] - document - vault/Graph/finite()_4.md
+- [[finite()_4_2]] - document - vault/Graph/finite()_4_1.md
+- [[finite()_4_3]] - document - vault/Graph/finite()_4.md
+- [[finite()_4_1_1]] - document - vault/Graph/finite()_4_1.md
+- [[finite()_5_1]] - document - vault/Graph/finite()_5.md
+- [[finite()_5_2]] - document - vault/Graph/finite()_5_1.md
+- [[finite()_5_3]] - document - vault/Graph/finite()_5.md
+- [[finite()_5_1_1]] - document - vault/Graph/finite()_5_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -41,11 +38,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 6 edges to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 12]]
+- 7 edges to [[_COMMUNITY_Community 289]]
+- 3 edges to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 1535]]
+- 1 edge to [[_COMMUNITY_Community 25]]
+- 1 edge to [[_COMMUNITY_Community 844]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 95]] - degree 8, connects to 2 communities
-- [[AdminService.init()_1]] - degree 7, connects to 1 community
-- [[AdminService.isAdmin()_1]] - degree 7, connects to 1 community
-- [[_COMMUNITY_Community 334]] - degree 7, connects to 1 community
+- [[finite()_4_1]] - degree 8, connects to 5 communities
+- [[finite()_5_1]] - degree 6, connects to 2 communities
+- [[Connections_983_1_1]] - degree 4, connects to 2 communities
+- [[finite()_4_1_1]] - degree 4, connects to 1 community
+- [[finite()_5_1_1]] - degree 4, connects to 1 community

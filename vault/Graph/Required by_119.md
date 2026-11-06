@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_119.md"
+source_file: "vault/Code/Bag.md"
 type: "document"
-community: "Community 248"
-location: "L1"
+community: "Community 20"
+location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_248
+  - community/Community_20
 ---
 
-# Required by_119.md
+# Required by
 
 ## Connections
-- [[Required by_119_1]] - `contains` [EXTRACTED]
-- [[Required by_40_2]] - `references` [EXTRACTED]
-- [[ShowcaseBuilder_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 212]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
+- [[Bag_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_248
+#graphify/document #graphify/EXTRACTED #community/Community_20

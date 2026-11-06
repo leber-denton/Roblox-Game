@@ -1,23 +1,20 @@
 ---
-source_file: "vault/Graph/ModelSyncLookup.luau_2.md"
+source_file: "vault/Graph/ModelSyncLookup.luau_2_1.md"
 type: "document"
-community: "Community 689"
+community: "Community 1428"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_689
+  - community/Community_1428
 ---
 
-# ModelSyncLookup.luau_2.md
+# ModelSyncLookup.luau_2_1.md
 
 ## Connections
-- [[ModelSyncLookup.luau_4]] - `references` [EXTRACTED]
-- [[ModelSyncLookup.luau_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 169]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 61]] - `references` [EXTRACTED]
-- [[addNpc()_1_1]] - `references` [EXTRACTED]
-- [[addTemplates()_1_1]] - `references` [EXTRACTED]
-- [[npcName()_1_1]] - `references` [EXTRACTED]
+- [[Connections_5807_1]] - `references` [EXTRACTED]
+- [[ModelSyncLookup.luau_2_2]] - `contains` [EXTRACTED]
+- [[ModelSyncLookup.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1428]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_689
+#graphify/document #graphify/EXTRACTED #community/Community_1428

@@ -1,28 +1,40 @@
 ---
 type: community
-members: 15
+members: 27
 ---
 
 # Community 74
 
-**Members:** 15 nodes
+**Members:** 27 nodes
 
 ## Members
-- [[BattleFX_6]] - document - vault/Code/BattleFX.md
-- [[CodeBattleFX_2]] - document - vault/Code/BattleFX.md
-- [[CodeBattleUI_2]] - document - vault/Code/BattleUI.md
-- [[CodeHUD_2]] - document - vault/Code/HUD.md
-- [[CodeSfx_2]] - document - vault/Code/Sfx.md
-- [[Functions_177]] - document - vault/Code/BattleFX.md
-- [[Functions_178]] - document - vault/Code/Sfx.md
-- [[HUD_3]] - document - vault/Code/HUD.md
-- [[Required by_169]] - document - vault/Code/BattleFX.md
-- [[Required by_170]] - document - vault/Code/HUD.md
-- [[Required by_171]] - document - vault/Code/Sfx.md
-- [[Requires_176]] - document - vault/Code/BattleFX.md
-- [[Requires_177]] - document - vault/Code/HUD.md
-- [[Requires_178]] - document - vault/Code/Sfx.md
-- [[Sfx_3]] - document - vault/Code/Sfx.md
+- [[Connections_22309]] - document - vault/Graph/Connections_3818.md
+- [[Connections_22310]] - document - vault/Graph/Connections_3819.md
+- [[Connections_22311]] - document - vault/Graph/Connections_736.md
+- [[Connections_22312]] - document - vault/Graph/Connections_736.md
+- [[Connections_22313]] - document - vault/Graph/Connections_737.md
+- [[Connections_22314]] - document - vault/Graph/Connections_737.md
+- [[Connections_22315]] - document - vault/Graph/Connections_738.md
+- [[Connections_22316]] - document - vault/Graph/Connections_738.md
+- [[Connections_22317]] - document - vault/Graph/Connections_739.md
+- [[Connections_22318]] - document - vault/Graph/Connections_739.md
+- [[Connections_22319]] - document - vault/Graph/Connections_804.md
+- [[Connections_22320]] - document - vault/Graph/Connections_804.md
+- [[Connections_22321]] - document - vault/Graph/Connections_818_1.md
+- [[Connections_22322]] - document - vault/Graph/Connections_818.md
+- [[Connections_3818_1]] - document - vault/Graph/Connections_3818.md
+- [[Connections_3818_2]] - document - vault/Graph/Connections_3818.md
+- [[Connections_3819_1]] - document - vault/Graph/Connections_3819.md
+- [[Connections_3819_2]] - document - vault/Graph/Connections_3819.md
+- [[Connections_736_3]] - document - vault/Graph/Connections_736.md
+- [[Connections_737_3]] - document - vault/Graph/Connections_737.md
+- [[Connections_738_3]] - document - vault/Graph/Connections_738.md
+- [[Connections_739_3]] - document - vault/Graph/Connections_739.md
+- [[Connections_804_2]] - document - vault/Graph/Connections_804.md
+- [[Connections_818_2]] - document - vault/Graph/Connections_818.md
+- [[Connections_818_3]] - document - vault/Graph/Connections_818.md
+- [[Connections_818_1]] - document - vault/Graph/Connections_818_1.md
+- [[Connections_818_1_1]] - document - vault/Graph/Connections_818_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,13 +44,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 6 edges to [[_COMMUNITY_Community 13]]
-- 1 edge to [[_COMMUNITY_Community 214]]
-- 1 edge to [[_COMMUNITY_Community 7]]
+- 9 edges to [[_COMMUNITY_Community 803]]
+- 3 edges to [[_COMMUNITY_Community 1050]]
+- 1 edge to [[_COMMUNITY_Community 122]]
 
 ## Top bridge nodes
-- [[CodeBattleUI_2]] - degree 6, connects to 2 communities
-- [[HUD_3]] - degree 4, connects to 1 community
-- [[CodeSfx_2]] - degree 4, connects to 1 community
-- [[CodeBattleFX_2]] - degree 3, connects to 1 community
-- [[CodeHUD_2]] - degree 3, connects to 1 community
+- [[Connections_818_1]] - degree 6, connects to 3 communities
+- [[Connections_3818_1]] - degree 6, connects to 2 communities
+- [[Connections_3819_1]] - degree 5, connects to 2 communities
+- [[Connections_736_3]] - degree 4, connects to 1 community
+- [[Connections_738_3]] - degree 4, connects to 1 community

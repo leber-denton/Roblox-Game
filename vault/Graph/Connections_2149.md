@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/RouteTrainerService_2.md"
+source_file: "vault/Graph/canPersist()_2.md"
 type: "document"
-community: "Community 161"
+community: "Community 1118"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_161
+  - community/Community_1118
 ---
 
 # Connections
 
 ## Connections
-- [[RouteTrainerService_2_1]] - `contains` [EXTRACTED]
+- [[canPersist()_2_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_161
+#graphify/document #graphify/EXTRACTED #community/Community_1118

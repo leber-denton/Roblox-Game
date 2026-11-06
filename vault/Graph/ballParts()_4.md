@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/ballParts()_2.md"
+source_file: "vault/Graph/ballParts()_4.md"
 type: "document"
-community: "Community 335"
-location: "L12"
+community: "Community 171"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_335
+  - community/Community_171
 ---
 
-# ballParts()
+# ballParts()_4.md
 
 ## Connections
-- [[Connections_3972]] - `contains` [EXTRACTED]
-- [[ballParts()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_3972_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1058]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 335]] - `references` [EXTRACTED]
+- [[ballParts()_2_1]] - `references` [EXTRACTED]
+- [[ballParts()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_335
+#graphify/document #graphify/EXTRACTED #community/Community_171

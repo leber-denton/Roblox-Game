@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/AdminService.isAdmin().md"
+source_file: "vault/Graph/reset()_2.md"
 type: "document"
-community: "Community 95"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_95
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[AdminService.isAdmin()_4]] - `contains` [EXTRACTED]
+- [[reset()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_95
+#graphify/document #graphify/EXTRACTED #community/Community_134

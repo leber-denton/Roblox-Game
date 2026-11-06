@@ -12,7 +12,7 @@ tags:
 # sourceOf()
 
 ## Connections
-- [[Connections_1609]] - `contains` [EXTRACTED]
+- [[Connections_6590]] - `contains` [EXTRACTED]
 - [[sourceOf()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_136

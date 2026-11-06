@@ -8,7 +8,7 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[CreatureLife.client.luau_5]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureLife.client.luau
+- [[CreatureLife.client.luau_7]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureLife.client.luau
 - [[register()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureLife.client.luau
 - [[scan()]] - code - src/StarterPlayer/StarterPlayerScripts/CreatureLife.client.luau
 

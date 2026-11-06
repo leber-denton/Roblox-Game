@@ -12,8 +12,10 @@ tags:
 # publicState()_1.md
 
 ## Connections
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 317]] - `references` [EXTRACTED]
-- [[publicState()_3]] - `contains` [EXTRACTED]
+- [[publicState()_1_1]] - `contains` [EXTRACTED]
 - [[publicState()_2]] - `references` [EXTRACTED]
+- [[publicState()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_317

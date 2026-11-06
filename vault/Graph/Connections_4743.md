@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/GraphCLAUDE.md"
+source_file: "vault/Graph/Connections_3447.md"
 type: "document"
-community: "Community 591"
-location: "L14"
+community: "Community 1265"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_591
+  - community/Community_1265
 ---
 
 # Connections
 
 ## Connections
-- [[GraphCLAUDE_2]] - `contains` [EXTRACTED]
+- [[Connections_4744]] - `contains` [EXTRACTED]
+- [[Connections_3447_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_591
+#graphify/document #graphify/EXTRACTED #community/Community_1265

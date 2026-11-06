@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/plazaCenter().md"
+source_file: "vault/Graph/plazaCenter()_2.md"
 type: "document"
-community: "Community 9"
-location: "L1"
+community: "Community 412"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_412
 ---
 
-# plazaCenter().md
+# plazaCenter()
 
 ## Connections
-- [[Functions_1_3]] - `references` [EXTRACTED]
-- [[SocialService.display()_1]] - `references` [EXTRACTED]
-- [[SocialService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[plazaCenter()_4]] - `contains` [EXTRACTED]
-- [[setupCommunity()_4]] - `references` [EXTRACTED]
+- [[Connections_19109]] - `contains` [EXTRACTED]
+- [[plazaCenter()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_412

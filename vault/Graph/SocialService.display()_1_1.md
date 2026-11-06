@@ -12,7 +12,6 @@ tags:
 # SocialService.display()_1.md
 
 ## Connections
-- [[Connections_877_1]] - `references` [EXTRACTED]
-- [[SocialService.display()_4]] - `contains` [EXTRACTED]
+- [[SocialService.display()_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_663

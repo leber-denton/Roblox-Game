@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[CodeBattleService]] - `contains` [EXTRACTED]
-- [[Connections_603]] - `contains` [EXTRACTED]
+- [[Connections_3436]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_119

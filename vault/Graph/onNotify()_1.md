@@ -12,11 +12,9 @@ tags:
 # onNotify()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 206]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[fadeAndDestroy()_1]] - `references` [EXTRACTED]
-- [[onNotify()_1_1]] - `contains` [EXTRACTED]
-- [[onNotify()_2]] - `references` [EXTRACTED]
-- [[showAnnouncement()_1]] - `references` [EXTRACTED]
+- [[Connections_404_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 103]] - `references` [EXTRACTED]
+- [[onNotify()_5]] - `contains` [EXTRACTED]
+- [[onNotify()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_206

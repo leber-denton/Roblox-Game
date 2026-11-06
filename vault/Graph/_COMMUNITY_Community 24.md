@@ -1,146 +1,103 @@
 ---
 type: community
-members: 133
+members: 90
 ---
 
 # Community 24
 
-**Members:** 133 nodes
+**Members:** 90 nodes
 
 ## Members
-- [[Community 24_1]] - document - vault/Graph/Community 24.md
-- [[Community 24]] - document - vault/Graph/Community 24.md
-- [[Connections_3319]] - document - vault/Graph/atBadge().md
-- [[Connections_3320]] - document - vault/Graph/begin()_2.md
-- [[Connections_3321]] - document - vault/Graph/begin().md
-- [[Connections_3322]] - document - vault/Graph/check()_1.md
-- [[Connections_3323]] - document - vault/Graph/commands.juniper().md
-- [[Connections_3324]] - document - vault/Graph/Community 24.md
-- [[Connections_3325]] - document - vault/Graph/complete()_2.md
-- [[Connections_3326]] - document - vault/Graph/Connections_908.md
-- [[Connections_3327]] - document - vault/Graph/Connections_908.md
-- [[Connections_3328]] - document - vault/Graph/count().md
-- [[Connections_3329]] - document - vault/Graph/free().md
-- [[Connections_3330]] - document - vault/Graph/get().md
-- [[Connections_3331]] - document - vault/Graph/GraphStoryService.md
-- [[Connections_3332]] - document - vault/Graph/laneSpot()_2.md
-- [[Connections_3333]] - document - vault/Graph/laneSpot().md
-- [[Connections_3334]] - document - vault/Graph/linesFor()_2.md
-- [[Connections_3335]] - document - vault/Graph/linesFor().md
-- [[Connections_3336]] - document - vault/Graph/makeGrunt()_2.md
-- [[Connections_3337]] - document - vault/Graph/makeGrunt().md
-- [[Connections_3338]] - document - vault/Graph/nextScene()_2.md
-- [[Connections_3339]] - document - vault/Graph/nextScene().md
-- [[Connections_3340]] - document - vault/Graph/part()_7.md
-- [[Connections_3341]] - document - vault/Graph/part()_8.md
-- [[Connections_3342]] - document - vault/Graph/part().md
-- [[Connections_3343]] - document - vault/Graph/script_parent_tutorialservice_1.md
-- [[Connections_3344]] - document - vault/Graph/script_parent_tutorialservice_2.md
-- [[Connections_3345]] - document - vault/Graph/script_parent_tutorialservice.md
-- [[Connections_3346]] - document - vault/Graph/setupWorld().md
-- [[Connections_3347]] - document - vault/Graph/StoryService_1_1.md
-- [[Connections_3348]] - document - vault/Graph/StoryService_1.md
-- [[Connections_3349]] - document - vault/Graph/StoryService_2.md
-- [[Connections_3350]] - document - vault/Graph/StoryService.chat().md
-- [[Connections_3351]] - document - vault/Graph/StoryService.md
-- [[Connections_3352]] - document - vault/Graph/StoryService.hasCompleted()_2.md
-- [[Connections_3353]] - document - vault/Graph/StoryService.hasCompleted().md
-- [[Connections_3354]] - document - vault/Graph/StoryService.luau_2.md
-- [[Connections_3355]] - document - vault/Graph/StoryService.luau.md
-- [[Connections_3356]] - document - vault/Graph/StoryService.onHeal()_2.md
-- [[Connections_3357]] - document - vault/Graph/StoryService.onHeal().md
-- [[Connections_3358]] - document - vault/Graph/StoryService.onLoaded()_2.md
-- [[Connections_3359]] - document - vault/Graph/StoryService.requestMilestone().md
-- [[Connections_3360]] - document - vault/Graph/sync()_2.md
-- [[Connections_3361]] - document - vault/Graph/sync()_4.md
-- [[Connections_3362]] - document - vault/Graph/TutorialService.isGuideStep()_2.md
-- [[Connections_908_1]] - document - vault/Graph/Connections_908.md
+- [[Community 14]] - document - vault/Graph/_COMMUNITY_Community 14.md
+- [[Connections_13795]] - document - vault/Graph/atBadge().md
+- [[Connections_13796]] - document - vault/Graph/begin().md
+- [[Connections_13797]] - document - vault/Graph/check()_1.md
+- [[Connections_13798]] - document - vault/Graph/complete().md
+- [[Connections_13799]] - document - vault/Graph/count().md
+- [[Connections_13800]] - document - vault/Graph/free().md
+- [[Connections_13801]] - document - vault/Graph/Functions_26_1.md
+- [[Connections_13802]] - document - vault/Graph/Functions_43.md
+- [[Connections_13803]] - document - vault/Graph/Functions_71.md
+- [[Connections_13804]] - document - vault/Graph/get().md
+- [[Connections_13805]] - document - vault/Graph/GraphStoryService.md
+- [[Connections_13806]] - document - vault/Graph/laneSpot().md
+- [[Connections_13807]] - document - vault/Graph/linesFor().md
+- [[Connections_13808]] - document - vault/Graph/makeGrunt().md
+- [[Connections_13809]] - document - vault/Graph/nextScene().md
+- [[Connections_13810]] - document - vault/Graph/part().md
+- [[Connections_13811]] - document - vault/Graph/Requires_26_1.md
+- [[Connections_13812]] - document - vault/Graph/Requires_66.md
+- [[Connections_13813]] - document - vault/Graph/setupWorld().md
+- [[Connections_13814]] - document - vault/Graph/StoryService.md
+- [[Connections_13815]] - document - vault/Graph/StoryService.hasCompleted().md
+- [[Connections_13816]] - document - vault/Graph/StoryService.init().md
+- [[Connections_13817]] - document - vault/Graph/StoryService.luau.md
+- [[Connections_13818]] - document - vault/Graph/StoryService.onHeal().md
+- [[Connections_13819]] - document - vault/Graph/StoryService.onLoaded().md
+- [[Connections_13820]] - document - vault/Graph/StoryService.requestMilestone().md
+- [[Connections_13821]] - document - vault/Graph/sync()_2.md
+- [[Connections_13822]] - document - vault/Graph/TutorialService.isGuideStep().md
+- [[Connections to other communities_772]] - document - vault/Graph/_COMMUNITY_Community 14.md
+- [[Functions_159]] - document - vault/Graph/Functions_43.md
+- [[Functions_160]] - document - vault/Graph/Functions_71.md
+- [[Functions_26_4]] - document - vault/Graph/Functions_26_1.md
+- [[Functions_26_1_1]] - document - vault/Graph/Functions_26_1.md
+- [[Functions_43_1]] - document - vault/Graph/Functions_43.md
+- [[Functions_71_2]] - document - vault/Graph/Functions_71.md
 - [[GraphStoryService_1]] - document - vault/Graph/StoryService.md
-- [[GraphStoryService]] - document - vault/Graph/GraphStoryService.md
 - [[GraphStoryService_2]] - document - vault/Graph/GraphStoryService.md
-- [[StoryService_3]] - document - vault/Graph/StoryService.md
-- [[StoryService.chat()_4]] - document - vault/Graph/StoryService.chat().md
-- [[StoryService.chat()_3]] - document - vault/Graph/StoryService.chat().md
+- [[GraphStoryService]] - document - vault/Graph/GraphStoryService.md
+- [[Live Query (requires Dataview plugin)_968]] - document - vault/Graph/_COMMUNITY_Community 14.md
+- [[Members_982]] - document - vault/Graph/_COMMUNITY_Community 14.md
+- [[Requires_152]] - document - vault/Graph/Requires_66.md
+- [[Requires_26_2]] - document - vault/Graph/Requires_26_1.md
+- [[Requires_26_1]] - document - vault/Graph/Requires_26_1.md
+- [[Requires_66_2]] - document - vault/Graph/Requires_66.md
+- [[StoryService_1]] - document - vault/Graph/StoryService.md
+- [[StoryService.hasCompleted()_6]] - document - vault/Graph/StoryService.hasCompleted().md
 - [[StoryService.hasCompleted()_5]] - document - vault/Graph/StoryService.hasCompleted().md
-- [[StoryService.hasCompleted()_3]] - document - vault/Graph/StoryService.hasCompleted().md
-- [[StoryService.hasCompleted()_4]] - document - vault/Graph/StoryService.hasCompleted()_2.md
-- [[StoryService.hasCompleted()_2_1]] - document - vault/Graph/StoryService.hasCompleted()_2.md
-- [[StoryService.luau_3]] - document - vault/Graph/StoryService.luau_2.md
-- [[StoryService.luau_1]] - document - vault/Graph/StoryService.luau.md
-- [[StoryService.luau_4]] - document - vault/Graph/StoryService.luau.md
-- [[StoryService.luau_2]] - document - vault/Graph/StoryService.luau_2.md
-- [[StoryService.onHeal()_4]] - document - vault/Graph/StoryService.onHeal().md
-- [[StoryService.onHeal()_1]] - document - vault/Graph/StoryService.onHeal().md
-- [[StoryService.onHeal()_3]] - document - vault/Graph/StoryService.onHeal()_2.md
-- [[StoryService.onHeal()_2]] - document - vault/Graph/StoryService.onHeal()_2.md
-- [[StoryService.onLoaded()_1]] - document - vault/Graph/StoryService.onLoaded()_2.md
-- [[StoryService.onLoaded()_2]] - document - vault/Graph/StoryService.onLoaded()_2.md
+- [[StoryService.init()_2]] - document - vault/Graph/StoryService.init().md
+- [[StoryService.init()_1]] - document - vault/Graph/StoryService.init().md
+- [[StoryService.luau_8]] - document - vault/Graph/StoryService.luau.md
+- [[StoryService.luau_7]] - document - vault/Graph/StoryService.luau.md
+- [[StoryService.onHeal()_3]] - document - vault/Graph/StoryService.onHeal().md
+- [[StoryService.onHeal()_2]] - document - vault/Graph/StoryService.onHeal().md
+- [[StoryService.onLoaded()_2]] - document - vault/Graph/StoryService.onLoaded().md
+- [[StoryService.onLoaded()_1]] - document - vault/Graph/StoryService.onLoaded().md
 - [[StoryService.requestMilestone()_2]] - document - vault/Graph/StoryService.requestMilestone().md
 - [[StoryService.requestMilestone()_1]] - document - vault/Graph/StoryService.requestMilestone().md
-- [[StoryService_1]] - document - vault/Graph/StoryService_1.md
-- [[StoryService_1_2]] - document - vault/Graph/StoryService_1_1.md
-- [[StoryService_1_3]] - document - vault/Graph/StoryService_1.md
-- [[StoryService_1_1]] - document - vault/Graph/StoryService_1_1.md
-- [[StoryService_2]] - document - vault/Graph/StoryService_2.md
-- [[StoryService_2_1]] - document - vault/Graph/StoryService_2.md
-- [[TutorialService.isGuideStep()_1]] - document - vault/Graph/TutorialService.isGuideStep()_2.md
-- [[TutorialService.isGuideStep()_2]] - document - vault/Graph/TutorialService.isGuideStep()_2.md
+- [[Top bridge nodes_773]] - document - vault/Graph/_COMMUNITY_Community 14.md
+- [[TutorialService.isGuideStep()_6]] - document - vault/Graph/TutorialService.isGuideStep().md
+- [[TutorialService.isGuideStep()_5]] - document - vault/Graph/TutorialService.isGuideStep().md
 - [[_COMMUNITY_Community 14]] - document - vault/Graph/_COMMUNITY_Community 14.md
-- [[_COMMUNITY_Community 24]] - document - vault/Graph/_COMMUNITY_Community 24.md
-- [[_COMMUNITY_Community 320]] - document - vault/Graph/_COMMUNITY_Community 320.md
-- [[_COMMUNITY_Community 361]] - document - vault/Graph/_COMMUNITY_Community 361.md
 - [[atBadge()_4]] - document - vault/Graph/atBadge().md
 - [[atBadge()_3]] - document - vault/Graph/atBadge().md
-- [[begin()_4]] - document - vault/Graph/begin().md
-- [[begin()_1]] - document - vault/Graph/begin().md
-- [[begin()_3]] - document - vault/Graph/begin()_2.md
-- [[begin()_2]] - document - vault/Graph/begin()_2.md
-- [[check()_4]] - document - vault/Graph/check()_1.md
-- [[check()_1_1]] - document - vault/Graph/check()_1.md
-- [[commands.juniper()_4]] - document - vault/Graph/commands.juniper().md
-- [[commands.juniper()_3]] - document - vault/Graph/commands.juniper().md
-- [[complete()_1]] - document - vault/Graph/complete()_2.md
-- [[complete()_2]] - document - vault/Graph/complete()_2.md
+- [[begin()_6]] - document - vault/Graph/begin().md
+- [[begin()_5]] - document - vault/Graph/begin().md
+- [[check()_5]] - document - vault/Graph/check()_1.md
+- [[check()_1_3]] - document - vault/Graph/check()_1.md
+- [[complete()_2]] - document - vault/Graph/complete().md
+- [[complete()_1]] - document - vault/Graph/complete().md
+- [[count()_3]] - document - vault/Graph/count().md
 - [[count()_2]] - document - vault/Graph/count().md
-- [[count()_1]] - document - vault/Graph/count().md
+- [[free()_6]] - document - vault/Graph/free().md
 - [[free()_5]] - document - vault/Graph/free().md
-- [[free()_4]] - document - vault/Graph/free().md
 - [[get()_2]] - document - vault/Graph/get().md
 - [[get()_1]] - document - vault/Graph/get().md
+- [[laneSpot()_6]] - document - vault/Graph/laneSpot().md
 - [[laneSpot()_5]] - document - vault/Graph/laneSpot().md
-- [[laneSpot()_3]] - document - vault/Graph/laneSpot().md
-- [[laneSpot()_4]] - document - vault/Graph/laneSpot()_2.md
-- [[laneSpot()_2_1]] - document - vault/Graph/laneSpot()_2.md
-- [[linesFor()_5]] - document - vault/Graph/linesFor().md
-- [[linesFor()_3]] - document - vault/Graph/linesFor().md
-- [[linesFor()_4]] - document - vault/Graph/linesFor()_2.md
-- [[linesFor()_2_1]] - document - vault/Graph/linesFor()_2.md
+- [[linesFor()_4]] - document - vault/Graph/linesFor().md
+- [[linesFor()_2]] - document - vault/Graph/linesFor().md
+- [[makeGrunt()_6]] - document - vault/Graph/makeGrunt().md
 - [[makeGrunt()_5]] - document - vault/Graph/makeGrunt().md
-- [[makeGrunt()_3]] - document - vault/Graph/makeGrunt().md
-- [[makeGrunt()_4]] - document - vault/Graph/makeGrunt()_2.md
-- [[makeGrunt()_2_1]] - document - vault/Graph/makeGrunt()_2.md
-- [[nextScene()_4]] - document - vault/Graph/nextScene().md
-- [[nextScene()_1]] - document - vault/Graph/nextScene().md
-- [[nextScene()_3]] - document - vault/Graph/nextScene()_2.md
-- [[nextScene()_2]] - document - vault/Graph/nextScene()_2.md
-- [[part()_10]] - document - vault/Graph/part()_8.md
-- [[part()_11]] - document - vault/Graph/part().md
-- [[part()_7]] - document - vault/Graph/part().md
-- [[part()_9]] - document - vault/Graph/part()_7.md
-- [[part()_7_1]] - document - vault/Graph/part()_7.md
-- [[part()_8]] - document - vault/Graph/part()_8.md
-- [[script_parent_tutorialservice_4]] - document - vault/Graph/script_parent_tutorialservice.md
-- [[script_parent_tutorialservice]] - document - vault/Graph/script_parent_tutorialservice.md
-- [[script_parent_tutorialservice_3]] - document - vault/Graph/script_parent_tutorialservice_1.md
-- [[script_parent_tutorialservice_1]] - document - vault/Graph/script_parent_tutorialservice_1.md
-- [[script_parent_tutorialservice_2]] - document - vault/Graph/script_parent_tutorialservice_2.md
-- [[script_parent_tutorialservice_2_1]] - document - vault/Graph/script_parent_tutorialservice_2.md
+- [[nextScene()_3]] - document - vault/Graph/nextScene().md
+- [[nextScene()_2]] - document - vault/Graph/nextScene().md
+- [[part()_16]] - document - vault/Graph/part().md
+- [[part()_15]] - document - vault/Graph/part().md
 - [[setupWorld()_2]] - document - vault/Graph/setupWorld().md
 - [[setupWorld()_1]] - document - vault/Graph/setupWorld().md
-- [[sync()_5]] - document - vault/Graph/sync()_2.md
-- [[sync()_7]] - document - vault/Graph/sync()_4.md
+- [[sync()_12]] - document - vault/Graph/sync()_2.md
 - [[sync()_2_2]] - document - vault/Graph/sync()_2.md
-- [[sync()_4_1]] - document - vault/Graph/sync()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -150,28 +107,27 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 22 edges to [[_COMMUNITY_Community 86]]
-- 14 edges to [[_COMMUNITY_Community 168]]
-- 4 edges to [[_COMMUNITY_Community 134]]
-- 4 edges to [[_COMMUNITY_Community 490]]
-- 2 edges to [[_COMMUNITY_Community 787]]
-- 2 edges to [[_COMMUNITY_Community 97]]
-- 1 edge to [[_COMMUNITY_Community 1070]]
-- 1 edge to [[_COMMUNITY_Community 12]]
-- 1 edge to [[_COMMUNITY_Community 120]]
-- 1 edge to [[_COMMUNITY_Community 211]]
-- 1 edge to [[_COMMUNITY_Community 320]]
-- 1 edge to [[_COMMUNITY_Community 257]]
-- 1 edge to [[_COMMUNITY_Community 362]]
-- 1 edge to [[_COMMUNITY_Community 292]]
-- 1 edge to [[_COMMUNITY_Community 90]]
-- 1 edge to [[_COMMUNITY_Community 266]]
-- 1 edge to [[_COMMUNITY_Community 706]]
-- 1 edge to [[_COMMUNITY_Community 93]]
+- 26 edges to [[_COMMUNITY_Community 320]]
+- 9 edges to [[_COMMUNITY_Community 276]]
+- 4 edges to [[_COMMUNITY_Community 844]]
+- 3 edges to [[_COMMUNITY_Community 112]]
+- 2 edges to [[_COMMUNITY_Community 1075]]
+- 2 edges to [[_COMMUNITY_Community 225]]
+- 2 edges to [[_COMMUNITY_Community 53]]
+- 1 edge to [[_COMMUNITY_Community 123]]
+- 1 edge to [[_COMMUNITY_Community 1315]]
+- 1 edge to [[_COMMUNITY_Community 1674]]
+- 1 edge to [[_COMMUNITY_Community 566]]
+- 1 edge to [[_COMMUNITY_Community 652]]
+- 1 edge to [[_COMMUNITY_Community 3105]]
+- 1 edge to [[_COMMUNITY_Community 277]]
+- 1 edge to [[_COMMUNITY_Community 97]]
+- 1 edge to [[_COMMUNITY_Community 33]]
+- 1 edge to [[_COMMUNITY_Community 895]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 14]] - degree 51, connects to 11 communities
-- [[_COMMUNITY_Community 24]] - degree 33, connects to 8 communities
-- [[setupWorld()_1]] - degree 12, connects to 2 communities
-- [[_COMMUNITY_Community 320]] - degree 8, connects to 2 communities
-- [[commands.juniper()_3]] - degree 4, connects to 2 communities
+- [[_COMMUNITY_Community 14]] - degree 69, connects to 14 communities
+- [[complete()_1]] - degree 10, connects to 3 communities
+- [[StoryService.onLoaded()_1]] - degree 9, connects to 3 communities
+- [[StoryService.luau_7]] - degree 23, connects to 2 communities
+- [[setupWorld()_1]] - degree 11, connects to 1 community

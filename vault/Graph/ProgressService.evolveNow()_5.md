@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/ProgressService.evolveNow().md"
+source_file: "vault/Graph/ProgressService.evolveNow()_5.md"
 type: "document"
-community: "Community 86"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_168
 ---
 
-# ProgressService.evolveNow().md
+# ProgressService.evolveNow()_5.md
 
 ## Connections
-- [[BaseManager.evolve()_3]] - `references` [EXTRACTED]
-- [[ProgressService.evolveNow()_6]] - `contains` [EXTRACTED]
-- [[ProgressService.luau_3]] - `references` [EXTRACTED]
-- [[SaveService.requestSave()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[ProgressService.evolveNow()_7]] - `contains` [EXTRACTED]
+- [[ProgressService.evolveNow()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_168

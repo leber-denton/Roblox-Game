@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/pill().md"
+source_file: "vault/Graph/Connections_2145.md"
 type: "document"
-community: "Community 212"
-location: "L14"
+community: "Community 1177"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_212
+  - community/Community_1177
 ---
 
 # Connections
 
 ## Connections
-- [[pill()_4]] - `contains` [EXTRACTED]
+- [[Connections_3093]] - `contains` [EXTRACTED]
+- [[Connections_2145_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_212
+#graphify/document #graphify/EXTRACTED #community/Community_1177

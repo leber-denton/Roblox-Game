@@ -12,7 +12,7 @@ tags:
 # round()
 
 ## Connections
-- [[CreatureIndex.client.luau_5]] - `contains` [EXTRACTED]
-- [[new()_6]] - `calls` [EXTRACTED]
+- [[CreatureIndex.client.luau_8]] - `contains` [EXTRACTED]
+- [[new()_5]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_420

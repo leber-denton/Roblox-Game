@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Features.wings()_2.md"
+source_file: "vault/Graph/Connections_3077.md"
 type: "document"
-community: "Community 469"
-location: "L14"
+community: "Community 124"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_469
+  - community/Community_124
 ---
 
 # Connections
 
 ## Connections
-- [[Features.wings()_4]] - `contains` [EXTRACTED]
+- [[Connections_4350]] - `contains` [EXTRACTED]
+- [[Connections_3077_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_469
+#graphify/document #graphify/EXTRACTED #community/Community_124

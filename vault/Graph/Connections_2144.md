@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GraphRouteTrainerService.md"
+source_file: "vault/Graph/Connections to other communities_105.md"
 type: "document"
-community: "Community 161"
+community: "Community 1117"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_161
+  - community/Community_1117
 ---
 
 # Connections
 
 ## Connections
-- [[GraphRouteTrainerService_2]] - `contains` [EXTRACTED]
+- [[Connections to other communities_143]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_161
+#graphify/document #graphify/EXTRACTED #community/Community_1117

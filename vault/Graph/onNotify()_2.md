@@ -12,8 +12,9 @@ tags:
 # onNotify()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 206]] - `references` [EXTRACTED]
-- [[onNotify()_1]] - `references` [EXTRACTED]
-- [[onNotify()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_405_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 103]] - `references` [EXTRACTED]
+- [[onNotify()_6]] - `contains` [EXTRACTED]
+- [[onNotify()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_206

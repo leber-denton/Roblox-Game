@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/LeaderboardService_1_1.md"
+source_file: "vault/Graph/LeaderboardService_1_2.md"
 type: "document"
-community: "Community 838"
-location: "L12"
+community: "Community 128"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_838
+  - community/Community_128
 ---
 
-# LeaderboardService_1.md
+# LeaderboardService_1_2.md
 
 ## Connections
-- [[Connections_5573]] - `contains` [EXTRACTED]
-- [[LeaderboardService_1_1_1]] - `contains` [EXTRACTED]
+- [[Connections_3577_1]] - `references` [EXTRACTED]
+- [[LeaderboardService_1_3]] - `contains` [EXTRACTED]
+- [[LeaderboardService_1_1]] - `references` [EXTRACTED]
+- [[LeaderboardService_1_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 128]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_838
+#graphify/document #graphify/EXTRACTED #community/Community_128

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Creature Quest Vault — Start Here_2.md"
+source_file: "vault/Graph/Creature Quest Vault — Start Here.md"
 type: "document"
-community: "Community 88"
+community: "Community 1578"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_1578
 ---
 
 # Creature Quest Vault — Start Here
 
 ## Connections
-- [[Connections_5926]] - `contains` [EXTRACTED]
-- [[Creature Quest Vault — Start Here_2]] - `contains` [EXTRACTED]
+- [[Connections_8751]] - `contains` [EXTRACTED]
+- [[Creature Quest Vault — Start Here_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_88
+#graphify/document #graphify/EXTRACTED #community/Community_1578

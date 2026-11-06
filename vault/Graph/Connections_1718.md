@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CodeBattleFX.md"
+source_file: "vault/Graph/Connections_181.md"
 type: "document"
-community: "Community 1391"
+community: "Community 110"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1391
+  - community/Community_110
 ---
 
 # Connections
 
 ## Connections
-- [[CodeBattleFX]] - `contains` [EXTRACTED]
+- [[Connections_1717]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1391
+#graphify/document #graphify/EXTRACTED #community/Community_110

@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GraphSprint.md"
+source_file: "vault/Graph/GraphSprint_2.md"
 type: "document"
 community: "Community 141"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_141
 ---
 
-# GraphSprint.md
+# GraphSprint_2.md
 
 ## Connections
-- [[Connections_1752]] - `contains` [EXTRACTED]
-- [[GraphSprint]] - `contains` [EXTRACTED]
+- [[GraphSprint]] - `references` [EXTRACTED]
+- [[GraphSprint_1]] - `references` [EXTRACTED]
+- [[GraphSprint_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 141]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_141

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/toast().md"
+source_file: "vault/Graph/Connections_104_1.md"
 type: "document"
-community: "Community 23"
+community: "Community 1184"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_23
+  - community/Community_1184
 ---
 
 # Connections
 
 ## Connections
-- [[toast()_2]] - `contains` [EXTRACTED]
+- [[Connections_104_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_23
+#graphify/document #graphify/EXTRACTED #community/Community_1184

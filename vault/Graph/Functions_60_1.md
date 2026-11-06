@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Graph/Functions_60.md"
+source_file: "vault/Graph/Functions_60_1.md"
 type: "document"
-community: "Community 422"
+community: "Community 226"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_422
+  - community/Community_226
 ---
 
-# Functions_60.md
+# Functions_60_1.md
 
 ## Connections
-- [[CreatureLife_2]] - `references` [EXTRACTED]
-- [[Functions_138]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 28]] - `references` [EXTRACTED]
-- [[today()_4]] - `references` [EXTRACTED]
+- [[Functions_107_1]] - `references` [EXTRACTED]
+- [[Functions_60_2]] - `contains` [EXTRACTED]
+- [[GraphBag]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 203]] - `references` [EXTRACTED]
+- [[getInventory()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_422
+#graphify/document #graphify/EXTRACTED #community/Community_226

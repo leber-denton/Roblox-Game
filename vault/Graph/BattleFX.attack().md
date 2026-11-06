@@ -12,7 +12,7 @@ tags:
 # BattleFX.attack()
 
 ## Connections
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[charge()]] - `calls` [EXTRACTED]
 - [[effectPart()]] - `calls` [EXTRACTED]
 - [[groundRing()]] - `calls` [EXTRACTED]

@@ -12,8 +12,9 @@ tags:
 # AdminPanel.client.luau_1.md
 
 ## Connections
-- [[AdminPanel.client.luau]] - `contains` [EXTRACTED]
+- [[AdminPanel.client.luau]] - `references` [EXTRACTED]
+- [[AdminPanel.client.luau_1_1]] - `contains` [EXTRACTED]
 - [[AdminPanel.client.luau_2]] - `references` [EXTRACTED]
-- [[Connections_61]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1010]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1010

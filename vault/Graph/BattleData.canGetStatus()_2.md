@@ -12,8 +12,10 @@ tags:
 # BattleData.canGetStatus()_2.md
 
 ## Connections
-- [[BattleData.canGetStatus()_4]] - `contains` [EXTRACTED]
 - [[BattleData.canGetStatus()_1]] - `references` [EXTRACTED]
+- [[BattleData.canGetStatus()_2_1]] - `contains` [EXTRACTED]
+- [[BattleData.canGetStatus()_4]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 553]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_553

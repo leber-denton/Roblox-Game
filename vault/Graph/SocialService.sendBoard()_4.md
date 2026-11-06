@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/SocialService.sendBoard()_2.md"
+source_file: "vault/Graph/SocialService.sendBoard()_4.md"
 type: "document"
-community: "Community 682"
-location: "L12"
+community: "Community 2788"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_682
+  - community/Community_2788
 ---
 
-# SocialService.sendBoard()
+# SocialService.sendBoard()_4.md
 
 ## Connections
-- [[Connections_5036]] - `contains` [EXTRACTED]
-- [[SocialService.sendBoard()_2_1]] - `contains` [EXTRACTED]
+- [[SocialService.sendBoard()_2]] - `contains` [EXTRACTED]
+- [[SocialService.sendBoard()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_682
+#graphify/document #graphify/EXTRACTED #community/Community_2788

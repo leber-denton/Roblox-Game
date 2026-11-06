@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Community 423
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[CodeDungeonClient]] - document - vault/Graph/CodeDungeonClient.md
-- [[CodeDungeonClient_1]] - document - vault/Graph/CodeDungeonClient.md
-- [[Connections_4230]] - document - vault/Graph/CodeDungeonClient.md
-- [[Connections_4231]] - document - vault/Graph/DungeonClient_2.md
-- [[DungeonClient_2]] - document - vault/Graph/DungeonClient_2.md
-- [[DungeonClient_2_1]] - document - vault/Graph/DungeonClient_2.md
+- [[Community 423]] - document - vault/Graph/_COMMUNITY_Community 423.md
+- [[Connections to other communities_1279]] - document - vault/Graph/_COMMUNITY_Community 423.md
+- [[Live Query (requires Dataview plugin)_1507]] - document - vault/Graph/_COMMUNITY_Community 423.md
+- [[Members_1510]] - document - vault/Graph/_COMMUNITY_Community 423.md
+- [[Top bridge nodes_1279]] - document - vault/Graph/_COMMUNITY_Community 423.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 125]]
+- 1 edge to [[_COMMUNITY_Community 1189]]
 
 ## Top bridge nodes
-- [[CodeDungeonClient]] - degree 3, connects to 1 community
-- [[DungeonClient_2]] - degree 3, connects to 1 community
+- [[Community 423]] - degree 5, connects to 1 community

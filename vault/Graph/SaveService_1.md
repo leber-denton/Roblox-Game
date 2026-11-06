@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Systems/SaveService.md"
+source_file: "vault/Graph/SaveService_1_2.md"
 type: "document"
-community: "Community 3"
-location: "L1"
+community: "Community 1069"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_3
+  - community/Community_1069
 ---
 
-# SaveService
+# SaveService_1.md
 
 ## Connections
-- [[Extending]] - `contains` [EXTRACTED]
-- [[Load (called from `Main.server` on join)]] - `contains` [EXTRACTED]
-- [[Related_1]] - `contains` [EXTRACTED]
-- [[Save]] - `contains` [EXTRACTED]
-- [[SystemsSaveService]] - `contains` [EXTRACTED]
-- [[When saves happen]] - `contains` [EXTRACTED]
+- [[Connections_1147]] - `contains` [EXTRACTED]
+- [[SaveService_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_3
+#graphify/document #graphify/EXTRACTED #community/Community_1069

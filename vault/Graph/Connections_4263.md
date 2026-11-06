@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.heal()_1.md"
+source_file: "vault/Graph/LockedLanes_1_1.md"
 type: "document"
-community: "Community 437"
+community: "Community 1238"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_437
+  - community/Community_1238
 ---
 
 # Connections
 
 ## Connections
-- [[commands.heal()_3]] - `contains` [EXTRACTED]
+- [[LockedLanes_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_437
+#graphify/document #graphify/EXTRACTED #community/Community_1238

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Members_82.md"
+source_file: "vault/Graph/BattleData.rollIVs()_4.md"
 type: "document"
-community: "Community 236"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_236
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[Members_219]] - `contains` [EXTRACTED]
+- [[BattleData.rollIVs()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_236
+#graphify/document #graphify/EXTRACTED #community/Community_1187

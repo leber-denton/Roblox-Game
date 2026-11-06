@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/clearContent().md"
+source_file: "vault/Graph/clearContent()_1_1.md"
 type: "document"
-community: "Community 23"
-location: "L1"
+community: "Community 2693"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_23
+  - community/Community_2693
 ---
 
-# clearContent().md
+# clearContent()_1.md
 
 ## Connections
-- [[DecorUI.client.luau_2_1]] - `references` [EXTRACTED]
-- [[Functions_72_1]] - `references` [EXTRACTED]
-- [[Functions_77_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[clearContent()_2]] - `contains` [EXTRACTED]
+- [[Connections_15061]] - `contains` [EXTRACTED]
+- [[clearContent()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_23
+#graphify/document #graphify/EXTRACTED #community/Community_2693

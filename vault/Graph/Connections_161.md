@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.horns()_2.md"
+source_file: "vault/Graph/zeroStages()_1.md"
 type: "document"
-community: "Community 1062"
+community: "Community 101"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1062
+  - community/Community_101
 ---
 
 # Connections
 
 ## Connections
-- [[Features.horns()_4]] - `contains` [EXTRACTED]
+- [[zeroStages()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1062
+#graphify/document #graphify/EXTRACTED #community/Community_101

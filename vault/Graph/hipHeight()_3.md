@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/hipHeight()_2.md"
+source_file: "vault/Graph/hipHeight()_3.md"
 type: "document"
 community: "Community 134"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_134
 ---
 
-# hipHeight().md
+# hipHeight()_3.md
 
 ## Connections
-- [[Connections_1492]] - `contains` [EXTRACTED]
-- [[hipHeight()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
+- [[hipHeight()_2]] - `references` [EXTRACTED]
+- [[hipHeight()_3_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

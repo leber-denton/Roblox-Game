@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Shapes.fish()_1.md"
+source_file: "vault/Graph/Shapes.fish()_1_2.md"
 type: "document"
-community: "Community 972"
-location: "L12"
+community: "Community 1696"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_972
+  - community/Community_1696
 ---
 
-# Shapes.fish()_1.md
+# Shapes.fish()_1_2.md
 
 ## Connections
-- [[Connections_6308]] - `contains` [EXTRACTED]
-- [[Shapes.fish()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_6308_1]] - `references` [EXTRACTED]
+- [[Shapes.fish()_1_3]] - `contains` [EXTRACTED]
+- [[Shapes.fish()_1_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_972
+#graphify/document #graphify/EXTRACTED #community/Community_1696

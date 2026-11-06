@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.unlockExpansion()_1.md"
+source_file: "vault/Graph/Connections_4715.md"
 type: "document"
-community: "Community 1022"
-location: "L14"
+community: "Community 1001"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1022
+  - community/Community_1001
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.unlockExpansion()_2]] - `contains` [EXTRACTED]
+- [[Connections_64]] - `contains` [EXTRACTED]
+- [[Connections_4715]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1022
+#graphify/document #graphify/EXTRACTED #community/Community_1001

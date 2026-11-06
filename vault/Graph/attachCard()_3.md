@@ -12,7 +12,7 @@ tags:
 # attachCard()
 
 ## Connections
-- [[Connections_1052]] - `contains` [EXTRACTED]
+- [[Connections_3639]] - `contains` [EXTRACTED]
 - [[attachCard()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

@@ -1,18 +1,19 @@
 ---
 type: community
-members: 39
+members: 40
 ---
 
 # Community 7
 
-**Members:** 39 nodes
+**Members:** 40 nodes
 
 ## Members
-- [[BattleUI_3]] - document - vault/Code/BattleUI.md
-- [[BattleUI.client.luau_3]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
-- [[Functions_170]] - document - vault/Code/BattleUI.md
-- [[Required by_161]] - document - vault/Code/BattleUI.md
-- [[Requires_168]] - document - vault/Code/BattleUI.md
+- [[BattleUI.client.luau_7]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
+- [[Functions_232]] - document - vault/Code/BattleUI.md
+- [[GameData.ballMultiplier()]] - code - src/ReplicatedStorage/Shared/GameData.luau
+- [[GameData.ballOrder()]] - code - src/ReplicatedStorage/Shared/GameData.luau
+- [[GameData.battleItemOrder()]] - code - src/ReplicatedStorage/Shared/GameData.luau
+- [[GameData.medicineOrder()]] - code - src/ReplicatedStorage/Shared/GameData.luau
 - [[act()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
 - [[animateXP()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
 - [[applyState()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
@@ -25,7 +26,7 @@ members: 39
 - [[hex()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
 - [[hpColor()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
 - [[inventory()_1]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
-- [[label()_4]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
+- [[label()_3]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
 - [[lockButton()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
 - [[makeCard()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
 - [[moveStyle()]] - code - src/StarterPlayer/StarterPlayerScripts/BattleUI.client.luau
@@ -57,14 +58,15 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 8 edges to [[_COMMUNITY_Community 235]]
-- 5 edges to [[_COMMUNITY_Community 15]]
-- 1 edge to [[_COMMUNITY_Community 215]]
-- 1 edge to [[_COMMUNITY_Community 418]]
-- 1 edge to [[_COMMUNITY_Community 250]]
-- 1 edge to [[_COMMUNITY_Community 74]]
+- 4 edges to [[_COMMUNITY_Community 15]]
+- 2 edges to [[_COMMUNITY_Community 418]]
+- 1 edge to [[_COMMUNITY_Community 185]]
+- 1 edge to [[_COMMUNITY_Community 3044]]
+- 1 edge to [[_COMMUNITY_Community 214]]
 
 ## Top bridge nodes
-- [[BattleUI.client.luau_3]] - degree 36, connects to 2 communities
+- [[BattleUI.client.luau_7]] - degree 36, connects to 2 communities
 - [[playTurn()]] - degree 19, connects to 2 communities
 - [[showMenu()]] - degree 19, connects to 1 community
-- [[BattleUI_3]] - degree 4, connects to 1 community
+- [[Functions_232]] - degree 6, connects to 1 community
+- [[GameData.ballMultiplier()]] - degree 2, connects to 1 community

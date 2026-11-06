@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/ProgressService.checkIndex().md"
+source_file: "vault/Graph/ProgressService.checkIndex()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2293"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2293
 ---
 
-# ProgressService.checkIndex().md
+# ProgressService.checkIndex()_3.md
 
 ## Connections
-- [[PlayerData.addCoins()_3]] - `references` [EXTRACTED]
-- [[PlayerData.get()_3]] - `references` [EXTRACTED]
-- [[ProgressService.checkIndex()_4]] - `contains` [EXTRACTED]
-- [[ProgressService.init()_4]] - `references` [EXTRACTED]
-- [[ProgressService.luau_3]] - `references` [EXTRACTED]
-- [[ProgressService.onJoin()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
+- [[ProgressService.checkIndex()_5]] - `contains` [EXTRACTED]
+- [[ProgressService.checkIndex()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2293

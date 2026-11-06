@@ -18,7 +18,7 @@ tags:
 - [[applyState()_1]] - `references` [EXTRACTED]
 - [[playTurn()_1]] - `references` [EXTRACTED]
 - [[setCard()_1_1]] - `contains` [EXTRACTED]
-- [[setCard()_2_1]] - `references` [EXTRACTED]
+- [[setCard()_1_1_1]] - `references` [EXTRACTED]
 - [[setCardHP()_1]] - `references` [EXTRACTED]
 - [[setStatus()_1_1]] - `references` [EXTRACTED]
 

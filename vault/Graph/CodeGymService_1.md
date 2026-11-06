@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/CodeGymService.md"
+source_file: "vault/Graph/CodeGymService_1.md"
 type: "document"
-community: "Community 1042"
-location: "L12"
+community: "Community 851"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1042
+  - community/Community_851
 ---
 
-# Code/GymService.md
+# CodeGymService_1.md
 
 ## Connections
-- [[CodeGymService]] - `contains` [EXTRACTED]
-- [[Connections_109]] - `contains` [EXTRACTED]
+- [[CodeGymService_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1042]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 550]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1042
+#graphify/document #graphify/EXTRACTED #community/Community_851

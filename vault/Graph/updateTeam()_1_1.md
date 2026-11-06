@@ -1,21 +1,18 @@
 ---
 source_file: "vault/Graph/updateTeam()_1.md"
 type: "document"
-community: "Community 149"
-location: "L1"
+community: "Community 1860"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_149
+  - community/Community_1860
 ---
 
 # updateTeam()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 212]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[updateTeam()_1_2]] - `contains` [EXTRACTED]
-- [[updateTeam()_2_1]] - `references` [EXTRACTED]
+- [[Connections_11107]] - `contains` [EXTRACTED]
+- [[updateTeam()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_149
+#graphify/document #graphify/EXTRACTED #community/Community_1860

@@ -1,28 +1,34 @@
 ---
 type: community
-members: 15
+members: 21
 ---
 
 # Community 246
 
-**Members:** 15 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Connections_3437]] - document - vault/Graph/Requires_17.md
-- [[Connections_3438]] - document - vault/Graph/Requires_46.md
-- [[Connections_3439]] - document - vault/Graph/Requires_49_1.md
-- [[Connections_3440]] - document - vault/Graph/Requires_49.md
-- [[Connections_3441]] - document - vault/Graph/Requires_50.md
-- [[Requires_70]] - document - vault/Graph/Requires_17.md
-- [[Requires_17_1]] - document - vault/Graph/Requires_17.md
-- [[Requires_46_1]] - document - vault/Graph/Requires_46.md
-- [[Requires_46_2]] - document - vault/Graph/Requires_46.md
-- [[Requires_49_1]] - document - vault/Graph/Requires_49.md
-- [[Requires_49_2]] - document - vault/Graph/Requires_49_1.md
-- [[Requires_49_3]] - document - vault/Graph/Requires_49.md
-- [[Requires_49_1_1]] - document - vault/Graph/Requires_49_1.md
-- [[Requires_50_1]] - document - vault/Graph/Requires_50.md
-- [[Requires_50_2]] - document - vault/Graph/Requires_50.md
+- [[BattleFX.levelUp()_8]] - document - vault/Graph/BattleFX.levelUp()_4.md
+- [[BattleFX.levelUp()_7]] - document - vault/Graph/BattleFX.levelUp()_3.md
+- [[BattleFX.levelUp()_3_1]] - document - vault/Graph/BattleFX.levelUp()_3.md
+- [[BattleFX.levelUp()_4_1]] - document - vault/Graph/BattleFX.levelUp()_4.md
+- [[BattleFX.statusMove()_8]] - document - vault/Graph/BattleFX.statusMove()_4.md
+- [[BattleFX.statusMove()_7]] - document - vault/Graph/BattleFX.statusMove()_3.md
+- [[BattleFX.statusMove()_3_1]] - document - vault/Graph/BattleFX.statusMove()_3.md
+- [[BattleFX.statusMove()_4_1]] - document - vault/Graph/BattleFX.statusMove()_4.md
+- [[Connections_14101]] - document - vault/Graph/BattleFX.levelUp()_3.md
+- [[Connections_14102]] - document - vault/Graph/BattleFX.levelUp()_4.md
+- [[Connections_14103]] - document - vault/Graph/BattleFX.statusMove()_3.md
+- [[Connections_14104]] - document - vault/Graph/BattleFX.statusMove()_4.md
+- [[Connections_14105]] - document - vault/Graph/burst()_1_2.md
+- [[Connections_14106]] - document - vault/Graph/flash()_3.md
+- [[Connections_14107]] - document - vault/Graph/flash()_4.md
+- [[burst()_1_3]] - document - vault/Graph/burst()_1_2.md
+- [[burst()_1_2_1]] - document - vault/Graph/burst()_1_2.md
+- [[flash()_7]] - document - vault/Graph/flash()_4.md
+- [[flash()_6]] - document - vault/Graph/flash()_3.md
+- [[flash()_3_1]] - document - vault/Graph/flash()_3.md
+- [[flash()_4_1]] - document - vault/Graph/flash()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,13 +38,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_Community 397]]
-- 1 edge to [[_COMMUNITY_Community 160]]
-- 1 edge to [[_COMMUNITY_Community 453]]
+- 7 edges to [[_COMMUNITY_Community 168]]
+- 7 edges to [[_COMMUNITY_Community 95]]
+- 4 edges to [[_COMMUNITY_Community 346]]
+- 2 edges to [[_COMMUNITY_Community 138]]
 
 ## Top bridge nodes
-- [[Requires_49_1]] - degree 6, connects to 3 communities
-- [[Requires_46_1]] - degree 4, connects to 1 community
-- [[Requires_50_1]] - degree 4, connects to 1 community
-- [[Requires_49_1_1]] - degree 3, connects to 1 community
-- [[Requires_17_1]] - degree 3, connects to 1 community
+- [[BattleFX.levelUp()_3_1]] - degree 9, connects to 4 communities
+- [[BattleFX.statusMove()_3_1]] - degree 9, connects to 4 communities
+- [[burst()_1_2_1]] - degree 7, connects to 3 communities
+- [[flash()_3_1]] - degree 7, connects to 3 communities
+- [[flash()_4_1]] - degree 3, connects to 1 community

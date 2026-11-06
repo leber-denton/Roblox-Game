@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Menus_2.md"
+source_file: "vault/Graph/Menus_4.md"
 type: "document"
-community: "Community 717"
-location: "L12"
+community: "Community 2033"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_717
+  - community/Community_2033
 ---
 
-# Menus
+# Menus_4.md
 
 ## Connections
-- [[Connections_5156]] - `contains` [EXTRACTED]
-- [[Menus_2_1]] - `contains` [EXTRACTED]
+- [[Menus_2]] - `contains` [EXTRACTED]
+- [[Menus_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 498]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_717
+#graphify/document #graphify/EXTRACTED #community/Community_2033

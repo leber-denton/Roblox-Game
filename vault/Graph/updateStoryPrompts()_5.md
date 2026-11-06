@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/updateStoryPrompts().md"
+source_file: "vault/Graph/updateStoryPrompts()_5.md"
 type: "document"
-community: "Community 234"
+community: "Community 1444"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_1444
 ---
 
-# updateStoryPrompts().md
+# updateStoryPrompts()_5.md
 
 ## Connections
-- [[Functions_26_3]] - `references` [EXTRACTED]
-- [[Functions_52]] - `references` [EXTRACTED]
-- [[Story.client.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[updateStoryPrompts()_6]] - `contains` [EXTRACTED]
+- [[Connections_2843_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
+- [[updateStoryPrompts()_4]] - `contains` [EXTRACTED]
+- [[updateStoryPrompts()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_1444

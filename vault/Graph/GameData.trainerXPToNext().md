@@ -12,7 +12,7 @@ tags:
 # GameData.trainerXPToNext()
 
 ## Connections
-- [[GameData.luau_3]] - `contains` [EXTRACTED]
+- [[GameData.luau]] - `contains` [EXTRACTED]
 - [[PlayerData.addXP()]] - `calls` [INFERRED]
 - [[sync()_1]] - `calls` [INFERRED]
 

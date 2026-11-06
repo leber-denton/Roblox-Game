@@ -8,12 +8,12 @@ members: 12
 **Members:** 12 nodes
 
 ## Members
-- [[ModelSyncTests.luau_4]] - code - tests/ModelSyncTests.luau
+- [[ModelSyncTests.luau_8]] - code - tests/ModelSyncTests.luau
 - [[Tests.run()]] - code - tests/ModelSyncTests.luau
-- [[WildShiftTests.luau_5]] - code - tests/WildShiftTests.luau
+- [[WildShiftTests.luau_6]] - code - tests/WildShiftTests.luau
 - [[check()_2]] - code - tests/WildShiftTests.luau
-- [[game_replicatedstorage_shared_gamedata_5]] - concept
-- [[game_serverscriptservice_modules_wildspawner_5]] - concept
+- [[game_replicatedstorage_shared_gamedata_9]] - concept
+- [[game_serverscriptservice_modules_wildspawner_8]] - concept
 - [[near()]] - code - tests/ModelSyncTests.luau
 - [[pivotOf()]] - code - tests/ModelSyncTests.luau
 - [[sameCF()]] - code - tests/ModelSyncTests.luau

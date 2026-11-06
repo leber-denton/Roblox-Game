@@ -1,19 +1,31 @@
 ---
 type: community
-members: 6
+members: 18
 ---
 
 # Community 499
 
-**Members:** 6 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Connections_4438]] - document - vault/Graph/Requires_115.md
-- [[Connections_4439]] - document - vault/Graph/Requires_11_1.md
-- [[Requires_143]] - document - vault/Graph/Requires_115.md
-- [[Requires_11_2]] - document - vault/Graph/Requires_11_1.md
-- [[Requires_115_1]] - document - vault/Graph/Requires_115.md
-- [[Requires_11_1_1]] - document - vault/Graph/Requires_11_1.md
+- [[CodeDecorService_4]] - document - vault/Graph/CodeDecorService_2.md
+- [[CodeDecorService_3]] - document - vault/Graph/CodeDecorService_1.md
+- [[CodeDecorService_1_1]] - document - vault/Graph/CodeDecorService_1.md
+- [[CodeDecorService_2_1]] - document - vault/Graph/CodeDecorService_2.md
+- [[Connections_20065]] - document - vault/Graph/CodeDecorService_1.md
+- [[Connections_20066]] - document - vault/Graph/CodeDecorService_2.md
+- [[Connections_20067]] - document - vault/Graph/Connections_2250.md
+- [[Connections_20068]] - document - vault/Graph/Connections_2250.md
+- [[Connections_20069]] - document - vault/Graph/Connections_2295.md
+- [[Connections_20070]] - document - vault/Graph/Connections_2295.md
+- [[Connections_20071]] - document - vault/Graph/Connections_2296.md
+- [[Connections_20072]] - document - vault/Graph/Connections_2296.md
+- [[Connections_20073]] - document - vault/Graph/Connections_607_1.md
+- [[Connections_2250_1]] - document - vault/Graph/Connections_2250.md
+- [[Connections_2295_1]] - document - vault/Graph/Connections_2295.md
+- [[Connections_2296_1]] - document - vault/Graph/Connections_2296.md
+- [[Connections_607_2]] - document - vault/Graph/Connections_607_1.md
+- [[Connections_607_1_1]] - document - vault/Graph/Connections_607_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +35,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 966]]
-- 1 edge to [[_COMMUNITY_Community 836]]
+- 6 edges to [[_COMMUNITY_Community 34]]
+- 1 edge to [[_COMMUNITY_Community 119]]
 
 ## Top bridge nodes
-- [[Requires_11_1_1]] - degree 4, connects to 2 communities
+- [[CodeDecorService_1_1]] - degree 5, connects to 2 communities
+- [[Connections_607_1_1]] - degree 4, connects to 1 community
+- [[Connections_2295_1]] - degree 4, connects to 1 community
+- [[CodeDecorService_2_1]] - degree 4, connects to 1 community
+- [[Connections_2250_1]] - degree 3, connects to 1 community

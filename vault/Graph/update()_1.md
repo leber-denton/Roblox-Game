@@ -1,20 +1,19 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/FirstSpawnLock.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Music.client.luau"
 type: "code"
-community: "Community 35"
-location: "L48"
+community: "Community 529"
+location: "L105"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_35
+  - community/Community_529
 ---
 
 # update()
 
 ## Connections
-- [[FirstSpawnLock.client.luau]] - `contains` [EXTRACTED]
-- [[isLocked()]] - `calls` [EXTRACTED]
-- [[lockPrompt()]] - `calls` [EXTRACTED]
-- [[unlockAll()]] - `calls` [EXTRACTED]
+- [[Music.client.luau_7]] - `contains` [EXTRACTED]
+- [[switch()]] - `calls` [EXTRACTED]
+- [[wanted()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_35
+#graphify/code #graphify/EXTRACTED #community/Community_529

@@ -1,21 +1,22 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 106.md"
+source_file: "vault/Graph/Community 106.md"
 type: "document"
-community: "Community 864"
-location: "L6"
+community: "Community 1386"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_864
+  - community/Community_1386
 ---
 
-# Community 106
+# Community 106.md
 
 ## Connections
-- [[Connections to other communities_362]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_405]] - `contains` [EXTRACTED]
-- [[Members_405]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_364]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 106]] - `contains` [EXTRACTED]
+- [[Community 106_1]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_405_1]] - `references` [EXTRACTED]
+- [[Members_405_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1386]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 864]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_864
+#graphify/document #graphify/EXTRACTED #community/Community_1386

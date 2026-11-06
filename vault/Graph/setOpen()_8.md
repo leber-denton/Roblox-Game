@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/setOpen()_4.md"
+source_file: "vault/Graph/setOpen()_8.md"
 type: "document"
-community: "Community 470"
-location: "L12"
+community: "Community 226"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_470
+  - community/Community_226
 ---
 
-# setOpen().md
+# setOpen()_8.md
 
 ## Connections
-- [[Connections_4351]] - `contains` [EXTRACTED]
-- [[setOpen()_4_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 203]] - `references` [EXTRACTED]
+- [[refresh()_7_1]] - `references` [EXTRACTED]
+- [[setOpen()_9]] - `contains` [EXTRACTED]
+- [[updateVisible()_1_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_470
+#graphify/document #graphify/EXTRACTED #community/Community_226

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Features.flameTail()_2.md"
+source_file: "vault/Graph/sameCF()_3.md"
 type: "document"
-community: "Community 699"
+community: "Community 1286"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_699
+  - community/Community_1286
 ---
 
 # Connections
 
 ## Connections
-- [[Features.flameTail()_4]] - `contains` [EXTRACTED]
+- [[sameCF()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_699
+#graphify/document #graphify/EXTRACTED #community/Community_1286

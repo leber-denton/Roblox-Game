@@ -1,19 +1,17 @@
 ---
 type: community
-members: 6
+members: 4
 ---
 
 # Community 624
 
-**Members:** 6 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Connections_4829]] - document - vault/Graph/Connections_485.md
-- [[Connections_4830]] - document - vault/Graph/Connections_485.md
-- [[Connections_4831]] - document - vault/Graph/PassService.onCharacter()_1.md
-- [[Connections_485_1]] - document - vault/Graph/Connections_485.md
-- [[PassService.onCharacter()_2]] - document - vault/Graph/PassService.onCharacter()_1.md
-- [[PassService.onCharacter()_1]] - document - vault/Graph/PassService.onCharacter()_1.md
+- [[Community 624]] - document - vault/Graph/_COMMUNITY_Community 624.md
+- [[Live Query (requires Dataview plugin)_1674]] - document - vault/Graph/_COMMUNITY_Community 624.md
+- [[Members_1674]] - document - vault/Graph/_COMMUNITY_Community 624.md
+- [[_COMMUNITY_Community 624]] - document - vault/Graph/_COMMUNITY_Community 624.md
 
 ## Live Query (requires Dataview plugin)
 

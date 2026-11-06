@@ -1,27 +1,18 @@
 ---
-source_file: "vault/Graph/begin().md"
+source_file: "vault/Graph/begin()_1.md"
 type: "document"
-community: "Community 24"
+community: "Community 1692"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1692
 ---
 
-# begin().md
+# begin()_1.md
 
 ## Connections
-- [[StoryService.luau_1]] - `references` [EXTRACTED]
-- [[StoryService.luau_2]] - `references` [EXTRACTED]
-- [[StoryService.requestMilestone()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
-- [[begin()_4]] - `contains` [EXTRACTED]
-- [[check()_1_1]] - `references` [EXTRACTED]
-- [[free()_4]] - `references` [EXTRACTED]
-- [[get()_1]] - `references` [EXTRACTED]
-- [[linesFor()_3]] - `references` [EXTRACTED]
-- [[nextScene()_1]] - `references` [EXTRACTED]
-- [[sync()_2_2]] - `references` [EXTRACTED]
+- [[begin()_1_2]] - `contains` [EXTRACTED]
+- [[begin()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1692

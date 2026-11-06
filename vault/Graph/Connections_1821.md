@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/WeeklyEventService.startNow().md"
+source_file: "vault/Graph/Top bridge nodes_102.md"
 type: "document"
-community: "Community 144"
+community: "Community 1101"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_144
+  - community/Community_1101
 ---
 
 # Connections
 
 ## Connections
-- [[WeeklyEventService.startNow()_2]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_128]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_144
+#graphify/document #graphify/EXTRACTED #community/Community_1101

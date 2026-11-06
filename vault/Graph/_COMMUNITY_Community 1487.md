@@ -1,15 +1,19 @@
 ---
 type: community
-members: 2
+members: 6
 ---
 
 # Community 1487
 
-**Members:** 2 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_1953]] - document - vault/Graph/Where to edit things_2.md
-- [[Where to edit things_2]] - document - vault/Graph/Where to edit things_2.md
+- [[Connections_7954]] - document - vault/Graph/Connections_1952.md
+- [[Connections_7955]] - document - vault/Graph/Connections_1952.md
+- [[Connections_7956]] - document - vault/Graph/Connections_1953.md
+- [[Connections_7957]] - document - vault/Graph/Connections_1953.md
+- [[Connections_1952_1]] - document - vault/Graph/Connections_1952.md
+- [[Connections_1953_1]] - document - vault/Graph/Connections_1953.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +23,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 350]]
+- 2 edges to [[_COMMUNITY_Community 1771]]
+- 1 edge to [[_COMMUNITY_Community 2302]]
 
 ## Top bridge nodes
-- [[Where to edit things_2]] - degree 2, connects to 1 community
+- [[Connections_1952_1]] - degree 4, connects to 2 communities
+- [[Connections_1953_1]] - degree 3, connects to 1 community

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Syncing to Studio_2.md"
+source_file: "vault/Graph/stage()_1_1.md"
 type: "document"
-community: "Community 968"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_968
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Syncing to Studio_2_2]] - `contains` [EXTRACTED]
+- [[stage()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_968
+#graphify/document #graphify/EXTRACTED #community/Community_134

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/PlayerData.hasBadge().md"
+source_file: "vault/Graph/BattleService.onEnded()_2.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[PlayerData.hasBadge()_3]] - `contains` [EXTRACTED]
+- [[BattleService.onEnded()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

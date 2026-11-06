@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_39.md"
+source_file: "vault/Code/GameData.md"
 type: "document"
-community: "Community 145"
-location: "L1"
+community: "Community 13"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_145
+  - community/Community_13
 ---
 
-# Requires_39.md
+# Requires
 
 ## Connections
-- [[AdminService_1]] - `references` [EXTRACTED]
-- [[Requires_39_3]] - `contains` [EXTRACTED]
-- [[Requires_39_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 145]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 63]] - `references` [EXTRACTED]
+- [[GameData]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_145
+#graphify/document #graphify/EXTRACTED #community/Community_13

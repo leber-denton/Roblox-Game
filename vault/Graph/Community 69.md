@@ -12,7 +12,9 @@ tags:
 # Community 69.md
 
 ## Connections
-- [[Community 69_1]] - `contains` [EXTRACTED]
+- [[Community 69_5]] - `contains` [EXTRACTED]
+- [[Community 69_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 157]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 308]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 69]] - `references` [EXTRACTED]
 

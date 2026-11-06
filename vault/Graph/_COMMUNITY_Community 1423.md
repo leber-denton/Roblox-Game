@@ -1,15 +1,19 @@
 ---
 type: community
-members: 2
+members: 6
 ---
 
 # Community 1423
 
-**Members:** 2 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_1780]] - document - vault/Graph/hubCFrame()_1.md
-- [[hubCFrame()_3]] - document - vault/Graph/hubCFrame()_1.md
+- [[Connections_7306]] - document - vault/Graph/Connections_5766.md
+- [[Connections_7307]] - document - vault/Graph/Connections_5766.md
+- [[Connections_7308]] - document - vault/Graph/Top bridge nodes_314.md
+- [[Connections_5766_1]] - document - vault/Graph/Connections_5766.md
+- [[Top bridge nodes_420]] - document - vault/Graph/Top bridge nodes_314.md
+- [[Top bridge nodes_314_1]] - document - vault/Graph/Top bridge nodes_314.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 2 edges to [[_COMMUNITY_Community 580]]
 
 ## Top bridge nodes
-- [[hubCFrame()_3]] - degree 2, connects to 1 community
+- [[Top bridge nodes_314_1]] - degree 3, connects to 1 community
+- [[Connections_5766_1]] - degree 3, connects to 1 community

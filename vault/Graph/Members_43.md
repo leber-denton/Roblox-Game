@@ -1,17 +1,20 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 350.md"
+source_file: "vault/Graph/Members_43.md"
 type: "document"
-community: "Community 1065"
-location: "L10"
+community: "Community 1035"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1065
+  - community/Community_1035
 ---
 
-# Members
+# Members_43.md
 
 ## Connections
-- [[Community 350]] - `contains` [EXTRACTED]
+- [[Connections_504_1]] - `references` [EXTRACTED]
+- [[Members_35]] - `contains` [EXTRACTED]
+- [[Members_114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1035]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1065
+#graphify/document #graphify/EXTRACTED #community/Community_1035

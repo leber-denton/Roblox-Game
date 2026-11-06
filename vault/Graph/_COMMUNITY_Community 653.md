@@ -1,19 +1,16 @@
 ---
 type: community
-members: 6
+members: 3
 ---
 
 # Community 653
 
-**Members:** 6 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Connections_4932]] - document - vault/Graph/owns()_1.md
-- [[Connections_4933]] - document - vault/Graph/owns()_2.md
-- [[owns()_1]] - document - vault/Graph/owns()_1.md
-- [[owns()_1_1]] - document - vault/Graph/owns()_1.md
-- [[owns()_2]] - document - vault/Graph/owns()_2.md
-- [[owns()_2_1]] - document - vault/Graph/owns()_2.md
+- [[Connections_21729]] - document - vault/Graph/Connections_4446.md
+- [[Connections_21730]] - document - vault/Graph/Connections_4446.md
+- [[Connections_4446_1]] - document - vault/Graph/Connections_4446.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 26]]
+- 1 edge to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[owns()_1]] - degree 4, connects to 2 communities
+- [[Connections_4446_1]] - degree 2, connects to 1 community

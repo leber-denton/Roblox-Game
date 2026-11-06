@@ -1,64 +1,73 @@
 ---
 type: community
-members: 51
+members: 60
 ---
 
 # Community 234
 
-**Members:** 51 nodes
+**Members:** 60 nodes
 
 ## Members
-- [[Connections_3284]] - document - vault/Graph/burst().md
-- [[Connections_3285]] - document - vault/Graph/decode().md
-- [[Connections_3286]] - document - vault/Graph/entry().md
-- [[Connections_3287]] - document - vault/Graph/Functions_26.md
-- [[Connections_3288]] - document - vault/Graph/new()_2.md
-- [[Connections_3289]] - document - vault/Graph/play().md
-- [[Connections_3290]] - document - vault/Graph/playScene().md
-- [[Connections_3291]] - document - vault/Graph/regionTour().md
-- [[Connections_3292]] - document - vault/Graph/row().md
-- [[Connections_3293]] - document - vault/Graph/runLines().md
-- [[Connections_3294]] - document - vault/Graph/setVisible().md
-- [[Connections_3295]] - document - vault/Graph/spawnJuniper().md
-- [[Connections_3296]] - document - vault/Graph/Story.client.luau_2.md
-- [[Connections_3297]] - document - vault/Graph/updateJourney().md
-- [[Connections_3298]] - document - vault/Graph/updateMarker().md
-- [[Connections_3299]] - document - vault/Graph/updateStoryPrompts().md
-- [[Connections_3300]] - document - vault/Graph/waitUntilFree().md
-- [[Functions_80]] - document - vault/Graph/Functions_26.md
-- [[Functions_26_3]] - document - vault/Graph/Functions_26.md
-- [[Story.client.luau_4]] - document - vault/Graph/Story.client.luau_2.md
-- [[Story.client.luau_2_1]] - document - vault/Graph/Story.client.luau_2.md
-- [[burst()_6]] - document - vault/Graph/burst().md
-- [[burst()_5]] - document - vault/Graph/burst().md
-- [[decode()_6]] - document - vault/Graph/decode().md
-- [[decode()_5]] - document - vault/Graph/decode().md
-- [[entry()_4]] - document - vault/Graph/entry().md
-- [[entry()_3]] - document - vault/Graph/entry().md
-- [[new()_24]] - document - vault/Graph/new()_2.md
-- [[new()_2_3]] - document - vault/Graph/new()_2.md
-- [[play()_8]] - document - vault/Graph/play().md
-- [[play()_7]] - document - vault/Graph/play().md
-- [[playScene()_4]] - document - vault/Graph/playScene().md
-- [[playScene()_3]] - document - vault/Graph/playScene().md
-- [[regionTour()_4]] - document - vault/Graph/regionTour().md
-- [[regionTour()_3]] - document - vault/Graph/regionTour().md
-- [[row()_6]] - document - vault/Graph/row().md
-- [[row()_5]] - document - vault/Graph/row().md
-- [[runLines()_4]] - document - vault/Graph/runLines().md
-- [[runLines()_3]] - document - vault/Graph/runLines().md
-- [[setVisible()_6]] - document - vault/Graph/setVisible().md
-- [[setVisible()_5]] - document - vault/Graph/setVisible().md
-- [[spawnJuniper()_6]] - document - vault/Graph/spawnJuniper().md
-- [[spawnJuniper()_5]] - document - vault/Graph/spawnJuniper().md
-- [[updateJourney()_6]] - document - vault/Graph/updateJourney().md
-- [[updateJourney()_5]] - document - vault/Graph/updateJourney().md
-- [[updateMarker()_6]] - document - vault/Graph/updateMarker().md
+- [[Connections_13541]] - document - vault/Graph/burst().md
+- [[Connections_13542]] - document - vault/Graph/decode().md
+- [[Connections_13543]] - document - vault/Graph/entry().md
+- [[Connections_13544]] - document - vault/Graph/Functions_78.md
+- [[Connections_13545]] - document - vault/Graph/inventory().md
+- [[Connections_13546]] - document - vault/Graph/new().md
+- [[Connections_13547]] - document - vault/Graph/play().md
+- [[Connections_13548]] - document - vault/Graph/playScene().md
+- [[Connections_13549]] - document - vault/Graph/regionTour().md
+- [[Connections_13550]] - document - vault/Graph/Required by_80.md
+- [[Connections_13551]] - document - vault/Graph/Requires_80.md
+- [[Connections_13552]] - document - vault/Graph/row().md
+- [[Connections_13553]] - document - vault/Graph/runLines().md
+- [[Connections_13554]] - document - vault/Graph/setVisible().md
+- [[Connections_13555]] - document - vault/Graph/spawnJuniper().md
+- [[Connections_13556]] - document - vault/Graph/Story_3.md
+- [[Connections_13557]] - document - vault/Graph/updateJourney().md
+- [[Connections_13558]] - document - vault/Graph/updateMarker().md
+- [[Connections_13559]] - document - vault/Graph/updateStoryPrompts().md
+- [[Connections_13560]] - document - vault/Graph/waitUntilFree().md
+- [[Functions_158]] - document - vault/Graph/Functions_78.md
+- [[Functions_78_3]] - document - vault/Graph/Functions_78.md
+- [[Required by_158]] - document - vault/Graph/Required by_80.md
+- [[Required by_80_1]] - document - vault/Graph/Required by_80.md
+- [[Requires_148]] - document - vault/Graph/Requires_80.md
+- [[Requires_80_1]] - document - vault/Graph/Requires_80.md
+- [[Story_4]] - document - vault/Graph/Story_3.md
+- [[Story_3_1]] - document - vault/Graph/Story_3.md
+- [[burst()_10]] - document - vault/Graph/burst().md
+- [[burst()_9]] - document - vault/Graph/burst().md
+- [[decode()_2]] - document - vault/Graph/decode().md
+- [[decode()_1]] - document - vault/Graph/decode().md
+- [[entry()_6]] - document - vault/Graph/entry().md
+- [[entry()_5]] - document - vault/Graph/entry().md
+- [[inventory()_10]] - document - vault/Graph/inventory().md
+- [[inventory()_9]] - document - vault/Graph/inventory().md
+- [[new()_27]] - document - vault/Graph/new().md
+- [[new()_26]] - document - vault/Graph/new().md
+- [[play()_15]] - document - vault/Graph/play().md
+- [[play()_14]] - document - vault/Graph/play().md
+- [[playScene()_6]] - document - vault/Graph/playScene().md
+- [[playScene()_5]] - document - vault/Graph/playScene().md
+- [[regionTour()_6]] - document - vault/Graph/regionTour().md
+- [[regionTour()_5]] - document - vault/Graph/regionTour().md
+- [[row()_15]] - document - vault/Graph/row().md
+- [[row()_14]] - document - vault/Graph/row().md
+- [[runLines()_6]] - document - vault/Graph/runLines().md
+- [[runLines()_5]] - document - vault/Graph/runLines().md
+- [[setVisible()_9]] - document - vault/Graph/setVisible().md
+- [[setVisible()_8]] - document - vault/Graph/setVisible().md
+- [[spawnJuniper()_9]] - document - vault/Graph/spawnJuniper().md
+- [[spawnJuniper()_8]] - document - vault/Graph/spawnJuniper().md
+- [[updateJourney()_2]] - document - vault/Graph/updateJourney().md
+- [[updateJourney()_1]] - document - vault/Graph/updateJourney().md
+- [[updateMarker()_7]] - document - vault/Graph/updateMarker().md
 - [[updateMarker()_5]] - document - vault/Graph/updateMarker().md
-- [[updateStoryPrompts()_6]] - document - vault/Graph/updateStoryPrompts().md
-- [[updateStoryPrompts()_5]] - document - vault/Graph/updateStoryPrompts().md
-- [[waitUntilFree()_4]] - document - vault/Graph/waitUntilFree().md
-- [[waitUntilFree()_3]] - document - vault/Graph/waitUntilFree().md
+- [[updateStoryPrompts()_9]] - document - vault/Graph/updateStoryPrompts().md
+- [[updateStoryPrompts()_8]] - document - vault/Graph/updateStoryPrompts().md
+- [[waitUntilFree()_6]] - document - vault/Graph/waitUntilFree().md
+- [[waitUntilFree()_5]] - document - vault/Graph/waitUntilFree().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -68,17 +77,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 15 edges to [[_COMMUNITY_Community 195]]
-- 6 edges to [[_COMMUNITY_Community 122]]
-- 2 edges to [[_COMMUNITY_Community 121]]
-- 2 edges to [[_COMMUNITY_Community 181]]
-- 1 edge to [[_COMMUNITY_Community 203]]
-- 1 edge to [[_COMMUNITY_Community 21]]
-- 1 edge to [[_COMMUNITY_Community 238]]
+- 19 edges to [[_COMMUNITY_Community 122]]
+- 2 edges to [[_COMMUNITY_Community 319]]
+- 1 edge to [[_COMMUNITY_Community 2094]]
 
 ## Top bridge nodes
-- [[regionTour()_3]] - degree 9, connects to 3 communities
-- [[Functions_26_3]] - degree 9, connects to 2 communities
-- [[spawnJuniper()_5]] - degree 7, connects to 2 communities
-- [[waitUntilFree()_3]] - degree 7, connects to 2 communities
-- [[updateJourney()_5]] - degree 6, connects to 2 communities
+- [[regionTour()_5]] - degree 7, connects to 2 communities
+- [[Functions_78_3]] - degree 9, connects to 1 community
+- [[playScene()_5]] - degree 9, connects to 1 community
+- [[new()_26]] - degree 8, connects to 1 community
+- [[Story_3_1]] - degree 5, connects to 1 community

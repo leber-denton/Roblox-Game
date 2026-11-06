@@ -1,18 +1,22 @@
 ---
 source_file: "vault/Graph/CodeStory.md"
 type: "document"
-community: "Community 119"
-location: "L12"
+community: "Community 34"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_119
+  - community/Community_34
 ---
 
 # CodeStory.md
 
 ## Connections
-- [[CodeStory]] - `contains` [EXTRACTED]
-- [[Connections_618]] - `contains` [EXTRACTED]
+- [[CodeGameData]] - `references` [EXTRACTED]
+- [[CodeStory_5]] - `contains` [EXTRACTED]
+- [[CodeStory_1_1]] - `references` [EXTRACTED]
+- [[GraphStory_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_119
+#graphify/document #graphify/EXTRACTED #community/Community_34

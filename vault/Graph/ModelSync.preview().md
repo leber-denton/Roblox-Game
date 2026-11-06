@@ -12,7 +12,7 @@ tags:
 # ModelSync.preview()
 
 ## Connections
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[findTargets()]] - `calls` [EXTRACTED]
 - [[getShowcase()]] - `calls` [EXTRACTED]
 - [[isReference()]] - `calls` [EXTRACTED]

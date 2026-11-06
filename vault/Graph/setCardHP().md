@@ -12,7 +12,7 @@ tags:
 # setCardHP()
 
 ## Connections
-- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_7]] - `contains` [EXTRACTED]
 - [[hpColor()]] - `calls` [EXTRACTED]
 - [[playTurn()]] - `calls` [EXTRACTED]
 - [[setCard()]] - `calls` [EXTRACTED]

@@ -1,18 +1,20 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Music.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Menus.client.luau"
 type: "code"
-community: "Community 1"
-location: "L191"
+community: "Community 418"
+location: "L682"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Community_418
 ---
 
 # render()
 
 ## Connections
-- [[Music.client.luau]] - `contains` [EXTRACTED]
-- [[applyMute()]] - `calls` [EXTRACTED]
+- [[Menus.client.luau_8]] - `contains` [EXTRACTED]
+- [[creatureText()]] - `calls` [EXTRACTED]
+- [[fillBox()]] - `calls` [EXTRACTED]
+- [[trade.update()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_1
+#graphify/code #graphify/EXTRACTED #community/Community_418

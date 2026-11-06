@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/WeeklyEventService_1.md"
+source_file: "vault/Code/WeeklyEventService.md"
 type: "document"
-community: "Community 165"
+community: "Community 13"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_165
+  - community/Community_13
 ---
 
-# WeeklyEventService_1.md
+# WeeklyEventService
 
 ## Connections
-- [[GraphWeeklyEventService_1]] - `references` [EXTRACTED]
-- [[WeeklyEventService_1_3]] - `contains` [EXTRACTED]
-- [[WeeklyEventService_1_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 165]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 77]] - `references` [EXTRACTED]
+- [[CodeWeeklyEventService_2]] - `contains` [EXTRACTED]
+- [[Functions_64]] - `contains` [EXTRACTED]
+- [[Required by_52]] - `contains` [EXTRACTED]
+- [[Requires_52]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_165
+#graphify/document #graphify/EXTRACTED #community/Community_13

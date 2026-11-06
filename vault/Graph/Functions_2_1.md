@@ -1,19 +1,19 @@
 ---
 source_file: "vault/Graph/Functions_2.md"
 type: "document"
-community: "Community 182"
+community: "Community 1007"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_182
+  - community/Community_1007
 ---
 
 # Functions_2.md
 
 ## Connections
-- [[Functions_46]] - `contains` [EXTRACTED]
-- [[Functions_3_3]] - `references` [EXTRACTED]
+- [[Functions_3]] - `contains` [EXTRACTED]
+- [[Functions_4]] - `references` [EXTRACTED]
 - [[GraphMusic_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 100]] - `references` [EXTRACTED]
@@ -21,4 +21,4 @@ tags:
 - [[targetVolume()_1_1]] - `references` [EXTRACTED]
 - [[wanted()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_182
+#graphify/document #graphify/EXTRACTED #community/Community_1007

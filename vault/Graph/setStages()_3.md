@@ -12,7 +12,7 @@ tags:
 # setStages()
 
 ## Connections
-- [[Connections_1086]] - `contains` [EXTRACTED]
+- [[Connections_3673]] - `contains` [EXTRACTED]
 - [[setStages()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

@@ -1,46 +1,34 @@
 ---
 type: community
-members: 33
+members: 21
 ---
 
 # Community 229
 
-**Members:** 33 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Connections_3237]] - document - vault/Graph/claimLastSunday().md
-- [[Connections_3238]] - document - vault/Graph/finishRanked().md
-- [[Connections_3239]] - document - vault/Graph/pacificDate().md
-- [[Connections_3240]] - document - vault/Graph/persistScore().md
-- [[Connections_3241]] - document - vault/Graph/recordFor().md
-- [[Connections_3242]] - document - vault/Graph/refreshBoards().md
-- [[Connections_3243]] - document - vault/Graph/rowsFrom().md
-- [[Connections_3244]] - document - vault/Graph/sundayKey().md
-- [[Connections_3245]] - document - vault/Graph/syncRank().md
-- [[Connections_3246]] - document - vault/Graph/tier().md
-- [[Connections_3247]] - document - vault/Graph/weeklyStore().md
-- [[claimLastSunday()_2]] - document - vault/Graph/claimLastSunday().md
-- [[claimLastSunday()_1]] - document - vault/Graph/claimLastSunday().md
-- [[finishRanked()_2]] - document - vault/Graph/finishRanked().md
-- [[finishRanked()_1]] - document - vault/Graph/finishRanked().md
-- [[pacificDate()_2]] - document - vault/Graph/pacificDate().md
-- [[pacificDate()_1]] - document - vault/Graph/pacificDate().md
-- [[persistScore()_2]] - document - vault/Graph/persistScore().md
-- [[persistScore()_1]] - document - vault/Graph/persistScore().md
-- [[recordFor()_2]] - document - vault/Graph/recordFor().md
-- [[recordFor()_1]] - document - vault/Graph/recordFor().md
-- [[refreshBoards()_2]] - document - vault/Graph/refreshBoards().md
-- [[refreshBoards()_1]] - document - vault/Graph/refreshBoards().md
-- [[rowsFrom()_2]] - document - vault/Graph/rowsFrom().md
-- [[rowsFrom()_1]] - document - vault/Graph/rowsFrom().md
-- [[sundayKey()_2]] - document - vault/Graph/sundayKey().md
-- [[sundayKey()_1]] - document - vault/Graph/sundayKey().md
-- [[syncRank()_2]] - document - vault/Graph/syncRank().md
-- [[syncRank()_1]] - document - vault/Graph/syncRank().md
-- [[tier()_2]] - document - vault/Graph/tier().md
-- [[tier()_1]] - document - vault/Graph/tier().md
-- [[weeklyStore()_2]] - document - vault/Graph/weeklyStore().md
-- [[weeklyStore()_1]] - document - vault/Graph/weeklyStore().md
+- [[BaseManager.setWings()_1_1]] - document - vault/Graph/BaseManager.setWings()_1.md
+- [[BaseManager.setWings()_1_2]] - document - vault/Graph/BaseManager.setWings()_1_1.md
+- [[BaseManager.setWings()_1_3]] - document - vault/Graph/BaseManager.setWings()_1.md
+- [[BaseManager.setWings()_1_1_1]] - document - vault/Graph/BaseManager.setWings()_1_1.md
+- [[BaseManager.setWings()_2_1]] - document - vault/Graph/BaseManager.setWings()_2.md
+- [[BaseManager.setWings()_2_2]] - document - vault/Graph/BaseManager.setWings()_2_1.md
+- [[BaseManager.setWings()_2_3]] - document - vault/Graph/BaseManager.setWings()_2.md
+- [[BaseManager.setWings()_2_1_1]] - document - vault/Graph/BaseManager.setWings()_2_1.md
+- [[Connections_13338]] - document - vault/Graph/BaseManager.setWings()_1_1.md
+- [[Connections_13339]] - document - vault/Graph/BaseManager.setWings()_1.md
+- [[Connections_13340]] - document - vault/Graph/BaseManager.setWings()_2_1.md
+- [[Connections_13341]] - document - vault/Graph/BaseManager.setWings()_2.md
+- [[Connections_13342]] - document - vault/Graph/Connections_2401.md
+- [[Connections_13343]] - document - vault/Graph/Connections_2401.md
+- [[Connections_13344]] - document - vault/Graph/Connections_2402.md
+- [[Connections_13345]] - document - vault/Graph/Connections_2402.md
+- [[Connections_13346]] - document - vault/Graph/Connections_962_1.md
+- [[Connections_2401_1]] - document - vault/Graph/Connections_2401.md
+- [[Connections_2402_1]] - document - vault/Graph/Connections_2402.md
+- [[Connections_962_2]] - document - vault/Graph/Connections_962_1.md
+- [[Connections_962_1_1]] - document - vault/Graph/Connections_962_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -50,13 +38,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 11 edges to [[_COMMUNITY_Community 97]]
-- 4 edges to [[_COMMUNITY_Community 642]]
-- 3 edges to [[_COMMUNITY_Community 86]]
+- 7 edges to [[_COMMUNITY_Community 289]]
+- 3 edges to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 1242]]
+- 1 edge to [[_COMMUNITY_Community 25]]
+- 1 edge to [[_COMMUNITY_Community 32]]
+- 1 edge to [[_COMMUNITY_Community 844]]
 
 ## Top bridge nodes
-- [[finishRanked()_1]] - degree 9, connects to 3 communities
-- [[recordFor()_1]] - degree 9, connects to 2 communities
-- [[refreshBoards()_1]] - degree 9, connects to 2 communities
-- [[claimLastSunday()_1]] - degree 8, connects to 2 communities
-- [[sundayKey()_1]] - degree 7, connects to 1 community
+- [[BaseManager.setWings()_1_1]] - degree 9, connects to 6 communities
+- [[BaseManager.setWings()_2_1]] - degree 6, connects to 2 communities
+- [[Connections_962_1_1]] - degree 4, connects to 2 communities
+- [[BaseManager.setWings()_1_1_1]] - degree 4, connects to 1 community
+- [[BaseManager.setWings()_2_1_1]] - degree 4, connects to 1 community

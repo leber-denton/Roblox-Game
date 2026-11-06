@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/animate().md"
+source_file: "vault/Graph/Connections_1334.md"
 type: "document"
-community: "Community 1377"
-location: "L14"
+community: "Community 1098"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1377
+  - community/Community_1098
 ---
 
 # Connections
 
 ## Connections
-- [[animate()_1]] - `contains` [EXTRACTED]
+- [[Connections_1666]] - `contains` [EXTRACTED]
+- [[Connections_1334_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1377
+#graphify/document #graphify/EXTRACTED #community/Community_1098

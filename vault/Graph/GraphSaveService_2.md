@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/SaveService.md"
+source_file: "vault/Graph/GraphSaveService.md"
 type: "document"
-community: "Community 405"
+community: "Community 2345"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_405
+  - community/Community_2345
 ---
 
-# Graph/SaveService.md
+# GraphSaveService.md
 
 ## Connections
-- [[Functions_68_1]] - `references` [EXTRACTED]
-- [[Required by_70_1]] - `references` [EXTRACTED]
-- [[Requires_67_1]] - `references` [EXTRACTED]
-- [[SaveService_3]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 286]] - `references` [EXTRACTED]
+- [[GraphSaveService_4]] - `contains` [EXTRACTED]
+- [[GraphSaveService_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_405
+#graphify/document #graphify/EXTRACTED #community/Community_2345

@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Graph/showDetail()_3.md"
+source_file: "vault/Graph/showDetail()_3_1.md"
 type: "document"
-community: "Community 195"
+community: "Community 508"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_508
 ---
 
-# showDetail()_3.md
+# showDetail()_3_1.md
 
 ## Connections
-- [[Connections_156_1]] - `references` [EXTRACTED]
+- [[Connections_152_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
-- [[showDetail()_7]] - `contains` [EXTRACTED]
-- [[showDetail()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 195]] - `references` [EXTRACTED]
+- [[showDetail()_1_1_1_1]] - `references` [EXTRACTED]
+- [[showDetail()_3_2]] - `contains` [EXTRACTED]
+- [[showDetail()_6_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_508

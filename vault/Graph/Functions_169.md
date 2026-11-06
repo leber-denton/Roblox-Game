@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/LeagueService.md"
+source_file: "vault/Code/EventHUD.md"
 type: "document"
-community: "Community 68"
-location: "L15"
+community: "Community 267"
+location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_68
+  - community/Community_267
 ---
 
 # Functions
 
 ## Connections
-- [[LeagueService_3]] - `contains` [EXTRACTED]
+- [[EventHUD_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_68
+#graphify/document #graphify/EXTRACTED #community/Community_267

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/dialogue()_1.md"
+source_file: "vault/Graph/dialogue()_4.md"
 type: "document"
-community: "Community 1130"
-location: "L1"
+community: "Community 2668"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1130
+  - community/Community_2668
 ---
 
-# dialogue()_1.md
+# dialogue().md
 
 ## Connections
-- [[Connections_365]] - `references` [EXTRACTED]
-- [[dialogue()_2]] - `contains` [EXTRACTED]
+- [[Connections_14986]] - `contains` [EXTRACTED]
+- [[dialogue()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1130
+#graphify/document #graphify/EXTRACTED #community/Community_2668

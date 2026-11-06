@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/run()_1.md"
+source_file: "vault/Graph/run()_2.md"
 type: "document"
-community: "Community 1218"
-location: "L12"
+community: "Community 1904"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1218
+  - community/Community_1904
 ---
 
-# run().md
+# run()_2.md
 
 ## Connections
-- [[Connections_1165]] - `contains` [EXTRACTED]
-- [[run()_1]] - `contains` [EXTRACTED]
+- [[Connections_1165_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1218]] - `references` [EXTRACTED]
+- [[run()_1]] - `references` [EXTRACTED]
+- [[run()_2_1]] - `contains` [EXTRACTED]
+- [[run()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1218
+#graphify/document #graphify/EXTRACTED #community/Community_1904

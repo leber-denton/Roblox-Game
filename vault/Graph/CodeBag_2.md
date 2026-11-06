@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/CodeBag.md"
+source_file: "vault/Graph/CodeBag_2.md"
 type: "document"
-community: "Community 300"
-location: "L12"
+community: "Community 226"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_300
+  - community/Community_226
 ---
 
-# Code/Bag.md
+# CodeBag_2.md
 
 ## Connections
-- [[CodeBag_1]] - `contains` [EXTRACTED]
-- [[Connections_3694]] - `contains` [EXTRACTED]
+- [[CodeBag_4]] - `contains` [EXTRACTED]
+- [[CodeBag_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 203]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_300
+#graphify/document #graphify/EXTRACTED #community/Community_226

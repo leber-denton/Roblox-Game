@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/WeeklyEventService.luau_1.md"
+source_file: "vault/Graph/Members_144.md"
 type: "document"
-community: "Community 144"
+community: "Community 1101"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_144
+  - community/Community_1101
 ---
 
 # Connections
 
 ## Connections
-- [[WeeklyEventService.luau_1_1]] - `contains` [EXTRACTED]
+- [[Members_174]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_144
+#graphify/document #graphify/EXTRACTED #community/Community_1101

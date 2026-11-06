@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/CodeCreatureLife.md"
+source_file: "vault/Graph/Connections_3004.md"
 type: "document"
-community: "Community 422"
-location: "L14"
+community: "Community 1235"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_422
+  - community/Community_1235
 ---
 
 # Connections
 
 ## Connections
-- [[CodeCreatureLife_2]] - `contains` [EXTRACTED]
+- [[Connections_4226]] - `contains` [EXTRACTED]
+- [[Connections_3004_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_422
+#graphify/document #graphify/EXTRACTED #community/Community_1235

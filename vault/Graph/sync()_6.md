@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/sync()_6.md"
+source_file: "vault/Graph/sync()_6_1.md"
 type: "document"
 community: "Community 168"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,11 +12,7 @@ tags:
 # sync()_6.md
 
 ## Connections
-- [[_COMMUNITY_Community 171]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 49]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 96]] - `references` [EXTRACTED]
-- [[sync()_2_1]] - `references` [EXTRACTED]
-- [[sync()_3]] - `references` [EXTRACTED]
+- [[Connections_9679]] - `contains` [EXTRACTED]
 - [[sync()_6_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

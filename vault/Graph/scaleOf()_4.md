@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Graph/scaleOf().md"
+source_file: "vault/Graph/scaleOf()_4.md"
 type: "document"
-community: "Community 140"
+community: "Community 1287"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_140
+  - community/Community_1287
 ---
 
-# scaleOf().md
+# scaleOf()_4.md
 
 ## Connections
-- [[ModelSyncTests.luau_1]] - `references` [EXTRACTED]
-- [[Tests.run()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 5]] - `references` [EXTRACTED]
-- [[scaleOf()_5]] - `contains` [EXTRACTED]
+- [[Connections_3636_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1287]] - `references` [EXTRACTED]
+- [[scaleOf()_4_1]] - `contains` [EXTRACTED]
+- [[scaleOf()_4_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_140
+#graphify/document #graphify/EXTRACTED #community/Community_1287

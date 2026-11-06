@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.sizeMult().md"
+source_file: "vault/Graph/Connections_1788.md"
 type: "document"
-community: "Community 86"
+community: "Community 1328"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1328
 ---
 
 # Connections
 
 ## Connections
-- [[BattleData.sizeMult()_4]] - `contains` [EXTRACTED]
+- [[Connections_5691]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1328

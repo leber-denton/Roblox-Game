@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ProgressService.evolveNow().md"
+source_file: "vault/Graph/challenge()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[ProgressService.evolveNow()_6]] - `contains` [EXTRACTED]
+- [[challenge()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

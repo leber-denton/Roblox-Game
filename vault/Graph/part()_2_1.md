@@ -1,19 +1,21 @@
 ---
-source_file: "vault/Graph/part()_2.md"
+source_file: "vault/Graph/part()_2_1.md"
 type: "document"
-community: "Community 244"
+community: "Community 411"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_244
+  - community/Community_411
 ---
 
-# part()_2.md
+# part()_2_1.md
 
 ## Connections
+- [[_COMMUNITY_Community 244]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 29]] - `references` [EXTRACTED]
-- [[gen_trade_beach.py]] - `references` [EXTRACTED]
-- [[part()_12]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 411]] - `references` [EXTRACTED]
+- [[gen_trade_beach.py_1]] - `references` [EXTRACTED]
+- [[part()_2_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_244
+#graphify/document #graphify/EXTRACTED #community/Community_411

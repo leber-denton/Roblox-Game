@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/LockedLanes.client.luau_1.md"
+source_file: "vault/Graph/LockedLanes.client.luau_5.md"
 type: "document"
-community: "Community 178"
+community: "Community 105"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_178
+  - community/Community_105
 ---
 
-# LockedLanes.client.luau.md
+# LockedLanes.client.luau
 
 ## Connections
-- [[Connections_2595]] - `contains` [EXTRACTED]
-- [[LockedLanes.client.luau_1]] - `contains` [EXTRACTED]
+- [[Connections_815]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_178
+#graphify/document #graphify/EXTRACTED #community/Community_105

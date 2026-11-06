@@ -12,7 +12,8 @@ tags:
 # WildSpawner.countLane()_1.md
 
 ## Connections
-- [[WildSpawner.countLane()_1_1]] - `contains` [EXTRACTED]
+- [[WildSpawner.countLane()_1_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.countLane()_1_1]] - `references` [EXTRACTED]
 - [[WildSpawner.countLane()_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 197]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 26]] - `references` [EXTRACTED]

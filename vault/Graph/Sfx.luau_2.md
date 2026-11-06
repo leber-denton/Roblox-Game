@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/Sfx.luau_2.md"
+source_file: "vault/Graph/Sfx.luau_3.md"
 type: "document"
-community: "Community 177"
-location: "L1"
+community: "Community 510"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_177
+  - community/Community_510
 ---
 
-# Sfx.luau_2.md
+# Sfx.luau
 
 ## Connections
-- [[Sfx.luau]] - `references` [EXTRACTED]
-- [[Sfx.luau_2_1]] - `contains` [EXTRACTED]
-- [[Sfx.play()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 251]] - `references` [EXTRACTED]
-- [[replicatedstorage_waitforchild_2]] - `references` [EXTRACTED]
+- [[Connections_20310]] - `contains` [EXTRACTED]
+- [[Sfx.luau_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_177
+#graphify/document #graphify/EXTRACTED #community/Community_510

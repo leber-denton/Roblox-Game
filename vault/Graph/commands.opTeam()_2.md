@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/commands.opTeam()_2.md"
+source_file: "vault/Graph/commands.opTeam()_2_1.md"
 type: "document"
 community: "Community 168"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,9 +12,7 @@ tags:
 # commands.opTeam()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 229]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 339]] - `references` [EXTRACTED]
-- [[commands.opTeam()_1]] - `references` [EXTRACTED]
+- [[Connections_9476]] - `contains` [EXTRACTED]
 - [[commands.opTeam()_2_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

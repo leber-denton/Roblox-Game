@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/WildShiftTests.luau_2.md"
+source_file: "vault/Graph/WildShiftTests.luau_3.md"
 type: "document"
 community: "Community 413"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_413
 ---
 
-# WildShiftTests.luau.md
+# WildShiftTests.luau_3.md
 
 ## Connections
-- [[Connections_4207]] - `contains` [EXTRACTED]
-- [[WildShiftTests.luau_2]] - `contains` [EXTRACTED]
+- [[WildShiftTests.luau]] - `contains` [EXTRACTED]
+- [[WildShiftTests.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 413]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_413

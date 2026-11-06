@@ -12,7 +12,8 @@ tags:
 # Functions_34_1.md
 
 ## Connections
-- [[Functions_34]] - `contains` [EXTRACTED]
+- [[Functions_34_1_1]] - `contains` [EXTRACTED]
+- [[Functions_34_2]] - `references` [EXTRACTED]
 - [[LeaderboardService_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 128]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 55]] - `references` [EXTRACTED]

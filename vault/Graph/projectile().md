@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[BattleFX.attack()]] - `calls` [EXTRACTED]
-- [[BattleFX.luau_3]] - `contains` [EXTRACTED]
+- [[BattleFX.luau]] - `contains` [EXTRACTED]
 - [[effectPart()]] - `calls` [EXTRACTED]
 - [[play()_1]] - `calls` [EXTRACTED]
 

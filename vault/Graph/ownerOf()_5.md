@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/ownerOf().md"
+source_file: "vault/Graph/ownerOf()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 1187"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1187
 ---
 
-# ownerOf()
+# ownerOf()_5.md
 
 ## Connections
-- [[Connections_5788]] - `contains` [EXTRACTED]
-- [[ownerOf()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[ownerOf()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1187

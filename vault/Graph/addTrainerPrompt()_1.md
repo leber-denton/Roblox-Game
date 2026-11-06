@@ -12,9 +12,10 @@ tags:
 # addTrainerPrompt().md
 
 ## Connections
-- [[SocialService.request()_4]] - `references` [EXTRACTED]
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
+- [[SocialService.request()_8]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[addTrainerPrompt()_2]] - `contains` [EXTRACTED]
+- [[addTrainerPrompt()_3]] - `contains` [EXTRACTED]
 - [[prompt()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_123

@@ -1,19 +1,34 @@
 ---
 type: community
-members: 6
+members: 21
 ---
 
 # Community 578
 
-**Members:** 6 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Connections_4712]] - document - vault/Graph/Connections_868.md
-- [[Connections_4713]] - document - vault/Graph/Connections_868.md
-- [[Connections_4714]] - document - vault/Graph/setupShop()_2.md
-- [[Connections_868_1]] - document - vault/Graph/Connections_868.md
-- [[setupShop()_4]] - document - vault/Graph/setupShop()_2.md
-- [[setupShop()_2_1]] - document - vault/Graph/setupShop()_2.md
+- [[Connections_21015]] - document - vault/Graph/Connections_3903.md
+- [[Connections_21016]] - document - vault/Graph/Connections_3904.md
+- [[Connections_21017]] - document - vault/Graph/Connections_518_1.md
+- [[Connections_21018]] - document - vault/Graph/Connections_869.md
+- [[Connections_21019]] - document - vault/Graph/Connections_869.md
+- [[Connections_21020]] - document - vault/Graph/Connections_870.md
+- [[Connections_21021]] - document - vault/Graph/Connections_870.md
+- [[Connections_21022]] - document - vault/Graph/Connections_871.md
+- [[Connections_21023]] - document - vault/Graph/Connections_871.md
+- [[Connections_21024]] - document - vault/Graph/Connections_872.md
+- [[Connections_21025]] - document - vault/Graph/Connections_872.md
+- [[Connections_3903_1]] - document - vault/Graph/Connections_3903.md
+- [[Connections_3903_2]] - document - vault/Graph/Connections_3903.md
+- [[Connections_3904_1]] - document - vault/Graph/Connections_3904.md
+- [[Connections_3904_2]] - document - vault/Graph/Connections_3904.md
+- [[Connections_518_1_1]] - document - vault/Graph/Connections_518_1.md
+- [[Connections_518_1_2]] - document - vault/Graph/Connections_518_1.md
+- [[Connections_869_1]] - document - vault/Graph/Connections_869.md
+- [[Connections_870_1]] - document - vault/Graph/Connections_870.md
+- [[Connections_871_1]] - document - vault/Graph/Connections_871.md
+- [[Connections_872_1]] - document - vault/Graph/Connections_872.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +38,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 97]]
+- 7 edges to [[_COMMUNITY_Community 12]]
+- 3 edges to [[_COMMUNITY_Community 75]]
+- 1 edge to [[_COMMUNITY_Community 34]]
 
 ## Top bridge nodes
-- [[setupShop()_2_1]] - degree 4, connects to 1 community
-- [[Connections_868_1]] - degree 3, connects to 1 community
+- [[Connections_518_1_1]] - degree 5, connects to 3 communities
+- [[Connections_3903_1]] - degree 6, connects to 2 communities
+- [[Connections_3904_1]] - degree 5, connects to 2 communities
+- [[Connections_869_1]] - degree 4, connects to 1 community
+- [[Connections_871_1]] - degree 4, connects to 1 community

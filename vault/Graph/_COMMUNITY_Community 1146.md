@@ -1,16 +1,22 @@
 ---
 type: community
-members: 3
+members: 9
 ---
 
 # Community 1146
 
-**Members:** 3 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_348]] - document - vault/Graph/Connections_1064.md
-- [[Connections_349]] - document - vault/Graph/Connections_1064.md
-- [[Connections_1064]] - document - vault/Graph/Connections_1064.md
+- [[CodeSprint]] - document - vault/Code/Sprint.md
+- [[Functions_23]] - document - vault/Code/Sprint.md
+- [[Required by_17]] - document - vault/Code/Sprint.md
+- [[Requires_20]] - document - vault/Code/Sprint.md
+- [[Sprint]] - document - vault/Code/Sprint.md
+- [[Sprint.client.luau_2]] - code - src/StarterPlayer/StarterPlayerScripts/Sprint.client.luau
+- [[apply()_2]] - code - src/StarterPlayer/StarterPlayerScripts/Sprint.client.luau
+- [[onSprint()]] - code - src/StarterPlayer/StarterPlayerScripts/Sprint.client.luau
+- [[targetSpeed()]] - code - src/StarterPlayer/StarterPlayerScripts/Sprint.client.luau
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +26,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 134]]
+- 1 edge to [[_COMMUNITY_Community 185]]
+- 1 edge to [[_COMMUNITY_Community 13]]
 
 ## Top bridge nodes
-- [[Connections_1064]] - degree 2, connects to 1 community
+- [[Sprint.client.luau_2]] - degree 4, connects to 1 community
+- [[CodeSprint]] - degree 2, connects to 1 community

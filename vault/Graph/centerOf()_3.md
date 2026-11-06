@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/centerOf()_1.md"
+source_file: "vault/Graph/centerOf()_3.md"
 type: "document"
-community: "Community 1387"
-location: "L12"
+community: "Community 2104"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1387
+  - community/Community_2104
 ---
 
-# centerOf().md
+# centerOf()_3.md
 
 ## Connections
-- [[Connections_1702]] - `contains` [EXTRACTED]
-- [[centerOf()_1_1]] - `contains` [EXTRACTED]
+- [[centerOf()_3_1]] - `contains` [EXTRACTED]
+- [[centerOf()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1387
+#graphify/document #graphify/EXTRACTED #community/Community_2104

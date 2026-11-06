@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/CodeBaseManager.md"
+source_file: "vault/Graph/CodeBaseManager_2.md"
 type: "document"
-community: "Community 996"
-location: "L12"
+community: "Community 1589"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_996
+  - community/Community_1589
 ---
 
-# Code/BaseManager.md
+# CodeBaseManager_2.md
 
 ## Connections
-- [[CodeBaseManager_1]] - `contains` [EXTRACTED]
-- [[Connections_6408]] - `contains` [EXTRACTED]
+- [[CodeBaseManager_4]] - `contains` [EXTRACTED]
+- [[CodeBaseManager_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 996]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_996
+#graphify/document #graphify/EXTRACTED #community/Community_1589

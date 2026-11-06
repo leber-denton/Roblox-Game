@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/finite().md"
+source_file: "vault/Graph/Connections_197.md"
 type: "document"
-community: "Community 86"
+community: "Community 1335"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1335
 ---
 
 # Connections
 
 ## Connections
-- [[finite()_12]] - `contains` [EXTRACTED]
+- [[Connections_5758]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1335

@@ -12,7 +12,7 @@ tags:
 # Shapes.blob()
 
 ## Connections
-- [[Connections_1641]] - `contains` [EXTRACTED]
+- [[Connections_6675]] - `contains` [EXTRACTED]
 - [[Shapes.blob()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

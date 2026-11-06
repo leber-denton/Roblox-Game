@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/today().md"
+source_file: "vault/Graph/today()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2327"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2327
 ---
 
-# today()
+# today()_5.md
 
 ## Connections
-- [[Connections_5881]] - `contains` [EXTRACTED]
-- [[today()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[today()_2]] - `references` [EXTRACTED]
+- [[today()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2327

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/PlayerData.addBoost().md"
+source_file: "vault/Graph/PlayerData.addBoost()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2697"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2697
 ---
 
-# PlayerData.addBoost()
+# PlayerData.addBoost()_5.md
 
 ## Connections
-- [[Connections_5799]] - `contains` [EXTRACTED]
-- [[PlayerData.addBoost()_4]] - `contains` [EXTRACTED]
+- [[PlayerData.addBoost()_1_2]] - `references` [EXTRACTED]
+- [[PlayerData.addBoost()_5_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2697

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/scaleOf().md"
+source_file: "vault/Graph/Connections_211.md"
 type: "document"
-community: "Community 140"
+community: "Community 110"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_140
+  - community/Community_110
 ---
 
 # Connections
 
 ## Connections
-- [[scaleOf()_5]] - `contains` [EXTRACTED]
+- [[Connections_1733]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_140
+#graphify/document #graphify/EXTRACTED #community/Community_110

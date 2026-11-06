@@ -12,7 +12,7 @@ tags:
 # Connections_260.md
 
 ## Connections
-- [[Connections_4526]] - `contains` [EXTRACTED]
-- [[Connections_261_1]] - `references` [EXTRACTED]
+- [[Connections_20403]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1022]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_519

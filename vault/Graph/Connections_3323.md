@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.juniper().md"
+source_file: "vault/Graph/Connections_2219.md"
 type: "document"
-community: "Community 24"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[commands.juniper()_4]] - `contains` [EXTRACTED]
+- [[Connections_3322]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1187

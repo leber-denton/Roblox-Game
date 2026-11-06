@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/setLid()_2.md"
+source_file: "vault/Graph/Connections_1516.md"
 type: "document"
-community: "Community 167"
-location: "L14"
+community: "Community 112"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_167
+  - community/Community_112
 ---
 
 # Connections
 
 ## Connections
-- [[setLid()_4]] - `contains` [EXTRACTED]
+- [[Connections_2185]] - `contains` [EXTRACTED]
+- [[Connections_1516_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_167
+#graphify/document #graphify/EXTRACTED #community/Community_112

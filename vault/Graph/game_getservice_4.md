@@ -1,16 +1,20 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 235"
+source_file: "vault/Graph/game_getservice_4.md"
+type: "document"
+community: "Community 447"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_235
+  - community/Community_447
 ---
 
-# game_getservice
+# game_getservice_4.md
 
 ## Connections
-- [[BattleFX.luau_3]] - `imports` [EXTRACTED]
+- [[Connections_5425_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
+- [[game_getservice_6]] - `contains` [EXTRACTED]
+- [[game_getservice]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_235
+#graphify/document #graphify/EXTRACTED #community/Community_447

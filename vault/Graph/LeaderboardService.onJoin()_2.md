@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/LeaderboardService.onJoin()_2.md"
+source_file: "vault/Graph/LeaderboardService.onJoin()_6.md"
 type: "document"
-community: "Community 202"
-location: "L1"
+community: "Community 1678"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_202
+  - community/Community_1678
 ---
 
-# LeaderboardService.onJoin()_2.md
+# LeaderboardService.onJoin()
 
 ## Connections
-- [[Connections_102_1]] - `references` [EXTRACTED]
-- [[LeaderboardService.onJoin()_4]] - `contains` [EXTRACTED]
-- [[LeaderboardService.onJoin()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 104]] - `references` [EXTRACTED]
+- [[Connections_9423]] - `contains` [EXTRACTED]
+- [[LeaderboardService.onJoin()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_202
+#graphify/document #graphify/EXTRACTED #community/Community_1678

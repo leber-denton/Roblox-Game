@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[Shapes.ghost()_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
-- [[darker()_1]] - `references` [EXTRACTED]
+- [[darker()_7]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

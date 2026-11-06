@@ -12,7 +12,7 @@ tags:
 # BattleService.onReleased()
 
 ## Connections
-- [[BattleService.luau]] - `contains` [EXTRACTED]
+- [[BattleService.luau_5]] - `contains` [EXTRACTED]
 - [[DungeonService.init()]] - `calls` [INFERRED]
 - [[ProgressService.init()]] - `calls` [INFERRED]
 - [[RouteTrainerService.init()]] - `calls` [INFERRED]

@@ -12,7 +12,7 @@ tags:
 # play()
 
 ## Connections
-- [[Tutorial.client.luau_5]] - `contains` [EXTRACTED]
+- [[Tutorial.client.luau_7]] - `contains` [EXTRACTED]
 - [[intro()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_421

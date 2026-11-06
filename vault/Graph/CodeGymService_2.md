@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Code/GymService.md"
+source_file: "vault/Graph/CodeGymService_2.md"
 type: "document"
-community: "Community 13"
+community: "Community 851"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_13
+  - community/Community_851
 ---
 
-# Code/GymService.md
+# CodeGymService_2.md
 
 ## Connections
-- [[CodeBattleService_2]] - `references` [EXTRACTED]
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
-- [[CodeGameData_2]] - `references` [EXTRACTED]
-- [[CodeMain_2]] - `references` [EXTRACTED]
-- [[CodeNPC_2]] - `references` [EXTRACTED]
-- [[CodePlayerData_2]] - `references` [EXTRACTED]
-- [[CodeTutorialService_2]] - `references` [EXTRACTED]
-- [[GymService_2]] - `contains` [EXTRACTED]
+- [[CodeGymService_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 550]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_13
+#graphify/document #graphify/EXTRACTED #community/Community_851

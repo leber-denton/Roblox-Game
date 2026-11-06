@@ -1,19 +1,29 @@
 ---
 type: community
-members: 6
+members: 16
 ---
 
 # Community 937
 
-**Members:** 6 nodes
+**Members:** 16 nodes
 
 ## Members
-- [[Connections_6230]] - document - vault/Graph/Features.finEars()_1.md
-- [[Connections_6231]] - document - vault/Graph/Features.finEars()_2.md
-- [[Features.finEars()_1_1]] - document - vault/Graph/Features.finEars()_1.md
-- [[Features.finEars()_1_2]] - document - vault/Graph/Features.finEars()_1.md
-- [[Features.finEars()_2_1]] - document - vault/Graph/Features.finEars()_2.md
-- [[Features.finEars()_2_2]] - document - vault/Graph/Features.finEars()_2.md
+- [[Community 681]] - document - vault/Graph/_COMMUNITY_Community 681.md
+- [[Connections_24124]] - document - vault/Graph/Connections_900_1.md
+- [[Connections_24125]] - document - vault/Graph/Connections_901_1.md
+- [[Connections_24126]] - document - vault/Graph/Connections_902_1.md
+- [[Connections_24127]] - document - vault/Graph/Connections_903_1.md
+- [[Connections_900_2]] - document - vault/Graph/Connections_900_1.md
+- [[Connections_900_1_1]] - document - vault/Graph/Connections_900_1.md
+- [[Connections_901_2]] - document - vault/Graph/Connections_901_1.md
+- [[Connections_901_1_1]] - document - vault/Graph/Connections_901_1.md
+- [[Connections_902_2]] - document - vault/Graph/Connections_902_1.md
+- [[Connections_902_1_1]] - document - vault/Graph/Connections_902_1.md
+- [[Connections_903_2]] - document - vault/Graph/Connections_903_1.md
+- [[Connections_903_1_1]] - document - vault/Graph/Connections_903_1.md
+- [[Live Query (requires Dataview plugin)_1948]] - document - vault/Graph/_COMMUNITY_Community 681.md
+- [[Members_1947]] - document - vault/Graph/_COMMUNITY_Community 681.md
+- [[_COMMUNITY_Community 681]] - document - vault/Graph/_COMMUNITY_Community 681.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,11 +33,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 151]]
-- 2 edges to [[_COMMUNITY_Community 171]]
-- 1 edge to [[_COMMUNITY_Community 133]]
-- 1 edge to [[_COMMUNITY_Community 137]]
+- 5 edges to [[_COMMUNITY_Community 289]]
+- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 440]]
 
 ## Top bridge nodes
-- [[Features.finEars()_1_1]] - degree 6, connects to 4 communities
-- [[Features.finEars()_2_1]] - degree 4, connects to 2 communities
+- [[_COMMUNITY_Community 681]] - degree 8, connects to 3 communities
+- [[Connections_900_1_1]] - degree 4, connects to 1 community
+- [[Connections_901_1_1]] - degree 4, connects to 1 community
+- [[Connections_902_1_1]] - degree 4, connects to 1 community
+- [[Connections_903_1_1]] - degree 4, connects to 1 community

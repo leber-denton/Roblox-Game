@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/rivalTeam()_2.md"
+source_file: "vault/Graph/Connections_1120.md"
 type: "document"
-community: "Community 1215"
-location: "L14"
+community: "Community 107"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1215
+  - community/Community_107
 ---
 
 # Connections
 
 ## Connections
-- [[rivalTeam()_1]] - `contains` [EXTRACTED]
+- [[Connections_1158]] - `contains` [EXTRACTED]
+- [[Connections_1120_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1215
+#graphify/document #graphify/EXTRACTED #community/Community_107

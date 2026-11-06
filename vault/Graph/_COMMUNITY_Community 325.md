@@ -1,44 +1,67 @@
 ---
 type: community
-members: 31
+members: 54
 ---
 
 # Community 325
 
-**Members:** 31 nodes
+**Members:** 54 nodes
 
 ## Members
-- [[Community 184]] - document - vault/Graph/_COMMUNITY_Community 184.md
-- [[Community 325]] - document - vault/Graph/_COMMUNITY_Community 325.md
-- [[Connections_3868]] - document - vault/Graph/Connections to other communities_37.md
-- [[Connections_3869]] - document - vault/Graph/Functions_49_1.md
-- [[Connections_3870]] - document - vault/Graph/Functions_76.md
-- [[Connections_3871]] - document - vault/Graph/Live Query (requires Dataview plugin)_46.md
-- [[Connections_3872]] - document - vault/Graph/Members_45.md
-- [[Connections_3873]] - document - vault/Graph/round()_12.md
-- [[Connections_3874]] - document - vault/Graph/Top bridge nodes_38.md
-- [[Connections to other communities_249]] - document - vault/Graph/_COMMUNITY_Community 184.md
-- [[Connections to other communities_250]] - document - vault/Graph/Connections to other communities_37.md
-- [[Connections to other communities_37_1]] - document - vault/Graph/Connections to other communities_37.md
-- [[Functions_112]] - document - vault/Graph/Functions_76.md
-- [[Functions_49_2]] - document - vault/Graph/Functions_49_1.md
-- [[Functions_49_1_1]] - document - vault/Graph/Functions_49_1.md
-- [[Functions_76_1]] - document - vault/Graph/Functions_76.md
-- [[Live Query (requires Dataview plugin)_282]] - document - vault/Graph/_COMMUNITY_Community 184.md
-- [[Live Query (requires Dataview plugin)_283]] - document - vault/Graph/_COMMUNITY_Community 325.md
-- [[Live Query (requires Dataview plugin)_284]] - document - vault/Graph/Live Query (requires Dataview plugin)_46.md
-- [[Live Query (requires Dataview plugin)_46_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_46.md
-- [[Members_286]] - document - vault/Graph/_COMMUNITY_Community 184.md
-- [[Members_287]] - document - vault/Graph/_COMMUNITY_Community 325.md
-- [[Members_288]] - document - vault/Graph/Members_45.md
-- [[Members_45_1]] - document - vault/Graph/Members_45.md
-- [[Top bridge nodes_255]] - document - vault/Graph/_COMMUNITY_Community 184.md
-- [[Top bridge nodes_256]] - document - vault/Graph/Top bridge nodes_38.md
-- [[Top bridge nodes_38_1]] - document - vault/Graph/Top bridge nodes_38.md
+- [[Community 121_2]] - document - vault/Graph/Community 121.md
+- [[Community 121_1]] - document - vault/Graph/Community 121.md
+- [[Community 184_1]] - document - vault/Graph/Community 184.md
+- [[Community 184_2]] - document - vault/Graph/_COMMUNITY_Community 184.md
+- [[Community 184]] - document - vault/Graph/Community 184.md
+- [[Community 325_1]] - document - vault/Graph/Community 325.md
+- [[Community 325_2]] - document - vault/Graph/_COMMUNITY_Community 325.md
+- [[Community 325]] - document - vault/Graph/Community 325.md
+- [[Community 497]] - document - vault/Graph/_COMMUNITY_Community 497.md
+- [[Connections_16743]] - document - vault/Graph/build()_4_1.md
+- [[Connections_16744]] - document - vault/Graph/Community 121.md
+- [[Connections_16745]] - document - vault/Graph/Community 184.md
+- [[Connections_16746]] - document - vault/Graph/Community 325.md
+- [[Connections_16747]] - document - vault/Graph/Functions_112_1.md
+- [[Connections_16748]] - document - vault/Graph/Functions_112.md
+- [[Connections_16749]] - document - vault/Graph/Functions_145.md
+- [[Connections_16750]] - document - vault/Graph/Functions_51.md
+- [[Connections_16751]] - document - vault/Graph/hideOwn()_1_1.md
+- [[Connections_16752]] - document - vault/Graph/hideOwn()_2_1.md
+- [[Connections_16753]] - document - vault/Graph/round()_12_1.md
+- [[Connections_16754]] - document - vault/Graph/Top bridge nodes_38_1.md
+- [[Connections to other communities_1123]] - document - vault/Graph/_COMMUNITY_Community 184.md
+- [[Connections to other communities_1124]] - document - vault/Graph/_COMMUNITY_Community 325.md
+- [[Connections to other communities_1125]] - document - vault/Graph/_COMMUNITY_Community 497.md
+- [[Functions_193]] - document - vault/Graph/Functions_51.md
+- [[Functions_112_2]] - document - vault/Graph/Functions_112.md
+- [[Functions_112_3]] - document - vault/Graph/Functions_112.md
+- [[Functions_112_1]] - document - vault/Graph/Functions_112_1.md
+- [[Functions_112_1_1]] - document - vault/Graph/Functions_112_1.md
+- [[Functions_145_1]] - document - vault/Graph/Functions_145.md
+- [[Functions_145_2]] - document - vault/Graph/Functions_145.md
+- [[Functions_51_2]] - document - vault/Graph/Functions_51.md
+- [[Live Query (requires Dataview plugin)_1359]] - document - vault/Graph/_COMMUNITY_Community 184.md
+- [[Live Query (requires Dataview plugin)_1360]] - document - vault/Graph/_COMMUNITY_Community 325.md
+- [[Live Query (requires Dataview plugin)_1361]] - document - vault/Graph/_COMMUNITY_Community 497.md
+- [[Members_1372]] - document - vault/Graph/_COMMUNITY_Community 184.md
+- [[Members_1373]] - document - vault/Graph/_COMMUNITY_Community 325.md
+- [[Members_1374]] - document - vault/Graph/_COMMUNITY_Community 497.md
+- [[Top bridge nodes_1123]] - document - vault/Graph/_COMMUNITY_Community 184.md
+- [[Top bridge nodes_1124]] - document - vault/Graph/_COMMUNITY_Community 325.md
+- [[Top bridge nodes_1125]] - document - vault/Graph/_COMMUNITY_Community 497.md
+- [[Top bridge nodes_38_2]] - document - vault/Graph/Top bridge nodes_38_1.md
+- [[Top bridge nodes_38_1]] - document - vault/Graph/Top bridge nodes_38_1.md
 - [[_COMMUNITY_Community 184]] - document - vault/Graph/_COMMUNITY_Community 184.md
 - [[_COMMUNITY_Community 325]] - document - vault/Graph/_COMMUNITY_Community 325.md
-- [[round()_16]] - document - vault/Graph/round()_12.md
-- [[round()_12_1]] - document - vault/Graph/round()_12.md
+- [[_COMMUNITY_Community 497]] - document - vault/Graph/_COMMUNITY_Community 497.md
+- [[build()_4_1]] - document - vault/Graph/build()_4_1.md
+- [[build()_4_1_1]] - document - vault/Graph/build()_4_1.md
+- [[hideOwn()_1_1_1]] - document - vault/Graph/hideOwn()_1_1.md
+- [[hideOwn()_1_1_2]] - document - vault/Graph/hideOwn()_1_1.md
+- [[hideOwn()_2_1_1]] - document - vault/Graph/hideOwn()_2_1.md
+- [[hideOwn()_2_1_2]] - document - vault/Graph/hideOwn()_2_1.md
+- [[round()_12_1]] - document - vault/Graph/round()_12_1.md
+- [[round()_12_1_1]] - document - vault/Graph/round()_12_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -48,8 +71,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 184]]
+- 7 edges to [[_COMMUNITY_Community 121]]
+- 3 edges to [[_COMMUNITY_Community 497]]
+- 2 edges to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 1068]]
+- 1 edge to [[_COMMUNITY_Community 1087]]
+- 1 edge to [[_COMMUNITY_Community 1131]]
+- 1 edge to [[_COMMUNITY_Community 1572]]
+- 1 edge to [[_COMMUNITY_Community 239]]
+- 1 edge to [[_COMMUNITY_Community 508]]
+- 1 edge to [[_COMMUNITY_Community 342]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 184]] - degree 10, connects to 2 communities
+- [[_COMMUNITY_Community 325]] - degree 18, connects to 9 communities
+- [[_COMMUNITY_Community 184]] - degree 12, connects to 2 communities
+- [[hideOwn()_1_1_1]] - degree 6, connects to 2 communities
+- [[_COMMUNITY_Community 497]] - degree 8, connects to 1 community
+- [[hideOwn()_2_1_1]] - degree 5, connects to 1 community

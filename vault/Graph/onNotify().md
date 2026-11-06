@@ -12,7 +12,7 @@ tags:
 # onNotify()
 
 ## Connections
-- [[HUD.client.luau]] - `contains` [EXTRACTED]
+- [[HUD.client.luau_5]] - `contains` [EXTRACTED]
 - [[fadeAndDestroy()]] - `calls` [EXTRACTED]
 - [[showAnnouncement()]] - `calls` [EXTRACTED]
 

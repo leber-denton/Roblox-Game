@@ -1,35 +1,38 @@
 ---
 type: community
-members: 22
+members: 25
 ---
 
 # Community 116
 
-**Members:** 22 nodes
+**Members:** 25 nodes
 
 ## Members
-- [[Community 45]] - document - vault/Graph/_COMMUNITY_Community 45.md
-- [[Connections_397]] - document - vault/Graph/describe().md
-- [[Connections_398]] - document - vault/Graph/EventHUD.client.luau_1.md
-- [[Connections_399]] - document - vault/Graph/fmt().md
-- [[Connections_400]] - document - vault/Graph/new()_8.md
-- [[Connections_401]] - document - vault/Graph/onRareCatch().md
-- [[Connections_402]] - document - vault/Graph/round()_4.md
-- [[EventHUD.client.luau]] - document - vault/Graph/EventHUD.client.luau_1.md
-- [[EventHUD.client.luau_1]] - document - vault/Graph/EventHUD.client.luau_1.md
-- [[Live Query (requires Dataview plugin)_86]] - document - vault/Graph/_COMMUNITY_Community 45.md
-- [[Members_86]] - document - vault/Graph/_COMMUNITY_Community 45.md
-- [[_COMMUNITY_Community 45]] - document - vault/Graph/_COMMUNITY_Community 45.md
-- [[describe()_2]] - document - vault/Graph/describe().md
-- [[describe()_1]] - document - vault/Graph/describe().md
-- [[fmt()_2]] - document - vault/Graph/fmt().md
-- [[fmt()_1]] - document - vault/Graph/fmt().md
-- [[new()_15]] - document - vault/Graph/new()_8.md
-- [[new()_8_1]] - document - vault/Graph/new()_8.md
-- [[onRareCatch()_2]] - document - vault/Graph/onRareCatch().md
-- [[onRareCatch()_1]] - document - vault/Graph/onRareCatch().md
-- [[round()_7]] - document - vault/Graph/round()_4.md
-- [[round()_4_1]] - document - vault/Graph/round()_4.md
+- [[Connections_2901]] - document - vault/Graph/Connections_5128.md
+- [[Connections_2902]] - document - vault/Graph/Connections_5128.md
+- [[Connections_2903]] - document - vault/Graph/Connections_5129.md
+- [[Connections_2904]] - document - vault/Graph/Connections_5129.md
+- [[Connections_2905]] - document - vault/Graph/Connections_5130.md
+- [[Connections_2906]] - document - vault/Graph/Connections_5130.md
+- [[Connections_2907]] - document - vault/Graph/Connections_5131.md
+- [[Connections_2908]] - document - vault/Graph/Connections_5131.md
+- [[Connections_2909]] - document - vault/Graph/Connections to other communities_275.md
+- [[Connections_2910]] - document - vault/Graph/Live Query (requires Dataview plugin)_365.md
+- [[Connections_2911]] - document - vault/Graph/Members_369.md
+- [[Connections_2912]] - document - vault/Graph/Top bridge nodes_273.md
+- [[Connections to other communities_200]] - document - vault/Graph/Connections to other communities_275.md
+- [[Connections to other communities_275]] - document - vault/Graph/Connections to other communities_275.md
+- [[Connections_5128]] - document - vault/Graph/Connections_5128.md
+- [[Connections_5129]] - document - vault/Graph/Connections_5129.md
+- [[Connections_5130]] - document - vault/Graph/Connections_5130.md
+- [[Connections_5131]] - document - vault/Graph/Connections_5131.md
+- [[Live Query (requires Dataview plugin)_251]] - document - vault/Graph/Live Query (requires Dataview plugin)_365.md
+- [[Live Query (requires Dataview plugin)_365]] - document - vault/Graph/Live Query (requires Dataview plugin)_365.md
+- [[Members_251]] - document - vault/Graph/Members_369.md
+- [[Members_369]] - document - vault/Graph/Members_369.md
+- [[Top bridge nodes_193]] - document - vault/Graph/Top bridge nodes_273.md
+- [[Top bridge nodes_273]] - document - vault/Graph/Top bridge nodes_273.md
+- [[_COMMUNITY_Community 1365]] - document - vault/Graph/_COMMUNITY_Community 1365.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -39,10 +42,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 506]]
-- 2 edges to [[_COMMUNITY_Community 602]]
-- 1 edge to [[_COMMUNITY_Community 570]]
-- 1 edge to [[_COMMUNITY_Community 755]]
+- 3 edges to [[_COMMUNITY_Community 1365]]
+- 1 edge to [[_COMMUNITY_Community 2829]]
+- 1 edge to [[_COMMUNITY_Community 240]]
+- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 1566]]
+- 1 edge to [[_COMMUNITY_Community 1633]]
+- 1 edge to [[_COMMUNITY_Community 2267]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 45]] - degree 15, connects to 4 communities
+- [[_COMMUNITY_Community 1365]] - degree 17, connects to 7 communities

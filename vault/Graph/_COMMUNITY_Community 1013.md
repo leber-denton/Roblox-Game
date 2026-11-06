@@ -10,8 +10,8 @@ members: 5
 ## Members
 - [[Community 160]] - document - vault/Graph/_COMMUNITY_Community 160.md
 - [[Connections to other communities_10]] - document - vault/Graph/_COMMUNITY_Community 160.md
-- [[Live Query (requires Dataview plugin)_10]] - document - vault/Graph/_COMMUNITY_Community 160.md
-- [[Members_10]] - document - vault/Graph/_COMMUNITY_Community 160.md
+- [[Live Query (requires Dataview plugin)_15]] - document - vault/Graph/_COMMUNITY_Community 160.md
+- [[Members_15]] - document - vault/Graph/_COMMUNITY_Community 160.md
 - [[Top bridge nodes_12]] - document - vault/Graph/_COMMUNITY_Community 160.md
 
 ## Live Query (requires Dataview plugin)
@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 397]]
+- 1 edge to [[_COMMUNITY_Community 160]]
 
 ## Top bridge nodes
 - [[Community 160]] - degree 5, connects to 1 community

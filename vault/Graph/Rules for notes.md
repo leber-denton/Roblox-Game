@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Index.md"
 type: "document"
-community: "Community 32"
+community: "Community 13"
 location: "L13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_32
+  - community/Community_13
 ---
 
 # Rules for notes
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Creature Quest Vault — Start Here]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_32
+#graphify/document #graphify/EXTRACTED #community/Community_13

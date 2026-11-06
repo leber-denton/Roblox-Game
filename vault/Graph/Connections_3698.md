@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/GraphBattleFX.md"
+source_file: "vault/Graph/Connections_2549.md"
 type: "document"
-community: "Community 303"
-location: "L14"
+community: "Community 1208"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_303
+  - community/Community_1208
 ---
 
 # Connections
 
 ## Connections
-- [[GraphBattleFX_2]] - `contains` [EXTRACTED]
+- [[Connections_3699]] - `contains` [EXTRACTED]
+- [[Connections_2549_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_303
+#graphify/document #graphify/EXTRACTED #community/Community_1208

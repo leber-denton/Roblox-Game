@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/GameData.battleItemOrder().md"
+source_file: "vault/Graph/GameData.battleItemOrder()_1_1.md"
 type: "document"
-community: "Community 120"
-location: "L1"
+community: "Community 1083"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_120
+  - community/Community_1083
 ---
 
-# GameData.battleItemOrder().md
+# GameData.battleItemOrder()_1.md
 
 ## Connections
-- [[GameData.battleItemOrder()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
-- [[showMenu()_1]] - `references` [EXTRACTED]
+- [[Connections_1354]] - `contains` [EXTRACTED]
+- [[GameData.battleItemOrder()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_120
+#graphify/document #graphify/EXTRACTED #community/Community_1083

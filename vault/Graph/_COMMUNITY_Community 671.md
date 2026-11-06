@@ -1,22 +1,31 @@
 ---
 type: community
-members: 9
+members: 18
 ---
 
 # Community 671
 
-**Members:** 9 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Connections_4999]] - document - vault/Graph/Connections_1116.md
-- [[Connections_5000]] - document - vault/Graph/Connections_1116.md
-- [[Connections_5001]] - document - vault/Graph/Shapes.bird()_1.md
-- [[Connections_5002]] - document - vault/Graph/Shapes.bird()_2.md
-- [[Connections_1116_1]] - document - vault/Graph/Connections_1116.md
-- [[Shapes.bird()_4]] - document - vault/Graph/Shapes.bird()_2.md
-- [[Shapes.bird()_3]] - document - vault/Graph/Shapes.bird()_1.md
-- [[Shapes.bird()_1_1]] - document - vault/Graph/Shapes.bird()_1.md
-- [[Shapes.bird()_2_1]] - document - vault/Graph/Shapes.bird()_2.md
+- [[Community 578]] - document - vault/Graph/_COMMUNITY_Community 578.md
+- [[Connections_21880]] - document - vault/Graph/Connections_868_1.md
+- [[Connections_21881]] - document - vault/Graph/Connections_869_1.md
+- [[Connections_21882]] - document - vault/Graph/Connections_870_1.md
+- [[Connections_21883]] - document - vault/Graph/Connections_871_1.md
+- [[Connections to other communities_1473]] - document - vault/Graph/_COMMUNITY_Community 578.md
+- [[Connections_868_2]] - document - vault/Graph/Connections_868_1.md
+- [[Connections_868_1_1]] - document - vault/Graph/Connections_868_1.md
+- [[Connections_869_2]] - document - vault/Graph/Connections_869_1.md
+- [[Connections_869_1_1]] - document - vault/Graph/Connections_869_1.md
+- [[Connections_870_2]] - document - vault/Graph/Connections_870_1.md
+- [[Connections_870_1_1]] - document - vault/Graph/Connections_870_1.md
+- [[Connections_871_2]] - document - vault/Graph/Connections_871_1.md
+- [[Connections_871_1_1]] - document - vault/Graph/Connections_871_1.md
+- [[Live Query (requires Dataview plugin)_1729]] - document - vault/Graph/_COMMUNITY_Community 578.md
+- [[Members_1729]] - document - vault/Graph/_COMMUNITY_Community 578.md
+- [[Top bridge nodes_1470]] - document - vault/Graph/_COMMUNITY_Community 578.md
+- [[_COMMUNITY_Community 578]] - document - vault/Graph/_COMMUNITY_Community 578.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,12 +35,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 151]]
-- 1 edge to [[_COMMUNITY_Community 137]]
-- 1 edge to [[_COMMUNITY_Community 139]]
+- 5 edges to [[_COMMUNITY_Community 289]]
+- 1 edge to [[_COMMUNITY_Community 168]]
 - 1 edge to [[_COMMUNITY_Community 176]]
+- 1 edge to [[_COMMUNITY_Community 3725]]
 
 ## Top bridge nodes
-- [[Shapes.bird()_1_1]] - degree 6, connects to 4 communities
-- [[Shapes.bird()_2_1]] - degree 4, connects to 1 community
-- [[Connections_1116_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 578]] - degree 9, connects to 4 communities
+- [[Connections_868_1_1]] - degree 4, connects to 1 community
+- [[Connections_869_1_1]] - degree 4, connects to 1 community
+- [[Connections_871_1_1]] - degree 4, connects to 1 community
+- [[Connections_870_1_1]] - degree 4, connects to 1 community

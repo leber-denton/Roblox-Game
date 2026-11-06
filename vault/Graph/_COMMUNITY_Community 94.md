@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 94
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_6234]] - document - vault/Graph/Functions_90.md
-- [[Functions_192]] - document - vault/Graph/Functions_90.md
-- [[Functions_90_1]] - document - vault/Graph/Functions_90.md
+- [[Connections_24142]] - document - vault/Graph/SaveService_3.md
+- [[Connections_24143]] - document - vault/Graph/SaveService.md
+- [[GraphSaveService_5]] - document - vault/Graph/SaveService.md
+- [[SaveService_5]] - document - vault/Graph/SaveService.md
+- [[SaveService_3_1]] - document - vault/Graph/SaveService_3.md
+- [[SaveService_3_2]] - document - vault/Graph/SaveService_3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,8 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 408]]
-- 1 edge to [[_COMMUNITY_Community 90]]
+- 1 edge to [[_COMMUNITY_Community 2045]]
+- 1 edge to [[_COMMUNITY_Community 2345]]
 
 ## Top bridge nodes
-- [[Functions_90_1]] - degree 3, connects to 2 communities
+- [[SaveService_3_1]] - degree 4, connects to 2 communities

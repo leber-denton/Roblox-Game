@@ -1,28 +1,34 @@
 ---
 type: community
-members: 15
+members: 21
 ---
 
 # Community 470
 
-**Members:** 15 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Community 324]] - document - vault/Graph/_COMMUNITY_Community 324.md
-- [[Connections_4350]] - document - vault/Graph/Functions_48_1.md
-- [[Connections_4351]] - document - vault/Graph/setOpen()_4.md
-- [[Connections_4352]] - document - vault/Graph/updateVisible()_7.md
-- [[Connections to other communities_337]] - document - vault/Graph/_COMMUNITY_Community 324.md
-- [[Functions_48_1_1]] - document - vault/Graph/Functions_48_1.md
-- [[Functions_48_1_2]] - document - vault/Graph/Functions_48_1.md
-- [[Live Query (requires Dataview plugin)_375]] - document - vault/Graph/_COMMUNITY_Community 324.md
-- [[Members_377]] - document - vault/Graph/_COMMUNITY_Community 324.md
-- [[Top bridge nodes_338]] - document - vault/Graph/_COMMUNITY_Community 324.md
-- [[_COMMUNITY_Community 324]] - document - vault/Graph/_COMMUNITY_Community 324.md
-- [[setOpen()_8]] - document - vault/Graph/setOpen()_4.md
-- [[setOpen()_4_1]] - document - vault/Graph/setOpen()_4.md
-- [[updateVisible()_12]] - document - vault/Graph/updateVisible()_7.md
-- [[updateVisible()_7_1]] - document - vault/Graph/updateVisible()_7.md
+- [[Connections_19613]] - document - vault/Graph/daysFromCivil().md
+- [[Connections_19614]] - document - vault/Graph/nthSunday().md
+- [[Connections_19615]] - document - vault/Graph/pacificDST().md
+- [[Connections_19616]] - document - vault/Graph/RareEventService.isLive().md
+- [[Connections_19617]] - document - vault/Graph/schedule().md
+- [[Connections_19618]] - document - vault/Graph/setBoosts().md
+- [[Connections_19619]] - document - vault/Graph/WeeklyEventService.init().md
+- [[RareEventService.isLive()_4]] - document - vault/Graph/RareEventService.isLive().md
+- [[RareEventService.isLive()_3]] - document - vault/Graph/RareEventService.isLive().md
+- [[WeeklyEventService.init()_4]] - document - vault/Graph/WeeklyEventService.init().md
+- [[WeeklyEventService.init()_3]] - document - vault/Graph/WeeklyEventService.init().md
+- [[daysFromCivil()_4]] - document - vault/Graph/daysFromCivil().md
+- [[daysFromCivil()_3]] - document - vault/Graph/daysFromCivil().md
+- [[nthSunday()_4]] - document - vault/Graph/nthSunday().md
+- [[nthSunday()_3]] - document - vault/Graph/nthSunday().md
+- [[pacificDST()_4]] - document - vault/Graph/pacificDST().md
+- [[pacificDST()_3]] - document - vault/Graph/pacificDST().md
+- [[schedule()_4]] - document - vault/Graph/schedule().md
+- [[schedule()_3]] - document - vault/Graph/schedule().md
+- [[setBoosts()_4]] - document - vault/Graph/setBoosts().md
+- [[setBoosts()_3]] - document - vault/Graph/setBoosts().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,12 +38,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 175]]
-- 1 edge to [[_COMMUNITY_Community 188]]
-- 1 edge to [[_COMMUNITY_Community 239]]
-- 1 edge to [[_COMMUNITY_Community 899]]
+- 7 edges to [[_COMMUNITY_Community 577]]
+- 2 edges to [[_COMMUNITY_Community 53]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 324]] - degree 8, connects to 4 communities
-- [[Functions_48_1_1]] - degree 3, connects to 1 community
+- [[WeeklyEventService.init()_3]] - degree 6, connects to 2 communities
+- [[RareEventService.isLive()_3]] - degree 4, connects to 2 communities
+- [[schedule()_3]] - degree 5, connects to 1 community
+- [[daysFromCivil()_3]] - degree 4, connects to 1 community
+- [[nthSunday()_3]] - degree 4, connects to 1 community

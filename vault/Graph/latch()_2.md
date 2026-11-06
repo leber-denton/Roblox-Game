@@ -14,7 +14,8 @@ tags:
 ## Connections
 - [[Connections_727_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[latch()_4]] - `contains` [EXTRACTED]
-- [[latch()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 167]] - `references` [EXTRACTED]
+- [[latch()_2_1]] - `contains` [EXTRACTED]
+- [[latch()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_167

@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.starProgress().md"
+source_file: "vault/Graph/BattleData.starProgress()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2773"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2773
 ---
 
-# BattleData.starProgress()
+# BattleData.starProgress()_4.md
 
 ## Connections
-- [[BattleData.starProgress()_3]] - `contains` [EXTRACTED]
-- [[Connections_5694]] - `contains` [EXTRACTED]
+- [[BattleData.starProgress()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2773

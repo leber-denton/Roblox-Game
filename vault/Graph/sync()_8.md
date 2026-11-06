@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/sync()_5.md"
+source_file: "vault/Graph/sync()_9.md"
 type: "document"
-community: "Community 500"
+community: "Community 2323"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_500
+  - community/Community_2323
 ---
 
 # sync()
 
 ## Connections
-- [[Connections_4443]] - `contains` [EXTRACTED]
-- [[sync()_5_1]] - `contains` [EXTRACTED]
+- [[Connections_13492]] - `contains` [EXTRACTED]
+- [[sync()_9]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_500
+#graphify/document #graphify/EXTRACTED #community/Community_2323

@@ -1,23 +1,21 @@
 ---
-source_file: "vault/Graph/GymService.luau_2.md"
+source_file: "vault/Graph/GymService.luau_2_1.md"
 type: "document"
-community: "Community 468"
+community: "Community 107"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_468
+  - community/Community_107
 ---
 
-# GymService.luau_2.md
+# GymService.luau_2_1.md
 
 ## Connections
-- [[Connections_191_1]] - `references` [EXTRACTED]
-- [[GymService.init()_3]] - `references` [EXTRACTED]
-- [[GymService.luau_4]] - `contains` [EXTRACTED]
 - [[GymService.luau_1]] - `references` [EXTRACTED]
+- [[GymService.luau_2_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 107]] - `references` [EXTRACTED]
-- [[placeLeaders()_3]] - `references` [EXTRACTED]
-- [[setup()_1_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 414]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 468]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_468
+#graphify/document #graphify/EXTRACTED #community/Community_107

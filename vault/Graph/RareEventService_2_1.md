@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/RareEventService_2.md"
+source_file: "vault/Graph/RareEventService_2_1.md"
 type: "document"
-community: "Community 292"
-location: "L12"
+community: "Community 577"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_577
 ---
 
-# RareEventService_2.md
+# RareEventService_2_1.md
 
 ## Connections
-- [[Connections_3617]] - `contains` [EXTRACTED]
-- [[RareEventService_2]] - `contains` [EXTRACTED]
+- [[GraphRareEventService_1]] - `references` [EXTRACTED]
+- [[RareEventService_2_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 292]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 316]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 577]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_577

@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/trade.update()_2.md"
+source_file: "vault/Graph/trade.update().md"
 type: "document"
-community: "Community 226"
-location: "L1"
+community: "Community 319"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_226
+  - community/Community_319
 ---
 
-# trade.update()_2.md
+# trade.update()
 
 ## Connections
-- [[_COMMUNITY_Community 203]] - `references` [EXTRACTED]
-- [[trade.update()_4]] - `contains` [EXTRACTED]
-- [[trade.update()_1]] - `references` [EXTRACTED]
+- [[Connections_16488]] - `contains` [EXTRACTED]
+- [[trade.update()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_226
+#graphify/document #graphify/EXTRACTED #community/Community_319

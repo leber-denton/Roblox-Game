@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/serverstorage_waitforchild_1.md"
+source_file: "vault/Graph/GraphAdminPanel.md"
 type: "document"
-community: "Community 220"
+community: "Community 1179"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_220
+  - community/Community_1179
 ---
 
 # Connections
 
 ## Connections
-- [[serverstorage_waitforchild_1_1]] - `contains` [EXTRACTED]
+- [[GraphAdminPanel_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_220
+#graphify/document #graphify/EXTRACTED #community/Community_1179

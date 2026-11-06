@@ -12,10 +12,11 @@ tags:
 # typesOf()_2.md
 
 ## Connections
-- [[Connections_866_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 - [[typesOf()_1]] - `references` [EXTRACTED]
-- [[typesOf()_2_1]] - `contains` [EXTRACTED]
+- [[typesOf()_2_3]] - `contains` [EXTRACTED]
+- [[typesOf()_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

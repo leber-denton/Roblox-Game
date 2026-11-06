@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/myBase().md"
+source_file: "vault/Graph/myBase()_1_1.md"
 type: "document"
-community: "Community 23"
-location: "L1"
+community: "Community 2693"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_23
+  - community/Community_2693
 ---
 
-# myBase().md
+# myBase()_1.md
 
 ## Connections
-- [[Functions_72_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[aimRay()_1]] - `references` [EXTRACTED]
-- [[myBase()_2]] - `contains` [EXTRACTED]
-- [[placedModel()_3]] - `references` [EXTRACTED]
+- [[Connections_15075]] - `contains` [EXTRACTED]
+- [[myBase()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_23
+#graphify/document #graphify/EXTRACTED #community/Community_2693

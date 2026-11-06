@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/Connections_699.md"
+source_file: "vault/Graph/Connections_5131.md"
 type: "document"
-community: "Community 711"
-location: "L14"
+community: "Community 116"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_711
+  - community/Community_116
 ---
 
-# Connections
+# Connections_5131.md
 
 ## Connections
-- [[Connections_5130]] - `contains` [EXTRACTED]
+- [[Connections_2907]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_273]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1365]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_711
+#graphify/document #graphify/EXTRACTED #community/Community_116

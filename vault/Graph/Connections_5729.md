@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/complete().md"
+source_file: "vault/Graph/Shapes.turtle()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 133"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_133
 ---
 
 # Connections
 
 ## Connections
-- [[complete()_5]] - `contains` [EXTRACTED]
+- [[Shapes.turtle()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_133

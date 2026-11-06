@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_4740]] - document - vault/Graph/GraphFirstSpawnLock_1.md
-- [[Connections_4741]] - document - vault/Graph/GraphFirstSpawnLock.md
-- [[GraphFirstSpawnLock]] - document - vault/Graph/GraphFirstSpawnLock.md
-- [[GraphFirstSpawnLock_2]] - document - vault/Graph/GraphFirstSpawnLock.md
-- [[GraphFirstSpawnLock_1]] - document - vault/Graph/GraphFirstSpawnLock_1.md
-- [[GraphFirstSpawnLock_1_1]] - document - vault/Graph/GraphFirstSpawnLock_1.md
+- [[Connections_21134]] - document - vault/Graph/Connections_4740.md
+- [[Connections_21135]] - document - vault/Graph/Connections_4740.md
+- [[Connections_21136]] - document - vault/Graph/Connections_4741.md
+- [[Connections_21137]] - document - vault/Graph/Connections_4741.md
+- [[Connections_4740_1]] - document - vault/Graph/Connections_4740.md
+- [[Connections_4741_1]] - document - vault/Graph/Connections_4741.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 328]]
-- 1 edge to [[_COMMUNITY_Community 92]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[GraphFirstSpawnLock]] - degree 4, connects to 2 communities
-- [[GraphFirstSpawnLock_1]] - degree 3, connects to 1 community
+- [[Connections_4740_1]] - degree 3, connects to 1 community
+- [[Connections_4741_1]] - degree 3, connects to 1 community

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/corner().md"
+source_file: "vault/Graph/corner()_3.md"
 type: "document"
-community: "Community 30"
+community: "Community 204"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_204
 ---
 
-# corner()
+# corner().md
 
 ## Connections
-- [[Connections_3684]] - `contains` [EXTRACTED]
-- [[corner()_4]] - `contains` [EXTRACTED]
+- [[Connections_12151]] - `contains` [EXTRACTED]
+- [[corner()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_204

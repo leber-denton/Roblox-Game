@@ -12,7 +12,7 @@ tags:
 # handle()
 
 ## Connections
-- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_7]] - `contains` [EXTRACTED]
 - [[applyState()]] - `calls` [EXTRACTED]
 - [[battleCamera()]] - `calls` [EXTRACTED]
 - [[clearButtons()]] - `calls` [EXTRACTED]

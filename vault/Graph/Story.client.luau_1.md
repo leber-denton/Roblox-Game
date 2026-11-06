@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Story.client.luau_1.md"
+source_file: "vault/Graph/Story.client.luau.md"
 type: "document"
-community: "Community 181"
-location: "L1"
+community: "Community 122"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_181
+  - community/Community_122
 ---
 
-# Story.client.luau_1.md
+# Story.client.luau.md
 
 ## Connections
-- [[Story.client.luau]] - `references` [EXTRACTED]
-- [[Story.client.luau_1_1]] - `contains` [EXTRACTED]
-- [[Story.client.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 181]] - `references` [EXTRACTED]
+- [[Connections_3947]] - `contains` [EXTRACTED]
+- [[Story.client.luau]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_181
+#graphify/document #graphify/EXTRACTED #community/Community_122

@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/BattleData.xpForLevel()_2.md"
+source_file: "vault/Graph/BattleData.xpForLevel()_3.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 3075"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_3075
 ---
 
-# BattleData.xpForLevel()_2.md
+# BattleData.xpForLevel().md
 
 ## Connections
-- [[BattleData.xpForLevel()_1]] - `references` [EXTRACTED]
-- [[BattleData.xpForLevel()_2_1]] - `contains` [EXTRACTED]
-- [[Connections_979]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[BattleData.xpForLevel()_3]] - `contains` [EXTRACTED]
+- [[Connections_16214]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_3075

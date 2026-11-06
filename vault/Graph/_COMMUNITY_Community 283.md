@@ -1,18 +1,34 @@
 ---
 type: community
-members: 5
+members: 21
 ---
 
 # Community 283
 
-**Members:** 5 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Community 32]] - document - vault/Graph/_COMMUNITY_Community 32.md
-- [[Connections to other communities_224]] - document - vault/Graph/_COMMUNITY_Community 32.md
-- [[Live Query (requires Dataview plugin)_255]] - document - vault/Graph/_COMMUNITY_Community 32.md
-- [[Members_259]] - document - vault/Graph/_COMMUNITY_Community 32.md
-- [[Top bridge nodes_230]] - document - vault/Graph/_COMMUNITY_Community 32.md
+- [[Community 1481]] - document - vault/Graph/_COMMUNITY_Community 1481.md
+- [[Connections_15568]] - document - vault/Graph/Connections_6218.md
+- [[Connections_15569]] - document - vault/Graph/Connections_6218.md
+- [[Connections_15570]] - document - vault/Graph/Connections_6219.md
+- [[Connections_15571]] - document - vault/Graph/Connections_6219.md
+- [[Connections_15572]] - document - vault/Graph/Connections_6220.md
+- [[Connections_15573]] - document - vault/Graph/Connections_6220.md
+- [[Connections_15574]] - document - vault/Graph/TutorialCompletion.spec.luau_1.md
+- [[Connections_15575]] - document - vault/Graph/TutorialCompletion.spec.luau.md
+- [[Connections to other communities_908]] - document - vault/Graph/_COMMUNITY_Community 1481.md
+- [[Connections_6218_1]] - document - vault/Graph/Connections_6218.md
+- [[Connections_6219_1]] - document - vault/Graph/Connections_6219.md
+- [[Connections_6220_1]] - document - vault/Graph/Connections_6220.md
+- [[Live Query (requires Dataview plugin)_1118]] - document - vault/Graph/_COMMUNITY_Community 1481.md
+- [[Members_1128]] - document - vault/Graph/_COMMUNITY_Community 1481.md
+- [[Top bridge nodes_906]] - document - vault/Graph/_COMMUNITY_Community 1481.md
+- [[TutorialCompletion.spec.luau_3]] - document - vault/Graph/TutorialCompletion.spec.luau_1.md
+- [[TutorialCompletion.spec.luau]] - document - vault/Graph/TutorialCompletion.spec.luau.md
+- [[TutorialCompletion.spec.luau_4]] - document - vault/Graph/TutorialCompletion.spec.luau.md
+- [[TutorialCompletion.spec.luau_1]] - document - vault/Graph/TutorialCompletion.spec.luau_1.md
+- [[_COMMUNITY_Community 1481]] - document - vault/Graph/_COMMUNITY_Community 1481.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +38,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 88]]
+- 2 edges to [[_COMMUNITY_Community 486]]
 
 ## Top bridge nodes
-- [[Community 32]] - degree 5, connects to 1 community
+- [[_COMMUNITY_Community 1481]] - degree 7, connects to 1 community
+- [[TutorialCompletion.spec.luau]] - degree 4, connects to 1 community

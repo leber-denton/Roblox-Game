@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/TutorialService_2.md"
+source_file: "vault/Graph/teamFor()_2.md"
 type: "document"
-community: "Community 976"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_976
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[TutorialService_2_2]] - `contains` [EXTRACTED]
+- [[teamFor()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_976
+#graphify/document #graphify/EXTRACTED #community/Community_134

@@ -1,22 +1,20 @@
 ---
-source_file: "vault/Graph/npcs().md"
+source_file: "vault/Graph/npcs()_1.md"
 type: "document"
-community: "Community 333"
+community: "Community 2050"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_333
+  - community/Community_2050
 ---
 
-# npcs().md
+# npcs()_1.md
 
 ## Connections
-- [[Functions_82_1]] - `references` [EXTRACTED]
-- [[NpcGuard.luau_1]] - `references` [EXTRACTED]
-- [[NpcGuard.run()_1]] - `references` [EXTRACTED]
-- [[NpcGuard.stamp()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 38]] - `references` [EXTRACTED]
-- [[npcs()_2]] - `contains` [EXTRACTED]
+- [[Connections_228_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
+- [[npcs()_1_1]] - `contains` [EXTRACTED]
+- [[npcs()_1_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_333
+#graphify/document #graphify/EXTRACTED #community/Community_2050

@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/TutorialService.logFunnel()_1.md"
+source_file: "vault/Graph/TutorialService.logFunnel().md"
 type: "document"
-community: "Community 134"
+community: "Community 276"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_276
 ---
 
-# TutorialService.logFunnel()_1.md
+# TutorialService.logFunnel().md
 
 ## Connections
 - [[TutorialService.finishGuide()_1]] - `references` [EXTRACTED]
-- [[TutorialService.logFunnel()_3]] - `contains` [EXTRACTED]
-- [[TutorialService.logFunnel()_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[TutorialService.logFunnel()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_276

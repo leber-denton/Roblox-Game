@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CodeAdminPanel.md"
+source_file: "vault/Graph/BaseManager.refresh()_1.md"
 type: "document"
-community: "Community 493"
+community: "Community 1242"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_493
+  - community/Community_1242
 ---
 
 # Connections
 
 ## Connections
-- [[CodeAdminPanel_2]] - `contains` [EXTRACTED]
+- [[BaseManager.refresh()_1_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_493
+#graphify/document #graphify/EXTRACTED #community/Community_1242

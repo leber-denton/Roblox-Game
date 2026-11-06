@@ -12,7 +12,8 @@ tags:
 # onPlayerAdded()_1.md
 
 ## Connections
-- [[Connections_438]] - `references` [EXTRACTED]
-- [[onPlayerAdded()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1161]] - `references` [EXTRACTED]
+- [[onPlayerAdded()_1_1]] - `contains` [EXTRACTED]
+- [[onPlayerAdded()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1161

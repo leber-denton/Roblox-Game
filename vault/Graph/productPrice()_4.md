@@ -12,7 +12,7 @@ tags:
 # productPrice()
 
 ## Connections
-- [[Connections_4857]] - `contains` [EXTRACTED]
+- [[Connections_21467]] - `contains` [EXTRACTED]
 - [[productPrice()_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_63

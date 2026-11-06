@@ -1,22 +1,23 @@
 ---
 source_file: "vault/Graph/Features.wings()_1.md"
 type: "document"
-community: "Community 469"
+community: "Community 1548"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_469
+  - community/Community_1548
 ---
 
 # Features.wings()_1.md
 
 ## Connections
-- [[CreatureBuilder.luau_2]] - `references` [EXTRACTED]
-- [[Features.wings()_3]] - `contains` [EXTRACTED]
+- [[Features.wings()_1_2]] - `contains` [EXTRACTED]
 - [[Features.wings()_2_1]] - `references` [EXTRACTED]
+- [[Features.wings()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
-- [[darker()_1_1]] - `references` [EXTRACTED]
+- [[darker()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_469
+#graphify/document #graphify/EXTRACTED #community/Community_1548

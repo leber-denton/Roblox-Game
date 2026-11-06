@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/BattleData.stageMult().md"
+source_file: "vault/Graph/BattleData.stageMult()_6.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 556"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_556
 ---
 
-# BattleData.stageMult()
+# BattleData.stageMult()_6.md
 
 ## Connections
-- [[BattleData.stageMult()_5]] - `contains` [EXTRACTED]
-- [[Connections_5693]] - `contains` [EXTRACTED]
+- [[BattleData.stageMult()_10]] - `contains` [EXTRACTED]
+- [[BattleData.stageMult()_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 556]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_556

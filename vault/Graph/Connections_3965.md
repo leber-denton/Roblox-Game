@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/NpcGuard.stamp().md"
+source_file: "vault/Graph/Connections_2857.md"
 type: "document"
-community: "Community 333"
-location: "L14"
+community: "Community 1222"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_333
+  - community/Community_1222
 ---
 
 # Connections
 
 ## Connections
-- [[NpcGuard.stamp()_2]] - `contains` [EXTRACTED]
+- [[Connections_3966]] - `contains` [EXTRACTED]
+- [[Connections_2857_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_333
+#graphify/document #graphify/EXTRACTED #community/Community_1222

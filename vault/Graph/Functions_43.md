@@ -1,19 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_43.md"
+source_file: "vault/Code/BattleService.md"
 type: "document"
-community: "Community 168"
-location: "L1"
+community: "Community 13"
+location: "L29"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_13
 ---
 
-# Functions_43.md
+# Functions
 
 ## Connections
-- [[Functions_44]] - `contains` [EXTRACTED]
-- [[Functions_48]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 225]] - `references` [EXTRACTED]
+- [[BattleService_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_13

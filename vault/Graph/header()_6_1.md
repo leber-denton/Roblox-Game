@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/header()_6.md"
+source_file: "vault/Graph/header()_6_1.md"
 type: "document"
-community: "Community 149"
+community: "Community 1"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_149
+  - community/Community_1
 ---
 
-# header()_6.md
+# header()_6_1.md
 
 ## Connections
 - [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
-- [[header()_7]] - `contains` [EXTRACTED]
+- [[header()_6_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_149
+#graphify/document #graphify/EXTRACTED #community/Community_1

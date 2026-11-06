@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/countWith().md"
+source_file: "vault/Graph/countWith()_1.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2223"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2223
 ---
 
-# countWith().md
+# countWith()
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[countWith()_4]] - `contains` [EXTRACTED]
-- [[tick()_3]] - `references` [EXTRACTED]
-- [[trainingRates()_3]] - `references` [EXTRACTED]
+- [[Connections_12936]] - `contains` [EXTRACTED]
+- [[countWith()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2223

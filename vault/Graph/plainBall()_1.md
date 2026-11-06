@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/plainBall().md"
+source_file: "vault/Graph/plainBall()_1.md"
 type: "document"
-community: "Community 21"
+community: "Community 18"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_18
 ---
 
-# plainBall().md
+# plainBall()_1.md
 
 ## Connections
-- [[BattleFX.luau_2]] - `references` [EXTRACTED]
-- [[BattleFX.makeBall()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 235]] - `references` [EXTRACTED]
-- [[plainBall()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
+- [[plainBall()_1_2]] - `contains` [EXTRACTED]
+- [[plainBall()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_18

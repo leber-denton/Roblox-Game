@@ -1,37 +1,31 @@
 ---
 type: community
-members: 24
+members: 18
 ---
 
 # Community 490
 
-**Members:** 24 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Community 321]] - document - vault/Graph/_COMMUNITY_Community 321.md
-- [[Connections_4415]] - document - vault/Graph/Functions_18_1.md
-- [[Connections_4416]] - document - vault/Graph/Functions_74.md
-- [[Connections_4417]] - document - vault/Graph/Required by_16_1.md
-- [[Connections_4418]] - document - vault/Graph/Required by_79.md
-- [[Connections_4419]] - document - vault/Graph/Requires_16_1.md
-- [[Connections_4420]] - document - vault/Graph/Requires_76.md
-- [[Connections to other communities_343]] - document - vault/Graph/_COMMUNITY_Community 321.md
-- [[Functions_143]] - document - vault/Graph/Functions_74.md
-- [[Functions_18_2]] - document - vault/Graph/Functions_18_1.md
-- [[Functions_18_1_1]] - document - vault/Graph/Functions_18_1.md
-- [[Functions_74_1]] - document - vault/Graph/Functions_74.md
-- [[Live Query (requires Dataview plugin)_382]] - document - vault/Graph/_COMMUNITY_Community 321.md
-- [[Members_384]] - document - vault/Graph/_COMMUNITY_Community 321.md
-- [[Required by_134]] - document - vault/Graph/Required by_79.md
-- [[Required by_16_2]] - document - vault/Graph/Required by_16_1.md
-- [[Required by_16_1]] - document - vault/Graph/Required by_16_1.md
-- [[Required by_79_1]] - document - vault/Graph/Required by_79.md
-- [[Requires_141]] - document - vault/Graph/Requires_76.md
-- [[Requires_16_2]] - document - vault/Graph/Requires_16_1.md
-- [[Requires_16_1_1]] - document - vault/Graph/Requires_16_1.md
-- [[Requires_76_1]] - document - vault/Graph/Requires_76.md
-- [[Top bridge nodes_344]] - document - vault/Graph/_COMMUNITY_Community 321.md
-- [[_COMMUNITY_Community 321]] - document - vault/Graph/_COMMUNITY_Community 321.md
+- [[Connections_19973]] - document - vault/Graph/claim().md
+- [[Connections_19974]] - document - vault/Graph/SaveService.init().md
+- [[Connections_19975]] - document - vault/Graph/SaveService.load().md
+- [[Connections_19976]] - document - vault/Graph/SaveService.luau_2.md
+- [[Connections_19977]] - document - vault/Graph/SaveService.onLeave().md
+- [[Connections_19978]] - document - vault/Graph/SaveService.save().md
+- [[SaveService.init()_8]] - document - vault/Graph/SaveService.init().md
+- [[SaveService.init()_7]] - document - vault/Graph/SaveService.init().md
+- [[SaveService.load()_8]] - document - vault/Graph/SaveService.load().md
+- [[SaveService.load()_7]] - document - vault/Graph/SaveService.load().md
+- [[SaveService.luau_6]] - document - vault/Graph/SaveService.luau_2.md
+- [[SaveService.luau_2_1]] - document - vault/Graph/SaveService.luau_2.md
+- [[SaveService.onLeave()_8]] - document - vault/Graph/SaveService.onLeave().md
+- [[SaveService.onLeave()_7]] - document - vault/Graph/SaveService.onLeave().md
+- [[SaveService.save()_7]] - document - vault/Graph/SaveService.save().md
+- [[SaveService.save()_6]] - document - vault/Graph/SaveService.save().md
+- [[claim()_8]] - document - vault/Graph/claim().md
+- [[claim()_7]] - document - vault/Graph/claim().md
 
 ## Live Query (requires Dataview plugin)
 
@@ -41,12 +35,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 24]]
-- 1 edge to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 330]]
+- 9 edges to [[_COMMUNITY_Community 276]]
+- 5 edges to [[_COMMUNITY_Community 844]]
+- 2 edges to [[_COMMUNITY_Community 123]]
+- 1 edge to [[_COMMUNITY_Community 53]]
+- 1 edge to [[_COMMUNITY_Community 9]]
+- 1 edge to [[_COMMUNITY_Community 86]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 321]] - degree 10, connects to 3 communities
-- [[Functions_18_1_1]] - degree 4, connects to 1 community
-- [[Required by_16_1]] - degree 4, connects to 1 community
-- [[Requires_16_1_1]] - degree 4, connects to 1 community
+- [[SaveService.save()_6]] - degree 11, connects to 5 communities
+- [[SaveService.load()_7]] - degree 8, connects to 3 communities
+- [[SaveService.luau_2_1]] - degree 8, connects to 2 communities
+- [[SaveService.onLeave()_7]] - degree 6, connects to 2 communities
+- [[SaveService.init()_7]] - degree 4, connects to 1 community

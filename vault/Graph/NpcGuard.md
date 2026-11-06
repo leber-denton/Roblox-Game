@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/NpcGuard.md"
+source_file: "vault/Graph/NpcGuard.md"
 type: "document"
-community: "Community 38"
-location: "L1"
+community: "Community 102"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_38
+  - community/Community_102
 ---
 
 # NpcGuard
 
 ## Connections
-- [[CodeNpcGuard_2]] - `contains` [EXTRACTED]
-- [[Functions_128]] - `contains` [EXTRACTED]
-- [[Required by_112]] - `contains` [EXTRACTED]
-- [[Requires_124]] - `contains` [EXTRACTED]
+- [[Connections_260]] - `contains` [EXTRACTED]
+- [[GraphNpcGuard]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_38
+#graphify/document #graphify/EXTRACTED #community/Community_102

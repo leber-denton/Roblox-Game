@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/GameData.trainerXPToNext()_2.md"
+source_file: "vault/Graph/GameData.trainerXPToNext()_5.md"
 type: "document"
-community: "Community 168"
-location: "L1"
+community: "Community 2258"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_2258
 ---
 
-# GameData.trainerXPToNext()_2.md
+# GameData.trainerXPToNext()
 
 ## Connections
-- [[GameData.trainerXPToNext()_3]] - `contains` [EXTRACTED]
-- [[GameData.trainerXPToNext()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 171]] - `references` [EXTRACTED]
+- [[Connections_13141]] - `contains` [EXTRACTED]
+- [[GameData.trainerXPToNext()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_2258

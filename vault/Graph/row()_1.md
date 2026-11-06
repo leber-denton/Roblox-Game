@@ -12,7 +12,7 @@ tags:
 # row()
 
 ## Connections
-- [[HUD.client.luau]] - `contains` [EXTRACTED]
+- [[HUD.client.luau_5]] - `contains` [EXTRACTED]
 - [[go()]] - `calls` [EXTRACTED]
 - [[refresh()_1]] - `calls` [EXTRACTED]
 

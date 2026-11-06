@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CodeModelSyncLookup.md"
+source_file: "vault/Graph/clearButtons().md"
 type: "document"
-community: "Community 293"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_293
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[CodeModelSyncLookup_1]] - `contains` [EXTRACTED]
+- [[clearButtons()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_293
+#graphify/document #graphify/EXTRACTED #community/Community_120

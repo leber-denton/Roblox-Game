@@ -1,17 +1,20 @@
 ---
-source_file: "README.md"
+source_file: "vault/Graph/Syncing to Studio_2.md"
 type: "document"
-community: "Community 43"
-location: "L11"
+community: "Community 115"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_43
+  - community/Community_115
 ---
 
-# Syncing to Studio
+# Syncing to Studio_2.md
 
 ## Connections
-- [[Roblox-Game_2]] - `contains` [EXTRACTED]
+- [[Connections_1845_1]] - `references` [EXTRACTED]
+- [[Syncing to Studio_3]] - `contains` [EXTRACTED]
+- [[Syncing to Studio]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 115]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_43
+#graphify/document #graphify/EXTRACTED #community/Community_115

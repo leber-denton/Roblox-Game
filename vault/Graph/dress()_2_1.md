@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/dress()_2.md"
+source_file: "vault/Graph/dress()_2_1.md"
 type: "document"
-community: "Community 205"
-location: "L12"
+community: "Community 152"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_205
+  - community/Community_152
 ---
 
-# dress()_2.md
+# dress()_2_1.md
 
 ## Connections
-- [[Connections_2996]] - `contains` [EXTRACTED]
-- [[dress()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[dress()_2_2]] - `contains` [EXTRACTED]
+- [[dress()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_205
+#graphify/document #graphify/EXTRACTED #community/Community_152

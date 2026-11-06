@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[ShowcaseBuilder.build()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 70]] - `references` [EXTRACTED]
 - [[categories()_1]] - `references` [EXTRACTED]
 - [[extents()_1]] - `references` [EXTRACTED]
 - [[label()_4_1]] - `references` [EXTRACTED]

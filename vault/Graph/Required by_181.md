@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_59.md"
+source_file: "vault/Code/CreatureLife.md"
 type: "document"
-community: "Community 90"
-location: "L12"
+community: "Community 28"
+location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_28
 ---
 
 # Required by
 
 ## Connections
-- [[Connections_6027]] - `contains` [EXTRACTED]
-- [[Required by_59_1]] - `contains` [EXTRACTED]
+- [[CreatureLife]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_28

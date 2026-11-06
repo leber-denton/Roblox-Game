@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Graph/release()_1.md"
+source_file: "vault/Graph/release()_3.md"
 type: "document"
-community: "Community 199"
-location: "L1"
+community: "Community 2298"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_199
+  - community/Community_2298
 ---
 
-# release()_1.md
+# release()
 
 ## Connections
-- [[BaseManager.getBase()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 176]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 199]] - `references` [EXTRACTED]
-- [[applyTheme()_1]] - `references` [EXTRACTED]
-- [[clearModels()_2]] - `references` [EXTRACTED]
-- [[playbackTime()_1]] - `references` [EXTRACTED]
-- [[release()_1_1]] - `contains` [EXTRACTED]
-- [[release()_2]] - `references` [EXTRACTED]
+- [[Connections_13377]] - `contains` [EXTRACTED]
+- [[release()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_199
+#graphify/document #graphify/EXTRACTED #community/Community_2298

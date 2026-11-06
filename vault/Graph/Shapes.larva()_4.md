@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Shapes.larva()_2.md"
+source_file: "vault/Graph/Shapes.larva()_4.md"
 type: "document"
-community: "Community 139"
-location: "L12"
+community: "Community 666"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_139
+  - community/Community_666
 ---
 
-# Shapes.larva()
+# Shapes.larva()_4.md
 
 ## Connections
-- [[Connections_1716]] - `contains` [EXTRACTED]
-- [[Shapes.larva()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_4340_1]] - `references` [EXTRACTED]
+- [[Shapes.larva()_6]] - `contains` [EXTRACTED]
+- [[Shapes.larva()_2_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_139
+#graphify/document #graphify/EXTRACTED #community/Community_666

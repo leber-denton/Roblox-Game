@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.ghost()_2.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_287.md"
 type: "document"
-community: "Community 377"
+community: "Community 1227"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_377
+  - community/Community_1227
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.ghost()_4]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_332]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_377
+#graphify/document #graphify/EXTRACTED #community/Community_1227

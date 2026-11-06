@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/What you need to do before it makes money_1.md"
+source_file: "vault/Graph/Connections_86.md"
 type: "document"
-community: "Community 108"
-location: "L14"
+community: "Community 1010"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_1010
 ---
 
 # Connections
 
 ## Connections
-- [[What you need to do before it makes money_2]] - `contains` [EXTRACTED]
+- [[Connections_192]] - `contains` [EXTRACTED]
+- [[Connections_86_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_1010

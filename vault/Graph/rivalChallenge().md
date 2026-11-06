@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/TutorialService.luau"
 type: "code"
-community: "Community 41"
+community: "Community 15"
 location: "L164"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_15
 ---
 
 # rivalChallenge()
@@ -14,8 +14,8 @@ tags:
 ## Connections
 - [[NPC.say()]] - `calls` [INFERRED]
 - [[TutorialService.init()]] - `calls` [EXTRACTED]
-- [[TutorialService.luau]] - `contains` [EXTRACTED]
+- [[TutorialService.luau_2]] - `contains` [EXTRACTED]
 - [[dialogue()]] - `calls` [EXTRACTED]
 - [[playerStarter()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_41
+#graphify/code #graphify/EXTRACTED #community/Community_15

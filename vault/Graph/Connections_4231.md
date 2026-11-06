@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DungeonClient_2.md"
+source_file: "vault/Graph/Connections to other communities_216.md"
 type: "document"
-community: "Community 423"
+community: "Community 1235"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_423
+  - community/Community_1235
 ---
 
 # Connections
 
 ## Connections
-- [[DungeonClient_2_1]] - `contains` [EXTRACTED]
+- [[Connections to other communities_265]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_423
+#graphify/document #graphify/EXTRACTED #community/Community_1235

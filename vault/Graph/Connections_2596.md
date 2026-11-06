@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Regions.client.luau_1.md"
+source_file: "vault/Graph/Connections to other communities_148.md"
 type: "document"
-community: "Community 178"
+community: "Community 1147"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_178
+  - community/Community_1147
 ---
 
 # Connections
 
 ## Connections
-- [[Regions.client.luau]] - `contains` [EXTRACTED]
+- [[Connections to other communities_184]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_178
+#graphify/document #graphify/EXTRACTED #community/Community_1147

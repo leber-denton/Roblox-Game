@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/What you need to do before it makes money_1.md"
+source_file: "claude/launch-checklist.md"
 type: "document"
-community: "Community 108"
-location: "L1"
+community: "Community 40"
+location: "L5"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_40
 ---
 
-# What you need to do before it makes money_1.md
+# What you need to do before it makes money
 
 ## Connections
-- [[Connections_214]] - `references` [EXTRACTED]
-- [[What you need to do before it makes money_2]] - `contains` [EXTRACTED]
-- [[What you need to do before it makes money]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 108]] - `references` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_40

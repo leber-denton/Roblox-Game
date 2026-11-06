@@ -12,8 +12,8 @@ tags:
 # DecorService_1_1.md
 
 ## Connections
-- [[DecorService_1_2]] - `contains` [EXTRACTED]
 - [[DecorService_1]] - `references` [EXTRACTED]
+- [[DecorService_1_1_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 153]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_153

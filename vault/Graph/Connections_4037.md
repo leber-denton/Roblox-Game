@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_722.md"
+source_file: "vault/Graph/Connections_1976.md"
 type: "document"
-community: "Community 348"
-location: "L12"
+community: "Community 1223"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_348
+  - community/Community_1223
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_4038]] - `contains` [EXTRACTED]
-- [[Connections_722_1]] - `contains` [EXTRACTED]
+- [[Connections_4036]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_348
+#graphify/document #graphify/EXTRACTED #community/Community_1223

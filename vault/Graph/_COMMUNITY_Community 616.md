@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_4807]] - document - vault/Graph/TrainerAnimationsstopAll()_1.md
-- [[Connections_4808]] - document - vault/Graph/TrainerAnimationsstopAll()_2.md
-- [[TrainerAnimationsstopAll()_4]] - document - vault/Graph/TrainerAnimationsstopAll()_2.md
-- [[TrainerAnimationsstopAll()_3]] - document - vault/Graph/TrainerAnimationsstopAll()_1.md
-- [[TrainerAnimationsstopAll()_1_1]] - document - vault/Graph/TrainerAnimationsstopAll()_1.md
-- [[TrainerAnimationsstopAll()_2_1]] - document - vault/Graph/TrainerAnimationsstopAll()_2.md
+- [[Connections_21315]] - document - vault/Graph/Connections_4577.md
+- [[Connections_21316]] - document - vault/Graph/Connections_4577.md
+- [[Connections_21317]] - document - vault/Graph/Connections_4578.md
+- [[Connections_21318]] - document - vault/Graph/Connections_4578.md
+- [[Connections_4577_1]] - document - vault/Graph/Connections_4577.md
+- [[Connections_4578_1]] - document - vault/Graph/Connections_4578.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,10 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 450]]
-- 1 edge to [[_COMMUNITY_Community 143]]
-- 1 edge to [[_COMMUNITY_Community 615]]
+- 2 edges to [[_COMMUNITY_Community 134]]
 
 ## Top bridge nodes
-- [[TrainerAnimationsstopAll()_1_1]] - degree 5, connects to 3 communities
-- [[TrainerAnimationsstopAll()_2_1]] - degree 3, connects to 1 community
+- [[Connections_4577_1]] - degree 3, connects to 1 community
+- [[Connections_4578_1]] - degree 3, connects to 1 community

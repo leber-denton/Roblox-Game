@@ -1,18 +1,28 @@
 ---
-source_file: "vault/Graph/Functions_41.md"
+source_file: "vault/Code/DecorUI.md"
 type: "document"
-community: "Community 90"
-location: "L12"
+community: "Community 3"
+location: "L11"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Community_90
+  - graphify/INFERRED
+  - community/Community_3
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_6013]] - `contains` [EXTRACTED]
-- [[Functions_41_2]] - `contains` [EXTRACTED]
+- [[DecorUI_1]] - `contains` [EXTRACTED]
+- [[aimRay()]] - `references` [INFERRED]
+- [[clearContent()]] - `references` [INFERRED]
+- [[gridLayout()]] - `references` [INFERRED]
+- [[listLayout()]] - `references` [INFERRED]
+- [[myBase()]] - `references` [INFERRED]
+- [[rebuildBar()]] - `references` [INFERRED]
+- [[startPicking()]] - `references` [INFERRED]
+- [[stopBuild()]] - `references` [INFERRED]
+- [[tryCommit()]] - `references` [INFERRED]
+- [[tryPick()]] - `references` [INFERRED]
+- [[tryPutAway()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/INFERRED #community/Community_3

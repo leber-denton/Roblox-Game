@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/StoryService.hasCompleted()_2.md"
+source_file: "vault/Graph/StoryService.hasCompleted()_3.md"
 type: "document"
-community: "Community 24"
+community: "Community 1245"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1245
 ---
 
 # StoryService.hasCompleted().md
 
 ## Connections
-- [[Connections_3352]] - `contains` [EXTRACTED]
-- [[StoryService.hasCompleted()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_4508]] - `contains` [EXTRACTED]
+- [[StoryService.hasCompleted()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1245

@@ -1,24 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.release().md"
+source_file: "vault/Graph/BaseManager.release()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2749"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2749
 ---
 
-# BaseManager.release().md
+# BaseManager.release()_3.md
 
 ## Connections
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[BaseManager.release()_4]] - `contains` [EXTRACTED]
-- [[BaseManager.setWings()_3]] - `references` [EXTRACTED]
-- [[SaveService.onLeave()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[setExpansionOpen()_3]] - `references` [EXTRACTED]
-- [[setGateOpen()_3]] - `references` [EXTRACTED]
-- [[setSign()_7]] - `references` [EXTRACTED]
+- [[BaseManager.release()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2749

@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/Required by_94.md"
+source_file: "vault/Graph/Connections_6389.md"
 type: "document"
-community: "Community 99"
-location: "L14"
+community: "Community 1045"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_99
+  - community/Community_1045
 ---
 
-# Connections
+# Connections_6389.md
 
 ## Connections
-- [[Required by_185]] - `contains` [EXTRACTED]
+- [[Connections_762]] - `contains` [EXTRACTED]
+- [[ShowcaseBuilder_1_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_99
+#graphify/document #graphify/EXTRACTED #community/Community_1045

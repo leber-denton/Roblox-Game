@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Features.bud().md"
+source_file: "vault/Graph/Connections_1329.md"
 type: "document"
-community: "Community 137"
-location: "L14"
+community: "Community 1097"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1097
 ---
 
 # Connections
 
 ## Connections
-- [[Features.bud()_2]] - `contains` [EXTRACTED]
+- [[Connections_1626]] - `contains` [EXTRACTED]
+- [[Connections_1329_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1097

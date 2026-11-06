@@ -12,7 +12,9 @@ tags:
 # round()_3.md
 
 ## Connections
-- [[new()_6_1]] - `references` [EXTRACTED]
-- [[round()_6]] - `contains` [EXTRACTED]
+- [[CreatureIndex.client.luau_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 420]] - `references` [EXTRACTED]
+- [[new()_5_1]] - `references` [EXTRACTED]
+- [[round()_7]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_106

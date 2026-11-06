@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Community 1116
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_255]] - document - vault/Graph/addTemplates()_2.md
-- [[addTemplates()_1]] - document - vault/Graph/addTemplates()_2.md
-- [[addTemplates()_2]] - document - vault/Graph/addTemplates()_2.md
+- [[Community 1102]] - document - vault/Graph/_COMMUNITY_Community 1102.md
+- [[Connections to other communities_141]] - document - vault/Graph/_COMMUNITY_Community 1102.md
+- [[Live Query (requires Dataview plugin)_187]] - document - vault/Graph/_COMMUNITY_Community 1102.md
+- [[Members_189]] - document - vault/Graph/_COMMUNITY_Community 1102.md
+- [[Top bridge nodes_139]] - document - vault/Graph/_COMMUNITY_Community 1102.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 689]]
+- 1 edge to [[_COMMUNITY_Community 1102]]
 
 ## Top bridge nodes
-- [[addTemplates()_2]] - degree 3, connects to 1 community
+- [[Community 1102]] - degree 5, connects to 1 community

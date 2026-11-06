@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Connections_1941]] - document - vault/Graph/strongest()_2_1.md
-- [[strongest()_2_1]] - document - vault/Graph/strongest()_2_1.md
+- [[Connections_7864]] - document - vault/Graph/strongest()_2_1.md
+- [[strongest()_2_2]] - document - vault/Graph/strongest()_2_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,4 +22,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 97]]
 
 ## Top bridge nodes
-- [[strongest()_2_1]] - degree 2, connects to 1 community
+- [[strongest()_2_2]] - degree 2, connects to 1 community

@@ -12,7 +12,8 @@ tags:
 # GraphPassService.md
 
 ## Connections
-- [[GraphPassService_2]] - `contains` [EXTRACTED]
+- [[GraphPassService_1]] - `contains` [EXTRACTED]
+- [[GraphPassService_2]] - `references` [EXTRACTED]
 - [[PassService_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 208]] - `references` [EXTRACTED]
 

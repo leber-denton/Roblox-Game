@@ -18,6 +18,7 @@ tags:
 - [[CodeMain]] - `references` [EXTRACTED]
 - [[CodeRareEventService]] - `references` [EXTRACTED]
 - [[CodeWeeklyEventService_1]] - `contains` [EXTRACTED]
+- [[CodeWeeklyEventService_1_1]] - `references` [EXTRACTED]
 - [[WeeklyEventService_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]

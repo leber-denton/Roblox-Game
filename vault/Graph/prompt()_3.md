@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/prompt()_1.md"
+source_file: "vault/Graph/prompt()_3.md"
 type: "document"
-community: "Community 1439"
-location: "L12"
+community: "Community 2142"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1439
+  - community/Community_2142
 ---
 
-# prompt().md
+# prompt()_3.md
 
 ## Connections
-- [[Connections_1801]] - `contains` [EXTRACTED]
-- [[prompt()_1_1]] - `contains` [EXTRACTED]
+- [[prompt()_3_1]] - `contains` [EXTRACTED]
+- [[prompt()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1439
+#graphify/document #graphify/EXTRACTED #community/Community_2142

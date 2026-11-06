@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/PlayerData.setPending()_2.md"
+source_file: "vault/Graph/PlayerData.setPending()_3.md"
 type: "document"
-community: "Community 1184"
-location: "L12"
+community: "Community 324"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1184
+  - community/Community_324
 ---
 
-# PlayerData.setPending()
+# PlayerData.setPending()_3.md
 
 ## Connections
-- [[Connections_588]] - `contains` [EXTRACTED]
-- [[PlayerData.setPending()_2_1]] - `contains` [EXTRACTED]
+- [[PlayerData.setPending()_5]] - `contains` [EXTRACTED]
+- [[PlayerData.setPending()_2_1]] - `references` [EXTRACTED]
+- [[PlayerData.setPending()_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1184]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 324]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1184
+#graphify/document #graphify/EXTRACTED #community/Community_324

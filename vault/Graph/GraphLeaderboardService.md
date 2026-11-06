@@ -12,7 +12,8 @@ tags:
 # GraphLeaderboardService.md
 
 ## Connections
-- [[GraphLeaderboardService_1]] - `contains` [EXTRACTED]
+- [[GraphLeaderboardService_4]] - `contains` [EXTRACTED]
+- [[GraphLeaderboardService_1]] - `references` [EXTRACTED]
 - [[LeaderboardService_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 128]] - `references` [EXTRACTED]
 

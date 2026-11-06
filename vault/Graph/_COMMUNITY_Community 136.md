@@ -8,16 +8,16 @@ members: 30
 **Members:** 30 nodes
 
 ## Members
-- [[Connections_1600]] - document - vault/Graph/categories().md
-- [[Connections_1601]] - document - vault/Graph/extents().md
-- [[Connections_1602]] - document - vault/Graph/firstPropCopy().md
-- [[Connections_1603]] - document - vault/Graph/galleryTrainers().md
-- [[Connections_1604]] - document - vault/Graph/label()_4.md
-- [[Connections_1605]] - document - vault/Graph/mkPart().md
-- [[Connections_1606]] - document - vault/Graph/prepare().md
-- [[Connections_1607]] - document - vault/Graph/resolve().md
-- [[Connections_1608]] - document - vault/Graph/ShowcaseBuilder.build().md
-- [[Connections_1609]] - document - vault/Graph/sourceOf().md
+- [[Connections_6581]] - document - vault/Graph/categories().md
+- [[Connections_6582]] - document - vault/Graph/extents().md
+- [[Connections_6583]] - document - vault/Graph/firstPropCopy().md
+- [[Connections_6584]] - document - vault/Graph/galleryTrainers().md
+- [[Connections_6585]] - document - vault/Graph/label()_4.md
+- [[Connections_6586]] - document - vault/Graph/mkPart().md
+- [[Connections_6587]] - document - vault/Graph/prepare().md
+- [[Connections_6588]] - document - vault/Graph/resolve().md
+- [[Connections_6589]] - document - vault/Graph/ShowcaseBuilder.build().md
+- [[Connections_6590]] - document - vault/Graph/sourceOf().md
 - [[ShowcaseBuilder.build()_2]] - document - vault/Graph/ShowcaseBuilder.build().md
 - [[ShowcaseBuilder.build()_1]] - document - vault/Graph/ShowcaseBuilder.build().md
 - [[categories()_2]] - document - vault/Graph/categories().md
@@ -28,7 +28,7 @@ members: 30
 - [[firstPropCopy()_1]] - document - vault/Graph/firstPropCopy().md
 - [[galleryTrainers()_2]] - document - vault/Graph/galleryTrainers().md
 - [[galleryTrainers()_1]] - document - vault/Graph/galleryTrainers().md
-- [[label()_9]] - document - vault/Graph/label()_4.md
+- [[label()_10]] - document - vault/Graph/label()_4.md
 - [[label()_4_1]] - document - vault/Graph/label()_4.md
 - [[mkPart()_2]] - document - vault/Graph/mkPart().md
 - [[mkPart()_1]] - document - vault/Graph/mkPart().md
@@ -47,7 +47,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 10 edges to [[_COMMUNITY_Community 117]]
+- 10 edges to [[_COMMUNITY_Community 1583]]
 
 ## Top bridge nodes
 - [[ShowcaseBuilder.build()_1]] - degree 7, connects to 1 community

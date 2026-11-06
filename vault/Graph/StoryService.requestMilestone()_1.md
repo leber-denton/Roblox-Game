@@ -12,12 +12,11 @@ tags:
 # StoryService.requestMilestone().md
 
 ## Connections
-- [[StoryService.luau_1]] - `references` [EXTRACTED]
-- [[StoryService.luau_2]] - `references` [EXTRACTED]
+- [[StoryService.luau_7]] - `references` [EXTRACTED]
 - [[StoryService.requestMilestone()_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
-- [[begin()_1]] - `references` [EXTRACTED]
-- [[nextScene()_1]] - `references` [EXTRACTED]
+- [[begin()_5]] - `references` [EXTRACTED]
+- [[nextScene()_2]] - `references` [EXTRACTED]
 - [[setupWorld()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/setupCommunity().md"
+source_file: "vault/Graph/setupCommunity()_5.md"
 type: "document"
-community: "Community 9"
-location: "L12"
+community: "Community 1046"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_1046
 ---
 
-# setupCommunity()
+# setupCommunity()_5.md
 
 ## Connections
-- [[Connections_6005]] - `contains` [EXTRACTED]
-- [[setupCommunity()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 808]] - `references` [EXTRACTED]
+- [[setupCommunity()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_1046

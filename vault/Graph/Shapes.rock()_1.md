@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/Shapes.rock()_1.md"
+source_file: "vault/Graph/Shapes.rock()_3.md"
 type: "document"
-community: "Community 1068"
-location: "L1"
+community: "Community 1319"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1068
+  - community/Community_1319
 ---
 
-# Shapes.rock()_1.md
+# Shapes.rock().md
 
 ## Connections
-- [[CreatureBuilder.luau_2]] - `references` [EXTRACTED]
+- [[Connections_5565]] - `contains` [EXTRACTED]
 - [[Shapes.rock()_3]] - `contains` [EXTRACTED]
-- [[Shapes.rock()_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
-- [[darker()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1068
+#graphify/document #graphify/EXTRACTED #community/Community_1319

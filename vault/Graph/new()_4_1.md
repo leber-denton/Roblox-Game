@@ -1,26 +1,28 @@
 ---
-source_file: "vault/Graph/new()_4.md"
+source_file: "vault/Graph/new()_4_1.md"
 type: "document"
-community: "Community 203"
+community: "Community 226"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_203
+  - community/Community_226
 ---
 
-# new()_4.md
+# new()_4_1.md
 
 ## Connections
-- [[ballIcon()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 203]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 237]] - `references` [EXTRACTED]
+- [[ballIcon()_1_1]] - `references` [EXTRACTED]
 - [[incoming()_3]] - `references` [EXTRACTED]
 - [[label()_1_2]] - `references` [EXTRACTED]
-- [[new()_23]] - `contains` [EXTRACTED]
+- [[new()_4_1_1]] - `contains` [EXTRACTED]
 - [[offerBox()_3]] - `references` [EXTRACTED]
 - [[playEvolution()_3]] - `references` [EXTRACTED]
-- [[refresh()_1_1]] - `references` [EXTRACTED]
+- [[refresh()_1_1_1]] - `references` [EXTRACTED]
 - [[round()_1_1]] - `references` [EXTRACTED]
-- [[showTradeHistory()_1]] - `references` [EXTRACTED]
+- [[showTradeHistory()_1_1]] - `references` [EXTRACTED]
 - [[viewport()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_203
+#graphify/document #graphify/EXTRACTED #community/Community_226

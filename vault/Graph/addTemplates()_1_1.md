@@ -12,10 +12,10 @@ tags:
 # addTemplates()_1.md
 
 ## Connections
-- [[ModelSyncLookup.luau_2_1]] - `references` [EXTRACTED]
+- [[ModelSyncLookup.luau_3_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 169]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 61]] - `references` [EXTRACTED]
-- [[addTemplates()_3]] - `contains` [EXTRACTED]
+- [[addTemplates()_6]] - `contains` [EXTRACTED]
 - [[addTemplates()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_689

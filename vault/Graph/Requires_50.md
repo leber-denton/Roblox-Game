@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_22.md"
+source_file: "vault/Code/Sfx.md"
 type: "document"
-community: "Community 188"
-location: "L12"
+community: "Community 13"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_188
+  - community/Community_13
 ---
 
 # Requires
 
 ## Connections
-- [[Connections_2747]] - `contains` [EXTRACTED]
-- [[Requires_22_3]] - `contains` [EXTRACTED]
+- [[Sfx]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_188
+#graphify/document #graphify/EXTRACTED #community/Community_13

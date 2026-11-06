@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/lockPrompt()_1.md"
+source_file: "vault/Graph/Connections_363.md"
 type: "document"
-community: "Community 1156"
-location: "L14"
+community: "Community 103"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1156
+  - community/Community_103
 ---
 
 # Connections
 
 ## Connections
-- [[lockPrompt()_2]] - `contains` [EXTRACTED]
+- [[Connections_390]] - `contains` [EXTRACTED]
+- [[Connections_363]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1156
+#graphify/document #graphify/EXTRACTED #community/Community_103

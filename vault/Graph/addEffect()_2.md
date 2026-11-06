@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/addEffect().md"
+source_file: "vault/Graph/addEffect()_2.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2070"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2070
 ---
 
-# addEffect()
+# addEffect()_2.md
 
 ## Connections
-- [[Connections_5653]] - `contains` [EXTRACTED]
-- [[addEffect()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[addEffect()_1]] - `references` [EXTRACTED]
+- [[addEffect()_1_1]] - `references` [EXTRACTED]
+- [[addEffect()_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2070

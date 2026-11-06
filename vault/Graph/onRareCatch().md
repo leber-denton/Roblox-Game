@@ -12,8 +12,8 @@ tags:
 # onRareCatch()
 
 ## Connections
-- [[EventHUD.client.luau_2]] - `contains` [EXTRACTED]
+- [[EventHUD.client.luau]] - `contains` [EXTRACTED]
 - [[describe()]] - `calls` [EXTRACTED]
-- [[new()_8]] - `calls` [EXTRACTED]
+- [[new()_7]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_45

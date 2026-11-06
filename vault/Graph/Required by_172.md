@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/TutorialService.md"
+source_file: "vault/Code/EventHUD.md"
 type: "document"
-community: "Community 76"
-location: "L12"
+community: "Community 267"
+location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_76
+  - community/Community_267
 ---
 
 # Required by
 
 ## Connections
-- [[TutorialService]] - `contains` [EXTRACTED]
+- [[EventHUD_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_76
+#graphify/document #graphify/EXTRACTED #community/Community_267

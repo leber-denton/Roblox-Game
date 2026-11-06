@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/nextOrder().md"
+source_file: "vault/Graph/Connections_2125.md"
 type: "document"
-community: "Community 30"
-location: "L14"
+community: "Community 1207"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_30
+  - community/Community_1207
 ---
 
 # Connections
 
 ## Connections
-- [[nextOrder()_2]] - `contains` [EXTRACTED]
+- [[Connections_3690]] - `contains` [EXTRACTED]
+- [[Connections_2125_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_30
+#graphify/document #graphify/EXTRACTED #community/Community_1207

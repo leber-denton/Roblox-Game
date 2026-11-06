@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/dialogue().md"
+source_file: "vault/Graph/Connections_626_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 1333"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1333
 ---
 
 # Connections
 
 ## Connections
-- [[dialogue()_4]] - `contains` [EXTRACTED]
+- [[Connections_626_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1333

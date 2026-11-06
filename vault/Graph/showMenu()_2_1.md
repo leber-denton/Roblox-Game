@@ -1,20 +1,21 @@
 ---
-source_file: "vault/Graph/showMenu()_2.md"
+source_file: "vault/Graph/showMenu()_2_1.md"
 type: "document"
-community: "Community 27"
+community: "Community 1087"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_27
+  - community/Community_1087
 ---
 
-# showMenu()_2.md
+# showMenu()_2_1.md
 
 ## Connections
-- [[Connections_758_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[showMenu()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 27]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 275]] - `references` [EXTRACTED]
 - [[showMenu()_1_1]] - `references` [EXTRACTED]
+- [[showMenu()_2_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_27
+#graphify/document #graphify/EXTRACTED #community/Community_1087

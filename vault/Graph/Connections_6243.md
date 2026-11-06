@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/game_replicatedstorage_shared_gamedata_2.md"
+source_file: "vault/Graph/reset()_3.md"
 type: "document"
-community: "Community 950"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_950
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[game_replicatedstorage_shared_gamedata_2_1]] - `contains` [EXTRACTED]
+- [[reset()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_950
+#graphify/document #graphify/EXTRACTED #community/Community_134

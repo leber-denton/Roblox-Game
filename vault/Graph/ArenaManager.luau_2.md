@@ -1,21 +1,18 @@
 ---
-source_file: "src/ServerScriptService/Modules/ArenaManager.luau"
-type: "code"
-community: "Community 44"
-location: "L1"
+source_file: "vault/Graph/ArenaManager.luau_2_2.md"
+type: "document"
+community: "Community 322"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_44
+  - community/Community_322
 ---
 
-# ArenaManager.luau
+# ArenaManager.luau_2.md
 
 ## Connections
-- [[ArenaManager.acquire()]] - `contains` [EXTRACTED]
-- [[ArenaManager.release()]] - `contains` [EXTRACTED]
-- [[build()_1]] - `contains` [EXTRACTED]
-- [[disc()]] - `contains` [EXTRACTED]
-- [[part()_3]] - `contains` [EXTRACTED]
+- [[ArenaManager.luau_2_2]] - `contains` [EXTRACTED]
+- [[Connections_16641]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_44
+#graphify/document #graphify/EXTRACTED #community/Community_322

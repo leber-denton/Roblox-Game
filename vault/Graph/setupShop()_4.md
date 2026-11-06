@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/setupShop()_2.md"
+source_file: "vault/Graph/setupShop()_4.md"
 type: "document"
-community: "Community 578"
-location: "L12"
+community: "Community 2146"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_578
+  - community/Community_2146
 ---
 
-# setupShop()
+# setupShop()_4.md
 
 ## Connections
-- [[Connections_4714]] - `contains` [EXTRACTED]
-- [[setupShop()_2_1]] - `contains` [EXTRACTED]
+- [[setupShop()_5]] - `contains` [EXTRACTED]
+- [[setupShop()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_578
+#graphify/document #graphify/EXTRACTED #community/Community_2146

@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/Required by_18.md"
+source_file: "vault/Graph/Required by_14.md"
 type: "document"
-community: "Community 1208"
-location: "L1"
+community: "Community 118"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1208
+  - community/Community_118
 ---
 
-# Required by_18.md
+# Required by
 
 ## Connections
-- [[GraphGymService]] - `references` [EXTRACTED]
-- [[Required by_18_1]] - `contains` [EXTRACTED]
-- [[Required by_4_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 107]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
+- [[Connections_3195]] - `contains` [EXTRACTED]
+- [[Required by_14_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1208
+#graphify/document #graphify/EXTRACTED #community/Community_118

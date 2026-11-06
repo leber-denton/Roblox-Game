@@ -12,8 +12,9 @@ tags:
 # move().md
 
 ## Connections
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[move()_2]] - `contains` [EXTRACTED]
+- [[move()_3]] - `contains` [EXTRACTED]
 - [[setupPortals()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_123

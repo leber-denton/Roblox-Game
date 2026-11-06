@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/buyResult()_1.md"
+source_file: "vault/Graph/buyResult()_1_1.md"
 type: "document"
 community: "Community 564"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_564
 ---
 
-# buyResult()_1.md
+# buyResult()_1_1.md
 
 ## Connections
-- [[Connections_4684]] - `contains` [EXTRACTED]
-- [[buyResult()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 564]] - `references` [EXTRACTED]
+- [[buyResult()_1_2]] - `contains` [EXTRACTED]
+- [[buyResult()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_564

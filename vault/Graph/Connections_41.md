@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/apply()_1_1.md"
+source_file: "vault/Graph/applyMute().md"
 type: "document"
-community: "Community 1012"
+community: "Community 100"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1012
+  - community/Community_100
 ---
 
 # Connections
 
 ## Connections
-- [[apply()_1_2]] - `contains` [EXTRACTED]
+- [[applyMute()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1012
+#graphify/document #graphify/EXTRACTED #community/Community_100

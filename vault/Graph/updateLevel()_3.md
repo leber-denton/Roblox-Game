@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/updateLevel()_1.md"
+source_file: "vault/Graph/updateLevel()_3.md"
 type: "document"
-community: "Community 340"
-location: "L12"
+community: "Community 103"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_340
+  - community/Community_103
 ---
 
-# updateLevel().md
+# updateLevel()_3.md
 
 ## Connections
-- [[Connections_4001]] - `contains` [EXTRACTED]
-- [[updateLevel()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_4001]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 103]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 340]] - `references` [EXTRACTED]
+- [[updateLevel()_1_1]] - `references` [EXTRACTED]
+- [[updateLevel()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_340
+#graphify/document #graphify/EXTRACTED #community/Community_103

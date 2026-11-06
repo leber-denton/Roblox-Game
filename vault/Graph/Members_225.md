@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 85.md"
+source_file: "vault/Graph/Members_192.md"
 type: "document"
-community: "Community 245"
-location: "L10"
+community: "Community 1135"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_245
+  - community/Community_1135
 ---
 
 # Members
 
 ## Connections
-- [[Community 85_2]] - `contains` [EXTRACTED]
+- [[Connections_2494]] - `contains` [EXTRACTED]
+- [[Members_192_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_245
+#graphify/document #graphify/EXTRACTED #community/Community_1135

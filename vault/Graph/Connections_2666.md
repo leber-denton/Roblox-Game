@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Tutorial.client.luau_1.md"
+source_file: "vault/Graph/Connections_1809.md"
 type: "document"
-community: "Community 181"
+community: "Community 115"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_181
+  - community/Community_115
 ---
 
 # Connections
 
 ## Connections
-- [[Tutorial.client.luau]] - `contains` [EXTRACTED]
+- [[Connections_2665]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_181
+#graphify/document #graphify/EXTRACTED #community/Community_115

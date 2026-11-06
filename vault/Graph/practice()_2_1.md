@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Graph/practice()_2.md"
+source_file: "vault/Graph/practice()_2_1.md"
 type: "document"
-community: "Community 907"
+community: "Community 622"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_907
+  - community/Community_622
 ---
 
-# practice()_2.md
+# practice()_2_1.md
 
 ## Connections
-- [[Connections_854_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
-- [[practice()_4]] - `contains` [EXTRACTED]
-- [[practice()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 642]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 645]] - `references` [EXTRACTED]
+- [[practice()_2_2]] - `contains` [EXTRACTED]
+- [[practice()_4_1]] - `references` [EXTRACTED]
+- [[setupActivities()_2_1]] - `references` [EXTRACTED]
+- [[unqueue()_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_907
+#graphify/document #graphify/EXTRACTED #community/Community_622

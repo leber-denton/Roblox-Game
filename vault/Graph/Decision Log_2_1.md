@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/Decision Log_2.md"
 type: "document"
-community: "Community 88"
-location: "L12"
+community: "Community 297"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_297
 ---
 
 # Decision Log_2.md
 
 ## Connections
-- [[Connections_5932]] - `contains` [EXTRACTED]
-- [[Decision Log_2]] - `contains` [EXTRACTED]
+- [[Decision Log_2_3]] - `contains` [EXTRACTED]
+- [[Decision Log_2_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_88
+#graphify/document #graphify/EXTRACTED #community/Community_297

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/disc()_1.md"
+source_file: "vault/Graph/GraphDungeonService_1.md"
 type: "document"
-community: "Community 559"
+community: "Community 1262"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_559
+  - community/Community_1262
 ---
 
 # Connections
 
 ## Connections
-- [[disc()_3]] - `contains` [EXTRACTED]
+- [[GraphDungeonService_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_559
+#graphify/document #graphify/EXTRACTED #community/Community_1262

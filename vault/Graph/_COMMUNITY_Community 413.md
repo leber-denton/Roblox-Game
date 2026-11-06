@@ -1,25 +1,158 @@
 ---
 type: community
-members: 12
+members: 145
 ---
 
 # Community 413
 
-**Members:** 12 nodes
+**Members:** 145 nodes
 
 ## Members
-- [[Connections_4205]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_1.md
-- [[Connections_4206]] - document - vault/Graph/WildShiftTests.luau_1.md
-- [[Connections_4207]] - document - vault/Graph/WildShiftTests.luau_2.md
-- [[Connections_4208]] - document - vault/Graph/WildShiftTests.luau.md
-- [[WildShiftTests.luau]] - document - vault/Graph/WildShiftTests.luau.md
-- [[WildShiftTests.luau_3]] - document - vault/Graph/WildShiftTests.luau_2.md
-- [[WildShiftTests.luau_4]] - document - vault/Graph/WildShiftTests.luau.md
+- [[Community 309_1]] - document - vault/Graph/Community 309.md
+- [[Community 309]] - document - vault/Graph/Community 309.md
+- [[Connections_19124]] - document - vault/Graph/check()_2_1_1.md
+- [[Connections_19125]] - document - vault/Graph/check()_2_1.md
+- [[Connections_19126]] - document - vault/Graph/check()_2_2.md
+- [[Connections_19127]] - document - vault/Graph/check()_3_1.md
+- [[Connections_19128]] - document - vault/Graph/check()_5_1.md
+- [[Connections_19129]] - document - vault/Graph/Community 309.md
+- [[Connections_19130]] - document - vault/Graph/Connections_3703.md
+- [[Connections_19131]] - document - vault/Graph/Connections_3703.md
+- [[Connections_19132]] - document - vault/Graph/Connections_3704.md
+- [[Connections_19133]] - document - vault/Graph/Connections_3704.md
+- [[Connections_19134]] - document - vault/Graph/Connections_5055.md
+- [[Connections_19135]] - document - vault/Graph/Connections_5055.md
+- [[Connections_19136]] - document - vault/Graph/Connections_5061.md
+- [[Connections_19137]] - document - vault/Graph/Connections_5061.md
+- [[Connections_19138]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_1.md
+- [[Connections_19139]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_2.md
+- [[Connections_19140]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_3.md
+- [[Connections_19141]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_1_1.md
+- [[Connections_19142]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_1.md
+- [[Connections_19143]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_2.md
+- [[Connections_19144]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_3.md
+- [[Connections_19145]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_4.md
+- [[Connections_19146]] - document - vault/Graph/ModelSync_1_1.md
+- [[Connections_19147]] - document - vault/Graph/ModelSync_1_2.md
+- [[Connections_19148]] - document - vault/Graph/near()_1_1.md
+- [[Connections_19149]] - document - vault/Graph/near()_2_1.md
+- [[Connections_19150]] - document - vault/Graph/near()_3.md
+- [[Connections_19151]] - document - vault/Graph/near()_4.md
+- [[Connections_19152]] - document - vault/Graph/pivotOf()_1_1.md
+- [[Connections_19153]] - document - vault/Graph/pivotOf()_2_1.md
+- [[Connections_19154]] - document - vault/Graph/pivotOf()_3.md
+- [[Connections_19155]] - document - vault/Graph/pivotOf()_4.md
+- [[Connections_19156]] - document - vault/Graph/scaleOf()_3_1.md
+- [[Connections_19157]] - document - vault/Graph/scaleOf()_4_1.md
+- [[Connections_19158]] - document - vault/Graph/snapshotReal()_1_1.md
+- [[Connections_19159]] - document - vault/Graph/snapshotReal()_1.md
+- [[Connections_19160]] - document - vault/Graph/snapshotReal()_2_1.md
+- [[Connections_19161]] - document - vault/Graph/snapshotReal()_2.md
+- [[Connections_19162]] - document - vault/Graph/snapshotReal()_3.md
+- [[Connections_19163]] - document - vault/Graph/snapshotReal()_4.md
+- [[Connections_19164]] - document - vault/Graph/Tests.run()_1_1.md
+- [[Connections_19165]] - document - vault/Graph/Tests.run()_1.md
+- [[Connections_19166]] - document - vault/Graph/Tests.run()_2.md
+- [[Connections_19167]] - document - vault/Graph/Tests.run()_3.md
+- [[Connections_19168]] - document - vault/Graph/WildShiftTests.luau_1_1.md
+- [[Connections_19169]] - document - vault/Graph/WildShiftTests.luau_1.md
+- [[Connections_19170]] - document - vault/Graph/WildShiftTests.luau_2.md
+- [[Connections_19171]] - document - vault/Graph/WildShiftTests.luau_3.md
+- [[Connections_19172]] - document - vault/Graph/WildShiftTests.luau_4.md
+- [[Connections_3703_1]] - document - vault/Graph/Connections_3703.md
+- [[Connections_3704_1]] - document - vault/Graph/Connections_3704.md
+- [[Connections_5055_1]] - document - vault/Graph/Connections_5055.md
+- [[Connections_5061_1]] - document - vault/Graph/Connections_5061.md
+- [[ModelSync_1_4]] - document - vault/Graph/ModelSync_1_2.md
+- [[ModelSync_1_1_1]] - document - vault/Graph/ModelSync_1_1.md
+- [[ModelSync_1_1_2]] - document - vault/Graph/ModelSync_1_1.md
+- [[ModelSync_1_2]] - document - vault/Graph/ModelSync_1_2.md
+- [[Tests.run()_7]] - document - vault/Graph/Tests.run()_3.md
+- [[Tests.run()_1_1]] - document - vault/Graph/Tests.run()_1.md
+- [[Tests.run()_1_2]] - document - vault/Graph/Tests.run()_1.md
+- [[Tests.run()_1_1_1]] - document - vault/Graph/Tests.run()_1_1.md
+- [[Tests.run()_1_1_2]] - document - vault/Graph/Tests.run()_1_1.md
+- [[Tests.run()_2_1]] - document - vault/Graph/Tests.run()_2.md
+- [[Tests.run()_2_2]] - document - vault/Graph/Tests.run()_2.md
+- [[Tests.run()_3_1]] - document - vault/Graph/Tests.run()_3.md
+- [[WildShiftTests.luau]] - document - vault/Graph/WildShiftTests.luau_3.md
+- [[WildShiftTests.luau_5]] - document - vault/Graph/WildShiftTests.luau_4.md
 - [[WildShiftTests.luau_1]] - document - vault/Graph/WildShiftTests.luau_1.md
-- [[WildShiftTests.luau_1_1]] - document - vault/Graph/WildShiftTests.luau_1.md
+- [[WildShiftTests.luau_1_2]] - document - vault/Graph/WildShiftTests.luau_1_1.md
+- [[WildShiftTests.luau_1_3]] - document - vault/Graph/WildShiftTests.luau_1.md
+- [[WildShiftTests.luau_1_1]] - document - vault/Graph/WildShiftTests.luau_1_1.md
 - [[WildShiftTests.luau_2]] - document - vault/Graph/WildShiftTests.luau_2.md
-- [[game_replicatedstorage_shared_gamedata]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_1.md
+- [[WildShiftTests.luau_2_1]] - document - vault/Graph/WildShiftTests.luau_2.md
+- [[WildShiftTests.luau_3]] - document - vault/Graph/WildShiftTests.luau_3.md
+- [[WildShiftTests.luau_4]] - document - vault/Graph/WildShiftTests.luau_4.md
+- [[_COMMUNITY_Community 1292]] - document - vault/Graph/_COMMUNITY_Community 1292.md
+- [[_COMMUNITY_Community 1354]] - document - vault/Graph/_COMMUNITY_Community 1354.md
+- [[_COMMUNITY_Community 140]] - document - vault/Graph/_COMMUNITY_Community 140.md
+- [[_COMMUNITY_Community 309]] - document - vault/Graph/_COMMUNITY_Community 309.md
+- [[_COMMUNITY_Community 413]] - document - vault/Graph/_COMMUNITY_Community 413.md
+- [[_COMMUNITY_Community 448]] - document - vault/Graph/_COMMUNITY_Community 448.md
+- [[_COMMUNITY_Community 524]] - document - vault/Graph/_COMMUNITY_Community 524.md
+- [[_COMMUNITY_Community 568]] - document - vault/Graph/_COMMUNITY_Community 568.md
+- [[_COMMUNITY_Community 647]] - document - vault/Graph/_COMMUNITY_Community 647.md
+- [[_COMMUNITY_Community 679]] - document - vault/Graph/_COMMUNITY_Community 679.md
+- [[check()_2_3]] - document - vault/Graph/check()_2_2.md
+- [[check()_2_1_1]] - document - vault/Graph/check()_2_1.md
+- [[check()_2_1_2]] - document - vault/Graph/check()_2_1.md
+- [[check()_2_1_1_1]] - document - vault/Graph/check()_2_1_1.md
+- [[check()_2_1_1_2]] - document - vault/Graph/check()_2_1_1.md
+- [[check()_2_2]] - document - vault/Graph/check()_2_2.md
+- [[check()_3_2]] - document - vault/Graph/check()_3_1.md
+- [[check()_3_1_1]] - document - vault/Graph/check()_3_1.md
+- [[check()_5_2]] - document - vault/Graph/check()_5_1.md
+- [[check()_5_1_1]] - document - vault/Graph/check()_5_1.md
+- [[game_replicatedstorage_shared_gamedata]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_2.md
+- [[game_replicatedstorage_shared_gamedata_4]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_3.md
 - [[game_replicatedstorage_shared_gamedata_1]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_1.md
+- [[game_replicatedstorage_shared_gamedata_1_1]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_1.md
+- [[game_replicatedstorage_shared_gamedata_2]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_2.md
+- [[game_replicatedstorage_shared_gamedata_3]] - document - vault/Graph/game_replicatedstorage_shared_gamedata_3.md
+- [[game_serverscriptservice_modules_wildspawner]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_1.md
+- [[game_serverscriptservice_modules_wildspawner_1]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_1.md
+- [[game_serverscriptservice_modules_wildspawner_1_2]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_1_1.md
+- [[game_serverscriptservice_modules_wildspawner_1_1]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_1_1.md
+- [[game_serverscriptservice_modules_wildspawner_2]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_2.md
+- [[game_serverscriptservice_modules_wildspawner_2_1]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_2.md
+- [[game_serverscriptservice_modules_wildspawner_3]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_3.md
+- [[game_serverscriptservice_modules_wildspawner_3_1]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_3.md
+- [[game_serverscriptservice_modules_wildspawner_4]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_4.md
+- [[game_serverscriptservice_modules_wildspawner_4_1]] - document - vault/Graph/game_serverscriptservice_modules_wildspawner_4.md
+- [[near()_8]] - document - vault/Graph/near()_4.md
+- [[near()_7]] - document - vault/Graph/near()_3.md
+- [[near()_1_2]] - document - vault/Graph/near()_1_1.md
+- [[near()_1_1]] - document - vault/Graph/near()_1_1.md
+- [[near()_2_2]] - document - vault/Graph/near()_2_1.md
+- [[near()_2_1]] - document - vault/Graph/near()_2_1.md
+- [[near()_3_1]] - document - vault/Graph/near()_3.md
+- [[near()_4_1]] - document - vault/Graph/near()_4.md
+- [[pivotOf()_8]] - document - vault/Graph/pivotOf()_4.md
+- [[pivotOf()_7]] - document - vault/Graph/pivotOf()_3.md
+- [[pivotOf()_1_2]] - document - vault/Graph/pivotOf()_1_1.md
+- [[pivotOf()_1_1]] - document - vault/Graph/pivotOf()_1_1.md
+- [[pivotOf()_2_2]] - document - vault/Graph/pivotOf()_2_1.md
+- [[pivotOf()_2_1]] - document - vault/Graph/pivotOf()_2_1.md
+- [[pivotOf()_3_1]] - document - vault/Graph/pivotOf()_3.md
+- [[pivotOf()_4_1]] - document - vault/Graph/pivotOf()_4.md
+- [[scaleOf()_3_1_1]] - document - vault/Graph/scaleOf()_3_1.md
+- [[scaleOf()_3_1_2]] - document - vault/Graph/scaleOf()_3_1.md
+- [[scaleOf()_4_1_1]] - document - vault/Graph/scaleOf()_4_1.md
+- [[scaleOf()_4_1_2]] - document - vault/Graph/scaleOf()_4_1.md
+- [[snapshotReal()_1_2]] - document - vault/Graph/snapshotReal()_1.md
+- [[snapshotReal()_1_3]] - document - vault/Graph/snapshotReal()_1.md
+- [[snapshotReal()_1_1]] - document - vault/Graph/snapshotReal()_1_1.md
+- [[snapshotReal()_1_1_1]] - document - vault/Graph/snapshotReal()_1_1.md
+- [[snapshotReal()_2_2]] - document - vault/Graph/snapshotReal()_2.md
+- [[snapshotReal()_2_3]] - document - vault/Graph/snapshotReal()_2.md
+- [[snapshotReal()_2_1]] - document - vault/Graph/snapshotReal()_2_1.md
+- [[snapshotReal()_2_1_1]] - document - vault/Graph/snapshotReal()_2_1.md
+- [[snapshotReal()_3]] - document - vault/Graph/snapshotReal()_3.md
+- [[snapshotReal()_3_1]] - document - vault/Graph/snapshotReal()_3.md
+- [[snapshotReal()_4]] - document - vault/Graph/snapshotReal()_4.md
+- [[snapshotReal()_4_1]] - document - vault/Graph/snapshotReal()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,10 +162,51 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_Community 309]]
-- 1 edge to [[_COMMUNITY_Community 448]]
+- 19 edges to [[_COMMUNITY_Community 140]]
+- 12 edges to [[_COMMUNITY_Community 614]]
+- 10 edges to [[_COMMUNITY_Community 1286]]
+- 10 edges to [[_COMMUNITY_Community 1287]]
+- 4 edges to [[_COMMUNITY_Community 688]]
+- 3 edges to [[_COMMUNITY_Community 1488]]
+- 3 edges to [[_COMMUNITY_Community 176]]
+- 2 edges to [[_COMMUNITY_Community 1139]]
+- 2 edges to [[_COMMUNITY_Community 1726]]
+- 2 edges to [[_COMMUNITY_Community 1729]]
+- 2 edges to [[_COMMUNITY_Community 197]]
+- 2 edges to [[_COMMUNITY_Community 2054]]
+- 2 edges to [[_COMMUNITY_Community 2058]]
+- 2 edges to [[_COMMUNITY_Community 2061]]
+- 2 edges to [[_COMMUNITY_Community 2068]]
+- 2 edges to [[_COMMUNITY_Community 2510]]
+- 2 edges to [[_COMMUNITY_Community 530]]
+- 2 edges to [[_COMMUNITY_Community 691]]
+- 2 edges to [[_COMMUNITY_Community 950]]
+- 1 edge to [[_COMMUNITY_Community 107]]
+- 1 edge to [[_COMMUNITY_Community 1641]]
+- 1 edge to [[_COMMUNITY_Community 1854]]
+- 1 edge to [[_COMMUNITY_Community 2057]]
+- 1 edge to [[_COMMUNITY_Community 2064]]
+- 1 edge to [[_COMMUNITY_Community 2065]]
+- 1 edge to [[_COMMUNITY_Community 2067]]
+- 1 edge to [[_COMMUNITY_Community 2202]]
+- 1 edge to [[_COMMUNITY_Community 2508]]
+- 1 edge to [[_COMMUNITY_Community 2792]]
+- 1 edge to [[_COMMUNITY_Community 2812]]
+- 1 edge to [[_COMMUNITY_Community 2909]]
+- 1 edge to [[_COMMUNITY_Community 2915]]
+- 1 edge to [[_COMMUNITY_Community 2936]]
+- 1 edge to [[_COMMUNITY_Community 2943]]
+- 1 edge to [[_COMMUNITY_Community 3316]]
+- 1 edge to [[_COMMUNITY_Community 3359]]
+- 1 edge to [[_COMMUNITY_Community 3360]]
+- 1 edge to [[_COMMUNITY_Community 377]]
+- 1 edge to [[_COMMUNITY_Community 568]]
+- 1 edge to [[_COMMUNITY_Community 679]]
+- 1 edge to [[_COMMUNITY_Community 883]]
 
 ## Top bridge nodes
-- [[WildShiftTests.luau]] - degree 6, connects to 2 communities
-- [[WildShiftTests.luau_1]] - degree 4, connects to 1 community
-- [[game_replicatedstorage_shared_gamedata_1]] - degree 4, connects to 1 community
+- [[_COMMUNITY_Community 140]] - degree 74, connects to 20 communities
+- [[_COMMUNITY_Community 1354]] - degree 24, connects to 8 communities
+- [[_COMMUNITY_Community 568]] - degree 20, connects to 8 communities
+- [[_COMMUNITY_Community 309]] - degree 34, connects to 6 communities
+- [[_COMMUNITY_Community 1292]] - degree 19, connects to 5 communities

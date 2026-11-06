@@ -12,7 +12,8 @@ tags:
 # GraphSprint.md
 
 ## Connections
-- [[GraphSprint_2]] - `contains` [EXTRACTED]
+- [[GraphSprint_4]] - `contains` [EXTRACTED]
+- [[GraphSprint_2]] - `references` [EXTRACTED]
 - [[Sprint_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 141]] - `references` [EXTRACTED]
 

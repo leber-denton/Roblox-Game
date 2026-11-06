@@ -1,0 +1,18 @@
+---
+source_file: "vault/Graph/Community 35.md"
+type: "document"
+community: "Community 1753"
+location: "L12"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_1753
+---
+
+# Community 35.md
+
+## Connections
+- [[Community 35]] - `contains` [EXTRACTED]
+- [[Connections_10240]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_1753

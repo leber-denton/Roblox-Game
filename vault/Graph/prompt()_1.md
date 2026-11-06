@@ -12,6 +12,7 @@ tags:
 # prompt().md
 
 ## Connections
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
 - [[addTrainerPrompt()_1]] - `references` [EXTRACTED]
 - [[prompt()_2]] - `contains` [EXTRACTED]

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleService.onEnded()_1.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_15.md"
 type: "document"
-community: "Community 134"
+community: "Community 1088"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1088
 ---
 
 # Connections
 
 ## Connections
-- [[BattleService.onEnded()_3]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_122]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1088

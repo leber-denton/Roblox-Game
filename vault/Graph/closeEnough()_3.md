@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/closeEnough()_1.md"
+source_file: "vault/Graph/closeEnough()_3.md"
 type: "document"
-community: "Community 995"
-location: "L12"
+community: "Community 1588"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_995
+  - community/Community_1588
 ---
 
-# closeEnough().md
+# closeEnough()_3.md
 
 ## Connections
-- [[Connections_6405]] - `contains` [EXTRACTED]
-- [[closeEnough()_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 995]] - `references` [EXTRACTED]
+- [[closeEnough()_1_1]] - `references` [EXTRACTED]
+- [[closeEnough()_2]] - `references` [EXTRACTED]
+- [[closeEnough()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_995
+#graphify/document #graphify/EXTRACTED #community/Community_1588

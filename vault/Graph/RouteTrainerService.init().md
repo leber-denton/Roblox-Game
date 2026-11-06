@@ -19,7 +19,7 @@ tags:
 - [[NPC.say()]] - `calls` [INFERRED]
 - [[PlayerData.hasBeatenTrainer()]] - `calls` [INFERRED]
 - [[PlayerData.markTrainerBeaten()]] - `calls` [INFERRED]
-- [[RouteTrainerService.luau_3]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.luau_6]] - `contains` [EXTRACTED]
 - [[canChallenge()]] - `calls` [EXTRACTED]
 - [[challenge()_1]] - `calls` [EXTRACTED]
 

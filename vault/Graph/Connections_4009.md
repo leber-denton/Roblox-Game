@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/refreshPill()_2.md"
+source_file: "vault/Graph/Connections_2878.md"
 type: "document"
-community: "Community 342"
+community: "Community 1222"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_342
+  - community/Community_1222
 ---
 
 # Connections
 
 ## Connections
-- [[refreshPill()_4]] - `contains` [EXTRACTED]
+- [[Connections_4008]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_342
+#graphify/document #graphify/EXTRACTED #community/Community_1222

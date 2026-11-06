@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/schedule()_1.md"
+source_file: "vault/Graph/SocialService_1_2.md"
 type: "document"
-community: "Community 292"
+community: "Community 12"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[schedule()_1_2]] - `contains` [EXTRACTED]
+- [[SocialService_1_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_12

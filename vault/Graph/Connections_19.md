@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/script_parent_arenamanager.md"
+source_file: "vault/Graph/Connections_6372.md"
 type: "document"
-community: "Community 1007"
+community: "Community 1"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1007
+  - community/Community_1
 ---
 
 # Connections
 
 ## Connections
-- [[script_parent_arenamanager_1]] - `contains` [EXTRACTED]
+- [[Connections_18]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1007
+#graphify/document #graphify/EXTRACTED #community/Community_1

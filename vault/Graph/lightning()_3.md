@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/lightning()_1.md"
+source_file: "vault/Graph/lightning()_3.md"
 type: "document"
 community: "Community 18"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_18
 ---
 
-# lightning().md
+# lightning()_3.md
 
 ## Connections
-- [[Connections_2644]] - `contains` [EXTRACTED]
-- [[lightning()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
+- [[lightning()_1]] - `references` [EXTRACTED]
+- [[lightning()_3_1]] - `contains` [EXTRACTED]
+- [[lightning()_5]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_18

@@ -1,0 +1,18 @@
+---
+source_file: "vault/Graph/Members_356.md"
+type: "document"
+community: "Community 2512"
+location: "L12"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_2512
+---
+
+# Members
+
+## Connections
+- [[Connections_14363]] - `contains` [EXTRACTED]
+- [[Members_356_1]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_2512

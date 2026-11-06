@@ -12,9 +12,9 @@ tags:
 # typeChips()
 
 ## Connections
-- [[CreatureIndex.client.luau_5]] - `contains` [EXTRACTED]
-- [[label()_3]] - `calls` [EXTRACTED]
-- [[new()_6]] - `calls` [EXTRACTED]
+- [[CreatureIndex.client.luau_8]] - `contains` [EXTRACTED]
+- [[label()_2]] - `calls` [EXTRACTED]
+- [[new()_5]] - `calls` [EXTRACTED]
 - [[showDetail()_1]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_420

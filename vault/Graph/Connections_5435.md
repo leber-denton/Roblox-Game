@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/floatDamage()_2.md"
+source_file: "vault/Graph/Features.blush()_1.md"
 type: "document"
-community: "Community 794"
+community: "Community 1310"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_794
+  - community/Community_1310
 ---
 
 # Connections
 
 ## Connections
-- [[floatDamage()_4]] - `contains` [EXTRACTED]
+- [[Features.blush()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_794
+#graphify/document #graphify/EXTRACTED #community/Community_1310

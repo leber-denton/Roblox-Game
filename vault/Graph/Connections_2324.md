@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GameData.hasBoost()_1.md"
+source_file: "vault/Graph/Requires_55.md"
 type: "document"
-community: "Community 168"
+community: "Community 1127"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1127
 ---
 
 # Connections
 
 ## Connections
-- [[GameData.hasBoost()_1_1]] - `contains` [EXTRACTED]
+- [[Requires_55_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1127

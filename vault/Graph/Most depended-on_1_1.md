@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/Most depended-on_1.md"
 type: "document"
-community: "Community 843"
-location: "L1"
+community: "Community 1830"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_843
+  - community/Community_1830
 ---
 
 # Most depended-on_1.md
 
 ## Connections
-- [[Connections_429_1]] - `references` [EXTRACTED]
-- [[Most depended-on_4]] - `contains` [EXTRACTED]
-- [[Most depended-on]] - `references` [EXTRACTED]
+- [[Connections_10989]] - `contains` [EXTRACTED]
+- [[Most depended-on_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_843
+#graphify/document #graphify/EXTRACTED #community/Community_1830

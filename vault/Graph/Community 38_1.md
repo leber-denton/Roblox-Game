@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/Community 38.md"
+source_file: "vault/Graph/Community 38_1.md"
 type: "document"
-community: "Community 510"
-location: "L12"
+community: "Community 102"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_510
+  - community/Community_102
 ---
 
-# Community 38.md
+# Community 38_1.md
 
 ## Connections
-- [[Community 38]] - `contains` [EXTRACTED]
-- [[Connections_4473]] - `contains` [EXTRACTED]
+- [[Community 38]] - `references` [EXTRACTED]
+- [[Community 38_1_1]] - `contains` [EXTRACTED]
+- [[Community 38_2_1]] - `references` [EXTRACTED]
+- [[Connections_4473]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 510]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_510
+#graphify/document #graphify/EXTRACTED #community/Community_102

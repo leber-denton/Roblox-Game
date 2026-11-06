@@ -1,20 +1,27 @@
 ---
-source_file: "vault/Graph/setupActivities()_2.md"
+source_file: "vault/Graph/setupActivities()_2_1.md"
 type: "document"
-community: "Community 97"
+community: "Community 622"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_97
+  - community/Community_622
 ---
 
-# setupActivities()_2.md
+# setupActivities()_2_1.md
 
 ## Connections
-- [[Connections_864_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
-- [[setupActivities()_4]] - `contains` [EXTRACTED]
-- [[setupActivities()_1_1]] - `references` [EXTRACTED]
+- [[ColiseumService.init()_1_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 642]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 645]] - `references` [EXTRACTED]
+- [[finishRanked()_1_1]] - `references` [EXTRACTED]
+- [[practice()_2_1]] - `references` [EXTRACTED]
+- [[publicBattles()_2_1]] - `references` [EXTRACTED]
+- [[recordFor()_1_1]] - `references` [EXTRACTED]
+- [[setupActivities()_2_2]] - `contains` [EXTRACTED]
+- [[setupArenaFixtures()_2_1]] - `references` [EXTRACTED]
+- [[unqueue()_2_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_97
+#graphify/document #graphify/EXTRACTED #community/Community_622

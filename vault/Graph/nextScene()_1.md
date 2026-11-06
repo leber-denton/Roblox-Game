@@ -1,25 +1,18 @@
 ---
-source_file: "vault/Graph/nextScene().md"
+source_file: "vault/Graph/nextScene()_1.md"
 type: "document"
-community: "Community 24"
+community: "Community 1706"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1706
 ---
 
-# nextScene().md
+# nextScene()_1.md
 
 ## Connections
-- [[StoryService.luau_1]] - `references` [EXTRACTED]
-- [[StoryService.luau_2]] - `references` [EXTRACTED]
-- [[StoryService.requestMilestone()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
-- [[begin()_1]] - `references` [EXTRACTED]
-- [[check()_1_1]] - `references` [EXTRACTED]
-- [[get()_1]] - `references` [EXTRACTED]
-- [[nextScene()_4]] - `contains` [EXTRACTED]
-- [[sync()_2_2]] - `references` [EXTRACTED]
+- [[nextScene()_1_2]] - `contains` [EXTRACTED]
+- [[nextScene()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1706

@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[CreatureBuilder.build()]] - `calls` [INFERRED]
-- [[Tutorial.client.luau_5]] - `contains` [EXTRACTED]
-- [[new()_7]] - `calls` [EXTRACTED]
+- [[Tutorial.client.luau_7]] - `contains` [EXTRACTED]
+- [[new()_6]] - `calls` [EXTRACTED]
 - [[showPicker()_1]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_421

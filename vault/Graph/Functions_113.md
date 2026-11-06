@@ -12,8 +12,8 @@ tags:
 # Functions_113.md
 
 ## Connections
-- [[Functions_113_1]] - `contains` [EXTRACTED]
-- [[Functions_20]] - `references` [EXTRACTED]
+- [[Functions_113_3]] - `contains` [EXTRACTED]
+- [[Functions_113_1]] - `references` [EXTRACTED]
 - [[PlayerData_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 160]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 72]] - `references` [EXTRACTED]

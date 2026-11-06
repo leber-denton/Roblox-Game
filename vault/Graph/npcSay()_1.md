@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/npcSay().md"
+source_file: "vault/Graph/npcSay()_1.md"
 type: "document"
-community: "Community 90"
+community: "Community 197"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_197
 ---
 
-# npcSay().md
+# npcSay()_1.md
 
 ## Connections
-- [[Main.server.luau_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[npcSay()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 23]] - `references` [EXTRACTED]
+- [[npcSay()_3]] - `contains` [EXTRACTED]
+- [[npcSay()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_197

@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/_COMMUNITY_Community 336.md"
+type: "document"
+community: "Community 2033"
+location: "L65"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_2033
+---
+
+# Top bridge nodes
+
+## Connections
+- [[Community 336_2]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_2033

@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/TutorialService.isGuideStep().md"
+source_file: "vault/Graph/TutorialService.isGuideStep()_2.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 1872"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1872
 ---
 
 # TutorialService.isGuideStep().md
 
 ## Connections
-- [[StoryService.init()_4]] - `references` [EXTRACTED]
-- [[StoryService.onLoaded()_4]] - `references` [EXTRACTED]
-- [[TutorialService.isGuideStep()_5]] - `contains` [EXTRACTED]
-- [[TutorialService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
-- [[check()_1_1]] - `references` [EXTRACTED]
+- [[Connections_11155]] - `contains` [EXTRACTED]
+- [[TutorialService.isGuideStep()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1872

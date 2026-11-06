@@ -12,7 +12,7 @@ tags:
 # hex()
 
 ## Connections
-- [[Connections_1067]] - `contains` [EXTRACTED]
+- [[Connections_3653]] - `contains` [EXTRACTED]
 - [[hex()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

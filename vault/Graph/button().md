@@ -12,9 +12,9 @@ tags:
 # button()
 
 ## Connections
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
 - [[itemCard()]] - `calls` [EXTRACTED]
-- [[new()_4]] - `calls` [EXTRACTED]
+- [[new()_3]] - `calls` [EXTRACTED]
 - [[tabs.Base()]] - `calls` [EXTRACTED]
 - [[tabs.Crates()]] - `calls` [EXTRACTED]
 - [[tabs.Items()]] - `calls` [EXTRACTED]

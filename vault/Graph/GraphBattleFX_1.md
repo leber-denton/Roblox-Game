@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/BattleFX.md"
+source_file: "vault/Graph/GraphBattleFX_1.md"
 type: "document"
 community: "Community 303"
 location: "L1"
@@ -9,10 +9,11 @@ tags:
   - community/Community_303
 ---
 
-# Graph/BattleFX.md
+# GraphBattleFX_1.md
 
 ## Connections
-- [[BattleFX]] - `contains` [EXTRACTED]
+- [[GraphBattleFX_3]] - `contains` [EXTRACTED]
+- [[GraphBattleFX_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 303]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_303

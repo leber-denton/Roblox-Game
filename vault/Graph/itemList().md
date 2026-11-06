@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[LeagueService.init()]] - `calls` [EXTRACTED]
-- [[LeagueService.luau_3]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_7]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

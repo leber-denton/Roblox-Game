@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/release().md"
+source_file: "vault/Graph/release()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2298"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2298
 ---
 
-# release().md
+# release()_3.md
 
 ## Connections
-- [[BaseManager.getBase()_3]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[applyTheme()_3]] - `references` [EXTRACTED]
-- [[clearModels()_6]] - `references` [EXTRACTED]
-- [[playbackTime()_3]] - `references` [EXTRACTED]
-- [[release()_4]] - `contains` [EXTRACTED]
+- [[release()_1]] - `contains` [EXTRACTED]
+- [[release()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2298

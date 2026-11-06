@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/CodePassService.md"
+source_file: "vault/Graph/CodePassService_2.md"
 type: "document"
-community: "Community 1044"
-location: "L1"
+community: "Community 101"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1044
+  - community/Community_101
 ---
 
-# CodePassService.md
+# Code/PassService.md
 
 ## Connections
-- [[CodePassService_1]] - `contains` [EXTRACTED]
-- [[Connections_110_1]] - `references` [EXTRACTED]
+- [[CodePassService_2]] - `contains` [EXTRACTED]
+- [[Connections_144]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1044
+#graphify/document #graphify/EXTRACTED #community/Community_101

@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1488
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1954]] - document - vault/Graph/Where to edit things.md
-- [[Where to edit things_3]] - document - vault/Graph/Where to edit things.md
+- [[Community 5_6]] - document - vault/Graph/Community 5.md
+- [[Community 5_5]] - document - vault/Graph/Community 5.md
+- [[Connections_7958]] - document - vault/Graph/Community 5.md
+- [[Connections_7959]] - document - vault/Graph/Live Query (requires Dataview plugin)_411.md
+- [[Connections_7960]] - document - vault/Graph/Members_413.md
+- [[Live Query (requires Dataview plugin)_595]] - document - vault/Graph/Live Query (requires Dataview plugin)_411.md
+- [[Live Query (requires Dataview plugin)_411_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_411.md
+- [[Members_596]] - document - vault/Graph/Members_413.md
+- [[Members_413_1]] - document - vault/Graph/Members_413.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 350]]
+- 3 edges to [[_COMMUNITY_Community 413]]
+- 1 edge to [[_COMMUNITY_Community 140]]
 
 ## Top bridge nodes
-- [[Where to edit things_3]] - degree 2, connects to 1 community
+- [[Community 5_5]] - degree 5, connects to 2 communities
+- [[Members_413_1]] - degree 3, connects to 1 community
+- [[Live Query (requires Dataview plugin)_411_1]] - degree 3, connects to 1 community

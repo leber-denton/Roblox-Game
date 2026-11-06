@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 285.md"
+source_file: "vault/Graph/Community 285.md"
 type: "document"
-community: "Community 404"
-location: "L6"
+community: "Community 1585"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_404
+  - community/Community_1585
 ---
 
-# Community 285
+# Community 285.md
 
 ## Connections
-- [[Connections to other communities_318]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_349]] - `contains` [EXTRACTED]
-- [[Members_354]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_322]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 285]] - `contains` [EXTRACTED]
+- [[Community 285_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1466]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 285]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 404]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_404
+#graphify/document #graphify/EXTRACTED #community/Community_1585

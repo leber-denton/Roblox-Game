@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/rivalChallenge()_2.md"
+source_file: "vault/Graph/Top bridge nodes_86.md"
 type: "document"
-community: "Community 134"
+community: "Community 1093"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1093
 ---
 
 # Connections
 
 ## Connections
-- [[rivalChallenge()_2_2]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_91]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1093

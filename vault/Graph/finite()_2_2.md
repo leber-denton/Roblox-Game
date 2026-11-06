@@ -12,7 +12,7 @@ tags:
 # finite()_2.md
 
 ## Connections
-- [[Connections_1765]] - `contains` [EXTRACTED]
+- [[Connections_7220]] - `contains` [EXTRACTED]
 - [[finite()_2_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1416

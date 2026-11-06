@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/SocialService.isTrading()_2.md"
+source_file: "vault/Graph/Connections_3444.md"
 type: "document"
-community: "Community 588"
-location: "L14"
+community: "Community 1265"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_588
+  - community/Community_1265
 ---
 
 # Connections
 
 ## Connections
-- [[SocialService.isTrading()_2_2]] - `contains` [EXTRACTED]
+- [[Connections_4738]] - `contains` [EXTRACTED]
+- [[Connections_3444_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_588
+#graphify/document #graphify/EXTRACTED #community/Community_1265

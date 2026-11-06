@@ -12,7 +12,7 @@ tags:
 # WildSpawner.spawnLane()
 
 ## Connections
-- [[WildSpawner.luau_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.luau]] - `contains` [EXTRACTED]
 - [[fillLane()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_22

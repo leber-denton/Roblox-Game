@@ -12,7 +12,8 @@ tags:
 # makeGrunt()_1.md
 
 ## Connections
-- [[Connections_428]] - `references` [EXTRACTED]
-- [[makeGrunt()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1157]] - `references` [EXTRACTED]
+- [[makeGrunt()_1_1]] - `contains` [EXTRACTED]
+- [[makeGrunt()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1157

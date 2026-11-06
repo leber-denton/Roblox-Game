@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/hideOwn()_1.md"
+source_file: "vault/Graph/Connections_3040.md"
 type: "document"
-community: "Community 184"
+community: "Community 115"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_184
+  - community/Community_115
 ---
 
 # Connections
 
 ## Connections
-- [[hideOwn()_3]] - `contains` [EXTRACTED]
+- [[Connections_3040_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_184
+#graphify/document #graphify/EXTRACTED #community/Community_115

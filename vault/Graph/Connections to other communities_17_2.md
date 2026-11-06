@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Connections to other communities_17.md"
+source_file: "vault/Graph/Connections to other communities_17_2.md"
 type: "document"
-community: "Community 397"
-location: "L12"
+community: "Community 1327"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_397
+  - community/Community_1327
 ---
 
-# Connections to other communities_17.md
+# Connections to other communities_17_2.md
 
 ## Connections
-- [[Connections_4142]] - `contains` [EXTRACTED]
-- [[Connections to other communities_17_1]] - `contains` [EXTRACTED]
+- [[Connections to other communities_17_3]] - `contains` [EXTRACTED]
+- [[Connections to other communities_17_1_1]] - `references` [EXTRACTED]
+- [[Connections_4142_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_397
+#graphify/document #graphify/EXTRACTED #community/Community_1327

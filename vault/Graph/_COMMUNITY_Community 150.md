@@ -1,61 +1,50 @@
 ---
 type: community
-members: 48
+members: 37
 ---
 
 # Community 150
 
-**Members:** 48 nodes
+**Members:** 37 nodes
 
 ## Members
-- [[BattleService]] - document - vault/Graph/BattleService.md
-- [[BattleService_1]] - document - vault/Graph/BattleService_1.md
-- [[BattleService_1_2]] - document - vault/Graph/BattleService_1_1.md
-- [[BattleService_1_3]] - document - vault/Graph/BattleService_1.md
-- [[BattleService_1_1]] - document - vault/Graph/BattleService_1_1.md
-- [[Community 150]] - document - vault/Graph/_COMMUNITY_Community 150.md
-- [[Community 64_2]] - document - vault/Graph/_COMMUNITY_Community 64.md
-- [[Community 64]] - document - vault/Graph/Community 64.md
-- [[Community 64_1]] - document - vault/Graph/Community 64.md
-- [[Connections_1991]] - document - vault/Graph/BattleService_1_1.md
-- [[Connections_1992]] - document - vault/Graph/BattleService_1.md
-- [[Connections_1993]] - document - vault/Graph/BattleService.md
-- [[Connections_1994]] - document - vault/Graph/Community 64.md
-- [[Connections_1995]] - document - vault/Graph/Functions_25_1.md
-- [[Connections_1996]] - document - vault/Graph/Functions_40_1.md
-- [[Connections_1997]] - document - vault/Graph/GraphBattleService.md
-- [[Connections_1998]] - document - vault/Graph/Required by_19_1.md
-- [[Connections_1999]] - document - vault/Graph/Required by_40_1.md
-- [[Connections_2000]] - document - vault/Graph/Requires_19_1.md
-- [[Connections_2001]] - document - vault/Graph/Requires_21_1.md
-- [[Connections_2002]] - document - vault/Graph/Requires_40_1.md
-- [[Connections to other communities_111]] - document - vault/Graph/_COMMUNITY_Community 150.md
-- [[Connections to other communities_112]] - document - vault/Graph/_COMMUNITY_Community 64.md
-- [[Functions_25_2]] - document - vault/Graph/Functions_25_1.md
-- [[Functions_25_1]] - document - vault/Graph/Functions_25_1.md
-- [[Functions_40]] - document - vault/Graph/Functions_40_1.md
-- [[Functions_40_1]] - document - vault/Graph/Functions_40_1.md
-- [[GraphBattleService_1]] - document - vault/Graph/BattleService.md
-- [[GraphBattleService]] - document - vault/Graph/GraphBattleService.md
-- [[GraphBattleService_2]] - document - vault/Graph/GraphBattleService.md
-- [[Live Query (requires Dataview plugin)_120]] - document - vault/Graph/_COMMUNITY_Community 150.md
-- [[Live Query (requires Dataview plugin)_121]] - document - vault/Graph/_COMMUNITY_Community 64.md
-- [[Members_122]] - document - vault/Graph/_COMMUNITY_Community 150.md
-- [[Members_123]] - document - vault/Graph/_COMMUNITY_Community 64.md
-- [[Required by_19_1]] - document - vault/Graph/Required by_19_1.md
-- [[Required by_19_1_1]] - document - vault/Graph/Required by_19_1.md
-- [[Required by_40]] - document - vault/Graph/Required by_40_1.md
+- [[BattleService_1_1]] - document - vault/Graph/BattleService_1.md
+- [[BattleService_1_3]] - document - vault/Graph/BattleService_1_2.md
+- [[BattleService_1_4]] - document - vault/Graph/BattleService_1.md
+- [[BattleService_1_1_1]] - document - vault/Graph/BattleService_1_1.md
+- [[BattleService_1_1_2]] - document - vault/Graph/BattleService_1_1.md
+- [[BattleService_1_2]] - document - vault/Graph/BattleService_1_2.md
+- [[Connections_8072]] - document - vault/Graph/BattleService_1_1.md
+- [[Connections_8073]] - document - vault/Graph/BattleService_1_2.md
+- [[Connections_8074]] - document - vault/Graph/BattleService_1.md
+- [[Connections_8075]] - document - vault/Graph/Functions_40_1.md
+- [[Connections_8076]] - document - vault/Graph/GraphBattleService_1.md
+- [[Connections_8077]] - document - vault/Graph/GraphBattleService_2.md
+- [[Connections_8078]] - document - vault/Graph/GraphBattleService.md
+- [[Connections_8079]] - document - vault/Graph/Required by_19_1_1.md
+- [[Connections_8080]] - document - vault/Graph/Required by_40_1.md
+- [[Connections_8081]] - document - vault/Graph/Requires_19_1_1.md
+- [[Connections_8082]] - document - vault/Graph/Requires_40_1.md
+- [[Connections_8083]] - document - vault/Graph/Requires_40_2.md
+- [[Functions_40_1_1]] - document - vault/Graph/Functions_40_1.md
+- [[Functions_40_1_2]] - document - vault/Graph/Functions_40_1.md
+- [[GraphBattleService_1]] - document - vault/Graph/GraphBattleService.md
+- [[GraphBattleService_3]] - document - vault/Graph/GraphBattleService_1.md
+- [[GraphBattleService_4]] - document - vault/Graph/GraphBattleService.md
+- [[GraphBattleService_1_1]] - document - vault/Graph/GraphBattleService_1.md
+- [[GraphBattleService_2]] - document - vault/Graph/GraphBattleService_2.md
+- [[GraphBattleService_2_1]] - document - vault/Graph/GraphBattleService_2.md
+- [[Required by_19_1_2]] - document - vault/Graph/Required by_19_1_1.md
+- [[Required by_19_1_1]] - document - vault/Graph/Required by_19_1_1.md
 - [[Required by_40_1]] - document - vault/Graph/Required by_40_1.md
-- [[Requires_19_1]] - document - vault/Graph/Requires_19_1.md
-- [[Requires_19_1_1]] - document - vault/Graph/Requires_19_1.md
-- [[Requires_21_2]] - document - vault/Graph/Requires_21_1.md
-- [[Requires_21_1]] - document - vault/Graph/Requires_21_1.md
-- [[Requires_40]] - document - vault/Graph/Requires_40_1.md
+- [[Required by_40_1_1]] - document - vault/Graph/Required by_40_1.md
+- [[Requires_19_1]] - document - vault/Graph/Requires_19_1_1.md
+- [[Requires_19_1_1]] - document - vault/Graph/Requires_19_1_1.md
+- [[Requires_40_3]] - document - vault/Graph/Requires_40_2.md
 - [[Requires_40_1]] - document - vault/Graph/Requires_40_1.md
-- [[Top bridge nodes_117]] - document - vault/Graph/_COMMUNITY_Community 150.md
-- [[Top bridge nodes_118]] - document - vault/Graph/_COMMUNITY_Community 64.md
+- [[Requires_40_1_1]] - document - vault/Graph/Requires_40_1.md
+- [[Requires_40_2]] - document - vault/Graph/Requires_40_2.md
 - [[_COMMUNITY_Community 150]] - document - vault/Graph/_COMMUNITY_Community 150.md
-- [[_COMMUNITY_Community 64]] - document - vault/Graph/_COMMUNITY_Community 64.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -65,7 +54,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 119]]
+- 6 edges to [[_COMMUNITY_Community 1149]]
+- 5 edges to [[_COMMUNITY_Community 1180]]
+- 3 edges to [[_COMMUNITY_Community 707]]
+- 3 edges to [[_COMMUNITY_Community 2386]]
+- 1 edge to [[_COMMUNITY_Community 1328]]
+- 1 edge to [[_COMMUNITY_Community 1406]]
+- 1 edge to [[_COMMUNITY_Community 1491]]
+- 1 edge to [[_COMMUNITY_Community 1714]]
+- 1 edge to [[_COMMUNITY_Community 2365]]
+- 1 edge to [[_COMMUNITY_Community 1651]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 64]] - degree 7, connects to 1 community
+- [[_COMMUNITY_Community 150]] - degree 26, connects to 9 communities
+- [[BattleService_1_1]] - degree 10, connects to 2 communities
+- [[Requires_40_1]] - degree 7, connects to 2 communities
+- [[Required by_40_1]] - degree 6, connects to 2 communities
+- [[Functions_40_1_1]] - degree 4, connects to 1 community

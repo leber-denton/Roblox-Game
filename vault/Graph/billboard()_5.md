@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/billboard().md"
+source_file: "vault/Graph/billboard()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 1187"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1187
 ---
 
-# billboard()
+# billboard()_5.md
 
 ## Connections
-- [[Connections_5701]] - `contains` [EXTRACTED]
-- [[billboard()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[billboard()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1187

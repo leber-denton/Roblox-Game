@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[BaseManager.spawnCFrame()]] - `calls` [INFERRED]
-- [[Main.server.luau_3]] - `contains` [EXTRACTED]
+- [[Main.server.luau]] - `contains` [EXTRACTED]
 - [[onPlayerAdded()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_16

@@ -12,6 +12,6 @@ tags:
 # register()
 
 ## Connections
-- [[NPCLife.client.luau_4]] - `contains` [EXTRACTED]
+- [[NPCLife.client.luau_6]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_84

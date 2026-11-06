@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/TutorialService.logFunnel()_2.md"
+source_file: "vault/Graph/Connections_1319.md"
 type: "document"
-community: "Community 134"
+community: "Community 1095"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1095
 ---
 
 # Connections
 
 ## Connections
-- [[TutorialService.logFunnel()_4]] - `contains` [EXTRACTED]
+- [[Connections_1557]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1095

@@ -12,8 +12,10 @@ tags:
 # RouteTrainerService.luau_2.md
 
 ## Connections
-- [[RouteTrainerService.luau]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.luau]] - `references` [EXTRACTED]
 - [[RouteTrainerService.luau_1]] - `references` [EXTRACTED]
+- [[RouteTrainerService.luau_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 311]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

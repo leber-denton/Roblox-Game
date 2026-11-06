@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/Workflow_1.md"
+source_file: "vault/Graph/Workflow_1_1.md"
 type: "document"
 community: "Community 597"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_597
 ---
 
-# Workflow_1.md
+# Workflow_1_1.md
 
 ## Connections
-- [[Connections_4754]] - `contains` [EXTRACTED]
-- [[Workflow_1]] - `contains` [EXTRACTED]
+- [[Creature Quest_1]] - `references` [EXTRACTED]
+- [[Workflow_1_2]] - `contains` [EXTRACTED]
+- [[Workflow_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 36]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 597]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 96]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_597

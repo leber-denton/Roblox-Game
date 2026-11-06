@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/commands.towerTop()_2.md"
 type: "document"
-community: "Community 168"
-location: "L1"
+community: "Community 1127"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1127
 ---
 
 # commands.towerTop()_2.md
 
 ## Connections
-- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
-- [[commands.towerTop()_4]] - `contains` [EXTRACTED]
-- [[commands.towerTop()_1_1]] - `references` [EXTRACTED]
+- [[Connections_2313]] - `contains` [EXTRACTED]
+- [[commands.towerTop()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1127

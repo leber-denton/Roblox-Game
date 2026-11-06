@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Shapes.rodent()_2.md"
+source_file: "vault/Graph/Shapes.rodent().md"
 type: "document"
-community: "Community 133"
-location: "L1"
+community: "Community 137"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_133
+  - community/Community_137
 ---
 
-# Shapes.rodent()_2.md
+# Shapes.rodent()
 
 ## Connections
-- [[Shapes.rodent()_1]] - `references` [EXTRACTED]
-- [[Shapes.rodent()_2_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
+- [[Connections_6686]] - `contains` [EXTRACTED]
+- [[Shapes.rodent()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_133
+#graphify/document #graphify/EXTRACTED #community/Community_137

@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_20.md"
+source_file: "vault/Code/BattleData.md"
 type: "document"
-community: "Community 1453"
-location: "L12"
+community: "Community 13"
+location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1453
+  - community/Community_13
 ---
 
 # Requires
 
 ## Connections
-- [[Connections_1852]] - `contains` [EXTRACTED]
-- [[Requires_20_2]] - `contains` [EXTRACTED]
+- [[BattleData]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1453
+#graphify/document #graphify/EXTRACTED #community/Community_13

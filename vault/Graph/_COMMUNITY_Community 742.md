@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Connections_5235]] - document - vault/Graph/onRespond()_2.md
-- [[onRespond()_2_1]] - document - vault/Graph/onRespond()_2.md
-- [[onRespond()_2_2]] - document - vault/Graph/onRespond()_2.md
+- [[Connections_22331]] - document - vault/Graph/Connections_5179.md
+- [[Connections_22332]] - document - vault/Graph/Connections_5179.md
+- [[Connections_5179_1]] - document - vault/Graph/Connections_5179.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 176]]
 
 ## Top bridge nodes
-- [[onRespond()_2_1]] - degree 2, connects to 1 community
+- [[Connections_5179_1]] - degree 2, connects to 1 community

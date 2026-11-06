@@ -1,19 +1,22 @@
 ---
-source_file: "vault/Graph/rebuildBoard()_2.md"
+source_file: "vault/Graph/rebuildBoard()_2_1.md"
 type: "document"
-community: "Community 168"
+community: "Community 1844"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1844
 ---
 
-# rebuildBoard()_2.md
+# rebuildBoard()_2_1.md
 
 ## Connections
+- [[_COMMUNITY_Community 1031]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 180]] - `references` [EXTRACTED]
-- [[rebuildBoard()_3]] - `contains` [EXTRACTED]
-- [[rebuildBoard()_1_1]] - `references` [EXTRACTED]
+- [[rebuildBoard()_2]] - `references` [EXTRACTED]
+- [[rebuildBoard()_2_1_1]] - `contains` [EXTRACTED]
+- [[rebuildBoard()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1844

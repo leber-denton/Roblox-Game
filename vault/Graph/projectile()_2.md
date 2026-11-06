@@ -12,9 +12,10 @@ tags:
 # projectile()_2.md
 
 ## Connections
-- [[Connections_737_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[projectile()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
 - [[projectile()_1]] - `references` [EXTRACTED]
+- [[projectile()_2_1]] - `contains` [EXTRACTED]
+- [[projectile()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_18

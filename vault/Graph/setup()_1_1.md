@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/setup()_1_1.md"
+source_file: "vault/Graph/setup()_1_2.md"
 type: "document"
-community: "Community 134"
-location: "L1"
+community: "Community 1187"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_134
+  - community/Community_1187
 ---
 
-# setup()_1_1.md
+# setup()_1.md
 
 ## Connections
-- [[LeagueService.init()_1]] - `references` [EXTRACTED]
-- [[LeagueService.luau_1]] - `references` [EXTRACTED]
-- [[NPC.prompt()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 87]] - `references` [EXTRACTED]
-- [[challenge()_2]] - `references` [EXTRACTED]
-- [[setup()_1_1_1]] - `contains` [EXTRACTED]
+- [[Connections_3385]] - `contains` [EXTRACTED]
+- [[setup()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_134
+#graphify/document #graphify/EXTRACTED #community/Community_1187

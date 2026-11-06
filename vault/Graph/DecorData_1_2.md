@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/DecorData_1_1.md"
+source_file: "vault/Graph/DecorData_1_2.md"
 type: "document"
-community: "Community 801"
-location: "L12"
+community: "Community 1307"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_801
+  - community/Community_1307
 ---
 
-# DecorData_1.md
+# DecorData_1_2.md
 
 ## Connections
-- [[Connections_5460]] - `contains` [EXTRACTED]
-- [[DecorData_1_1_1]] - `contains` [EXTRACTED]
+- [[Connections_1597_1]] - `references` [EXTRACTED]
+- [[DecorData_1_3]] - `contains` [EXTRACTED]
+- [[DecorData_1_1]] - `references` [EXTRACTED]
+- [[DecorData_1_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1127]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_801
+#graphify/document #graphify/EXTRACTED #community/Community_1307

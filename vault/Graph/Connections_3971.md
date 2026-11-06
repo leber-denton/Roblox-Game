@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/ballParts()_1.md"
+source_file: "vault/Graph/Connections_2860.md"
 type: "document"
-community: "Community 335"
-location: "L14"
+community: "Community 1222"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_335
+  - community/Community_1222
 ---
 
 # Connections
 
 ## Connections
-- [[ballParts()_3]] - `contains` [EXTRACTED]
+- [[Connections_3972]] - `contains` [EXTRACTED]
+- [[Connections_2860_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_335
+#graphify/document #graphify/EXTRACTED #community/Community_1222

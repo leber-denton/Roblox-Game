@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/overlaps().md"
+source_file: "vault/Graph/overlaps()_2.md"
 type: "document"
-community: "Community 86"
+community: "Community 2273"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2273
 ---
 
-# overlaps().md
+# overlaps()_2.md
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[canPlace()_1]] - `references` [EXTRACTED]
-- [[overlaps()_4]] - `contains` [EXTRACTED]
+- [[overlaps()_5]] - `contains` [EXTRACTED]
+- [[overlaps()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2273

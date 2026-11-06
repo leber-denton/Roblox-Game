@@ -1,19 +1,18 @@
 ---
 source_file: "vault/Graph/CodeNPCAnimator.md"
 type: "document"
-community: "Community 99"
-location: "L1"
+community: "Community 1434"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_99
+  - community/Community_1434
 ---
 
-# CodeNPCAnimator.md
+# Code/NPCAnimator.md
 
 ## Connections
-- [[CodeNPCAnimator_2]] - `contains` [EXTRACTED]
-- [[GraphNPCAnimator_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 39]] - `references` [EXTRACTED]
+- [[CodeNPCAnimator]] - `contains` [EXTRACTED]
+- [[Connections_7394]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_99
+#graphify/document #graphify/EXTRACTED #community/Community_1434

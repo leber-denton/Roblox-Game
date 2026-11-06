@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/DungeonService_1.md"
+source_file: "vault/Graph/DungeonService_1_3.md"
 type: "document"
-community: "Community 440"
-location: "L12"
+community: "Community 494"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_440
+  - community/Community_494
 ---
 
-# DungeonService_1.md
+# DungeonService_1_3.md
 
 ## Connections
-- [[Connections_4268]] - `contains` [EXTRACTED]
-- [[DungeonService_1_2]] - `contains` [EXTRACTED]
+- [[DungeonService_1_5]] - `contains` [EXTRACTED]
+- [[DungeonService_1_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 440]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_440
+#graphify/document #graphify/EXTRACTED #community/Community_494

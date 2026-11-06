@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_482.md"
+source_file: "vault/Graph/WildSpawner_2.md"
 type: "document"
-community: "Community 146"
-location: "L12"
+community: "Community 1109"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_146
+  - community/Community_1109
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_1910]] - `contains` [EXTRACTED]
-- [[Connections_482_1]] - `contains` [EXTRACTED]
+- [[WildSpawner_2_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_146
+#graphify/document #graphify/EXTRACTED #community/Community_1109

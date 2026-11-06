@@ -12,9 +12,9 @@ tags:
 # NpcGuard.stamp().md
 
 ## Connections
-- [[NpcGuard.luau_1]] - `references` [EXTRACTED]
+- [[NpcGuard.luau]] - `references` [EXTRACTED]
 - [[NpcGuard.stamp()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 38]] - `references` [EXTRACTED]
-- [[npcs()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
+- [[npcs()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_333

@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/Tutorial.client.luau_1.md"
+source_file: "vault/Graph/Tutorial.client.luau.md"
 type: "document"
-community: "Community 181"
-location: "L1"
+community: "Community 1922"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_181
+  - community/Community_1922
 ---
 
-# Tutorial.client.luau_1.md
+# Tutorial.client.luau
 
 ## Connections
+- [[Connections_11415]] - `contains` [EXTRACTED]
 - [[Tutorial.client.luau]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 181]] - `references` [EXTRACTED]
-- [[shared_waitforchild_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_181
+#graphify/document #graphify/EXTRACTED #community/Community_1922

@@ -12,7 +12,9 @@ tags:
 # script_parent_npc_2.md
 
 ## Connections
-- [[script_parent_npc_3]] - `contains` [EXTRACTED]
-- [[script_parent_npc_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 644]] - `references` [EXTRACTED]
+- [[script_parent_npc_1_1_1]] - `references` [EXTRACTED]
+- [[script_parent_npc_2_1]] - `contains` [EXTRACTED]
+- [[script_parent_npc_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_644

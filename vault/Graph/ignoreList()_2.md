@@ -15,6 +15,7 @@ tags:
 - [[_COMMUNITY_Community 179]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 94]] - `references` [EXTRACTED]
 - [[ignoreList()_1]] - `references` [EXTRACTED]
-- [[ignoreList()_2_1]] - `contains` [EXTRACTED]
+- [[ignoreList()_2_3]] - `contains` [EXTRACTED]
+- [[ignoreList()_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_179

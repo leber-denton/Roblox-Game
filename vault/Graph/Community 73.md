@@ -12,8 +12,7 @@ tags:
 # Community 73.md
 
 ## Connections
-- [[Community 73_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 161]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 73]] - `references` [EXTRACTED]
+- [[Community 73_5]] - `contains` [EXTRACTED]
+- [[Community 73_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_161

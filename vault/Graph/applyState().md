@@ -12,7 +12,7 @@ tags:
 # applyState()
 
 ## Connections
-- [[BattleUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[BattleUI.client.luau_7]] - `contains` [EXTRACTED]
 - [[attachCard()]] - `calls` [EXTRACTED]
 - [[handle()]] - `calls` [EXTRACTED]
 - [[playTurn()]] - `calls` [EXTRACTED]

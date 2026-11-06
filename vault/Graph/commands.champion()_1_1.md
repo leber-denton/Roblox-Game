@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/commands.champion()_1.md"
+source_file: "vault/Graph/commands.champion()_1_1.md"
 type: "document"
-community: "Community 600"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_600
+  - community/Community_168
 ---
 
-# commands.champion()_1.md
+# commands.champion()_1_1.md
 
 ## Connections
-- [[Connections_129_1]] - `references` [EXTRACTED]
-- [[commands.champion()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
+- [[commands.champion()_1]] - `contains` [EXTRACTED]
+- [[commands.champion()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_600
+#graphify/document #graphify/EXTRACTED #community/Community_168

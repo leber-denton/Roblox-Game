@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/Connections_952.md"
+source_file: "vault/Graph/Connections_1045.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 1060"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1060
 ---
 
-# Connections_952.md
+# Connections
 
 ## Connections
-- [[BaseManager.hasRoom()_2]] - `references` [EXTRACTED]
-- [[Connections_614_1]] - `references` [EXTRACTED]
-- [[Connections_952_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[Connections_953]] - `contains` [EXTRACTED]
+- [[Connections_1045]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1060

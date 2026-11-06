@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GraphCreatureBuilder.md"
+source_file: "vault/Graph/weeklyStore().md"
 type: "document"
-community: "Community 406"
+community: "Community 123"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_406
+  - community/Community_123
 ---
 
 # Connections
 
 ## Connections
-- [[GraphCreatureBuilder_2]] - `contains` [EXTRACTED]
+- [[weeklyStore()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_406
+#graphify/document #graphify/EXTRACTED #community/Community_123

@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.footprint().md"
+source_file: "vault/Graph/DecorData.footprint()_1_2.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 149"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_149
 ---
 
-# DecorData.footprint().md
+# DecorData.footprint()_1.md
 
 ## Connections
-- [[DecorData.footprint()_2]] - `contains` [EXTRACTED]
-- [[DecorData.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[canPlace()_1]] - `references` [EXTRACTED]
-- [[check()_7]] - `references` [EXTRACTED]
+- [[Connections_8022]] - `contains` [EXTRACTED]
+- [[DecorData.footprint()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_149

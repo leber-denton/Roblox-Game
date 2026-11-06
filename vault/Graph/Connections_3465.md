@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/canAnyoneEnter()_2.md"
+source_file: "vault/Graph/Dev Pipeline.md"
 type: "document"
-community: "Community 251"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_251
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[canAnyoneEnter()_2_1]] - `contains` [EXTRACTED]
+- [[Dev Pipeline]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_251
+#graphify/document #graphify/EXTRACTED #community/Community_119

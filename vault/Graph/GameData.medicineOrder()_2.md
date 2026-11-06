@@ -12,7 +12,7 @@ tags:
 # GameData.medicineOrder()
 
 ## Connections
-- [[Connections_1063]] - `contains` [EXTRACTED]
+- [[Connections_3650]] - `contains` [EXTRACTED]
 - [[GameData.medicineOrder()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_120

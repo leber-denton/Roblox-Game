@@ -12,6 +12,6 @@ tags:
 # fmt()
 
 ## Connections
-- [[EventHUD.client.luau_2]] - `contains` [EXTRACTED]
+- [[EventHUD.client.luau]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_45

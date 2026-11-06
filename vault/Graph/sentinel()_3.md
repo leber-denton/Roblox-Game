@@ -12,7 +12,7 @@ tags:
 # sentinel().md
 
 ## Connections
-- [[Connections_4803]] - `contains` [EXTRACTED]
+- [[Connections_21307]] - `contains` [EXTRACTED]
 - [[sentinel()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_614

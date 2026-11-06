@@ -12,12 +12,11 @@ tags:
 # act()_1.md
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `references` [EXTRACTED]
+- [[BattleUI.client.luau_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
 - [[act()_3]] - `contains` [EXTRACTED]
 - [[act()_2_1]] - `references` [EXTRACTED]
 - [[clearButtons()_1_1]] - `references` [EXTRACTED]
-- [[showMenu()_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_138

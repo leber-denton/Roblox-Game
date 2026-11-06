@@ -1,15 +1,25 @@
 ---
 type: community
-members: 2
+members: 12
 ---
 
 # Community 1439
 
-**Members:** 2 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_1801]] - document - vault/Graph/prompt()_1.md
-- [[prompt()_3]] - document - vault/Graph/prompt()_1.md
+- [[Community 94_1]] - document - vault/Graph/Community 94.md
+- [[Community 94]] - document - vault/Graph/Community 94.md
+- [[Connections_7455]] - document - vault/Graph/Community 94.md
+- [[Connections_7456]] - document - vault/Graph/Connections_1554.md
+- [[Connections_7457]] - document - vault/Graph/Connections_1554.md
+- [[Connections_7458]] - document - vault/Graph/Live Query (requires Dataview plugin)_176.md
+- [[Connections_7459]] - document - vault/Graph/Live Query (requires Dataview plugin)_77_1.md
+- [[Connections_1554_1]] - document - vault/Graph/Connections_1554.md
+- [[Live Query (requires Dataview plugin)_553]] - document - vault/Graph/Live Query (requires Dataview plugin)_176.md
+- [[Live Query (requires Dataview plugin)_176_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_176.md
+- [[Live Query (requires Dataview plugin)_77_2]] - document - vault/Graph/Live Query (requires Dataview plugin)_77_1.md
+- [[Live Query (requires Dataview plugin)_77_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_77_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +29,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 4 edges to [[_COMMUNITY_Community 1152]]
+- 2 edges to [[_COMMUNITY_Community 1123]]
+- 1 edge to [[_COMMUNITY_Community 179]]
+- 1 edge to [[_COMMUNITY_Community 1985]]
 
 ## Top bridge nodes
-- [[prompt()_3]] - degree 2, connects to 1 community
+- [[Community 94]] - degree 6, connects to 4 communities
+- [[Live Query (requires Dataview plugin)_77_1]] - degree 5, connects to 2 communities
+- [[Live Query (requires Dataview plugin)_176_1]] - degree 4, connects to 1 community
+- [[Connections_1554_1]] - degree 3, connects to 1 community

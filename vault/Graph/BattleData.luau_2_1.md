@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/BattleData.luau_2.md"
+source_file: "vault/Graph/BattleData.luau_2_1.md"
 type: "document"
-community: "Community 12"
-location: "L12"
+community: "Community 1916"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1916
 ---
 
-# BattleData.luau_2.md
+# BattleData.luau_2_1.md
 
 ## Connections
-- [[BattleData.luau_2]] - `contains` [EXTRACTED]
-- [[Connections_715]] - `contains` [EXTRACTED]
+- [[BattleData.luau_2_2]] - `contains` [EXTRACTED]
+- [[BattleData.luau_2]] - `references` [EXTRACTED]
+- [[Connections_2408_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1916

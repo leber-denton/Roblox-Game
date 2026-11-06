@@ -1,18 +1,25 @@
 ---
 type: community
-members: 5
+members: 12
 ---
 
 # Community 1001
 
-**Members:** 5 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Community 116]] - document - vault/Graph/_COMMUNITY_Community 116.md
-- [[Connections to other communities]] - document - vault/Graph/_COMMUNITY_Community 116.md
-- [[Live Query (requires Dataview plugin)]] - document - vault/Graph/_COMMUNITY_Community 116.md
-- [[Members]] - document - vault/Graph/_COMMUNITY_Community 116.md
-- [[Top bridge nodes]] - document - vault/Graph/_COMMUNITY_Community 116.md
+- [[Connections_61]] - document - vault/Graph/Connections_4714.md
+- [[Connections_62]] - document - vault/Graph/Connections_4714.md
+- [[Connections_63]] - document - vault/Graph/Connections_4715.md
+- [[Connections_64]] - document - vault/Graph/Connections_4715.md
+- [[Connections_65]] - document - vault/Graph/CreatureBuilder_2_1.md
+- [[Connections_66]] - document - vault/Graph/CreatureBuilder_2_2.md
+- [[Connections_4714]] - document - vault/Graph/Connections_4714.md
+- [[Connections_4715]] - document - vault/Graph/Connections_4715.md
+- [[CreatureBuilder_2]] - document - vault/Graph/CreatureBuilder_2_1.md
+- [[CreatureBuilder_2_3]] - document - vault/Graph/CreatureBuilder_2_2.md
+- [[CreatureBuilder_2_1]] - document - vault/Graph/CreatureBuilder_2_1.md
+- [[CreatureBuilder_2_2]] - document - vault/Graph/CreatureBuilder_2_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +29,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 602]]
+- 2 edges to [[_COMMUNITY_Community 134]]
+- 1 edge to [[_COMMUNITY_Community 1637]]
+- 1 edge to [[_COMMUNITY_Community 351]]
 
 ## Top bridge nodes
-- [[Community 116]] - degree 5, connects to 1 community
+- [[CreatureBuilder_2_1]] - degree 4, connects to 2 communities
+- [[Connections_4715]] - degree 4, connects to 1 community
+- [[Connections_4714]] - degree 3, connects to 1 community

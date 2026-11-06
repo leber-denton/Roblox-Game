@@ -12,7 +12,7 @@ tags:
 # update().md
 
 ## Connections
-- [[Music.client.luau_1]] - `references` [EXTRACTED]
+- [[Music.client.luau]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 - [[switch()_1]] - `references` [EXTRACTED]
 - [[update()_3]] - `contains` [EXTRACTED]

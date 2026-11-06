@@ -1,25 +1,34 @@
 ---
 type: community
-members: 12
+members: 21
 ---
 
 # Community 538
 
-**Members:** 12 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Connections_4605]] - document - vault/Graph/Functions_82.md
-- [[Connections_4606]] - document - vault/Graph/NpcGuard_1.md
-- [[Connections_4607]] - document - vault/Graph/Required by_93.md
-- [[Connections_4608]] - document - vault/Graph/Requires_87.md
-- [[Functions_155]] - document - vault/Graph/Functions_82.md
-- [[Functions_82_1]] - document - vault/Graph/Functions_82.md
-- [[NpcGuard_4]] - document - vault/Graph/NpcGuard_1.md
-- [[NpcGuard_1_2]] - document - vault/Graph/NpcGuard_1.md
-- [[Required by_145]] - document - vault/Graph/Required by_93.md
-- [[Required by_93_1]] - document - vault/Graph/Required by_93.md
-- [[Requires_149]] - document - vault/Graph/Requires_87.md
-- [[Requires_87_1]] - document - vault/Graph/Requires_87.md
+- [[Connections_20553]] - document - vault/Graph/Functions_173.md
+- [[Connections_20554]] - document - vault/Graph/Functions_87.md
+- [[Connections_20555]] - document - vault/Graph/Required by_165.md
+- [[Connections_20556]] - document - vault/Graph/Required by_93.md
+- [[Connections_20557]] - document - vault/Graph/Requires_172.md
+- [[Connections_20558]] - document - vault/Graph/Requires_87.md
+- [[Connections_20559]] - document - vault/Graph/ShowcaseBuilder_3.md
+- [[Functions_224]] - document - vault/Graph/Functions_87.md
+- [[Functions_173_1]] - document - vault/Graph/Functions_173.md
+- [[Functions_173_2]] - document - vault/Graph/Functions_173.md
+- [[Functions_87_1]] - document - vault/Graph/Functions_87.md
+- [[Required by_219]] - document - vault/Graph/Required by_93.md
+- [[Required by_165_1]] - document - vault/Graph/Required by_165.md
+- [[Required by_165_2]] - document - vault/Graph/Required by_165.md
+- [[Required by_93_2]] - document - vault/Graph/Required by_93.md
+- [[Requires_218]] - document - vault/Graph/Requires_87.md
+- [[Requires_172_1]] - document - vault/Graph/Requires_172.md
+- [[Requires_172_2]] - document - vault/Graph/Requires_172.md
+- [[Requires_87_2]] - document - vault/Graph/Requires_87.md
+- [[ShowcaseBuilder_3]] - document - vault/Graph/ShowcaseBuilder_3.md
+- [[ShowcaseBuilder_3_1]] - document - vault/Graph/ShowcaseBuilder_3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,11 +38,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Community 102]]
-- 1 edge to [[_COMMUNITY_Community 333]]
+- 7 edges to [[_COMMUNITY_Community 17]]
+- 4 edges to [[_COMMUNITY_Community 1583]]
+- 1 edge to [[_COMMUNITY_Community 193]]
+- 1 edge to [[_COMMUNITY_Community 250]]
 
 ## Top bridge nodes
-- [[Functions_82_1]] - degree 4, connects to 2 communities
-- [[NpcGuard_1_2]] - degree 5, connects to 1 community
-- [[Requires_87_1]] - degree 3, connects to 1 community
-- [[Required by_93_1]] - degree 3, connects to 1 community
+- [[ShowcaseBuilder_3]] - degree 7, connects to 3 communities
+- [[Functions_173_1]] - degree 6, connects to 3 communities
+- [[Required by_165_1]] - degree 5, connects to 2 communities
+- [[Requires_172_1]] - degree 5, connects to 2 communities
+- [[Functions_87_1]] - degree 3, connects to 1 community

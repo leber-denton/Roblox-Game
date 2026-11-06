@@ -12,7 +12,7 @@ tags:
 # ColiseumService.init()
 
 ## Connections
-- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[setupActivities()]] - `calls` [EXTRACTED]
 - [[setupPortals()]] - `calls` [EXTRACTED]
 - [[setupShop()]] - `calls` [EXTRACTED]

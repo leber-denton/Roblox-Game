@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Functions_71.md"
+source_file: "vault/Code/ColiseumUI.md"
 type: "document"
-community: "Community 406"
-location: "L12"
+community: "Community 215"
+location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_406
+  - community/Community_215
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_4175]] - `contains` [EXTRACTED]
-- [[Functions_71_1]] - `contains` [EXTRACTED]
+- [[ColiseumUI]] - `contains` [EXTRACTED]
+- [[refreshPill()]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_406
+#graphify/document #graphify/EXTRACTED #community/Community_215

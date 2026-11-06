@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/applyAll()_1.md"
+source_file: "vault/Graph/applyAll()_1_1.md"
 type: "document"
 community: "Community 211"
 location: "L1"
@@ -9,15 +9,16 @@ tags:
   - community/Community_211
 ---
 
-# applyAll()_1.md
+# applyAll()_1_1.md
 
 ## Connections
-- [[Functions_64]] - `references` [EXTRACTED]
-- [[Regions.client.luau_2]] - `references` [EXTRACTED]
+- [[Functions_64_1_1]] - `references` [EXTRACTED]
+- [[Regions.client.luau_2_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 147]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 211]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 215]] - `references` [EXTRACTED]
-- [[apply()_4_1]] - `references` [EXTRACTED]
-- [[applyAll()_3]] - `contains` [EXTRACTED]
+- [[apply()_3_1]] - `references` [EXTRACTED]
+- [[applyAll()_1_2]] - `contains` [EXTRACTED]
 - [[applyAll()_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_211

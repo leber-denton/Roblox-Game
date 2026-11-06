@@ -12,7 +12,7 @@ tags:
 # NpcGuard.stamp()
 
 ## Connections
-- [[Connections_3965]] - `contains` [EXTRACTED]
+- [[Connections_17251]] - `contains` [EXTRACTED]
 - [[NpcGuard.stamp()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_333

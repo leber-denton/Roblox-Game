@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/nextScene()_1.md"
+source_file: "vault/Graph/nextScene()_5.md"
 type: "document"
-community: "Community 987"
-location: "L12"
+community: "Community 320"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_987
+  - community/Community_320
 ---
 
-# nextScene().md
+# nextScene()_5.md
 
 ## Connections
-- [[Connections_6382]] - `contains` [EXTRACTED]
-- [[nextScene()_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 266]] - `references` [EXTRACTED]
+- [[nextScene()_8]] - `contains` [EXTRACTED]
+- [[nextScene()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_987
+#graphify/document #graphify/EXTRACTED #community/Community_320

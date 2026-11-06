@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/typeChip()_1.md"
+source_file: "vault/Graph/Required by_13_2.md"
 type: "document"
-community: "Community 748"
+community: "Community 1296"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_748
+  - community/Community_1296
 ---
 
 # Connections
 
 ## Connections
-- [[typeChip()_3]] - `contains` [EXTRACTED]
+- [[Required by_13_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_748
+#graphify/document #graphify/EXTRACTED #community/Community_1296

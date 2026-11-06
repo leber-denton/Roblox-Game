@@ -1,8 +1,8 @@
 ---
-source_file: "vault/Graph/Members_41.md"
+source_file: "vault/Graph/_COMMUNITY_Community 543.md"
 type: "document"
 community: "Community 101"
-location: "L12"
+location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,7 +12,6 @@ tags:
 # Members
 
 ## Connections
-- [[Connections_29]] - `contains` [EXTRACTED]
-- [[Members_41]] - `contains` [EXTRACTED]
+- [[Community 543]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_101

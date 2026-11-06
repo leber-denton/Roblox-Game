@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_235.md"
+source_file: "vault/Graph/PlayerData.markTrainerBeaten()_2.md"
 type: "document"
-community: "Community 240"
-location: "L12"
+community: "Community 1187"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_3366]] - `contains` [EXTRACTED]
-- [[Connections_235_1]] - `contains` [EXTRACTED]
+- [[PlayerData.markTrainerBeaten()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1187

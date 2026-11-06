@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_980.md"
+source_file: "vault/Graph/Members_77.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 1061"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1061
 ---
 
-# Connections_980.md
+# Connections
 
 ## Connections
-- [[Connections_652]] - `references` [EXTRACTED]
-- [[Connections_980_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
-- [[commands.addStar()_2_1]] - `references` [EXTRACTED]
+- [[Members_70]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1061

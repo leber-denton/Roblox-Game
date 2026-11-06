@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 237.md"
+source_file: "vault/Graph/Community 237.md"
 type: "document"
-community: "Community 908"
-location: "L6"
+community: "Community 1743"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_908
+  - community/Community_1743
 ---
 
-# Community 237
+# Community 237.md
 
 ## Connections
-- [[Connections to other communities_394]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_438]] - `contains` [EXTRACTED]
-- [[Members_438]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_396]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 237]] - `contains` [EXTRACTED]
+- [[Community 237_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 237]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 292]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 908]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_908
+#graphify/document #graphify/EXTRACTED #community/Community_1743

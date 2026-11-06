@@ -1,18 +1,25 @@
 ---
 type: community
-members: 5
+members: 12
 ---
 
 # Community 896
 
-**Members:** 5 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Community 185]] - document - vault/Graph/_COMMUNITY_Community 185.md
-- [[Connections to other communities_385]] - document - vault/Graph/_COMMUNITY_Community 185.md
-- [[Live Query (requires Dataview plugin)_429]] - document - vault/Graph/_COMMUNITY_Community 185.md
-- [[Members_429]] - document - vault/Graph/_COMMUNITY_Community 185.md
-- [[Top bridge nodes_387]] - document - vault/Graph/_COMMUNITY_Community 185.md
+- [[Connections_23763]] - document - vault/Graph/commands.juniper()_4.md
+- [[Connections_23764]] - document - vault/Graph/Connections_2226.md
+- [[Connections_23765]] - document - vault/Graph/Connections_2226.md
+- [[Connections_23766]] - document - vault/Graph/Connections_2227.md
+- [[Connections_23767]] - document - vault/Graph/Connections_2227.md
+- [[Connections_23768]] - document - vault/Graph/Connections_3323.md
+- [[Connections_2226_1]] - document - vault/Graph/Connections_2226.md
+- [[Connections_2227_1]] - document - vault/Graph/Connections_2227.md
+- [[Connections_3323_1]] - document - vault/Graph/Connections_3323.md
+- [[Connections_3323_2]] - document - vault/Graph/Connections_3323.md
+- [[commands.juniper()_4_1]] - document - vault/Graph/commands.juniper()_4.md
+- [[commands.juniper()_4_2]] - document - vault/Graph/commands.juniper()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +29,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 105]]
+- 5 edges to [[_COMMUNITY_Community 1188]]
+- 2 edges to [[_COMMUNITY_Community 320]]
+- 1 edge to [[_COMMUNITY_Community 1630]]
 
 ## Top bridge nodes
-- [[Community 185]] - degree 5, connects to 1 community
+- [[commands.juniper()_4_1]] - degree 6, connects to 3 communities
+- [[Connections_3323_1]] - degree 5, connects to 2 communities
+- [[Connections_2226_1]] - degree 4, connects to 1 community
+- [[Connections_2227_1]] - degree 3, connects to 1 community

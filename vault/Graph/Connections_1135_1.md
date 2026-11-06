@@ -1,19 +1,19 @@
 ---
 source_file: "vault/Graph/Connections_1135.md"
 type: "document"
-community: "Community 91"
+community: "Community 107"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_91
+  - community/Community_107
 ---
 
 # Connections_1135.md
 
 ## Connections
-- [[Connections_6077]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
-- [[button()_3_1]] - `references` [EXTRACTED]
+- [[Connections_1179]] - `contains` [EXTRACTED]
+- [[GymService.init()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 107]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_91
+#graphify/document #graphify/EXTRACTED #community/Community_107

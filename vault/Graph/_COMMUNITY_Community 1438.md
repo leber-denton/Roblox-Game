@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1438
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1800]] - document - vault/Graph/practice()_1.md
-- [[practice()_1]] - document - vault/Graph/practice()_1.md
+- [[Connections_7450]] - document - vault/Graph/Connections_2590.md
+- [[Connections_7451]] - document - vault/Graph/Connections_55.md
+- [[Connections_7452]] - document - vault/Graph/Connections_55.md
+- [[Connections_7453]] - document - vault/Graph/Connections_56.md
+- [[Connections_7454]] - document - vault/Graph/Connections_56.md
+- [[Connections_2590_1]] - document - vault/Graph/Connections_2590.md
+- [[Connections_2590_2]] - document - vault/Graph/Connections_2590.md
+- [[Connections_55_1]] - document - vault/Graph/Connections_55.md
+- [[Connections_56_1]] - document - vault/Graph/Connections_56.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 3 edges to [[_COMMUNITY_Community 168]]
+- 1 edge to [[_COMMUNITY_Community 101]]
 
 ## Top bridge nodes
-- [[practice()_1]] - degree 2, connects to 1 community
+- [[Connections_2590_1]] - degree 4, connects to 2 communities
+- [[Connections_55_1]] - degree 4, connects to 1 community
+- [[Connections_56_1]] - degree 3, connects to 1 community

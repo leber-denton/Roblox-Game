@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.applyStars().md"
+source_file: "vault/Graph/BattleData.applyStars()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2761"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2761
 ---
 
-# BattleData.applyStars()
+# BattleData.applyStars()_4.md
 
 ## Connections
-- [[BattleData.applyStars()_3]] - `contains` [EXTRACTED]
-- [[Connections_5682]] - `contains` [EXTRACTED]
+- [[BattleData.applyStars()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2761

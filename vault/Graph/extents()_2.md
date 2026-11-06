@@ -12,7 +12,7 @@ tags:
 # extents()
 
 ## Connections
-- [[Connections_1601]] - `contains` [EXTRACTED]
+- [[Connections_6582]] - `contains` [EXTRACTED]
 - [[extents()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_136

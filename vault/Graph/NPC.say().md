@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/NPC.luau"
 type: "code"
-community: "Community 41"
+community: "Community 15"
 location: "L7"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_41
+  - community/Community_15
 ---
 
 # NPC.say()
@@ -23,4 +23,4 @@ tags:
 - [[rivalChallenge()]] - `calls` [INFERRED]
 - [[setup()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_41
+#graphify/code #graphify/INFERRED #community/Community_15

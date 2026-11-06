@@ -1,22 +1,18 @@
 ---
 source_file: "vault/Graph/PlayerData.takeItem().md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 276"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_276
 ---
 
-# PlayerData.takeItem().md
+# PlayerData.takeItem()
 
 ## Connections
-- [[PlayerData.luau_4]] - `references` [EXTRACTED]
-- [[PlayerData.takeItem()_5]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[finite()_10]] - `references` [EXTRACTED]
-- [[giveProduct()_4]] - `references` [EXTRACTED]
-- [[sync()_1_3]] - `references` [EXTRACTED]
+- [[Connections_15346]] - `contains` [EXTRACTED]
+- [[PlayerData.takeItem()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_276

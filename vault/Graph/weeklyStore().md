@@ -12,7 +12,7 @@ tags:
 # weeklyStore()
 
 ## Connections
-- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[claimLastSunday()]] - `calls` [EXTRACTED]
 - [[persistScore()]] - `calls` [EXTRACTED]
 - [[refreshBoards()]] - `calls` [EXTRACTED]

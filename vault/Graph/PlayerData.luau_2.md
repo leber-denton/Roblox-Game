@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/PlayerData.luau_2.md"
+source_file: "vault/Graph/PlayerData.luau_1.md"
 type: "document"
-community: "Community 168"
-location: "L1"
+community: "Community 2286"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_2286
 ---
 
-# PlayerData.luau_2.md
+# PlayerData.luau
 
 ## Connections
-- [[PlayerData.luau_3]] - `contains` [EXTRACTED]
-- [[PlayerData.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 171]] - `references` [EXTRACTED]
+- [[Connections_13328]] - `contains` [EXTRACTED]
+- [[PlayerData.luau_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_2286

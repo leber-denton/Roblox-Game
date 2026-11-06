@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/fakePlayerGetAttributeChangedSignal()_2.md"
+source_file: "vault/Graph/fakePlayerGetAttributeChangedSignal()_1.md"
 type: "document"
-community: "Community 1265"
-location: "L12"
+community: "Community 2115"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1265
+  - community/Community_2115
 ---
 
-# fakePlayer:GetAttributeChangedSignal()
+# fakePlayerGetAttributeChangedSignal()_1.md
 
 ## Connections
-- [[Connections_1316]] - `contains` [EXTRACTED]
-- [[fakePlayerGetAttributeChangedSignal()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1414]] - `references` [EXTRACTED]
+- [[fakePlayerGetAttributeChangedSignal()_1_1]] - `contains` [EXTRACTED]
+- [[fakePlayerGetAttributeChangedSignal()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1265
+#graphify/document #graphify/EXTRACTED #community/Community_2115

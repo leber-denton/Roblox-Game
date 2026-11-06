@@ -1,18 +1,20 @@
 ---
 source_file: "vault/Graph/GraphSKILL.md"
 type: "document"
-community: "Community 533"
-location: "L12"
+community: "Community 417"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_533
+  - community/Community_417
 ---
 
-# Graph/SKILL.md
+# GraphSKILL.md
 
 ## Connections
-- [[Connections_4587]] - `contains` [EXTRACTED]
-- [[GraphSKILL_2]] - `contains` [EXTRACTED]
+- [[Connections_2110_1]] - `references` [EXTRACTED]
+- [[GraphSKILL_4]] - `contains` [EXTRACTED]
+- [[GraphSKILL_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1172]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_533
+#graphify/document #graphify/EXTRACTED #community/Community_417

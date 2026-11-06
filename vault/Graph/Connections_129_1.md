@@ -12,7 +12,8 @@ tags:
 # Connections_129.md
 
 ## Connections
-- [[Connections_4764]] - `contains` [EXTRACTED]
-- [[commands.champion()_1_1]] - `references` [EXTRACTED]
+- [[Connections_21218]] - `contains` [EXTRACTED]
+- [[Connections_128_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1017]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_600

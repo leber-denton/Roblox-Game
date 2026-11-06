@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/NPCLife.client.luau_1.md"
+source_file: "vault/Graph/NPCLife.client.luau_4.md"
 type: "document"
-community: "Community 221"
-location: "L1"
+community: "Community 1673"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_221
+  - community/Community_1673
 ---
 
-# NPCLife.client.luau_1.md
+# NPCLife.client.luau.md
 
 ## Connections
-- [[NPCLife.client.luau]] - `references` [EXTRACTED]
-- [[NPCLife.client.luau_1_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 221]] - `references` [EXTRACTED]
+- [[Connections_9396]] - `contains` [EXTRACTED]
+- [[NPCLife.client.luau_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_221
+#graphify/document #graphify/EXTRACTED #community/Community_1673

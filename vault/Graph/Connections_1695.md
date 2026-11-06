@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/arriveCFrame()_1.md"
+source_file: "vault/Graph/Connections_1340.md"
 type: "document"
-community: "Community 1380"
+community: "Community 1099"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1380
+  - community/Community_1099
 ---
 
 # Connections
 
 ## Connections
-- [[arriveCFrame()_3]] - `contains` [EXTRACTED]
+- [[Connections_1694]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1380
+#graphify/document #graphify/EXTRACTED #community/Community_1099

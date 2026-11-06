@@ -1,16 +1,20 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 4"
+source_file: "vault/Graph/script_parent_socialservice_5.md"
+type: "document"
+community: "Community 2689"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_4
+  - community/Community_2689
 ---
 
-# script_parent_socialservice
+# script_parent_socialservice_5.md
 
 ## Connections
-- [[ColiseumService.luau_3]] - `imports` [EXTRACTED]
+- [[ColiseumService.luau_3_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
+- [[script_parent_socialservice]] - `references` [EXTRACTED]
+- [[script_parent_socialservice_5_1]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_4
+#graphify/document #graphify/EXTRACTED #community/Community_2689

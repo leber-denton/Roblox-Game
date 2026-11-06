@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/dressTrophy().md"
+source_file: "vault/Graph/Top bridge nodes_160.md"
 type: "document"
-community: "Community 86"
+community: "Community 1333"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1333
 ---
 
 # Connections
 
 ## Connections
-- [[dressTrophy()_4]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_326]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1333

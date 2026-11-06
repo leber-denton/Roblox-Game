@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/NPCAnimator.server.luau_1.md"
+source_file: "vault/Graph/Connections_1398.md"
 type: "document"
-community: "Community 856"
-location: "L14"
+community: "Community 1322"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_856
+  - community/Community_1322
 ---
 
 # Connections
 
 ## Connections
-- [[NPCAnimator.server.luau_3]] - `contains` [EXTRACTED]
+- [[Connections_5628]] - `contains` [EXTRACTED]
+- [[Connections_1398_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_856
+#graphify/document #graphify/EXTRACTED #community/Community_1322

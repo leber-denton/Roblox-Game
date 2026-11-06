@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/LeagueService.md"
+source_file: "vault/Code/LeagueService.md"
 type: "document"
-community: "Community 156"
-location: "L12"
+community: "Community 13"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_156
+  - community/Community_13
 ---
 
 # LeagueService
 
 ## Connections
-- [[Connections_2092]] - `contains` [EXTRACTED]
-- [[GraphLeagueService_1]] - `contains` [EXTRACTED]
+- [[CodeLeagueService_2]] - `contains` [EXTRACTED]
+- [[Functions_50]] - `contains` [EXTRACTED]
+- [[Required by_42]] - `contains` [EXTRACTED]
+- [[Requires_41]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_156
+#graphify/document #graphify/EXTRACTED #community/Community_13

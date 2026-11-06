@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 169.md"
+source_file: "vault/Graph/Members_379.md"
 type: "document"
-community: "Community 473"
-location: "L10"
+community: "Community 1089"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_473
+  - community/Community_1089
 ---
 
-# Members
+# Members_379.md
 
 ## Connections
-- [[Community 169]] - `contains` [EXTRACTED]
+- [[Community 169]] - `references` [EXTRACTED]
+- [[Members_120_1]] - `references` [EXTRACTED]
+- [[Members_379_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1089]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 473]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_473
+#graphify/document #graphify/EXTRACTED #community/Community_1089

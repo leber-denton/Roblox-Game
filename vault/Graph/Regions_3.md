@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Regions.md"
+source_file: "vault/Graph/Regions_3.md"
 type: "document"
-community: "Community 515"
-location: "L12"
+community: "Community 211"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_515
+  - community/Community_211
 ---
 
-# Regions
+# Regions_3.md
 
 ## Connections
-- [[Connections_4508]] - `contains` [EXTRACTED]
-- [[GraphRegions_2]] - `contains` [EXTRACTED]
+- [[Regions_3_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 211]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 515]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_515
+#graphify/document #graphify/EXTRACTED #community/Community_211

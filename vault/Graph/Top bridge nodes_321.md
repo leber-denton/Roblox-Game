@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 243.md"
+source_file: "vault/Graph/Top bridge nodes_321.md"
 type: "document"
-community: "Community 403"
-location: "L36"
+community: "Community 1097"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_403
+  - community/Community_1097
 ---
 
-# Top bridge nodes
+# Top bridge nodes_321.md
 
 ## Connections
-- [[Community 243]] - `contains` [EXTRACTED]
+- [[Community 243]] - `references` [EXTRACTED]
+- [[Top bridge nodes_321_1]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_94_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1097]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 403]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_403
+#graphify/document #graphify/EXTRACTED #community/Community_1097

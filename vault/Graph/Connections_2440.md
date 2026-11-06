@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/trade.close()_2.md"
+source_file: "vault/Graph/Connections_5570.md"
 type: "document"
-community: "Community 168"
+community: "Community 1131"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1131
 ---
 
 # Connections
 
 ## Connections
-- [[trade.close()_3]] - `contains` [EXTRACTED]
+- [[Connections_5570_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1131

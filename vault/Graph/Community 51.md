@@ -12,7 +12,8 @@ tags:
 # Community 51.md
 
 ## Connections
-- [[Community 51_1]] - `contains` [EXTRACTED]
+- [[Community 51_5]] - `contains` [EXTRACTED]
+- [[Community 51_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 351]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 51]] - `references` [EXTRACTED]
 

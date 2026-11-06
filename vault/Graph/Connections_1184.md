@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/setVisible()_1.md"
+source_file: "vault/Graph/Connections_1137.md"
 type: "document"
-community: "Community 122"
+community: "Community 107"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_122
+  - community/Community_107
 ---
 
 # Connections
 
 ## Connections
-- [[setVisible()_3]] - `contains` [EXTRACTED]
+- [[Connections_1183]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_122
+#graphify/document #graphify/EXTRACTED #community/Community_107

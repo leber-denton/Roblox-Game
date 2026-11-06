@@ -1,52 +1,20 @@
 ---
-source_file: "src/ReplicatedStorage/Shared/GameData.luau"
-type: "code"
-community: "Community 15"
+source_file: "vault/Graph/GameData.luau_3.md"
+type: "document"
+community: "Community 2257"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_2257
 ---
 
-# GameData.luau
+# GameData.luau_3.md
 
 ## Connections
-- [[AdminService.luau_3]] - `imports` [EXTRACTED]
-- [[BaseManager.luau]] - `imports` [EXTRACTED]
-- [[BattleService.luau]] - `imports` [EXTRACTED]
-- [[ColiseumService.luau_3]] - `imports` [EXTRACTED]
-- [[CreatureBuilder.luau_5]] - `imports` [EXTRACTED]
-- [[DecorService.luau]] - `imports` [EXTRACTED]
-- [[DungeonService.luau_3]] - `imports` [EXTRACTED]
-- [[GameData.BaseTraining.levelCap()]] - `contains` [EXTRACTED]
-- [[GameData.badgesForLane()]] - `contains` [EXTRACTED]
-- [[GameData.ballMultiplier()]] - `contains` [EXTRACTED]
-- [[GameData.ballOrder()]] - `contains` [EXTRACTED]
-- [[GameData.battleItemOrder()]] - `contains` [EXTRACTED]
-- [[GameData.canEnter()]] - `contains` [EXTRACTED]
-- [[GameData.hasBoost()]] - `contains` [EXTRACTED]
-- [[GameData.itemSummary()]] - `contains` [EXTRACTED]
-- [[GameData.levelCap()]] - `contains` [EXTRACTED]
-- [[GameData.medicineOrder()]] - `contains` [EXTRACTED]
-- [[GameData.regionFor()]] - `contains` [EXTRACTED]
-- [[GameData.trainerXPToNext()]] - `contains` [EXTRACTED]
-- [[GymService.luau_3]] - `imports` [EXTRACTED]
-- [[LeaderboardService.luau_5]] - `imports` [EXTRACTED]
-- [[LeagueService.luau_3]] - `imports` [EXTRACTED]
-- [[Main.server.luau_3]] - `imports` [EXTRACTED]
-- [[PassService.luau_3]] - `imports` [EXTRACTED]
-- [[PlayerData.luau]] - `imports` [EXTRACTED]
-- [[ProgressService.luau]] - `imports` [EXTRACTED]
-- [[RareEventService.luau]] - `imports` [EXTRACTED]
-- [[RouteTrainerService.luau_3]] - `imports` [EXTRACTED]
-- [[SocialService.luau]] - `imports` [EXTRACTED]
-- [[StoryService.luau]] - `imports` [EXTRACTED]
-- [[TutorialService.luau]] - `imports` [EXTRACTED]
-- [[WeeklyEventService.luau_5]] - `imports` [EXTRACTED]
-- [[WildSpawner.luau_3]] - `imports` [EXTRACTED]
-- [[leader()]] - `contains` [EXTRACTED]
-- [[med()]] - `contains` [EXTRACTED]
-- [[spawnsFrom()]] - `contains` [EXTRACTED]
+- [[Connections_5927_1]] - `references` [EXTRACTED]
+- [[GameData.luau_6]] - `contains` [EXTRACTED]
+- [[GameData.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_2257

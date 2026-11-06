@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/NPCLife.client.luau_1.md"
+source_file: "vault/Graph/Connections_2171.md"
 type: "document"
-community: "Community 221"
-location: "L14"
+community: "Community 118"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_221
+  - community/Community_118
 ---
 
 # Connections
 
 ## Connections
-- [[NPCLife.client.luau_1_1]] - `contains` [EXTRACTED]
+- [[Connections_3157]] - `contains` [EXTRACTED]
+- [[Connections_2171_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_221
+#graphify/document #graphify/EXTRACTED #community/Community_118

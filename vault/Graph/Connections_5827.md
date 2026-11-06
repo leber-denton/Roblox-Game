@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ProgressService.checkIndex().md"
+source_file: "vault/Graph/challenge()_2.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[ProgressService.checkIndex()_4]] - `contains` [EXTRACTED]
+- [[challenge()_2_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

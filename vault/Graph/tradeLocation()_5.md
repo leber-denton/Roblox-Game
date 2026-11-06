@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/tradeLocation().md"
+source_file: "vault/Graph/tradeLocation()_5.md"
 type: "document"
-community: "Community 49"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_49
+  - community/Community_168
 ---
 
-# tradeLocation()
+# tradeLocation()_5.md
 
 ## Connections
-- [[Connections_4414]] - `contains` [EXTRACTED]
-- [[tradeLocation()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 289]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 49]] - `references` [EXTRACTED]
+- [[tradeLocation()_1]] - `references` [EXTRACTED]
+- [[tradeLocation()_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_49
+#graphify/document #graphify/EXTRACTED #community/Community_168

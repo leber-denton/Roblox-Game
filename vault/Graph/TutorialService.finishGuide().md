@@ -1,12 +1,12 @@
 ---
 source_file: "src/ServerScriptService/Modules/TutorialService.luau"
 type: "code"
-community: "Community 41"
+community: "Community 15"
 location: "L406"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_15
 ---
 
 # TutorialService.finishGuide()
@@ -15,7 +15,7 @@ tags:
 - [[DecorService.giveBox()]] - `calls` [INFERRED]
 - [[PlayerData.addCoins()]] - `calls` [INFERRED]
 - [[TutorialService.logFunnel()]] - `calls` [EXTRACTED]
-- [[TutorialService.luau]] - `contains` [EXTRACTED]
+- [[TutorialService.luau_2]] - `contains` [EXTRACTED]
 - [[setStep()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_41
+#graphify/code #graphify/EXTRACTED #community/Community_15

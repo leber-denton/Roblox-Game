@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/applyTheme()_2.md"
+source_file: "vault/Graph/CodeWildSpawner.md"
 type: "document"
-community: "Community 249"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_249
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[applyTheme()_2_1]] - `contains` [EXTRACTED]
+- [[CodeWildSpawner_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_249
+#graphify/document #graphify/EXTRACTED #community/Community_119

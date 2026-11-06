@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/BattleData.starsFor().md"
+source_file: "vault/Graph/BattleData.starsFor()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2093"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2093
 ---
 
-# BattleData.starsFor().md
+# BattleData.starsFor()_3.md
 
 ## Connections
-- [[BattleData.applyStars()_3]] - `references` [EXTRACTED]
-- [[BattleData.luau_3]] - `references` [EXTRACTED]
-- [[BattleData.starProgress()_3]] - `references` [EXTRACTED]
-- [[BattleData.starsFor()_4]] - `contains` [EXTRACTED]
-- [[BattleData.xpForLevel()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[BattleData.starsFor()_1]] - `contains` [EXTRACTED]
+- [[BattleData.starsFor()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2093

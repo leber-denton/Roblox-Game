@@ -12,8 +12,8 @@ tags:
 # wanted().md
 
 ## Connections
-- [[Functions_2]] - `references` [EXTRACTED]
-- [[Music.client.luau_1]] - `references` [EXTRACTED]
+- [[Functions_1]] - `references` [EXTRACTED]
+- [[Music.client.luau]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 - [[update()_2]] - `references` [EXTRACTED]
 - [[wanted()_2]] - `contains` [EXTRACTED]

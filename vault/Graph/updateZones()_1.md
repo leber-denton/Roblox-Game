@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[ColiseumService.init()_1]] - `references` [EXTRACTED]
-- [[Functions_84_1]] - `references` [EXTRACTED]
+- [[ColiseumService.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
 - [[centerOf()_1]] - `references` [EXTRACTED]
 - [[updateZones()_2]] - `contains` [EXTRACTED]

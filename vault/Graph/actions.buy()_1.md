@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/actions.buy().md"
+source_file: "vault/Graph/actions.buy()_4.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 2718"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2718
 ---
 
-# actions.buy().md
+# actions.buy()
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[PlayerData.coins()_1]] - `references` [EXTRACTED]
-- [[PlayerData.spend()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.buy()_2]] - `contains` [EXTRACTED]
-- [[grant()_1]] - `references` [EXTRACTED]
+- [[Connections_15160]] - `contains` [EXTRACTED]
+- [[actions.buy()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2718

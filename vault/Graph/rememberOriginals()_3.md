@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/rememberOriginals().md"
+source_file: "vault/Graph/rememberOriginals()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2299"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2299
 ---
 
-# rememberOriginals().md
+# rememberOriginals()_3.md
 
 ## Connections
-- [[DecorService.init()_4]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[rememberOriginals()_4]] - `contains` [EXTRACTED]
-- [[themeTargets()_3]] - `references` [EXTRACTED]
+- [[rememberOriginals()_1]] - `contains` [EXTRACTED]
+- [[rememberOriginals()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2299

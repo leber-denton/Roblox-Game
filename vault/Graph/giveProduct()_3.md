@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/giveProduct()_2.md"
+source_file: "vault/Graph/giveProduct()_4.md"
 type: "document"
 community: "Community 168"
 location: "L12"
@@ -12,7 +12,7 @@ tags:
 # giveProduct().md
 
 ## Connections
-- [[Connections_2331]] - `contains` [EXTRACTED]
-- [[giveProduct()_2]] - `contains` [EXTRACTED]
+- [[Connections_9566]] - `contains` [EXTRACTED]
+- [[giveProduct()_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_320]] - document - vault/Graph/Connections_368.md
-- [[Connections_321]] - document - vault/Graph/Connections_368.md
-- [[Connections_322]] - document - vault/Graph/execute()_1.md
-- [[Connections_368]] - document - vault/Graph/Connections_368.md
-- [[execute()_2]] - document - vault/Graph/execute()_1.md
-- [[execute()_1]] - document - vault/Graph/execute()_1.md
+- [[Connections_2450]] - document - vault/Graph/Connections_320.md
+- [[Connections_2451]] - document - vault/Graph/Connections_320.md
+- [[Connections_2452]] - document - vault/Graph/Connections_321.md
+- [[Connections_2453]] - document - vault/Graph/Connections_321.md
+- [[Connections_320_1]] - document - vault/Graph/Connections_320.md
+- [[Connections_321_1]] - document - vault/Graph/Connections_321.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +21,10 @@ members: 6
 TABLE source_file, type FROM #community/Community_1133
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 3 edges to [[_COMMUNITY_Community 1028]]
+
+## Top bridge nodes
+- [[Connections_320_1]] - degree 4, connects to 1 community
+- [[Connections_321_1]] - degree 3, connects to 1 community

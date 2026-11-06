@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/DungeonClient.md"
+source_file: "vault/Code/HUD.md"
 type: "document"
-community: "Community 52"
+community: "Community 214"
 location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_52
+  - community/Community_214
 ---
 
 # Required by
 
 ## Connections
-- [[DungeonClient_3]] - `contains` [EXTRACTED]
+- [[HUD_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_52
+#graphify/document #graphify/EXTRACTED #community/Community_214

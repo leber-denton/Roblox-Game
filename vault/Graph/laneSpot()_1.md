@@ -12,7 +12,8 @@ tags:
 # laneSpot()_1.md
 
 ## Connections
-- [[Connections_425]] - `references` [EXTRACTED]
-- [[laneSpot()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1154]] - `references` [EXTRACTED]
+- [[laneSpot()_1_1]] - `contains` [EXTRACTED]
+- [[laneSpot()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1154

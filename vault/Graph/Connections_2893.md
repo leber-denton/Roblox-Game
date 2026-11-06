@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/showGrid()_2.md"
+source_file: "vault/Graph/Connections to other communities_252.md"
 type: "document"
-community: "Community 195"
+community: "Community 1159"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_1159
 ---
 
 # Connections
 
 ## Connections
-- [[showGrid()_4]] - `contains` [EXTRACTED]
+- [[Connections to other communities_194]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_1159

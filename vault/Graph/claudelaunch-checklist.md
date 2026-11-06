@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/claudelaunch-checklist.md"
+source_file: "claude/launch-checklist.md"
 type: "document"
-community: "Community 1390"
-location: "L12"
+community: "Community 40"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1390
+  - community/Community_40
 ---
 
-# claudelaunch-checklist.md
+# claude/launch-checklist.md
 
 ## Connections
-- [[Connections_1717]] - `contains` [EXTRACTED]
-- [[claudelaunch-checklist_1]] - `contains` [EXTRACTED]
+- [[Creature Quest Catch & Battle Launch Checklist]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1390
+#graphify/document #graphify/EXTRACTED #community/Community_40

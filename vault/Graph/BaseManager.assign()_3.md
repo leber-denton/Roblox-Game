@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.assign().md"
+source_file: "vault/Graph/BaseManager.assign()_2.md"
 type: "document"
-community: "Community 86"
-location: "L1"
+community: "Community 3056"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3056
 ---
 
-# BaseManager.assign().md
+# BaseManager.assign()
 
 ## Connections
-- [[BaseManager.assign()_4]] - `contains` [EXTRACTED]
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[BaseManager.recalcCapacity()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[onPlayerAdded()_4]] - `references` [EXTRACTED]
-- [[setGateOpen()_3]] - `references` [EXTRACTED]
-- [[setSign()_7]] - `references` [EXTRACTED]
-- [[sortedBases()_3]] - `references` [EXTRACTED]
+- [[BaseManager.assign()_2]] - `contains` [EXTRACTED]
+- [[Connections_16168]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3056

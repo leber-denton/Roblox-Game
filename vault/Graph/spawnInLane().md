@@ -12,7 +12,7 @@ tags:
 # spawnInLane()
 
 ## Connections
-- [[WildSpawner.luau_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.luau]] - `contains` [EXTRACTED]
 - [[WildSpawner.spawnOne()]] - `calls` [EXTRACTED]
 - [[fillLane()]] - `calls` [EXTRACTED]
 - [[pickEntry()]] - `calls` [EXTRACTED]

@@ -12,7 +12,7 @@ tags:
 # commands.clearWild()
 
 ## Connections
-- [[AdminService.luau_3]] - `contains` [EXTRACTED]
+- [[AdminService.luau]] - `contains` [EXTRACTED]
 - [[WildSpawner.clear()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_22

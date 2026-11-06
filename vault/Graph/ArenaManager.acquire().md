@@ -12,7 +12,7 @@ tags:
 # ArenaManager.acquire()
 
 ## Connections
-- [[ArenaManager.luau_2]] - `contains` [EXTRACTED]
+- [[ArenaManager.luau_6]] - `contains` [EXTRACTED]
 - [[build()_1]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_44

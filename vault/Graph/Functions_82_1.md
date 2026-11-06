@@ -1,20 +1,18 @@
 ---
 source_file: "vault/Graph/Functions_82.md"
 type: "document"
-community: "Community 538"
+community: "Community 3550"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_538
+  - community/Community_3550
 ---
 
 # Functions_82.md
 
 ## Connections
-- [[Functions_155]] - `contains` [EXTRACTED]
-- [[NpcGuard_1_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 38]] - `references` [EXTRACTED]
-- [[npcs()_1]] - `references` [EXTRACTED]
+- [[Functions_204]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 192]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_538
+#graphify/document #graphify/EXTRACTED #community/Community_3550

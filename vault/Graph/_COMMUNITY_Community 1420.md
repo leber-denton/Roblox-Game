@@ -1,15 +1,32 @@
 ---
 type: community
-members: 2
+members: 19
 ---
 
 # Community 1420
 
-**Members:** 2 nodes
+**Members:** 19 nodes
 
 ## Members
-- [[Connections_1777]] - document - vault/Graph/Functions_65.md
-- [[Functions_65]] - document - vault/Graph/Functions_65.md
+- [[Community 1420]] - document - vault/Graph/_COMMUNITY_Community 1420.md
+- [[Connections_7274]] - document - vault/Graph/Connections_5768.md
+- [[Connections_7275]] - document - vault/Graph/Connections_5768.md
+- [[Connections_7276]] - document - vault/Graph/Connections_5769.md
+- [[Connections_7277]] - document - vault/Graph/Connections_5769.md
+- [[Connections_7278]] - document - vault/Graph/Connections_5770.md
+- [[Connections_7279]] - document - vault/Graph/Connections_5770.md
+- [[Connections_7280]] - document - vault/Graph/Functions_65_1.md
+- [[Connections_7281]] - document - vault/Graph/Functions_65.md
+- [[Connections_5768_1]] - document - vault/Graph/Connections_5768.md
+- [[Connections_5769_1]] - document - vault/Graph/Connections_5769.md
+- [[Connections_5770_1]] - document - vault/Graph/Connections_5770.md
+- [[Functions_65_1]] - document - vault/Graph/Functions_65.md
+- [[Functions_65_2]] - document - vault/Graph/Functions_65_1.md
+- [[Functions_65_3]] - document - vault/Graph/Functions_65.md
+- [[Functions_65_1_1]] - document - vault/Graph/Functions_65_1.md
+- [[Live Query (requires Dataview plugin)_534]] - document - vault/Graph/_COMMUNITY_Community 1420.md
+- [[Members_535]] - document - vault/Graph/_COMMUNITY_Community 1420.md
+- [[_COMMUNITY_Community 1420]] - document - vault/Graph/_COMMUNITY_Community 1420.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -17,9 +34,3 @@ members: 2
 TABLE source_file, type FROM #community/Community_1420
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 306]]
-
-## Top bridge nodes
-- [[Functions_65]] - degree 2, connects to 1 community

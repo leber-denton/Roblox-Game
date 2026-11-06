@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/LeaderboardService_2.md"
+source_file: "vault/Graph/bankCap()_1_1.md"
 type: "document"
-community: "Community 492"
+community: "Community 1242"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_492
+  - community/Community_1242
 ---
 
 # Connections
 
 ## Connections
-- [[LeaderboardService_2_1]] - `contains` [EXTRACTED]
+- [[bankCap()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_492
+#graphify/document #graphify/EXTRACTED #community/Community_1242

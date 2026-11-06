@@ -12,7 +12,7 @@ tags:
 # stage()
 
 ## Connections
-- [[LeagueService.luau_3]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_7]] - `contains` [EXTRACTED]
 - [[challenge()]] - `calls` [EXTRACTED]
 - [[reset()]] - `calls` [EXTRACTED]
 

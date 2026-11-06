@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Functions_1.md"
+source_file: "vault/Code/CreatureLife.md"
 type: "document"
-community: "Community 9"
-location: "L12"
+community: "Community 28"
+location: "L10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Community_28
 ---
 
 # Functions
 
 ## Connections
-- [[Connections_6002]] - `contains` [EXTRACTED]
-- [[Functions_1_3]] - `contains` [EXTRACTED]
+- [[CreatureLife]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_9
+#graphify/document #graphify/EXTRACTED #community/Community_28

@@ -13,8 +13,10 @@ tags:
 
 ## Connections
 - [[Connections_400_1]] - `references` [EXTRACTED]
-- [[ProgressService.init()_3]] - `contains` [EXTRACTED]
 - [[ProgressService.init()_1]] - `references` [EXTRACTED]
+- [[ProgressService.init()_2_1]] - `contains` [EXTRACTED]
+- [[ProgressService.init()_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

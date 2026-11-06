@@ -8,13 +8,13 @@ members: 7
 **Members:** 7 nodes
 
 ## Members
-- [[Assumptions_5]] - document - claude/launch-checklist.md
-- [[Creator Hub listing (saved 2026-10-29)_3]] - document - claude/launch-checklist.md
-- [[Creature Quest Catch & Battle Launch Checklist_4]] - document - claude/launch-checklist.md
-- [[Pushback_5]] - document - claude/launch-checklist.md
-- [[What you need to do before it makes money_4]] - document - claude/launch-checklist.md
-- [[Where to edit things_5]] - document - claude/launch-checklist.md
-- [[launch-checklist]] - document - claude/launch-checklist.md
+- [[Assumptions_7]] - document - claude/launch-checklist.md
+- [[Creator Hub listing (saved 2026-10-29)_5]] - document - claude/launch-checklist.md
+- [[Creature Quest Catch & Battle Launch Checklist]] - document - claude/launch-checklist.md
+- [[Pushback_1]] - document - claude/launch-checklist.md
+- [[What you need to do before it makes money_1]] - document - claude/launch-checklist.md
+- [[Where to edit things_1]] - document - claude/launch-checklist.md
+- [[claudelaunch-checklist]] - document - claude/launch-checklist.md
 
 ## Live Query (requires Dataview plugin)
 

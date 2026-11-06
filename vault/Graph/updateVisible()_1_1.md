@@ -1,22 +1,20 @@
 ---
-source_file: "vault/Graph/updateVisible()_1_1.md"
+source_file: "vault/Graph/updateVisible()_1.md"
 type: "document"
-community: "Community 195"
+community: "Community 203"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_195
+  - community/Community_203
 ---
 
-# updateVisible()_1_1.md
+# updateVisible()_1.md
 
 ## Connections
-- [[CreatureIndex.client.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[setOpen()_2_1]] - `references` [EXTRACTED]
-- [[updateVisible()_1_2]] - `contains` [EXTRACTED]
-- [[updateVisible()_6_1]] - `references` [EXTRACTED]
+- [[Bag.client.luau_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
+- [[setOpen()_4]] - `references` [EXTRACTED]
+- [[updateVisible()_12]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_195
+#graphify/document #graphify/EXTRACTED #community/Community_203

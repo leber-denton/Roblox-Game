@@ -12,7 +12,7 @@ tags:
 # Shapes.quad()
 
 ## Connections
-- [[Connections_1650]] - `contains` [EXTRACTED]
+- [[Connections_6684]] - `contains` [EXTRACTED]
 - [[Shapes.quad()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

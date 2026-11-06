@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/busy()_1.md"
+source_file: "vault/Graph/busy()_1_1.md"
 type: "document"
-community: "Community 97"
-location: "L1"
+community: "Community 3817"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_97
+  - community/Community_3817
 ---
 
 # busy()_1.md
 
 ## Connections
-- [[ColiseumService.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[available()_1_1]] - `references` [EXTRACTED]
-- [[busy()_3]] - `contains` [EXTRACTED]
-- [[busy()_2_1]] - `references` [EXTRACTED]
-- [[setupPortals()_1_1]] - `references` [EXTRACTED]
+- [[Connections_18411]] - `contains` [EXTRACTED]
+- [[busy()_1_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_97
+#graphify/document #graphify/EXTRACTED #community/Community_3817

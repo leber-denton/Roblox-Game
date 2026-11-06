@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/snapshotReal()_1.md"
+source_file: "vault/Graph/Connections_1421.md"
 type: "document"
-community: "Community 1472"
+community: "Community 111"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1472
+  - community/Community_111
 ---
 
 # Connections
 
 ## Connections
-- [[snapshotReal()_3]] - `contains` [EXTRACTED]
+- [[Connections_1937]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1472
+#graphify/document #graphify/EXTRACTED #community/Community_111

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/centerOf()_2.md"
+source_file: "vault/Graph/Connections to other communities_98.md"
 type: "document"
-community: "Community 1388"
+community: "Community 1099"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1388
+  - community/Community_1099
 ---
 
 # Connections
 
 ## Connections
-- [[centerOf()_4]] - `contains` [EXTRACTED]
+- [[Connections to other communities_120]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1388
+#graphify/document #graphify/EXTRACTED #community/Community_1099

@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Code/ColiseumService.md"
+source_file: "vault/Graph/ColiseumService_3.md"
 type: "document"
-community: "Community 4"
+community: "Community 1716"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_4
+  - community/Community_1716
 ---
 
-# ColiseumService
+# ColiseumService_3.md
 
 ## Connections
-- [[CodeColiseumService_2]] - `contains` [EXTRACTED]
-- [[Functions_130]] - `contains` [EXTRACTED]
-- [[Required by_117]] - `contains` [EXTRACTED]
-- [[Requires_127]] - `contains` [EXTRACTED]
+- [[ColiseumService]] - `contains` [EXTRACTED]
+- [[ColiseumService_1]] - `references` [EXTRACTED]
+- [[Functions_130_1]] - `references` [EXTRACTED]
+- [[Required by_117_1]] - `references` [EXTRACTED]
+- [[Requires_127]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_4
+#graphify/document #graphify/EXTRACTED #community/Community_1716

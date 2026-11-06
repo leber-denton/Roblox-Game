@@ -12,11 +12,11 @@ tags:
 # Graph/Music.md
 
 ## Connections
-- [[CodeMusic_1]] - `references` [EXTRACTED]
-- [[Functions_2]] - `references` [EXTRACTED]
-- [[Music_1]] - `contains` [EXTRACTED]
-- [[Required by_2]] - `references` [EXTRACTED]
-- [[Requires_2]] - `references` [EXTRACTED]
+- [[CodeMusic]] - `references` [EXTRACTED]
+- [[Functions_1]] - `references` [EXTRACTED]
+- [[Music]] - `contains` [EXTRACTED]
+- [[Required by_1]] - `references` [EXTRACTED]
+- [[Requires_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_100

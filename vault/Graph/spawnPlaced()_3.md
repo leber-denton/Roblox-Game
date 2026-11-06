@@ -1,28 +1,18 @@
 ---
-source_file: "vault/Graph/spawnPlaced().md"
+source_file: "vault/Graph/spawnPlaced()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2316"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2316
 ---
 
-# spawnPlaced().md
+# spawnPlaced()_3.md
 
 ## Connections
-- [[BaseManager.getBase()_3]] - `references` [EXTRACTED]
-- [[DecorData.build()_1]] - `references` [EXTRACTED]
-- [[DecorData.toWorld()_1]] - `references` [EXTRACTED]
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[DecorService.onLoaded()_5]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[actions.move()_3]] - `references` [EXTRACTED]
-- [[actions.place()_3]] - `references` [EXTRACTED]
-- [[decorFolder()_3]] - `references` [EXTRACTED]
-- [[dress()_3]] - `references` [EXTRACTED]
-- [[floorOf()_3]] - `references` [EXTRACTED]
-- [[spawnPlaced()_4]] - `contains` [EXTRACTED]
+- [[spawnPlaced()_5]] - `contains` [EXTRACTED]
+- [[spawnPlaced()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2316

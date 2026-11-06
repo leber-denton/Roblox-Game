@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/typeText()_2.md"
+source_file: "vault/Graph/Connections_2890.md"
 type: "document"
-community: "Community 348"
+community: "Community 1224"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_348
+  - community/Community_1224
 ---
 
 # Connections
 
 ## Connections
-- [[typeText()_4]] - `contains` [EXTRACTED]
+- [[Connections_4043]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_348
+#graphify/document #graphify/EXTRACTED #community/Community_1224

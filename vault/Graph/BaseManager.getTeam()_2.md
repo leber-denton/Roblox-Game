@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.getTeam()_2.md"
+source_file: "vault/Graph/BaseManager.getTeam()_3.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 2735"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_2735
 ---
 
-# BaseManager.getTeam()_2.md
+# BaseManager.getTeam().md
 
 ## Connections
-- [[BaseManager.getTeam()_1]] - `references` [EXTRACTED]
-- [[BaseManager.getTeam()_2_1]] - `contains` [EXTRACTED]
-- [[Connections_951]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[BaseManager.getTeam()_3]] - `contains` [EXTRACTED]
+- [[Connections_15232]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_2735

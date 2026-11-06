@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Showcase.server.luau_4]] - code - src/ServerScriptService/Showcase.server.luau
-- [[serverstorage_waitforchild_4]] - concept
+- [[Showcase.server.luau_6]] - code - src/ServerScriptService/Showcase.server.luau
+- [[serverstorage_waitforchild_7]] - concept
 
 ## Live Query (requires Dataview plugin)
 

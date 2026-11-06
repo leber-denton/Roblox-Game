@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/spawnJuniper()_1.md"
+source_file: "vault/Graph/Connections_1140.md"
 type: "document"
-community: "Community 122"
-location: "L14"
+community: "Community 107"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_122
+  - community/Community_107
 ---
 
 # Connections
 
 ## Connections
-- [[spawnJuniper()_3]] - `contains` [EXTRACTED]
+- [[Connections_1190]] - `contains` [EXTRACTED]
+- [[Connections_1140_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_122
+#graphify/document #graphify/EXTRACTED #community/Community_107

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Code/CreatureLife.md"
+source_file: "vault/Graph/Requires_8.md"
 type: "document"
-community: "Community 28"
-location: "L4"
+community: "Community 1601"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_28
+  - community/Community_1601
 ---
 
 # Requires
 
 ## Connections
-- [[CreatureLife]] - `contains` [EXTRACTED]
+- [[Connections_9003]] - `contains` [EXTRACTED]
+- [[Requires_8_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_28
+#graphify/document #graphify/EXTRACTED #community/Community_1601

@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/ship.md"
+source_file: "vault/Graph/ship_3.md"
 type: "document"
-community: "Community 491"
+community: "Community 2405"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_491
+  - community/Community_2405
 ---
 
-# /ship
+# ship.md
 
 ## Connections
-- [[Connections_4422]] - `contains` [EXTRACTED]
+- [[Connections_13925]] - `contains` [EXTRACTED]
 - [[ship_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_491
+#graphify/document #graphify/EXTRACTED #community/Community_2405

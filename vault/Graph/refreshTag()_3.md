@@ -1,24 +1,17 @@
 ---
-source_file: "vault/Graph/refreshTag().md"
+source_file: "vault/Graph/refreshTag()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 3145"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3145
 ---
 
-# refreshTag().md
+# refreshTag()_3.md
 
 ## Connections
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[BaseManager.refresh()_3]] - `references` [EXTRACTED]
-- [[BattleData.starProgress()_3]] - `references` [EXTRACTED]
-- [[BattleData.stats()_4]] - `references` [EXTRACTED]
-- [[BattleData.xpForLevel()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[refreshTag()_4]] - `contains` [EXTRACTED]
-- [[spawnModel()_3]] - `references` [EXTRACTED]
+- [[refreshTag()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3145

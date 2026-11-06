@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_119.md"
+source_file: "vault/Graph/CodeRouteTrainerService.md"
 type: "document"
-community: "Community 248"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_248
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[Required by_119_1]] - `contains` [EXTRACTED]
+- [[CodeRouteTrainerService_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_248
+#graphify/document #graphify/EXTRACTED #community/Community_119

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/Story.md"
+source_file: "vault/Code/WeeklyEventService.md"
 type: "document"
-community: "Community 19"
+community: "Community 13"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_19
+  - community/Community_13
 ---
 
 # Requires
 
 ## Connections
-- [[Story]] - `contains` [EXTRACTED]
+- [[WeeklyEventService_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_19
+#graphify/document #graphify/EXTRACTED #community/Community_13

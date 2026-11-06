@@ -12,7 +12,7 @@ tags:
 # Shapes.ghost()
 
 ## Connections
-- [[Connections_1648]] - `contains` [EXTRACTED]
+- [[Connections_6682]] - `contains` [EXTRACTED]
 - [[Shapes.ghost()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_137

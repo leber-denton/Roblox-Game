@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/TutorialService.start().md"
+source_file: "vault/Graph/TutorialService.start()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2333"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2333
 ---
 
-# TutorialService.start()
+# TutorialService.start()_4.md
 
 ## Connections
-- [[Connections_5892]] - `contains` [EXTRACTED]
-- [[TutorialService.start()_3]] - `contains` [EXTRACTED]
+- [[Connections_4949_1]] - `references` [EXTRACTED]
+- [[TutorialService.start()_5]] - `contains` [EXTRACTED]
+- [[TutorialService.start()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2333

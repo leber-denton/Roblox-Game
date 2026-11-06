@@ -1,22 +1,24 @@
 ---
-source_file: "vault/Graph/moveStyle()_1.md"
+source_file: "vault/Graph/moveStyle()_1_1.md"
 type: "document"
-community: "Community 138"
+community: "Community 42"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_42
 ---
 
-# moveStyle()_1.md
+# moveStyle()_1_1.md
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `references` [EXTRACTED]
+- [[BattleUI.client.luau_2_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 138]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 7]] - `references` [EXTRACTED]
-- [[moveStyle()_3]] - `contains` [EXTRACTED]
+- [[moveStyle()_1_1_1]] - `contains` [EXTRACTED]
 - [[moveStyle()_2_1]] - `references` [EXTRACTED]
 - [[showMenu()_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_42

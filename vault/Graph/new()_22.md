@@ -12,7 +12,7 @@ tags:
 # new()
 
 ## Connections
-- [[Connections_2977]] - `contains` [EXTRACTED]
+- [[Connections_12071]] - `contains` [EXTRACTED]
 - [[new()_1_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_203

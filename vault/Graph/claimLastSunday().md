@@ -12,7 +12,7 @@ tags:
 # claimLastSunday()
 
 ## Connections
-- [[ColiseumService.luau_3]] - `contains` [EXTRACTED]
+- [[ColiseumService.luau_2]] - `contains` [EXTRACTED]
 - [[PlayerData.addBP()]] - `calls` [INFERRED]
 - [[SaveService.requestSave()]] - `calls` [INFERRED]
 - [[recordFor()]] - `calls` [EXTRACTED]

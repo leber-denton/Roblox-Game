@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_24.md"
+source_file: "vault/Graph/RouteTrainerService.init()_3.md"
 type: "document"
-community: "Community 964"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_964
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Required by_184]] - `contains` [EXTRACTED]
+- [[RouteTrainerService.init()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_964
+#graphify/document #graphify/EXTRACTED #community/Community_134

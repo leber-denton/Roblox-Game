@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/Connections_363.md"
+source_file: "vault/Graph/Connections_363_1.md"
 type: "document"
-community: "Community 802"
+community: "Community 115"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_802
+  - community/Community_115
 ---
 
-# Connections_363.md
+# Connections_363_1.md
 
 ## Connections
-- [[Connections_5461]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 113]] - `references` [EXTRACTED]
-- [[disc()_2_1]] - `references` [EXTRACTED]
+- [[Connections_1816_1]] - `references` [EXTRACTED]
+- [[Connections_363_2]] - `contains` [EXTRACTED]
+- [[Syncing to Studio]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 115]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_802
+#graphify/document #graphify/EXTRACTED #community/Community_115

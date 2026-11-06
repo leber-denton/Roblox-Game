@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/shared_waitforchild_1.md"
+source_file: "vault/Graph/Connections_1807.md"
 type: "document"
-community: "Community 181"
+community: "Community 115"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_181
+  - community/Community_115
 ---
 
 # Connections
 
 ## Connections
-- [[shared_waitforchild]] - `contains` [EXTRACTED]
+- [[Connections_2661]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_181
+#graphify/document #graphify/EXTRACTED #community/Community_115

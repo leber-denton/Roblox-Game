@@ -1,19 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_17.md"
+source_file: "vault/Code/Sprint.md"
 type: "document"
-community: "Community 1323"
-location: "L1"
+community: "Community 1146"
+location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1323
+  - community/Community_1146
 ---
 
-# Required by_17.md
+# Required by
 
 ## Connections
-- [[Required by_14]] - `contains` [EXTRACTED]
-- [[Required by_110]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 160]] - `references` [EXTRACTED]
+- [[Sprint]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1323
+#graphify/document #graphify/EXTRACTED #community/Community_1146

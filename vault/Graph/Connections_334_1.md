@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/Connections_334.md"
+source_file: "vault/Graph/Connections_334_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 168"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_168
 ---
 
-# Connections_334.md
+# Connections_334_1.md
 
 ## Connections
-- [[Connections_477]] - `contains` [EXTRACTED]
-- [[ModelSync.preview()_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
+- [[Connections_334_2]] - `contains` [EXTRACTED]
+- [[ProgressService.evolveNow()_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_168

@@ -12,7 +12,7 @@ tags:
 # BattleService.onEnded()
 
 ## Connections
-- [[BattleService.luau]] - `contains` [EXTRACTED]
+- [[BattleService.luau_5]] - `contains` [EXTRACTED]
 - [[DecorService.init()]] - `calls` [INFERRED]
 - [[DungeonService.init()]] - `calls` [INFERRED]
 - [[LeagueService.init()]] - `calls` [INFERRED]

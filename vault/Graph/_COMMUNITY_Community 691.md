@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 691
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_5059]] - document - vault/Graph/GraphArenaManager.md
-- [[GraphArenaManager_2]] - document - vault/Graph/GraphArenaManager.md
-- [[GraphArenaManager_1]] - document - vault/Graph/GraphArenaManager.md
+- [[Connections_22022]] - document - vault/Graph/Connections_5056.md
+- [[Connections_22023]] - document - vault/Graph/Connections_5056.md
+- [[Connections_22024]] - document - vault/Graph/Connections_5057.md
+- [[Connections_22025]] - document - vault/Graph/Connections_5057.md
+- [[Connections_5056_1]] - document - vault/Graph/Connections_5056.md
+- [[Connections_5057_1]] - document - vault/Graph/Connections_5057.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 540]]
+- 2 edges to [[_COMMUNITY_Community 413]]
 
 ## Top bridge nodes
-- [[GraphArenaManager_1]] - degree 2, connects to 1 community
+- [[Connections_5056_1]] - degree 3, connects to 1 community
+- [[Connections_5057_1]] - degree 3, connects to 1 community

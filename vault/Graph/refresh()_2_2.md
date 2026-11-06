@@ -1,22 +1,19 @@
 ---
-source_file: "vault/Graph/refresh()_2.md"
+source_file: "vault/Graph/refresh()_2_2.md"
 type: "document"
-community: "Community 322"
+community: "Community 319"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_322
+  - community/Community_319
 ---
 
-# refresh()_2.md
+# refresh()_2_2.md
 
 ## Connections
-- [[GameData.canEnter()_3]] - `references` [EXTRACTED]
-- [[GameData.levelCap()_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[header()_2_2]] - `references` [EXTRACTED]
-- [[refresh()_11]] - `contains` [EXTRACTED]
-- [[row()_3_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 319]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 418]] - `references` [EXTRACTED]
+- [[refresh()_2_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_322
+#graphify/document #graphify/EXTRACTED #community/Community_319

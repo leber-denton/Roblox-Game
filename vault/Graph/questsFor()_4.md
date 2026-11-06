@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/questsFor().md"
 type: "document"
-community: "Community 86"
+community: "Community 276"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_276
 ---
 
 # questsFor()
 
 ## Connections
-- [[Connections_5834]] - `contains` [EXTRACTED]
+- [[Connections_15354]] - `contains` [EXTRACTED]
 - [[questsFor()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_276

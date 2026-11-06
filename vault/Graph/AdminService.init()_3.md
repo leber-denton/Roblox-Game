@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Graph/AdminService.init().md"
+source_file: "vault/Graph/AdminService.init()_3.md"
 type: "document"
-community: "Community 95"
+community: "Community 142"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_95
+  - community/Community_142
 ---
 
-# AdminService.init().md
+# AdminService.init()_3.md
 
 ## Connections
-- [[AdminService.init()_4]] - `contains` [EXTRACTED]
+- [[AdminService.init()_5]] - `contains` [EXTRACTED]
+- [[AdminService.init()_1]] - `references` [EXTRACTED]
+- [[AdminService.init()_4]] - `references` [EXTRACTED]
 - [[AdminService.isAdmin()_3]] - `references` [EXTRACTED]
-- [[AdminService.luau_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1146]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 95]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_95
+#graphify/document #graphify/EXTRACTED #community/Community_142

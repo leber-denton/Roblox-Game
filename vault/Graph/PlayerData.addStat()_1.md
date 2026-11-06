@@ -12,12 +12,14 @@ tags:
 # PlayerData.addStat()_1.md
 
 ## Connections
-- [[LeagueService.init()_1]] - `references` [EXTRACTED]
-- [[PlayerData.addStat()_1_1]] - `contains` [EXTRACTED]
+- [[LeagueService.init()_1_1]] - `references` [EXTRACTED]
+- [[PlayerData.addStat()_1_3]] - `contains` [EXTRACTED]
+- [[PlayerData.addStat()_1_1]] - `references` [EXTRACTED]
 - [[PlayerData.addStat()_2]] - `references` [EXTRACTED]
-- [[PlayerData.luau_1]] - `references` [EXTRACTED]
+- [[PlayerData.luau_1_1]] - `references` [EXTRACTED]
 - [[ProgressService.init()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 21]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 

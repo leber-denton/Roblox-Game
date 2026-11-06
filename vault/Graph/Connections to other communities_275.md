@@ -1,17 +1,19 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 255.md"
+source_file: "vault/Graph/Connections to other communities_275.md"
 type: "document"
-community: "Community 359"
-location: "L24"
+community: "Community 116"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_359
+  - community/Community_116
 ---
 
-# Connections to other communities
+# Connections to other communities_275.md
 
 ## Connections
-- [[Community 255]] - `contains` [EXTRACTED]
+- [[Connections to other communities_200]] - `contains` [EXTRACTED]
+- [[Connections_5128]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1365]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_359
+#graphify/document #graphify/EXTRACTED #community/Community_116

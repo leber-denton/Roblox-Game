@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Requires_66.md"
+source_file: "vault/Graph/setupShop().md"
 type: "document"
-community: "Community 404"
+community: "Community 123"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_404
+  - community/Community_123
 ---
 
 # Connections
 
 ## Connections
-- [[Requires_128]] - `contains` [EXTRACTED]
+- [[setupShop()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_404
+#graphify/document #graphify/EXTRACTED #community/Community_123

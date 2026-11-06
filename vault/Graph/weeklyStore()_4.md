@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/weeklyStore()_2.md"
+source_file: "vault/Graph/weeklyStore()_4.md"
 type: "document"
 community: "Community 281"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_281
 ---
 
-# weeklyStore()
+# weeklyStore()_4.md
 
 ## Connections
-- [[Connections_3582]] - `contains` [EXTRACTED]
-- [[weeklyStore()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 281]] - `references` [EXTRACTED]
+- [[weeklyStore()_4_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_281

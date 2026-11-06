@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.serialize()_2.md"
+source_file: "vault/Graph/BaseManager.serialize()_3.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 3063"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_3063
 ---
 
-# BaseManager.serialize()_2.md
+# BaseManager.serialize().md
 
 ## Connections
-- [[BaseManager.serialize()_2_1]] - `contains` [EXTRACTED]
-- [[Connections_961]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[BaseManager.serialize()_3]] - `contains` [EXTRACTED]
+- [[Connections_16181]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_3063

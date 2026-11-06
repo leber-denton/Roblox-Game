@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[Connections_891_1]] - `references` [EXTRACTED]
-- [[CreatureLife_1_2]] - `contains` [EXTRACTED]
 - [[CreatureLife_1]] - `references` [EXTRACTED]
+- [[CreatureLife_1_1_1]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 124]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_124

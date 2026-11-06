@@ -1,19 +1,35 @@
 ---
 type: community
-members: 6
+members: 22
 ---
 
 # Community 895
 
-**Members:** 6 nodes
+**Members:** 22 nodes
 
 ## Members
-- [[Connections_5988]] - document - vault/Graph/Connections_776.md
-- [[Connections_5989]] - document - vault/Graph/Connections_776.md
-- [[Connections_5990]] - document - vault/Graph/header()_5.md
-- [[Connections_776_1]] - document - vault/Graph/Connections_776.md
-- [[header()_10]] - document - vault/Graph/header()_5.md
-- [[header()_5_1]] - document - vault/Graph/header()_5.md
+- [[Community 601]] - document - vault/Graph/_COMMUNITY_Community 601.md
+- [[Community 895]] - document - vault/Graph/_COMMUNITY_Community 895.md
+- [[Connections_23759]] - document - vault/Graph/complete()_1_1.md
+- [[Connections_23760]] - document - vault/Graph/complete()_1.md
+- [[Connections_23761]] - document - vault/Graph/complete()_2.md
+- [[Connections_23762]] - document - vault/Graph/complete()_3.md
+- [[Connections to other communities_1623]] - document - vault/Graph/_COMMUNITY_Community 895.md
+- [[Live Query (requires Dataview plugin)_1906]] - document - vault/Graph/_COMMUNITY_Community 601.md
+- [[Live Query (requires Dataview plugin)_1907]] - document - vault/Graph/_COMMUNITY_Community 895.md
+- [[Members_1905]] - document - vault/Graph/_COMMUNITY_Community 601.md
+- [[Members_1906]] - document - vault/Graph/_COMMUNITY_Community 895.md
+- [[Top bridge nodes_1614]] - document - vault/Graph/_COMMUNITY_Community 895.md
+- [[_COMMUNITY_Community 601]] - document - vault/Graph/_COMMUNITY_Community 601.md
+- [[_COMMUNITY_Community 895]] - document - vault/Graph/_COMMUNITY_Community 895.md
+- [[complete()_7]] - document - vault/Graph/complete()_1.md
+- [[complete()_8]] - document - vault/Graph/complete()_3.md
+- [[complete()_1_1]] - document - vault/Graph/complete()_1.md
+- [[complete()_1_2]] - document - vault/Graph/complete()_1_1.md
+- [[complete()_1_1_1]] - document - vault/Graph/complete()_1_1.md
+- [[complete()_2_1]] - document - vault/Graph/complete()_2.md
+- [[complete()_2_2]] - document - vault/Graph/complete()_2.md
+- [[complete()_3_1]] - document - vault/Graph/complete()_3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +39,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 184]]
+- 4 edges to [[_COMMUNITY_Community 320]]
 - 1 edge to [[_COMMUNITY_Community 121]]
+- 1 edge to [[_COMMUNITY_Community 1572]]
+- 1 edge to [[_COMMUNITY_Community 24]]
 
 ## Top bridge nodes
-- [[header()_5_1]] - degree 4, connects to 2 communities
-- [[Connections_776_1]] - degree 3, connects to 1 community
+- [[complete()_2_1]] - degree 5, connects to 2 communities
+- [[_COMMUNITY_Community 895]] - degree 5, connects to 2 communities
+- [[_COMMUNITY_Community 601]] - degree 8, connects to 1 community
+- [[complete()_1_1]] - degree 5, connects to 1 community

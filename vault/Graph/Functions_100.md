@@ -12,6 +12,8 @@ tags:
 # Functions_100.md
 
 ## Connections
-- [[Functions_13]] - `contains` [EXTRACTED]
+- [[Functions_100_1]] - `contains` [EXTRACTED]
+- [[Functions_13_1_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1267]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1267

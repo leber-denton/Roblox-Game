@@ -1,20 +1,20 @@
 ---
 source_file: "vault/Graph/commands.resetTrainers().md"
 type: "document"
-community: "Community 86"
+community: "Community 225"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_225
 ---
 
 # commands.resetTrainers().md
 
 ## Connections
-- [[AdminService.luau_2_1]] - `references` [EXTRACTED]
+- [[AdminService.luau_5]] - `references` [EXTRACTED]
 - [[PlayerData.get()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 17]] - `references` [EXTRACTED]
 - [[commands.resetTrainers()_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_225

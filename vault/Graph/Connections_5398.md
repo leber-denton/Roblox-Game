@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/count()_2.md"
+source_file: "vault/Graph/Connections_5398.md"
 type: "document"
-community: "Community 787"
-location: "L14"
+community: "Community 1075"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_787
+  - community/Community_1075
 ---
 
-# Connections
+# Connections_5398.md
 
 ## Connections
-- [[count()_4]] - `contains` [EXTRACTED]
+- [[Connections_1169_1]] - `references` [EXTRACTED]
+- [[Connections_5398_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1075]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 787]] - `references` [EXTRACTED]
+- [[count()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_787
+#graphify/document #graphify/EXTRACTED #community/Community_1075

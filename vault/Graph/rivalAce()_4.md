@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/rivalAce().md"
+source_file: "vault/Graph/rivalAce()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 134"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_134
 ---
 
-# rivalAce().md
+# rivalAce()_4.md
 
 ## Connections
-- [[BaseManager.getTeam()_3]] - `references` [EXTRACTED]
-- [[LeagueService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
-- [[rivalAce()_5]] - `contains` [EXTRACTED]
-- [[teamFor()_4]] - `references` [EXTRACTED]
+- [[Connections_4875_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
+- [[rivalAce()_6]] - `contains` [EXTRACTED]
+- [[rivalAce()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_134

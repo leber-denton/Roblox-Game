@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/onSprint()_1.md"
+source_file: "vault/Graph/Top bridge nodes_329.md"
 type: "document"
-community: "Community 1436"
+community: "Community 1100"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1436
+  - community/Community_1100
 ---
 
 # Connections
 
 ## Connections
-- [[onSprint()_3]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_329_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1436
+#graphify/document #graphify/EXTRACTED #community/Community_1100

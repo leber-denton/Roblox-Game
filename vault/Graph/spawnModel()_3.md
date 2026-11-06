@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/spawnModel().md"
+source_file: "vault/Graph/spawnModel()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2732"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2732
 ---
 
-# spawnModel().md
+# spawnModel()_3.md
 
 ## Connections
-- [[BaseManager.addCreature()_3]] - `references` [EXTRACTED]
-- [[BaseManager.evolve()_3]] - `references` [EXTRACTED]
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[CreatureBuilder.build()_5]] - `references` [EXTRACTED]
-- [[Wander.add()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[refreshTag()_3]] - `references` [EXTRACTED]
-- [[spawnModel()_4]] - `contains` [EXTRACTED]
+- [[spawnModel()_5]] - `contains` [EXTRACTED]
+- [[spawnModel()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2732

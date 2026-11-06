@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Systems/BattleService.md"
+source_file: "vault/Code/BattleService.md"
 type: "document"
-community: "Community 3"
+community: "Community 13"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_3
+  - community/Community_13
 ---
 
 # BattleService
 
 ## Connections
-- [[Flow]] - `contains` [EXTRACTED]
-- [[Related]] - `contains` [EXTRACTED]
-- [[SystemsBattleService]] - `contains` [EXTRACTED]
+- [[CodeBattleService_2]] - `contains` [EXTRACTED]
+- [[Functions_43]] - `contains` [EXTRACTED]
+- [[Required by_35]] - `contains` [EXTRACTED]
+- [[Requires_31]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_3
+#graphify/document #graphify/EXTRACTED #community/Community_13

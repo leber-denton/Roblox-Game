@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/CodeMusic.md"
+source_file: "vault/Graph/CodeMusic_2.md"
 type: "document"
-community: "Community 100"
-location: "L12"
+community: "Community 182"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_100
+  - community/Community_182
 ---
 
-# Code/Music.md
+# CodeMusic_2.md
 
 ## Connections
-- [[CodeMusic_1]] - `contains` [EXTRACTED]
-- [[Connections_1]] - `contains` [EXTRACTED]
+- [[CodeMusic_4]] - `contains` [EXTRACTED]
+- [[CodeMusic_1_1]] - `references` [EXTRACTED]
+- [[Connections_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 100]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_100
+#graphify/document #graphify/EXTRACTED #community/Community_182

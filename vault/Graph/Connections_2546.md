@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/TutorialCompletion.spec.luau_1.md"
+source_file: "vault/Graph/Connections_1734.md"
 type: "document"
-community: "Community 173"
-location: "L14"
+community: "Community 114"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_173
+  - community/Community_114
 ---
 
 # Connections
 
 ## Connections
-- [[TutorialCompletion.spec.luau_3]] - `contains` [EXTRACTED]
+- [[Connections_2547]] - `contains` [EXTRACTED]
+- [[Connections_1734_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_173
+#graphify/document #graphify/EXTRACTED #community/Community_114

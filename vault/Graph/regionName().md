@@ -1,18 +1,18 @@
 ---
 source_file: "src/StarterPlayer/StarterPlayerScripts/Regions.client.luau"
 type: "code"
-community: "Community 338"
+community: "Community 1107"
 location: "L22"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_338
+  - community/Community_1107
 ---
 
 # regionName()
 
 ## Connections
-- [[Regions.client.luau_5]] - `contains` [EXTRACTED]
-- [[setSign()_1]] - `calls` [EXTRACTED]
+- [[Regions.client.luau]] - `contains` [EXTRACTED]
+- [[setSign()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_338
+#graphify/code #graphify/EXTRACTED #community/Community_1107

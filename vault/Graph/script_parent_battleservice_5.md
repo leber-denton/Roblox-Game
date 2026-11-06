@@ -1,27 +1,17 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 15"
+source_file: "vault/Graph/script_parent_battleservice_5.md"
+type: "document"
+community: "Community 3716"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_3716
 ---
 
-# script_parent_battleservice
+# script_parent_battleservice_5.md
 
 ## Connections
-- [[AdminService.luau_3]] - `imports` [EXTRACTED]
-- [[ColiseumService.luau_3]] - `imports` [EXTRACTED]
-- [[DecorService.luau]] - `imports` [EXTRACTED]
-- [[DungeonService.luau_3]] - `imports` [EXTRACTED]
-- [[GymService.luau_3]] - `imports` [EXTRACTED]
-- [[LeagueService.luau_3]] - `imports` [EXTRACTED]
-- [[ProgressService.luau]] - `imports` [EXTRACTED]
-- [[RouteTrainerService.luau_3]] - `imports` [EXTRACTED]
-- [[SocialService.luau]] - `imports` [EXTRACTED]
-- [[StoryService.luau]] - `imports` [EXTRACTED]
-- [[TutorialService.luau]] - `imports` [EXTRACTED]
-- [[WildSpawner.luau_3]] - `imports` [EXTRACTED]
+- [[script_parent_battleservice]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_3716

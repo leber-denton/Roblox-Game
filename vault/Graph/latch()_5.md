@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Graph/latch().md"
+source_file: "vault/Graph/latch()_5.md"
 type: "document"
-community: "Community 21"
+community: "Community 167"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_167
 ---
 
-# latch().md
+# latch()_5.md
 
 ## Connections
-- [[BattleFX.luau_2]] - `references` [EXTRACTED]
-- [[BattleFX.throw()_5]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 235]] - `references` [EXTRACTED]
-- [[latch()_6]] - `contains` [EXTRACTED]
-- [[play()_2_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 167]] - `references` [EXTRACTED]
+- [[latch()_7]] - `contains` [EXTRACTED]
+- [[latch()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_167

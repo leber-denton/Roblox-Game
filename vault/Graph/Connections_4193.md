@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_1.md"
+source_file: "vault/Graph/Members_298.md"
 type: "document"
-community: "Community 410"
+community: "Community 1233"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_410
+  - community/Community_1233
 ---
 
 # Connections
 
 ## Connections
-- [[Generates srcWorkspaceColiseumRoman.model.json Roman arcade facade, columns…_1_1]] - `contains` [EXTRACTED]
+- [[Members_339]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_410
+#graphify/document #graphify/EXTRACTED #community/Community_1233

@@ -12,7 +12,8 @@ tags:
 # WildSpawner.refillLane()_1.md
 
 ## Connections
-- [[WildSpawner.refillLane()_1_1]] - `contains` [EXTRACTED]
+- [[WildSpawner.refillLane()_1_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.refillLane()_1_1]] - `references` [EXTRACTED]
 - [[WildSpawner.refillLane()_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 197]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 26]] - `references` [EXTRACTED]

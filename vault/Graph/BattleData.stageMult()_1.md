@@ -12,9 +12,11 @@ tags:
 # BattleData.stageMult()_1.md
 
 ## Connections
-- [[BattleData.stageMult()_3]] - `contains` [EXTRACTED]
+- [[BattleData.stageMult()_1_1]] - `contains` [EXTRACTED]
 - [[BattleData.stageMult()_2]] - `references` [EXTRACTED]
+- [[BattleData.stageMult()_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 556]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_556

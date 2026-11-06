@@ -12,8 +12,7 @@ tags:
 # Graph/StoryService.md
 
 ## Connections
-- [[StoryService_3]] - `contains` [EXTRACTED]
-- [[StoryService_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 320]] - `references` [EXTRACTED]
+- [[GraphStoryService]] - `references` [EXTRACTED]
+- [[StoryService_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

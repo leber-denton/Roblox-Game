@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Live Query (requires Dataview plugin)_77.md"
+source_file: "vault/Graph/ArenaManager.md"
 type: "document"
-community: "Community 221"
+community: "Community 118"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_221
+  - community/Community_118
 ---
 
 # Connections
 
 ## Connections
-- [[Live Query (requires Dataview plugin)_203]] - `contains` [EXTRACTED]
+- [[ArenaManager_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_221
+#graphify/document #graphify/EXTRACTED #community/Community_118

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/startRivalBattle()_1.md"
+source_file: "vault/Graph/Connections_3612.md"
 type: "document"
-community: "Community 685"
+community: "Community 1284"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_685
+  - community/Community_1284
 ---
 
 # Connections
 
 ## Connections
-- [[startRivalBattle()_3]] - `contains` [EXTRACTED]
+- [[Connections_5044]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_685
+#graphify/document #graphify/EXTRACTED #community/Community_1284

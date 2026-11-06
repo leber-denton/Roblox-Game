@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.toWorld().md"
+source_file: "vault/Graph/DecorData.toWorld()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 2976"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2976
 ---
 
-# DecorData.toWorld().md
+# DecorData.toWorld()_1.md
 
 ## Connections
-- [[DecorData.luau_1]] - `references` [EXTRACTED]
-- [[DecorData.side()_1]] - `references` [EXTRACTED]
-- [[DecorData.toWorld()_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[canPlace()_1]] - `references` [EXTRACTED]
-- [[check()_7]] - `references` [EXTRACTED]
-- [[spawnPlaced()_3]] - `references` [EXTRACTED]
+- [[DecorData.toWorld()_3]] - `contains` [EXTRACTED]
+- [[DecorData.toWorld()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2976

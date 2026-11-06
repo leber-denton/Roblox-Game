@@ -1,16 +1,22 @@
 ---
 type: community
-members: 3
+members: 9
 ---
 
 # Community 1351
 
-**Members:** 3 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1591]] - document - vault/Graph/ShowcaseBuilder.arrivalCFrame().md
-- [[ShowcaseBuilder.arrivalCFrame()_2]] - document - vault/Graph/ShowcaseBuilder.arrivalCFrame().md
-- [[ShowcaseBuilder.arrivalCFrame()_1]] - document - vault/Graph/ShowcaseBuilder.arrivalCFrame().md
+- [[Connections_6492]] - document - vault/Graph/Connections_2354.md
+- [[Connections_6493]] - document - vault/Graph/Connections_2354.md
+- [[Connections_6494]] - document - vault/Graph/Live Query (requires Dataview plugin)_239.md
+- [[Connections_6495]] - document - vault/Graph/Live Query (requires Dataview plugin)_45_1.md
+- [[Connections_2354_1]] - document - vault/Graph/Connections_2354.md
+- [[Live Query (requires Dataview plugin)_434]] - document - vault/Graph/Live Query (requires Dataview plugin)_239.md
+- [[Live Query (requires Dataview plugin)_239_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_239.md
+- [[Live Query (requires Dataview plugin)_45_2]] - document - vault/Graph/Live Query (requires Dataview plugin)_45_1.md
+- [[Live Query (requires Dataview plugin)_45_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_45_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 117]]
+- 3 edges to [[_COMMUNITY_Community 812]]
+- 1 edge to [[_COMMUNITY_Community 1196]]
 
 ## Top bridge nodes
-- [[ShowcaseBuilder.arrivalCFrame()_1]] - degree 2, connects to 1 community
+- [[Live Query (requires Dataview plugin)_45_1]] - degree 4, connects to 2 communities
+- [[Live Query (requires Dataview plugin)_239_1]] - degree 4, connects to 1 community
+- [[Connections_2354_1]] - degree 3, connects to 1 community

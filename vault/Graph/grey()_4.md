@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/grey()_2.md"
+source_file: "vault/Graph/grey()_4.md"
 type: "document"
-community: "Community 536"
-location: "L12"
+community: "Community 231"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_536
+  - community/Community_231
 ---
 
-# grey()
+# grey()_4.md
 
 ## Connections
-- [[Connections_4599]] - `contains` [EXTRACTED]
-- [[grey()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 231]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 536]] - `references` [EXTRACTED]
+- [[grey()_2_1]] - `references` [EXTRACTED]
+- [[grey()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_536
+#graphify/document #graphify/EXTRACTED #community/Community_231

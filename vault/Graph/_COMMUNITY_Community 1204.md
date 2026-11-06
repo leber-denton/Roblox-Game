@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Community 1204
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Connections_1104]] - document - vault/Graph/Connections_768.md
-- [[Connections_1105]] - document - vault/Graph/Connections_768.md
-- [[Connections_1106]] - document - vault/Graph/requestSave()_2.md
-- [[Connections_768_1]] - document - vault/Graph/Connections_768.md
-- [[requestSave()_3]] - document - vault/Graph/requestSave()_2.md
-- [[requestSave()_2_1]] - document - vault/Graph/requestSave()_2.md
+- [[Community 1078]] - document - vault/Graph/_COMMUNITY_Community 1078.md
+- [[Connections to other communities_232]] - document - vault/Graph/_COMMUNITY_Community 1078.md
+- [[Live Query (requires Dataview plugin)_303]] - document - vault/Graph/_COMMUNITY_Community 1078.md
+- [[Members_303]] - document - vault/Graph/_COMMUNITY_Community 1078.md
+- [[Top bridge nodes_229]] - document - vault/Graph/_COMMUNITY_Community 1078.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +20,9 @@ members: 6
 TABLE source_file, type FROM #community/Community_1204
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Community 1078]]
+
+## Top bridge nodes
+- [[Community 1078]] - degree 5, connects to 1 community

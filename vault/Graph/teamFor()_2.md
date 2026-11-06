@@ -12,8 +12,10 @@ tags:
 # teamFor()_2.md
 
 ## Connections
+- [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
-- [[teamFor()_3]] - `contains` [EXTRACTED]
-- [[teamFor()_1]] - `references` [EXTRACTED]
+- [[teamFor()_1_1]] - `references` [EXTRACTED]
+- [[teamFor()_2_1]] - `contains` [EXTRACTED]
+- [[teamFor()_3]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_134

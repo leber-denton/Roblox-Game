@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/Connections_587.md"
+source_file: "vault/Graph/Connections_587_1.md"
 type: "document"
 community: "Community 324"
 location: "L1"
@@ -9,10 +9,11 @@ tags:
   - community/Community_324
 ---
 
-# Connections_587.md
+# Connections_587_1.md
 
 ## Connections
-- [[Connections_3866]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
+- [[Connections_587_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1184]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 324]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_324

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/setCard()_2.md"
+source_file: "vault/Graph/Connections_978.md"
 type: "document"
-community: "Community 284"
-location: "L14"
+community: "Community 12"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_284
+  - community/Community_12
 ---
 
 # Connections
 
 ## Connections
-- [[setCard()_2_2]] - `contains` [EXTRACTED]
+- [[Connections_3591]] - `contains` [EXTRACTED]
+- [[Connections_978_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_284
+#graphify/document #graphify/EXTRACTED #community/Community_12

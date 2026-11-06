@@ -2,7 +2,7 @@
 source_file: "vault/Graph/inventory()_4.md"
 type: "document"
 community: "Community 226"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,8 +12,7 @@ tags:
 # inventory()_4.md
 
 ## Connections
-- [[_COMMUNITY_Community 246]] - `references` [EXTRACTED]
-- [[inventory()_6]] - `contains` [EXTRACTED]
-- [[inventory()_3_1]] - `references` [EXTRACTED]
+- [[Connections_13176]] - `contains` [EXTRACTED]
+- [[inventory()_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_226

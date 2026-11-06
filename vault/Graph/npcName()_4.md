@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/npcName()_2.md"
+source_file: "vault/Graph/npcName()_4.md"
 type: "document"
-community: "Community 774"
-location: "L12"
+community: "Community 1568"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_774
+  - community/Community_1568
 ---
 
-# npcName()
+# npcName()_4.md
 
 ## Connections
-- [[Connections_5358]] - `contains` [EXTRACTED]
-- [[npcName()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 774]] - `references` [EXTRACTED]
+- [[npcName()_2_1]] - `references` [EXTRACTED]
+- [[npcName()_3]] - `references` [EXTRACTED]
+- [[npcName()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_774
+#graphify/document #graphify/EXTRACTED #community/Community_1568

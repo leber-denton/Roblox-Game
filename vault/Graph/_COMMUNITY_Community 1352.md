@@ -1,16 +1,22 @@
 ---
 type: community
-members: 3
+members: 9
 ---
 
 # Community 1352
 
-**Members:** 3 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1592]] - document - vault/Graph/StarterPlayer_2.md
-- [[StarterPlayer_2]] - document - vault/Graph/StarterPlayer_2.md
-- [[StarterPlayer_2_1]] - document - vault/Graph/StarterPlayer_2.md
+- [[Connections_6496]] - document - vault/Graph/Connections_2338.md
+- [[Connections_6497]] - document - vault/Graph/Connections_2338.md
+- [[Connections_6498]] - document - vault/Graph/Top bridge nodes_161.md
+- [[Connections_6499]] - document - vault/Graph/Top bridge nodes_40_1.md
+- [[Connections_2338_1]] - document - vault/Graph/Connections_2338.md
+- [[Top bridge nodes_328]] - document - vault/Graph/Top bridge nodes_161.md
+- [[Top bridge nodes_161_1]] - document - vault/Graph/Top bridge nodes_161.md
+- [[Top bridge nodes_40_2]] - document - vault/Graph/Top bridge nodes_40_1.md
+- [[Top bridge nodes_40_1]] - document - vault/Graph/Top bridge nodes_40_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 110]]
+- 3 edges to [[_COMMUNITY_Community 1333]]
+- 1 edge to [[_COMMUNITY_Community 574]]
 
 ## Top bridge nodes
-- [[StarterPlayer_2]] - degree 2, connects to 1 community
+- [[Top bridge nodes_40_1]] - degree 4, connects to 2 communities
+- [[Top bridge nodes_161_1]] - degree 4, connects to 1 community
+- [[Connections_2338_1]] - degree 3, connects to 1 community

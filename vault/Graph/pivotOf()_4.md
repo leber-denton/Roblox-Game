@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/pivotOf()_2.md"
+source_file: "vault/Graph/pivotOf()_1.md"
 type: "document"
-community: "Community 613"
+community: "Community 140"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_613
+  - community/Community_140
 ---
 
-# pivotOf()
+# pivotOf().md
 
 ## Connections
-- [[Connections_4802]] - `contains` [EXTRACTED]
-- [[pivotOf()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_7035]] - `contains` [EXTRACTED]
+- [[pivotOf()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_613
+#graphify/document #graphify/EXTRACTED #community/Community_140

@@ -1,21 +1,23 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 339.md"
+source_file: "vault/Graph/Community 339.md"
 type: "document"
 community: "Community 1061"
-location: "L6"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_1061
 ---
 
-# Community 339
+# Community 339.md
 
 ## Connections
-- [[Connections to other communities_41]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_40]] - `contains` [EXTRACTED]
-- [[Members_40]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_44]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 339]] - `contains` [EXTRACTED]
+- [[Community 339_1]] - `contains` [EXTRACTED]
+- [[Connections to other communities_41_2]] - `references` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_74]] - `references` [EXTRACTED]
+- [[Members_76]] - `references` [EXTRACTED]
+- [[Top bridge nodes_41]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1061]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 339]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1061

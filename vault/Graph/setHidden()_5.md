@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/setHidden().md"
+source_file: "vault/Graph/setHidden()_5.md"
 type: "document"
-community: "Community 21"
+community: "Community 167"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_167
 ---
 
-# setHidden().md
+# setHidden()_5.md
 
 ## Connections
-- [[BattleFX.luau_2]] - `references` [EXTRACTED]
-- [[BattleFX.throw()_5]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 235]] - `references` [EXTRACTED]
-- [[setHidden()_6]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 167]] - `references` [EXTRACTED]
+- [[setHidden()_7]] - `contains` [EXTRACTED]
+- [[setHidden()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_167

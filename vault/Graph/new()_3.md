@@ -1,8 +1,8 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/AdminPanel.client.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/DecorUI.client.luau"
 type: "code"
 community: "Community 3"
-location: "L24"
+location: "L40"
 tags:
   - graphify/code
   - graphify/EXTRACTED
@@ -12,10 +12,19 @@ tags:
 # new()
 
 ## Connections
-- [[AdminPanel.client.luau_3]] - `contains` [EXTRACTED]
-- [[btn()]] - `calls` [EXTRACTED]
-- [[corner()]] - `calls` [EXTRACTED]
-- [[header()_2]] - `calls` [EXTRACTED]
-- [[row()_3]] - `calls` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
+- [[button()]] - `calls` [EXTRACTED]
+- [[gridLayout()]] - `calls` [EXTRACTED]
+- [[itemCard()]] - `calls` [EXTRACTED]
+- [[label()_1]] - `calls` [EXTRACTED]
+- [[listLayout()]] - `calls` [EXTRACTED]
+- [[makeGhost()]] - `calls` [EXTRACTED]
+- [[preview()]] - `calls` [EXTRACTED]
+- [[round()_2]] - `calls` [EXTRACTED]
+- [[tabs.Crates()]] - `calls` [EXTRACTED]
+- [[tabs.Daily()]] - `calls` [EXTRACTED]
+- [[tabs.Items()]] - `calls` [EXTRACTED]
+- [[tabs.Robux()]] - `calls` [EXTRACTED]
+- [[tabs.Themes()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

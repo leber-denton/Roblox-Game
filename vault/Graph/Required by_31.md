@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_31.md"
+source_file: "vault/Code/BattleData.md"
 type: "document"
-community: "Community 125"
-location: "L1"
+community: "Community 13"
+location: "L7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_125
+  - community/Community_13
 ---
 
-# Required by_31.md
+# Required by
 
 ## Connections
-- [[DungeonClient_1]] - `references` [EXTRACTED]
-- [[Required by_31_3]] - `contains` [EXTRACTED]
-- [[Required by_31_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 125]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 52]] - `references` [EXTRACTED]
+- [[BattleData]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_125
+#graphify/document #graphify/EXTRACTED #community/Community_13

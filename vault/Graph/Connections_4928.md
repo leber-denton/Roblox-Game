@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/onTouch()_1.md"
+source_file: "vault/Graph/Connections_3555.md"
 type: "document"
-community: "Community 651"
+community: "Community 1278"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_651
+  - community/Community_1278
 ---
 
 # Connections
 
 ## Connections
-- [[onTouch()_3]] - `contains` [EXTRACTED]
+- [[Connections_4927]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_651
+#graphify/document #graphify/EXTRACTED #community/Community_1278

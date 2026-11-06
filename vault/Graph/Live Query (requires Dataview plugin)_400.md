@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 367.md"
+source_file: "vault/Graph/_COMMUNITY_Community 1287.md"
 type: "document"
-community: "Community 676"
-location: "L21"
+community: "Community 1287"
+location: "L30"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_676
+  - community/Community_1287
 ---
 
 # Live Query (requires Dataview plugin)
 
 ## Connections
-- [[Community 367]] - `contains` [EXTRACTED]
+- [[Community 1287]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_676
+#graphify/document #graphify/EXTRACTED #community/Community_1287

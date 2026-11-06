@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/hideIfNotMine()_2.md"
+source_file: "vault/Graph/hideIfNotMine()_2_1.md"
 type: "document"
 community: "Community 240"
 location: "L1"
@@ -9,12 +9,14 @@ tags:
   - community/Community_240
 ---
 
-# hideIfNotMine()_2.md
+# hideIfNotMine()_2_1.md
 
 ## Connections
-- [[Connections_237_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
-- [[hideIfNotMine()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 163]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 240]] - `references` [EXTRACTED]
 - [[hideIfNotMine()_1_1]] - `references` [EXTRACTED]
+- [[hideIfNotMine()_2_1_1]] - `contains` [EXTRACTED]
+- [[hideIfNotMine()_4_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_240

@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Creator Hub listing (saved 2026-10-29)_2.md"
+source_file: "vault/Graph/Connections_220.md"
 type: "document"
-community: "Community 1404"
-location: "L14"
+community: "Community 110"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1404
+  - community/Community_110
 ---
 
 # Connections
 
 ## Connections
-- [[Creator Hub listing (saved 2026-10-29)_2]] - `contains` [EXTRACTED]
+- [[Connections_1746]] - `contains` [EXTRACTED]
+- [[Connections_220_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1404
+#graphify/document #graphify/EXTRACTED #community/Community_110

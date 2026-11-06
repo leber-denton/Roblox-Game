@@ -1,21 +1,19 @@
 ---
-source_file: "vault/Code/ShowcaseBuilder.md"
+source_file: "vault/Graph/CodeShowcaseBuilder.md"
 type: "document"
-community: "Community 70"
+community: "Community 193"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_70
+  - community/Community_193
 ---
 
-# Code/ShowcaseBuilder.md
+# CodeShowcaseBuilder.md
 
 ## Connections
-- [[CodeCode Map_2]] - `references` [EXTRACTED]
-- [[CodeModelSync_2]] - `references` [EXTRACTED]
-- [[CodeModelSyncLookup_2]] - `references` [EXTRACTED]
-- [[CodeShowcase_2]] - `references` [EXTRACTED]
-- [[ShowcaseBuilder_3]] - `contains` [EXTRACTED]
+- [[CodeShowcaseBuilder_4]] - `contains` [EXTRACTED]
+- [[CodeShowcaseBuilder_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 193]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_70
+#graphify/document #graphify/EXTRACTED #community/Community_193

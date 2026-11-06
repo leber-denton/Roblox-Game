@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/npcs()_2.md"
+source_file: "vault/Graph/npcs()_4.md"
 type: "document"
-community: "Community 634"
-location: "L12"
+community: "Community 110"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_634
+  - community/Community_110
 ---
 
-# npcs()
+# npcs()_4.md
 
 ## Connections
-- [[Connections_4879]] - `contains` [EXTRACTED]
-- [[npcs()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_4879]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 634]] - `references` [EXTRACTED]
+- [[npcs()_2_1]] - `references` [EXTRACTED]
+- [[npcs()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_634
+#graphify/document #graphify/EXTRACTED #community/Community_110

@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/complete().md"
+source_file: "vault/Graph/complete()_5.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 320"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_320
 ---
 
-# complete()
+# complete()_5.md
 
 ## Connections
-- [[Connections_5729]] - `contains` [EXTRACTED]
-- [[complete()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 617]] - `references` [EXTRACTED]
+- [[complete()_6]] - `contains` [EXTRACTED]
+- [[complete()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_320

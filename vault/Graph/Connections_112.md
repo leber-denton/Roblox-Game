@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/CodeLeaderboardService.md"
+source_file: "vault/Graph/Connections_200_1.md"
 type: "document"
-community: "Community 1043"
+community: "Community 1009"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1043
+  - community/Community_1009
 ---
 
 # Connections
 
 ## Connections
-- [[CodeLeaderboardService_1]] - `contains` [EXTRACTED]
+- [[Connections_200_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1043
+#graphify/document #graphify/EXTRACTED #community/Community_1009

@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_4155]] - document - vault/Graph/Connections_124.md
-- [[Connections_4156]] - document - vault/Graph/Connections_124.md
-- [[Connections_4157]] - document - vault/Graph/lockRegion()_2.md
-- [[Connections_124_1]] - document - vault/Graph/Connections_124.md
-- [[lockRegion()_3]] - document - vault/Graph/lockRegion()_2.md
-- [[lockRegion()_2_1]] - document - vault/Graph/lockRegion()_2.md
+- [[Connections_18784]] - document - vault/Graph/Connections_132.md
+- [[Connections_18785]] - document - vault/Graph/Connections_132.md
+- [[Connections_18786]] - document - vault/Graph/Connections_133.md
+- [[Connections_18787]] - document - vault/Graph/Connections_133.md
+- [[Connections_132_1]] - document - vault/Graph/Connections_132.md
+- [[Connections_133_1]] - document - vault/Graph/Connections_133.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +23,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 542]]
-- 1 edge to [[_COMMUNITY_Community 471]]
+- 2 edges to [[_COMMUNITY_Community 1746]]
+- 1 edge to [[_COMMUNITY_Community 2522]]
 
 ## Top bridge nodes
-- [[lockRegion()_2_1]] - degree 4, connects to 2 communities
-- [[Connections_124_1]] - degree 3, connects to 1 community
+- [[Connections_132_1]] - degree 4, connects to 2 communities
+- [[Connections_133_1]] - degree 3, connects to 1 community

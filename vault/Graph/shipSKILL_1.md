@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/shipSKILL.md"
+source_file: "vault/Graph/shipSKILL_1.md"
 type: "document"
 community: "Community 491"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_491
 ---
 
-# shipSKILL.md
+# shipSKILL_1.md
 
 ## Connections
-- [[Connections_4423]] - `contains` [EXTRACTED]
-- [[shipSKILL]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 491]] - `references` [EXTRACTED]
+- [[shipSKILL]] - `references` [EXTRACTED]
+- [[shipSKILL_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_491

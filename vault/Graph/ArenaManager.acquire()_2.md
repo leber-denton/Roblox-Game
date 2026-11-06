@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[ArenaManager.acquire()_1]] - `contains` [EXTRACTED]
-- [[Connections_305]] - `contains` [EXTRACTED]
+- [[Connections_2388]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_113

@@ -1,19 +1,24 @@
 ---
-source_file: ".claude/skills/ship/SKILL.md"
+source_file: "vault/Graph/ship_5.md"
 type: "document"
-community: "Community 60"
-location: "L6"
+community: "Community 572"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_60
+  - community/Community_572
 ---
 
-# /ship
+# ship_5.md
 
 ## Connections
-- [[Output_2]] - `contains` [EXTRACTED]
-- [[SKILL]] - `contains` [EXTRACTED]
-- [[Steps_2]] - `contains` [EXTRACTED]
+- [[GraphSKILL]] - `references` [EXTRACTED]
+- [[GraphSKILL_1_1]] - `references` [EXTRACTED]
+- [[Output_2_5]] - `references` [EXTRACTED]
+- [[Steps_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 172]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 60]] - `references` [EXTRACTED]
+- [[ship_6]] - `references` [EXTRACTED]
+- [[ship_5_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_60
+#graphify/document #graphify/EXTRACTED #community/Community_572

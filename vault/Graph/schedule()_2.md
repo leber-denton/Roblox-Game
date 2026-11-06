@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/schedule().md"
+source_file: "vault/Graph/schedule()_2.md"
 type: "document"
 community: "Community 144"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_144
 ---
 
-# schedule()
+# schedule()_2.md
 
 ## Connections
-- [[Connections_1814]] - `contains` [EXTRACTED]
-- [[schedule()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 144]] - `references` [EXTRACTED]
+- [[schedule()_1]] - `references` [EXTRACTED]
+- [[schedule()_2_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_144

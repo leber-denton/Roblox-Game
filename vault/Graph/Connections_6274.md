@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Sync.md"
+source_file: "vault/Graph/rivalAce()_1.md"
 type: "document"
-community: "Community 96"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_96
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Sync_4]] - `contains` [EXTRACTED]
+- [[rivalAce()_1_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_96
+#graphify/document #graphify/EXTRACTED #community/Community_134

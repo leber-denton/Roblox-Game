@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[CodeDecorService]] - `references` [EXTRACTED]
-- [[DecorService_2_1]] - `contains` [EXTRACTED]
+- [[DecorService_2_3]] - `contains` [EXTRACTED]
+- [[DecorService_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 153]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 65]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_153

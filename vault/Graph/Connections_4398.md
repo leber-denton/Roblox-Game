@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/TrainerAnimations.new()_2.md"
+source_file: "vault/Graph/Connections_3083.md"
 type: "document"
-community: "Community 484"
-location: "L14"
+community: "Community 1240"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_484
+  - community/Community_1240
 ---
 
 # Connections
 
 ## Connections
-- [[TrainerAnimations.new()_4]] - `contains` [EXTRACTED]
+- [[Connections_4399]] - `contains` [EXTRACTED]
+- [[Connections_3083_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_484
+#graphify/document #graphify/EXTRACTED #community/Community_1240

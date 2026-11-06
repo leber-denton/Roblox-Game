@@ -12,7 +12,8 @@ tags:
 # Community 63.md
 
 ## Connections
-- [[Community 63_1]] - `contains` [EXTRACTED]
+- [[Community 63_5]] - `contains` [EXTRACTED]
+- [[Community 63_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 145]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 326]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 63]] - `references` [EXTRACTED]

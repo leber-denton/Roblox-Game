@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_48.md"
+source_file: "vault/Graph/pulse().md"
 type: "document"
-community: "Community 295"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_295
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[Required by_77]] - `contains` [EXTRACTED]
+- [[pulse()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_295
+#graphify/document #graphify/EXTRACTED #community/Community_120

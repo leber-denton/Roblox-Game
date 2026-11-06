@@ -12,9 +12,10 @@ tags:
 # lightning()_2.md
 
 ## Connections
-- [[Connections_728_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
-- [[lightning()_4]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
 - [[lightning()_1]] - `references` [EXTRACTED]
+- [[lightning()_2_1]] - `contains` [EXTRACTED]
+- [[lightning()_4]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_18

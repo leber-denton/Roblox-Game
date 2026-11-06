@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/applyPremium().md"
+source_file: "vault/Graph/applyPremium()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2077"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2077
 ---
 
-# applyPremium()
+# applyPremium()_4.md
 
 ## Connections
-- [[Connections_5657]] - `contains` [EXTRACTED]
-- [[applyPremium()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[applyPremium()_1_2]] - `references` [EXTRACTED]
+- [[applyPremium()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2077

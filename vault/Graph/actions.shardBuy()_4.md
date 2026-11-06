@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/actions.shardBuy()_2.md"
+source_file: "vault/Graph/actions.shardBuy()_4.md"
 type: "document"
-community: "Community 93"
-location: "L12"
+community: "Community 2718"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_2718
 ---
 
-# actions.shardBuy()
+# actions.shardBuy()_4.md
 
 ## Connections
-- [[Connections_6168]] - `contains` [EXTRACTED]
-- [[actions.shardBuy()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[actions.shardBuy()_1]] - `contains` [EXTRACTED]
+- [[grant()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_93
+#graphify/document #graphify/EXTRACTED #community/Community_2718

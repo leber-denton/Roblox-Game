@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/Showcase_1_1.md"
+source_file: "vault/Graph/Showcase_1.md"
 type: "document"
 community: "Community 247"
 location: "L1"
@@ -9,11 +9,15 @@ tags:
   - community/Community_247
 ---
 
-# Showcase_1_1.md
+# Showcase_1.md
 
 ## Connections
-- [[Showcase_1_2]] - `contains` [EXTRACTED]
-- [[Showcase_1]] - `references` [EXTRACTED]
+- [[GraphShowcase_1]] - `references` [EXTRACTED]
+- [[Showcase_1_5]] - `contains` [EXTRACTED]
+- [[Showcase_1_1_1]] - `references` [EXTRACTED]
+- [[Showcase_1_2]] - `references` [EXTRACTED]
+- [[Showcase_1_3]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 247]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 75]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_247

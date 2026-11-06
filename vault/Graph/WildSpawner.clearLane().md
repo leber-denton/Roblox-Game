@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[WildSpawner.canReplace()]] - `calls` [EXTRACTED]
-- [[WildSpawner.luau_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.luau]] - `contains` [EXTRACTED]
 - [[refreshActiveLanes()]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_22

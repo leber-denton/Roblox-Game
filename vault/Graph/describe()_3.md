@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/describe()_1.md"
+source_file: "vault/Graph/describe()_3.md"
 type: "document"
-community: "Community 755"
-location: "L12"
+community: "Community 485"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_755
+  - community/Community_485
 ---
 
-# describe().md
+# describe()_3.md
 
 ## Connections
-- [[Connections_5292]] - `contains` [EXTRACTED]
-- [[describe()_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 485]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 755]] - `references` [EXTRACTED]
+- [[describe()_1_1]] - `references` [EXTRACTED]
+- [[describe()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_755
+#graphify/document #graphify/EXTRACTED #community/Community_485

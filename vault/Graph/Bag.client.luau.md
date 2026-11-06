@@ -1,30 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/Bag.client.luau"
-type: "code"
-community: "Community 20"
+source_file: "vault/Graph/Bag.client.luau.md"
+type: "document"
+community: "Community 1711"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_20
+  - community/Community_1711
 ---
 
-# Bag.client.luau
+# Bag.client.luau.md
 
 ## Connections
-- [[ballIcon()]] - `contains` [EXTRACTED]
-- [[getInventory()]] - `contains` [EXTRACTED]
-- [[itemInfo()]] - `contains` [EXTRACTED]
-- [[label()]] - `contains` [EXTRACTED]
-- [[new()_1]] - `contains` [EXTRACTED]
-- [[refresh()]] - `contains` [EXTRACTED]
-- [[replicatedstorage_waitforchild_4]] - `imports` [EXTRACTED]
-- [[round()]] - `contains` [EXTRACTED]
-- [[setOpen()]] - `contains` [EXTRACTED]
-- [[showDetail()]] - `contains` [EXTRACTED]
-- [[showPicker()]] - `contains` [EXTRACTED]
-- [[showTradeHistory()]] - `contains` [EXTRACTED]
-- [[symbolFor()]] - `contains` [EXTRACTED]
-- [[updateVisible()_1]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_6]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_3]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_20
+#graphify/document #graphify/EXTRACTED #community/Community_1711

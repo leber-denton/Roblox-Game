@@ -1,21 +1,24 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 271.md"
+source_file: "vault/Graph/Community 271.md"
 type: "document"
-community: "Community 372"
-location: "L6"
+community: "Community 1078"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_372
+  - community/Community_1078
 ---
 
-# Community 271
+# Community 271.md
 
 ## Connections
-- [[Connections to other communities_286]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_318]] - `contains` [EXTRACTED]
-- [[Members_323]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_291]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 271]] - `contains` [EXTRACTED]
+- [[Community 271_2]] - `contains` [EXTRACTED]
+- [[Connections to other communities_286]] - `references` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_318]] - `references` [EXTRACTED]
+- [[Members_323]] - `references` [EXTRACTED]
+- [[Top bridge nodes_291]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1078]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 271]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 372]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_372
+#graphify/document #graphify/EXTRACTED #community/Community_1078

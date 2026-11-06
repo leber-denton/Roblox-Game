@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_610.md"
+source_file: "vault/Graph/StoryService.onLoaded()_3.md"
 type: "document"
-community: "Community 12"
-location: "L12"
+community: "Community 1047"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1047
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_805]] - `contains` [EXTRACTED]
-- [[Connections_610_1]] - `contains` [EXTRACTED]
+- [[StoryService.onLoaded()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1047

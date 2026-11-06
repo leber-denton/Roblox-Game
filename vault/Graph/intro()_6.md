@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/intro().md"
+source_file: "vault/Graph/intro()_3.md"
 type: "document"
-community: "Community 441"
+community: "Community 269"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_441
+  - community/Community_269
 ---
 
 # intro()
 
 ## Connections
-- [[Connections_4272]] - `contains` [EXTRACTED]
-- [[intro()_5]] - `contains` [EXTRACTED]
+- [[Connections_15051]] - `contains` [EXTRACTED]
+- [[intro()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_441
+#graphify/document #graphify/EXTRACTED #community/Community_269

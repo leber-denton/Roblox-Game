@@ -1,19 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_1110.md"
+source_file: "vault/Graph/Connections_1076.md"
 type: "document"
-community: "Community 1063"
-location: "L1"
+community: "Community 1065"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1063
+  - community/Community_1065
 ---
 
-# Connections_1110.md
+# Connections
 
 ## Connections
-- [[Connections_162]] - `contains` [EXTRACTED]
-- [[Features.mane()_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
+- [[Connections_1109]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1063
+#graphify/document #graphify/EXTRACTED #community/Community_1065

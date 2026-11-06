@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/itemInfo()_2.md"
+source_file: "vault/Graph/itemInfo()_2_1.md"
 type: "document"
-community: "Community 310"
+community: "Community 2021"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_310
+  - community/Community_2021
 ---
 
-# itemInfo()_2.md
+# itemInfo()_2_1.md
 
 ## Connections
 - [[_COMMUNITY_Community 310]] - `references` [EXTRACTED]
-- [[itemInfo()_3]] - `contains` [EXTRACTED]
-- [[itemInfo()_1_1]] - `references` [EXTRACTED]
+- [[itemInfo()_2]] - `references` [EXTRACTED]
+- [[itemInfo()_2_1_1]] - `contains` [EXTRACTED]
+- [[itemInfo()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_310
+#graphify/document #graphify/EXTRACTED #community/Community_2021

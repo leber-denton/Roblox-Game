@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/fadeBall()_2.md"
+source_file: "vault/Graph/fadeBall()_4.md"
 type: "document"
-community: "Community 335"
-location: "L12"
+community: "Community 171"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_335
+  - community/Community_171
 ---
 
-# fadeBall()
+# fadeBall()_4.md
 
 ## Connections
-- [[Connections_3978]] - `contains` [EXTRACTED]
-- [[fadeBall()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_3978_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1058]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 335]] - `references` [EXTRACTED]
+- [[fadeBall()_2_1]] - `references` [EXTRACTED]
+- [[fadeBall()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_335
+#graphify/document #graphify/EXTRACTED #community/Community_171

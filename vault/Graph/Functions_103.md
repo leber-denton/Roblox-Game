@@ -1,28 +1,23 @@
 ---
-source_file: "vault/Code/DecorUI.md"
+source_file: "vault/Code/Story.md"
 type: "document"
-community: "Community 3"
-location: "L11"
+community: "Community 19"
+location: "L10"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Community_3
+  - community/Community_19
 ---
 
 # Functions
 
 ## Connections
-- [[DecorUI]] - `contains` [EXTRACTED]
-- [[aimRay()]] - `references` [INFERRED]
-- [[clearContent()]] - `references` [INFERRED]
-- [[gridLayout()]] - `references` [INFERRED]
-- [[listLayout()]] - `references` [INFERRED]
-- [[myBase()]] - `references` [INFERRED]
-- [[rebuildBar()]] - `references` [INFERRED]
-- [[startPicking()]] - `references` [INFERRED]
-- [[stopBuild()]] - `references` [INFERRED]
-- [[tryCommit()]] - `references` [INFERRED]
-- [[tryPick()]] - `references` [INFERRED]
-- [[tryPutAway()]] - `references` [INFERRED]
+- [[Story_3]] - `contains` [EXTRACTED]
+- [[regionTour()]] - `references` [INFERRED]
+- [[spawnJuniper()]] - `references` [INFERRED]
+- [[updateJourney()]] - `references` [INFERRED]
+- [[updateMarker()]] - `references` [INFERRED]
+- [[updateStoryPrompts()]] - `references` [INFERRED]
+- [[waitUntilFree()]] - `references` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Community_3
+#graphify/document #graphify/INFERRED #community/Community_19

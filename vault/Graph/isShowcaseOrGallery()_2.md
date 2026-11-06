@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/isShowcaseOrGallery().md"
+source_file: "vault/Graph/isShowcaseOrGallery()_2_1.md"
 type: "document"
 community: "Community 112"
 location: "L12"
@@ -9,10 +9,10 @@ tags:
   - community/Community_112
 ---
 
-# isShowcaseOrGallery()
+# isShowcaseOrGallery()_2.md
 
 ## Connections
-- [[Connections_265]] - `contains` [EXTRACTED]
-- [[isShowcaseOrGallery()_1]] - `contains` [EXTRACTED]
+- [[Connections_2246]] - `contains` [EXTRACTED]
+- [[isShowcaseOrGallery()_2_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_112

@@ -1,23 +1,22 @@
 ---
 type: community
-members: 10
+members: 9
 ---
 
 # Community 549
 
-**Members:** 10 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[ArenaManager.acquire()_4]] - document - vault/Graph/ArenaManager.acquire()_2.md
-- [[ArenaManager.acquire()_3]] - document - vault/Graph/ArenaManager.acquire()_1.md
-- [[ArenaManager.acquire()_1_1]] - document - vault/Graph/ArenaManager.acquire()_1.md
-- [[ArenaManager.acquire()_2_1]] - document - vault/Graph/ArenaManager.acquire()_2.md
-- [[Connections_4644]] - document - vault/Graph/ArenaManager.acquire()_1.md
-- [[Connections_4645]] - document - vault/Graph/ArenaManager.acquire()_2.md
-- [[Connections_4646]] - document - vault/Graph/Connections_359.md
-- [[Connections_4647]] - document - vault/Graph/Connections_359.md
-- [[Connections_359_1]] - document - vault/Graph/Connections_359.md
-- [[_COMMUNITY_Community 113]] - document - vault/Graph/_COMMUNITY_Community 113.md
+- [[Connections_20635]] - document - vault/Graph/Connections_355.md
+- [[Connections_20636]] - document - vault/Graph/Connections_355.md
+- [[Connections_20637]] - document - vault/Graph/Connections_356.md
+- [[Connections_20638]] - document - vault/Graph/Connections_356.md
+- [[Connections_20639]] - document - vault/Graph/Connections_3993.md
+- [[Connections_355_3]] - document - vault/Graph/Connections_355.md
+- [[Connections_356_2]] - document - vault/Graph/Connections_356.md
+- [[Connections_3993_1]] - document - vault/Graph/Connections_3993.md
+- [[Connections_3993_2]] - document - vault/Graph/Connections_3993.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,16 +26,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 6 edges to [[_COMMUNITY_Community 559]]
-- 3 edges to [[_COMMUNITY_Community 474]]
-- 3 edges to [[_COMMUNITY_Community 478]]
-- 2 edges to [[_COMMUNITY_Community 113]]
-- 2 edges to [[_COMMUNITY_Community 531]]
-- 2 edges to [[_COMMUNITY_Community 698]]
-- 2 edges to [[_COMMUNITY_Community 802]]
-- 2 edges to [[_COMMUNITY_Community 819]]
-- 1 edge to [[_COMMUNITY_Community 989]]
+- 4 edges to [[_COMMUNITY_Community 103]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 113]] - degree 23, connects to 9 communities
-- [[ArenaManager.acquire()_1_1]] - degree 6, connects to 2 communities
+- [[Connections_3993_1]] - degree 4, connects to 1 community
+- [[Connections_355_3]] - degree 4, connects to 1 community
+- [[Connections_356_2]] - degree 3, connects to 1 community

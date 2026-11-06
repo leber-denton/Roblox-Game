@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.capacity()_1.md"
+source_file: "vault/Graph/Connections_1524.md"
 type: "document"
-community: "Community 168"
+community: "Community 112"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_112
 ---
 
 # Connections
 
 ## Connections
-- [[commands.capacity()_3]] - `contains` [EXTRACTED]
+- [[Connections_2200]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_112

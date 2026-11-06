@@ -9,10 +9,10 @@ members: 5
 
 ## Members
 - [[CodeEventHUD]] - document - vault/Code/EventHUD.md
-- [[EventHUD]] - document - vault/Code/EventHUD.md
-- [[Functions_84]] - document - vault/Code/EventHUD.md
-- [[Required by_70]] - document - vault/Code/EventHUD.md
-- [[Requires_74]] - document - vault/Code/EventHUD.md
+- [[EventHUD_2]] - document - vault/Code/EventHUD.md
+- [[Functions_169]] - document - vault/Code/EventHUD.md
+- [[Required by_172]] - document - vault/Code/EventHUD.md
+- [[Requires_153]] - document - vault/Code/EventHUD.md
 
 ## Live Query (requires Dataview plugin)
 

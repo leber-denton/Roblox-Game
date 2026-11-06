@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/script_parent_rareeventservice_2.md"
+source_file: "vault/Graph/script_parent_rareeventservice_3.md"
 type: "document"
-community: "Community 292"
-location: "L12"
+community: "Community 577"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_577
 ---
 
-# script_parent_rareeventservice.md
+# script_parent_rareeventservice_3.md
 
 ## Connections
-- [[Connections_3631]] - `contains` [EXTRACTED]
-- [[script_parent_rareeventservice_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 292]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 577]] - `references` [EXTRACTED]
+- [[script_parent_rareeventservice_2]] - `references` [EXTRACTED]
+- [[script_parent_rareeventservice_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_577

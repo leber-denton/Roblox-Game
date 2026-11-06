@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/script_parent_gamedata_2.md"
+source_file: "vault/Graph/script_parent_gamedata_1.md"
 type: "document"
-community: "Community 42"
-location: "L1"
+community: "Community 2069"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_2069
 ---
 
-# script_parent_gamedata_2.md
+# script_parent_gamedata
 
 ## Connections
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
-- [[script_parent_gamedata_3]] - `references` [EXTRACTED]
-- [[script_parent_gamedata_2_1]] - `contains` [EXTRACTED]
+- [[Connections_12268]] - `contains` [EXTRACTED]
+- [[script_parent_gamedata_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_42
+#graphify/document #graphify/EXTRACTED #community/Community_2069

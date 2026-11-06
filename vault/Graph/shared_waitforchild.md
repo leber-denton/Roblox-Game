@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/shared_waitforchild_1.md"
+source_file: "vault/Graph/shared_waitforchild.md"
 type: "document"
-community: "Community 181"
-location: "L12"
+community: "Community 1325"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_181
+  - community/Community_1325
 ---
 
 # shared_waitforchild.md
 
 ## Connections
-- [[Connections_2662]] - `contains` [EXTRACTED]
-- [[shared_waitforchild_1]] - `contains` [EXTRACTED]
+- [[Connections_3846_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1303]] - `references` [EXTRACTED]
+- [[shared_waitforchild_5]] - `contains` [EXTRACTED]
+- [[shared_waitforchild_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_181
+#graphify/document #graphify/EXTRACTED #community/Community_1325

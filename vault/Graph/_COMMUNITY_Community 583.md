@@ -1,19 +1,31 @@
 ---
 type: community
-members: 6
+members: 18
 ---
 
 # Community 583
 
-**Members:** 6 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Connections_4722]] - document - vault/Graph/Connections_1039.md
-- [[Connections_4723]] - document - vault/Graph/Connections_1039.md
-- [[Connections_4724]] - document - vault/Graph/Connections_1040.md
-- [[Connections_4725]] - document - vault/Graph/Connections_1040.md
-- [[Connections_1039_1]] - document - vault/Graph/Connections_1039.md
-- [[Connections_1040_1]] - document - vault/Graph/Connections_1040.md
+- [[Community 62_4]] - document - vault/Graph/Community 62_2.md
+- [[Community 62_3]] - document - vault/Graph/Community 62_1.md
+- [[Community 62_1_1]] - document - vault/Graph/Community 62_1.md
+- [[Community 62_2_1]] - document - vault/Graph/Community 62_2.md
+- [[Connections_21069]] - document - vault/Graph/Community 62_1.md
+- [[Connections_21070]] - document - vault/Graph/Community 62_2.md
+- [[Connections_21071]] - document - vault/Graph/Connections_6401.md
+- [[Connections_21072]] - document - vault/Graph/Connections_6401.md
+- [[Connections_21073]] - document - vault/Graph/Connections_6402.md
+- [[Connections_21074]] - document - vault/Graph/Connections_6402.md
+- [[Connections_21075]] - document - vault/Graph/Live Query (requires Dataview plugin)_476.md
+- [[Connections_21076]] - document - vault/Graph/Live Query (requires Dataview plugin)_84_1.md
+- [[Connections_6401_1]] - document - vault/Graph/Connections_6401.md
+- [[Connections_6402_1]] - document - vault/Graph/Connections_6402.md
+- [[Live Query (requires Dataview plugin)_1658]] - document - vault/Graph/Live Query (requires Dataview plugin)_476.md
+- [[Live Query (requires Dataview plugin)_476_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_476.md
+- [[Live Query (requires Dataview plugin)_84_2]] - document - vault/Graph/Live Query (requires Dataview plugin)_84_1.md
+- [[Live Query (requires Dataview plugin)_84_1_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_84_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +35,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 134]]
+- 2 edges to [[_COMMUNITY_Community 1490]]
+- 1 edge to [[_COMMUNITY_Community 2011]]
+- 1 edge to [[_COMMUNITY_Community 486]]
 
 ## Top bridge nodes
-- [[Connections_1039_1]] - degree 3, connects to 1 community
-- [[Connections_1040_1]] - degree 3, connects to 1 community
+- [[Community 62_1_1]] - degree 6, connects to 3 communities
+- [[Live Query (requires Dataview plugin)_84_1_1]] - degree 4, connects to 1 community

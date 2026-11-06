@@ -1,24 +1,19 @@
 ---
-source_file: "vault/Graph/free().md"
+source_file: "vault/Graph/free()_4.md"
 type: "document"
-community: "Community 24"
+community: "Community 1384"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1384
 ---
 
-# free().md
+# free()_4.md
 
 ## Connections
-- [[StoryService.init()_4]] - `references` [EXTRACTED]
-- [[StoryService.luau_1]] - `references` [EXTRACTED]
-- [[StoryService.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
-- [[begin()_1]] - `references` [EXTRACTED]
-- [[check()_1_1]] - `references` [EXTRACTED]
-- [[free()_5]] - `contains` [EXTRACTED]
-- [[setupWorld()_1]] - `references` [EXTRACTED]
+- [[Connections_1699_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1137]] - `references` [EXTRACTED]
+- [[free()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1384

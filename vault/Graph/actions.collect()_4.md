@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/actions.collect().md"
+source_file: "vault/Graph/actions.collect()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2707"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2707
 ---
 
-# actions.collect()
+# actions.collect()_4.md
 
 ## Connections
-- [[Connections_5644]] - `contains` [EXTRACTED]
-- [[actions.collect()_3]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
+- [[actions.collect()_3]] - `references` [EXTRACTED]
+- [[actions.collect()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2707

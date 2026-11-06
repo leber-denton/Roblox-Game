@@ -12,7 +12,7 @@ tags:
 # trade.update()
 
 ## Connections
-- [[Menus.client.luau_4]] - `contains` [EXTRACTED]
-- [[render()_1]] - `calls` [EXTRACTED]
+- [[Menus.client.luau_8]] - `contains` [EXTRACTED]
+- [[render()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_418

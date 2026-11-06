@@ -12,7 +12,7 @@ tags:
 # render().md
 
 ## Connections
-- [[Music.client.luau_1]] - `references` [EXTRACTED]
+- [[Music.client.luau]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 1]] - `references` [EXTRACTED]
 - [[applyMute()_1]] - `references` [EXTRACTED]
 - [[render()_3]] - `contains` [EXTRACTED]

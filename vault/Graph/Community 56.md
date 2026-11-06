@@ -12,8 +12,7 @@ tags:
 # Community 56.md
 
 ## Connections
-- [[Community 56_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 129]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 56]] - `references` [EXTRACTED]
+- [[Community 56_5]] - `contains` [EXTRACTED]
+- [[Community 56_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_449

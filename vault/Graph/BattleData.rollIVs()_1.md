@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/BattleData.rollIVs()_1.md"
+source_file: "vault/Graph/BattleData.rollIVs()_4.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 1187"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1187
 ---
 
-# BattleData.rollIVs()_1.md
+# BattleData.rollIVs()
 
 ## Connections
-- [[BattleData.applyStars()_1]] - `references` [EXTRACTED]
-- [[BattleData.luau_1]] - `references` [EXTRACTED]
-- [[BattleData.rollIVs()_1_1]] - `contains` [EXTRACTED]
-- [[BattleData.rollIVs()_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[BattleData.rollIVs()_4]] - `contains` [EXTRACTED]
+- [[Connections_3303]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1187

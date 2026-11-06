@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/addTrail()_2.md"
+source_file: "vault/Graph/addTrail()_1.md"
 type: "document"
-community: "Community 168"
-location: "L1"
+community: "Community 1178"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1178
 ---
 
-# addTrail()_2.md
+# addTrail().md
 
 ## Connections
-- [[_COMMUNITY_Community 135]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
-- [[addTrail()_1]] - `references` [EXTRACTED]
-- [[addTrail()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_3115]] - `contains` [EXTRACTED]
+- [[addTrail()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1178

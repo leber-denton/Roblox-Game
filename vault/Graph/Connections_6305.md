@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Shapes.crystal()_2.md"
+source_file: "vault/Graph/stage()_4.md"
 type: "document"
-community: "Community 970"
+community: "Community 134"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_970
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Shapes.crystal()_2_2]] - `contains` [EXTRACTED]
+- [[stage()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_970
+#graphify/document #graphify/EXTRACTED #community/Community_134

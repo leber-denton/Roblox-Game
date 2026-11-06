@@ -13,11 +13,12 @@ tags:
 
 ## Connections
 - [[Functions_33]] - `references` [EXTRACTED]
-- [[GraphHavocBlimpFlight]] - `references` [EXTRACTED]
-- [[HavocBlimpFlight_1_3]] - `contains` [EXTRACTED]
+- [[GraphHavocBlimpFlight_1]] - `references` [EXTRACTED]
+- [[HavocBlimpFlight_1_6]] - `contains` [EXTRACTED]
 - [[HavocBlimpFlight_1_1]] - `references` [EXTRACTED]
+- [[HavocBlimpFlight_1_2]] - `references` [EXTRACTED]
+- [[HavocBlimpFlight_1_3]] - `references` [EXTRACTED]
 - [[Required by_33_1_1]] - `references` [EXTRACTED]
-- [[Requires_33_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 127]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 54]] - `references` [EXTRACTED]
 

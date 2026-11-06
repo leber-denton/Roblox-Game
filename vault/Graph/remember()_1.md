@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/remember()_1.md"
+source_file: "vault/Graph/remember()_1_1.md"
 type: "document"
-community: "Community 412"
-location: "L1"
+community: "Community 2788"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_412
+  - community/Community_2788
 ---
 
 # remember()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
+- [[Connections_15414]] - `contains` [EXTRACTED]
 - [[remember()_1_1]] - `contains` [EXTRACTED]
-- [[remember()_2]] - `references` [EXTRACTED]
-- [[syncHistory()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_412
+#graphify/document #graphify/EXTRACTED #community/Community_2788

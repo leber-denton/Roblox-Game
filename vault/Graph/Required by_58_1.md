@@ -1,21 +1,21 @@
 ---
-source_file: "vault/Graph/Required by_58.md"
+source_file: "vault/Graph/Required by_58_1.md"
 type: "document"
-community: "Community 514"
+community: "Community 1034"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_514
+  - community/Community_1034
 ---
 
-# Required by_58.md
+# Required by_58_1.md
 
 ## Connections
-- [[GraphTutorial]] - `references` [EXTRACTED]
-- [[Required by_3_2]] - `references` [EXTRACTED]
-- [[Required by_58_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
+- [[Required by_58]] - `contains` [EXTRACTED]
+- [[Required by_58_2]] - `references` [EXTRACTED]
+- [[Required by_83]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 192]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 215]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_514
+#graphify/document #graphify/EXTRACTED #community/Community_1034

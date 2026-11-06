@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[CodeCode Map_1]] - document - vault/Graph/CodeCode Map.md
-- [[CodeCode Map]] - document - vault/Graph/CodeCode Map.md
-- [[Connections_93]] - document - vault/Graph/CodeCode Map.md
-- [[Connections_94]] - document - vault/Graph/Connections_98.md
-- [[Connections_95]] - document - vault/Graph/Connections_98.md
-- [[Connections_98]] - document - vault/Graph/Connections_98.md
+- [[Connections_687]] - document - vault/Graph/Connections_94.md
+- [[Connections_688]] - document - vault/Graph/Connections_94.md
+- [[Connections_689]] - document - vault/Graph/Connections_95.md
+- [[Connections_690]] - document - vault/Graph/Connections_95.md
+- [[Connections_94_1]] - document - vault/Graph/Connections_94.md
+- [[Connections_95_1]] - document - vault/Graph/Connections_95.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +21,11 @@ members: 6
 TABLE source_file, type FROM #community/Community_1039
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Community 452]]
+- 1 edge to [[_COMMUNITY_Community 1011]]
+
+## Top bridge nodes
+- [[Connections_94_1]] - degree 4, connects to 2 communities
+- [[Connections_95_1]] - degree 3, connects to 1 community

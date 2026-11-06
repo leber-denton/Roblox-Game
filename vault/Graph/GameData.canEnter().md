@@ -12,7 +12,7 @@ tags:
 # GameData.canEnter()
 
 ## Connections
-- [[GameData.luau_3]] - `contains` [EXTRACTED]
+- [[GameData.luau]] - `contains` [EXTRACTED]
 - [[GameData.regionFor()]] - `calls` [EXTRACTED]
 - [[canAnyoneEnter()]] - `calls` [INFERRED]
 - [[canChallenge()]] - `calls` [INFERRED]

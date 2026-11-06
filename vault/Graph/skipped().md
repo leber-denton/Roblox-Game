@@ -12,7 +12,7 @@ tags:
 # skipped()
 
 ## Connections
-- [[LockedLanes.client.luau_3]] - `contains` [EXTRACTED]
+- [[LockedLanes.client.luau_7]] - `contains` [EXTRACTED]
 - [[consider()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_185

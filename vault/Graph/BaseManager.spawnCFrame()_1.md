@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[BaseManager.luau_1]] - `references` [EXTRACTED]
-- [[BaseManager.spawnCFrame()_1_1]] - `contains` [EXTRACTED]
+- [[BaseManager.spawnCFrame()_1_3]] - `contains` [EXTRACTED]
+- [[BaseManager.spawnCFrame()_1_1]] - `references` [EXTRACTED]
 - [[BaseManager.spawnCFrame()_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]

@@ -12,7 +12,7 @@ tags:
 # part()
 
 ## Connections
-- [[ArenaManager.luau_2]] - `contains` [EXTRACTED]
+- [[ArenaManager.luau_6]] - `contains` [EXTRACTED]
 - [[build()_1]] - `calls` [EXTRACTED]
 - [[disc()]] - `calls` [EXTRACTED]
 

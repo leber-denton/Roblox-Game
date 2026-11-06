@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Sfx.luau.md"
-type: "document"
-community: "Community 177"
+source_file: "src/StarterPlayer/StarterPlayerScripts/Sfx.luau"
+type: "code"
+community: "Community 185"
 location: "L1"
 tags:
-  - graphify/document
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Community_177
+  - community/Community_185
 ---
 
-# Sfx.luau.md
+# Sfx.luau
 
 ## Connections
-- [[Sfx.luau_1]] - `contains` [EXTRACTED]
-- [[Sfx.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
+- [[Sfx.play()]] - `contains` [EXTRACTED]
+- [[replicatedstorage_waitforchild_7]] - `imports` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_177
+#graphify/code #graphify/EXTRACTED #community/Community_185

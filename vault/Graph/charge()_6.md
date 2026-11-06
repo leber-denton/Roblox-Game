@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/charge().md"
+source_file: "vault/Graph/charge()_6.md"
 type: "document"
-community: "Community 21"
-location: "L12"
+community: "Community 18"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_18
 ---
 
-# charge()
+# charge()_6.md
 
 ## Connections
-- [[Connections_3055]] - `contains` [EXTRACTED]
-- [[charge()_5]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
+- [[charge()_8]] - `contains` [EXTRACTED]
+- [[charge()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_18

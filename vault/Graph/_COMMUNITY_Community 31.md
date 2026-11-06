@@ -1,59 +1,58 @@
 ---
 type: community
-members: 46
+members: 45
 ---
 
 # Community 31
 
-**Members:** 46 nodes
+**Members:** 45 nodes
 
 ## Members
-- [[BaseManager_3]] - document - vault/Graph/BaseManager_1.md
-- [[BaseManager_1]] - document - vault/Graph/BaseManager_1.md
-- [[BaseManager_1_2]] - document - vault/Graph/BaseManager_1_1.md
-- [[BaseManager_1_1]] - document - vault/Graph/BaseManager_1_1.md
-- [[BaseManager_2]] - document - vault/Graph/BaseManager_2.md
-- [[BaseManager_2_1]] - document - vault/Graph/BaseManager_2.md
-- [[Community 276]] - document - vault/Graph/_COMMUNITY_Community 276.md
-- [[Community 302]] - document - vault/Graph/_COMMUNITY_Community 302.md
-- [[Community 31_1]] - document - vault/Graph/Community 31.md
-- [[Community 31_2]] - document - vault/Graph/_COMMUNITY_Community 31.md
-- [[Community 31]] - document - vault/Graph/Community 31.md
-- [[Community 384]] - document - vault/Graph/_COMMUNITY_Community 384.md
-- [[Connections_3718]] - document - vault/Graph/BaseManager_1_1.md
-- [[Connections_3719]] - document - vault/Graph/BaseManager_1.md
-- [[Connections_3720]] - document - vault/Graph/BaseManager_2.md
-- [[Connections_3721]] - document - vault/Graph/Community 31.md
-- [[Connections_3722]] - document - vault/Graph/Functions_73.md
-- [[Connections_3723]] - document - vault/Graph/GraphBaseManager.md
-- [[Connections_3724]] - document - vault/Graph/Required by_78.md
-- [[Connections_3725]] - document - vault/Graph/Requires_75.md
-- [[Connections to other communities_240]] - document - vault/Graph/_COMMUNITY_Community 276.md
-- [[Connections to other communities_241]] - document - vault/Graph/_COMMUNITY_Community 302.md
-- [[Connections to other communities_242]] - document - vault/Graph/_COMMUNITY_Community 384.md
-- [[Functions_107]] - document - vault/Graph/Functions_73.md
-- [[Functions_73_1]] - document - vault/Graph/Functions_73.md
-- [[GraphBaseManager_1]] - document - vault/Graph/GraphBaseManager.md
-- [[GraphBaseManager]] - document - vault/Graph/GraphBaseManager.md
-- [[Live Query (requires Dataview plugin)_272]] - document - vault/Graph/_COMMUNITY_Community 276.md
-- [[Live Query (requires Dataview plugin)_273]] - document - vault/Graph/_COMMUNITY_Community 302.md
-- [[Live Query (requires Dataview plugin)_274]] - document - vault/Graph/_COMMUNITY_Community 31.md
-- [[Live Query (requires Dataview plugin)_275]] - document - vault/Graph/_COMMUNITY_Community 384.md
-- [[Members_276]] - document - vault/Graph/_COMMUNITY_Community 276.md
-- [[Members_277]] - document - vault/Graph/_COMMUNITY_Community 302.md
-- [[Members_278]] - document - vault/Graph/_COMMUNITY_Community 31.md
-- [[Members_279]] - document - vault/Graph/_COMMUNITY_Community 384.md
-- [[Required by_82]] - document - vault/Graph/Required by_78.md
-- [[Required by_78_1]] - document - vault/Graph/Required by_78.md
-- [[Requires_86]] - document - vault/Graph/Requires_75.md
-- [[Requires_75_1]] - document - vault/Graph/Requires_75.md
-- [[Top bridge nodes_246]] - document - vault/Graph/_COMMUNITY_Community 276.md
-- [[Top bridge nodes_247]] - document - vault/Graph/_COMMUNITY_Community 302.md
-- [[Top bridge nodes_248]] - document - vault/Graph/_COMMUNITY_Community 384.md
-- [[_COMMUNITY_Community 276]] - document - vault/Graph/_COMMUNITY_Community 276.md
-- [[_COMMUNITY_Community 302]] - document - vault/Graph/_COMMUNITY_Community 302.md
-- [[_COMMUNITY_Community 31]] - document - vault/Graph/_COMMUNITY_Community 31.md
-- [[_COMMUNITY_Community 384]] - document - vault/Graph/_COMMUNITY_Community 384.md
+- [[Community 1324]] - document - vault/Graph/_COMMUNITY_Community 1324.md
+- [[Connections_16286]] - document - vault/Graph/Connections_4123.md
+- [[Connections_16287]] - document - vault/Graph/Connections_4123.md
+- [[Connections_16288]] - document - vault/Graph/Connections_4124.md
+- [[Connections_16289]] - document - vault/Graph/Connections_4124.md
+- [[Connections_16290]] - document - vault/Graph/Connections_4125.md
+- [[Connections_16291]] - document - vault/Graph/Connections_4125.md
+- [[Connections_16292]] - document - vault/Graph/Connections_4126.md
+- [[Connections_16293]] - document - vault/Graph/Connections_4126.md
+- [[Connections_16294]] - document - vault/Graph/Connections_4127.md
+- [[Connections_16295]] - document - vault/Graph/Connections_4127.md
+- [[Connections_16296]] - document - vault/Graph/Connections_4128.md
+- [[Connections_16297]] - document - vault/Graph/Connections_4128.md
+- [[Connections_16298]] - document - vault/Graph/Connections_4129.md
+- [[Connections_16299]] - document - vault/Graph/Connections_4129.md
+- [[Connections_16300]] - document - vault/Graph/Connections_4130.md
+- [[Connections_16301]] - document - vault/Graph/Connections_4130.md
+- [[Connections_16302]] - document - vault/Graph/Connections_4131.md
+- [[Connections_16303]] - document - vault/Graph/Connections_4131.md
+- [[Connections_16304]] - document - vault/Graph/Connections_813_1.md
+- [[Connections_16305]] - document - vault/Graph/new()_17.md
+- [[Connections_16306]] - document - vault/Graph/new()_18_1.md
+- [[Connections_16307]] - document - vault/Graph/new()_27.md
+- [[Connections to other communities_1102]] - document - vault/Graph/_COMMUNITY_Community 1324.md
+- [[Connections_4123_1]] - document - vault/Graph/Connections_4123.md
+- [[Connections_4124_1]] - document - vault/Graph/Connections_4124.md
+- [[Connections_4125_1]] - document - vault/Graph/Connections_4125.md
+- [[Connections_4126_1]] - document - vault/Graph/Connections_4126.md
+- [[Connections_4127_1]] - document - vault/Graph/Connections_4127.md
+- [[Connections_4128_1]] - document - vault/Graph/Connections_4128.md
+- [[Connections_4129_1]] - document - vault/Graph/Connections_4129.md
+- [[Connections_4130_1]] - document - vault/Graph/Connections_4130.md
+- [[Connections_4131_1]] - document - vault/Graph/Connections_4131.md
+- [[Connections_813_1]] - document - vault/Graph/Connections_813_1.md
+- [[Connections_813_1_1]] - document - vault/Graph/Connections_813_1.md
+- [[Live Query (requires Dataview plugin)_1319]] - document - vault/Graph/_COMMUNITY_Community 1324.md
+- [[Members_1332]] - document - vault/Graph/_COMMUNITY_Community 1324.md
+- [[Top bridge nodes_1101]] - document - vault/Graph/_COMMUNITY_Community 1324.md
+- [[_COMMUNITY_Community 1324]] - document - vault/Graph/_COMMUNITY_Community 1324.md
+- [[new()_29]] - document - vault/Graph/new()_17.md
+- [[new()_17_1]] - document - vault/Graph/new()_17.md
+- [[new()_18_1_1]] - document - vault/Graph/new()_18_1.md
+- [[new()_18_1_2]] - document - vault/Graph/new()_18_1.md
+- [[new()_27_1]] - document - vault/Graph/new()_27.md
+- [[new()_27_2]] - document - vault/Graph/new()_27.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -63,15 +62,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 12]]
-- 2 edges to [[_COMMUNITY_Community 146]]
-- 2 edges to [[_COMMUNITY_Community 168]]
-- 1 edge to [[_COMMUNITY_Community 86]]
-- 1 edge to [[_COMMUNITY_Community 330]]
+- 3 edges to [[_COMMUNITY_Community 1050]]
+- 3 edges to [[_COMMUNITY_Community 122]]
+- 1 edge to [[_COMMUNITY_Community 803]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 302]] - degree 10, connects to 3 communities
-- [[_COMMUNITY_Community 276]] - degree 8, connects to 2 communities
-- [[GraphBaseManager]] - degree 3, connects to 1 community
-- [[Functions_73_1]] - degree 3, connects to 1 community
-- [[_COMMUNITY_Community 384]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 1324]] - degree 16, connects to 2 communities
+- [[new()_18_1_1]] - degree 6, connects to 2 communities
+- [[Connections_813_1]] - degree 5, connects to 2 communities
+- [[new()_27_1]] - degree 5, connects to 1 community

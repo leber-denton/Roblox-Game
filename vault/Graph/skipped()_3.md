@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/skipped()_1.md"
+source_file: "vault/Graph/skipped()_3.md"
 type: "document"
-community: "Community 631"
-location: "L12"
+community: "Community 441"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_631
+  - community/Community_441
 ---
 
-# skipped().md
+# skipped()_3.md
 
 ## Connections
-- [[Connections_4872]] - `contains` [EXTRACTED]
-- [[skipped()_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 441]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 631]] - `references` [EXTRACTED]
+- [[skipped()_1_1]] - `references` [EXTRACTED]
+- [[skipped()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_631
+#graphify/document #graphify/EXTRACTED #community/Community_441

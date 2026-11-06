@@ -1,19 +1,26 @@
 ---
 type: community
-members: 6
+members: 13
 ---
 
 # Community 532
 
-**Members:** 6 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Connections_4582]] - document - vault/Graph/Connections_406.md
-- [[Connections_4583]] - document - vault/Graph/Connections_406.md
-- [[Connections_4584]] - document - vault/Graph/Functions_1_1.md
-- [[Connections_406_1]] - document - vault/Graph/Connections_406.md
-- [[Functions_1_2]] - document - vault/Graph/Functions_1_1.md
+- [[Community 532]] - document - vault/Graph/_COMMUNITY_Community 532.md
+- [[Connections_20526]] - document - vault/Graph/Functions_1_1.md
+- [[Connections_20527]] - document - vault/Graph/Functions_1_2.md
+- [[Connections_20528]] - document - vault/Graph/Functions_1_3.md
+- [[Functions_1_4]] - document - vault/Graph/Functions_1_2.md
+- [[Functions_1_5]] - document - vault/Graph/Functions_1_3.md
 - [[Functions_1_1]] - document - vault/Graph/Functions_1_1.md
+- [[Functions_1_1_1]] - document - vault/Graph/Functions_1_1.md
+- [[Functions_1_2]] - document - vault/Graph/Functions_1_2.md
+- [[Functions_1_3]] - document - vault/Graph/Functions_1_3.md
+- [[Live Query (requires Dataview plugin)_1619]] - document - vault/Graph/_COMMUNITY_Community 532.md
+- [[Members_1620]] - document - vault/Graph/_COMMUNITY_Community 532.md
+- [[_COMMUNITY_Community 532]] - document - vault/Graph/_COMMUNITY_Community 532.md
 
 ## Live Query (requires Dataview plugin)
 

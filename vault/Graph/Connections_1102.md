@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/requestSave()_1.md"
+source_file: "vault/Graph/Top bridge nodes_43.md"
 type: "document"
-community: "Community 1203"
+community: "Community 1064"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1203
+  - community/Community_1064
 ---
 
 # Connections
 
 ## Connections
-- [[requestSave()_2]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_46]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1203
+#graphify/document #graphify/EXTRACTED #community/Community_1064

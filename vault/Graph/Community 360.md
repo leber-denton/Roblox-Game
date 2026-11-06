@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 360.md"
+source_file: "vault/Graph/Community 360.md"
 type: "document"
-community: "Community 360"
-location: "L6"
+community: "Community 387"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_360
+  - community/Community_387
 ---
 
-# Community 360
+# Community 360.md
 
 ## Connections
-- [[Connections to other communities_277]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_309]] - `contains` [EXTRACTED]
-- [[Members_313]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_282]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 360]] - `contains` [EXTRACTED]
+- [[Community 360_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 360]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_360
+#graphify/document #graphify/EXTRACTED #community/Community_387

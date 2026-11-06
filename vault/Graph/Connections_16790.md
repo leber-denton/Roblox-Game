@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/Connections_2570.md"
+type: "document"
+community: "Community 3267"
+location: "L14"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_3267
+---
+
+# Connections
+
+## Connections
+- [[Connections_16789]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_3267

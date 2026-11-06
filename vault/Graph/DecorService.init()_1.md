@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/DecorService.init()_1.md"
+source_file: "vault/Graph/DecorService.init()_5.md"
 type: "document"
-community: "Community 152"
-location: "L1"
+community: "Community 1187"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_152
+  - community/Community_1187
 ---
 
-# DecorService.init()_1.md
+# DecorService.init()
 
 ## Connections
-- [[DecorService.init()_3]] - `contains` [EXTRACTED]
-- [[DecorService.init()_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[Connections_3335]] - `contains` [EXTRACTED]
+- [[DecorService.init()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_152
+#graphify/document #graphify/EXTRACTED #community/Community_1187

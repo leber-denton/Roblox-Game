@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/DecorData.zRange().md"
+source_file: "vault/Graph/Connections_4371.md"
 type: "document"
-community: "Community 86"
-location: "L14"
+community: "Community 1331"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1331
 ---
 
 # Connections
 
 ## Connections
-- [[DecorData.zRange()_2]] - `contains` [EXTRACTED]
+- [[Connections_5743]] - `contains` [EXTRACTED]
+- [[Connections_4371_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1331

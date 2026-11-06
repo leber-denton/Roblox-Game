@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/banner()_2.md"
+source_file: "vault/Graph/CreatureLife_1_3.md"
 type: "document"
-community: "Community 476"
+community: "Community 124"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_476
+  - community/Community_124
 ---
 
 # Connections
 
 ## Connections
-- [[banner()_5]] - `contains` [EXTRACTED]
+- [[CreatureLife_1_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_476
+#graphify/document #graphify/EXTRACTED #community/Community_124

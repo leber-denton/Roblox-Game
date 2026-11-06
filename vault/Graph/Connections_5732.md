@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DecorData.dailyShop().md"
+source_file: "vault/Graph/Connections_1854.md"
 type: "document"
-community: "Community 86"
+community: "Community 1330"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1330
 ---
 
 # Connections
 
 ## Connections
-- [[DecorData.dailyShop()_4]] - `contains` [EXTRACTED]
+- [[Connections_5731]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1330

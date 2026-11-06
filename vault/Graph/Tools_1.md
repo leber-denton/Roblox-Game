@@ -13,7 +13,9 @@ tags:
 
 ## Connections
 - [[Roblox-Game_1]] - `references` [EXTRACTED]
-- [[Tools]] - `contains` [EXTRACTED]
+- [[Tools]] - `references` [EXTRACTED]
+- [[Tools_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 115]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 43]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_115

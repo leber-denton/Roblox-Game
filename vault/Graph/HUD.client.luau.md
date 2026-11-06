@@ -1,33 +1,18 @@
 ---
-source_file: "src/StarterPlayer/StarterPlayerScripts/HUD.client.luau"
-type: "code"
-community: "Community 214"
-location: "L1"
+source_file: "vault/Graph/HUD.client.luau_1.md"
+type: "document"
+community: "Community 103"
+location: "L12"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_214
+  - community/Community_103
 ---
 
 # HUD.client.luau
 
 ## Connections
-- [[fadeAndDestroy()]] - `contains` [EXTRACTED]
-- [[floatText()]] - `contains` [EXTRACTED]
-- [[go()]] - `contains` [EXTRACTED]
-- [[header()]] - `contains` [EXTRACTED]
-- [[onNotify()]] - `contains` [EXTRACTED]
-- [[pill()]] - `contains` [EXTRACTED]
-- [[refresh()_1]] - `contains` [EXTRACTED]
-- [[replicatedstorage_waitforchild_4]] - `imports` [EXTRACTED]
-- [[row()_1]] - `contains` [EXTRACTED]
-- [[script_parent_waitforchild_5]] - `imports` [EXTRACTED]
-- [[showAnnouncement()]] - `contains` [EXTRACTED]
-- [[topButton()]] - `contains` [EXTRACTED]
-- [[updateCoins()]] - `contains` [EXTRACTED]
-- [[updateLevel()]] - `contains` [EXTRACTED]
-- [[updateTeam()]] - `contains` [EXTRACTED]
-- [[updateTopBar()]] - `contains` [EXTRACTED]
-- [[updateWildShiftTimer()]] - `contains` [EXTRACTED]
+- [[Connections_442]] - `contains` [EXTRACTED]
+- [[HUD.client.luau_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_214
+#graphify/document #graphify/EXTRACTED #community/Community_103

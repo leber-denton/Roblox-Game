@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.removeCreature()_2.md"
+source_file: "vault/Graph/Members_271.md"
 type: "document"
-community: "Community 179"
+community: "Community 1147"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_179
+  - community/Community_1147
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.removeCreature()_2_1]] - `contains` [EXTRACTED]
+- [[Members_271_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_179
+#graphify/document #graphify/EXTRACTED #community/Community_1147

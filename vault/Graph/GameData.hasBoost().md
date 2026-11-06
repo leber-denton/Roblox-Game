@@ -1,19 +1,19 @@
 ---
 source_file: "src/ReplicatedStorage/Shared/GameData.luau"
 type: "code"
-community: "Community 15"
+community: "Community 11"
 location: "L1296"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_15
+  - community/Community_11
 ---
 
 # GameData.hasBoost()
 
 ## Connections
-- [[GameData.luau_3]] - `contains` [EXTRACTED]
+- [[GameData.luau]] - `contains` [EXTRACTED]
 - [[PlayerData.addBP()]] - `calls` [INFERRED]
 - [[PlayerData.addCoins()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Community_15
+#graphify/code #graphify/INFERRED #community/Community_11

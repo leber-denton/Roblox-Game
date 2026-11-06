@@ -1,23 +1,18 @@
 ---
-source_file: "vault/Graph/finite()_4.md"
+source_file: "vault/Graph/finite()_8.md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 1416"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1416
 ---
 
-# finite()_4.md
+# finite()
 
 ## Connections
-- [[BaseManager.luau_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
-- [[finite()_3]] - `references` [EXTRACTED]
-- [[finite()_4_1]] - `contains` [EXTRACTED]
-- [[finite()_5]] - `references` [EXTRACTED]
+- [[Connections_7221]] - `contains` [EXTRACTED]
+- [[finite()_8]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1416

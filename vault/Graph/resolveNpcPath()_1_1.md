@@ -1,22 +1,17 @@
 ---
-source_file: "vault/Graph/resolveNpcPath()_1.md"
+source_file: "vault/Graph/resolveNpcPath()_1_1.md"
 type: "document"
-community: "Community 117"
+community: "Community 3163"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_3163
 ---
 
-# resolveNpcPath()_1.md
+# resolveNpcPath()_1_1.md
 
 ## Connections
-- [[ModelSync.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 112]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 8]] - `references` [EXTRACTED]
-- [[findTargets()_1_1]] - `references` [EXTRACTED]
-- [[resolveNpcPath()_3]] - `contains` [EXTRACTED]
-- [[resolveNpcPath()_2_1]] - `references` [EXTRACTED]
+- [[resolveNpcPath()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_3163

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.movesAt()_2.md"
+source_file: "vault/Graph/applyMute()_3.md"
 type: "document"
-community: "Community 1025"
+community: "Community 1007"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1025
+  - community/Community_1007
 ---
 
 # Connections
 
 ## Connections
-- [[BattleData.movesAt()_3]] - `contains` [EXTRACTED]
+- [[applyMute()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1025
+#graphify/document #graphify/EXTRACTED #community/Community_1007

@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/recordIndex().md"
+source_file: "vault/Graph/recordIndex()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 3139"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3139
 ---
 
-# recordIndex().md
+# recordIndex()_3.md
 
 ## Connections
-- [[BaseManager.addCreature()_3]] - `references` [EXTRACTED]
-- [[BaseManager.evolve()_3]] - `references` [EXTRACTED]
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[recordIndex()_4]] - `contains` [EXTRACTED]
+- [[recordIndex()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3139

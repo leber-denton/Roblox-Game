@@ -1,22 +1,55 @@
 ---
 type: community
-members: 9
+members: 42
 ---
 
 # Community 478
 
-**Members:** 9 nodes
+**Members:** 42 nodes
 
 ## Members
-- [[Community 44_2]] - document - vault/Graph/Community 44.md
-- [[Community 44_1]] - document - vault/Graph/Community 44.md
-- [[Connections_4375]] - document - vault/Graph/Community 44.md
-- [[Connections_4376]] - document - vault/Graph/Live Query (requires Dataview plugin)_2.md
-- [[Connections_4377]] - document - vault/Graph/Members_1.md
-- [[Live Query (requires Dataview plugin)_379]] - document - vault/Graph/Live Query (requires Dataview plugin)_2.md
-- [[Live Query (requires Dataview plugin)_2_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_2.md
-- [[Members_381]] - document - vault/Graph/Members_1.md
-- [[Members_1_1]] - document - vault/Graph/Members_1.md
+- [[Community 1000]] - document - vault/Graph/_COMMUNITY_Community 1000.md
+- [[Connections_19704]] - document - vault/Graph/Connections_14_1.md
+- [[Connections_19705]] - document - vault/Graph/Connections_23.md
+- [[Connections_19706]] - document - vault/Graph/Connections_23.md
+- [[Connections_19707]] - document - vault/Graph/Connections_24.md
+- [[Connections_19708]] - document - vault/Graph/Connections_24.md
+- [[Connections_19709]] - document - vault/Graph/Connections_25.md
+- [[Connections_19710]] - document - vault/Graph/Connections_25.md
+- [[Connections_19711]] - document - vault/Graph/Connections_26.md
+- [[Connections_19712]] - document - vault/Graph/Connections_26.md
+- [[Connections_19713]] - document - vault/Graph/Connections to other communities_1.md
+- [[Connections_19714]] - document - vault/Graph/GraphNPCAnimator_1.md
+- [[Connections_19715]] - document - vault/Graph/GraphNPCAnimator_2.md
+- [[Connections_19716]] - document - vault/Graph/GraphNPCAnimator.md
+- [[Connections_19717]] - document - vault/Graph/Live Query (requires Dataview plugin)_1.md
+- [[Connections_19718]] - document - vault/Graph/Members_1.md
+- [[Connections_19719]] - document - vault/Graph/Top bridge nodes_1.md
+- [[Connections to other communities_1336]] - document - vault/Graph/_COMMUNITY_Community 1000.md
+- [[Connections to other communities_1337]] - document - vault/Graph/Connections to other communities_1.md
+- [[Connections to other communities_1_3]] - document - vault/Graph/Connections to other communities_1.md
+- [[Connections_14_2]] - document - vault/Graph/Connections_14_1.md
+- [[Connections_14_1_1]] - document - vault/Graph/Connections_14_1.md
+- [[Connections_23_2]] - document - vault/Graph/Connections_23.md
+- [[Connections_24_3]] - document - vault/Graph/Connections_24.md
+- [[Connections_25_3]] - document - vault/Graph/Connections_25.md
+- [[Connections_26_3]] - document - vault/Graph/Connections_26.md
+- [[GraphNPCAnimator_1]] - document - vault/Graph/GraphNPCAnimator.md
+- [[GraphNPCAnimator_3]] - document - vault/Graph/GraphNPCAnimator_2.md
+- [[GraphNPCAnimator_4]] - document - vault/Graph/GraphNPCAnimator.md
+- [[GraphNPCAnimator_1_1]] - document - vault/Graph/GraphNPCAnimator_1.md
+- [[GraphNPCAnimator_1_2]] - document - vault/Graph/GraphNPCAnimator_1.md
+- [[GraphNPCAnimator_2]] - document - vault/Graph/GraphNPCAnimator_2.md
+- [[Live Query (requires Dataview plugin)_1569]] - document - vault/Graph/_COMMUNITY_Community 1000.md
+- [[Live Query (requires Dataview plugin)_1570]] - document - vault/Graph/Live Query (requires Dataview plugin)_1.md
+- [[Live Query (requires Dataview plugin)_1_2]] - document - vault/Graph/Live Query (requires Dataview plugin)_1.md
+- [[Members_1571]] - document - vault/Graph/_COMMUNITY_Community 1000.md
+- [[Members_1572]] - document - vault/Graph/Members_1.md
+- [[Members_1_3]] - document - vault/Graph/Members_1.md
+- [[Top bridge nodes_1335]] - document - vault/Graph/_COMMUNITY_Community 1000.md
+- [[Top bridge nodes_1336]] - document - vault/Graph/Top bridge nodes_1.md
+- [[Top bridge nodes_1_2]] - document - vault/Graph/Top bridge nodes_1.md
+- [[_COMMUNITY_Community 1000]] - document - vault/Graph/_COMMUNITY_Community 1000.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,10 +59,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 549]]
-- 1 edge to [[_COMMUNITY_Community 113]]
+- 5 edges to [[_COMMUNITY_Community 856]]
 
 ## Top bridge nodes
-- [[Community 44_1]] - degree 5, connects to 2 communities
-- [[Members_1_1]] - degree 3, connects to 1 community
-- [[Live Query (requires Dataview plugin)_2_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 1000]] - degree 16, connects to 1 community
+- [[GraphNPCAnimator_1]] - degree 5, connects to 1 community

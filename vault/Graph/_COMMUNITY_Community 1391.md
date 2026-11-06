@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1391
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[CodeBattleFX]] - document - vault/Graph/CodeBattleFX.md
-- [[Connections_1718]] - document - vault/Graph/CodeBattleFX.md
+- [[Connections_6949]] - document - vault/Graph/Connections_2352.md
+- [[Connections_6950]] - document - vault/Graph/Connections_2352.md
+- [[Connections_6951]] - document - vault/Graph/Top bridge nodes_168.md
+- [[Connections_6952]] - document - vault/Graph/Top bridge nodes_47_1.md
+- [[Connections_2352_1]] - document - vault/Graph/Connections_2352.md
+- [[Top bridge nodes_384]] - document - vault/Graph/Top bridge nodes_168.md
+- [[Top bridge nodes_168_1]] - document - vault/Graph/Top bridge nodes_168.md
+- [[Top bridge nodes_47_2]] - document - vault/Graph/Top bridge nodes_47_1.md
+- [[Top bridge nodes_47_1]] - document - vault/Graph/Top bridge nodes_47_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 162]]
+- 3 edges to [[_COMMUNITY_Community 373]]
+- 1 edge to [[_COMMUNITY_Community 1195]]
 
 ## Top bridge nodes
-- [[CodeBattleFX]] - degree 2, connects to 1 community
+- [[Top bridge nodes_47_1]] - degree 4, connects to 2 communities
+- [[Top bridge nodes_168_1]] - degree 4, connects to 1 community
+- [[Connections_2352_1]] - degree 3, connects to 1 community

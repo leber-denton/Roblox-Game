@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Graph/galleryTrainers()_2.md"
+source_file: "vault/Graph/galleryTrainers()_2_1.md"
 type: "document"
-community: "Community 189"
+community: "Community 352"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_189
+  - community/Community_352
 ---
 
-# galleryTrainers()_2.md
+# galleryTrainers()_2_1.md
 
 ## Connections
-- [[Connections_1085_1]] - `references` [EXTRACTED]
+- [[Connections_1085_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1251]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 136]] - `references` [EXTRACTED]
-- [[galleryTrainers()_4]] - `contains` [EXTRACTED]
-- [[galleryTrainers()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 189]] - `references` [EXTRACTED]
+- [[galleryTrainers()_2_2]] - `references` [EXTRACTED]
+- [[galleryTrainers()_2_1_1]] - `contains` [EXTRACTED]
+- [[galleryTrainers()_4_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_189
+#graphify/document #graphify/EXTRACTED #community/Community_352

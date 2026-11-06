@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ServerScriptService_2.md"
+source_file: "vault/Graph/Connections_1327.md"
 type: "document"
-community: "Community 1350"
+community: "Community 1096"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1350
+  - community/Community_1096
 ---
 
 # Connections
 
 ## Connections
-- [[ServerScriptService_2_1]] - `contains` [EXTRACTED]
+- [[Connections_1589]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1350
+#graphify/document #graphify/EXTRACTED #community/Community_1096

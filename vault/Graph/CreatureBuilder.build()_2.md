@@ -12,7 +12,7 @@ tags:
 # CreatureBuilder.build()_2.md
 
 ## Connections
-- [[Connections_1094_1]] - `references` [EXTRACTED]
+- [[Connections_5162_1]] - `references` [EXTRACTED]
 - [[CreatureBuilder.build()_4]] - `contains` [EXTRACTED]
 - [[CreatureBuilder.build()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]

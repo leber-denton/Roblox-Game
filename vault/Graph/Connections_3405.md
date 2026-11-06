@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/preview()_5.md"
+source_file: "vault/Graph/commands.juniper()_1.md"
 type: "document"
-community: "Community 240"
+community: "Community 1188"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1188
 ---
 
 # Connections
 
 ## Connections
-- [[preview()_9]] - `contains` [EXTRACTED]
+- [[commands.juniper()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1188

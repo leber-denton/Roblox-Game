@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/nameHits()_1.md"
+source_file: "vault/Graph/nameHits().md"
 type: "document"
 community: "Community 117"
 location: "L12"
@@ -9,10 +9,10 @@ tags:
   - community/Community_117
 ---
 
-# nameHits().md
+# nameHits()
 
 ## Connections
-- [[Connections_528]] - `contains` [EXTRACTED]
-- [[nameHits()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2971]] - `contains` [EXTRACTED]
+- [[nameHits()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_117

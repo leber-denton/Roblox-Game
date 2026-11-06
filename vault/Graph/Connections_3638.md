@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/WeeklyEventService.init()_1.md"
+source_file: "vault/Graph/applyState().md"
 type: "document"
-community: "Community 292"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_292
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[WeeklyEventService.init()_1_2]] - `contains` [EXTRACTED]
+- [[applyState()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_292
+#graphify/document #graphify/EXTRACTED #community/Community_120

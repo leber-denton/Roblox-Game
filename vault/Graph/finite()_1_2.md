@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/finite()_1.md"
+source_file: "vault/Graph/finite()_1_2.md"
 type: "document"
-community: "Community 86"
+community: "Community 3003"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_3003
 ---
 
-# finite()_1.md
+# finite()_1_2.md
 
 ## Connections
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[BaseManager.restore()_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
-- [[finite()_11]] - `contains` [EXTRACTED]
+- [[finite()_1_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_3003

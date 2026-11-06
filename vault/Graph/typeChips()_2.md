@@ -12,7 +12,7 @@ tags:
 # typeChips()
 
 ## Connections
-- [[Connections_156]] - `contains` [EXTRACTED]
+- [[Connections_948]] - `contains` [EXTRACTED]
 - [[typeChips()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_106

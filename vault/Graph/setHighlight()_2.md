@@ -12,7 +12,7 @@ tags:
 # setHighlight()
 
 ## Connections
-- [[Connections_212]] - `contains` [EXTRACTED]
+- [[Connections_1465]] - `contains` [EXTRACTED]
 - [[setHighlight()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_109

@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/GraphPlayerData.md"
+source_file: "vault/Graph/GraphPlayerData_1.md"
 type: "document"
-community: "Community 453"
+community: "Community 160"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_453
+  - community/Community_160
 ---
 
-# GraphPlayerData.md
+# GraphPlayerData_1.md
 
 ## Connections
-- [[GraphPlayerData_2]] - `contains` [EXTRACTED]
-- [[PlayerData_1]] - `references` [EXTRACTED]
+- [[GraphPlayerData_4]] - `contains` [EXTRACTED]
+- [[GraphPlayerData_3]] - `references` [EXTRACTED]
+- [[GraphPlayerData]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 160]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_453
+#graphify/document #graphify/EXTRACTED #community/Community_160

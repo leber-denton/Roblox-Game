@@ -1,15 +1,22 @@
 ---
 type: community
-members: 2
+members: 9
 ---
 
 # Community 1462
 
-**Members:** 2 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_1923]] - document - vault/Graph/script_parent_weeklyeventservice_2.md
-- [[script_parent_weeklyeventservice_2]] - document - vault/Graph/script_parent_weeklyeventservice_2.md
+- [[Connections_7708]] - document - vault/Graph/Connections_2873.md
+- [[Connections_7709]] - document - vault/Graph/Connections_2873.md
+- [[Connections_7710]] - document - vault/Graph/Connections_2874.md
+- [[Connections_7711]] - document - vault/Graph/Connections_2874.md
+- [[Connections_7712]] - document - vault/Graph/Connections_574_1.md
+- [[Connections_2873_1]] - document - vault/Graph/Connections_2873.md
+- [[Connections_2874_1]] - document - vault/Graph/Connections_2874.md
+- [[Connections_574_2]] - document - vault/Graph/Connections_574_1.md
+- [[Connections_574_1]] - document - vault/Graph/Connections_574_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 3 edges to [[_COMMUNITY_Community 1222]]
+- 1 edge to [[_COMMUNITY_Community 118]]
 
 ## Top bridge nodes
-- [[script_parent_weeklyeventservice_2]] - degree 2, connects to 1 community
+- [[Connections_574_1]] - degree 4, connects to 2 communities
+- [[Connections_2873_1]] - degree 4, connects to 1 community
+- [[Connections_2874_1]] - degree 3, connects to 1 community

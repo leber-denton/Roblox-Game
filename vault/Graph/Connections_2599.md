@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Sprint.client.luau_1.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_197.md"
 type: "document"
-community: "Community 178"
+community: "Community 1147"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_178
+  - community/Community_1147
 ---
 
 # Connections
 
 ## Connections
-- [[Sprint.client.luau_1_1]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_239]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_178
+#graphify/document #graphify/EXTRACTED #community/Community_1147

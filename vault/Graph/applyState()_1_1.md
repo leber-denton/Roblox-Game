@@ -12,7 +12,7 @@ tags:
 # applyState()_1.md
 
 ## Connections
-- [[Connections_24]] - `contains` [EXTRACTED]
+- [[Connections_142]] - `contains` [EXTRACTED]
 - [[applyState()_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_101

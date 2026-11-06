@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/fakePlayerGetAttributeChangedSignal()_2.md"
+source_file: "vault/Graph/What you need to do before it makes money_2.md"
 type: "document"
-community: "Community 1265"
+community: "Community 108"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1265
+  - community/Community_108
 ---
 
 # Connections
 
 ## Connections
-- [[fakePlayerGetAttributeChangedSignal()_1]] - `contains` [EXTRACTED]
+- [[What you need to do before it makes money_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1265
+#graphify/document #graphify/EXTRACTED #community/Community_108

@@ -1,19 +1,24 @@
 ---
-source_file: "vault/Graph/Required by_47_1.md"
+source_file: "vault/Graph/Required by_47_1_1.md"
 type: "document"
-community: "Community 343"
+community: "Community 239"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_343
+  - community/Community_239
 ---
 
-# Required by_47_1.md
+# Required by_47_1_1.md
 
 ## Connections
-- [[Required by_47_2]] - `contains` [EXTRACTED]
-- [[Required by_47_1]] - `references` [EXTRACTED]
+- [[ModelSyncLookup_1_1]] - `references` [EXTRACTED]
+- [[Required by_26_1_1]] - `references` [EXTRACTED]
+- [[Required by_47_1_2]] - `contains` [EXTRACTED]
+- [[Required by_47_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 158]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 239]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 343]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 70]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_343
+#graphify/document #graphify/EXTRACTED #community/Community_239

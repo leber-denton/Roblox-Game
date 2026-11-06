@@ -16,7 +16,8 @@ tags:
 - [[_COMMUNITY_Community 170]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
 - [[rebuildBar()_1]] - `references` [EXTRACTED]
-- [[startPicking()_1_1]] - `contains` [EXTRACTED]
+- [[startPicking()_1_3]] - `contains` [EXTRACTED]
+- [[startPicking()_1_1]] - `references` [EXTRACTED]
 - [[startPicking()_2]] - `references` [EXTRACTED]
 - [[stopBuild()_1]] - `references` [EXTRACTED]
 

@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.maxXP().md"
+source_file: "vault/Graph/BattleData.maxXP()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2767"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2767
 ---
 
-# BattleData.maxXP()
+# BattleData.maxXP()_4.md
 
 ## Connections
-- [[BattleData.maxXP()_3]] - `contains` [EXTRACTED]
-- [[Connections_5689]] - `contains` [EXTRACTED]
+- [[BattleData.maxXP()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2767

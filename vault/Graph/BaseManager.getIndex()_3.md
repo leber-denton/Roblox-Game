@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.getIndex().md"
+source_file: "vault/Graph/BaseManager.getIndex()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2733"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2733
 ---
 
-# BaseManager.getIndex().md
+# BaseManager.getIndex()_3.md
 
 ## Connections
 - [[BaseManager.getIndex()_4]] - `contains` [EXTRACTED]
-- [[BaseManager.luau_3]] - `references` [EXTRACTED]
-- [[ProgressService.onJoin()_3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 11]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2733

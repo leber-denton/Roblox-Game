@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[GameData.BaseTraining.levelCap()]] - `calls` [EXTRACTED]
-- [[GameData.luau_3]] - `contains` [EXTRACTED]
+- [[GameData.luau]] - `contains` [EXTRACTED]
 - [[refresh()_1]] - `calls` [INFERRED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_15

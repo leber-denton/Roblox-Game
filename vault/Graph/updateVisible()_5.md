@@ -12,7 +12,7 @@ tags:
 # updateVisible()
 
 ## Connections
-- [[Connections_12]] - `contains` [EXTRACTED]
+- [[Connections_53]] - `contains` [EXTRACTED]
 - [[updateVisible()_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_100

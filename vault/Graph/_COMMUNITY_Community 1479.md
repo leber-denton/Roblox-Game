@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Connections_1945]] - document - vault/Graph/tickQueue()_2.md
-- [[tickQueue()_2]] - document - vault/Graph/tickQueue()_2.md
+- [[Connections_7892]] - document - vault/Graph/tickQueue()_2.md
+- [[tickQueue()_3]] - document - vault/Graph/tickQueue()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,4 +22,4 @@ SORT file.name ASC
 - 1 edge to [[_COMMUNITY_Community 97]]
 
 ## Top bridge nodes
-- [[tickQueue()_2]] - degree 2, connects to 1 community
+- [[tickQueue()_3]] - degree 2, connects to 1 community

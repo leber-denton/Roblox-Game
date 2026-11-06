@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/script_parent_battleservice_1.md"
+source_file: "vault/Graph/Connections_1642.md"
 type: "document"
-community: "Community 168"
-location: "L14"
+community: "Community 1130"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1130
 ---
 
 # Connections
 
 ## Connections
-- [[script_parent_battleservice_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2407]] - `contains` [EXTRACTED]
+- [[Connections_1642_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1130

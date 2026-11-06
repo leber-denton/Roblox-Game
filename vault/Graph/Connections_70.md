@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleData.movesAt()_1.md"
+source_file: "vault/Graph/DecorData.describe()_2_2.md"
 type: "document"
-community: "Community 1024"
+community: "Community 1003"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1024
+  - community/Community_1003
 ---
 
 # Connections
 
 ## Connections
-- [[BattleData.movesAt()_2]] - `contains` [EXTRACTED]
+- [[DecorData.describe()_2_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1024
+#graphify/document #graphify/EXTRACTED #community/Community_1003

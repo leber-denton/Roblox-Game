@@ -18,6 +18,7 @@ tags:
 - [[CodeNPC]] - `references` [EXTRACTED]
 - [[CodePlayerData]] - `references` [EXTRACTED]
 - [[CodeRouteTrainerService_1]] - `contains` [EXTRACTED]
+- [[CodeRouteTrainerService_1_1]] - `references` [EXTRACTED]
 - [[CodeTutorialService]] - `references` [EXTRACTED]
 - [[RouteTrainerService_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]

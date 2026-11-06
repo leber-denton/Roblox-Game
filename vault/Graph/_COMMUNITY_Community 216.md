@@ -9,10 +9,10 @@ members: 5
 
 ## Members
 - [[Community 88]] - document - vault/Graph/_COMMUNITY_Community 88.md
-- [[Connections to other communities_173]] - document - vault/Graph/_COMMUNITY_Community 88.md
-- [[Live Query (requires Dataview plugin)_184]] - document - vault/Graph/_COMMUNITY_Community 88.md
-- [[Members_187]] - document - vault/Graph/_COMMUNITY_Community 88.md
-- [[Top bridge nodes_179]] - document - vault/Graph/_COMMUNITY_Community 88.md
+- [[Connections to other communities_728]] - document - vault/Graph/_COMMUNITY_Community 88.md
+- [[Live Query (requires Dataview plugin)_912]] - document - vault/Graph/_COMMUNITY_Community 88.md
+- [[Members_930]] - document - vault/Graph/_COMMUNITY_Community 88.md
+- [[Top bridge nodes_727]] - document - vault/Graph/_COMMUNITY_Community 88.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 88]]
+- 1 edge to [[_COMMUNITY_Community 297]]
 
 ## Top bridge nodes
 - [[Community 88]] - degree 5, connects to 1 community

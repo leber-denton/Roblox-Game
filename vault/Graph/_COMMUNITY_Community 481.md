@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_4385]] - document - vault/Graph/Connections_219.md
-- [[Connections_4386]] - document - vault/Graph/Connections_219.md
-- [[Connections_4387]] - document - vault/Graph/Connections_220.md
-- [[Connections_4388]] - document - vault/Graph/Connections_220.md
-- [[Connections_219_1]] - document - vault/Graph/Connections_219.md
-- [[Connections_220_1]] - document - vault/Graph/Connections_220.md
+- [[BattleData.bestStats()_3]] - document - vault/Graph/BattleData.bestStats()_4.md
+- [[BattleData.bestStats()_1_1]] - document - vault/Graph/BattleData.bestStats()_1.md
+- [[BattleData.bestStats()_1_2]] - document - vault/Graph/BattleData.bestStats()_1.md
+- [[BattleData.bestStats()_4]] - document - vault/Graph/BattleData.bestStats()_4.md
+- [[Connections_19755]] - document - vault/Graph/BattleData.bestStats()_1.md
+- [[Connections_19756]] - document - vault/Graph/BattleData.bestStats()_4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +21,9 @@ members: 6
 TABLE source_file, type FROM #community/Community_481
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Community 1187]]
+
+## Top bridge nodes
+- [[BattleData.bestStats()_4]] - degree 3, connects to 1 community

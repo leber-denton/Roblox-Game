@@ -12,6 +12,6 @@ tags:
 # TrainerAnimations.new()
 
 ## Connections
-- [[TrainerAnimations.luau_2]] - `contains` [EXTRACTED]
+- [[TrainerAnimations.luau_6]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_48

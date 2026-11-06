@@ -12,6 +12,6 @@ tags:
 # topButton()
 
 ## Connections
-- [[HUD.client.luau]] - `contains` [EXTRACTED]
+- [[HUD.client.luau_5]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_214

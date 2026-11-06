@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Community 1379
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Connections_1667]] - document - vault/Graph/arenaPart()_1.md
-- [[arenaPart()_1]] - document - vault/Graph/arenaPart()_1.md
+- [[Connections_6735]] - document - vault/Graph/Connections_1667.md
+- [[Connections_6736]] - document - vault/Graph/Connections_1667.md
+- [[Connections_1667_1]] - document - vault/Graph/Connections_1667.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 1 edge to [[_COMMUNITY_Community 1967]]
 
 ## Top bridge nodes
-- [[arenaPart()_1]] - degree 2, connects to 1 community
+- [[Connections_1667_1]] - degree 2, connects to 1 community

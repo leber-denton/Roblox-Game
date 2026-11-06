@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/json_2.md"
+source_file: "vault/Graph/json_3.md"
 type: "document"
-community: "Community 582"
-location: "L12"
+community: "Community 1111"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_582
+  - community/Community_1111
 ---
 
-# json.md
+# json_3.md
 
 ## Connections
-- [[Connections_4720]] - `contains` [EXTRACTED]
-- [[json_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 582]] - `references` [EXTRACTED]
+- [[json_6]] - `contains` [EXTRACTED]
+- [[json_2]] - `references` [EXTRACTED]
+- [[json_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_582
+#graphify/document #graphify/EXTRACTED #community/Community_1111

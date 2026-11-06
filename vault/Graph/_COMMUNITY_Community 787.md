@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_5397]] - document - vault/Graph/atBadge()_2.md
-- [[Connections_5398]] - document - vault/Graph/count()_2.md
-- [[atBadge()_5]] - document - vault/Graph/atBadge()_2.md
-- [[atBadge()_2_1]] - document - vault/Graph/atBadge()_2.md
-- [[count()_4]] - document - vault/Graph/count()_2.md
-- [[count()_2_1]] - document - vault/Graph/count()_2.md
+- [[Connections_22723]] - document - vault/Graph/Connections_1171.md
+- [[Connections_22724]] - document - vault/Graph/Connections_1171.md
+- [[Connections_22725]] - document - vault/Graph/count()_2.md
+- [[Connections_1171_3]] - document - vault/Graph/Connections_1171.md
+- [[count()_2_2]] - document - vault/Graph/count()_2.md
+- [[count()_2_3]] - document - vault/Graph/count()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,8 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 24]]
+- 3 edges to [[_COMMUNITY_Community 1075]]
 
 ## Top bridge nodes
-- [[atBadge()_2_1]] - degree 3, connects to 1 community
-- [[count()_2_1]] - degree 3, connects to 1 community
+- [[count()_2_2]] - degree 4, connects to 1 community
+- [[Connections_1171_3]] - degree 3, connects to 1 community

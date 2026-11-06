@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Code/ProgressService.md"
+source_file: "vault/Graph/ProgressService_2.md"
 type: "document"
-community: "Community 11"
-location: "L1"
+community: "Community 1056"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_11
+  - community/Community_1056
 ---
 
 # ProgressService
 
 ## Connections
-- [[CodeProgressService_2]] - `contains` [EXTRACTED]
-- [[Functions_5]] - `contains` [EXTRACTED]
-- [[Required by_5]] - `contains` [EXTRACTED]
-- [[Requires_5]] - `contains` [EXTRACTED]
+- [[Connections_929]] - `contains` [EXTRACTED]
+- [[ProgressService_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_11
+#graphify/document #graphify/EXTRACTED #community/Community_1056

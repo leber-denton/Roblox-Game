@@ -12,7 +12,8 @@ tags:
 # atBadge()_1.md
 
 ## Connections
-- [[Connections_65]] - `references` [EXTRACTED]
-- [[atBadge()_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1015]] - `references` [EXTRACTED]
+- [[atBadge()_1_1]] - `contains` [EXTRACTED]
+- [[atBadge()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1015

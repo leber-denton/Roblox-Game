@@ -1,24 +1,18 @@
 ---
-source_file: "vault/Graph/shared_waitforchild_2.md"
+source_file: "vault/Graph/shared_waitforchild_1.md"
 type: "document"
-community: "Community 240"
-location: "L1"
+community: "Community 1325"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_240
+  - community/Community_1325
 ---
 
-# shared_waitforchild_2.md
+# shared_waitforchild
 
 ## Connections
-- [[BattleUI.client.luau_2]] - `references` [EXTRACTED]
-- [[CreatureIndex.client.luau_2]] - `references` [EXTRACTED]
-- [[Menus.client.luau_2_1]] - `references` [EXTRACTED]
-- [[Tutorial.client.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[shared_waitforchild_3]] - `references` [EXTRACTED]
-- [[shared_waitforchild_2_1]] - `contains` [EXTRACTED]
+- [[Connections_5676]] - `contains` [EXTRACTED]
+- [[shared_waitforchild_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_240
+#graphify/document #graphify/EXTRACTED #community/Community_1325

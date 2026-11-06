@@ -12,7 +12,7 @@ tags:
 # typeChips()_2.md
 
 ## Connections
-- [[Connections_158_1]] - `references` [EXTRACTED]
+- [[Connections_1037_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
 - [[typeChips()_4]] - `contains` [EXTRACTED]
 - [[typeChips()_1_1]] - `references` [EXTRACTED]

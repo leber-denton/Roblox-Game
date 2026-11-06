@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/setupActivities().md"
+source_file: "vault/Graph/Connections_6139.md"
 type: "document"
-community: "Community 642"
+community: "Community 1276"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_642
+  - community/Community_1276
 ---
 
 # Connections
 
 ## Connections
-- [[setupActivities()_3]] - `contains` [EXTRACTED]
+- [[Connections_6139_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_642
+#graphify/document #graphify/EXTRACTED #community/Community_1276

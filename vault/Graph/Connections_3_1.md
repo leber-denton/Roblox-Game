@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Connections_3.md"
+source_file: "vault/Graph/Connections_3_1.md"
 type: "document"
-community: "Community 182"
+community: "Community 3319"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_182
+  - community/Community_3319
 ---
 
-# Connections_3.md
+# Connections_3_1.md
 
 ## Connections
-- [[Connections_2674]] - `contains` [EXTRACTED]
-- [[Music.client.luau_2_1]] - `references` [EXTRACTED]
+- [[Connections_3_2]] - `contains` [EXTRACTED]
 - [[_COMMUNITY_Community 100]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_182
+#graphify/document #graphify/EXTRACTED #community/Community_3319

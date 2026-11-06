@@ -1,22 +1,20 @@
 ---
 source_file: "vault/Graph/CodeDecorData.md"
 type: "document"
-community: "Community 566"
+community: "Community 324"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_566
+  - community/Community_324
 ---
 
 # CodeDecorData.md
 
 ## Connections
-- [[CodeDecorData_2]] - `contains` [EXTRACTED]
-- [[CodeDecorService]] - `references` [EXTRACTED]
-- [[CodeDecorUI_1]] - `references` [EXTRACTED]
-- [[DecorData_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
+- [[CodeDecorData_5]] - `contains` [EXTRACTED]
+- [[CodeDecorData_2]] - `references` [EXTRACTED]
+- [[Connections_2200_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1184]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_566
+#graphify/document #graphify/EXTRACTED #community/Community_324

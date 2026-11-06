@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.coins().md"
+source_file: "vault/Graph/Shapes.crystal()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 133"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_133
 ---
 
 # Connections
 
 ## Connections
-- [[commands.coins()_6]] - `contains` [EXTRACTED]
+- [[Shapes.crystal()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_133

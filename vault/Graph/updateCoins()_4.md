@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/updateCoins()_2.md"
+source_file: "vault/Graph/updateCoins()_4.md"
 type: "document"
-community: "Community 340"
-location: "L12"
+community: "Community 103"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_340
+  - community/Community_103
 ---
 
-# updateCoins()
+# updateCoins()_4.md
 
 ## Connections
-- [[Connections_4000]] - `contains` [EXTRACTED]
-- [[updateCoins()_2]] - `contains` [EXTRACTED]
+- [[Connections_4000]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 103]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 340]] - `references` [EXTRACTED]
+- [[updateCoins()_2]] - `references` [EXTRACTED]
+- [[updateCoins()_4_1]] - `contains` [EXTRACTED]
+- [[updateCoins()_6]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_340
+#graphify/document #graphify/EXTRACTED #community/Community_103

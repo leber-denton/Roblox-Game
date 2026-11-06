@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[TutorialService.init()_1]] - `references` [EXTRACTED]
-- [[TutorialService.init()_2_1]] - `contains` [EXTRACTED]
+- [[TutorialService.init()_2_3]] - `contains` [EXTRACTED]
+- [[TutorialService.init()_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 134]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
 

@@ -1,12 +1,12 @@
 ---
 source_file: "vault/Graph/findTargets().md"
 type: "document"
-community: "Community 112"
+community: "Community 117"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_112
+  - community/Community_117
 ---
 
 # findTargets().md
@@ -22,4 +22,4 @@ tags:
 - [[resolvePath()_1]] - `references` [EXTRACTED]
 - [[showcaseModels()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_112
+#graphify/document #graphify/EXTRACTED #community/Community_117

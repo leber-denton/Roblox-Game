@@ -12,10 +12,11 @@ tags:
 # GraphStoryService.md
 
 ## Connections
+- [[CodeStoryService_1_1]] - `references` [EXTRACTED]
+- [[Functions_26_1_1]] - `references` [EXTRACTED]
 - [[GraphStoryService_2]] - `contains` [EXTRACTED]
-- [[StoryService_1]] - `references` [EXTRACTED]
-- [[StoryService_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 24]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 320]] - `references` [EXTRACTED]
+- [[GraphStoryService_1]] - `references` [EXTRACTED]
+- [[Requires_26_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

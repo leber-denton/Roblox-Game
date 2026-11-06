@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/darker()_2.md"
+source_file: "vault/Graph/darker()_4.md"
 type: "document"
-community: "Community 139"
-location: "L12"
+community: "Community 133"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_139
+  - community/Community_133
 ---
 
-# darker()
+# darker()_4.md
 
 ## Connections
-- [[Connections_1712]] - `contains` [EXTRACTED]
-- [[darker()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_4275_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
+- [[darker()_6]] - `contains` [EXTRACTED]
+- [[darker()_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_139
+#graphify/document #graphify/EXTRACTED #community/Community_133

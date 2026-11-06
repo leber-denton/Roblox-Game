@@ -12,12 +12,13 @@ tags:
 # TrainerAnimations_2.md
 
 ## Connections
-- [[CodeTrainerAnimations]] - `references` [EXTRACTED]
-- [[Functions_102]] - `references` [EXTRACTED]
-- [[GraphTrainerAnimations]] - `references` [EXTRACTED]
-- [[Required by_99]] - `references` [EXTRACTED]
+- [[CodeTrainerAnimations_1]] - `references` [EXTRACTED]
+- [[Functions_102_1]] - `references` [EXTRACTED]
+- [[GraphTrainerAnimations_1]] - `references` [EXTRACTED]
+- [[Required by_99_1]] - `references` [EXTRACTED]
 - [[Requires_100]] - `references` [EXTRACTED]
-- [[TrainerAnimations_2_1]] - `contains` [EXTRACTED]
+- [[TrainerAnimations_2_3]] - `contains` [EXTRACTED]
+- [[TrainerAnimations_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 132]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 59]] - `references` [EXTRACTED]
 

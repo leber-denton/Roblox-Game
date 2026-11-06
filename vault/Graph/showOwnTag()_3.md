@@ -12,7 +12,7 @@ tags:
 # showOwnTag().md
 
 ## Connections
-- [[Connections_1693]] - `contains` [EXTRACTED]
+- [[Connections_6823]] - `contains` [EXTRACTED]
 - [[showOwnTag()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_138

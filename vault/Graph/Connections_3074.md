@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/setHidden().md"
+source_file: "vault/Graph/Connections_2142.md"
 type: "document"
-community: "Community 21"
-location: "L14"
+community: "Community 1176"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_1176
 ---
 
 # Connections
 
 ## Connections
-- [[setHidden()_6]] - `contains` [EXTRACTED]
+- [[Connections_3075]] - `contains` [EXTRACTED]
+- [[Connections_2142_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_1176

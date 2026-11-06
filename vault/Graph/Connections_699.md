@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.refresh()_2.md"
+source_file: "vault/Graph/refresh()_2_1_1.md"
 type: "document"
-community: "Community 12"
+community: "Community 104"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_104
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.refresh()_2_1]] - `contains` [EXTRACTED]
+- [[refresh()_2_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_104

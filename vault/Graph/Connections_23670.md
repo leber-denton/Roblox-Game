@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/Connections_4391.md"
+type: "document"
+community: "Community 884"
+location: "L14"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_884
+---
+
+# Connections
+
+## Connections
+- [[Connections_23669]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_884

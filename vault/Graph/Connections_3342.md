@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/part().md"
+source_file: "vault/Graph/GameData.canEnter()_3.md"
 type: "document"
-community: "Community 24"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[part()_11]] - `contains` [EXTRACTED]
+- [[GameData.canEnter()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_1187

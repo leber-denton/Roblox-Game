@@ -14,7 +14,9 @@ tags:
 ## Connections
 - [[CodeLockedLanes]] - `references` [EXTRACTED]
 - [[GraphLockedLanes]] - `references` [EXTRACTED]
-- [[LockedLanes_2_1]] - `contains` [EXTRACTED]
+- [[LockedLanes_2_3]] - `contains` [EXTRACTED]
+- [[LockedLanes_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 425]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 56]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_425

@@ -1,18 +1,19 @@
 ---
 source_file: "vault/Graph/Members_59.md"
 type: "document"
-community: "Community 205"
+community: "Community 1098"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_205
+  - community/Community_1098
 ---
 
 # Members_59.md
 
 ## Connections
-- [[Members_178]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 205]] - `references` [EXTRACTED]
+- [[Community 281]] - `references` [EXTRACTED]
+- [[Members_159]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1048]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_205
+#graphify/document #graphify/EXTRACTED #community/Community_1098

@@ -1,22 +1,16 @@
 ---
 type: community
-members: 9
+members: 3
 ---
 
 # Community 748
 
-**Members:** 9 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Connections_5247]] - document - vault/Graph/Connections_1132.md
-- [[Connections_5248]] - document - vault/Graph/Connections_1132.md
-- [[Connections_5249]] - document - vault/Graph/typeChip()_1.md
-- [[Connections_5250]] - document - vault/Graph/typeChip()_2.md
-- [[Connections_1132_1]] - document - vault/Graph/Connections_1132.md
-- [[typeChip()_4]] - document - vault/Graph/typeChip()_2.md
-- [[typeChip()_3]] - document - vault/Graph/typeChip()_1.md
-- [[typeChip()_1_1]] - document - vault/Graph/typeChip()_1.md
-- [[typeChip()_2_1]] - document - vault/Graph/typeChip()_2.md
+- [[Connections_22366]] - document - vault/Graph/Connections_5197.md
+- [[Connections_22367]] - document - vault/Graph/Connections_5197.md
+- [[Connections_5197_1]] - document - vault/Graph/Connections_5197.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,11 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 151]]
-- 2 edges to [[_COMMUNITY_Community 176]]
-- 1 edge to [[_COMMUNITY_Community 137]]
+- 1 edge to [[_COMMUNITY_Community 176]]
 
 ## Top bridge nodes
-- [[typeChip()_1_1]] - degree 6, connects to 3 communities
-- [[typeChip()_2_1]] - degree 4, connects to 1 community
-- [[Connections_1132_1]] - degree 3, connects to 1 community
+- [[Connections_5197_1]] - degree 2, connects to 1 community

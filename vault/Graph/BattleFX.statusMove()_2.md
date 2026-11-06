@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/BattleFX.statusMove().md"
+source_file: "vault/Graph/BattleFX.statusMove()_2.md"
 type: "document"
-community: "Community 21"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_168
 ---
 
-# BattleFX.statusMove()
+# BattleFX.statusMove()_2.md
 
 ## Connections
-- [[BattleFX.statusMove()_1]] - `contains` [EXTRACTED]
-- [[Connections_3052]] - `contains` [EXTRACTED]
+- [[BattleFX.statusMove()_4]] - `contains` [EXTRACTED]
+- [[BattleFX.statusMove()_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 21]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_168

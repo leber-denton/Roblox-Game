@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[ModelSync.addToMap()]] - `calls` [EXTRACTED]
 - [[ModelSync.apply()]] - `calls` [EXTRACTED]
-- [[ModelSync.luau_4]] - `contains` [EXTRACTED]
+- [[ModelSync.luau_7]] - `contains` [EXTRACTED]
 - [[makeReplacement()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_8

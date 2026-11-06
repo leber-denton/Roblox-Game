@@ -1,19 +1,20 @@
 ---
-source_file: "vault/Graph/GraphDungeonService.md"
+source_file: "vault/Graph/GraphDungeonService_1.md"
 type: "document"
-community: "Community 440"
+community: "Community 1262"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_440
+  - community/Community_1262
 ---
 
-# GraphDungeonService.md
+# GraphDungeonService_1.md
 
 ## Connections
-- [[DungeonService_1_2]] - `references` [EXTRACTED]
-- [[GraphDungeonService_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 154]] - `references` [EXTRACTED]
+- [[GraphDungeonService_3]] - `contains` [EXTRACTED]
+- [[GraphDungeonService_2]] - `references` [EXTRACTED]
+- [[GraphDungeonService]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1262]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_440
+#graphify/document #graphify/EXTRACTED #community/Community_1262

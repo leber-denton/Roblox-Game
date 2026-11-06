@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/atBadge()_1.md"
+source_file: "vault/Graph/render().md"
 type: "document"
-community: "Community 1015"
+community: "Community 100"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1015
+  - community/Community_100
 ---
 
 # Connections
 
 ## Connections
-- [[atBadge()_2]] - `contains` [EXTRACTED]
+- [[render()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1015
+#graphify/document #graphify/EXTRACTED #community/Community_100

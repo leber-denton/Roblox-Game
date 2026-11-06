@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_4805]] - document - vault/Graph/TrainerAnimations.luau_2.md
-- [[Connections_4806]] - document - vault/Graph/TrainerAnimations.luau.md
-- [[TrainerAnimations.luau_4]] - document - vault/Graph/TrainerAnimations.luau.md
-- [[TrainerAnimations.luau_3]] - document - vault/Graph/TrainerAnimations.luau.md
-- [[TrainerAnimations.luau_2_1]] - document - vault/Graph/TrainerAnimations.luau_2.md
-- [[TrainerAnimations.luau_2_2]] - document - vault/Graph/TrainerAnimations.luau_2.md
+- [[Connections_21311]] - document - vault/Graph/Connections_4216.md
+- [[Connections_21312]] - document - vault/Graph/Connections_4216.md
+- [[Connections_21313]] - document - vault/Graph/Connections_4217.md
+- [[Connections_21314]] - document - vault/Graph/Connections_4217.md
+- [[Connections_4216_1]] - document - vault/Graph/Connections_4216.md
+- [[Connections_4217_1]] - document - vault/Graph/Connections_4217.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,13 +23,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 450]]
-- 1 edge to [[_COMMUNITY_Community 143]]
-- 1 edge to [[_COMMUNITY_Community 484]]
-- 1 edge to [[_COMMUNITY_Community 772]]
-- 1 edge to [[_COMMUNITY_Community 773]]
-- 1 edge to [[_COMMUNITY_Community 616]]
+- 2 edges to [[_COMMUNITY_Community 410]]
 
 ## Top bridge nodes
-- [[TrainerAnimations.luau_2_1]] - degree 8, connects to 6 communities
-- [[TrainerAnimations.luau_3]] - degree 3, connects to 1 community
+- [[Connections_4216_1]] - degree 3, connects to 1 community
+- [[Connections_4217_1]] - degree 3, connects to 1 community

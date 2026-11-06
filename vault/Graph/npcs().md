@@ -12,7 +12,7 @@ tags:
 # npcs()
 
 ## Connections
-- [[Functions_128]] - `references` [INFERRED]
+- [[Functions_206]] - `references` [INFERRED]
 - [[NpcGuard.luau_2]] - `contains` [EXTRACTED]
 - [[NpcGuard.run()]] - `calls` [EXTRACTED]
 - [[NpcGuard.stamp()]] - `calls` [EXTRACTED]

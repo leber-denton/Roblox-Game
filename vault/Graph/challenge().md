@@ -12,7 +12,7 @@ tags:
 # challenge()
 
 ## Connections
-- [[LeagueService.luau_3]] - `contains` [EXTRACTED]
+- [[LeagueService.luau_7]] - `contains` [EXTRACTED]
 - [[NPC.say()]] - `calls` [INFERRED]
 - [[setup()_1]] - `calls` [EXTRACTED]
 - [[stage()]] - `calls` [EXTRACTED]

@@ -12,7 +12,7 @@ tags:
 # commands.allBadges()
 
 ## Connections
-- [[AdminService.luau_3]] - `contains` [EXTRACTED]
+- [[AdminService.luau]] - `contains` [EXTRACTED]
 - [[PlayerData.addBadge()]] - `calls` [INFERRED]
 - [[PlayerData.hasBadge()]] - `calls` [INFERRED]
 

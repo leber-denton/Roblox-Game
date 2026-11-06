@@ -1,20 +1,23 @@
 ---
-source_file: "vault/Graph/Tutorial.md"
+source_file: "vault/Graph/GraphTutorial_1.md"
 type: "document"
-community: "Community 514"
+community: "Community 111"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_514
+  - community/Community_111
 ---
 
-# Graph/Tutorial.md
+# GraphTutorial_1.md
 
 ## Connections
 - [[Connections_251_1]] - `references` [EXTRACTED]
 - [[GraphTutorial]] - `references` [EXTRACTED]
-- [[Tutorial_4]] - `contains` [EXTRACTED]
+- [[GraphTutorial_1_1]] - `contains` [EXTRACTED]
+- [[Tutorial_4]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 111]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 514]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_514
+#graphify/document #graphify/EXTRACTED #community/Community_111

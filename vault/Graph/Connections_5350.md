@@ -1,18 +1,22 @@
 ---
-source_file: "vault/Graph/Connections_278.md"
+source_file: "vault/Graph/Connections_5350.md"
 type: "document"
-community: "Community 771"
-location: "L12"
+community: "Community 1028"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_771
+  - community/Community_1028
 ---
 
-# Connections
+# Connections_5350.md
 
 ## Connections
-- [[Connections_5351]] - `contains` [EXTRACTED]
-- [[Connections_278_1]] - `contains` [EXTRACTED]
+- [[Connections_278_1]] - `references` [EXTRACTED]
+- [[Connections_314_3]] - `references` [EXTRACTED]
+- [[Connections_5350_1]] - `contains` [EXTRACTED]
+- [[Connections_5351]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1028]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 771]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_771
+#graphify/document #graphify/EXTRACTED #community/Community_1028

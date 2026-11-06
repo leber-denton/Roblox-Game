@@ -12,17 +12,16 @@ tags:
 # setupWorld().md
 
 ## Connections
-- [[Functions_18_1]] - `references` [EXTRACTED]
-- [[NPC.prompt()_3]] - `references` [EXTRACTED]
-- [[StoryService.init()_4]] - `references` [EXTRACTED]
-- [[StoryService.luau_1]] - `references` [EXTRACTED]
-- [[StoryService.luau_2]] - `references` [EXTRACTED]
+- [[Functions_43_1]] - `references` [EXTRACTED]
+- [[NPC.prompt()_6]] - `references` [EXTRACTED]
+- [[StoryService.init()_1]] - `references` [EXTRACTED]
+- [[StoryService.luau_7]] - `references` [EXTRACTED]
 - [[StoryService.requestMilestone()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 14]] - `references` [EXTRACTED]
-- [[free()_4]] - `references` [EXTRACTED]
-- [[laneSpot()_3]] - `references` [EXTRACTED]
-- [[makeGrunt()_3]] - `references` [EXTRACTED]
-- [[part()_7]] - `references` [EXTRACTED]
+- [[free()_5]] - `references` [EXTRACTED]
+- [[laneSpot()_5]] - `references` [EXTRACTED]
+- [[makeGrunt()_5]] - `references` [EXTRACTED]
+- [[part()_15]] - `references` [EXTRACTED]
 - [[setupWorld()_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_24

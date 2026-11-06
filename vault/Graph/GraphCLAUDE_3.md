@@ -1,19 +1,24 @@
 ---
-source_file: "vault/Graph/CLAUDE.md"
+source_file: "vault/Graph/GraphCLAUDE_3.md"
 type: "document"
-community: "Community 96"
+community: "Community 597"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_96
+  - community/Community_597
 ---
 
-# Graph/CLAUDE.md
+# GraphCLAUDE_3.md
 
 ## Connections
-- [[Creature Quest_3]] - `references` [EXTRACTED]
-- [[GraphCLAUDE_4]] - `contains` [EXTRACTED]
+- [[Creature Quest_1]] - `references` [EXTRACTED]
+- [[GraphCLAUDE_6]] - `contains` [EXTRACTED]
+- [[GraphCLAUDE_1]] - `references` [EXTRACTED]
+- [[GraphCLAUDE_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 36]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 591]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 597]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 96]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_96
+#graphify/document #graphify/EXTRACTED #community/Community_597

@@ -1,18 +1,50 @@
 ---
-source_file: "vault/Graph/BattleFX.luau_1.md"
-type: "document"
-community: "Community 227"
-location: "L12"
+source_file: "src/StarterPlayer/StarterPlayerScripts/BattleFX.luau"
+type: "code"
+community: "Community 235"
+location: "L1"
 tags:
-  - graphify/document
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Community_227
+  - community/Community_235
 ---
 
-# BattleFX.luau.md
+# BattleFX.luau
 
 ## Connections
-- [[BattleFX.luau_1]] - `contains` [EXTRACTED]
-- [[Connections_3220]] - `contains` [EXTRACTED]
+- [[BattleFX.attack()]] - `contains` [EXTRACTED]
+- [[BattleFX.faint()]] - `contains` [EXTRACTED]
+- [[BattleFX.levelUp()]] - `contains` [EXTRACTED]
+- [[BattleFX.makeBall()]] - `contains` [EXTRACTED]
+- [[BattleFX.sendOut()]] - `contains` [EXTRACTED]
+- [[BattleFX.statChange()]] - `contains` [EXTRACTED]
+- [[BattleFX.statusEffect()]] - `contains` [EXTRACTED]
+- [[BattleFX.statusMove()]] - `contains` [EXTRACTED]
+- [[BattleFX.throw()]] - `contains` [EXTRACTED]
+- [[ballParts()]] - `contains` [EXTRACTED]
+- [[burst()_1]] - `contains` [EXTRACTED]
+- [[charge()]] - `contains` [EXTRACTED]
+- [[effectPart()]] - `contains` [EXTRACTED]
+- [[fadeBall()]] - `contains` [EXTRACTED]
+- [[flash()]] - `contains` [EXTRACTED]
+- [[game_getservice_8]] - `imports` [EXTRACTED]
+- [[glow()]] - `contains` [EXTRACTED]
+- [[groundRing()]] - `contains` [EXTRACTED]
+- [[groundY()]] - `contains` [EXTRACTED]
+- [[impact()]] - `contains` [EXTRACTED]
+- [[latch()]] - `contains` [EXTRACTED]
+- [[lightning()]] - `contains` [EXTRACTED]
+- [[plainBall()]] - `contains` [EXTRACTED]
+- [[play()_1]] - `contains` [EXTRACTED]
+- [[projectile()]] - `contains` [EXTRACTED]
+- [[rearBack()]] - `contains` [EXTRACTED]
+- [[rootOf()]] - `contains` [EXTRACTED]
+- [[scaleModel()]] - `contains` [EXTRACTED]
+- [[screenFlash()]] - `contains` [EXTRACTED]
+- [[setHidden()]] - `contains` [EXTRACTED]
+- [[setLid()]] - `contains` [EXTRACTED]
+- [[shake()]] - `contains` [EXTRACTED]
+- [[shakeCamera()]] - `contains` [EXTRACTED]
+- [[sparkle()]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_227
+#graphify/code #graphify/EXTRACTED #community/Community_235

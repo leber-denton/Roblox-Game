@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/Required by_36.md"
+source_file: "vault/Graph/Required by_36_2.md"
 type: "document"
-community: "Community 300"
+community: "Community 130"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_300
+  - community/Community_130
 ---
 
-# Required by_36.md
+# Required by_36_2.md
 
 ## Connections
-- [[GraphBag]] - `references` [EXTRACTED]
-- [[Required by_80]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
+- [[Required by_36_3]] - `contains` [EXTRACTED]
+- [[Required by_36_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_300
+#graphify/document #graphify/EXTRACTED #community/Community_130

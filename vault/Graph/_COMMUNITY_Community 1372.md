@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 1372
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_1660]] - document - vault/Graph/WeeklyEventService.md
-- [[GraphWeeklyEventService]] - document - vault/Graph/WeeklyEventService.md
-- [[WeeklyEventService]] - document - vault/Graph/WeeklyEventService.md
+- [[Connections_6698]] - document - vault/Graph/Connections_1660.md
+- [[Connections_6699]] - document - vault/Graph/Connections_1660.md
+- [[Connections_6700]] - document - vault/Graph/Connections_1661.md
+- [[Connections_6701]] - document - vault/Graph/Connections_1661.md
+- [[Connections_1660_1]] - document - vault/Graph/Connections_1660.md
+- [[Connections_1661_1]] - document - vault/Graph/Connections_1661.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +23,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 576]]
+- 2 edges to [[_COMMUNITY_Community 1967]]
+- 1 edge to [[_COMMUNITY_Community 2837]]
 
 ## Top bridge nodes
-- [[GraphWeeklyEventService]] - degree 2, connects to 1 community
+- [[Connections_1660_1]] - degree 4, connects to 2 communities
+- [[Connections_1661_1]] - degree 3, connects to 1 community

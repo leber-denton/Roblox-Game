@@ -1,31 +1,25 @@
 ---
 type: community
-members: 18
+members: 12
 ---
 
 # Community 697
 
-**Members:** 18 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[BattleFX.makeBall()_4]] - document - vault/Graph/BattleFX.makeBall()_2.md
-- [[BattleFX.makeBall()_3]] - document - vault/Graph/BattleFX.makeBall()_1.md
-- [[BattleFX.makeBall()_1_1]] - document - vault/Graph/BattleFX.makeBall()_1.md
-- [[BattleFX.makeBall()_2_1]] - document - vault/Graph/BattleFX.makeBall()_2.md
-- [[Connections_5077]] - document - vault/Graph/BattleFX.makeBall()_1.md
-- [[Connections_5078]] - document - vault/Graph/BattleFX.makeBall()_2.md
-- [[Connections_5079]] - document - vault/Graph/Connections_696.md
-- [[Connections_5080]] - document - vault/Graph/Connections_696.md
-- [[Connections_5081]] - document - vault/Graph/Connections_734.md
-- [[Connections_5082]] - document - vault/Graph/Connections_734.md
-- [[Connections_5083]] - document - vault/Graph/plainBall()_1.md
-- [[Connections_5084]] - document - vault/Graph/plainBall()_2.md
-- [[Connections_696_1]] - document - vault/Graph/Connections_696.md
-- [[Connections_734_1]] - document - vault/Graph/Connections_734.md
-- [[plainBall()_4]] - document - vault/Graph/plainBall()_2.md
-- [[plainBall()_3]] - document - vault/Graph/plainBall()_1.md
-- [[plainBall()_1_1]] - document - vault/Graph/plainBall()_1.md
-- [[plainBall()_2_1]] - document - vault/Graph/plainBall()_2.md
+- [[BattleFX.makeBall()_7]] - document - vault/Graph/BattleFX.makeBall()_2.md
+- [[BattleFX.makeBall()_8]] - document - vault/Graph/BattleFX.makeBall()_3.md
+- [[BattleFX.makeBall()_2_3]] - document - vault/Graph/BattleFX.makeBall()_2.md
+- [[BattleFX.makeBall()_3_1]] - document - vault/Graph/BattleFX.makeBall()_3.md
+- [[Connections_22038]] - document - vault/Graph/BattleFX.makeBall()_2.md
+- [[Connections_22039]] - document - vault/Graph/BattleFX.makeBall()_3.md
+- [[Connections_22040]] - document - vault/Graph/plainBall()_2.md
+- [[Connections_22041]] - document - vault/Graph/plainBall()_3.md
+- [[plainBall()_6]] - document - vault/Graph/plainBall()_3.md
+- [[plainBall()_5]] - document - vault/Graph/plainBall()_2.md
+- [[plainBall()_2_2]] - document - vault/Graph/plainBall()_2.md
+- [[plainBall()_3_1]] - document - vault/Graph/plainBall()_3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -35,14 +29,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 6 edges to [[_COMMUNITY_Community 27]]
-- 2 edges to [[_COMMUNITY_Community 120]]
-- 2 edges to [[_COMMUNITY_Community 21]]
-- 1 edge to [[_COMMUNITY_Community 167]]
+- 3 edges to [[_COMMUNITY_Community 95]]
+- 2 edges to [[_COMMUNITY_Community 346]]
 
 ## Top bridge nodes
-- [[BattleFX.makeBall()_1_1]] - degree 7, connects to 4 communities
-- [[plainBall()_1_1]] - degree 6, connects to 3 communities
-- [[BattleFX.makeBall()_2_1]] - degree 4, connects to 1 community
-- [[plainBall()_2_1]] - degree 4, connects to 1 community
-- [[Connections_696_1]] - degree 3, connects to 1 community
+- [[BattleFX.makeBall()_2_3]] - degree 6, connects to 2 communities
+- [[plainBall()_2_2]] - degree 5, connects to 2 communities

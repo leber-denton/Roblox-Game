@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/Wander.md"
+source_file: "vault/Code/Wander.md"
 type: "document"
-community: "Community 90"
-location: "L12"
+community: "Community 22"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_22
 ---
 
 # Wander
 
 ## Connections
-- [[Connections_6044]] - `contains` [EXTRACTED]
-- [[GraphWander]] - `contains` [EXTRACTED]
+- [[CodeWander]] - `contains` [EXTRACTED]
+- [[Functions_139]] - `contains` [EXTRACTED]
+- [[Required by_147]] - `contains` [EXTRACTED]
+- [[Requires_140]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_22

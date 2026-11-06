@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/defaults()_1.md"
+source_file: "vault/Graph/defaults()_6.md"
 type: "document"
-community: "Community 86"
+community: "Community 152"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_152
 ---
 
-# defaults()
+# defaults().md
 
 ## Connections
-- [[Connections_5750]] - `contains` [EXTRACTED]
-- [[defaults()_1_2]] - `contains` [EXTRACTED]
+- [[Connections_8250]] - `contains` [EXTRACTED]
+- [[defaults()_6]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_152

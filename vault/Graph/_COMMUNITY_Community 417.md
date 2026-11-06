@@ -1,20 +1,22 @@
 ---
 type: community
-members: 7
+members: 9
 ---
 
 # Community 417
 
-**Members:** 7 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Connections_4217]] - document - vault/Graph/GraphSKILL_1.md
-- [[Connections_4218]] - document - vault/Graph/ship_1.md
-- [[GraphSKILL]] - document - vault/Graph/GraphSKILL_1.md
-- [[GraphSKILL_1]] - document - vault/Graph/GraphSKILL_1.md
-- [[_COMMUNITY_Community 172]] - document - vault/Graph/_COMMUNITY_Community 172.md
-- [[ship]] - document - vault/Graph/ship_1.md
-- [[ship_1]] - document - vault/Graph/ship_1.md
+- [[Connections_19191]] - document - vault/Graph/Connections_2110.md
+- [[Connections_19192]] - document - vault/Graph/Connections_2110.md
+- [[Connections_19193]] - document - vault/Graph/GraphSKILL_2.md
+- [[Connections_19194]] - document - vault/Graph/GraphSKILL.md
+- [[Connections_2110_1]] - document - vault/Graph/Connections_2110.md
+- [[GraphSKILL_3]] - document - vault/Graph/GraphSKILL.md
+- [[GraphSKILL_4]] - document - vault/Graph/GraphSKILL.md
+- [[GraphSKILL_2]] - document - vault/Graph/GraphSKILL_2.md
+- [[GraphSKILL_2_1]] - document - vault/Graph/GraphSKILL_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,13 +26,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 491]]
-- 3 edges to [[_COMMUNITY_Community 573]]
-- 2 edges to [[_COMMUNITY_Community 172]]
-- 2 edges to [[_COMMUNITY_Community 623]]
-- 2 edges to [[_COMMUNITY_Community 973]]
-- 1 edge to [[_COMMUNITY_Community 949]]
+- 3 edges to [[_COMMUNITY_Community 1206]]
+- 1 edge to [[_COMMUNITY_Community 508]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 172]] - degree 14, connects to 6 communities
-- [[ship_1]] - degree 4, connects to 1 community
+- [[GraphSKILL_2]] - degree 4, connects to 2 communities
+- [[GraphSKILL_3]] - degree 4, connects to 1 community
+- [[Connections_2110_1]] - degree 3, connects to 1 community

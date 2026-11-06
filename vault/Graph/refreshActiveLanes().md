@@ -12,8 +12,8 @@ tags:
 # refreshActiveLanes()
 
 ## Connections
-- [[Functions_72]] - `references` [INFERRED]
-- [[Main.server.luau_3]] - `contains` [EXTRACTED]
+- [[Functions_137]] - `references` [INFERRED]
+- [[Main.server.luau]] - `contains` [EXTRACTED]
 - [[WildSpawner.clearLane()]] - `calls` [INFERRED]
 - [[WildSpawner.getHotZone()]] - `calls` [INFERRED]
 - [[canAnyoneEnter()]] - `calls` [EXTRACTED]

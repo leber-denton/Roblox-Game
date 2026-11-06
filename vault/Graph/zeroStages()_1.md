@@ -18,6 +18,6 @@ tags:
 - [[applyState()_1]] - `references` [EXTRACTED]
 - [[playTurn()_1]] - `references` [EXTRACTED]
 - [[zeroStages()_1_1]] - `contains` [EXTRACTED]
-- [[zeroStages()_2_1]] - `references` [EXTRACTED]
+- [[zeroStages()_1_1_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_101

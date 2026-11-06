@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/commands.clearWild()_1.md"
+source_file: "vault/Graph/otherOf()_1.md"
 type: "document"
-community: "Community 201"
+community: "Community 1166"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_201
+  - community/Community_1166
 ---
 
 # Connections
 
 ## Connections
-- [[commands.clearWild()_1_1]] - `contains` [EXTRACTED]
+- [[otherOf()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_201
+#graphify/document #graphify/EXTRACTED #community/Community_1166

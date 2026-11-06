@@ -1,19 +1,19 @@
 ---
 source_file: "src/ServerScriptService/Modules/TutorialService.luau"
 type: "code"
-community: "Community 41"
+community: "Community 15"
 location: "L210"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Community_15
 ---
 
 # TutorialService.start()
 
 ## Connections
 - [[BaseManager.getTeam()]] - `calls` [INFERRED]
-- [[TutorialService.luau]] - `contains` [EXTRACTED]
+- [[TutorialService.luau_2]] - `contains` [EXTRACTED]
 - [[clearModels()_1]] - `calls` [EXTRACTED]
 - [[guideTarget()]] - `calls` [EXTRACTED]
 - [[onPlayerAdded()]] - `calls` [INFERRED]
@@ -21,4 +21,4 @@ tags:
 - [[setStep()]] - `calls` [EXTRACTED]
 - [[startNibbit()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_41
+#graphify/code #graphify/EXTRACTED #community/Community_15

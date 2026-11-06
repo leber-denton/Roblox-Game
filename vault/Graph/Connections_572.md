@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/CodeArenaManager.md"
+source_file: "vault/Graph/Connections_482.md"
 type: "document"
-community: "Community 118"
-location: "L14"
+community: "Community 1034"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_118
+  - community/Community_1034
 ---
 
 # Connections
 
 ## Connections
-- [[CodeArenaManager_1]] - `contains` [EXTRACTED]
+- [[Connections_573]] - `contains` [EXTRACTED]
+- [[Connections_482_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_118
+#graphify/document #graphify/EXTRACTED #community/Community_1034

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BattleService_1_1.md"
+source_file: "vault/Graph/Connections_4497.md"
 type: "document"
-community: "Community 150"
+community: "Community 111"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_150
+  - community/Community_111
 ---
 
 # Connections
 
 ## Connections
-- [[BattleService_1_2]] - `contains` [EXTRACTED]
+- [[Connections_4497_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_150
+#graphify/document #graphify/EXTRACTED #community/Community_111

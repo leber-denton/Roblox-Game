@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ModelSyncLookup_2.md"
+source_file: "vault/Graph/GraphBattleUI_2.md"
 type: "document"
-community: "Community 293"
+community: "Community 120"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_293
+  - community/Community_120
 ---
 
 # Connections
 
 ## Connections
-- [[ModelSyncLookup_2_1]] - `contains` [EXTRACTED]
+- [[GraphBattleUI_2_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_293
+#graphify/document #graphify/EXTRACTED #community/Community_120

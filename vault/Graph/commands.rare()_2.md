@@ -1,18 +1,18 @@
 ---
 source_file: "vault/Graph/commands.rare().md"
 type: "document"
-community: "Community 1120"
+community: "Community 225"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1120
+  - community/Community_225
 ---
 
 # commands.rare()
 
 ## Connections
-- [[Connections_284]] - `contains` [EXTRACTED]
+- [[Connections_13072]] - `contains` [EXTRACTED]
 - [[commands.rare()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1120
+#graphify/document #graphify/EXTRACTED #community/Community_225

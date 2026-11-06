@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 4.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_232.md"
 type: "document"
-community: "Community 923"
-location: "L50"
+community: "Community 1371"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_923
+  - community/Community_1371
 ---
 
 # Live Query (requires Dataview plugin)
 
 ## Connections
-- [[Community 4_1]] - `contains` [EXTRACTED]
+- [[Connections_6696]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_232_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_923
+#graphify/document #graphify/EXTRACTED #community/Community_1371

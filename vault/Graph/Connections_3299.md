@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/updateStoryPrompts().md"
+source_file: "vault/Graph/actions.theme()_2_1.md"
 type: "document"
-community: "Community 234"
+community: "Community 1187"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_234
+  - community/Community_1187
 ---
 
 # Connections
 
 ## Connections
-- [[updateStoryPrompts()_6]] - `contains` [EXTRACTED]
+- [[actions.theme()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_234
+#graphify/document #graphify/EXTRACTED #community/Community_1187

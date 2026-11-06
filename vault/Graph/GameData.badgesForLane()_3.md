@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/GameData.badgesForLane().md"
+source_file: "vault/Graph/GameData.badgesForLane()_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 2255"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2255
 ---
 
-# GameData.badgesForLane().md
+# GameData.badgesForLane()_3.md
 
 ## Connections
-- [[GameData.badgesForLane()_4]] - `contains` [EXTRACTED]
-- [[GameData.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 15]] - `references` [EXTRACTED]
-- [[setup()_1_2]] - `references` [EXTRACTED]
+- [[GameData.badgesForLane()_5]] - `contains` [EXTRACTED]
+- [[GameData.badgesForLane()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2255

@@ -1,18 +1,18 @@
 ---
 source_file: "src/ServerScriptService/Modules/PassService.luau"
 type: "code"
-community: "Community 2"
+community: "Community 11"
 location: "L110"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_2
+  - community/Community_11
 ---
 
 # PassService.onLoaded()
 
 ## Connections
-- [[PassService.luau_3]] - `contains` [EXTRACTED]
+- [[PassService.luau]] - `contains` [EXTRACTED]
 - [[PlayerData.getPending()]] - `calls` [INFERRED]
 - [[PlayerData.setPending()]] - `calls` [INFERRED]
 - [[RareEventService.summon()]] - `calls` [INFERRED]
@@ -20,4 +20,4 @@ tags:
 - [[onPlayerAdded()]] - `calls` [INFERRED]
 - [[requestSave()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Community_2
+#graphify/code #graphify/INFERRED #community/Community_11

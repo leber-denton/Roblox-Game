@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/updateZones().md"
+source_file: "vault/Graph/Connections to other communities_280.md"
 type: "document"
-community: "Community 123"
+community: "Community 1072"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_1072
 ---
 
 # Connections
 
 ## Connections
-- [[updateZones()_2]] - `contains` [EXTRACTED]
+- [[Connections to other communities_280_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_123
+#graphify/document #graphify/EXTRACTED #community/Community_1072

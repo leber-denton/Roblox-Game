@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Connections_271.md"
+source_file: "vault/Graph/Connections_3265.md"
 type: "document"
-community: "Community 230"
-location: "L12"
+community: "Community 1143"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_230
+  - community/Community_1143
 ---
 
-# Connections
+# Connections_3265.md
 
 ## Connections
-- [[Connections_3266]] - `contains` [EXTRACTED]
-- [[Connections_271_1]] - `contains` [EXTRACTED]
+- [[Connections_2568]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_308]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1257]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_230
+#graphify/document #graphify/EXTRACTED #community/Community_1143

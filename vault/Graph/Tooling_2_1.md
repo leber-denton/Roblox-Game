@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Tooling_2.md"
+source_file: "vault/Graph/Tooling_2_1.md"
 type: "document"
-community: "Community 596"
-location: "L12"
+community: "Community 597"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_596
+  - community/Community_597
 ---
 
-# Tooling_2.md
+# Tooling_2_1.md
 
 ## Connections
-- [[Connections_4753]] - `contains` [EXTRACTED]
-- [[Tooling_2]] - `contains` [EXTRACTED]
+- [[Tooling_2_2]] - `contains` [EXTRACTED]
+- [[Tooling_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 596]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_596
+#graphify/document #graphify/EXTRACTED #community/Community_597

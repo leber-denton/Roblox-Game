@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Community 1446
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Connections_1830]] - document - vault/Graph/Required by_25.md
-- [[Required by_24]] - document - vault/Graph/Required by_25.md
+- [[Connections_7509]] - document - vault/Graph/Top bridge nodes_182.md
+- [[Top bridge nodes_433]] - document - vault/Graph/Top bridge nodes_182.md
+- [[Top bridge nodes_182_1]] - document - vault/Graph/Top bridge nodes_182.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 162]]
+- 1 edge to [[_COMMUNITY_Community 699]]
 
 ## Top bridge nodes
-- [[Required by_24]] - degree 2, connects to 1 community
+- [[Top bridge nodes_182_1]] - degree 2, connects to 1 community

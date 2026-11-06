@@ -1,18 +1,21 @@
 ---
-source_file: "vault/Graph/consider()_2.md"
+source_file: "vault/Graph/consider()_4.md"
 type: "document"
-community: "Community 542"
-location: "L12"
+community: "Community 101"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_542
+  - community/Community_101
 ---
 
-# consider()
+# consider()_4.md
 
 ## Connections
-- [[Connections_4623]] - `contains` [EXTRACTED]
-- [[consider()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 542]] - `references` [EXTRACTED]
+- [[consider()_2_1]] - `references` [EXTRACTED]
+- [[consider()_3]] - `references` [EXTRACTED]
+- [[consider()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_542
+#graphify/document #graphify/EXTRACTED #community/Community_101

@@ -13,9 +13,9 @@ tags:
 
 ## Connections
 - [[DecorData.build()]] - `calls` [INFERRED]
-- [[DecorUI.client.luau_3]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
 - [[itemCard()]] - `calls` [EXTRACTED]
-- [[new()_4]] - `calls` [EXTRACTED]
+- [[new()_3]] - `calls` [EXTRACTED]
 - [[showReveal()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_3

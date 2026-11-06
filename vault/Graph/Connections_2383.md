@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ProgressService.onJoin()_1.md"
+source_file: "vault/Graph/Functions_98_1.md"
 type: "document"
-community: "Community 168"
+community: "Community 1129"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1129
 ---
 
 # Connections
 
 ## Connections
-- [[ProgressService.onJoin()_1_1]] - `contains` [EXTRACTED]
+- [[Functions_98_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1129

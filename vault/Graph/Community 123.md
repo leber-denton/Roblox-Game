@@ -1,21 +1,21 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 123.md"
+source_file: "vault/Graph/Community 123.md"
 type: "document"
-community: "Community 871"
-location: "L6"
+community: "Community 1399"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_871
+  - community/Community_1399
 ---
 
-# Community 123
+# Community 123.md
 
 ## Connections
-- [[Connections to other communities_367]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_410]] - `contains` [EXTRACTED]
-- [[Members_410]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_369]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 123]] - `contains` [EXTRACTED]
+- [[Community 123_1]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_410_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1399]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 871]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_871
+#graphify/document #graphify/EXTRACTED #community/Community_1399

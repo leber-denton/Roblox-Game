@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/clearButtons()_1.md"
+source_file: "vault/Graph/Connections_1337.md"
 type: "document"
-community: "Community 138"
+community: "Community 1098"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_138
+  - community/Community_1098
 ---
 
 # Connections
 
 ## Connections
-- [[clearButtons()_5]] - `contains` [EXTRACTED]
+- [[Connections_1671]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_138
+#graphify/document #graphify/EXTRACTED #community/Community_1098

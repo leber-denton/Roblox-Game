@@ -1,20 +1,18 @@
 ---
-source_file: "vault/Graph/WildSpawner.getHotZone().md"
+source_file: "vault/Graph/WildSpawner.getHotZone()_1.md"
 type: "document"
-community: "Community 90"
-location: "L1"
+community: "Community 197"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_197
 ---
 
 # WildSpawner.getHotZone().md
 
 ## Connections
-- [[WildSpawner.getHotZone()_4]] - `contains` [EXTRACTED]
-- [[WildSpawner.luau_2_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 22]] - `references` [EXTRACTED]
-- [[refreshActiveLanes()_3]] - `references` [EXTRACTED]
+- [[Connections_11768]] - `contains` [EXTRACTED]
+- [[WildSpawner.getHotZone()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_90
+#graphify/document #graphify/EXTRACTED #community/Community_197

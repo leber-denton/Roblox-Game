@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/fmt()_1.md"
+source_file: "vault/Graph/Connections_2708.md"
 type: "document"
-community: "Community 602"
-location: "L14"
+community: "Community 1268"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_602
+  - community/Community_1268
 ---
 
 # Connections
 
 ## Connections
-- [[fmt()_3]] - `contains` [EXTRACTED]
+- [[Connections_4772]] - `contains` [EXTRACTED]
+- [[Connections_2708_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_602
+#graphify/document #graphify/EXTRACTED #community/Community_1268

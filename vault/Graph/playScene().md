@@ -12,7 +12,7 @@ tags:
 # playScene()
 
 ## Connections
-- [[Story.client.luau_3]] - `contains` [EXTRACTED]
+- [[Story.client.luau_2]] - `contains` [EXTRACTED]
 - [[burst()]] - `calls` [EXTRACTED]
 - [[new()]] - `calls` [EXTRACTED]
 - [[play()]] - `calls` [EXTRACTED]

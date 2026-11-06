@@ -12,8 +12,9 @@ tags:
 # GameData_1_1.md
 
 ## Connections
-- [[GameData_1]] - `contains` [EXTRACTED]
-- [[GameData_1_2]] - `references` [EXTRACTED]
+- [[GameData_1]] - `references` [EXTRACTED]
+- [[GameData_1_1_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1282]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 155]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1282

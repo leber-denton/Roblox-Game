@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/label()_6.md"
+source_file: "vault/Graph/label()_6_1.md"
 type: "document"
 community: "Community 195"
 location: "L1"
@@ -9,12 +9,12 @@ tags:
   - community/Community_195
 ---
 
-# label()_6.md
+# label()_6_1.md
 
 ## Connections
-- [[Connections_151_1]] - `references` [EXTRACTED]
+- [[Connections_144_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
-- [[label()_12]] - `contains` [EXTRACTED]
-- [[label()_5_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 195]] - `references` [EXTRACTED]
+- [[label()_6_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_195

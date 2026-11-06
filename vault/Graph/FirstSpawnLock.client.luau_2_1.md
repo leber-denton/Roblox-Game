@@ -1,20 +1,20 @@
 ---
-source_file: "vault/Graph/FirstSpawnLock.client.luau_2.md"
+source_file: "vault/Graph/FirstSpawnLock.client.luau_2_1.md"
 type: "document"
-community: "Community 328"
+community: "Community 1417"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_328
+  - community/Community_1417
 ---
 
-# FirstSpawnLock.client.luau_2.md
+# FirstSpawnLock.client.luau_2_1.md
 
 ## Connections
-- [[FirstSpawnLock.client.luau_1]] - `references` [EXTRACTED]
-- [[FirstSpawnLock.client.luau_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 328]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 92]] - `references` [EXTRACTED]
+- [[Connections_5725_1]] - `references` [EXTRACTED]
+- [[FirstSpawnLock.client.luau_2_2]] - `contains` [EXTRACTED]
+- [[FirstSpawnLock.client.luau_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1417]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_328
+#graphify/document #graphify/EXTRACTED #community/Community_1417

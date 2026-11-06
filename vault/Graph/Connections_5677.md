@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.restore().md"
+source_file: "vault/Graph/shared_waitforchild_3.md"
 type: "document"
-community: "Community 86"
+community: "Community 1325"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_1325
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.restore()_5]] - `contains` [EXTRACTED]
+- [[shared_waitforchild_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_1325

@@ -1,29 +1,23 @@
 ---
 type: community
-members: 16
+members: 10
 ---
 
 # Community 458
 
-**Members:** 16 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Community 76_2]] - document - vault/Graph/Community 76.md
-- [[Community 76_1]] - document - vault/Graph/Community 76.md
-- [[Connections_4311]] - document - vault/Graph/Community 76.md
-- [[Connections_4312]] - document - vault/Graph/Connections to other communities_20.md
-- [[Connections_4313]] - document - vault/Graph/Live Query (requires Dataview plugin)_25.md
-- [[Connections_4314]] - document - vault/Graph/Members_24.md
-- [[Connections_4315]] - document - vault/Graph/Top bridge nodes_22.md
-- [[Connections to other communities_333]] - document - vault/Graph/Connections to other communities_20.md
-- [[Connections to other communities_20_1]] - document - vault/Graph/Connections to other communities_20.md
-- [[Live Query (requires Dataview plugin)_369]] - document - vault/Graph/Live Query (requires Dataview plugin)_25.md
-- [[Live Query (requires Dataview plugin)_25_1]] - document - vault/Graph/Live Query (requires Dataview plugin)_25.md
-- [[Members_371]] - document - vault/Graph/Members_24.md
-- [[Members_24_1]] - document - vault/Graph/Members_24.md
-- [[Top bridge nodes_334]] - document - vault/Graph/Top bridge nodes_22.md
-- [[Top bridge nodes_22_1]] - document - vault/Graph/Top bridge nodes_22.md
-- [[_COMMUNITY_Community 164]] - document - vault/Graph/_COMMUNITY_Community 164.md
+- [[Community 1031]] - document - vault/Graph/_COMMUNITY_Community 1031.md
+- [[Community 458]] - document - vault/Graph/_COMMUNITY_Community 458.md
+- [[Connections to other communities_1325]] - document - vault/Graph/_COMMUNITY_Community 1031.md
+- [[Connections to other communities_1326]] - document - vault/Graph/_COMMUNITY_Community 458.md
+- [[Live Query (requires Dataview plugin)_1556]] - document - vault/Graph/_COMMUNITY_Community 1031.md
+- [[Live Query (requires Dataview plugin)_1557]] - document - vault/Graph/_COMMUNITY_Community 458.md
+- [[Members_1558]] - document - vault/Graph/_COMMUNITY_Community 1031.md
+- [[Members_1559]] - document - vault/Graph/_COMMUNITY_Community 458.md
+- [[Top bridge nodes_1324]] - document - vault/Graph/_COMMUNITY_Community 1031.md
+- [[Top bridge nodes_1325]] - document - vault/Graph/_COMMUNITY_Community 458.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -33,12 +27,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 164]]
-- 1 edge to [[_COMMUNITY_Community 1009]]
-- 1 edge to [[_COMMUNITY_Community 443]]
-- 1 edge to [[_COMMUNITY_Community 894]]
-- 1 edge to [[_COMMUNITY_Community 855]]
+- 2 edges to [[_COMMUNITY_Community 1031]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 164]] - degree 10, connects to 5 communities
-- [[Community 76_1]] - degree 7, connects to 1 community
+- [[Community 1031]] - degree 5, connects to 1 community
+- [[Community 458]] - degree 5, connects to 1 community

@@ -1,18 +1,25 @@
 ---
 type: community
-members: 5
+members: 12
 ---
 
 # Community 1032
 
-**Members:** 5 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Community 187]] - document - vault/Graph/_COMMUNITY_Community 187.md
-- [[Connections to other communities_21]] - document - vault/Graph/_COMMUNITY_Community 187.md
-- [[Live Query (requires Dataview plugin)_21]] - document - vault/Graph/_COMMUNITY_Community 187.md
-- [[Members_21]] - document - vault/Graph/_COMMUNITY_Community 187.md
-- [[Top bridge nodes_24]] - document - vault/Graph/_COMMUNITY_Community 187.md
+- [[Connections_544]] - document - vault/Graph/Connections_6385.md
+- [[Connections_545]] - document - vault/Graph/Connections_6385.md
+- [[Connections_546]] - document - vault/Graph/refresh()_3.md
+- [[Connections_547]] - document - vault/Graph/refresh()_4.md
+- [[Connections_548]] - document - vault/Graph/refresh()_6.md
+- [[Connections_6385]] - document - vault/Graph/Connections_6385.md
+- [[refresh()_5]] - document - vault/Graph/refresh()_6.md
+- [[refresh()_3]] - document - vault/Graph/refresh()_3.md
+- [[refresh()_3_1]] - document - vault/Graph/refresh()_3.md
+- [[refresh()_4]] - document - vault/Graph/refresh()_4.md
+- [[refresh()_4_1]] - document - vault/Graph/refresh()_4.md
+- [[refresh()_6]] - document - vault/Graph/refresh()_6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +29,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 156]]
+- 4 edges to [[_COMMUNITY_Community 1]]
+- 1 edge to [[_COMMUNITY_Community 104]]
 
 ## Top bridge nodes
-- [[Community 187]] - degree 5, connects to 1 community
+- [[refresh()_3]] - degree 4, connects to 2 communities
+- [[refresh()_4]] - degree 4, connects to 1 community
+- [[refresh()_6]] - degree 4, connects to 1 community
+- [[Connections_6385]] - degree 3, connects to 1 community

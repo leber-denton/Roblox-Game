@@ -12,7 +12,8 @@ tags:
 # boardRows()_2.md
 
 ## Connections
-- [[Connections_87]] - `references` [EXTRACTED]
-- [[boardRows()_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1029]] - `references` [EXTRACTED]
+- [[boardRows()_1]] - `references` [EXTRACTED]
+- [[boardRows()_2_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_1029

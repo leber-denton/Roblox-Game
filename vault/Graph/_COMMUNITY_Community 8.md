@@ -8,12 +8,12 @@ members: 25
 **Members:** 25 nodes
 
 ## Members
-- [[Functions_182]] - document - vault/Code/ModelSync.md
+- [[Functions_238]] - document - vault/Code/ModelSync.md
 - [[ModelSync.addToMap()]] - code - src/ServerStorage/ModelSync.luau
 - [[ModelSync.apply()]] - code - src/ServerStorage/ModelSync.luau
 - [[ModelSync.audit()]] - code - src/ServerStorage/ModelSync.luau
 - [[ModelSync.list()]] - code - src/ServerStorage/ModelSync.luau
-- [[ModelSync.luau_4]] - code - src/ServerStorage/ModelSync.luau
+- [[ModelSync.luau_7]] - code - src/ServerStorage/ModelSync.luau
 - [[ModelSync.preview()]] - code - src/ServerStorage/ModelSync.luau
 - [[ModelSync.restore()]] - code - src/ServerStorage/ModelSync.luau
 - [[backups()]] - code - src/ServerStorage/ModelSync.luau
@@ -43,8 +43,8 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_Community 70]]
-- 1 edge to [[_COMMUNITY_Community 250]]
+- 1 edge to [[_COMMUNITY_Community 214]]
 
 ## Top bridge nodes
-- [[ModelSync.luau_4]] - degree 24, connects to 1 community
-- [[Functions_182]] - degree 5, connects to 1 community
+- [[ModelSync.luau_7]] - degree 24, connects to 1 community
+- [[Functions_238]] - degree 5, connects to 1 community

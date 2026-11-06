@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[FirstSpawnLock.client.luau]] - `contains` [EXTRACTED]
-- [[Functions_125]] - `references` [INFERRED]
-- [[update()_1]] - `calls` [EXTRACTED]
+- [[Functions_196]] - `references` [INFERRED]
+- [[update()]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_35

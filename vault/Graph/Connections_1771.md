@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/ColiseumUI.md"
+source_file: "vault/Graph/npcs()_4.md"
 type: "document"
-community: "Community 142"
+community: "Community 110"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_142
+  - community/Community_110
 ---
 
 # Connections
 
 ## Connections
-- [[ColiseumUI_3]] - `contains` [EXTRACTED]
+- [[npcs()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_142
+#graphify/document #graphify/EXTRACTED #community/Community_110

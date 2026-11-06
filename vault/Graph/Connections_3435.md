@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Members_84.md"
+source_file: "vault/Graph/CodeBattleData.md"
 type: "document"
-community: "Community 245"
+community: "Community 119"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_245
+  - community/Community_119
 ---
 
 # Connections
 
 ## Connections
-- [[Members_226]] - `contains` [EXTRACTED]
+- [[CodeBattleData_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_245
+#graphify/document #graphify/EXTRACTED #community/Community_119

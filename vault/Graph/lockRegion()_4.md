@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/lockRegion()_1.md"
+source_file: "vault/Graph/lockRegion()_4.md"
 type: "document"
-community: "Community 471"
-location: "L12"
+community: "Community 3051"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_471
+  - community/Community_3051
 ---
 
-# lockRegion().md
+# lockRegion()_4.md
 
 ## Connections
-- [[Connections_4356]] - `contains` [EXTRACTED]
-- [[lockRegion()_1_1]] - `contains` [EXTRACTED]
+- [[lockRegion()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_471
+#graphify/document #graphify/EXTRACTED #community/Community_3051

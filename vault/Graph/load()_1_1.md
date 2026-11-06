@@ -1,21 +1,21 @@
 ---
-source_file: "vault/Graph/load()_1.md"
+source_file: "vault/Graph/load()_1_1.md"
 type: "document"
-community: "Community 718"
+community: "Community 1626"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_718
+  - community/Community_1626
 ---
 
-# load()_1.md
+# load()_1_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 237]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 3]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 63]] - `references` [EXTRACTED]
-- [[load()_1_2]] - `contains` [EXTRACTED]
-- [[load()_2_1]] - `references` [EXTRACTED]
+- [[Functions_96_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 30]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 718]] - `references` [EXTRACTED]
+- [[btn()_4]] - `references` [EXTRACTED]
+- [[load()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_718
+#graphify/document #graphify/EXTRACTED #community/Community_1626

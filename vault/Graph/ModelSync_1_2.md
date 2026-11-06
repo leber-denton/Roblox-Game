@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/ModelSync_1_1.md"
+source_file: "vault/Graph/ModelSync_1_2.md"
 type: "document"
-community: "Community 524"
-location: "L12"
+community: "Community 413"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_524
+  - community/Community_413
 ---
 
-# ModelSync_1.md
+# ModelSync_1_2.md
 
 ## Connections
-- [[Connections_4550]] - `contains` [EXTRACTED]
-- [[ModelSync_1_1]] - `contains` [EXTRACTED]
+- [[ModelSync_1_4]] - `contains` [EXTRACTED]
+- [[ModelSync_1_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 524]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_524
+#graphify/document #graphify/EXTRACTED #community/Community_413

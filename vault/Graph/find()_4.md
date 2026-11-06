@@ -1,5 +1,5 @@
 ---
-source_file: "vault/Graph/find()_1.md"
+source_file: "vault/Graph/find()_5.md"
 type: "document"
 community: "Community 190"
 location: "L12"
@@ -12,7 +12,7 @@ tags:
 # find().md
 
 ## Connections
-- [[Connections_2803]] - `contains` [EXTRACTED]
-- [[find()_1]] - `contains` [EXTRACTED]
+- [[Connections_11326]] - `contains` [EXTRACTED]
+- [[find()_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_190

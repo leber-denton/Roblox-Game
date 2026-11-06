@@ -1,0 +1,17 @@
+---
+source_file: "vault/Graph/_COMMUNITY_Community 342.md"
+type: "document"
+community: "Community 342"
+location: "L10"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_342
+---
+
+# Members
+
+## Connections
+- [[Community 342_2]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_342

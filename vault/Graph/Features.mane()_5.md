@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Features.mane().md"
+source_file: "vault/Graph/Features.mane()_5.md"
 type: "document"
-community: "Community 137"
+community: "Community 1063"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_1063
 ---
 
-# Features.mane().md
+# Features.mane()_5.md
 
 ## Connections
-- [[Features.mane()_6]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
+- [[Features.mane()_7]] - `contains` [EXTRACTED]
+- [[Features.mane()_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 713]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_1063

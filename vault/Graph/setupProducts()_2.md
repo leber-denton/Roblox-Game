@@ -13,8 +13,11 @@ tags:
 
 ## Connections
 - [[_COMMUNITY_Community 135]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 168]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 34]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 41]] - `references` [EXTRACTED]
-- [[setupProducts()_1]] - `references` [EXTRACTED]
-- [[setupProducts()_2_1]] - `contains` [EXTRACTED]
+- [[setupProducts()_1_1]] - `references` [EXTRACTED]
+- [[setupProducts()_2_3]] - `contains` [EXTRACTED]
+- [[setupProducts()_2_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

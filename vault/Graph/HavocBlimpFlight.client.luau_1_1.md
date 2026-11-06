@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/HavocBlimpFlight.client.luau_1.md"
+source_file: "vault/Graph/HavocBlimpFlight.client.luau_1_1.md"
 type: "document"
-community: "Community 245"
-location: "L12"
+community: "Community 1675"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_245
+  - community/Community_1675
 ---
 
-# HavocBlimpFlight.client.luau_1.md
+# HavocBlimpFlight.client.luau_1_1.md
 
 ## Connections
-- [[Connections_3431]] - `contains` [EXTRACTED]
-- [[HavocBlimpFlight.client.luau_1]] - `contains` [EXTRACTED]
+- [[HavocBlimpFlight.client.luau_1_2]] - `contains` [EXTRACTED]
+- [[HavocBlimpFlight.client.luau_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_245
+#graphify/document #graphify/EXTRACTED #community/Community_1675

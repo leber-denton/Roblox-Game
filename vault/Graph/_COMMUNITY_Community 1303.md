@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Community 1303
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Connections_1370]] - document - vault/Graph/Members_27.md
-- [[Members_96]] - document - vault/Graph/Members_27.md
-- [[Members_27_1]] - document - vault/Graph/Members_27.md
+- [[Connections_5302]] - document - vault/Graph/Connections_3386.md
+- [[Connections_5303]] - document - vault/Graph/Connections_3386.md
+- [[Connections_5308]] - document - vault/Graph/RareEventService.init()_1.md
+- [[Connections_3386_1]] - document - vault/Graph/Connections_3386.md
+- [[RareEventService.init()_2]] - document - vault/Graph/RareEventService.init()_1.md
+- [[RareEventService.init()_1]] - document - vault/Graph/RareEventService.init()_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +23,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 166]]
+- 2 edges to [[_COMMUNITY_Community 292]]
+- 1 edge to [[_COMMUNITY_Community 577]]
 
 ## Top bridge nodes
-- [[Members_27_1]] - degree 2, connects to 1 community
+- [[RareEventService.init()_1]] - degree 4, connects to 2 communities
+- [[Connections_3386_1]] - degree 3, connects to 1 community

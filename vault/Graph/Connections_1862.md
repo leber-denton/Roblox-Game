@@ -1,12 +1,12 @@
 ---
-source_file: "vault/Graph/Connections_448.md"
+source_file: "vault/Graph/Connections_1402.md"
 type: "document"
-community: "Community 146"
+community: "Community 1108"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_146
+  - community/Community_1108
 ---
 
 # Connections
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Connections_1861]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_146
+#graphify/document #graphify/EXTRACTED #community/Community_1108

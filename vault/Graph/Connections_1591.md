@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/ShowcaseBuilder.arrivalCFrame().md"
+source_file: "vault/Graph/Connections_2679.md"
 type: "document"
-community: "Community 1351"
-location: "L14"
+community: "Community 1096"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1351
+  - community/Community_1096
 ---
 
 # Connections
 
 ## Connections
-- [[ShowcaseBuilder.arrivalCFrame()_2]] - `contains` [EXTRACTED]
+- [[Connections_1592]] - `contains` [EXTRACTED]
+- [[Connections_2679]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1351
+#graphify/document #graphify/EXTRACTED #community/Community_1096

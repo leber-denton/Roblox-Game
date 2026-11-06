@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/GraphWildSpawner.md"
+source_file: "vault/Graph/Live Query (requires Dataview plugin)_164.md"
 type: "document"
-community: "Community 166"
+community: "Community 1118"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_166
+  - community/Community_1118
 ---
 
 # Connections
 
 ## Connections
-- [[GraphWildSpawner_2]] - `contains` [EXTRACTED]
+- [[Live Query (requires Dataview plugin)_191]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_166
+#graphify/document #graphify/EXTRACTED #community/Community_1118

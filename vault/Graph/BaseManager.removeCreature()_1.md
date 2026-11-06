@@ -13,11 +13,13 @@ tags:
 
 ## Connections
 - [[BaseManager.luau_1]] - `references` [EXTRACTED]
-- [[BaseManager.removeCreature()_1_1]] - `contains` [EXTRACTED]
+- [[BaseManager.removeCreature()_1_3]] - `contains` [EXTRACTED]
+- [[BaseManager.removeCreature()_1_1]] - `references` [EXTRACTED]
 - [[BaseManager.removeCreature()_2]] - `references` [EXTRACTED]
 - [[Wander.remove()_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 16]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 179]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 200]] - `references` [EXTRACTED]
 - [[commands.newPlayer()_1]] - `references` [EXTRACTED]
 

@@ -1,18 +1,25 @@
 ---
-source_file: "src/ServerStorage/ShowcaseBuilder.luau"
+source_file: "src/StarterPlayer/StarterPlayerScripts/DecorUI.client.luau"
 type: "code"
-community: "Community 250"
-location: "L130"
+community: "Community 3"
+location: "L51"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_250
+  - community/Community_3
 ---
 
 # label()
 
 ## Connections
-- [[ShowcaseBuilder.build()]] - `calls` [EXTRACTED]
-- [[ShowcaseBuilder.luau_3]] - `contains` [EXTRACTED]
+- [[DecorUI.client.luau_8]] - `contains` [EXTRACTED]
+- [[heading()]] - `calls` [EXTRACTED]
+- [[itemCard()]] - `calls` [EXTRACTED]
+- [[new()_3]] - `calls` [EXTRACTED]
+- [[tabs.Base()]] - `calls` [EXTRACTED]
+- [[tabs.Crates()]] - `calls` [EXTRACTED]
+- [[tabs.Items()]] - `calls` [EXTRACTED]
+- [[tabs.Robux()]] - `calls` [EXTRACTED]
+- [[tabs.Themes()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_250
+#graphify/code #graphify/EXTRACTED #community/Community_3

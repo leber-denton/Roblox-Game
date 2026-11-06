@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/SocialService.sendBoard()_1.md"
+source_file: "vault/Graph/Connections_3606.md"
 type: "document"
-community: "Community 681"
+community: "Community 1284"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_681
+  - community/Community_1284
 ---
 
 # Connections
 
 ## Connections
-- [[SocialService.sendBoard()_3]] - `contains` [EXTRACTED]
+- [[Connections_5032]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_681
+#graphify/document #graphify/EXTRACTED #community/Community_1284

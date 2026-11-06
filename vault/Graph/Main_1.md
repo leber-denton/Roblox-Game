@@ -12,9 +12,10 @@ tags:
 # Main_1.md
 
 ## Connections
-- [[GraphMain_1]] - `references` [EXTRACTED]
-- [[Main_1_3]] - `contains` [EXTRACTED]
+- [[Main_1_4]] - `contains` [EXTRACTED]
 - [[Main_1_1]] - `references` [EXTRACTED]
+- [[Main_1_2]] - `references` [EXTRACTED]
+- [[Main_1_3_1]] - `references` [EXTRACTED]
 - [[Required by_45_1]] - `references` [EXTRACTED]
 - [[Requires_45_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 157]] - `references` [EXTRACTED]

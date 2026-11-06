@@ -1,19 +1,22 @@
 ---
-source_file: "vault/Graph/newPart().md"
+source_file: "vault/Graph/newPart()_1.md"
 type: "document"
-community: "Community 137"
+community: "Community 633"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_137
+  - community/Community_633
 ---
 
-# newPart().md
+# newPart()_1.md
 
 ## Connections
-- [[CreatureBuilder.build()_5]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
-- [[newPart()_2]] - `contains` [EXTRACTED]
+- [[newPart()_1_2]] - `contains` [EXTRACTED]
+- [[newPart()_2]] - `references` [EXTRACTED]
+- [[newPart()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_137
+#graphify/document #graphify/EXTRACTED #community/Community_633

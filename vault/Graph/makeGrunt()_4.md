@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/makeGrunt()_2.md"
+source_file: "vault/Graph/makeGrunt()_3.md"
 type: "document"
-community: "Community 24"
+community: "Community 2002"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_24
+  - community/Community_2002
 ---
 
 # makeGrunt().md
 
 ## Connections
-- [[Connections_3336]] - `contains` [EXTRACTED]
-- [[makeGrunt()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_11927]] - `contains` [EXTRACTED]
+- [[makeGrunt()_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_24
+#graphify/document #graphify/EXTRACTED #community/Community_2002

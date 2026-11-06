@@ -1,19 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_213.md"
+source_file: "vault/Graph/atBadge()_1.md"
 type: "document"
-community: "Community 108"
-location: "L1"
+community: "Community 1015"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_1015
 ---
 
-# Connections_213.md
+# Connections
 
 ## Connections
-- [[Connections_183]] - `contains` [EXTRACTED]
-- [[Creature Quest Catch & Battle Launch Checklist_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 108]] - `references` [EXTRACTED]
+- [[atBadge()_1_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_108
+#graphify/document #graphify/EXTRACTED #community/Community_1015

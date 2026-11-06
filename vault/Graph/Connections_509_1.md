@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/Connections_509.md"
+source_file: "vault/Graph/Connections_509_1.md"
 type: "document"
-community: "Community 523"
+community: "Community 1000"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_523
+  - community/Community_1000
 ---
 
-# Connections_509.md
+# Connections_509_1.md
 
 ## Connections
-- [[Connections_28_1]] - `references` [EXTRACTED]
-- [[Connections_509_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 101]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 177]] - `references` [EXTRACTED]
-- [[hpColor()_2_1]] - `references` [EXTRACTED]
+- [[Connections_509]] - `contains` [EXTRACTED]
+- [[Connections_509_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 117]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 330]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_523
+#graphify/document #graphify/EXTRACTED #community/Community_1000

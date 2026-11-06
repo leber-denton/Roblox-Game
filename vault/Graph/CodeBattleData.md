@@ -14,6 +14,7 @@ tags:
 ## Connections
 - [[CodeAdminService]] - `references` [EXTRACTED]
 - [[CodeBattleData_1]] - `contains` [EXTRACTED]
+- [[CodeBattleData_1_1]] - `references` [EXTRACTED]
 - [[CodeBattleService]] - `references` [EXTRACTED]
 - [[CodeCreatureIndex]] - `references` [EXTRACTED]
 - [[CodeDecorService]] - `references` [EXTRACTED]
@@ -21,7 +22,7 @@ tags:
 - [[CodeMain]] - `references` [EXTRACTED]
 - [[CodeMenus_1]] - `references` [EXTRACTED]
 - [[CodeTutorial]] - `references` [EXTRACTED]
-- [[GraphBattleData]] - `references` [EXTRACTED]
+- [[GraphBattleData_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
 

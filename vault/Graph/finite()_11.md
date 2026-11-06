@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/finite()_1.md"
+source_file: "vault/Graph/finite()_11.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 168"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_168
 ---
 
-# finite()
+# finite()_11.md
 
 ## Connections
-- [[Connections_5758]] - `contains` [EXTRACTED]
-- [[finite()_1_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 171]] - `references` [EXTRACTED]
+- [[finite()_9]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_168

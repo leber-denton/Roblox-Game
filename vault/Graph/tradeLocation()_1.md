@@ -12,10 +12,8 @@ tags:
 # tradeLocation()_1.md
 
 ## Connections
-- [[_COMMUNITY_Community 10]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 151]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 9]] - `references` [EXTRACTED]
-- [[tradeLocation()_1_1]] - `contains` [EXTRACTED]
-- [[tradeLocation()_2]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 289]] - `references` [EXTRACTED]
+- [[tradeLocation()_2]] - `contains` [EXTRACTED]
+- [[tradeLocation()_5]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_168

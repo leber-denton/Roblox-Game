@@ -20,7 +20,7 @@ tags:
 - [[CodePlayerData]] - `references` [EXTRACTED]
 - [[CodeRouteTrainerService]] - `references` [EXTRACTED]
 - [[CodeTutorialService_1]] - `contains` [EXTRACTED]
-- [[TutorialService_2_1]] - `references` [EXTRACTED]
+- [[CodeTutorialService_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 119]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 13]] - `references` [EXTRACTED]
 

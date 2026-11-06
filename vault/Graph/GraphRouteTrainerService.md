@@ -12,8 +12,9 @@ tags:
 # GraphRouteTrainerService.md
 
 ## Connections
-- [[GraphRouteTrainerService_2]] - `contains` [EXTRACTED]
-- [[RouteTrainerService_1]] - `references` [EXTRACTED]
+- [[GraphRouteTrainerService_5]] - `contains` [EXTRACTED]
+- [[GraphRouteTrainerService_2]] - `references` [EXTRACTED]
+- [[RouteTrainerService_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 161]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_161

@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/lockPrompt().md"
+source_file: "vault/Graph/Connections_6151.md"
 type: "document"
-community: "Community 92"
-location: "L14"
+community: "Community 1324"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_92
+  - community/Community_1324
 ---
 
-# Connections
+# Connections_6151.md
 
 ## Connections
-- [[lockPrompt()_4]] - `contains` [EXTRACTED]
+- [[Connections_1714_1]] - `references` [EXTRACTED]
+- [[Connections_6151_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 114]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 92]] - `references` [EXTRACTED]
+- [[lockPrompt()_4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_92
+#graphify/document #graphify/EXTRACTED #community/Community_1324

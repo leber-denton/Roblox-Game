@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/commands.give().md"
+source_file: "vault/Graph/commands.give()_1.md"
 type: "document"
-community: "Community 86"
+community: "Community 225"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_225
 ---
 
-# commands.give()
+# commands.give().md
 
 ## Connections
-- [[Connections_5721]] - `contains` [EXTRACTED]
-- [[commands.give()_3]] - `contains` [EXTRACTED]
+- [[Connections_13062]] - `contains` [EXTRACTED]
+- [[commands.give()_1_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_225

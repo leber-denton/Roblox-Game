@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GraphTrainerAnimations.md"
+source_file: "vault/Graph/GraphTrainerAnimations_2.md"
 type: "document"
-community: "Community 854"
-location: "L12"
+community: "Community 353"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_854
+  - community/Community_353
 ---
 
-# Graph/TrainerAnimations.md
+# GraphTrainerAnimations_2.md
 
 ## Connections
-- [[Connections_5620]] - `contains` [EXTRACTED]
-- [[GraphTrainerAnimations_1]] - `contains` [EXTRACTED]
+- [[Connections_4062_1]] - `references` [EXTRACTED]
+- [[GraphTrainerAnimations_3]] - `contains` [EXTRACTED]
+- [[GraphTrainerAnimations_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 132]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_854
+#graphify/document #graphify/EXTRACTED #community/Community_353

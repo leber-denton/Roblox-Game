@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/GraphCLAUDE.md"
+source_file: "vault/Graph/GraphCLAUDE_2.md"
 type: "document"
-community: "Community 591"
-location: "L12"
+community: "Community 597"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_591
+  - community/Community_597
 ---
 
-# GraphCLAUDE.md
+# GraphCLAUDE_2.md
 
 ## Connections
-- [[Connections_4743]] - `contains` [EXTRACTED]
-- [[GraphCLAUDE]] - `contains` [EXTRACTED]
+- [[GraphCLAUDE_5]] - `contains` [EXTRACTED]
+- [[GraphCLAUDE]] - `references` [EXTRACTED]
+- [[GraphCLAUDE_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 591]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_591
+#graphify/document #graphify/EXTRACTED #community/Community_597

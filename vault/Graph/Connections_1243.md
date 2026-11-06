@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/SocialService.luau_1.md"
+source_file: "vault/Graph/Connections_1182.md"
 type: "document"
-community: "Community 1236"
+community: "Community 1077"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1236
+  - community/Community_1077
 ---
 
 # Connections
 
 ## Connections
-- [[SocialService.luau_2]] - `contains` [EXTRACTED]
+- [[Connections_1242]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1236
+#graphify/document #graphify/EXTRACTED #community/Community_1077

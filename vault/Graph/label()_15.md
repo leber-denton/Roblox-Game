@@ -1,18 +1,25 @@
 ---
-source_file: "vault/Graph/label()_8.md"
+source_file: "vault/Graph/label().md"
 type: "document"
-community: "Community 881"
-location: "L12"
+community: "Community 203"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_881
+  - community/Community_203
 ---
 
-# label()
+# label().md
 
 ## Connections
-- [[Connections_5963]] - `contains` [EXTRACTED]
-- [[label()_8_1]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 20]] - `references` [EXTRACTED]
+- [[ballIcon()_1]] - `references` [EXTRACTED]
+- [[label()_17]] - `contains` [EXTRACTED]
+- [[new()_1_2]] - `references` [EXTRACTED]
+- [[refresh()_7]] - `references` [EXTRACTED]
+- [[showDetail()_8]] - `references` [EXTRACTED]
+- [[showPicker()_8]] - `references` [EXTRACTED]
+- [[showTradeHistory()_5]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_881
+#graphify/document #graphify/EXTRACTED #community/Community_203

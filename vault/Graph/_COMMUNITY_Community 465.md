@@ -1,22 +1,34 @@
 ---
 type: community
-members: 9
+members: 21
 ---
 
 # Community 465
 
-**Members:** 9 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Connections_4334]] - document - vault/Graph/Connections_1129.md
-- [[Connections_4335]] - document - vault/Graph/Connections_1129.md
-- [[Connections_4336]] - document - vault/Graph/Shapes.spiky()_1.md
-- [[Connections_4337]] - document - vault/Graph/Shapes.spiky()_2.md
-- [[Connections_1129_1]] - document - vault/Graph/Connections_1129.md
-- [[Shapes.spiky()_4]] - document - vault/Graph/Shapes.spiky()_2.md
-- [[Shapes.spiky()_3]] - document - vault/Graph/Shapes.spiky()_1.md
-- [[Shapes.spiky()_1_1]] - document - vault/Graph/Shapes.spiky()_1.md
-- [[Shapes.spiky()_2_1]] - document - vault/Graph/Shapes.spiky()_2.md
+- [[Community 465]] - document - vault/Graph/_COMMUNITY_Community 465.md
+- [[Community 703]] - document - vault/Graph/_COMMUNITY_Community 703.md
+- [[Connections_19569]] - document - vault/Graph/Connections_1107_1.md
+- [[Connections_19570]] - document - vault/Graph/Features.flower()_1_1.md
+- [[Connections_19571]] - document - vault/Graph/Features.flower()_2_1.md
+- [[Connections to other communities_1328]] - document - vault/Graph/_COMMUNITY_Community 465.md
+- [[Connections to other communities_1329]] - document - vault/Graph/_COMMUNITY_Community 703.md
+- [[Connections_1107_2]] - document - vault/Graph/Connections_1107_1.md
+- [[Connections_1107_1_1]] - document - vault/Graph/Connections_1107_1.md
+- [[Features.flower()_1_2]] - document - vault/Graph/Features.flower()_1_1.md
+- [[Features.flower()_1_1]] - document - vault/Graph/Features.flower()_1_1.md
+- [[Features.flower()_2_2]] - document - vault/Graph/Features.flower()_2_1.md
+- [[Features.flower()_2_1]] - document - vault/Graph/Features.flower()_2_1.md
+- [[Live Query (requires Dataview plugin)_1560]] - document - vault/Graph/_COMMUNITY_Community 465.md
+- [[Live Query (requires Dataview plugin)_1561]] - document - vault/Graph/_COMMUNITY_Community 703.md
+- [[Members_1562]] - document - vault/Graph/_COMMUNITY_Community 465.md
+- [[Members_1563]] - document - vault/Graph/_COMMUNITY_Community 703.md
+- [[Top bridge nodes_1327]] - document - vault/Graph/_COMMUNITY_Community 465.md
+- [[Top bridge nodes_1328]] - document - vault/Graph/_COMMUNITY_Community 703.md
+- [[_COMMUNITY_Community 465]] - document - vault/Graph/_COMMUNITY_Community 465.md
+- [[_COMMUNITY_Community 703]] - document - vault/Graph/_COMMUNITY_Community 703.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,12 +38,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Community 151]]
-- 1 edge to [[_COMMUNITY_Community 137]]
-- 1 edge to [[_COMMUNITY_Community 139]]
-- 1 edge to [[_COMMUNITY_Community 176]]
+- 10 edges to [[_COMMUNITY_Community 176]]
+- 3 edges to [[_COMMUNITY_Community 703]]
+- 1 edge to [[_COMMUNITY_Community 1095]]
+- 1 edge to [[_COMMUNITY_Community 410]]
 
 ## Top bridge nodes
-- [[Shapes.spiky()_1_1]] - degree 6, connects to 4 communities
-- [[Shapes.spiky()_2_1]] - degree 4, connects to 1 community
-- [[Connections_1129_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 465]] - degree 12, connects to 3 communities
+- [[_COMMUNITY_Community 703]] - degree 8, connects to 1 community
+- [[Features.flower()_1_1]] - degree 7, connects to 1 community
+- [[Features.flower()_2_1]] - degree 6, connects to 1 community
+- [[Connections_1107_1_1]] - degree 5, connects to 1 community

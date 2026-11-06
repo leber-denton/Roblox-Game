@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/tryCommit()_2.md"
+source_file: "vault/Graph/tryCommit()_4.md"
 type: "document"
-community: "Community 98"
-location: "L12"
+community: "Community 174"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_174
 ---
 
-# tryCommit()
+# tryCommit()_4.md
 
 ## Connections
-- [[Connections_6361]] - `contains` [EXTRACTED]
-- [[tryCommit()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 278]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 98]] - `references` [EXTRACTED]
+- [[tryCommit()_2_1]] - `references` [EXTRACTED]
+- [[tryCommit()_4_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_98
+#graphify/document #graphify/EXTRACTED #community/Community_174

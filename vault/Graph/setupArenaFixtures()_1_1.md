@@ -1,26 +1,19 @@
 ---
-source_file: "vault/Graph/setupArenaFixtures()_1.md"
+source_file: "vault/Graph/setupArenaFixtures()_1_1.md"
 type: "document"
-community: "Community 97"
+community: "Community 1815"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_97
+  - community/Community_1815
 ---
 
-# setupArenaFixtures()_1.md
+# setupArenaFixtures()_1_1.md
 
 ## Connections
-- [[ColiseumService.luau_2_1]] - `references` [EXTRACTED]
-- [[Functions_93_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 123]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 4]] - `references` [EXTRACTED]
-- [[arenaPart()_1_1]] - `references` [EXTRACTED]
-- [[boardLabel()_1_1]] - `references` [EXTRACTED]
-- [[centerOf()_1_1]] - `references` [EXTRACTED]
-- [[setupActivities()_1_1]] - `references` [EXTRACTED]
-- [[setupArenaFixtures()_1]] - `contains` [EXTRACTED]
-- [[setupArenaFixtures()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1464]] - `references` [EXTRACTED]
+- [[setupArenaFixtures()_1_2]] - `contains` [EXTRACTED]
+- [[setupArenaFixtures()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_97
+#graphify/document #graphify/EXTRACTED #community/Community_1815

@@ -1,19 +1,19 @@
 ---
-source_file: "vault/Graph/Members_1.md"
+source_file: "vault/Graph/Members_1_1.md"
 type: "document"
-community: "Community 478"
+community: "Community 444"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_478
+  - community/Community_444
 ---
 
-# Members_1.md
+# Members_1_1.md
 
 ## Connections
-- [[Community 44_1]] - `references` [EXTRACTED]
-- [[Members_381]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 113]] - `references` [EXTRACTED]
+- [[Members_1_2]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1002]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 478]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_478
+#graphify/document #graphify/EXTRACTED #community/Community_444

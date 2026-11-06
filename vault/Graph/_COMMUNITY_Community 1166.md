@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Connections_420]] - document - vault/Graph/Connections_443.md
-- [[Connections_421]] - document - vault/Graph/Connections_443.md
-- [[Connections_424]] - document - vault/Graph/otherOf()_1.md
-- [[Connections_443]] - document - vault/Graph/Connections_443.md
-- [[otherOf()_2]] - document - vault/Graph/otherOf()_1.md
+- [[Connections_2944]] - document - vault/Graph/otherOf()_1.md
+- [[Connections_2945]] - document - vault/Graph/otherOf()_2.md
 - [[otherOf()_1]] - document - vault/Graph/otherOf()_1.md
+- [[otherOf()_1_1]] - document - vault/Graph/otherOf()_1.md
+- [[otherOf()_2]] - document - vault/Graph/otherOf()_2.md
+- [[otherOf()_2_1]] - document - vault/Graph/otherOf()_2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +21,11 @@ members: 6
 TABLE source_file, type FROM #community/Community_1166
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Community 1773]]
+- 1 edge to [[_COMMUNITY_Community 3076]]
+
+## Top bridge nodes
+- [[otherOf()_2]] - degree 4, connects to 2 communities
+- [[otherOf()_1]] - degree 3, connects to 1 community

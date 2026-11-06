@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/PlayerData.setMusicMuted().md"
+source_file: "vault/Graph/PlayerData.setMusicMuted()_4.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2287"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2287
 ---
 
-# PlayerData.setMusicMuted()
+# PlayerData.setMusicMuted()_4.md
 
 ## Connections
-- [[Connections_5817]] - `contains` [EXTRACTED]
-- [[PlayerData.setMusicMuted()_3]] - `contains` [EXTRACTED]
+- [[PlayerData.setMusicMuted()_1_2]] - `references` [EXTRACTED]
+- [[PlayerData.setMusicMuted()_4_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 86]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2287

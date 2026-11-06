@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/clearModels().md"
+source_file: "vault/Graph/clearModels()_8.md"
 type: "document"
-community: "Community 86"
-location: "L12"
+community: "Community 2112"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_2112
 ---
 
-# clearModels()
+# clearModels()_8.md
 
 ## Connections
-- [[Connections_5711]] - `contains` [EXTRACTED]
-- [[clearModels()_6]] - `contains` [EXTRACTED]
+- [[clearModels()_2]] - `contains` [EXTRACTED]
+- [[clearModels()_7]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_2112

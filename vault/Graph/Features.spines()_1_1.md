@@ -1,22 +1,24 @@
 ---
-source_file: "vault/Graph/Features.spines()_1.md"
+source_file: "vault/Graph/Features.spines()_1_1.md"
 type: "document"
-community: "Community 739"
+community: "Community 176"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_739
+  - community/Community_176
 ---
 
-# Features.spines()_1.md
+# Features.spines()_1_1.md
 
 ## Connections
-- [[CreatureBuilder.luau_2]] - `references` [EXTRACTED]
-- [[Features.spines()_3]] - `contains` [EXTRACTED]
+- [[CreatureBuilder.luau_2_1]] - `references` [EXTRACTED]
+- [[Features.spines()_1_2]] - `contains` [EXTRACTED]
 - [[Features.spines()_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 137]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 468]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 6]] - `references` [EXTRACTED]
-- [[darker()_1_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 739]] - `references` [EXTRACTED]
+- [[darker()_1_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_739
+#graphify/document #graphify/EXTRACTED #community/Community_176

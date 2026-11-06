@@ -1,19 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 81.md"
+source_file: "vault/Graph/Community 81_2.md"
 type: "document"
-community: "Community 218"
-location: "L6"
+community: "Community 1778"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_218
+  - community/Community_1778
 ---
 
-# Community 81
+# Community 81_2.md
 
 ## Connections
-- [[Live Query (requires Dataview plugin)_186]] - `contains` [EXTRACTED]
-- [[Members_189]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 81]] - `contains` [EXTRACTED]
+- [[Community 81_4]] - `contains` [EXTRACTED]
+- [[Community 81_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_218
+#graphify/document #graphify/EXTRACTED #community/Community_1778

@@ -1,22 +1,37 @@
 ---
 type: community
-members: 9
+members: 24
 ---
 
 # Community 164
 
-**Members:** 9 nodes
+**Members:** 24 nodes
 
 ## Members
-- [[Community 76]] - document - vault/Graph/_COMMUNITY_Community 76.md
-- [[Connections_2153]] - document - vault/Graph/TutorialService_1_1.md
-- [[Connections to other communities_130]] - document - vault/Graph/_COMMUNITY_Community 76.md
-- [[Live Query (requires Dataview plugin)_139]] - document - vault/Graph/_COMMUNITY_Community 76.md
-- [[Members_141]] - document - vault/Graph/_COMMUNITY_Community 76.md
-- [[Top bridge nodes_136]] - document - vault/Graph/_COMMUNITY_Community 76.md
-- [[TutorialService_1]] - document - vault/Graph/TutorialService_1_1.md
-- [[TutorialService_1_1]] - document - vault/Graph/TutorialService_1_1.md
-- [[_COMMUNITY_Community 76]] - document - vault/Graph/_COMMUNITY_Community 76.md
+- [[Connections_9214]] - document - vault/Graph/Functions_171.md
+- [[Connections_9215]] - document - vault/Graph/Functions_84.md
+- [[Connections_9216]] - document - vault/Graph/ModelSyncLookup_1.md
+- [[Connections_9217]] - document - vault/Graph/ModelSyncLookup_3.md
+- [[Connections_9218]] - document - vault/Graph/Required by_163.md
+- [[Connections_9219]] - document - vault/Graph/Required by_90.md
+- [[Connections_9220]] - document - vault/Graph/Requires_170.md
+- [[Connections_9221]] - document - vault/Graph/Requires_85.md
+- [[Functions_88]] - document - vault/Graph/Functions_84.md
+- [[Functions_171]] - document - vault/Graph/Functions_171.md
+- [[Functions_171_1]] - document - vault/Graph/Functions_171.md
+- [[Functions_84_1]] - document - vault/Graph/Functions_84.md
+- [[ModelSyncLookup]] - document - vault/Graph/ModelSyncLookup_1.md
+- [[ModelSyncLookup_1]] - document - vault/Graph/ModelSyncLookup_1.md
+- [[ModelSyncLookup_3]] - document - vault/Graph/ModelSyncLookup_3.md
+- [[ModelSyncLookup_3_1]] - document - vault/Graph/ModelSyncLookup_3.md
+- [[Required by_85]] - document - vault/Graph/Required by_90.md
+- [[Required by_163]] - document - vault/Graph/Required by_163.md
+- [[Required by_163_1]] - document - vault/Graph/Required by_163.md
+- [[Required by_90]] - document - vault/Graph/Required by_90.md
+- [[Requires_84]] - document - vault/Graph/Requires_85.md
+- [[Requires_170]] - document - vault/Graph/Requires_170.md
+- [[Requires_170_1]] - document - vault/Graph/Requires_170.md
+- [[Requires_85]] - document - vault/Graph/Requires_85.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,10 +41,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 458]]
-- 1 edge to [[_COMMUNITY_Community 119]]
-- 1 edge to [[_COMMUNITY_Community 976]]
+- 8 edges to [[_COMMUNITY_Community 17]]
+- 4 edges to [[_COMMUNITY_Community 1583]]
+- 1 edge to [[_COMMUNITY_Community 193]]
+- 1 edge to [[_COMMUNITY_Community 2570]]
 
 ## Top bridge nodes
-- [[_COMMUNITY_Community 76]] - degree 5, connects to 3 communities
-- [[TutorialService_1_1]] - degree 3, connects to 1 community
+- [[ModelSyncLookup_3]] - degree 8, connects to 3 communities
+- [[Functions_171]] - degree 5, connects to 2 communities
+- [[Required by_163]] - degree 5, connects to 2 communities
+- [[Requires_170]] - degree 5, connects to 2 communities
+- [[ModelSyncLookup_1]] - degree 4, connects to 2 communities

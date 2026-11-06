@@ -12,7 +12,7 @@ tags:
 # getIndex().md
 
 ## Connections
-- [[Connections_2874]] - `contains` [EXTRACTED]
+- [[Connections_11587]] - `contains` [EXTRACTED]
 - [[getIndex()_1_1]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_195

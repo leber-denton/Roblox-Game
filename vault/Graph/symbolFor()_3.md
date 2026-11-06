@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/symbolFor()_2.md"
+source_file: "vault/Graph/symbolFor()_3.md"
 type: "document"
-community: "Community 310"
-location: "L12"
+community: "Community 2023"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_310
+  - community/Community_2023
 ---
 
-# symbolFor().md
+# symbolFor()_3.md
 
 ## Connections
-- [[Connections_3750]] - `contains` [EXTRACTED]
-- [[symbolFor()_2_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 310]] - `references` [EXTRACTED]
+- [[symbolFor()_1]] - `references` [EXTRACTED]
+- [[symbolFor()_2_1]] - `references` [EXTRACTED]
+- [[symbolFor()_3_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_310
+#graphify/document #graphify/EXTRACTED #community/Community_2023

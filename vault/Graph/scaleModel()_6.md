@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/scaleModel().md"
+source_file: "vault/Graph/scaleModel()_1.md"
 type: "document"
-community: "Community 21"
+community: "Community 167"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_21
+  - community/Community_167
 ---
 
-# scaleModel()
+# scaleModel().md
 
 ## Connections
-- [[Connections_3072]] - `contains` [EXTRACTED]
-- [[scaleModel()_5]] - `contains` [EXTRACTED]
+- [[Connections_9364]] - `contains` [EXTRACTED]
+- [[scaleModel()_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_21
+#graphify/document #graphify/EXTRACTED #community/Community_167

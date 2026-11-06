@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/WildSpawner.canReplace()_1.md"
+source_file: "vault/Graph/Connections_2026.md"
 type: "document"
-community: "Community 201"
+community: "Community 1168"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_201
+  - community/Community_1168
 ---
 
 # Connections
 
 ## Connections
-- [[WildSpawner.canReplace()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_2949]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_201
+#graphify/document #graphify/EXTRACTED #community/Community_1168

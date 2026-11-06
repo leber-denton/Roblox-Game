@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/tabs.Shop()_2.md"
+source_file: "vault/Graph/Connections_4964.md"
 type: "document"
-community: "Community 98"
+community: "Community 1345"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_1345
 ---
 
 # Connections
 
 ## Connections
-- [[tabs.Shop()_4]] - `contains` [EXTRACTED]
+- [[Connections_6352]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_98
+#graphify/document #graphify/EXTRACTED #community/Community_1345

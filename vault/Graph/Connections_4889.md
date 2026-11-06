@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/BaseManager.serialize()_1.md"
+source_file: "vault/Graph/Connections_3540.md"
 type: "document"
-community: "Community 638"
+community: "Community 1276"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_638
+  - community/Community_1276
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.serialize()_3]] - `contains` [EXTRACTED]
+- [[Connections_4888]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_638
+#graphify/document #graphify/EXTRACTED #community/Community_1276

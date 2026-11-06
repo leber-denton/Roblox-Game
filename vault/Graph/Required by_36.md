@@ -1,18 +1,17 @@
 ---
-source_file: "vault/Graph/Required by_36_1.md"
+source_file: "vault/Code/CreatureBuilder.md"
 type: "document"
-community: "Community 1325"
-location: "L12"
+community: "Community 13"
+location: "L8"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1325
+  - community/Community_13
 ---
 
-# Required by_36.md
+# Required by
 
 ## Connections
-- [[Connections_1401]] - `contains` [EXTRACTED]
-- [[Required by_36_1]] - `contains` [EXTRACTED]
+- [[CreatureBuilder]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1325
+#graphify/document #graphify/EXTRACTED #community/Community_13

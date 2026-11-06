@@ -1,20 +1,17 @@
 ---
-source_file: "vault/Code/AdminPanel.md"
+source_file: "vault/Graph/AdminPanel_2.md"
 type: "document"
-community: "Community 3"
+community: "Community 3045"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_3
+  - community/Community_3045
 ---
 
-# AdminPanel
+# AdminPanel_2.md
 
 ## Connections
-- [[CodeAdminPanel]] - `contains` [EXTRACTED]
-- [[Functions_98]] - `contains` [EXTRACTED]
-- [[Required by_78]] - `contains` [EXTRACTED]
-- [[Requires_83]] - `contains` [EXTRACTED]
+- [[AdminPanel_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_3
+#graphify/document #graphify/EXTRACTED #community/Community_3045

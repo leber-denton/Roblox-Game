@@ -1,21 +1,20 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 67.md"
+source_file: "vault/Graph/Community 67_2.md"
 type: "document"
-community: "Community 934"
-location: "L6"
+community: "Community 504"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_934
+  - community/Community_504
 ---
 
-# Community 67
+# Community 67_2.md
 
 ## Connections
-- [[Connections to other communities_418]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_461]] - `contains` [EXTRACTED]
-- [[Members_461]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_419]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 67]] - `contains` [EXTRACTED]
+- [[Community 67_4]] - `contains` [EXTRACTED]
+- [[Community 67]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 67]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 934]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_934
+#graphify/document #graphify/EXTRACTED #community/Community_504

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/describe().md"
+source_file: "vault/Graph/Connections_364.md"
 type: "document"
-community: "Community 116"
+community: "Community 103"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_116
+  - community/Community_103
 ---
 
 # Connections
 
 ## Connections
-- [[describe()_2]] - `contains` [EXTRACTED]
+- [[Connections_396]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_116
+#graphify/document #graphify/EXTRACTED #community/Community_103

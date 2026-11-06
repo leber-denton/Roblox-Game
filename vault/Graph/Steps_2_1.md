@@ -1,21 +1,18 @@
 ---
 source_file: "vault/Graph/Steps_2.md"
 type: "document"
-community: "Community 973"
-location: "L1"
+community: "Community 572"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_973
+  - community/Community_572
 ---
 
 # Steps_2.md
 
 ## Connections
-- [[Steps_3]] - `references` [EXTRACTED]
-- [[Steps_2_2]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 172]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 60]] - `references` [EXTRACTED]
-- [[ship_2]] - `references` [EXTRACTED]
+- [[Connections_20909]] - `contains` [EXTRACTED]
+- [[Steps_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_973
+#graphify/document #graphify/EXTRACTED #community/Community_572

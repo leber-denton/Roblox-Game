@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/boardLabel().md"
+source_file: "vault/Graph/Connections_3546.md"
 type: "document"
-community: "Community 642"
-location: "L14"
+community: "Community 1276"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_642
+  - community/Community_1276
 ---
 
 # Connections
 
 ## Connections
-- [[boardLabel()_3]] - `contains` [EXTRACTED]
+- [[Connections_4901]] - `contains` [EXTRACTED]
+- [[Connections_3546_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_642
+#graphify/document #graphify/EXTRACTED #community/Community_1276

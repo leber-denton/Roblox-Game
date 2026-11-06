@@ -12,9 +12,10 @@ tags:
 # BattleFX.attack()_2.md
 
 ## Connections
-- [[BattleFX.attack()_4]] - `contains` [EXTRACTED]
 - [[BattleFX.attack()_1]] - `references` [EXTRACTED]
-- [[Connections_692_1]] - `references` [EXTRACTED]
+- [[BattleFX.attack()_2_1]] - `contains` [EXTRACTED]
+- [[BattleFX.attack()_4]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 120]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 18]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_18

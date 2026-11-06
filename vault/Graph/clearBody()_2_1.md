@@ -12,7 +12,7 @@ tags:
 # clearBody()_2.md
 
 ## Connections
-- [[Connections_147_1]] - `references` [EXTRACTED]
+- [[Connections_1024_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 106]] - `references` [EXTRACTED]
 - [[clearBody()_4]] - `contains` [EXTRACTED]
 - [[clearBody()_1_1]] - `references` [EXTRACTED]

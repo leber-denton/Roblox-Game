@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/DecorService.registerProduct()_2.md"
+source_file: "vault/Graph/commands.towerTop()_3.md"
 type: "document"
-community: "Community 168"
+community: "Community 1127"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_168
+  - community/Community_1127
 ---
 
 # Connections
 
 ## Connections
-- [[DecorService.registerProduct()_2_2]] - `contains` [EXTRACTED]
+- [[commands.towerTop()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_168
+#graphify/document #graphify/EXTRACTED #community/Community_1127

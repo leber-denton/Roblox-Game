@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/rearBack()_1.md"
+source_file: "vault/Graph/rearBack().md"
 type: "document"
-community: "Community 27"
+community: "Community 21"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_27
+  - community/Community_21
 ---
 
-# rearBack().md
+# rearBack()
 
 ## Connections
-- [[Connections_3542]] - `contains` [EXTRACTED]
-- [[rearBack()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_12388]] - `contains` [EXTRACTED]
+- [[rearBack()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_27
+#graphify/document #graphify/EXTRACTED #community/Community_21

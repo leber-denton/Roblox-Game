@@ -1,19 +1,26 @@
 ---
 type: community
-members: 6
+members: 13
 ---
 
 # Community 925
 
-**Members:** 6 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Connections_6156]] - document - vault/Graph/Connections_969.md
-- [[Connections_6157]] - document - vault/Graph/Connections_969.md
-- [[Connections_6158]] - document - vault/Graph/MeshIntake_1_1.md
-- [[Connections_969_1]] - document - vault/Graph/Connections_969.md
-- [[MeshIntake_1_2]] - document - vault/Graph/MeshIntake_1_1.md
-- [[MeshIntake_1_1_1]] - document - vault/Graph/MeshIntake_1_1.md
+- [[Community 665]] - document - vault/Graph/_COMMUNITY_Community 665.md
+- [[Connections_24045]] - document - vault/Graph/SocialService.luau_2_1.md
+- [[Connections_24046]] - document - vault/Graph/SocialService.luau_2.md
+- [[Connections_24047]] - document - vault/Graph/SocialService.luau_3.md
+- [[Live Query (requires Dataview plugin)_1938]] - document - vault/Graph/_COMMUNITY_Community 665.md
+- [[Members_1937]] - document - vault/Graph/_COMMUNITY_Community 665.md
+- [[SocialService.luau_8]] - document - vault/Graph/SocialService.luau_3.md
+- [[SocialService.luau_7]] - document - vault/Graph/SocialService.luau_2.md
+- [[SocialService.luau_2_1]] - document - vault/Graph/SocialService.luau_2.md
+- [[SocialService.luau_2_2]] - document - vault/Graph/SocialService.luau_2_1.md
+- [[SocialService.luau_2_1_1]] - document - vault/Graph/SocialService.luau_2_1.md
+- [[SocialService.luau_3_1]] - document - vault/Graph/SocialService.luau_3.md
+- [[_COMMUNITY_Community 665]] - document - vault/Graph/_COMMUNITY_Community 665.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +30,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Community 520]]
-- 1 edge to [[_COMMUNITY_Community 130]]
+- 2 edges to [[_COMMUNITY_Community 1236]]
+- 2 edges to [[_COMMUNITY_Community 1240]]
 
 ## Top bridge nodes
-- [[MeshIntake_1_1_1]] - degree 4, connects to 2 communities
-- [[Connections_969_1]] - degree 3, connects to 1 community
+- [[_COMMUNITY_Community 665]] - degree 6, connects to 2 communities
+- [[SocialService.luau_2_1]] - degree 4, connects to 1 community
+- [[SocialService.luau_2_1_1]] - degree 3, connects to 1 community

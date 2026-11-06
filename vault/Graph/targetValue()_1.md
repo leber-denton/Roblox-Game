@@ -1,22 +1,18 @@
 ---
-source_file: "vault/Graph/targetValue()_1.md"
+source_file: "vault/Graph/targetValue()_5.md"
 type: "document"
 community: "Community 240"
-location: "L1"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_240
 ---
 
-# targetValue()_1.md
+# targetValue().md
 
 ## Connections
-- [[Functions_53_2]] - `references` [EXTRACTED]
-- [[Tutorial.client.luau_2]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 109]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
-- [[targetValue()_3]] - `contains` [EXTRACTED]
-- [[targetValue()_2]] - `references` [EXTRACTED]
+- [[Connections_13906]] - `contains` [EXTRACTED]
+- [[targetValue()_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_240

@@ -12,7 +12,7 @@ tags:
 # itemInfo()
 
 ## Connections
-- [[Bag.client.luau]] - `contains` [EXTRACTED]
+- [[Bag.client.luau_7]] - `contains` [EXTRACTED]
 - [[refresh()]] - `calls` [EXTRACTED]
 - [[showDetail()]] - `calls` [EXTRACTED]
 

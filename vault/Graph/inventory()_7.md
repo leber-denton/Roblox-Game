@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/inventory()_2.md"
+source_file: "vault/Graph/inventory()_5.md"
 type: "document"
-community: "Community 327"
+community: "Community 226"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_327
+  - community/Community_226
 ---
 
-# inventory()
+# inventory().md
 
 ## Connections
-- [[Connections_3881]] - `contains` [EXTRACTED]
-- [[inventory()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_13177]] - `contains` [EXTRACTED]
+- [[inventory()_5]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_327
+#graphify/document #graphify/EXTRACTED #community/Community_226

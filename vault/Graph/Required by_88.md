@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/Required by_88.md"
+source_file: "vault/Graph/Required by_58.md"
 type: "document"
-community: "Community 102"
-location: "L1"
+community: "Community 1684"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_102
+  - community/Community_1684
 ---
 
-# Required by_88.md
+# Required by
 
 ## Connections
-- [[NpcGuard_2]] - `references` [EXTRACTED]
-- [[Required by_2_1]] - `references` [EXTRACTED]
-- [[Required by_88_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 102]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 38]] - `references` [EXTRACTED]
+- [[Connections_9724]] - `contains` [EXTRACTED]
+- [[Required by_58_4]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_102
+#graphify/document #graphify/EXTRACTED #community/Community_1684

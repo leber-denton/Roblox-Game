@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/clearModels()_3.md"
+source_file: "vault/Graph/Connections_1989.md"
 type: "document"
-community: "Community 199"
+community: "Community 1165"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_199
+  - community/Community_1165
 ---
 
 # Connections
 
 ## Connections
-- [[clearModels()_3_1]] - `contains` [EXTRACTED]
+- [[Connections_2923]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_199
+#graphify/document #graphify/EXTRACTED #community/Community_1165

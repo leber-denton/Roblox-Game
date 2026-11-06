@@ -12,10 +12,12 @@ tags:
 # setVisible()_1.md
 
 ## Connections
+- [[_COMMUNITY_Community 122]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 19]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 234]] - `references` [EXTRACTED]
-- [[setVisible()_3]] - `contains` [EXTRACTED]
+- [[setVisible()_1_1]] - `contains` [EXTRACTED]
 - [[setVisible()_2]] - `references` [EXTRACTED]
+- [[setVisible()_3_1]] - `references` [EXTRACTED]
 - [[spawnJuniper()_1]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_122

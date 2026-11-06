@@ -1,20 +1,19 @@
 ---
-source_file: "vault/Graph/billboard().md"
+source_file: "vault/Graph/billboard()_4.md"
 type: "document"
-community: "Community 86"
+community: "Community 152"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_152
 ---
 
-# billboard().md
+# billboard()_4.md
 
 ## Connections
-- [[DecorService.luau_4]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 0]] - `references` [EXTRACTED]
-- [[billboard()_5]] - `contains` [EXTRACTED]
-- [[buildBaseProps()_4]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
+- [[billboard()_6]] - `contains` [EXTRACTED]
+- [[billboard()_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_86
+#graphify/document #graphify/EXTRACTED #community/Community_152

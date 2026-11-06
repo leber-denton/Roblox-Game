@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/BaseManager.healAll()_2.md"
+source_file: "vault/Graph/Connections_95.md"
 type: "document"
-community: "Community 12"
-location: "L14"
+community: "Community 1039"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_1039
 ---
 
 # Connections
 
 ## Connections
-- [[BaseManager.healAll()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_690]] - `contains` [EXTRACTED]
+- [[Connections_95_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_1039

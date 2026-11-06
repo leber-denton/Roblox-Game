@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_771.md"
+source_file: "vault/Graph/RareEventService.summon()_1.md"
 type: "document"
-community: "Community 769"
+community: "Community 1305"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_769
+  - community/Community_1305
 ---
 
 # Connections
 
 ## Connections
-- [[Connections_5341]] - `contains` [EXTRACTED]
+- [[RareEventService.summon()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_769
+#graphify/document #graphify/EXTRACTED #community/Community_1305

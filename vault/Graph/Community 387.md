@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/_COMMUNITY_Community 387.md"
+source_file: "vault/Graph/Community 387.md"
 type: "document"
-community: "Community 1095"
-location: "L6"
+community: "Community 387"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1095
+  - community/Community_387
 ---
 
-# Community 387
+# Community 387.md
 
 ## Connections
-- [[Connections to other communities_64]] - `contains` [EXTRACTED]
-- [[Live Query (requires Dataview plugin)_64]] - `contains` [EXTRACTED]
-- [[Members_64]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_67]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 387]] - `contains` [EXTRACTED]
+- [[Community 387_1]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 387]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1095
+#graphify/document #graphify/EXTRACTED #community/Community_387

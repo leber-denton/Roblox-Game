@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/actions.remove()_2.md"
+source_file: "vault/Graph/actions.remove()_2_1.md"
 type: "document"
-community: "Community 174"
-location: "L12"
+community: "Community 152"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_174
+  - community/Community_152
 ---
 
-# actions.remove()_2.md
+# actions.remove()_2_1.md
 
 ## Connections
-- [[Connections_2550]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 152]] - `references` [EXTRACTED]
 - [[actions.remove()_2]] - `contains` [EXTRACTED]
+- [[actions.remove()_2_2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_174
+#graphify/document #graphify/EXTRACTED #community/Community_152

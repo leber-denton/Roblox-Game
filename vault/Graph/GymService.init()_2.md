@@ -13,7 +13,8 @@ tags:
 
 ## Connections
 - [[GymService.init()_1]] - `references` [EXTRACTED]
-- [[GymService.init()_2_1]] - `contains` [EXTRACTED]
+- [[GymService.init()_2_3]] - `contains` [EXTRACTED]
+- [[GymService.init()_2_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 107]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_107

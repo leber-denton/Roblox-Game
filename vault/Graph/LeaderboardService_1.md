@@ -14,10 +14,10 @@ tags:
 ## Connections
 - [[Functions_34_1]] - `references` [EXTRACTED]
 - [[GraphLeaderboardService]] - `references` [EXTRACTED]
-- [[LeaderboardService_1_1]] - `contains` [EXTRACTED]
+- [[LeaderboardService_1_4]] - `contains` [EXTRACTED]
+- [[LeaderboardService_1_1]] - `references` [EXTRACTED]
 - [[LeaderboardService_1_1_1]] - `references` [EXTRACTED]
 - [[Required by_34_1]] - `references` [EXTRACTED]
-- [[Requires_34_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 128]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 55]] - `references` [EXTRACTED]
 

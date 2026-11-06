@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/Current Priorities.md"
+source_file: "vault/Graph/Connections_4782.md"
 type: "document"
-community: "Community 88"
-location: "L14"
+community: "Community 134"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_134
 ---
 
 # Connections
 
 ## Connections
-- [[Current Priorities_3]] - `contains` [EXTRACTED]
+- [[Connections_5931]] - `contains` [EXTRACTED]
+- [[Connections_4782_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_88
+#graphify/document #graphify/EXTRACTED #community/Community_134

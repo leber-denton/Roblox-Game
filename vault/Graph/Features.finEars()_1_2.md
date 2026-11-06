@@ -1,18 +1,19 @@
 ---
-source_file: "vault/Graph/Features.finEars()_1.md"
+source_file: "vault/Graph/Features.finEars()_1_2.md"
 type: "document"
-community: "Community 937"
-location: "L12"
+community: "Community 2660"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_937
+  - community/Community_2660
 ---
 
-# Features.finEars()_1.md
+# Features.finEars()_1_2.md
 
 ## Connections
-- [[Connections_6230]] - `contains` [EXTRACTED]
-- [[Features.finEars()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_6230_1]] - `references` [EXTRACTED]
+- [[Features.finEars()_1_3]] - `contains` [EXTRACTED]
+- [[Features.finEars()_1_1_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_937
+#graphify/document #graphify/EXTRACTED #community/Community_2660

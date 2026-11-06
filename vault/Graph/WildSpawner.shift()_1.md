@@ -14,7 +14,8 @@ tags:
 ## Connections
 - [[WildSpawner.canReplace()_1]] - `references` [EXTRACTED]
 - [[WildSpawner.clear()_1]] - `references` [EXTRACTED]
-- [[WildSpawner.shift()_1_1]] - `contains` [EXTRACTED]
+- [[WildSpawner.shift()_1_3]] - `contains` [EXTRACTED]
+- [[WildSpawner.shift()_1_1]] - `references` [EXTRACTED]
 - [[WildSpawner.shift()_2]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 149]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 201]] - `references` [EXTRACTED]

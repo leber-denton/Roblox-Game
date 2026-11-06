@@ -1,17 +1,21 @@
 ---
-source_file: "vault/Graph/Required by_101.md"
+source_file: "vault/Graph/Connections_4373.md"
 type: "document"
-community: "Community 477"
-location: "L14"
+community: "Community 1224"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_477
+  - community/Community_1224
 ---
 
-# Connections
+# Connections_4373.md
 
 ## Connections
-- [[Required by_133]] - `contains` [EXTRACTED]
+- [[Connections_2888_1]] - `references` [EXTRACTED]
+- [[Connections_4373_1]] - `contains` [EXTRACTED]
+- [[Required by_133]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1224]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 477]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_477
+#graphify/document #graphify/EXTRACTED #community/Community_1224

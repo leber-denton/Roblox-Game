@@ -1,20 +1,19 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 29"
+source_file: "vault/Graph/math_5.md"
+type: "document"
+community: "Community 1111"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_29
+  - community/Community_1111
 ---
 
-# math
+# math_5.md
 
 ## Connections
-- [[gen_coliseum.py]] - `imports` [EXTRACTED]
-- [[gen_trade_beach.py_2]] - `imports` [EXTRACTED]
-- [[pt()]] - `calls` [EXTRACTED]
-- [[ring()]] - `calls` [EXTRACTED]
-- [[yaw()]] - `calls` [EXTRACTED]
+- [[_COMMUNITY_Community 353]] - `references` [EXTRACTED]
+- [[math_6]] - `contains` [EXTRACTED]
+- [[math_3]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_29
+#graphify/document #graphify/EXTRACTED #community/Community_1111

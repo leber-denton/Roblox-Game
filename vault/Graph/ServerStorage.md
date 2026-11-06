@@ -1,21 +1,18 @@
 ---
-source_file: "vault/Graph/ServerStorage.md"
+source_file: "vault/Graph/ServerStorage_3.md"
 type: "document"
-community: "Community 110"
-location: "L1"
+community: "Community 1833"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_110
+  - community/Community_1833
 ---
 
 # ServerStorage.md
 
 ## Connections
-- [[Code Map_2]] - `references` [EXTRACTED]
-- [[ServerStorage_2]] - `contains` [EXTRACTED]
-- [[ServerStorage_1]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 110]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 46]] - `references` [EXTRACTED]
+- [[Connections_11009]] - `contains` [EXTRACTED]
+- [[ServerStorage_3]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_110
+#graphify/document #graphify/EXTRACTED #community/Community_1833

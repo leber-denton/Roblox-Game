@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/isReference()_2.md"
+source_file: "vault/Graph/Connections_509_1.md"
 type: "document"
-community: "Community 117"
-location: "L14"
+community: "Community 1000"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_117
+  - community/Community_1000
 ---
 
-# Connections
+# Connections_509.md
 
 ## Connections
-- [[isReference()_4]] - `contains` [EXTRACTED]
+- [[Connections_59]] - `contains` [EXTRACTED]
+- [[Connections_509_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_117
+#graphify/document #graphify/EXTRACTED #community/Community_1000

@@ -1,21 +1,17 @@
 ---
-source_file: "vault/Graph/Connections_947.md"
+source_file: "vault/Graph/showGrid().md"
 type: "document"
-community: "Community 12"
-location: "L1"
+community: "Community 106"
+location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_12
+  - community/Community_106
 ---
 
-# Connections_947.md
+# Connections
 
 ## Connections
-- [[BaseManager.addCreature()_2]] - `references` [EXTRACTED]
-- [[Connections_308_1]] - `references` [EXTRACTED]
-- [[Connections_947_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 12]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 42]] - `references` [EXTRACTED]
+- [[showGrid()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_12
+#graphify/document #graphify/EXTRACTED #community/Community_106

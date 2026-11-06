@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Code/EventHUD.md"
+source_file: "vault/Code/BaseManager.md"
 type: "document"
-community: "Community 267"
+community: "Community 16"
 location: "L4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_267
+  - community/Community_16
 ---
 
 # Requires
 
 ## Connections
-- [[EventHUD]] - `contains` [EXTRACTED]
+- [[BaseManager]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_267
+#graphify/document #graphify/EXTRACTED #community/Community_16

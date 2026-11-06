@@ -14,8 +14,10 @@ tags:
 ## Connections
 - [[NPCAnimator.server.luau_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 39]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 856]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 99]] - `references` [EXTRACTED]
-- [[buildQuestWorld()_1_1]] - `contains` [EXTRACTED]
+- [[buildQuestWorld()_1_3]] - `contains` [EXTRACTED]
+- [[buildQuestWorld()_1_1]] - `references` [EXTRACTED]
 - [[buildQuestWorld()_2]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_856

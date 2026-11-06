@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[CodeCreatureLife]] - `contains` [EXTRACTED]
-- [[Functions_89]] - `contains` [EXTRACTED]
-- [[Required by_71]] - `contains` [EXTRACTED]
-- [[Requires_75]] - `contains` [EXTRACTED]
+- [[Functions_186]] - `contains` [EXTRACTED]
+- [[Required by_181]] - `contains` [EXTRACTED]
+- [[Requires_157]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_28

@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/grey()_1.md"
+source_file: "vault/Graph/Functions_30.md"
 type: "document"
-community: "Community 536"
+community: "Community 1252"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_536
+  - community/Community_1252
 ---
 
 # Connections
 
 ## Connections
-- [[grey()_3]] - `contains` [EXTRACTED]
+- [[Functions_34]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_536
+#graphify/document #graphify/EXTRACTED #community/Community_1252

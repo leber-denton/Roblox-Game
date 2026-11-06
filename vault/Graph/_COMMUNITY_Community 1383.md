@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Community 1383
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Connections_1698]] - document - vault/Graph/available()_1.md
-- [[available()_1]] - document - vault/Graph/available()_1.md
+- [[Connections_6871]] - document - vault/Graph/Connections_1698.md
+- [[Connections_6872]] - document - vault/Graph/Connections_1698.md
+- [[Connections_1698_1]] - document - vault/Graph/Connections_1698.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 97]]
+- 1 edge to [[_COMMUNITY_Community 1757]]
 
 ## Top bridge nodes
-- [[available()_1]] - degree 2, connects to 1 community
+- [[Connections_1698_1]] - degree 2, connects to 1 community

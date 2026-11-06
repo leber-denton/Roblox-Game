@@ -1,16 +1,20 @@
 ---
-source_file: ""
-type: "concept"
-community: "Community 15"
+source_file: "vault/Graph/script_parent_arenamanager_4.md"
+type: "document"
+community: "Community 2284"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Community_15
+  - community/Community_2284
 ---
 
-# script_parent_arenamanager
+# script_parent_arenamanager_4.md
 
 ## Connections
-- [[BattleService.luau]] - `imports` [EXTRACTED]
+- [[Connections_38_3]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 1007]] - `references` [EXTRACTED]
+- [[script_parent_arenamanager_1]] - `contains` [EXTRACTED]
+- [[script_parent_arenamanager_5]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_15
+#graphify/document #graphify/EXTRACTED #community/Community_2284

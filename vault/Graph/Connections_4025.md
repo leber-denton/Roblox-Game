@@ -1,17 +1,17 @@
 ---
-source_file: "vault/Graph/Connections to other communities_60.md"
+source_file: "vault/Graph/Connections to other communities_329.md"
 type: "document"
-community: "Community 347"
+community: "Community 1222"
 location: "L14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_347
+  - community/Community_1222
 ---
 
 # Connections
 
 ## Connections
-- [[Connections to other communities_265]] - `contains` [EXTRACTED]
+- [[Connections to other communities_242]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_347
+#graphify/document #graphify/EXTRACTED #community/Community_1222

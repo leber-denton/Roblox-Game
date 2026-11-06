@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/PassService.init()_2.md"
+source_file: "vault/Graph/PassService.init().md"
 type: "document"
-community: "Community 1171"
+community: "Community 53"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1171
+  - community/Community_53
 ---
 
 # PassService.init()
 
 ## Connections
-- [[Connections_551]] - `contains` [EXTRACTED]
-- [[PassService.init()_2_1]] - `contains` [EXTRACTED]
+- [[Connections_20499]] - `contains` [EXTRACTED]
+- [[PassService.init()_2]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1171
+#graphify/document #graphify/EXTRACTED #community/Community_53

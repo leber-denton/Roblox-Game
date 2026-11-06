@@ -1,19 +1,19 @@
 ---
-source_file: "vault/Graph/GraphNPCAnimator.md"
+source_file: "vault/Graph/NPCAnimator.md"
 type: "document"
-community: "Community 1000"
+community: "Community 1434"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1000
+  - community/Community_1434
 ---
 
-# GraphNPCAnimator.md
+# Graph/NPCAnimator.md
 
 ## Connections
-- [[GraphNPCAnimator_1]] - `contains` [EXTRACTED]
-- [[_COMMUNITY_Community 39]] - `references` [EXTRACTED]
-- [[_COMMUNITY_Community 99]] - `references` [EXTRACTED]
+- [[Connections_5841_1]] - `references` [EXTRACTED]
+- [[NPCAnimator]] - `contains` [EXTRACTED]
+- [[_COMMUNITY_Community 1434]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1000
+#graphify/document #graphify/EXTRACTED #community/Community_1434

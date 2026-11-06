@@ -1,17 +1,18 @@
 ---
-source_file: "vault/Graph/NPCLife.md"
+source_file: "vault/Graph/Connections_4072.md"
 type: "document"
-community: "Community 845"
-location: "L14"
+community: "Community 1320"
+location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_845
+  - community/Community_1320
 ---
 
 # Connections
 
 ## Connections
-- [[NPCLife_3]] - `contains` [EXTRACTED]
+- [[Connections_5595]] - `contains` [EXTRACTED]
+- [[Connections_4072_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_845
+#graphify/document #graphify/EXTRACTED #community/Community_1320

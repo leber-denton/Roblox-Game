@@ -1,18 +1,20 @@
 ---
-source_file: "vault/Graph/typeChip()_1.md"
+source_file: "vault/Graph/typeChip()_3.md"
 type: "document"
-community: "Community 748"
-location: "L12"
+community: "Community 480"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_748
+  - community/Community_480
 ---
 
-# typeChip().md
+# typeChip()_3.md
 
 ## Connections
-- [[Connections_5249]] - `contains` [EXTRACTED]
-- [[typeChip()_1_1]] - `contains` [EXTRACTED]
+- [[Connections_4355_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 133]] - `references` [EXTRACTED]
+- [[typeChip()_5]] - `contains` [EXTRACTED]
+- [[typeChip()_1]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_748
+#graphify/document #graphify/EXTRACTED #community/Community_480

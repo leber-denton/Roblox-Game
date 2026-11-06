@@ -1,18 +1,18 @@
 ---
-source_file: "vault/Graph/Top bridge nodes_49.md"
+source_file: "vault/Graph/Top bridge nodes_88.md"
 type: "document"
-community: "Community 1363"
+community: "Community 1094"
 location: "L12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1363
+  - community/Community_1094
 ---
 
 # Top bridge nodes
 
 ## Connections
-- [[Connections_1613]] - `contains` [EXTRACTED]
-- [[Top bridge nodes_49_1]] - `contains` [EXTRACTED]
+- [[Connections_1553]] - `contains` [EXTRACTED]
+- [[Top bridge nodes_88_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1363
+#graphify/document #graphify/EXTRACTED #community/Community_1094

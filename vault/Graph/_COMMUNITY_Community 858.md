@@ -1,22 +1,25 @@
 ---
 type: community
-members: 9
+members: 12
 ---
 
 # Community 858
 
-**Members:** 9 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Connections_5633]] - document - vault/Graph/Connections_770.md
-- [[Connections_5634]] - document - vault/Graph/Connections_770.md
-- [[Connections_5635]] - document - vault/Graph/Required by_4.md
-- [[Connections_5636]] - document - vault/Graph/Required by_8.md
-- [[Connections_770_1]] - document - vault/Graph/Connections_770.md
-- [[Required by_177]] - document - vault/Graph/Required by_8.md
-- [[Required by_4_2]] - document - vault/Graph/Required by_4.md
-- [[Required by_4_3]] - document - vault/Graph/Required by_4.md
-- [[Required by_8_1]] - document - vault/Graph/Required by_8.md
+- [[BaseManager.newRecord()_2_1]] - document - vault/Graph/BaseManager.newRecord()_2.md
+- [[BaseManager.newRecord()_2_2]] - document - vault/Graph/BaseManager.newRecord()_2_1.md
+- [[BaseManager.newRecord()_2_3]] - document - vault/Graph/BaseManager.newRecord()_2.md
+- [[BaseManager.newRecord()_2_1_1]] - document - vault/Graph/BaseManager.newRecord()_2_1.md
+- [[Connections_23300]] - document - vault/Graph/BaseManager.newRecord()_2_1.md
+- [[Connections_23301]] - document - vault/Graph/BaseManager.newRecord()_2.md
+- [[Connections_23302]] - document - vault/Graph/Connections_2392.md
+- [[Connections_23303]] - document - vault/Graph/Connections_2392.md
+- [[Connections_23304]] - document - vault/Graph/Connections_956_1.md
+- [[Connections_2392_1]] - document - vault/Graph/Connections_2392.md
+- [[Connections_956_2]] - document - vault/Graph/Connections_956_1.md
+- [[Connections_956_1_1]] - document - vault/Graph/Connections_956_1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,8 +29,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 1208]]
-- 1 edge to [[_COMMUNITY_Community 329]]
+- 4 edges to [[_COMMUNITY_Community 289]]
+- 2 edges to [[_COMMUNITY_Community 555]]
+- 1 edge to [[_COMMUNITY_Community 567]]
+- 1 edge to [[_COMMUNITY_Community 775]]
 
 ## Top bridge nodes
-- [[Required by_4_2]] - degree 4, connects to 2 communities
+- [[BaseManager.newRecord()_2_1]] - degree 6, connects to 3 communities
+- [[Connections_956_1_1]] - degree 5, connects to 3 communities
+- [[BaseManager.newRecord()_2_1_1]] - degree 4, connects to 1 community
+- [[Connections_2392_1]] - degree 3, connects to 1 community

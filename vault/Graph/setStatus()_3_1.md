@@ -1,20 +1,22 @@
 ---
-source_file: "vault/Graph/setStatus()_3.md"
+source_file: "vault/Graph/setStatus()_3_1.md"
 type: "document"
-community: "Community 782"
+community: "Community 255"
 location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_782
+  - community/Community_255
 ---
 
-# setStatus()_3.md
+# setStatus()_3_1.md
 
 ## Connections
-- [[Connections_55_1]] - `references` [EXTRACTED]
+- [[Connections_55_1_1]] - `references` [EXTRACTED]
 - [[_COMMUNITY_Community 101]] - `references` [EXTRACTED]
-- [[setStatus()_7]] - `contains` [EXTRACTED]
-- [[setStatus()_2_1]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 255]] - `references` [EXTRACTED]
+- [[_COMMUNITY_Community 782]] - `references` [EXTRACTED]
+- [[setStatus()_3_1_1]] - `contains` [EXTRACTED]
+- [[setStatus()_7]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_782
+#graphify/document #graphify/EXTRACTED #community/Community_255
