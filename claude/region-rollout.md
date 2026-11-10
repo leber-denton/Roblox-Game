@@ -34,3 +34,10 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
  Shadow Woods | Lane6 | 0 | 428 | 3490 / 3660 / 3790 | Morrow 0.81 | PASS | PASS | Good: twisted trees, glowing mushrooms, lanterns, standing stones. Its two old SideWall glass parts were opaque white; set to Meadow's divider transparency 0.7 (OrigTransparency attribute keeps 0). |
  Sky Spire | Lane7 | 0 | 395 | 4010 / 4180 / 4310 | Aero 0.31 | PASS | PASS | Good: bright grass, clouds, pillars, floating islands, cream limestone walls. |
  End of Meadow Route | Lane1 | - | unchanged | unchanged | Slate 3.02 | PASS | not rebuilt | Play screenshot good: green grass, clear road to the gym, gate arch closes the view (Boulder Pass's ridge now continues the sides). Only Slate was moved; Meadow's terrain and decor are unchanged (checked against the Phase 2 backup). |
+
+## Notes for the owner
+- **Gym leader models are swapped in the place:** `Map.BrookGym` holds Coralie and `Map.TideGym` holds Duna, while `GameData.GymLeaders` says Brook = Duna, Tide = Coralie. Not changed (gym and battle setup is off limits for this run). Check whether the Brook and Tide gym battles start.
+- **Route trainer models with wrong TrainerId attributes:** `s9c` has `r1a`, `s10b` has `r6c`, `s10c` has `r7a`. The model names match GameData; the attributes don't. Not changed.
+- **Edit-mode screenshots** sometimes show terrain paler or browner than its material (Meadow's end looked brown in Edit but is green in Play). Roads on Thunder Mesa and Boulder Pass look faint in Edit; please look at them in Play.
+- Lighting is unchanged and global (Meadow's). Per-route mood comes from materials and decor.
+- Region 2's old buried decor (261 items that were never visible inside the cliffs) is in `RegionTerrainBackups."<lane> buried"`, not deleted.
