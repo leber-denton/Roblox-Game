@@ -846,37 +846,39 @@ GameData.Dungeon = {
 -- x, z = where they stand (they face the hub, toward players walking up the route). Beaten once = beaten for good.
 GameData.RouteTrainers = {
 	-- Meadow Route
-	{ id = "r1a", lane = "Lane1", name = "Rookie Theo", x = 14, z = 470, team = { { "Nibbit", 6 }, { "Fluttle", 6 } }, intro = "Hey! I just got my first creatures. Battle me!", after = "You're good! I need more practice." },
-	{ id = "r1b", lane = "Lane1", name = "Explorer Mae", x = -14, z = 530, team = { { "Wigglet", 7 }, { "Stingle", 7 } }, intro = "The woods are full of bugs. Want to meet mine?", after = "My bugs need a nap after that." },
-	{ id = "r1c", lane = "Lane1", name = "Scout Bram", x = 14, z = 585, team = { { "Thornip", 8 }, { "Brawlet", 8 } }, intro = "Nobody gets to Slate without getting past me!", after = "Fine, go on. Slate's tougher than me, though." },
+	-- Lane1 trainers spread along Meadow Route (2026-11-10, theming A1): z 370 meadow, 540 at the edge of Whisperwood, 670 deep in it
+	-- after RoadOffsets (+120). Models are moved to match by RegionDecorator.placeTrainers("Lane1").
+	{ id = "r1a", lane = "Lane1", name = "Rookie Theo", x = 14, z = 250, team = { { "Nibbit", 6 }, { "Fluttle", 6 } }, intro = "Hey! I just got my first creatures. Battle me!", after = "You're good! I need more practice." },
+	{ id = "r1b", lane = "Lane1", name = "Explorer Mae", x = -14, z = 420, team = { { "Wigglet", 7 }, { "Stingle", 7 } }, intro = "The woods are full of bugs. Want to meet mine?", after = "My bugs need a nap after that." },
+	{ id = "r1c", lane = "Lane1", name = "Scout Bram", x = 14, z = 550, team = { { "Thornip", 8 }, { "Brawlet", 8 } }, intro = "Nobody gets to Slate without getting past me!", after = "Fine, go on. Slate's tougher than me, though." },
 	-- Boulder Pass, Glimmer Cavern, Brook Town
-	{ id = "r2a", lane = "Lane1B", name = "Caver Ollie", x = 196, z = 459, team = { { "Echoling", 12 }, { "Pebblit", 12 } }, intro = "Shh! You'll wake the Echolings... too late. Battle!", after = "The cave's all yours." },
-	{ id = "r2b", lane = "Lane1B", name = "Crystal Seeker Lena", x = 224, z = 519, team = { { "Glintle", 13 }, { "Echoling", 13 } }, intro = "These crystals are mine! Well... let's battle for them!", after = "Okay, you can look at the crystals." },
-	{ id = "r2c", lane = "Lane1B", name = "Angler Ross", x = 201, z = 584, team = { { "Puddlepup", 14 }, { "Sporelet", 14 } }, intro = "Caught a challenger! Let's see how you swim.", after = "That one got away from me." },
+	{ id = "r2a", lane = "Lane1B", name = "Caver Ollie", x = 196, z = 250, team = { { "Echoling", 12 }, { "Pebblit", 12 } }, intro = "Shh! You'll wake the Echolings... too late. Battle!", after = "The cave's all yours." },
+	{ id = "r2b", lane = "Lane1B", name = "Crystal Seeker Lena", x = 224, z = 420, team = { { "Glintle", 13 }, { "Echoling", 13 } }, intro = "These crystals are mine! Well... let's battle for them!", after = "Okay, you can look at the crystals." },
+	{ id = "r2c", lane = "Lane1B", name = "Angler Ross", x = 196, z = 550, team = { { "Puddlepup", 14 }, { "Sporelet", 14 } }, intro = "Caught a challenger! Let's see how you swim.", after = "That one got away from me." },
 	-- Tide Coast
-	{ id = "r3a", lane = "Lane3", name = "Swimmer Nia", x = -84, z = 470, team = { { "Ripplefin", 19 }, { "Ripplefin", 19 } }, intro = "The water's perfect today! Ready to battle?", after = "Time to dry off..." },
-	{ id = "r3b", lane = "Lane3", name = "Beachcomber Dex", x = -56, z = 530, team = { { "Sandsnip", 20 }, { "Pinchard", 20 } }, intro = "Look what I dug up on the beach! Battle!", after = "Back to digging, I guess." },
-	{ id = "r3c", lane = "Lane3", name = "Diver Kael", x = -84, z = 585, team = { { "Ripplefin", 21 }, { "Pinchard", 21 }, { "Sandsnip", 21 } }, intro = "Duna trained me herself. Show me what you've got!", after = "You might actually beat Duna." },
+	{ id = "r3a", lane = "Lane3", name = "Swimmer Nia", x = -84, z = 250, team = { { "Ripplefin", 19 }, { "Ripplefin", 19 } }, intro = "The water's perfect today! Ready to battle?", after = "Time to dry off..." },
+	{ id = "r3b", lane = "Lane3", name = "Beachcomber Dex", x = -56, z = 420, team = { { "Sandsnip", 20 }, { "Pinchard", 20 } }, intro = "Look what I dug up on the beach! Battle!", after = "Back to digging, I guess." },
+	{ id = "r3c", lane = "Lane3", name = "Diver Kael", x = -84, z = 550, team = { { "Ripplefin", 21 }, { "Pinchard", 21 }, { "Sandsnip", 21 } }, intro = "Duna trained me herself. Show me what you've got!", after = "You might actually beat Duna." },
 	-- Volt Plains
-	{ id = "r4a", lane = "Lane4", name = "Engineer Pax", x = 126, z = 470, team = { { "Zapkit", 25 }, { "Voltmole", 25 } }, intro = "These pylons hum all day. So does my team. Battle!", after = "Short circuit..." },
-	{ id = "r4b", lane = "Lane4", name = "Stormchaser Rin", x = 154, z = 530, team = { { "Buzzbolt", 26 }, { "Zapkit", 26 } }, intro = "I chase storms. You look like a storm. Battle!", after = "Okay, you're a big storm." },
-	{ id = "r4c", lane = "Lane4", name = "Lineworker Gus", x = 126, z = 585, team = { { "Voltmole", 27 }, { "Buzzbolt", 27 }, { "Zapkit", 27 } }, intro = "Nobody reaches Jolt without passing my inspection!", after = "Inspection passed. Go see Jolt." },
+	{ id = "r4a", lane = "Lane4", name = "Engineer Pax", x = 126, z = 250, team = { { "Zapkit", 25 }, { "Voltmole", 25 } }, intro = "These pylons hum all day. So does my team. Battle!", after = "Short circuit..." },
+	{ id = "r4b", lane = "Lane4", name = "Stormchaser Rin", x = 154, z = 420, team = { { "Buzzbolt", 26 }, { "Zapkit", 26 } }, intro = "I chase storms. You look like a storm. Battle!", after = "Okay, you're a big storm." },
+	{ id = "r4c", lane = "Lane4", name = "Lineworker Gus", x = 126, z = 550, team = { { "Voltmole", 27 }, { "Buzzbolt", 27 }, { "Zapkit", 27 } }, intro = "Nobody reaches Jolt without passing my inspection!", after = "Inspection passed. Go see Jolt." },
 	-- Ember Ridge
-	{ id = "r5a", lane = "Lane2", name = "Firewalker Vex", x = 84, z = 470, team = { { "Scorchling", 31 }, { "Cinderock", 31 } }, intro = "I walk on lava for fun. Battling you is easy!", after = "Ouch. That burned." },
-	{ id = "r5b", lane = "Lane2", name = "Smith Hollis", x = 56, z = 530, team = { { "Cinderock", 32 }, { "Embercub", 32 } }, intro = "I forge my team in volcano heat. Let's test yours!", after = "Back to the forge for me." },
-	{ id = "r5c", lane = "Lane2", name = "Ash Ranger Kit", x = 84, z = 585, team = { { "Scorchling", 33 }, { "Embercub", 33 }, { "Cinderock", 33 } }, intro = "I guard the ridge for Ignatia. You won't pass!", after = "Go on. Ignatia's waiting." },
+	{ id = "r5a", lane = "Lane2", name = "Firewalker Vex", x = 84, z = 250, team = { { "Scorchling", 31 }, { "Cinderock", 31 } }, intro = "I walk on lava for fun. Battling you is easy!", after = "Ouch. That burned." },
+	{ id = "r5b", lane = "Lane2", name = "Smith Hollis", x = 56, z = 420, team = { { "Cinderock", 32 }, { "Embercub", 32 } }, intro = "I forge my team in volcano heat. Let's test yours!", after = "Back to the forge for me." },
+	{ id = "r5c", lane = "Lane2", name = "Ash Ranger Kit", x = 84, z = 550, team = { { "Scorchling", 33 }, { "Embercub", 33 }, { "Cinderock", 33 } }, intro = "I guard the ridge for Ignatia. You won't pass!", after = "Go on. Ignatia's waiting." },
 	-- Frost Peak
-	{ id = "r6a", lane = "Lane5", name = "Mountaineer Bo", x = -126, z = 470, team = { { "Frostpaw", 37 }, { "Rimeling", 37 } }, intro = "Climbed this peak a hundred times. Battle me at the top!", after = "Brr. You're tough." },
-	{ id = "r6b", lane = "Lane5", name = "Skier Tova", x = -154, z = 530, team = { { "Icicrest", 38 }, { "Frostpaw", 38 } }, intro = "Whoosh! Out of my way... unless you want to battle!", after = "Wiped out!" },
-	{ id = "r6c", lane = "Lane5", name = "Ice Sculptor Nils", x = -126, z = 585, team = { { "Rimeling", 39 }, { "Icicrest", 39 }, { "Frostpaw", 39 } }, intro = "My creatures are works of art. Let me show you!", after = "Art takes time. And losses." },
+	{ id = "r6a", lane = "Lane5", name = "Mountaineer Bo", x = -126, z = 250, team = { { "Frostpaw", 37 }, { "Rimeling", 37 } }, intro = "Climbed this peak a hundred times. Battle me at the top!", after = "Brr. You're tough." },
+	{ id = "r6b", lane = "Lane5", name = "Skier Tova", x = -154, z = 420, team = { { "Icicrest", 38 }, { "Frostpaw", 38 } }, intro = "Whoosh! Out of my way... unless you want to battle!", after = "Wiped out!" },
+	{ id = "r6c", lane = "Lane5", name = "Ice Sculptor Nils", x = -126, z = 550, team = { { "Rimeling", 39 }, { "Icicrest", 39 }, { "Frostpaw", 39 } }, intro = "My creatures are works of art. Let me show you!", after = "Art takes time. And losses." },
 	-- Shadow Woods
-	{ id = "r7a", lane = "Lane6", name = "Mystic Wren", x = 14, z = 871, team = { { "Gloomwisp", 43 }, { "Shadeshroom", 43 } }, intro = "The spirits told me you'd come. Battle!", after = "The spirits... were wrong." },
-	{ id = "r7b", lane = "Lane6", name = "Night Owl Cass", x = -14, z = 931, team = { { "Nightfang", 44 }, { "Gloomwisp", 44 } }, intro = "I only come out at night. Lucky you!", after = "Back to the shadows." },
-	{ id = "r7c", lane = "Lane6", name = "Medium Odile", x = 14, z = 986, team = { { "Shadeshroom", 45 }, { "Nightfang", 45 }, { "Gloomwisp", 45 } }, intro = "Morrow sees all through me. Prove yourself!", after = "Morrow will be impressed." },
+	{ id = "r7a", lane = "Lane6", name = "Mystic Wren", x = 14, z = 650, team = { { "Gloomwisp", 43 }, { "Shadeshroom", 43 } }, intro = "The spirits told me you'd come. Battle!", after = "The spirits... were wrong." },
+	{ id = "r7b", lane = "Lane6", name = "Night Owl Cass", x = -14, z = 820, team = { { "Nightfang", 44 }, { "Gloomwisp", 44 } }, intro = "I only come out at night. Lucky you!", after = "Back to the shadows." },
+	{ id = "r7c", lane = "Lane6", name = "Medium Odile", x = 14, z = 950, team = { { "Shadeshroom", 45 }, { "Nightfang", 45 }, { "Gloomwisp", 45 } }, intro = "Morrow sees all through me. Prove yourself!", after = "Morrow will be impressed." },
 	-- Sky Spire
-	{ id = "r8a", lane = "Lane7", name = "Skydiver Remy", x = -224, z = 470, team = { { "Zephlet", 49 }, { "Nimbuff", 49 } }, intro = "Ever jumped off a cloud? Battle me first!", after = "Freefall... of my pride." },
-	{ id = "r8b", lane = "Lane7", name = "Glider Pilot Ana", x = -196, z = 530, team = { { "Galewing", 50 }, { "Zephlet", 50 } }, intro = "The wind is on my side today!", after = "The wind changed." },
-	{ id = "r8c", lane = "Lane7", name = "Cloud Watcher Sol", x = -224, z = 585, team = { { "Nimbuff", 51 }, { "Galewing", 51 }, { "Zephlet", 51 } }, intro = "Only the strongest reach Aero. Are you one of them?", after = "You are. Go meet Aero." },
+	{ id = "r8a", lane = "Lane7", name = "Skydiver Remy", x = -224, z = 250, team = { { "Zephlet", 49 }, { "Nimbuff", 49 } }, intro = "Ever jumped off a cloud? Battle me first!", after = "Freefall... of my pride." },
+	{ id = "r8b", lane = "Lane7", name = "Glider Pilot Ana", x = -196, z = 420, team = { { "Galewing", 50 }, { "Zephlet", 50 } }, intro = "The wind is on my side today!", after = "The wind changed." },
+	{ id = "r8c", lane = "Lane7", name = "Cloud Watcher Sol", x = -224, z = 550, team = { { "Nimbuff", 51 }, { "Galewing", 51 }, { "Zephlet", 51 } }, intro = "Only the strongest reach Aero. Are you one of them?", after = "You are. Go meet Aero." },
 }
 
 -- Gym leaders (original characters). npc = the leader's model inside workspace.Map[model].
@@ -1167,7 +1169,7 @@ do
 	for lane, crew in crews do
 		for i, c in crew do
 			n += 1
-			local z = arm.start + laneOrder[lane] * arm.laneLength + ({ 340, 400, 455 })[i]
+			local z = arm.start + laneOrder[lane] * arm.laneLength + ({ 120, 290, 420 })[i] -- Meadow spacing (RegionStyle.spec.trainers), was 340/400/455
 			local x = arm.x + (i == 2 and -14 or 14)
 			table.insert(GameData.RouteTrainers, {
 				id = ("s%s%s"):format(lane:sub(5), string.char(96 + i)), lane = lane, name = c[1], x = x, z = z, team = c[2],

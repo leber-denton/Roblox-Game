@@ -23,7 +23,8 @@ local RouteWalker = {}
 
 local STEP = 4
 local MAX_JUMP = 2.5 -- studs per 4-stud step (~32 degrees)
-local COVER_ABOVE = 15
+local COVER_ABOVE = 15 -- road, verge and shoulder (|dx| <= 33)
+local COVER_EDGE_ABOVE = 28 -- at the lane edge, where Meadow's own approach hills reach ~20
 local CLEAR_HEAD = 7
 local CORRIDOR_HALF = 55 -- cross-section samples stay inside the 130-wide lane
 
@@ -55,14 +56,23 @@ for _, l in R2 do
 	table.insert(RouteWalker.ORDER, l)
 end
 
+local injected = nil
+-- Hand in a RegionPaths module (RegionRollout does) so the walk follows the real road, gym swing included.
+function RouteWalker.useRegionPaths(rp)
+	injected = rp
+end
+
 local function regionPaths()
+	if injected then
+		return injected
+	end
 	local mod = game:GetService("ReplicatedStorage"):FindFirstChild("Shared")
 	mod = mod and mod:FindFirstChild("RegionPaths")
 	if not mod then
 		return nil
 	end
 	local ok, rp = pcall(function()
-		return loadstring(mod.Source)()
+		return require(mod)
 	end)
 	return ok and rp or nil
 end
@@ -333,7 +343,8 @@ function RouteWalker.walk(lane)
 			local x = route.x + dx
 			if not inBox(x, z, gc, gs, 4) then
 				local r = solidRay(Vector3.new(x, 300, z), Vector3.new(0, -400, 0), p)
-				if r and r.Position.Y > base + COVER_ABOVE and (r.Instance:IsA("Terrain") or r.Instance.Size.Magnitude > 60) then
+				local limit = if math.abs(dx) <= 33 then COVER_ABOVE else COVER_EDGE_ABOVE
+				if r and r.Position.Y > base + limit and (r.Instance:IsA("Terrain") or r.Instance.Size.Magnitude > 60) then
 					table.insert(cover, ("%+d:%.0f"):format(dx, r.Position.Y - base))
 				end
 				-- layering: what is under a ground part?
