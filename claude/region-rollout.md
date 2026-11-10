@@ -20,3 +20,4 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
 |---|---|---|---|---|---|---|---|---|
  Sunpetal Fields (pilot) | Lane9 | 38 | 460 | 420 / 590 / 720 | Fern 0.28 | PASS | PASS | Good: dense flowers, sunflowers, birches, fences, hay; grassy hills. A windmill stays embedded in the ridge, as before. |
  Mirage Desert | Lane10 | 22 | 326 | 940 / 1110 / 1240 | Sahra 0.28 | PASS | PASS | Good after retune: sandstone walls, cacti, palms, bones, dry tufts. Road now Ground (sandstone road vanished). |
+ Coral Reef | Lane11 | 14 | 317 | 1460 / 1630 / 1760 | Marin 0.28 | PASS | PASS | Acceptable: boardwalk, palms, tide pools, coral, grass-topped rock walls. A bit sparse. |
