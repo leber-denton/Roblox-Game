@@ -24,3 +24,4 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
  Thunder Mesa | Lane12 | 55 | 354 | 1980 / 2150 / 2280 | Volta 0.28 | PASS | PASS | Props read as a mesa (pillars, rods, dry bush). Road (Asphalt) and ground render paler than their materials in Edit screenshots; check in Play. |
  Toxic Bog | Lane13 | 29 | 338 | 2500 / 2670 / 2800 | Hemlock 0.28 | PASS | PASS | Good after retune: green bog with mud, upright dead trees, reeds, flat toxic pools (was a grey wasteland). |
  Crystal Caverns | Lane14 | 17 | 282 | 3020 / 3190 / 3320 | Gemma 0.21 | PASS | PASS | Good after retune: varied crystals, icy patches, brown road (was a solid wall of big crystals). |
+ Phantom Manor | Lane15 | 33 | 480 | 3540 / 3710 / 3840 | Silas 0.28 | PASS | PASS | Good after retune: dark graveyard grass, graves, iron fences, ruins, lanterns (was flat tan). |
