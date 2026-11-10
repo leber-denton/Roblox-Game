@@ -5,10 +5,10 @@ Rojo maps `src/` into the place (see `default.project.json`). Everything else (R
 ## Layers
 | Layer | Rojo path | What lives there |
 |---|---|---|
-| Shared data | `ReplicatedStorage.Shared` | `GameData` (creatures, items, rarities), `BattleData`, `CreatureBuilder`, `DecorData`, `TrainerAnimations` |
+| Shared data | `ReplicatedStorage.Shared` | `GameData` (creatures, items, rarities), `BattleData`, `CreatureBuilder`, `DecorData`, `TrainerAnimations`, `RegionPaths` |
 | Server entry | `ServerScriptService` | `Main.server` (wires everything, handles join/leave, NPC prompts, teleports), `NPCAnimator.server`, `Showcase.server` |
 | Server services | `ServerScriptService.Modules` | One module per system: Battle, Save, PlayerData, Base, Decor, Dungeon, Gym, League, Coliseum, Social, Story, Tutorial, Pass, Progress, Wild spawner, events, Admin, Leaderboard |
-| Studio tooling | `ServerStorage` | `ModelSync`, `ModelSyncLookup`, `MeshIntake`, `ShowcaseBuilder` |
+| Studio tooling | `ServerStorage` | `ModelSync`, `ModelSyncLookup`, `MeshIntake`, `ShowcaseBuilder`, `RegionTerrainBuilder`, `RegionPathValidator`, `RegionDecorator` |
 | Client | `StarterPlayer.StarterPlayerScripts` | One `.client` script per screen: `BattleUI`, `HUD`, `Menus`, `Bag`, `DecorUI`, `Story`, `Tutorial`, ... plus helpers `BattleFX`, `Sfx` |
 
 ## Biggest files

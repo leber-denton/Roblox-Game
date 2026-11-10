@@ -45,9 +45,10 @@ local function buildQuestWorld()
 	local Lighting = game:GetService("Lighting")
 	local ServerStorage = game:GetService("ServerStorage")
 	local GameData = require(game:GetService("ReplicatedStorage").Shared.GameData)
-	-- Meadow corridor (Lane1, start to gym): decor inside it is never thinned by trim() below.
-	local MEADOW_CORRIDOR_MAX_ABS_X = 66
-	local MEADOW_CORRIDOR_MIN_Z, MEADOW_CORRIDOR_MAX_Z = 250, 770
+	-- Route corridors (every lane's RegionPaths bounds, x +-136 of the lane centre): decor inside them is
+	-- never thinned by trim() below. Was Meadow only; every route is dressed to Meadow's density now
+	-- (Overhaul Phase 2, RegionStyle). Only scenery behind the ridges (136-190 studs out) is still thinned.
+	local ROUTE_CORRIDOR_MAX_ABS_X = 136
 	Lighting.FogStart, Lighting.FogEnd = 600, 1500
 	Lighting.FogColor = Color3.fromRGB(164, 191, 204)
 	local atmosphere = Lighting:FindFirstChildOfClass("Atmosphere")
@@ -168,10 +169,10 @@ local function buildQuestWorld()
 				if d:IsA("Model") then cf,size=d:GetBoundingBox() else cf,size=d.CFrame,d.Size end
 				local p=cf.Position; local center=p.X>230 and 460 or 0
 				local route=p.Z>310 and p.Z<4390 and math.abs(p.X-center)<190
-				local inMeadowCorridor=math.abs(p.X)<MEADOW_CORRIDOR_MAX_ABS_X and p.Z>=MEADOW_CORRIDOR_MIN_Z and p.Z<=MEADOW_CORRIDOR_MAX_Z
+				local inRouteCorridor=math.abs(p.X-center)<ROUTE_CORRIDOR_MAX_ABS_X
 				local functional=d:FindFirstChildWhichIsA("ProximityPrompt",true) or d:FindFirstChildWhichIsA("Humanoid",true)
 				local protected=d.Name:lower():find("path") or d.Name:lower():find("pier") or d.Name:lower():find("arch") or d.Name:lower():find("volcano") or d.Name:lower():find("cave")
-				if route and not inMeadowCorridor and not functional and not protected and math.max(size.X,size.Y,size.Z)<65 then
+				if route and not inRouteCorridor and not functional and not protected and math.max(size.X,size.Y,size.Z)<65 then
 					local phase=(p.Z-(center==0 and 250 or 300))%174
 					if math.abs(p.X-center)<25 or phase>58 then archiveObject(d) end
 				end
@@ -180,12 +181,11 @@ local function buildQuestWorld()
 	end
 	if decor then trim(decor) end
 	root:SetAttribute("ArchivedDecorAssemblies",removed)
-	-- Winding road paint; original spawn zones and trainer positions stay fixed.
+	-- Gate ridges between routes. The roads themselves are terrain now (RegionPaths / RegionTerrainBuilder,
+	-- Overhaul Phase 2), so the old painted WindingPath and the two GateBaffle slabs that blocked every
+	-- road past its gate are gone. Ridges take the route's RegionStyle palette.
 	local routes=Instance.new("Folder");routes.Name="RoutePassages";routes.Parent=root
-	local function segment(a,b,color)
-		local p=part(routes,"WindingPath",Vector3.new(12,0.16,(b-a).Magnitude+0.8),(a+b)/2,color,Enum.Material.Ground,false)
-		p.CFrame=CFrame.lookAt((a+b)/2,b)
-	end
+	local okStyle,RegionStyle=pcall(function() return require(game:GetService("ReplicatedStorage").Shared.RegionStyle) end)
 	for _,region in GameData.Regions do
 		local lane=map.Lanes:FindFirstChild(region.lane)
 		if not lane then continue end
@@ -193,31 +193,12 @@ local function buildQuestWorld()
 		local gate=map.Gates:FindFirstChild("Gate_"..region.lane)
 		if not gate then for _,g in map.Gates:GetChildren() do if g:GetAttribute("Lane")==region.lane then gate=g;break end end end
 		local gz=gate and gate.Position.Z or start
-		local x=lane.Position.X;local y=lane.Position.Y+lane.Size.Y/2+0.1
-		local color=region.lane=="Lane1B" and Color3.fromRGB(139,121,99) or Color3.fromRGB(166,148,111)
-		-- Remove only the old decorative stripe, retaining ground and bridges.
-		for _,d in map:GetDescendants() do
-			if d:IsA("BasePart") and (d.Name=="Path" or d.Name==region.lane.."Path") and d.Size.Y<0.5 and math.abs(d.Position.X-x)<8 and math.abs(d.Position.Z-lane.Position.Z)<100 then archiveObject(d) end
-		end
-		local nodes={Vector3.new(x,y,start+1)}
-		if region.lane~="Lane1" then
-			for _,spec in {{-35,38},{35,78},{0,116}} do table.insert(nodes,Vector3.new(x+spec[1],y,gz+spec[2])) end
-			for n,spec in {{22,38},{-22,78}} do
-				local b=part(routes,"GateBaffle",Vector3.new(68,74,14),Vector3.new(x+spec[1],36,gz+spec[2]),stone)
-				b:SetAttribute("NoWildSpawn",true);b:SetAttribute("Lane",region.lane)
-				local crest=part(routes,"RidgeCrest",Vector3.new(74,8,19),b.Position+Vector3.new(0,38,0),Color3.fromRGB(91,120,98),Enum.Material.Grass)
-				crest:SetAttribute("NoWildSpawn",true)
-			end
-		end
-		for n=1,7 do
-			local depth=125+n*32
-			table.insert(nodes,Vector3.new(x+math.sin(n*math.pi/3)*11,y,start+depth))
-		end
-		table.insert(nodes,Vector3.new(x,y,start+370));table.insert(nodes,Vector3.new(x,y,start+lane.Size.Z-2))
-		for n=2,#nodes do segment(nodes[n-1],nodes[n],color) end
+		local x=lane.Position.X
+		local theme=okStyle and RegionStyle.lanes[region.lane]
 		if gate then
-			for _,dx in {-140,140} do part(routes,"GateRidge",Vector3.new(150,82,27),Vector3.new(x+dx,40,gz+5),stone) end
-			part(routes,"GateCanopy",Vector3.new(130,14,28),Vector3.new(x,82,gz+5),Color3.fromRGB(79,107,90),Enum.Material.Grass)
+			local ridgeColor=theme and theme.palette.trim:Lerp(stone,0.5) or stone
+			for _,dx in {-140,140} do part(routes,"GateRidge",Vector3.new(150,82,27),Vector3.new(x+dx,40,gz+5),ridgeColor) end
+			part(routes,"GateCanopy",Vector3.new(130,14,28),Vector3.new(x,82,gz+5),theme and theme.palette.primary or Color3.fromRGB(79,107,90),Enum.Material.Grass)
 		end
 	end
 	-- Town's cross road ends at its two buildings, with gardens at the endpoints.

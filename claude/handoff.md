@@ -11,7 +11,7 @@ Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after 
 
 ## Phase status
 - [x] Phase 1 audit: `claude/audit.md`, tool `src/ServerStorage/RouteWalker.luau`. Branch `overhaul/p1-audit`.
-- [ ] Phase 2 regions
+- [x] Phase 2 regions: all 16 routes themed, checked and screenshot-reviewed (`claude/region-rollout.md`), branch `overhaul/p2-regions`. Studio NOT saved yet. Left: vault notes for RegionStyle/RegionRollout/RouteWalker.
 - [ ] Phase 3 showcase
 - [ ] Phase 4 dungeon
 - [ ] Phase 5 Trade Center / Coliseum
