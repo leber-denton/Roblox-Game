@@ -14,6 +14,7 @@ Backfilled 2026-11-05 from two stale Drive handoff docs ("Creature Quest - To-Do
 ## Gyms and battle balance
 - [CODE] Steel/Dark/Fairy move gaps, Wigglet/Stingle learnsets, Lunaryx move spread — per the Nov 3 doc these were added (Iron Claw, Steel Beam, Umbra Pulse, Pixie Burst all confirmed present in `BattleData.luau`); re-verify learnset levels still make sense.
 - [CODE+STUDIO] Confirm Boulder Pass/Tide Coast gym-type swap (Boulder Pass = Ground, Tide Coast = Water) actually landed; re-run `NpcGuard.stamp()` after any NPC move.
+- [STUDIO] Gym 1 (Slate, Meadow Gym) floats with rocks around him and the Meadow path doesn't reach the gym base. `ServerStorage.MeadowGymFix` fixes it (dry run first); not yet run on the real place file. The path is `WindingPath` paint from the NPCAnimator world polish, which stops at the end of Lane1.
 - [DENTON] Shinies are currently only a gold sparkle — add real color variants (starters/rares first) or stop advertising shiny odds in the Hot Zone copy.
 
 ## Retention / launch
