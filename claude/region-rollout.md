@@ -22,3 +22,4 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
  Mirage Desert | Lane10 | 22 | 326 | 940 / 1110 / 1240 | Sahra 0.28 | PASS | PASS | Good after retune: sandstone walls, cacti, palms, bones, dry tufts. Road now Ground (sandstone road vanished). |
  Coral Reef | Lane11 | 14 | 317 | 1460 / 1630 / 1760 | Marin 0.28 | PASS | PASS | Acceptable: boardwalk, palms, tide pools, coral, grass-topped rock walls. A bit sparse. |
  Thunder Mesa | Lane12 | 55 | 354 | 1980 / 2150 / 2280 | Volta 0.28 | PASS | PASS | Props read as a mesa (pillars, rods, dry bush). Road (Asphalt) and ground render paler than their materials in Edit screenshots; check in Play. |
+ Toxic Bog | Lane13 | 29 | 338 | 2500 / 2670 / 2800 | Hemlock 0.28 | PASS | PASS | Good after retune: green bog with mud, upright dead trees, reeds, flat toxic pools (was a grey wasteland). |
