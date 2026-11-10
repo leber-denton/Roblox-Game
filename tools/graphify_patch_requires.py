@@ -11,7 +11,9 @@ This script:
   2. scans every .luau file under src/ and tests/ for require(...) calls,
      resolves each one by its last path segment to a module file node,
      and adds a real `imports` edge (file -> module),
-  3. re-clusters, carries community names over from the previous graph,
+  3. links each vault/Code note to the script it describes (the path on the
+     note's second line) with a `describes` edge, so notes and code connect,
+  4. re-clusters, carries community names over from the previous graph,
      and rewrites graph.json, GRAPH_REPORT.md and graph.html.
 
 Run it after every `/graphify` rebuild or `--update` (a rebuild overwrites the patch):
@@ -33,11 +35,10 @@ ROOT = Path(__file__).resolve().parent.parent
 GRAPH = ROOT / "graphify-out" / "graph.json"
 REPORT = ROOT / "graphify-out" / "GRAPH_REPORT.md"
 SCAN_DIRS = ("src", "tests")
-# Placeholder nodes for real external libraries (used by the Python generators) stay.
-KEEP_STUBS = {"json", "math", "random"}
 PATCH_ORIGIN = "require_patch"
 
 REQUIRE_START = re.compile(r"\brequire\s*\(")
+NOTE_PATH = re.compile(r"`((?:src|tests)/[^`]+\.luau)`")
 SEGMENT = re.compile(r'"([A-Za-z_][A-Za-z0-9_]*)"|\.([A-Za-z_][A-Za-z0-9_]*)|\b([A-Za-z_][A-Za-z0-9_]*)')
 
 
@@ -116,11 +117,16 @@ def main() -> int:
     G = load_graph(data)
     old_names = {n: a.get("community_name") for n, a in G.nodes(data=True) if a.get("community_name")}
 
-    # 1. Drop require placeholders (code stubs with no source file).
+    # 1. Drop require placeholders: source-less nodes linked only by imports/calls from Luau files.
+    #    Python imports (json, re, networkx, ...) are real libraries and stay.
     stubs = [
         n for n, a in G.nodes(data=True)
-        if not a.get("source_file") and a.get("file_type") == "concept" and n not in KEEP_STUBS
-        and all(G.edges[n, m].get("relation") in ("imports", "calls") for m in G[n])
+        if not a.get("source_file") and a.get("file_type") == "concept" and G.degree(n)
+        and all(
+            G.edges[n, m].get("relation") in ("imports", "calls")
+            and str(G.edges[n, m].get("source_file", "")).endswith(".luau")
+            for m in G[n]
+        )
     ]
     G.remove_nodes_from(stubs)
     # Earlier patch edges are rebuilt from scratch so re-running is idempotent.
@@ -167,7 +173,26 @@ def main() -> int:
                 )
                 added += 1
 
-    # 3. Re-cluster and rewrite outputs.
+    # 3. Link each vault/Code note to the script named on its second line.
+    noted, unlinked = 0, []
+    for note in sorted((ROOT / "vault" / "Code").glob("*.md")):
+        note_id = "vault_code_" + re.sub(r"[^a-z0-9]", "_", note.stem.lower())
+        lines = note.read_text(encoding="utf-8", errors="replace").splitlines()
+        m = NOTE_PATH.search(lines[1]) if len(lines) > 1 else None
+        target = file_node.get(m.group(1)) if m else None
+        if note_id not in G or not target:
+            if m:  # notes without a script path (e.g. Code Map) are expected
+                unlinked.append(note.name)
+            continue
+        if not G.has_edge(note_id, target):
+            G.add_edge(
+                note_id, target, relation="describes", confidence="EXTRACTED", confidence_score=1.0,
+                source_file=note.relative_to(ROOT).as_posix(), source_location="L2", weight=1.0,
+                _origin=PATCH_ORIGIN,
+            )
+            noted += 1
+
+    # 4. Re-cluster and rewrite outputs.
     communities = cluster(G)
     cohesion = score_all(G, communities)
     labels = carry_labels(G, communities, old_names)
@@ -188,7 +213,9 @@ def main() -> int:
         json.dumps({str(k): v for k, v in labels.items()}, ensure_ascii=False), encoding="utf-8")
     subprocess.run(["graphify", "export", "html"], cwd=ROOT, check=False)
 
-    print(f"Removed {len(stubs)} placeholder nodes; added {added} require edges")
+    print(f"Removed {len(stubs)} placeholder nodes; added {added} require edges; linked {noted} notes to code")
+    if unlinked:
+        print("Notes whose script path matched no file node:", unlinked)
     print(f"Graph: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges, {len(communities)} communities")
     if unresolved:
         print("Unresolved requires (no matching module file):", dict(unresolved.most_common()))
