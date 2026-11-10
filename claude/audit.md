@@ -1,5 +1,9 @@
 # World audit (Phase 1, 2026-11-10)
 
+## Closure evidence (2026-11-10, later the same day)
+
+Every item marked FAILED or NOT TESTED in the continuation evidence below was closed: see "Checks" in `claude/changes-report.md`. Captures `Phase2_MeadowEnd_Play_z640`, `Phase2_MeadowEnd_Play_bypass`, `Gym_Brook_battle` and `Gym_Tide_battle` are inline tool evidence, not exported files.
+
 ## Continuation evidence (2026-11-10; historical audit retained below)
 
 - **PASSED:** in a fresh Play server on test place `94034385545160`, `RouteWalker.gate()` passed for all 16 results from `walkAll()`.

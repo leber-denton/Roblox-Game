@@ -2,17 +2,14 @@
 
 Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after each phase.
 
-## Continuation verification (2026-11-10; supersedes environment claims below)
+## Phase 2 closure (2026-11-10, Claude; supersedes Codex's verification notes and the environment claims below)
 
-- Status: **INCOMPLETE**. Phase 2 runtime ray checks passed, but the local place backup and remaining validation gates are unresolved. Phases 3–6 have not started.
-- Working checkout: `C:\Users\Leber\OneDrive\Documents\ChatGPT\Pokemon game`; branch `overhaul/p2-verification`, based on Phase 2 `0d5a58deaa8af1ba6ee010fc880b7d43cb976eb5`. Latest fetched main reference: `04ad1249ed22d6c3154230e5dcbaa333d77af4f9`. Future phase branches must retain Phase 2 and branch from their predecessor. No branches were reset or recreated.
-- Original checkout located at `C:\Claude\Roblox-Game`, on `overhaul/p2-regions` at the same Phase 2 commit. Its untracked `.agents/` and `AGENTS.md` were preserved. The vault and graph are actually at `C:\Claude\Roblox` and `C:\Claude\Roblox-Game\graphify-out\graph.json`; the supplied `C:\Codex` paths are stale.
-- Verified Studio bridge: `38919e79-bf48-4475-a486-b4c4b8ceeb23`, test place `94034385545160`, named `LilDiesel468's Place: 11102026_1`. Studio is now in Edit mode.
-- Rojo 7.7.1 started from PowerShell with `rojo serve default.project.json --address 127.0.0.1 --port 34872` in the working checkout. Terminal session `28467`; server PID observed `20996`. Verified an established TCP connection from `RobloxStudioBeta.exe` PID `16016` to port 34872. Restart from this checkout if the process ends. Do not start a competing server from the original checkout.
-- Owner confirmed saving after the previous session. This continuation did not save or publish. No `.rbxl`/`.rbxlx` exists in the searched `C:\Claude` tree, workspace/parent, Documents, Desktop, or Downloads. **Backup: NOT TESTED / unavailable.** A cloud save and in-place clones do not satisfy the required local `.rbxl` backup. Obtain the actual local file, save the verified test place locally, then copy it beside itself with unique phase/timestamp and verify nonzero size before implementation.
-- No source or unmanaged Edit-place changes were made by this continuation. Temporary Play changes were character teleports, hidden tutorial/story overlays, camera positioning, and test access attributes; the playtest has ended. The attempted unsupported `fireproximityprompt` call failed without triggering a battle.
-- Required development skills `creature-quest-dev-pipeline` and `roblox-dev:roblox-ui` were not found in available skills or searched project skill folders. Their workflows have not run. The graphify skill was read; the original supplied graph path was absent. Query the newly located graph before further source investigation.
-- Resume: first resolve the local backup. Then finish Meadow's ending screenshot, repeat gym interactions with isolated NoSave test data and the existing tutorial/admin test controls, and narrow/test RouteWalker's gate-arch cover exclusion. Update audit/rollout evidence, save locally, and commit Phase 2 closure before branching Phase 3. Do not use a numeric RouteWalker pass alone to declare the full gate passed.
+- Status: Phase 2 **closed**, every gate PASSED (details in `claude/changes-report.md`). Phases 3-6 not started.
+- Working checkout: `C:\Claude\Roblox-Game`, branch `overhaul/p2-regions` (Codex's docs commit `72b49bfb2` fast-forwarded in; the Codex checkout under OneDrive is no longer used). Later phases branch from their predecessor, never from bare `main`.
+- Rojo 7.7.1 serves **this** checkout: `rojo serve default.project.json --address 127.0.0.1 --port 34872`. Codex's server (PIDs 19816/20996) was stopped first; Studio (test place `94034385545160`) reconnected by itself. Check with `netstat -ano | findstr 34872` before editing; never run two servers.
+- Local place file: `C:\Claude\CQ_NewestSource_TEST.rbxl`, made with Studio **File > Download a Copy** (there is no "Save to File As" for a cloud place). Download a Copy first saves the test place to Roblox (a cloud save of the test place, not a publish), then writes the file. Phase backups are timestamped copies beside it: `CQ_NewestSource_TEST.<Phase>_<yyyymmdd-hhmm>.rbxl`. First one: `...Phase2-closure_20261110-1254.rbxl` (9,828,766 bytes, hash-matched).
+- Gym test recipe (Play): on the client call `Remotes.Admin:InvokeServer` with `saving {on=false}`, `finishTutorial`, `allBadges`, `champion`; check `NoSave == true` on the server; tap through the Professor Maple dialogue (Return); stand 6 studs from the leader and hold E for about a second. Leave a battle with `Remotes.BattleAction:FireServer("run")`. Simulated mouse clicks on BattleUI buttons did not register.
+- Skills: `anthropic-skills:creature-quest-dev-pipeline` exists and was followed; `roblox-dev:roblox-ui` exists and is for Phase 6.
 
 ## Environment facts
 - Studio has the cloud test place "LilDiesel468's Place: 11102026_1" (placeId 94034385545160) open; Rojo (`rojo serve`, 7.7.1) syncs into it. The live game (113252540027729) is never touched.
@@ -23,7 +20,7 @@ Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after 
 
 ## Phase status
 - [x] Phase 1 audit: `claude/audit.md`, tool `src/ServerStorage/RouteWalker.luau`. Branch `overhaul/p1-audit`.
-- [x] Phase 2 regions: all 16 routes themed, checked and screenshot-reviewed (`claude/region-rollout.md`), branch `overhaul/p2-regions`. Studio NOT saved yet. Left: vault notes for RegionStyle/RegionRollout/RouteWalker.
+- [x] Phase 2 regions: all 16 routes themed, checked and screenshot-reviewed (`claude/region-rollout.md`), branch `overhaul/p2-regions`. Closed 2026-11-10 (canopy exclusion narrowed, gyms and Meadow end verified). Left for Phase 3: vault notes for RegionStyle/RegionRollout/RouteWalker.
 - [ ] Phase 3 showcase
 - [ ] Phase 4 dungeon
 - [ ] Phase 5 Trade Center / Coliseum

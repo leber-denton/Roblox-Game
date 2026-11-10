@@ -1,5 +1,9 @@
 # Region rollout log (Phase 2)
 
+## Closure addendum (2026-11-10, later the same day)
+
+Phase 2 is closed. The three open items below were settled: Meadow's ending was reviewed from clear viewpoints in Play (good), both gym battles start (Brook = Duna, Ground; Tide = Coralie, Water), and RouteWalker's canopy exemption now checks the actual slab and looks beneath it (regression in `tests/RouteWalkerTests.luau`; all 16 routes still pass). Boulder Pass's validator warning is `no Map.GlimmerCavern model found` (harmless). A local place file and backup now exist; see `claude/handoff.md`. Evidence: `claude/changes-report.md`.
+
 ## Continuation addendum (2026-11-10)
 
 Historical route rows below are retained. Fresh Play checks passed RouteWalker and RegionPathValidator on all 16 routes (Boulder Pass: one validator warning). Frost Peak's snow/ice character view was reviewed, and Thunder Mesa/Boulder Pass roads were visibly distinct in Play. See `claude/audit.md` for capture IDs and exact limitations.

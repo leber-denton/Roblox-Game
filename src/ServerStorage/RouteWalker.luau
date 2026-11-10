@@ -221,8 +221,12 @@ local function checkNpc(model, issues)
 end
 
 -- Ray that skips see-through parts (glass dividers, invisible zones), up to 6 of them.
-local function solidRay(origin, dir, p)
-	local extra = {}
+-- `skip` (optional) lists instances the caller already wants ignored; they stay ignored on every retry.
+local function solidRay(origin, dir, p, skip)
+	local extra = table.clone(skip or {})
+	if #extra > 0 then
+		p = params(extra)
+	end
 	for _ = 1, 6 do
 		local r = workspace:Raycast(origin, dir, p)
 		if not r or r.Instance:IsA("Terrain") or r.Instance.Transparency < 0.3 then
@@ -230,6 +234,70 @@ local function solidRay(origin, dir, p)
 		end
 		table.insert(extra, r.Instance)
 		p = params(extra)
+	end
+	return nil
+end
+
+-- The gate canopy NPCAnimator.buildQuestWorld puts over every gate at server start: one 130 x 14 x 28 slab
+-- centred on the lane, 82 studs up, 5 studs past the gate. It is the only thing a cover or roof ray may look
+-- past, and only when it is that exact slab: right parent, size, height, upright, on a lane centreline, at a
+-- real gate, with its underside well clear of the road. A part that merely has the name is treated like any
+-- other obstruction. (GateRidge slabs stand at |dx| 65-215, outside the +-55 corridor, so a ridge hit inside
+-- the corridor is never expected and gets no exemption.)
+local ARCH_SIZE = Vector3.new(130, 14, 28)
+local ARCH_Y = 82
+local ARCH_GATE_OFFSET = 5
+local ARCH_TOL = 1.5
+local ARCH_MIN_CLEAR = 60 -- canopy underside must be at least this far above the road
+local LANE_CENTRES = { 0, 460 }
+
+function RouteWalker.isGateCanopy(inst, roadY)
+	if not inst or not inst:IsA("BasePart") or inst.Name ~= "GateCanopy" then
+		return false
+	end
+	local map = workspace:FindFirstChild("Map")
+	local polish = map and map:FindFirstChild("WorldPolish")
+	local passages = polish and polish:FindFirstChild("RoutePassages")
+	local gates = map and map:FindFirstChild("Gates")
+	if not passages or not gates or inst.Parent ~= passages then
+		return false
+	end
+	if (inst.Size - ARCH_SIZE).Magnitude > ARCH_TOL or math.abs(inst.Position.Y - ARCH_Y) > ARCH_TOL then
+		return false
+	end
+	if inst.CFrame.UpVector.Y < 0.999 or math.abs(inst.CFrame.LookVector.Z) < 0.999 then
+		return false -- tilted or turned
+	end
+	if inst.Position.Y - inst.Size.Y / 2 < (roadY or 0) + ARCH_MIN_CLEAR then
+		return false
+	end
+	local onCentre = false
+	for _, cx in LANE_CENTRES do
+		if math.abs(inst.Position.X - cx) <= ARCH_TOL then
+			onCentre = true
+		end
+	end
+	if not onCentre then
+		return false
+	end
+	for _, g in gates:GetChildren() do
+		if g:IsA("BasePart") and math.abs(inst.Position.Z - (g.Position.Z + ARCH_GATE_OFFSET)) <= ARCH_TOL then
+			return true
+		end
+	end
+	return false
+end
+
+-- Downward ray that looks past verified gate canopies (at most 3) and returns what is underneath, so an
+-- obstruction below an arch is judged exactly like one in the open.
+local function rayUnderArches(origin, dir, p, roadY)
+	local skip = {}
+	for _ = 1, 4 do
+		local r = solidRay(origin, dir, p, skip)
+		if not r or not RouteWalker.isGateCanopy(r.Instance, roadY) then
+			return r
+		end
+		table.insert(skip, r.Instance)
 	end
 	return nil
 end
@@ -267,7 +335,7 @@ local function walkPoints(route, pts, p)
 				bad = true
 			end
 			-- anything over the road at all (mountain, cave roof, overhang)
-			local sky = solidRay(Vector3.new(s.x, 300, s.z), Vector3.new(0, -(300 - s.y - CLEAR_HEAD), 0), p)
+			local sky = rayUnderArches(Vector3.new(s.x, 300, s.z), Vector3.new(0, -(300 - s.y - CLEAR_HEAD), 0), p, s.y)
 			if sky and sky.Position.Y > s.y + CLEAR_HEAD then
 				local what = sky.Instance:IsA("Terrain") and ("terrain " .. sky.Material.Name) or sky.Instance:GetFullName()
 				local isTree = not sky.Instance:IsA("Terrain") and (sky.Instance:GetFullName():lower():find("tree") or sky.Instance:GetFullName():lower():find("oak"))
@@ -349,10 +417,10 @@ function RouteWalker.walk(lane)
 				end
 			end
 			if not kept and not inBox(x, z, gc, gs, 4) then
-				local r = solidRay(Vector3.new(x, 300, z), Vector3.new(0, -400, 0), p)
+				-- looks past a verified gate canopy only, and still judges whatever stands beneath it
+				local r = rayUnderArches(Vector3.new(x, 300, z), Vector3.new(0, -400, 0), p, base)
 				local limit = if math.abs(dx) <= 33 then COVER_ABOVE else COVER_EDGE_ABOVE
-				local arch = r and (r.Instance.Name == "GateCanopy" or r.Instance.Name == "GateRidge") -- gate arches, 80+ up
-				if r and not arch and r.Position.Y > base + limit and (r.Instance:IsA("Terrain") or r.Instance.Size.Magnitude > 60) then
+				if r and r.Position.Y > base + limit and (r.Instance:IsA("Terrain") or r.Instance.Size.Magnitude > 60) then
 					table.insert(cover, ("%+d:%.0f"):format(dx, r.Position.Y - base))
 				end
 				-- layering: what is under a ground part?
