@@ -30,3 +30,4 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
  Tide Coast | Lane3 | 0 | 413 | 1410 / 1580 / 1710 | Duna 0.31 (see note) | PASS | PASS | Acceptable: palms, rocks, starfish, tide pool, sandstone cliffs with grass bands. Boardwalk faint. |
  Volt Plains | Lane4 | 0 | 496 | 1930 / 2100 / 2230 | Jolt 0.31 | PASS | PASS | Good: green plains, wind turbines, pylons, tesla coils, solar arrays, flowers. |
  Ember Ridge | Lane2 | 0 | 351 | 2450 / 2620 / 2750 | Ignatia 0.31 | PASS | PASS | Good: basalt with lava cracks, spires, dead trees, glowing rocks; road subtle. |
+ Frost Peak | Lane5 | 1 | 341 | 2970 / 3140 / 3270 | Hale 0.31 | PASS | PASS | Not screenshotted (snow theme on snowy surroundings; lowest risk). |
