@@ -32,3 +32,4 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
  Ember Ridge | Lane2 | 0 | 351 | 2450 / 2620 / 2750 | Ignatia 0.31 | PASS | PASS | Good: basalt with lava cracks, spires, dead trees, glowing rocks; road subtle. |
  Frost Peak | Lane5 | 1 | 341 | 2970 / 3140 / 3270 | Hale 0.31 | PASS | PASS | Not screenshotted (snow theme on snowy surroundings; lowest risk). |
  Shadow Woods | Lane6 | 0 | 428 | 3490 / 3660 / 3790 | Morrow 0.81 | PASS | PASS | Good: twisted trees, glowing mushrooms, lanterns, standing stones. Its two old SideWall glass parts were opaque white; set to Meadow's divider transparency 0.7 (OrigTransparency attribute keeps 0). |
+ Sky Spire | Lane7 | 0 | 395 | 4010 / 4180 / 4310 | Aero 0.31 | PASS | PASS | Good: bright grass, clouds, pillars, floating islands, cream limestone walls. |
