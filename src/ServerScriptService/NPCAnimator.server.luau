@@ -45,6 +45,9 @@ local function buildQuestWorld()
 	local Lighting = game:GetService("Lighting")
 	local ServerStorage = game:GetService("ServerStorage")
 	local GameData = require(game:GetService("ReplicatedStorage").Shared.GameData)
+	-- Meadow corridor (Lane1, start to gym): decor inside it is never thinned by trim() below.
+	local MEADOW_CORRIDOR_MAX_ABS_X = 66
+	local MEADOW_CORRIDOR_MIN_Z, MEADOW_CORRIDOR_MAX_Z = 250, 770
 	Lighting.FogStart, Lighting.FogEnd = 600, 1500
 	Lighting.FogColor = Color3.fromRGB(164, 191, 204)
 	local atmosphere = Lighting:FindFirstChildOfClass("Atmosphere")
@@ -165,9 +168,10 @@ local function buildQuestWorld()
 				if d:IsA("Model") then cf,size=d:GetBoundingBox() else cf,size=d.CFrame,d.Size end
 				local p=cf.Position; local center=p.X>230 and 460 or 0
 				local route=p.Z>310 and p.Z<4390 and math.abs(p.X-center)<190
+				local inMeadowCorridor=math.abs(p.X)<MEADOW_CORRIDOR_MAX_ABS_X and p.Z>=MEADOW_CORRIDOR_MIN_Z and p.Z<=MEADOW_CORRIDOR_MAX_Z
 				local functional=d:FindFirstChildWhichIsA("ProximityPrompt",true) or d:FindFirstChildWhichIsA("Humanoid",true)
 				local protected=d.Name:lower():find("path") or d.Name:lower():find("pier") or d.Name:lower():find("arch") or d.Name:lower():find("volcano") or d.Name:lower():find("cave")
-				if route and not functional and not protected and math.max(size.X,size.Y,size.Z)<65 then
+				if route and not inMeadowCorridor and not functional and not protected and math.max(size.X,size.Y,size.Z)<65 then
 					local phase=(p.Z-(center==0 and 250 or 300))%174
 					if math.abs(p.X-center)<25 or phase>58 then archiveObject(d) end
 				end
