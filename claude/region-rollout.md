@@ -25,3 +25,4 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
  Toxic Bog | Lane13 | 29 | 338 | 2500 / 2670 / 2800 | Hemlock 0.28 | PASS | PASS | Good after retune: green bog with mud, upright dead trees, reeds, flat toxic pools (was a grey wasteland). |
  Crystal Caverns | Lane14 | 17 | 282 | 3020 / 3190 / 3320 | Gemma 0.21 | PASS | PASS | Good after retune: varied crystals, icy patches, brown road (was a solid wall of big crystals). |
  Phantom Manor | Lane15 | 33 | 480 | 3540 / 3710 / 3840 | Silas 0.28 | PASS | PASS | Good after retune: dark graveyard grass, graves, iron fences, ruins, lanterns (was flat tan). |
+ Dragon Peaks | Lane16 | 21 | 315 | 4060 / 4230 / 4360 | Drakon 0.43 | PASS | PASS | Good after retune: open basalt with lava cracks, glowing rocks, spaced crags (was a wall of crags). Lava pools now lie flat. |
