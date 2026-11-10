@@ -28,3 +28,4 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
  Dragon Peaks | Lane16 | 21 | 315 | 4060 / 4230 / 4360 | Drakon 0.43 | PASS | PASS | Good after retune: open basalt with lava cracks, glowing rocks, spaced crags (was a wall of crags). Lava pools now lie flat. |
  Boulder Pass | Lane1B | 0 | 110 | 890 / 1060 / 1190 | Coralie 0.34 (see note) | PASS (ROOF = Glimmer Cavern) | PASS (1 warning) | Good after retune: grassy rocky pass, boulders, logs, spires, oaks, cave mouth. Two trainers stand inside the cave by Meadow's spacing. Road faint in Edit screenshots. |
  Tide Coast | Lane3 | 0 | 413 | 1410 / 1580 / 1710 | Duna 0.31 (see note) | PASS | PASS | Acceptable: palms, rocks, starfish, tide pool, sandstone cliffs with grass bands. Boardwalk faint. |
+ Volt Plains | Lane4 | 0 | 496 | 1930 / 2100 / 2230 | Jolt 0.31 | PASS | PASS | Good: green plains, wind turbines, pylons, tesla coils, solar arrays, flowers. |
