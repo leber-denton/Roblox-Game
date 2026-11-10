@@ -23,3 +23,4 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
  Coral Reef | Lane11 | 14 | 317 | 1460 / 1630 / 1760 | Marin 0.28 | PASS | PASS | Acceptable: boardwalk, palms, tide pools, coral, grass-topped rock walls. A bit sparse. |
  Thunder Mesa | Lane12 | 55 | 354 | 1980 / 2150 / 2280 | Volta 0.28 | PASS | PASS | Props read as a mesa (pillars, rods, dry bush). Road (Asphalt) and ground render paler than their materials in Edit screenshots; check in Play. |
  Toxic Bog | Lane13 | 29 | 338 | 2500 / 2670 / 2800 | Hemlock 0.28 | PASS | PASS | Good after retune: green bog with mud, upright dead trees, reeds, flat toxic pools (was a grey wasteland). |
+ Crystal Caverns | Lane14 | 17 | 282 | 3020 / 3190 / 3320 | Gemma 0.21 | PASS | PASS | Good after retune: varied crystals, icy patches, brown road (was a solid wall of big crystals). |
