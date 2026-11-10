@@ -26,3 +26,4 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
  Crystal Caverns | Lane14 | 17 | 282 | 3020 / 3190 / 3320 | Gemma 0.21 | PASS | PASS | Good after retune: varied crystals, icy patches, brown road (was a solid wall of big crystals). |
  Phantom Manor | Lane15 | 33 | 480 | 3540 / 3710 / 3840 | Silas 0.28 | PASS | PASS | Good after retune: dark graveyard grass, graves, iron fences, ruins, lanterns (was flat tan). |
  Dragon Peaks | Lane16 | 21 | 315 | 4060 / 4230 / 4360 | Drakon 0.43 | PASS | PASS | Good after retune: open basalt with lava cracks, glowing rocks, spaced crags (was a wall of crags). Lava pools now lie flat. |
+ Boulder Pass | Lane1B | 0 | 110 | 890 / 1060 / 1190 | Coralie 0.34 (see note) | PASS (ROOF = Glimmer Cavern) | PASS (1 warning) | Good after retune: grassy rocky pass, boulders, logs, spires, oaks, cave mouth. Two trainers stand inside the cave by Meadow's spacing. Road faint in Edit screenshots. |
