@@ -64,18 +64,22 @@ local M = Enum.Material
 -- decor: { role, template (dotted path under Workspace), from, to (depth band, optional) }
 RegionStyle.lanes = {
 	Lane1B = {
-		name = "Boulder Pass", region = 1, order = 1, seed = 21, gymZ = 1264,
+		name = "Boulder Pass", region = 1, order = 1, seed = 21, gymZ = 1264, prevGymZ = 750, -- Meadow's gym
 		palette = { primary = Color3.fromRGB(122, 112, 98), accent = Color3.fromRGB(152, 138, 112), trim = Color3.fromRGB(88, 102, 84) },
-		ground = M.Ground, accent = M.Rock, under = M.Ground, cliff = M.Rock, peak = M.Slate, road = M.Cobblestone,
+		-- a grassy, rocky pass out of Meadow (plain Ground read as a bare tan desert in the first pass)
+		ground = M.Grass, accent = M.Rock, accentAt = 0.6, under = M.Ground, cliff = M.Rock, peak = M.Slate, road = M.Ground,
 		-- Glimmer Cavern: the cave plateau (parts) over the road, z ~915-1195, stays as built
 		keepClear = { { name = "GlimmerCavern", minX = -78, maxX = 78, minZ = 912, maxZ = 1196, floorY = 0.0, margin = 6 } },
 		decor = {
-			{ "cover", "Map.Decor.BoulderPass.Flower" },
-			{ "verge", "Map.Decor.ShadowWoods.GlowMushrooms" },
-			{ "bush", "Map.Decor.Bushes.FlowerBush", 0, 0.3 },
-			{ "mid", "Map.Decor.Rocks.Boulder" },
-			{ "tree", "Map.Decor.Trees.OakTree", 0, 0.3 },
-			{ "far", "Map.Decor.BoulderPass.Spire" },
+			{ "cover", "Map.Decor.Rocks.Boulder", 0, 1, { perHundred = 30 } },
+			{ "mid", "Map.Decor.Rocks.Log", 0, 1, { every = 26 } },
+			{ "cover2", "Map.Decor.Bushes.FlowerBush", 0, 1, { perHundred = 30, maxSize = 8 } },
+			{ "verge", "Map.Decor.ShadowWoods.GlowMushrooms", 0, 1, { every = 14 } },
+			{ "bush", "Map.Decor.Rocks.Boulder", 0, 1, { every = 16 } },
+			{ "mid", "Map.Decor.BoulderPass.Spire", 0, 1, { every = 34 } },
+			{ "tree", "Map.Decor.Trees.OakTree", 0, 0.32, { every = 18 } },
+			{ "tree", "Map.Decor.Trees.OakTree", 0.84, 1, { every = 18 } },
+			{ "far", "Map.Decor.Trees.OakTree", 0, 1, { every = 30 } },
 		},
 	},
 	Lane3 = {
@@ -181,12 +185,13 @@ RegionStyle.lanes = {
 	Lane10 = {
 		name = "Mirage Desert", region = 2, order = 1, seed = 101, gymZ = 1313,
 		palette = { primary = Color3.fromRGB(230, 200, 140), accent = Color3.fromRGB(196, 120, 70), trim = Color3.fromRGB(80, 150, 110) },
-		ground = M.Sand, accent = M.Sandstone, accentAt = 0.7, under = M.Sandstone, cliff = M.Sandstone, peak = M.Sandstone, road = M.Sandstone,
+		ground = M.Sand, accent = M.Sandstone, accentAt = 0.7, under = M.Sandstone, cliff = M.Sandstone, peak = M.Sandstone, road = M.Ground, -- a sandstone road vanished into the sand
 		boundaryRock = M.Sandstone,
 		decor = {
-			{ "cover", "Map.Decor.Region2Fill.Lane10.Bones" },
+			{ "cover", "Map.Decor.Region2Fill.Lane10.Bones", 0, 1, { maxSize = 10, perHundred = 35 } },
+			{ "cover2", "Map.Decor.VoltPlains.TallGrass", 0, 1, { perHundred = 40 } }, -- dry tufts
 			{ "verge", "Map.Decor.Region2Fill.Lane10.SandRock" },
-			{ "bush", "Map.Decor.Region2Fill.Lane10.Cactus" },
+			{ "bush", "Map.Decor.Region2Fill.Lane10.Cactus", 0, 1, { every = 9 } },
 			{ "mid", "Map.Decor.Region2Fill.Lane10.Dune" },
 			{ "tree", "Map.Decor.Region2Fill.Lane10.Palm" },
 			{ "far", "Map.Decor.Region2.Lane10.Mesa" },
@@ -210,7 +215,7 @@ RegionStyle.lanes = {
 	Lane12 = {
 		name = "Thunder Mesa", region = 2, order = 3, seed = 121, gymZ = 2353,
 		palette = { primary = Color3.fromRGB(196, 140, 96), accent = Color3.fromRGB(255, 224, 70), trim = Color3.fromRGB(60, 64, 90) },
-		ground = M.Sandstone, accent = M.Rock, accentAt = 0.68, under = M.Sandstone, cliff = M.Sandstone, peak = M.Rock, road = M.Ground,
+		ground = M.Ground, accent = M.Sandstone, accentAt = 0.55, under = M.Sandstone, cliff = M.Sandstone, peak = M.Rock, road = M.Asphalt, -- Sandstone ground swallowed the road in rendering; -- dark road on tan mesa (this place's Slate terrain colour is light tan)
 		boundaryRock = M.Sandstone,
 		decor = {
 			{ "cover", "Map.Decor.Region2Fill.Lane12.DryBush" },
@@ -224,9 +229,9 @@ RegionStyle.lanes = {
 	Lane13 = {
 		name = "Toxic Bog", region = 2, order = 4, seed = 131, gymZ = 2873,
 		palette = { primary = Color3.fromRGB(70, 82, 52), accent = Color3.fromRGB(150, 230, 60), trim = Color3.fromRGB(96, 70, 120) },
-		ground = M.Mud, accent = M.LeafyGrass, accentAt = 0.6, under = M.Ground, cliff = M.Rock, peak = M.Ground, road = M.WoodPlanks,
+		ground = M.LeafyGrass, accent = M.Mud, accentAt = 0.5, under = M.Mud, cliff = M.Rock, peak = M.LeafyGrass, road = M.WoodPlanks, -- Mud alone read as a grey wasteland
 		decor = {
-			{ "cover", "Map.Decor.Region2Fill.Lane13.Reeds" },
+			{ "cover", "Map.Decor.Region2Fill.Lane13.Reeds", 0, 1, { maxSize = 8 } },
 			{ "verge", "Map.Decor.Region2Fill.Lane13.Mushroom" },
 			{ "bush", "Map.Decor.Region2.Lane13.ToxicShroom" },
 			{ "mid", "Map.Decor.Region2Fill.Lane13.ToxicPool" },
@@ -237,40 +242,46 @@ RegionStyle.lanes = {
 	Lane14 = {
 		name = "Crystal Caverns", region = 2, order = 5, seed = 141, gymZ = 3393,
 		palette = { primary = Color3.fromRGB(90, 96, 112), accent = Color3.fromRGB(150, 220, 255), trim = Color3.fromRGB(230, 140, 255) },
-		ground = M.Slate, accent = M.Rock, accentAt = 0.66, under = M.Rock, cliff = M.Rock, peak = M.Slate, road = M.Cobblestone,
+		ground = M.Slate, accent = M.Glacier, accentAt = 0.6, under = M.Rock, cliff = M.Rock, peak = M.Glacier, road = M.Ground, -- grey on grey before
 		decor = {
-			{ "cover", "Map.Decor.Region2Fill.Lane14.Crystal" },
-			{ "verge", "Map.Decor.Region2.Lane14.CrystalCluster" },
-			{ "bush", "Map.Decor.Region2Fill.Lane14.Stalagmite" },
-			{ "mid", "Map.Decor.Region2.Lane14.Stalagmite" },
-			{ "tree", "Map.Decor.Region2Fill.Lane14.Crystal" },
+			-- the big crystal as ground cover made a solid purple wall; cover is the small cave cluster now
+			{ "cover", "Map.Decor.BoulderPass.CrystalCluster", 0, 1, { perHundred = 45 } },
+			{ "verge", "Map.Decor.BoulderPass.CrystalCluster", 0, 1, { every = 16 } },
+			{ "bush", "Map.Decor.Region2Fill.Lane14.Stalagmite", 0, 1, { every = 20 } },
+			{ "mid", "Map.Decor.Region2.Lane14.CrystalCluster", 0, 1, { every = 36 } },
+			{ "tree", "Map.Decor.Region2Fill.Lane14.Crystal", 0, 1, { every = 34 } },
 			{ "far", "Map.Decor.Region2Fill.Lane14.CaveArch" },
 		},
 	},
 	Lane15 = {
 		name = "Phantom Manor", region = 2, order = 6, seed = 151, gymZ = 3913,
 		palette = { primary = Color3.fromRGB(64, 60, 70), accent = Color3.fromRGB(255, 170, 60), trim = Color3.fromRGB(40, 40, 46) },
-		ground = M.Ground, accent = M.LeafyGrass, accentAt = 0.64, under = M.Ground, cliff = M.Rock, peak = M.Slate, road = M.Cobblestone,
+		-- dark graveyard grass with mud patches (plain Ground read as flat tan sand in the first pass)
+		ground = M.LeafyGrass, accent = M.Mud, accentAt = 0.55, under = M.Ground, cliff = M.Slate, peak = M.Slate, road = M.Cobblestone,
+		boundaryRock = M.Slate,
 		decor = {
-			{ "cover", "Map.Decor.Region2Fill.Lane15.Pumpkin" },
-			{ "verge", "Map.Decor.Region2Fill.Lane15.Lantern" },
-			{ "bush", "Map.Decor.Region2Fill.Lane15.Grave" },
-			{ "mid", "Map.Decor.Region2Fill.Lane15.RuinWall" },
-			{ "tree", "Map.Decor.Region2Fill.Lane15.DeadTree" },
-			{ "far", "Map.Decor.Region2Fill.Lane15.IronFence" },
+			{ "cover", "Map.Decor.Region2Fill.Lane15.Pumpkin", 0, 1, { perHundred = 40 } },
+			{ "cover2", "Map.Decor.Region2.Lane15.Grave", 0, 1, { perHundred = 45 } },
+			{ "verge", "Map.Decor.Region2Fill.Lane15.Lantern", 0, 1, { every = 24 } },
+			{ "bush", "Map.Decor.Region2Fill.Lane15.Grave", 0, 1, { every = 8 } },
+			{ "mid", "Map.Decor.Region2Fill.Lane15.RuinWall", 0, 1, { every = 22 } },
+			{ "tree", "Map.Decor.Region2Fill.Lane15.DeadTree", 0, 1, { every = 10 } },
+			{ "far", "Map.Decor.Region2Fill.Lane15.IronFence", 0, 1, { every = 20 } },
 		},
 	},
 	Lane16 = {
 		name = "Dragon Peaks", region = 2, order = 7, seed = 161, gymZ = 4433,
 		palette = { primary = Color3.fromRGB(52, 48, 54), accent = Color3.fromRGB(255, 96, 40), trim = Color3.fromRGB(200, 170, 90) },
-		ground = M.Basalt, accent = M.Rock, accentAt = 0.66, under = M.Basalt, cliff = M.Basalt, peak = M.Snow, road = M.Slate,
+		ground = M.Basalt, accent = M.CrackedLava, accentAt = 0.72, under = M.Basalt, cliff = M.Basalt, peak = M.Snow, road = M.Ground,
 		boundaryRock = M.Basalt,
 		decor = {
-			{ "cover", "Map.Decor.Region2Fill.Lane16.Crag" },
-			{ "verge", "Map.Decor.Region2Fill.Lane16.BasaltCols" },
-			{ "bush", "Map.Decor.Region2Fill.Lane16.Crag" },
+			-- big crags as ground cover made a wall; small glowing rocks now, crags spaced out
+			{ "cover", "Map.Decor.Fresh_EmberRidge.GlowRock", 0, 1, { perHundred = 40 } },
+			{ "cover2", "Map.Decor.EmberRidge.VolcanicRock", 0, 1, { perHundred = 20 } },
+			{ "verge", "Map.Decor.Fresh_EmberRidge.GlowRock", 0, 1, { every = 14 } },
+			{ "bush", "Map.Decor.Region2Fill.Lane16.BasaltCols", 0, 1, { every = 22 } },
 			{ "mid", "Map.Decor.Region2Fill.Lane16.LavaPool" },
-			{ "tree", "Map.Decor.Region2.Lane16.Spire" },
+			{ "tree", "Map.Decor.Region2Fill.Lane16.Crag", 0, 1, { every = 40 } },
 			{ "far", "Map.Decor.Region2Fill.Lane16.DragonRibs" },
 			{ "far", "Map.Decor.Region2.Lane16.BannerPole", 0.8, 1 },
 		},

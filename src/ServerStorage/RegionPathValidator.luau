@@ -266,7 +266,10 @@ function Validator.validate(laneKey: string)
 		for _, side in { -1, 1 } do
 			for off = half + 2, inner, VOXEL do
 				local sx, sz = x + px * off * side, z + pz * off * side
-				if inKeepClear(path, sx, sz) then
+				-- verge spots outside the bounds belong to the neighbouring lane (the shared junction road
+				-- runs diagonally round the previous gym)
+				local bb = path.bounds
+				if inKeepClear(path, sx, sz) or sz < bb.minZ or sz > bb.maxZ then
 					continue
 				end
 				local gy, inst = groundY(sx, sz, y + 40, vergeRay)
@@ -298,7 +301,8 @@ function Validator.validate(laneKey: string)
 		if math.abs(p.X - spot.x) > 2 or math.abs(p.Z - spot.z) > 2 then
 			warnLine(trainers, "%s model is at (%.0f, %.0f) but data says (%.0f, %.0f)", spot.id, p.X, p.Z, spot.x, spot.z)
 		end
-		local gy, inst = groundY(p.X, p.Z, bottom + 30, walkParams({ model }))
+		-- from head height, not the sky: a trainer inside a cave stands under its roof (Boulder Pass)
+		local gy, inst = groundY(p.X, p.Z, bottom + 6, walkParams({ model }))
 		if not gy then
 			fail(trainers, "%s: no ground under the model", spot.id)
 		elseif bottom < gy - 1.5 then

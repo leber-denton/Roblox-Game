@@ -123,7 +123,7 @@ end
 -- Decor that sits entirely inside the old terrain (Region 2 had 261 such items in its cliffs) was never
 -- visible. Left in place it would be protected by the builder and punch holes in the new ridge, so it is
 -- moved into RegionTerrainBackups."<lane> buried" (each with a Home ObjectValue) before the build.
-local function stashBuried(path): number
+local function stashBuried(path, keep: { [Instance]: boolean }): number
 	local b = path.bounds
 	local params = RaycastParams.new()
 	params.FilterType = Enum.RaycastFilterType.Include
@@ -142,7 +142,7 @@ local function stashBuried(path): number
 			cf, size = d.CFrame, d.Size
 		end
 		local p = cf.Position
-		if p.X < b.minX or p.X > b.maxX or p.Z < b.minZ or p.Z > b.maxZ then
+		if keep[d] or p.X < b.minX or p.X > b.maxX or p.Z < b.minZ or p.Z > b.maxZ then
 			continue
 		end
 		local hit = workspace:Raycast(Vector3.new(p.X, 400, p.Z), Vector3.new(0, -500, 0), params)
@@ -181,6 +181,113 @@ local function unstashBuried(laneKey: string): number
 	return n
 end
 
+--[[
+	The old mountains just outside a route's bounds (snowy rock 200-300 studs high) are kept in shape but
+	repainted in the theme's materials, so a desert or manor route isn't walled in by snow. Bands: Region 1
+	west of the bounds and east up to x 232; Region 2 from x 232 to its bounds and 320 studs east of them.
+	The first original of each band is kept in RegionTerrainBackups."<lane> outer" for undo.
+]]
+local OUTER_SPLIT_X = 232 -- between the regions: Region 1 paints west of this, Region 2 east of it
+
+local function outerBands(path, region: number)
+	local b = path.bounds
+	if region == 1 then
+		return { { b.minX - 300, b.minX }, { b.maxX, OUTER_SPLIT_X } }
+	end
+	return { { OUTER_SPLIT_X, b.minX }, { b.maxX, b.maxX + 320 } }
+end
+
+local function bandRegion(path, band): Region3
+	local b = path.bounds
+	local lo = Vector3.new(math.floor(band[1] / 4) * 4, -24, b.minZ)
+	local hi = Vector3.new(math.ceil(band[2] / 4) * 4, 340, b.maxZ)
+	return Region3.new(lo, hi)
+end
+
+function Rollout.paintOuter(laneKey: string, env)
+	env = env or Rollout.load()
+	local theme = env.RegionStyle.lanes[laneKey]
+	local path = env.RegionPaths.get(laneKey)
+	if not theme or not path then
+		return 0
+	end
+	local terrain = workspace.Terrain
+	local root = ServerStorage:FindFirstChild("RegionTerrainBackups") or Instance.new("Folder")
+	root.Name = "RegionTerrainBackups"
+	root.Parent = ServerStorage
+	local store = root:FindFirstChild(laneKey .. " outer")
+	local first = store == nil
+	if first then
+		store = Instance.new("Folder")
+		store.Name = laneKey .. " outer"
+		store.Parent = root
+	end
+	local rock = theme.boundaryRock or theme.cliff
+	local map = {
+		[Enum.Material.Snow] = theme.peak,
+		[Enum.Material.Glacier] = theme.peak,
+		[Enum.Material.Rock] = rock,
+		[Enum.Material.Slate] = rock,
+		-- the old dirt band at the foot of the cliffs read as flat tan: it takes the route's ground
+		[Enum.Material.Ground] = theme.ground,
+		[Enum.Material.Mud] = theme.ground,
+		[Enum.Material.Sand] = theme.ground,
+		[Enum.Material.Sandstone] = rock, -- old tan stripes along the cliffs
+		[Enum.Material.Grass] = theme.ground,
+		[Enum.Material.LeafyGrass] = theme.ground,
+	}
+	if not first then
+		-- repaint from the original, so changing a theme and re-running gives the same result
+		for _, copy in store:GetChildren() do
+			if copy:IsA("TerrainRegion") then
+				terrain:PasteRegion(copy, Vector3int16.new(copy:GetAttribute("CornerX"), copy:GetAttribute("CornerY"), copy:GetAttribute("CornerZ")), true)
+			end
+		end
+		task.wait(0.3)
+	end
+	local painted = 0
+	for i, band in outerBands(path, theme.region) do
+		if band[2] - band[1] < 8 then
+			continue
+		end
+		local region = bandRegion(path, band)
+		if first then
+			local lo, hi = region.CFrame.Position - region.Size / 2, region.CFrame.Position + region.Size / 2
+			local corner = Vector3int16.new(lo.X / 4, lo.Y / 4, lo.Z / 4)
+			local copy = terrain:CopyRegion(Region3int16.new(corner, Vector3int16.new(hi.X / 4 - 1, hi.Y / 4 - 1, hi.Z / 4 - 1)))
+			copy.Name = "Band" .. i
+			copy:SetAttribute("CornerX", corner.X)
+			copy:SetAttribute("CornerY", corner.Y)
+			copy:SetAttribute("CornerZ", corner.Z)
+			copy.Parent = store
+		end
+		for from, to in map do
+			if to and to ~= from then
+				terrain:ReplaceMaterial(region, 4, from, to)
+				painted += 1
+			end
+		end
+		task.wait()
+	end
+	print(("[RegionRollout] %s: outer mountains repainted (%d material swaps)"):format(laneKey, painted))
+	return painted
+end
+
+local function unpaintOuter(laneKey: string)
+	local root = ServerStorage:FindFirstChild("RegionTerrainBackups")
+	local store = root and root:FindFirstChild(laneKey .. " outer")
+	if not store then
+		return
+	end
+	for _, copy in store:GetChildren() do
+		if copy:IsA("TerrainRegion") then
+			local corner = Vector3int16.new(copy:GetAttribute("CornerX"), copy:GetAttribute("CornerY"), copy:GetAttribute("CornerZ"))
+			workspace.Terrain:PasteRegion(copy, corner, true)
+		end
+	end
+	store:Destroy()
+end
+
 -- Problems RegionPaths.check finds in the data (empty when fine)
 function Rollout.check(laneKey: string)
 	local env = Rollout.load()
@@ -213,7 +320,23 @@ function Rollout.run(laneKey: string)
 		env.Decorator.undo(laneKey)
 	end
 	hideFloor(laneKey)
-	local buried = stashBuried(path)
+	-- never stash an item some route's dressing clones from (Lane11's TidePool template was buried)
+	local keep = {}
+	for _, key in env.RegionPaths.list() do
+		local p = env.RegionPaths.get(key)
+		for _, rule in p.dressing and p.dressing.rules or {} do
+			if rule.template then
+				local inst = workspace
+				for name in rule.template:gmatch("[^%.]+") do
+					inst = inst and inst:FindFirstChild(name)
+				end
+				if inst then
+					keep[inst] = true
+				end
+			end
+		end
+	end
+	local buried = stashBuried(path, keep)
 	print(("[RegionRollout] %s: %d buried decor item(s) stashed"):format(laneKey, buried))
 	task.wait()
 	env.Builder.build(laneKey, { stashGround = true })
@@ -221,6 +344,7 @@ function Rollout.run(laneKey: string)
 	env.Decorator.placeTrainers(laneKey)
 	env.Decorator.groundGymLeader(laneKey)
 	task.wait()
+	Rollout.paintOuter(laneKey, env)
 	env.Decorator.dress(laneKey)
 	local floor = laneFloor(laneKey)
 	if floor then
@@ -250,6 +374,7 @@ function Rollout.undo(laneKey: string)
 	local env = Rollout.load()
 	env.Decorator.undo(laneKey)
 	env.Builder.restore(laneKey)
+	unpaintOuter(laneKey)
 	task.wait()
 	unstashBuried(laneKey)
 	showFloor(laneKey)

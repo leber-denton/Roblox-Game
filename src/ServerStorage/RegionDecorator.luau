@@ -66,16 +66,6 @@ local function groundAt(x: number, z: number): number?
 	return hit and hit.Position.Y or nil
 end
 
-local function bottomOffset(inst: Instance): number
-	-- how far the pivot sits above the lowest point
-	if inst:IsA("Model") then
-		local cf, size = inst:GetBoundingBox()
-		return inst:GetPivot().Position.Y - (cf.Position.Y - size.Y / 2)
-	end
-	local part = inst :: BasePart
-	return part.Size.Y / 2
-end
-
 local function backup(name: string): Folder
 	local root = ServerStorage:FindFirstChild(BACKUP_FOLDER)
 	if not root then
@@ -329,19 +319,40 @@ local function spotFree(path, spot, halfX: number, halfZ: number, placed, across
 	return true
 end
 
+-- World-space centre and lowest point of a model's or part's geometry (its oriented box)
+local function geometry(inst: Instance): (Vector3, number)
+	local cf, size
+	if inst:IsA("Model") then
+		cf, size = inst:GetBoundingBox()
+	else
+		cf, size = (inst :: BasePart).CFrame, (inst :: BasePart).Size
+	end
+	local halfY = math.abs(cf.RightVector.Y) * size.X / 2 + math.abs(cf.UpVector.Y) * size.Y / 2 + math.abs(cf.LookVector.Y) * size.Z / 2
+	return cf.Position, cf.Position.Y - halfY
+end
+
+local function moveBy(inst: Instance, cf: CFrame)
+	if inst:IsA("Model") then
+		inst:PivotTo(cf * inst:GetPivot())
+	else
+		(inst :: BasePart).CFrame = cf * (inst :: BasePart).CFrame
+	end
+end
+
+-- Places a clone by its geometry, not its pivot: some templates' pivots sit far from their parts
+-- (Region 2's CrystalCluster pivot was 2,000 studs away, so clones landed in Region 1). The clone keeps
+-- the template's own tilt, gets a random turn about its centre, and its lowest point goes `sink` studs
+-- into the ground at the spot.
 local function placeModel(template: Instance, folder: Instance, spot, sink: number)
 	local y = groundAt(spot.pos.X, spot.pos.Z)
 	if not y then
 		return nil
 	end
 	local clone = template:Clone()
-	local off = bottomOffset(template)
-	local cf = CFrame.new(spot.pos.X, y - sink + off, spot.pos.Z) * CFrame.Angles(0, spot.yaw, 0)
-	if clone:IsA("Model") then
-		clone:PivotTo(cf)
-	elseif clone:IsA("BasePart") then
-		clone.CFrame = cf
-	end
+	local centre = geometry(clone)
+	moveBy(clone, CFrame.new(centre) * CFrame.Angles(0, spot.yaw, 0) * CFrame.new(-centre))
+	local c2, bottom = geometry(clone)
+	moveBy(clone, CFrame.new(spot.pos.X - c2.X, (y - sink) - bottom, spot.pos.Z - c2.Z))
 	clone.Parent = folder
 	return clone
 end
@@ -408,7 +419,7 @@ local function runDressing(path, apply: boolean)
 		folder.Name = cfg.folder
 		folder.Parent = decor
 	end
-	local counts, missing = {}, {}
+	local counts, missing, tooBig = {}, {}, {}
 	local placed = {}
 	for _, spot in planDressing(path) do
 		local rule = spot.rule
@@ -424,6 +435,15 @@ local function runDressing(path, apply: boolean)
 				continue
 			end
 			local size = sizeOf(template)
+			-- scattered ground cover must be small, or it turns into a wall (Crystal Caverns, Dragon Peaks)
+			if rule.scatter and math.max(size.X, size.Z) > (rule.maxSize or 6) then
+				if tooBig[rule.template] then
+					continue
+				end
+				tooBig[rule.template] = true
+				warn(("[RegionDecor] %s: template %s is %.0f studs across, too big for ground cover (max %d); rule skipped"):format(rule.name, rule.template, math.max(size.X, size.Z), rule.maxSize or 6))
+				continue
+			end
 			-- trunk-ish footprint for trees, full footprint for small things
 			local f = if size.Y > 10 then 0.35 else 0.5
 			halfX, halfZ = size.X * f, size.Z * f

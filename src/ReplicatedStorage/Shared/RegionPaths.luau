@@ -229,6 +229,9 @@ function RegionPaths.fromStyle(laneKey: string)
 		rule.name = role .. " " .. (if template ~= "" then leafName(template) else "fence")
 		rule.template = if template ~= "" then template else nil
 		rule.from, rule.to = from, to
+		for k, v in d[5] or {} do -- per-theme overrides, e.g. { every = 8 }
+			rule[k] = v
+		end
 		table.insert(rules, rule)
 	end
 
@@ -263,15 +266,37 @@ function RegionPaths.fromStyle(laneKey: string)
 		name = theme.name,
 		seed = theme.seed,
 		generated = true, -- from RegionStyle; edit the theme, not this table
-		waypoints = {
-			{ x = x, y = y, z = z0 - 24 },
-			{ x = x, y = y, z = z0 + 130 },
-			{ x = x, y = y, z = z0 + 260 },
-			{ x = x, y = y, z = gz - 38 },
-			{ x = x + 40, y = y, z = gz - 14 },
-			{ x = x + 40, y = y, z = gz + 14 },
-			{ x = x, y = y, z = z1 + 24 },
-		},
+		-- Junctions are one shared line: a lane's tail and the next lane's head both run
+		-- (x+40, gym-14) -> (x+40, gym+14) -> (x, next start + 20), round the gym that stands just before
+		-- the boundary. The first lane of a region starts on the centre line.
+		waypoints = (function()
+			local w = {}
+			local prevGz = theme.prevGymZ
+			for _, other in RegionStyle.lanes do
+				if other.region == theme.region and other.order == theme.order - 1 then
+					prevGz = other.gymZ
+				end
+			end
+			if theme.order == 0 or not prevGz then
+				table.insert(w, { x = x, y = y, z = z0 - 24 })
+			else
+				table.insert(w, { x = x + 40, y = y, z = prevGz - 14 })
+				table.insert(w, { x = x + 40, y = y, z = prevGz + 14 })
+			end
+			for _, p in {
+				{ x, z0 + 20 },
+				{ x, z0 + 130 },
+				{ x, z0 + 260 },
+				{ x, gz - 38 },
+				{ x + 40, gz - 14 },
+				{ x + 40, gz + 14 },
+				{ x, z1 + 20 },
+				{ x, z1 + 24 },
+			} do
+				table.insert(w, { x = p[1], y = y, z = p[2] })
+			end
+			return w
+		end)(),
 		corridorWidth = spec.road.width,
 		buffer = spec.road.verge,
 		shoulder = spec.road.shoulder,
