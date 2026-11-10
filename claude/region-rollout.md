@@ -29,3 +29,4 @@ RouteTrainers, Lanes, RoadGround, gym models, MeadowMidDecor, MeadowGateDecor fr
  Boulder Pass | Lane1B | 0 | 110 | 890 / 1060 / 1190 | Coralie 0.34 (see note) | PASS (ROOF = Glimmer Cavern) | PASS (1 warning) | Good after retune: grassy rocky pass, boulders, logs, spires, oaks, cave mouth. Two trainers stand inside the cave by Meadow's spacing. Road faint in Edit screenshots. |
  Tide Coast | Lane3 | 0 | 413 | 1410 / 1580 / 1710 | Duna 0.31 (see note) | PASS | PASS | Acceptable: palms, rocks, starfish, tide pool, sandstone cliffs with grass bands. Boardwalk faint. |
  Volt Plains | Lane4 | 0 | 496 | 1930 / 2100 / 2230 | Jolt 0.31 | PASS | PASS | Good: green plains, wind turbines, pylons, tesla coils, solar arrays, flowers. |
+ Ember Ridge | Lane2 | 0 | 351 | 2450 / 2620 / 2750 | Ignatia 0.31 | PASS | PASS | Good: basalt with lava cracks, spires, dead trees, glowing rocks; road subtle. |
