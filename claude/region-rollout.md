@@ -1,5 +1,13 @@
 # Region rollout log (Phase 2)
 
+## Continuation addendum (2026-11-10)
+
+Historical route rows below are retained. Fresh Play checks passed RouteWalker and RegionPathValidator on all 16 routes (Boulder Pass: one validator warning). Frost Peak's snow/ice character view was reviewed, and Thunder Mesa/Boulder Pass roads were visibly distinct in Play. See `claude/audit.md` for capture IDs and exact limitations.
+
+Phase 2 closure is **INCOMPLETE**: Meadow's ending capture was obstructed; gym battles have not started successfully in the isolated test; gate-canopy cover exclusion is name-only and requires narrowing plus regression validation. Existing GymService already moves Duna into BrookGym and Coralie into TideGym at startup; no identity/configuration change was made.
+
+The owner confirmed the previous save. The local `.rbxl` has not been located, including under the newly identified `C:\Claude` folder. This continuation made no unmanaged Edit-place changes, saved no place, and created no place backup. Do not treat the historical cloud/in-place backups as the requested phase backup.
+
 One row per route, in the order they were committed. Each route was themed in the open test place with
 `require(game.ServerStorage.RegionRollout).run("<lane>")`, checked with `.validate("<lane>")` (RouteWalker gate +
 RegionPathValidator), then judged by screenshot against Meadow. Checks prove a road is walkable, not that it
