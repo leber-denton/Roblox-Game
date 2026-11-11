@@ -48,7 +48,7 @@ All 20 models, 9,412 parts in total (counted 2026-11-11). Every trail was walk-t
 | `Hub.Mountain_HubEastRidge` | East of the hub and Summit Town (ArmBound x 746), x 780–980, z -290–300 | No | Alpine |
 | `Coast.Mountain_CoastWest` / `CoastCentre` / `CoastEast` | South of the hub, x -520–980, z -615 to -285 | No | Hub side Alpine, sea side Coast (sandstone) |
 
-Left as terrain: the low foothills between Meadow Route and Sunpetal Fields (z 300–820, under 60 studs), the foothill strip between the hub and the escarpment (z -276 to -250), and the hub's west arm (x < -520). `Map.CoastalEscarpment` is now an empty marker (`ReplacedBy` attribute); its six rim trees are in `ServerStorage.MountainDisplacedDecor.Mountain_Coast`, and `CoastalEscarpmentBuilder.build()` refuses to run while `Map.Mountains.Coast` exists. Don't run its `restore()` either: it pastes the old terrain back over the part ridge.
+Left as terrain: the low foothills between Meadow Route and Sunpetal Fields (z 300–820, under 60 studs), the foothill strip between the hub and the escarpment (z -276 to -250), and the hub's west arm (x < -520). `Map.CoastalEscarpment` is now an empty marker (`ReplacedBy` attribute); its six rim trees are in `ServerStorage.MountainDisplacedDecor.Mountain_Coast`, and `CoastalEscarpmentBuilder` (it arrives with the ridge-base work, not yet on `main`) must refuse `build()` while `Map.Mountains.Coast` exists; add that guard when it lands. Don't run its `restore()`: it pastes the old terrain back over the part ridge.
 
 ## Old terrain trails (removed)
 
