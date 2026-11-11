@@ -21,7 +21,9 @@ local store
 do
 	local ok, result = pcall(function()
 		-- Key keeps the game's original name on purpose: changing it would wipe every player's save.
-		return DataStoreService:GetDataStore("SnatchThemAll_Save_v1")
+		-- The approved cloud test place must never claim or write a production player's key.
+		local name = game.PlaceId == 94034385545160 and "CQ_RidgeBase_TEST_v1" or "SnatchThemAll_Save_v1"
+		return DataStoreService:GetDataStore(name)
 	end)
 	if ok then
 		store = result

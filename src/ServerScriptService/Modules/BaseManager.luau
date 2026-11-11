@@ -10,6 +10,7 @@ local GameData = require(ReplicatedStorage.Shared.GameData)
 local BattleData = require(ReplicatedStorage.Shared.BattleData)
 local CreatureBuilder = require(ReplicatedStorage.Shared.CreatureBuilder)
 local Wander = require(script.Parent.Wander)
+local BaseProgression = require(ReplicatedStorage.Shared.BaseProgressionData)
 
 local BaseManager = {}
 
@@ -161,6 +162,50 @@ function BaseManager.isExpansionUnlocked(player: Player): boolean
 	return base ~= nil and base:GetAttribute("ExpansionUnlocked") == true
 end
 
+function BaseManager.getStage(player: Player): number
+	local base = playerBase[player]
+	return base and BaseProgression.normalize({ baseStage = base:GetAttribute("BaseStage"), expansion = base:GetAttribute("ExpansionUnlocked") }) or 1
+end
+
+function BaseManager.setStage(player: Player, stage: number)
+	local base = playerBase[player]
+	if not base then
+		return
+	end
+	stage = BaseProgression.normalize({ baseStage = stage })
+	base:SetAttribute("BaseStage", stage)
+	player:SetAttribute("BaseStage", stage)
+	setExpansionOpen(base, stage >= 2)
+	local canopy = base:FindFirstChild("Canopy")
+	local canopyPivot = base:GetAttribute(stage >= 3 and "BalconyCanopyPivot" or "HomeCanopyPivot")
+	if canopy and canopyPivot then canopy:PivotTo(canopyPivot) end
+	for _, part in base.Expansion:GetDescendants() do
+		if part:IsA("BasePart") and part:GetAttribute("Stage3Passage") then
+			part.CanCollide = stage < 3 and part:GetAttribute("PassageSolid") == true
+			part.Transparency = stage >= 3 and 1 or 0
+		end
+	end
+	local homestead = base:FindFirstChild("Homestead")
+	if homestead then
+		for _, zone in homestead:GetChildren() do
+			local open = stage >= (zone:GetAttribute("Stage") or 1)
+			for _, part in zone:GetDescendants() do
+				if part:IsA("BasePart") then
+					part.Transparency = open and (part:GetAttribute("VisibleTransparency") or 0) or 1
+					part.CanCollide = open and part:GetAttribute("Solid") == true
+					local openAt = part:GetAttribute("OpenAtStage")
+					if openAt and stage >= openAt then
+						part.Transparency, part.CanCollide = 1, false
+					end
+				elseif part:IsA("BillboardGui") or part:IsA("SurfaceGui") then
+					part.Enabled = open
+				end
+			end
+		end
+	end
+	BaseManager.recalcCapacity(player)
+end
+
 -- 6, +6 for the expansion, +6 for the Extra Slots game pass
 function BaseManager.recalcCapacity(player: Player)
 	local cap = GameData.StartingBaseCapacity
@@ -179,8 +224,7 @@ function BaseManager.unlockExpansion(player: Player): boolean
 	if not base or base:GetAttribute("ExpansionUnlocked") then
 		return false
 	end
-	setExpansionOpen(base, true)
-	BaseManager.recalcCapacity(player)
+	BaseManager.setStage(player, math.max(2, BaseManager.getStage(player)))
 	return true
 end
 
@@ -222,6 +266,7 @@ function BaseManager.assign(player: Player): Model?
 			setSign(base, player.DisplayName .. "'s Base")
 			setGateOpen(base, true)
 			playerBase[player] = base
+			BaseManager.setStage(player, 1)
 			teams[player] = {}
 			indexes[player] = {}
 			player:SetAttribute("IndexData", "{}")
@@ -237,6 +282,7 @@ end
 function BaseManager.release(player: Player)
 	local base = playerBase[player]
 	if base then
+		BaseManager.setStage(player, 1)
 		base.Creatures:ClearAllChildren()
 		base:SetAttribute("OwnerId", 0)
 		setSign(base, "Empty Base")
@@ -397,7 +443,7 @@ function BaseManager.serialize(player: Player)
 			ivs = r.ivs,
 		})
 	end
-	return { team = list, index = indexes[player] or {}, expansion = BaseManager.isExpansionUnlocked(player) }
+	return { team = list, index = indexes[player] or {}, expansion = BaseManager.isExpansionUnlocked(player), baseStage = BaseManager.getStage(player) }
 end
 
 -- Put a saved team, index and expansion back
@@ -409,9 +455,7 @@ function BaseManager.restore(player: Player, saved)
 		indexes[player] = saved.index
 		player:SetAttribute("IndexData", HttpService:JSONEncode(saved.index))
 	end
-	if saved.expansion then
-		setExpansionOpen(playerBase[player], true)
-	end
+	BaseManager.setStage(player, BaseProgression.normalize(saved))
 	BaseManager.recalcCapacity(player)
 	for _, s in saved.team or {} do
 		if typeof(s) == "table" and GameData.Creatures[s.name] and BattleData.Species[s.name] then

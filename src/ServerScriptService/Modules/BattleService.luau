@@ -412,7 +412,7 @@ local function finish(b, result: string, log)
 		b.model:SetAttribute("Caught", true)
 	end
 
-	send(b, "end", log, { result = result })
+	send(b, "end", log, { result = result, rewardSummary = b.rewardSummary })
 	fire(endedListeners, b.player, b, result)
 
 	if result == "ended" or not b.player.Parent then
@@ -672,6 +672,9 @@ end
 -- XP for beating the current opponent; the XP Canopy shares some with the rest of the team
 local function grantXP(b, log)
 	local ally = b.ally
+	b.rewardSummary = b.rewardSummary or { battleXP = 0, benchXP = 0, coins = 0, trainerXP = 0, offeredXP = 0 }
+	local summary = b.rewardSummary
+	local oldXP = ally.xp
 	local gain = math.max(1, math.floor(BattleData.Species[b.wild.name].xpYield * b.wild.level / 7))
 	local clover = ally.held and GameData.Items[ally.held]
 	if clover and clover.held and clover.held.xpMult then
@@ -688,6 +691,9 @@ local function grantXP(b, log)
 		or ("%s gained %d XP!"):format(ally.name, gain) }
 	table.insert(log, entry)
 	local levels = applyXP(ally, gain, log, true, b.allyModel, b.player)
+	summary.battleXP += math.max(0, ally.xp - oldXP)
+	summary.offeredXP += gain
+	summary.benchShare = b.player:GetAttribute("CanopyShare") or 0
 	entry.fx = { type = "xp", from = before, to = xpFrac(ally) or 0, levels = levels, level = ally.level }
 	-- the XP Canopy in your base (upgraded with coins) decides the share; 0 until the first upgrade
 	local share = math.floor(gain * (b.player:GetAttribute("CanopyShare") or 0))
@@ -695,20 +701,28 @@ local function grantXP(b, log)
 		local shared = 0
 		for _, record in BaseManager.getTeam(b.player) do
 			if record ~= ally then
+				local previousXP = record.xp
 				applyXP(record, share, nil, false, nil, b.player)
+				summary.benchXP += math.max(0, record.xp - previousXP)
 				shared += 1
 			end
 		end
 		if shared > 0 then
-			say(log, ("The XP Canopy shared %d XP with your other creatures."):format(share))
+			say(log, ("The XP Balcony offered %d XP to each other creature (badge caps apply)."):format(share))
 		end
 	end
 end
 
 local function giveReward(b, log, coins: number, xp: number)
+	b.rewardSummary = b.rewardSummary or { battleXP = 0, benchXP = 0, coins = 0, trainerXP = 0, offeredXP = 0 }
+	local before = PlayerData.coins(b.player)
 	PlayerData.addCoins(b.player, coins)
 	PlayerData.addXP(b.player, xp)
-	say(log, ("You earned %d coins and %d trainer XP!"):format(coins, xp), { type = "reward" })
+	local actualCoins = PlayerData.coins(b.player) - before
+	b.rewardSummary.coins += actualCoins
+	b.rewardSummary.trainerXP += xp
+	b.rewardSummary.doubleCoins = GameData.hasBoost(b.player, "DoubleCoins")
+	say(log, ("You earned %d coins and %d trainer XP!"):format(actualCoins, xp), { type = "reward" })
 end
 
 local function makeCreature(name: string, level: number, stars: number?)

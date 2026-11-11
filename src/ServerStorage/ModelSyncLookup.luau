@@ -40,6 +40,9 @@ Lookup.CATEGORY_ORDER = {
 local entries = {}
 Lookup.entries = entries
 
+entries["Balcony Lodge v1"] = { category = "MAP PROPS", map = {}, source = "Workspace.ModelGallery.Balcony Lodge v1", reference = true }
+entries["Champion Terrace v1"] = { category = "MAP PROPS", map = {}, source = "Workspace.ModelGallery.Champion Terrace v1", reference = true }
+
 -- Map NPCs: showcase name is "Workspace_Map_" .. path with dots as underscores (the NPCBackup naming).
 local function npcName(rel)
 	return "Workspace_Map_" .. (rel:gsub("%.", "_"))

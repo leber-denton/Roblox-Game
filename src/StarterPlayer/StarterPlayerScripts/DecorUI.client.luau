@@ -276,6 +276,7 @@ local EXCLUDE = {
 	Floor = true, Path = true, PathEdge = true, Pen = true, SpawnPoint = true, HouseFloor = true,
 	ExpFloor = true, Pen2 = true, Pond = true, ExpansionBarrier = true, LockLabel = true, Gate = true,
 	SignAnchor = true, Leaves = true, ExpLeaves = true, Roof = true, Chimney = true,
+	TerraceGround = true, TerraceWalk = true,
 }
 local function staticParts(base: Model)
 	if staticCache[base] then
@@ -310,7 +311,7 @@ end
 local function check(base: Model, id: string, x: number, z: number, r: number, ignoreUid: number?): (boolean, string?)
 	local item = Items[id]
 	local fx, fz = DecorData.footprint(id, r)
-	if not DecorData.inBounds(x, z, fx, fz, state.expansion, state.level) then
+	if not DecorData.inBounds(x, z, fx, fz, state.expansion, state.level, state.progression and state.progression.stage) then
 		return false, state.expansion and "Outside your base" or "Outside your base (unlock the expansion for more room)"
 	end
 	if not ignoreUid and #state.placed >= DecorData.BaseLevels[state.level].cap then
@@ -830,6 +831,28 @@ function tabs.Base()
 		return r
 	end
 	local r1 = row(1, 96)
+	local p = state.progression
+	if p then
+		local goal = row(-103, 122)
+		label({ Size = UDim2.new(0.65, 0, 0, 28), Text = p.name .. " · " .. p.capacity .. " creatures", TextXAlignment = Enum.TextXAlignment.Left, TextColor3 = GOLD }, goal)
+		label({ Position = UDim2.fromOffset(0, 32), Size = UDim2.new(0.65, 0, 0, 66), Text = (p.nextName and ("Next: " .. p.nextName .. "\n") or "") .. p.reason, TextWrapped = true, TextXAlignment = Enum.TextXAlignment.Left, TextColor3 = MUTED }, goal)
+		button({ AnchorPoint = Vector2.new(1, 0.5), Position = UDim2.fromScale(1, 0.5), Size = UDim2.new(0.3, 0, 0.65, 0) }, p.ready and "Unlock stage" or "Locked", p.ready and GREEN or GREY, goal, function()
+			if p.ready then buyResult(call("stage")) end
+		end)
+	end
+	local training = state.training
+	if training then
+		local info = row(-102, 116)
+		local tier = DecorData.CanopyTiers[(state.canopy or 1) + 1]
+		label({ Size = UDim2.new(0.65, 0, 1, 0), Text = ("XP Balcony · %d%% bench share · cap Lv %d\n%s\nBase %.1f%% level/min + dummy + matching habitat"):format((state.canopyShare or 0) * 100, training.cap, training.nextGoal, training.baseRate * 100), TextWrapped = true, TextXAlignment = Enum.TextXAlignment.Left, TextColor3 = GOLD }, info)
+		button({ AnchorPoint = Vector2.new(1, 0.5), Position = UDim2.fromScale(1, 0.5), Size = UDim2.new(0.3, 0, 0.7, 0) }, tier and ("XP share · %d coins"):format(tier.cost) or "Share maxed", tier and BLUE or GREY, info, function()
+			if tier then buyResult(call("canopy")) end
+		end)
+		for i, c in training.creatures do
+			local line = row(-100 + i, 62)
+			label({ Size = UDim2.fromScale(1, 1), Text = ("%s Lv %d · %s · %.1f%% level/min\nBase %.1f%% + dummies %.1f%% + habitat %.1f%%"):format(c.name, c.level, c.status, c.rate * 100, training.baseRate * 100, c.dummyBonus * 100, c.habitatBonus * 100), TextWrapped = true, TextXAlignment = Enum.TextXAlignment.Left, TextColor3 = MUTED }, line)
+		end
+	end
 	label({ Size = UDim2.new(0.62, 0, 0.36, 0), Text = ("%s Base  (level %d/%d)"):format(lv.name, state.level, #DecorData.BaseLevels), TextXAlignment = Enum.TextXAlignment.Left, TextColor3 = GOLD }, r1)
 	label({ Position = UDim2.fromScale(0, 0.4), Size = UDim2.new(0.62, 0, 0.28, 0), Text = ("Holds %d decorations  ·  +%d%% coins  ·  Jar holds %d min"):format(lv.cap, lv.bonus * 100, lv.jarMinutes), TextXAlignment = Enum.TextXAlignment.Left, TextColor3 = MUTED }, r1)
 	label({ Position = UDim2.fromScale(0, 0.7), Size = UDim2.new(0.62, 0, 0.28, 0), Text = nextLv and ("Next: %s  ·  %d decorations  ·  +%d%% coins"):format(nextLv.name, nextLv.cap, nextLv.bonus * 100) or "Max level!", TextXAlignment = Enum.TextXAlignment.Left, TextColor3 = MUTED }, r1)
@@ -847,7 +870,7 @@ function tabs.Base()
 	heading(3, "How to earn more:", GOLD)
 	for i, line in {
 		"Coin Fountain, Golden Statue and other generators add coins every minute.",
-		"Habitats pay +1 coin/min for each creature of their type on your team (up to 6).",
+		"Matching habitats improve creature training; they do not generate coins.",
 		"Healing Pads heal your team; Training Dummies give them XP while you build.",
 		"Display Pedestals and Trophy Walls show off your best catches to visitors.",
 		"Visitors can like your base at the gate: +10 coins each, and the Most Liked board in the hub.",

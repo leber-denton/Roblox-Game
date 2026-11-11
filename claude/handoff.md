@@ -1,5 +1,17 @@
 # Overhaul run: handoff
 
+## Ridge/base build checkpoint — 2026-11-10 (Codex)
+
+- Owner approved implementation and the Phase 0 amendment preserving existing Extra Slots and passive-income benefits. Branch `overhaul/ridge-base-progression`, stacked on Phase 6 `e679a1793`.
+- Implemented coastal reverse-face terrain, four homestead stage models on eight bases, additive `base.baseStage`, legacy expansion/Canopy compatibility, one-badge + 500-coin new expansion gate, stage/training UI and actual battle reward summaries. No new income/XP multipliers or BP sales. Normal stage capacity remains 6→12; existing Extra Slots still adds six. All old creatures are retained.
+- XP Balcony construction cost is deliberately `OWNER_CONFIRMATION_REQUIRED`; stage-3 purchase is disabled. Existing XP-sharing upgrades remain available at original prices. Stage 4 requires Champion and Region 1 collection completion; stages 3/4 were tested with NoSave fixtures.
+- Test place 94034385545160 alone now uses `CQ_RidgeBase_TEST_v1`. Other places retain the production store/key/locking behavior. API access remains disabled: **real persistence/rejoin is NOT TESTED**.
+- PASSED: 49 pure progression assertions, 16 server module fixture checks, live purchase/badge/price-bypass checks, original Canopy upgrade, live normal/2× coin and bench-XP reward fixtures, training cap/no-stars fixture, both portal round trips, four stage Play visual fixtures, ridge Edit/Play captures, Edit ModelSync audit (0 findings), final Selene **0 errors / 66 warnings / 0 parse errors**.
+- Studio recovery: `ServerStorage.Backups.RidgeBase_PreBuild` contains original bases/terrain and 93 tree/bush models moved out of deck footprints. Nothing in that group was permanently deleted. Gallery references and ShowcaseArea rebuilt. File → Download a Copy saved the cloud test place and wrote `C:\Claude\Roblox-Game-zip-backup\CQ_RidgeBase_20261110.rbxl` (10,330,353 bytes at first checkpoint); final recovery-copy evidence is in `claude/ridge-base-validation.md`.
+- Remaining: construction price, isolated real save/rejoin, two-player security/trade/PvP, complete climb/exploit and controller/mobile staircase testing. Hub terrain in Play screenshots can be partially unstreamed away from the character; Edit captures and retained boundary are the structural reference.
+- Prior Phase 4–6 gaps remain open except the two arena portal round trips now passed here. Do not infer Phase 6 approval or multiplayer trade/PvP coverage.
+- Detailed files, source contracts, tests and limitations: `claude/ridge-base-validation.md`, `vault/Systems/BaseProgression.md`. Do not push, open a PR, publish live, or migrate production saves without owner approval.
+
 Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after each phase.
 
 ## Phase 2 closure (2026-11-10, Claude; supersedes Codex's verification notes and the environment claims below)

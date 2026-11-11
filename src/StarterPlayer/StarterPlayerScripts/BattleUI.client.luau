@@ -846,6 +846,11 @@ local function handle(kind: string, data)
 		busy = true
 		clearButtons()
 		playTurn(data.log, data.state)
+		local r = data.rewardSummary
+		if r then
+			logLabel.Text = ("Battle XP: %d/%d · Bench XP: %d total (%d%% share)\nTrainer XP: %d · Coins: %d%s\nBadge caps apply to creature XP."):format(r.battleXP, r.offeredXP, r.benchXP, (r.benchShare or 0) * 100, r.trainerXP, r.coins, r.doubleCoins and " (2× coins included)" or "")
+			task.wait(3)
+		end
 		task.wait(0.4)
 		gui.Enabled = false
 		allyCard.gui.Visible = false

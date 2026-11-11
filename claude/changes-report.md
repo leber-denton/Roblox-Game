@@ -1,3 +1,17 @@
+# Ridge/base implementation checkpoint — 2026-11-10 (Codex)
+
+Implemented the approved ridge/base direction in cloud test place 94034385545160 and on branch `overhaul/ridge-base-progression`. The owner approved preserving existing Extra Slots and passive earnings. Full report: `claude/ridge-base-validation.md`; save/geometry contracts: `vault/Systems/BaseProgression.md`.
+
+Source changes: new `Shared.BaseProgressionData`, `ServerStorage.BaseHomesteadBuilder`, `ServerStorage.CoastalEscarpmentBuilder`, and `tests/BaseProgressionTests`; updated BaseManager migration/geometry, DecorService goals/actions/training state, Main expansion badge/proximity checks, DecorData mirrored terrace bounds, DecorUI stage/training view, BattleService/BattleUI actual reward summary, SaveService test-store isolation, and reference-only ModelSyncLookup entries.
+
+Studio changes: reverse ridge sculpt, eight stage-aware homesteads, recoverable tree clearance, two gallery references and rebuilt showcase. Recovery originals are in `ServerStorage.Backups.RidgeBase_PreBuild`; test place saved and downloaded. Live place untouched.
+
+PASSED: 49 pure assertions; 16 server fixture checks; real purchase/gate/Canopy paths; two trainer-battle reward summaries including 2× Coins/bench XP; training cap; both arena portal round trips; stage/ridge visuals; Edit ModelSync audit 0 findings. Final lint: **0 errors, 66 existing warnings, 0 parse errors**.
+
+Release holds: XP Balcony construction price remains unapproved and purchase disabled; real save/rejoin is blocked by disabled Studio API access; two-player and full movement/exploit sweeps remain untested. Existing Phase 4–6 gaps are retained in the handoff. No push, PR or live publication performed.
+
+---
+
 # Phase 2 closure report - 2026-11-10 (Claude)
 
 Status: Phase 2 **VERIFIED**. Phases 3 and 4 are **IMPLEMENTATION COMPLETE** (see each section for the checks NOT TESTED); Phases 5-6 remain unstarted.

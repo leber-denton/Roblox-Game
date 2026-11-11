@@ -21,6 +21,7 @@ local MarketplaceService = game:GetService("MarketplaceService")
 local RunService = game:GetService("RunService")
 
 local DecorData = require(ReplicatedStorage.Shared.DecorData)
+local BaseProgression = require(ReplicatedStorage.Shared.BaseProgressionData)
 local GameData = require(ReplicatedStorage.Shared.GameData)
 local BattleData = require(ReplicatedStorage.Shared.BattleData)
 local CreatureBuilder = require(ReplicatedStorage.Shared.CreatureBuilder)
@@ -169,6 +170,33 @@ local function bankCap(player: Player, d): number
 end
 
 -- Everything the client needs
+local function progressionState(player: Player)
+	local stage = BaseManager.getStage(player)
+	local caught, total = BaseProgression.collection(BaseManager.getIndex(player), GameData.IndexRegions)
+	local ready, reason, cost = BaseProgression.nextGoal(stage, player:GetAttribute("Badges") or 0,
+		(player:GetAttribute("Stat_leagueWins") or 0) > 0, caught, total, GameData.Economy.expansionCost)
+	return { stage = stage, name = BaseProgression.Names[stage], nextName = BaseProgression.Names[stage + 1],
+		ready = ready and cost ~= nil and PlayerData.coins(player) >= cost, reason = reason, cost = cost,
+		capacity = player:GetAttribute("TeamCapacity") or 6 }
+end
+
+local function trainingState(player: Player, d)
+	local list = {}
+	local cap = Training.levelCap(player:GetAttribute("Badges") or 0, (player:GetAttribute("Stat_leagueWins") or 0) > 0)
+	for record, rate in trainingRates(player, d) do
+		table.insert(list, { id = record.id, name = record.name, level = record.level, rate = rate,
+			status = record.hp <= 0 and "Fainted" or (record.level >= cap and "At training cap" or (BattleService.isInBattle(player) and "Paused in battle" or "Training")),
+			dummyBonus = math.min(countWith(d, "train"), Training.maxDummies) * Training.dummyRate,
+			habitatBonus = math.max(0, rate - Training.rate - math.min(countWith(d, "train"), Training.maxDummies) * Training.dummyRate) })
+	end
+	table.sort(list, function(a, b) return a.id < b.id end)
+	local badges = player:GetAttribute("Badges") or 0
+	local nextGoal = badges >= 16 and "Final levels and stars come from battles."
+		or (badges == 8 and (player:GetAttribute("Stat_leagueWins") or 0) == 0 and "Defeat the Champion to raise your cap."
+		or "Earn the next badge to raise your cap.")
+	return { cap = cap, creatures = list, baseRate = Training.rate, nextGoal = nextGoal }
+end
+
 local function publicState(player: Player, d)
 	local today = DecorData.today()
 	if d.dailyDay ~= today then
@@ -176,6 +204,10 @@ local function publicState(player: Player, d)
 		d.dailyBought = {}
 	end
 	return {
+		progression = progressionState(player),
+		training = trainingState(player, d),
+		canopy = d.canopy,
+		canopyShare = DecorData.CanopyTiers[d.canopy or 1].share,
 		owned = d.owned,
 		placed = d.placed,
 		shards = d.shards,
@@ -501,6 +533,7 @@ local EXCLUDE = {
 	Floor = true, Path = true, PathEdge = true, Pen = true, SpawnPoint = true, HouseFloor = true,
 	ExpFloor = true, Pen2 = true, Pond = true, ExpansionBarrier = true, LockLabel = true, Gate = true,
 	SignAnchor = true, Leaves = true, ExpLeaves = true, Roof = true, Chimney = true,
+	TerraceGround = true, TerraceWalk = true,
 }
 
 local function collectStatic(base: Model)
@@ -536,7 +569,7 @@ local function canPlace(player: Player, d, id: string, x: number, z: number, r: 
 		return false, "You can't build here."
 	end
 	local fx, fz = DecorData.footprint(id, r)
-	if not DecorData.inBounds(x, z, fx, fz, BaseManager.isExpansionUnlocked(player), d.level) then
+	if not DecorData.inBounds(x, z, fx, fz, BaseManager.isExpansionUnlocked(player), d.level, BaseManager.getStage(player)) then
 		return false, "That's outside your base."
 	end
 	local floor = floorOf(base)
@@ -797,17 +830,32 @@ function actions.upgrade(player, d)
 	return true, ("Base upgraded to %s! Room for %d decorations, +%d%% coins.%s"):format(nextDef.name, nextDef.cap, nextDef.bonus * 100, extra)
 end
 
+function actions.stage(player, _d)
+	if not BaseManager.getBase(player) then
+		return false, "Claim a base first."
+	end
+	local p = progressionState(player)
+	if not p.ready then
+		return false, p.reason .. (p.cost and (" · You have %d coins"):format(PlayerData.coins(player)) or "")
+	end
+	if not PlayerData.spend(player, p.cost) then
+		return false, "Not enough coins."
+	end
+	BaseManager.setStage(player, p.stage + 1)
+	return true, BaseProgression.Names[p.stage + 1] .. " unlocked!"
+end
+
 function actions.canopy(player, d)
 	local tiers = DecorData.CanopyTiers
 	local nextTier = tiers[(d.canopy or 1) + 1]
 	if not nextTier then
-		return false, "Your XP Canopy is already maxed out (50% shared)!"
+		return false, "Your XP Balcony is already maxed out (50% shared)!"
 	end
 	if not PlayerData.spend(player, nextTier.cost) then
-		return false, ("You need %d coins to upgrade the XP Canopy (you have %d)."):format(nextTier.cost, PlayerData.coins(player))
+		return false, ("You need %d coins to upgrade the XP Balcony (you have %d)."):format(nextTier.cost, PlayerData.coins(player))
 	end
 	d.canopy = (d.canopy or 1) + 1
-	return true, ("XP Canopy upgraded! Your other creatures now get %d%% of battle XP."):format(nextTier.share * 100)
+	return true, ("XP Balcony upgraded! Your other creatures now get %d%% of battle XP."):format(nextTier.share * 100)
 end
 
 function actions.collect(player, d)
@@ -820,7 +868,7 @@ function actions.collect(player, d)
 	return true, ("Collected %d coins from your Coin Jar!"):format(amount)
 end
 
-local SAVE_ACTIONS = { buy = true, buyDaily = true, openBox = true, shardBuy = true, place = true, move = true, remove = true, theme = true, upgrade = true, collect = true, canopy = true }
+local SAVE_ACTIONS = { stage = true, buy = true, buyDaily = true, openBox = true, shardBuy = true, place = true, move = true, remove = true, theme = true, upgrade = true, collect = true, canopy = true }
 
 ----------------------------------------------------------------------------------------------
 -- per-minute tick
@@ -895,6 +943,15 @@ end
 
 local function refreshBaseLabels(base: Model)
 	local owner = ownerOf(base)
+	local board = base:FindFirstChild("ProgressBoard", true)
+	if board then
+		local p = owner and progressionState(owner)
+		for _, title in board:GetDescendants() do
+			if title:IsA("TextLabel") then
+				title.Text = p and (p.name .. "\n" .. (p.nextName and ("Next: " .. p.nextName .. "\n" .. p.reason) or p.reason)) or "Starter Yard\nA coastal homestead awaits"
+			end
+		end
+	end
 	if jarLabels[base] then
 		jarLabels[base].Text = owner and ("Coin Jar  %d/%d"):format(owner:GetAttribute("BaseBank") or 0, owner:GetAttribute("BaseBankCap") or 0) or "Coin Jar"
 	end
@@ -915,7 +972,7 @@ local function refreshBaseLabels(base: Model)
 		local nextTier = tiers[level + 1]
 		local label = canopy:FindFirstChild("Text", true)
 		if label and label:IsA("TextLabel") then
-			label.Text = ("XP Canopy Lv %d · %d%% shared"):format(level, tiers[level].share * 100)
+			label.Text = ("XP Balcony Lv %d · %d%% shared"):format(level, tiers[level].share * 100)
 		end
 		local up = canopy:FindFirstChild("UpgradePrompt", true)
 		if up then
@@ -1362,11 +1419,12 @@ function DecorService.onLoaded(player: Player)
 	player:GetAttributeChangedSignal("Pass_PremiumDecor"):Connect(function()
 		applyPremium(player)
 	end)
-	for _, attr in { "BaseBank", "BaseBankCap", "Stat_likes", "CanopyLevel" } do
+	for _, attr in { "BaseBank", "BaseBankCap", "Stat_likes", "CanopyLevel", "BaseStage", "Badges", "Stat_leagueWins" } do
 		player:GetAttributeChangedSignal(attr):Connect(function()
 			local b = BaseManager.getBase(player)
 			if b then
 				refreshBaseLabels(b)
+				if state[player] then sync(player) end
 			end
 		end)
 	end

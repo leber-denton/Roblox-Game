@@ -434,7 +434,7 @@ do
 		if board then
 			local prompt = Instance.new("ProximityPrompt")
 			prompt.ActionText = ("Unlock (%d coins)"):format(cost)
-			prompt.ObjectText = "Base Expansion"
+			prompt.ObjectText = "Habitat Garden · 1 badge"
 			prompt.HoldDuration = 0.6
 			prompt.MaxActivationDistance = 12
 			prompt.RequiresLineOfSight = false
@@ -445,6 +445,14 @@ do
 					return
 				end
 				if BaseManager.isExpansionUnlocked(player) then
+					return
+				end
+				local root = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+				if not root or (root.Position - board.Position).Magnitude > prompt.MaxActivationDistance + 3 then
+					return
+				end
+				if (player:GetAttribute("Badges") or 0) < 1 then
+					Notify:FireClient(player, "Habitat Garden requires 1 badge and 500 coins.", "fail")
 					return
 				end
 				if not PlayerData.spend(player, cost) then
