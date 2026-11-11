@@ -1,7 +1,8 @@
 --[[
 	DungeonClient: effects for the Dark Tower.
-	  - a rumbling camera shake and purple tint while the lift carries you up
+	  - a rumbling camera shake and a tint in the tower's colour while the lift carries you up
 	  - a big "FLOOR 1.4" banner when you arrive on a new floor
+	Colours and tower names come from Shared.TowerThemes.
 ]]
 
 local Players = game:GetService("Players")
@@ -12,6 +13,7 @@ local Lighting = game:GetService("Lighting")
 
 local player = Players.LocalPlayer
 local GameData = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("GameData"))
+local TowerThemes = require(ReplicatedStorage.Shared:WaitForChild("TowerThemes"))
 
 local gui = Instance.new("ScreenGui")
 gui.Name = "DungeonUI"
@@ -25,7 +27,7 @@ tint.Name = "LiftTint"
 tint.TintColor = Color3.new(1, 1, 1)
 tint.Parent = Lighting
 
-local function banner(text: string, color: Color3)
+local function banner(text: string, color: Color3, strokeColor: Color3)
 	local label = Instance.new("TextLabel")
 	label.AnchorPoint = Vector2.new(0.5, 0.5)
 	label.Position = UDim2.fromScale(0.5, 0.38)
@@ -38,7 +40,7 @@ local function banner(text: string, color: Color3)
 	label.Parent = gui
 	local stroke = Instance.new("UIStroke")
 	stroke.Thickness = 4
-	stroke.Color = Color3.fromRGB(30, 10, 50)
+	stroke.Color = strokeColor
 	stroke.Parent = label
 	local limit = Instance.new("UISizeConstraint")
 	limit.MaxSize = Vector2.new(700, 110)
@@ -69,14 +71,19 @@ end)
 player:GetAttributeChangedSignal("Elevating"):Connect(function()
 	local on = player:GetAttribute("Elevating") == true
 	shaking = on
-	TweenService:Create(tint, TweenInfo.new(0.6), { TintColor = on and Color3.fromRGB(225, 200, 255) or Color3.new(1, 1, 1) }):Play()
+	local index = player:GetAttribute("DungeonFloor") or 1
+	local theme = TowerThemes.forFloor(index)
+	TweenService:Create(tint, TweenInfo.new(0.6), { TintColor = on and theme.tint or Color3.new(1, 1, 1) }):Play()
 	if not on then
-		local f = GameData.Dungeon.floors[player:GetAttribute("DungeonFloor") or 1]
+		local f = GameData.Dungeon.floors[index]
 		if f then
 			if f.rest then
-				banner("FLOOR " .. f.label .. "  ·  STAGE CLEAR!", Color3.fromRGB(255, 220, 110))
+				banner("FLOOR " .. f.label .. "  ·  STAGE CLEAR!", Color3.fromRGB(255, 220, 110), theme.bannerStroke)
 			else
-				banner("FLOOR " .. f.label .. (f.boss and "  ·  BOSS" or ""), f.boss and Color3.fromRGB(255, 120, 120) or Color3.fromRGB(215, 170, 255))
+				-- the first floor of a new tower announces the tower's name
+				local first = (index - 1) % TowerThemes.FLOORS_PER_TOWER == 0
+				local text = (first and (theme.name:upper() .. "  ·  ") or "") .. "FLOOR " .. f.label .. (f.boss and "  ·  BOSS" or "")
+				banner(text, f.boss and Color3.fromRGB(255, 200, 90) or theme.banner, theme.bannerStroke)
 			end
 		end
 	end
@@ -85,9 +92,11 @@ end)
 -- banner when entering the tower
 player:GetAttributeChangedSignal("InDungeon"):Connect(function()
 	if player:GetAttribute("InDungeon") then
-		local f = GameData.Dungeon.floors[player:GetAttribute("DungeonFloor") or 1]
+		local index = player:GetAttribute("DungeonFloor") or 1
+		local f = GameData.Dungeon.floors[index]
 		if f then
-			banner("DARK TOWER  ·  FLOOR " .. f.label, Color3.fromRGB(215, 170, 255))
+			local theme = TowerThemes.forFloor(index)
+			banner(theme.name:upper() .. "  ·  FLOOR " .. f.label, theme.banner, theme.bannerStroke)
 		end
 	end
 end)

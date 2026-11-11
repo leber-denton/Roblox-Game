@@ -84,7 +84,9 @@ for r = 1, 16 do
 	end
 end
 
-for room = 1, 10 do
+-- Dark Tower trainers: rooms 1-10 (Bone Crypt) and 11-20 (Ember Forge). Room 21 is the rest room, no trainer.
+-- Rooms 11-20 were built by ServerStorage.TowerBuilder and have no NPCBackup copy (softTemplate).
+for room = 1, 20 do
 	addNpc("DUNGEON TRAINERS", "DungeonTower.Room" .. room .. ".Trainer")
 end
 

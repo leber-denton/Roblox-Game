@@ -1,15 +1,18 @@
 --[[
 	DungeonService: the dark tower behind the hub.
-	Enter through the purple portal in the hub. Each floor (1.1 ... 1.9) has a trainer; 1.10 is the boss;
-	2.1 is the end for now. Beat a floor's trainer and a glowing lift carries you up through the
-	ceiling to the next floor. Lose and you're sent to the Healing Center (progress is kept).
-	Progress: player attribute "DungeonFloor" (index into GameData.Dungeon.floors).
+	Enter through the portal in the hub. Two towers of ten floors are stacked: 1.1-1.10 (Bone Crypt) and
+	2.1-2.10 (Ember Forge); x.10 is each tower's boss and 3.1 is a rest room at the top, the end for now.
+	Beat a floor's trainer and a glowing lift carries you up through the ceiling to the next floor.
+	Lose and you're sent to the Healing Center (progress is kept).
+	Progress: player attribute "DungeonFloor" (index into GameData.Dungeon.floors = RoomN).
+	Colours and stage names come from Shared.TowerThemes.
 ]]
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")
 local GameData = require(ReplicatedStorage.Shared.GameData)
+local TowerThemes = require(ReplicatedStorage.Shared.TowerThemes)
 local BattleService = require(script.Parent.BattleService)
 local NPC = require(script.Parent.NPC)
 local DungeonNPCStyler = require(script.Parent.DungeonNPCStyler)
@@ -108,7 +111,7 @@ local function ride(player: Player, fromIndex: number)
 	platform.Anchored = true
 	platform.Size = Vector3.new(7, 1, 7)
 	platform.Material = Enum.Material.Neon
-	platform.Color = Color3.fromRGB(175, 95, 255)
+	platform.Color = TowerThemes.forFloor(fromIndex + 1).lift
 	platform.Position = Vector3.new(c.X, startY - 0.4, c.Z)
 	local glow = Instance.new("PointLight")
 	glow.Color = platform.Color
@@ -150,7 +153,12 @@ local function ride(player: Player, fromIndex: number)
 
 	local next = floors[fromIndex + 1]
 	if next.rest then
-		Notify:FireClient(player, ("You conquered the tower's first stage! Floor %s: more floors are coming soon."):format(next.label), "success")
+		local theme = TowerThemes.forFloor(fromIndex)
+		Notify:FireClient(
+			player,
+			("You conquered the %s, the tower's %s stage! Floor %s: more floors are coming soon."):format(theme.name, theme.stage, next.label),
+			"success"
+		)
 	else
 		Notify:FireClient(player, ("Floor %s%s"):format(next.label, next.boss and "  ·  BOSS" or ""), "info")
 	end
@@ -175,7 +183,7 @@ function DungeonService.init()
 		local trainer = r:FindFirstChild("Trainer")
 		if trainer and not f.rest then
 			-- unique spooky look per trainer; a styling error must never break the tower
-			local styled, styleErr = pcall(DungeonNPCStyler.apply, trainer, f.trainer)
+			local styled, styleErr = pcall(DungeonNPCStyler.apply, trainer, f.trainer, i)
 			if not styled then
 				warn("DungeonService: couldn't style", f.trainer, styleErr)
 			end
@@ -208,7 +216,11 @@ function DungeonService.init()
 		if result == "won" then
 			b.dungeonWon = true
 			if f.boss then
-				Notify:FireAllClients(("%s defeated %s and conquered the Dark Tower's first stage!"):format(player.DisplayName, f.trainer), "announce")
+				local theme = TowerThemes.forFloor(b.trainer.floor)
+				Notify:FireAllClients(
+					("%s defeated %s and conquered the %s, the Dark Tower's %s stage!"):format(player.DisplayName, f.trainer, theme.name, theme.stage),
+					"announce"
+				)
 			end
 		elseif result == "lost" then
 			b.dungeonLost = true

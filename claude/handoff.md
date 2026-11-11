@@ -29,7 +29,12 @@ Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after 
   - NOT TESTED: `/showcase` typed in chat in Play (owner arrives at (-3045, 56, 0); non-owner gets nothing). Automated chat injection was unreliable and was dropped to save time. By code review, `Showcase.server.luau` returns before doing anything when `origin.UserId ~= 1170990981`. To test: Play, type `/showcase`, then `/showcase off`.
   - The rebuilt `Workspace.ShowcaseArea` lives in the place file: save the place in Studio to keep it.
   - Runtime vs Edit audit: they disagree by design, see below.
-- [ ] Phase 4 dungeon
+- [~] Phase 4 dungeon: **IMPLEMENTATION COMPLETE** (2026-11-10). Branch `overhaul/p4-dungeon`, stacked on `overhaul/p3-showcase`. See `vault/Systems/DarkTower.md`.
+  - PASSED (Edit): Room1-21 exist; Room11 StartPad intact; all 20 trainers have a visible face and hair; `TowerBuilder.purpleReport()` returns 0; a second `build()` run changes nothing; showcase rebuilt (20 dungeon trainers, 99 route decor); `ModelSync.audit()` 0 findings; Selene 0/69.
+  - PASSED (Play, NoSave): hub portal (E) entered floor 1.10; boss battle won; the lift carried the player to Room11 with the banner "EMBER FORGE · FLOOR 2.1"; tint reset after; runtime styling 20/20, faces and hair kept.
+  - NOT TESTED: the leave portal and a defeat (testing was stopped there by request); the 3.1 rest-room arrival; the Tower 2 team balance in real play.
+  - Fixed after the Play run, not re-run: the lantern-case and pauldron props were a near-black violet, now warm grey.
+  - Save the place in Studio to keep Rooms 12-21, the repainted tower and portal, and the fixed trainers.
 - [ ] Phase 5 Trade Center / Coliseum
 - [ ] Phase 6 UI
 - [ ] Final checks, changes-report.md

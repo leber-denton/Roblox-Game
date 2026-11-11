@@ -824,7 +824,10 @@ function GameData.trainerXPToNext(level: number): number
 	return 100 + (level - 1) * 50
 end
 
--- The Dungeon tower: one trainer per floor, 1.10 is the boss, 2.1 is the end for now
+-- The Dungeon tower: one trainer per floor. Floor index i is Workspace.Map.DungeonTower.Room<i>.
+-- Tower 1 (1.1-1.10, Bone Crypt) and Tower 2 (2.1-2.10, Ember Forge); x.10 is each tower's boss;
+-- 3.1 is a rest room at the top, the end for now. Looks per tower: Shared.TowerThemes.
+-- Saves store the floor index, so a player saved on the old 2.1 rest room (index 11) now meets 2.1's trainer.
 GameData.Dungeon = {
 	floors = {
 		{ label = "1.1",  trainer = "Tower Trainee Pip",  team = { { "Nibbit", 2 } },                          coins = 20,  xp = 30 },
@@ -837,7 +840,17 @@ GameData.Dungeon = {
 		{ label = "1.8",  trainer = "Tower Veteran Ash",  team = { { "Thornip", 8 }, { "Stingle", 8 } },       coins = 55,  xp = 70 },
 		{ label = "1.9",  trainer = "Tower Veteran Quill", team = { { "Brawlet", 9 }, { "Squawkit", 9 } },     coins = 60,  xp = 80 },
 		{ label = "1.10", trainer = "Tower Warden Nyx",   team = { { "Squawkit", 10 }, { "Voltmole", 10 }, { "Brawlet", 11 } }, coins = 250, xp = 220, boss = true },
-		{ label = "2.1",  rest = true },
+		{ label = "2.1",  trainer = "Forge Adept Flint",    team = { { "Kindlit", 13 }, { "Pebblit", 13 } },                          coins = 70,  xp = 90 },
+		{ label = "2.2",  trainer = "Forge Adept Tamsin",   team = { { "Scorchling", 14 }, { "Stingle", 14 } },                       coins = 75,  xp = 95 },
+		{ label = "2.3",  trainer = "Forge Adept Cole",     team = { { "Cinderock", 15 }, { "Voltmole", 15 } },                       coins = 80,  xp = 100 },
+		{ label = "2.4",  trainer = "Forge Veteran Brand",  team = { { "Embercub", 16 }, { "Brawlet", 16 }, { "Pebblit", 16 } },      coins = 85,  xp = 110 },
+		{ label = "2.5",  trainer = "Forge Veteran Pyra",   team = { { "Blazefox", 17 }, { "Squawkit", 17 }, { "Kindlit", 17 } },    coins = 90,  xp = 120 },
+		{ label = "2.6",  trainer = "Forge Veteran Anvil",  team = { { "Cragmaul", 18 }, { "Cinderock", 18 }, { "Zapkit", 18 } },     coins = 95,  xp = 130 },
+		{ label = "2.7",  trainer = "Forge Master Slag",    team = { { "Scorchling", 19 }, { "Dunehorn", 19 }, { "Buzzbolt", 19 } },  coins = 100, xp = 140 },
+		{ label = "2.8",  trainer = "Forge Master Vesta",   team = { { "Cindrake", 20 }, { "Voltmole", 20 }, { "Brawlet", 21 } },    coins = 105, xp = 150 },
+		{ label = "2.9",  trainer = "Forge Master Hollis",  team = { { "Infernyx", 21 }, { "Cragmaul", 21 }, { "Stormane", 22 } },   coins = 110, xp = 160 },
+		{ label = "2.10", trainer = "Forge Warden Ignar",   team = { { "Cindrake", 23 }, { "Infernyx", 24 }, { "Stormane", 24 } },   coins = 400, xp = 350, boss = true },
+		{ label = "3.1",  rest = true },
 	},
 }
 
