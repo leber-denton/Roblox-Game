@@ -8,6 +8,7 @@ local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")
 local HttpService = game:GetService("HttpService")
+local UIStyle = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("UIStyle"))
 
 local player = Players.LocalPlayer
 local GameData = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("GameData"))
@@ -94,6 +95,7 @@ local function ballIcon(parent: GuiObject, color: Color3, symbol: string?)
 end
 
 local gui = new("ScreenGui", { Name = "BagUI", ResetOnSpawn = false, DisplayOrder = 6, ZIndexBehavior = Enum.ZIndexBehavior.Sibling }, player:WaitForChild("PlayerGui"))
+UIStyle.mount(gui)
 
 -- the Bag button, just above INDEX on the right
 local openButton = new("TextButton", {

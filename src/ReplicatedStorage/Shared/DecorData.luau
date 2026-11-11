@@ -520,8 +520,11 @@ end
 
 -- Is a footprint (centre x, z; size fx, fz) inside the buildable area?
 -- level: base level (wings). The buildable area is the main floor (+ its wings) plus the expansion behind it.
-function DecorData.inBounds(x: number, z: number, fx: number, fz: number, expansion: boolean, level: number?): boolean
+function DecorData.inBounds(x: number, z: number, fx: number, fz: number, expansion: boolean, level: number?, stage: number?): boolean
 	local x0, x1, z0, z1 = x - fx / 2, x + fx / 2, z - fz / 2, z + fz / 2
+	if (stage or 1) >= 4 and x0 >= -150.5 and x1 <= -112 and z0 >= -18.5 and z1 <= 18.5 then
+		return true
+	end
 	local hx, hz = DecorData.MainHalf[1], DecorData.MainHalf[2]
 	-- the main floor with any wings
 	local lo, hi = DecorData.zRange(level)

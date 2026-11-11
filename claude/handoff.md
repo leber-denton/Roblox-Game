@@ -1,5 +1,18 @@
 # Overhaul run: handoff
 
+## Ridge/base build checkpoint — 2026-11-10 (Codex)
+
+- Owner approved implementation and the Phase 0 amendment preserving existing Extra Slots and passive-income benefits. Branch `overhaul/ridge-base-progression`, stacked on Phase 6 `e679a1793`.
+- Implemented coastal reverse-face terrain, four homestead stage models on eight bases, additive `base.baseStage`, legacy expansion/Canopy compatibility, one-badge + 500-coin new expansion gate, stage/training UI and actual battle reward summaries. No new income/XP multipliers or BP sales. Normal stage capacity remains 6→12; existing Extra Slots still adds six. All old creatures are retained.
+- XP Balcony construction cost is deliberately `OWNER_CONFIRMATION_REQUIRED`; stage-3 purchase is disabled. Existing XP-sharing upgrades remain available at original prices. Stage 4 requires Champion and Region 1 collection completion; stages 3/4 were tested with NoSave fixtures.
+- Test place 94034385545160 alone now uses `CQ_RidgeBase_TEST_v1`. Other places retain the production store/key/locking behavior. API access remains disabled: **real persistence/rejoin is NOT TESTED**.
+- PASSED: 49 pure progression assertions, 16 server module fixture checks, live purchase/badge/price-bypass checks, original Canopy upgrade, live normal/2× coin and bench-XP reward fixtures, training cap/no-stars fixture, both portal round trips, four stage Play visual fixtures, ridge Edit/Play captures, Edit ModelSync audit (0 findings), final Selene **0 errors / 66 warnings / 0 parse errors**.
+- Studio recovery: `ServerStorage.Backups.RidgeBase_PreBuild` contains original bases/terrain and 93 tree/bush models moved out of deck footprints. Nothing in that group was permanently deleted. Gallery references and ShowcaseArea rebuilt. File → Download a Copy saved the cloud test place and wrote `C:\Claude\Roblox-Game-zip-backup\CQ_RidgeBase_20261110.rbxl` (10,330,353 bytes at first checkpoint); final recovery-copy evidence is in `claude/ridge-base-validation.md`.
+- Remaining: construction price, isolated real save/rejoin, two-player security/trade/PvP, complete climb/exploit and controller/mobile staircase testing. Hub terrain in Play screenshots can be partially unstreamed away from the character; Edit captures and retained boundary are the structural reference.
+- Prior Phase 4–6 gaps remain open except the two arena portal round trips now passed here. Do not infer Phase 6 approval or multiplayer trade/PvP coverage.
+- Detailed files, source contracts, tests and limitations: `claude/ridge-base-validation.md`, `vault/Systems/BaseProgression.md`. Do not push, open a PR, publish live, or migrate production saves without owner approval.
+- 2026-11-11: owner approved pushing this branch and Phase 6 `e679a1793` as one PR (still no live publish or production save migration). `CoastalEscarpmentBuilder.build()` now also refuses while `Map.Mountains.Coast` exists: the coast ridge is part-built now (see `vault/Systems/MountainLookouts.md`), so never run this builder's `build()` or `restore()` over it.
+
 Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after each phase.
 
 ## Phase 2 closure (2026-11-10, Claude; supersedes Codex's verification notes and the environment claims below)
@@ -35,13 +48,17 @@ Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after 
   - NOT TESTED: the leave portal and a defeat (testing was stopped there by request); the 3.1 rest-room arrival; the Tower 2 team balance in real play.
   - Fixed after the Play run, not re-run: the lantern-case and pauldron props were a near-black violet, now warm grey.
   - Save the place in Studio to keep Rooms 12-21, the repainted tower and portal, and the fixed trainers.
-- [ ] Phase 5 Trade Center / Coliseum: awaiting owner approval after the 2026-11-10 checkpoint; branch `overhaul/p5-arenas`, stacked on `overhaul/p4-dungeon`. Visual-only: no trade, Coliseum, economy, or battle logic changed.
+- [x] Phase 5 Trade Center / Coliseum: approved by owner after the 2026-11-10 checkpoint; branch `overhaul/p5-arenas`, stacked on `overhaul/p4-dungeon`. Visual-only: no trade, Coliseum, economy, or battle logic changed. Its explicit untested items remain recorded below.
   - PASSED (Edit): exactly one `Workspace.Map.Coliseum` and one `RomanShell`; the stale duplicate Roman-shell copies are no longer in the live map. The Roman arena has a three-storey arcade, tiered stands, gallery, braziers, entrance tunnel, cypresses, and an enclosed red-and-cream velarium. The Trade Center has a continuous lagoon shoreline and beach dressing clear of the arrival route, fountain, palms, and stalls. One screenshot was captured and reviewed at a time for Coliseum exterior, Coliseum interior, and Trade Center.
   - PASSED (Play, fresh start): `StadiumShell=0`, `MarketHall=0`, `RomanShell=1`; both `Map.Coliseum` and `Map.TradePlaza` retain `Arrive` and `ExitPortal`; both area models load on the client. This confirms the old runtime wrappers no longer cover the Rojo-synced designs.
   - PASSED: `ModelSync.audit()` 0 findings in Edit (its source was evaluated with an injected `ModelSyncLookup`, because bare `loadstring(ModelSync.Source)()` has no `script.Parent` in the Studio command executor); `selene src tests` 0 errors, 66 warnings (three fewer than the previous 69-warning baseline, because the removed runtime wrapper helpers carried warnings).
   - NOT TESTED: triggering the hub portals and exit prompts end-to-end, a multiplayer trade, or a Coliseum match. The automated character navigator cannot route across the intentionally disconnected arena islands, so it could not substitute for a portal test. Existing Studio console warnings were unrelated Dungeon NPC-guard resets, disabled DataStore API access, and a legacy asset-type mismatch.
   - Save the Studio place to preserve any live-place cleanup of stale Coliseum copies/backups before switching branches.
-- [ ] Phase 6 UI
+- [ ] Phase 6 UI: awaiting owner approval after the 2026-11-10 checkpoint; branch `overhaul/p6-ui`, stacked on `overhaul/p5-arenas`. Visual-only: `Shared.UIStyle` is mounted by HUD, Menus, BattleUI, BagUI, ColiseumUI, DecorUI, DungeonUI, and EventHUD; it applies safe-area clipping, text-size constraints, shared button strokes, hover/press/selection feedback, disabled feedback, and future reusable size/list helpers. No remote, callback, input binding, battle, trade, or economy logic changed.
+  - PASSED (Play): all eight scoped ScreenGuis reported `UIStyleMounted=true`; every currently-created `GuiButton` in HUD, Menus, Bag, ColiseumUI, and DecorUI reported styled. BattleUI had zero live buttons because no battle was entered.
+  - PASSED (screenshots, one at a time): HUD remained visible without clipping on iPhone 17 Pro (874x402 landscape), iPad Pro M5 13in (1376x1032 landscape), and Average Windows (1366x768). Studio Device Simulator was stopped and reset to its default viewport afterwards.
+  - PASSED: `selene src tests` 0 errors, 66 existing warnings; no new client UI runtime errors. Existing console warnings remain disabled Studio DataStore API access, Dungeon NPC guard resets, a legacy asset-type mismatch, and the Assistant plugin version warning.
+  - NOT TESTED: actual BattleUI action buttons, Coliseum-shop purchase button, Decor build-mode buttons, and UI state changes reached through live gameplay. The fresh-test onboarding cinematic remained active, so its title/letterboxing was not treated as a Phase 6 regression.
 - [ ] Final checks, changes-report.md
 
 ## Phase 3 audit note: Play vs Edit

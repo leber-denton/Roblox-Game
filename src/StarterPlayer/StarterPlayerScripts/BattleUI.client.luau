@@ -21,6 +21,7 @@ local Remotes = ReplicatedStorage:WaitForChild("Remotes")
 local BattleEvent = Remotes:WaitForChild("BattleEvent")
 local BattleAction = Remotes:WaitForChild("BattleAction")
 local Shared = ReplicatedStorage:WaitForChild("Shared")
+local UIStyle = require(Shared:WaitForChild("UIStyle"))
 local GameData = require(Shared:WaitForChild("GameData"))
 local BattleData = require(Shared:WaitForChild("BattleData"))
 local BattleFX = require(script.Parent:WaitForChild("BattleFX"))
@@ -69,6 +70,7 @@ local gui = new("ScreenGui", {
 	Name = "BattleUI", ResetOnSpawn = false, Enabled = false, DisplayOrder = 5,
 	ZIndexBehavior = Enum.ZIndexBehavior.Sibling,
 }, player:WaitForChild("PlayerGui"))
+UIStyle.mount(gui)
 
 local panel = new("Frame", {
 	AnchorPoint = Vector2.new(0.5, 1), Position = UDim2.new(0.5, 0, 1, -12),
@@ -844,6 +846,11 @@ local function handle(kind: string, data)
 		busy = true
 		clearButtons()
 		playTurn(data.log, data.state)
+		local r = data.rewardSummary
+		if r then
+			logLabel.Text = ("Battle XP: %d/%d · Bench XP: %d total (%d%% share)\nTrainer XP: %d · Coins: %d%s\nBadge caps apply to creature XP."):format(r.battleXP, r.offeredXP, r.benchXP, (r.benchShare or 0) * 100, r.trainerXP, r.coins, r.doubleCoins and " (2× coins included)" or "")
+			task.wait(3)
+		end
 		task.wait(0.4)
 		gui.Enabled = false
 		allyCard.gui.Visible = false

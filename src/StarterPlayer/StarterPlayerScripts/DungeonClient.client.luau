@@ -10,6 +10,7 @@ local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Lighting = game:GetService("Lighting")
+local UIStyle = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("UIStyle"))
 
 local player = Players.LocalPlayer
 local GameData = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("GameData"))
@@ -21,6 +22,7 @@ gui.ResetOnSpawn = false
 gui.IgnoreGuiInset = true
 gui.DisplayOrder = 7
 gui.Parent = player:WaitForChild("PlayerGui")
+UIStyle.mount(gui)
 
 local tint = Instance.new("ColorCorrectionEffect")
 tint.Name = "LiftTint"
