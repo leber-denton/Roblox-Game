@@ -65,64 +65,19 @@ local function buildQuestWorld()
 		p.TopSurface = Enum.SurfaceType.Smooth; p.BottomSurface = Enum.SurfaceType.Smooth
 		p.CanCollide = collide ~= false; p.Parent = parent; return p
 	end
-	local function light(p, color, range)
-		local l = Instance.new("PointLight"); l.Color = color; l.Brightness = 1.2; l.Range = range or 28; l.Parent = p
-	end
 	local function label(p, text, face)
 		local gui = Instance.new("SurfaceGui"); gui.Face = face or Enum.NormalId.Front; gui.CanvasSize = Vector2.new(800, 240); gui.Parent = p
 		local t = Instance.new("TextLabel"); t.Size = UDim2.fromScale(1,1); t.BackgroundTransparency = 1
 		t.Text = text; t.Font = Enum.Font.FredokaOne; t.TextScaled = true; t.TextColor3 = Color3.fromRGB(255,244,211); t.Parent = gui
 	end
-	local stone, pale = Color3.fromRGB(61,70,87), Color3.fromRGB(130,150,176)
-	-- Stadium: an opaque high shell with an enclosed sky ceiling, beyond all seats/portals.
+	local stone = Color3.fromRGB(61,70,87)
+	-- Battle Coliseum and Trade Center: no runtime shell any more (Overhaul Phase 5). Both are enclosed by
+	-- their own Rojo-synced builds, Map.Coliseum.RomanShell (velarium roof, tools/gen_coliseum.py) and
+	-- Map.TradePlaza.SunDome plus Map.TradePlazaBeach (tools/gen_trade_beach.py). The old StadiumShell and
+	-- MarketHall boxes hid both. The arena sand keeps its warm colour.
 	local arena = map:FindFirstChild("Coliseum")
-	if arena then
-		local shell = Instance.new("Folder"); shell.Name = "StadiumShell"; shell.Parent = root
-		local c = Vector3.new(0,0,-1200)
-		local floor = arena:FindFirstChild("ArenaFloor")
-		if floor then c = Vector3.new(floor.Position.X,0,floor.Position.Z); floor.Material = Enum.Material.Sand; floor.Color = Color3.fromRGB(211,181,119) end
-		for i=0,35 do
-			local a = math.rad(i*10)
-			local p = part(shell,"StadiumWall",Vector3.new(21.4,76,4),c+Vector3.new(math.sin(a)*119,38,math.cos(a)*119),stone)
-			p.CFrame = CFrame.lookAt(p.Position,Vector3.new(c.X,38,c.Z))
-			local rim = part(shell,"RoofRing",Vector3.new(24,3,35),c+Vector3.new(math.sin(a)*106,76,math.cos(a)*106),pale)
-			rim.CFrame = CFrame.lookAt(rim.Position,Vector3.new(c.X,76,c.Z))
-		end
-		local sky = part(shell,"SkyCeiling",Vector3.new(250,2,250),c+Vector3.new(0,94,0),Color3.fromRGB(132,188,231),Enum.Material.SmoothPlastic)
-		for i=-2,2 do
-			part(shell,"SkyCloud",Vector3.new(25+i%2*9,0.25,8),c+Vector3.new(i*29,92.8,i%2*23),Color3.fromRGB(233,244,253),Enum.Material.SmoothPlastic,false)
-		end
-		for i=0,7 do
-			local a=i*math.pi/4; local p=part(shell,"RegionPennant",Vector3.new(9,18,0.4),c+Vector3.new(math.sin(a)*111,52,math.cos(a)*111),i%2==0 and Color3.fromRGB(82,159,107) or Color3.fromRGB(90,137,202),Enum.Material.Fabric,false)
-			p.CFrame=CFrame.lookAt(p.Position,Vector3.new(c.X,52,c.Z)); label(p,i%2==0 and GameData.Region1.name or GameData.Region2.region)
-		end
-		light(sky,Color3.fromRGB(255,233,191),150)
-	end
-	-- Market hall: windows are opaque paintings so they never expose the void.
-	local plaza = map:FindFirstChild("TradePlaza")
-	if plaza then
-		local shell = Instance.new("Folder"); shell.Name = "MarketHall"; shell.Parent = root
-		local c=Vector3.new(0,0,-1800); local ground=plaza:FindFirstChild("Ground") or plaza:FindFirstChild("Sand")
-		if ground then c=Vector3.new(ground.Position.X,0,ground.Position.Z) end
-		for _,x in {-91,91} do part(shell,"MarketWall",Vector3.new(4,47,188),c+Vector3.new(x,23.5,0),Color3.fromRGB(216,194,157),Enum.Material.Sandstone) end
-		for _,z in {-93,93} do part(shell,"MarketWall",Vector3.new(186,47,4),c+Vector3.new(0,23.5,z),Color3.fromRGB(216,194,157),Enum.Material.Sandstone) end
-		local roof=part(shell,"MarketRoof",Vector3.new(190,3,192),c+Vector3.new(0,49,0),Color3.fromRGB(68,96,111),Enum.Material.WoodPlanks)
-		for _,x in {-88.8,88.8} do
-			for _,z in {-57,-19,19,57} do
-				local panel=part(shell,"PaintedSkyline",Vector3.new(0.3,20,28),c+Vector3.new(x,26,z),Color3.fromRGB(143,197,216),Enum.Material.SmoothPlastic)
-				for k=-1,1 do
-					part(shell,"PaintedCity",Vector3.new(0.45,5+(k+1)*3,6),c+Vector3.new(x+(x>0 and -0.2 or 0.2),19+(k+1)*1.5,z+k*8),Color3.fromRGB(90,134,152),Enum.Material.SmoothPlastic,false)
-				end
-				part(shell,"WindowLintel",Vector3.new(1,1,30),c+Vector3.new(x,36.5,z),Color3.fromRGB(89,70,51),Enum.Material.Wood)
-				part(shell,"WindowSill",Vector3.new(1,1,30),c+Vector3.new(x,15.5,z),Color3.fromRGB(89,70,51),Enum.Material.Wood)
-			end
-		end
-		for _,x in {-61,0,61} do
-			local beam=part(shell,"RoofBeam",Vector3.new(3,3,184),c+Vector3.new(x,45,0),Color3.fromRGB(97,75,54),Enum.Material.Wood)
-			local lamp=part(shell,"MarketLantern",Vector3.new(3,3,3),c+Vector3.new(x,40,0),Color3.fromRGB(255,216,132),Enum.Material.Neon,false);light(lamp,lamp.Color,90)
-		end
-		label(part(shell,"MarketName",Vector3.new(54,8,1),c+Vector3.new(0,36,90),Color3.fromRGB(45,88,99),Enum.Material.Wood),"CREATURE EXCHANGE",Enum.NormalId.Back)
-	end
+	local arenaFloor = arena and arena:FindFirstChild("ArenaFloor")
+	if arenaFloor then arenaFloor.Material = Enum.Material.Sand; arenaFloor.Color = Color3.fromRGB(211,181,119) end
 	-- Continuous divider: the narrower foot stays between the route footprints.
 	local mountains=Instance.new("Folder"); mountains.Name="MountainDivider"; mountains.Parent=root
 	part(mountains,"SolidMountainSpine",Vector3.new(100,180,4550),Vector3.new(257,65,2525),Color3.fromRGB(101,112,126),Enum.Material.Rock)

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Generates src/Workspace/TradePlazaBeach.model.json: ocean tiles, beach props and palms around the Trade Plaza.
+"""Generates src/Workspace/TradePlazaBeach.model.json: ocean tiles, beach props and palms around the Trade Plaza,
+the lagoon shoreline, and the beach dressing inside the sun dome (Overhaul Phase 5).
 Plaza centre is (0, 0, -1800). Run: python3 tools/gen_trade_beach.py"""
 import json, math, random
 random.seed(7)
@@ -73,10 +74,12 @@ for dx in (-2.5,2.5):
 resort.append(part("TowerCabin",(lx,11,lz),(7,6,7),white,"SmoothPlastic"))
 resort.append(part("TowerRoof",(lx,15,lz),(9,.8,9),(255,90,90),"SmoothPlastic"))
 resort.append(part("TowerFlag",(lx,18,lz),(4,.2,2.5),(255,215,60),"Fabric"))
-# shoreline foam ring
+# shoreline: an unbroken surf line on the sand's edge (r 186) and a turquoise lagoon band beyond it
 for n in range(72):
     a=n/72*2*math.pi; x,z=ring(186,a)
-    resort.append(part("Foam",(x,.2,z),(9,.3,3),white,"SmoothPlastic",rot=(0,-math.degrees(a),0),transp=.25,collide=False))
+    resort.append(part("Foam",(x,.15,z),(2*math.pi*186/72+1,.3,3.2),white,"SmoothPlastic",rot=(0,90-math.degrees(a),0),transp=.15,collide=False))
+    xs,zs=ring(198,a)
+    resort.append(part("Shallows",(xs,-1.9,zs),(2*math.pi*209/72+1,.4,22),(96,214,214),"Glass",rot=(0,90-math.degrees(a),0),transp=.35,collide=False))
 # sailboats offshore
 for k,(a,r) in enumerate([(0.9,330),(2.2,420),(4.4,380)]):
     x,z=ring(r,a)
@@ -84,6 +87,40 @@ for k,(a,r) in enumerate([(0.9,330),(2.2,420),(4.4,380)]):
     resort.append(part("BoatMast",(x,7,z),(14,.5,.5),(120,90,60),"Wood","Cylinder",rot=(0,0,90)))
     resort.append(part("BoatSail",(x,8,z),(9,10,.3),(255,110,110) if k%2 else (255,230,110),"Fabric",rot=(0,math.degrees(a)+90,0)))
 kids.append(node("Resort", resort))
+
+# --- inside the dome (sand r 85, wall r 84): beach dressing that stays clear of the stalls (r ~38),
+# the palms (r ~37-67), the fountain (r 9) and the entrance side (+Z, 55-125 degrees), where players arrive.
+inner = []
+cols=[(255,110,120),(255,200,70),(90,200,160),(110,160,255),(255,150,80)]
+for k,deg in enumerate([15,45,135,165,195,225,255,285,315,345]):
+    a=math.radians(deg); x,z=ring(75,a); col=cols[k%len(cols)]
+    inner.append(part("Towel",(x,.65,z),(4,.3,7),col,"Fabric",rot=(0,90-deg,0),collide=False))
+    if k%2==0:
+        xu,zu=ring(78,a+.06)
+        inner.append(part("UmbrellaPole",(xu,4.5,zu),(9,.5,.5),white,"SmoothPlastic","Cylinder",rot=(0,0,85)))
+        inner.append(part("UmbrellaTop",(xu,9.2,zu),(1.2,11,11),col,"Fabric","Cylinder",rot=(0,0,90)))
+for k,(deg,r) in enumerate([(30,68),(150,70),(240,62),(300,70)]):
+    x,z=ring(r,math.radians(deg))
+    inner.append(part("BeachBall",(x,2,z),(3,3,3),cols[k],"SmoothPlastic","Ball"))
+    inner.append(part("BeachBallBand",(x,2,z),(3.05,.6,3.05),white,"SmoothPlastic","Ball"))
+for deg in (200,340):  # sandcastles between the fountain and the stalls
+    x,z=ring(22,math.radians(deg))
+    sand=(226,196,140)
+    inner.append(part("CastleBase",(x,1,z),(2,8,8),sand,"Sand","Cylinder",rot=(0,0,90)))
+    for dx,dz in ((-3,-3),(3,-3),(-3,3),(3,3)):
+        inner.append(part("CastleTower",(x+dx,2.8,z+dz),(3.6,2.2,2.2),sand,"Sand","Cylinder",rot=(0,0,90)))
+    inner.append(part("CastleKeep",(x,3.6,z),(3,3,3),sand,"Sand"))
+    inner.append(part("CastleFlag",(x+.6,6.4,z),(1.6,1,.1),(255,90,90),"Fabric",collide=False))
+    inner.append(part("CastleFlagPole",(x,6,z),(2.6,.2,.2),white,"Wood","Cylinder",rot=(0,0,90),collide=False))
+# lifeguard chair at the back wall (-Z), facing the plaza
+x,z=ring(72,math.radians(270))
+for dx in (-2,2):
+    for dz in (-1.5,1.5):
+        inner.append(part("ChairLeg",(x+dx,3.5,z+dz),(7,.5,.5),white,"Wood","Cylinder",rot=(0,0,90)))
+inner.append(part("ChairSeat",(x,7.2,z),(5,.6,4),(255,90,90),"SmoothPlastic"))
+inner.append(part("ChairBack",(x,9.4,z-1.8),(5,4,.5),(255,90,90),"SmoothPlastic"))
+inner.append(part("ChairSign",(x,12.6,z-1.8),(6,1.6,.3),(255,215,60),"SmoothPlastic"))
+kids.append(node("DomeInterior", inner))
 
 model = {"className": "Folder", "children": kids}
 with open("src/Workspace/TradePlazaBeach.model.json", "w") as f: json.dump(model, f)
