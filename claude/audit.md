@@ -1,5 +1,22 @@
 # World audit (Phase 1, 2026-11-10)
 
+## Closure evidence (2026-11-10, later the same day)
+
+Every item marked FAILED or NOT TESTED in the continuation evidence below was closed: see "Checks" in `claude/changes-report.md`. Captures `Phase2_MeadowEnd_Play_z640`, `Phase2_MeadowEnd_Play_bypass`, `Gym_Brook_battle` and `Gym_Tide_battle` are inline tool evidence, not exported files.
+
+## Continuation evidence (2026-11-10; historical audit retained below)
+
+- **PASSED:** in a fresh Play server on test place `94034385545160`, `RouteWalker.gate()` passed for all 16 results from `walkAll()`.
+- **PASSED:** `RegionRollout.load().Validator.validate(lane)` passed all 16 routes: zero failures; Boulder Pass had one warning, all others zero warnings. The warning detail was not retained, so its cause remains **NOT TESTED**. Existing 12-stud buffer configuration was not changed.
+- **PASSED:** Frost Peak Play capture `Phase2_FrostPeak_Play_clean` at character x=0,z=3050 showed a distinct dark road, snow verges, snow-covered trees, ice crystals, and rocky boundary slopes. Theme-specific palette is consistent with Meadow's road/verge/dressed-boundary structure; density was not numerically remeasured.
+- **PASSED:** character-view road visibility captures `Phase2_ThunderMesa_Play` (460,2140) and `Phase2_BoulderPass_Play` (0,1050) clearly distinguish the road from surrounding ground; Boulder Pass was viewed inside its intended cave.
+- **NOT TESTED:** complete Meadow ending visual review. Captures were obstructed by trees and did not verify the full gym/gate approach; ray checks passed. CameraType was automatically reset by the Studio bridge, so the requested comparison camera did not remain active.
+- **PASSED:** gym runtime binding inspection found `BrookGym.Duna` and `TideGym.Coralie`, each with a Challenge prompt. Existing `GymService.placeLeaders()` swaps the Edit-place models at startup to match GameData, preserving identities and teams. Edit still contains `BrookGym.Coralie`/`TideGym.Duna`; do not swap them again without accounting for this existing reconciliation.
+- **NOT TESTED:** gym interaction and battle startup. One Brook interaction attempt did not start a battle. The server prompt was enabled; the client prompt was disabled. Source investigation identified the existing `FirstSpawnLock` tutorial prompt lock as a likely cause (not proven by a successful retry). The test player had no creatures. Do not alter gym gameplay to bypass test setup.
+- **FAILED:** source review of RouteWalker cover exclusion: it exempts a hit solely by the names `GateCanopy`/`GateRidge`, without validating parent, height, dimensions, or checking beneath the exempted hit. The all-route numeric pass does not prove this required obstacle-detection gate. Repair and a meaningful obstacle regression check remain, blocked by the missing required local backup.
+- **NOT TESTED:** full runtime error baseline. Console output was truncated by AnimationRig warnings and also contained Studio API access errors for arena leaderboards. No changed game source exists to attribute new errors to.
+- Captures are inline tool evidence in this chat (952×606), not exported image files. No emulator/device coverage was performed.
+
 Read only. Place: the cloud test place "LilDiesel468's Place: 11102026_1" (placeId 94034385545160), which Rojo syncs into. `CQ_NewestSource_TEST.rbxl` does not exist on disk (see `claude/handoff.md`).
 
 Tool: `ServerStorage.RouteWalker` (new, `src/ServerStorage/RouteWalker.luau`). It walks each road in 4-stud steps, casting each ray down from just above the last foothold (so tunnels and arches don't confuse it), and reports gaps, height jumps, blocked steps, terrain or roofs over the road, hills inside the corridor, eye-level sightlines to the world edge or the other region, ground layering, and floating or buried NPCs. Run it in Play on the server (`require(game.ServerStorage.RouteWalker)`), because `NPCAnimator` changes the world when the server starts (below).

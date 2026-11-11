@@ -9,6 +9,7 @@ This vault lives in the `Roblox-Game` repo so Claude + Graphify can read it from
 - [[Todo/Current Priorities]] — what's next
 - [[Systems/Architecture Map]] — layers and how systems talk ([[BattleService]], [[SaveService]])
 - [[RegionPaths]], [[RegionTerrainBuilder]], [[RegionPathValidator]], [[RegionDecorator]]: region road data and the terrain tools (Theming Overhaul)
+- [[RegionStyle]], [[RegionRollout]], [[RouteWalker]]: route-theme data, coordinated rollout, and the Play validation gate
 - [[Code Map]] — every script, its dependencies and dependents (auto-generated)
 
 ## Rules for notes
