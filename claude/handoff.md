@@ -15,6 +15,30 @@
 
 Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after each phase.
 
+## Obstacle courses — 2026-11-11 (Claude)
+
+- One optional parkour course per route (16), each ending in a coin chest. New: `ReplicatedStorage.Shared.CourseConfig` (the only tuning table: reward, cooldown, first-clear bonus, difficulty tuning), `ServerStorage.ObstacleCourseBuilder` (Edit-only, test place, builds missing courses into `Workspace.Obstacles.<RouteName>`), `ServerScriptService.ObstacleCourses` (runs, fall/strip resets, chest claims, `SaveService` section "courses"), `StarterPlayerScripts.ObstacleCourses` (moving parts, per-player chest state, open effect, start hint), `tests/ObstacleCourseTests.luau`. Note: `vault/Systems/ObstacleCourses.md`.
+- Placement is computed: west wall strip of each lane, outside the wild-spawn x range, clear of trainer sight boxes, the lane start and the gym. Region 1 courses at x -56 to -74 (Meadow -56 to -64, single row); Region 2 at x 390–404.
+- Rewards: Meadow 100, Boulder 125, Tide 150, Volt 200, Ember 250, Frost 300, Shadow 350, Sky 400, Sunpetal 450, Mirage 500, Coral 550, Thunder 600, Bog 650, Crystal 700, Manor 750, Dragon 800; 10-minute cooldown; first-clear bonus = reward. Easy: Meadow, Boulder, Tide. Medium: Volt, Ember, Frost. Hard: Shadow, Sky, Sunpetal, Mirage, Coral. Expert: Thunder, Bog, Crystal, Manor, Dragon.
+- Decor moved (whole, with `OriginalParentPath`) to `ServerStorage.ObstacleDisplacedDecor.<Id>`: 189 items in total, Meadow 34 (6 oaks, a flower bed, bushes, a boulder). `ObstacleCourseBuilder.remove(id)` puts them back.
+- PASSED (Play, NoSave):
+  - Real-Humanoid walks start → chest: Meadow, Boulder Pass, Tide Coast (all 17 landings each).
+  - Real E presses: Meadow paid 100 + 100 bonus (50 → 250); Tide paid 150 + 150; second press → "empty, refills in 9:18"; no run → refused; claim 1 s after leaving the pad → refused.
+  - Fall into the footprint during a run → back on the pad. Reset strip → back on the pad. On the ground under a course without a run → not moved.
+  - Client: movers, spinners and vanishing platforms animate from the server clock; a player standing on a mover rides it exactly; the claimed chest shows empty with a timer while others stay full; the lid opens; start hint toast.
+  - `tests/ObstacleCourseTests.luau` in Edit: 213 checks, 0 failed. Selene: 0 errors / 66 warnings (baseline).
+- NOT TESTED: the server-side bot can't time moving platforms (they only move on clients), so Medium+ courses weren't walked end to end by a bot (a human needs to); real save/rejoin of the "courses" section (Studio API access is off); mobile/controller prompt feel; two players on one course.
+- Save the place in Studio to keep the courses.
+
+## Part-built mountains — done 2026-11-11 (Claude)
+
+- All 20 mountain models are Parts (9,412 parts): 8 east trail mountains `Map.Mountains.Region2.*`, divider `Map.Mountains.Divider.Mountain_Divider1`–`8` (two-faced, each face themed to the lane it faces), `Map.Mountains.Hub.Mountain_HubEastRidge`, coast `Map.Mountains.Coast.Mountain_CoastWest/Centre/East` (hub face Alpine, sea face sandstone). Terrain in those boxes was cleared (no backup, per the owner). All eight `Map.MountainTrails` trails are deleted; `MountainLookouts` lost its legacy branch.
+- Builder additions: 13 more palettes and themed ledge decor (cacti, coral, crystals, mushrooms, dead trees), `Back` (mirrored far face), `JoinEnds`, `Advance`, generic `clearTerrain` with the lane's floor material. The `Map.CoastalEscarpment` marker folder is kept (empty, `ReplacedBy` attribute). `CoastalEscarpmentBuilder` is not on `main` yet (it comes with the unpushed ridge-base commit); once it lands, add the guard from `overhaul/region2-mountain-trails` fb27322c3 so `build()` refuses while `Map.Mountains.Coast` exists.
+- PASSED: all 8 trails walked lane → summit with a real Humanoid; prompts on all 24 markers carry the right text; real E presses on Wyrmspine: badge gate refused, then the summit message once Champion. Screenshots of every new mountain from its lane, the divider from both regions, the corner from the hub and the coast from the hub and the sea, all against Meadow / Sunpetal. Selene at baseline.
+- Left as terrain: the low hills between Meadow and Sunpetal (z 300–820, under 60 studs), the foothill strip between the hub and the coast (z -276 to -250), the hub's west arm (x < -520). The divider is now one continuous ridge; the old terrain one was described as having see-through valleys (`JoinEnds = false` on a segment gives a saddle instead).
+- Save the place in Studio to keep them.
+
+
 ## Phase 2 closure (2026-11-10, Claude; supersedes Codex's verification notes and the environment claims below)
 
 - Status: Phase 2 **closed**, every gate PASSED (details in `claude/changes-report.md`). Phases 3-6 not started.
