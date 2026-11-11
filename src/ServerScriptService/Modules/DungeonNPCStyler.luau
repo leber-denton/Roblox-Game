@@ -1,54 +1,47 @@
 --[[
-	DungeonNPCStyler: gives every Dark Tower trainer its own spooky look at server start.
-	The trainer models are built in Studio (Map.DungeonTower.RoomN.Trainer); this restyles them in code,
-	so nothing in the place file changes and it is safe to re-run (it skips NPCs it already styled).
-	Look = rank palette (Trainee / Adept / Veteran / Warden) + a small per-NPC tint + signature props.
+	DungeonNPCStyler: gives every Dark Tower trainer its tower's look at server start.
+	The trainer models are R15 avatars built in Studio (Map.DungeonTower.RoomN.Trainer) with their own face
+	and hair; this restyles their clothes in code, so it is safe to re-run (it skips NPCs it already styled).
+	Faces, skin and hair are never touched.
+	Look = the tower's rank palette (Shared.TowerThemes: Trainee / Adept / Veteran / Master / Warden), a small
+	per-NPC shade shift, gold trim on a boss floor, and signature props.
 	Props are welded, massless, non-colliding parts kept in a "DungeonStyle" folder inside the model.
 ]]
 
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local TowerThemes = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("TowerThemes"))
+
 local DungeonNPCStyler = {}
 
-local RANKS = {
-	Trainee = {
-		cloth = Color3.fromRGB(58, 48, 78),
-		skin = Color3.fromRGB(176, 170, 190),
-		bone = Color3.fromRGB(205, 200, 215),
-		glow = Color3.fromRGB(170, 120, 255),
-	},
-	Adept = {
-		cloth = Color3.fromRGB(34, 36, 76),
-		skin = Color3.fromRGB(150, 152, 178),
-		bone = Color3.fromRGB(190, 195, 220),
-		glow = Color3.fromRGB(110, 160, 255),
-	},
-	Veteran = {
-		cloth = Color3.fromRGB(46, 24, 36),
-		skin = Color3.fromRGB(140, 130, 142),
-		bone = Color3.fromRGB(200, 185, 185),
-		glow = Color3.fromRGB(255, 90, 110),
-	},
-	Warden = {
-		cloth = Color3.fromRGB(14, 10, 22),
-		skin = Color3.fromRGB(110, 105, 125),
-		bone = Color3.fromRGB(70, 64, 88),
-		glow = Color3.fromRGB(255, 200, 90),
-	},
-}
-
--- Per-NPC signature props (keyed by the last word of the trainer's name) and optional glow tint
+-- Per-NPC signature props (keyed by the last word of the trainer's name) and optional glow / cloth.
+-- Nothing here may cover the head: hats and hoods would hide the avatar's hair and face.
 local LOOKS = {
-	Pip = { props = { "hood", "lantern" } },
-	Rue = { props = { "hood", "raven" }, glow = Color3.fromRGB(120, 230, 220) },
-	Bo = { props = { "chains", "hood" }, glow = Color3.fromRGB(200, 150, 255) },
-	Lin = { props = { "mask", "runering" } },
-	Kade = { props = { "pauldrons", "embers" }, glow = Color3.fromRGB(150, 120, 255) },
-	Juno = { props = { "horns", "cape" }, glow = Color3.fromRGB(90, 220, 255) },
-	Moss = { props = { "vines", "hood" }, glow = Color3.fromRGB(130, 255, 140), cloth = Color3.fromRGB(34, 40, 30) },
-	Ash = { props = { "mask", "ashcloud" }, glow = Color3.fromRGB(255, 150, 90), cloth = Color3.fromRGB(44, 38, 40) },
-	Quill = { props = { "quill", "hood" }, glow = Color3.fromRGB(120, 200, 255) },
-	Nyx = { props = { "crown", "shards", "cape" } },
+	-- Tower 1, Bone Crypt
+	Pip = { props = { "lantern" } },
+	Rue = { props = { "raven" }, glow = Color3.fromRGB(120, 230, 200) },
+	Bo = { props = { "chains" } },
+	Lin = { props = { "runering" } },
+	Kade = { props = { "pauldrons", "embers" } },
+	Juno = { props = { "cape" }, glow = Color3.fromRGB(150, 230, 200) },
+	Moss = { props = { "vines" }, glow = Color3.fromRGB(130, 255, 140), cloth = Color3.fromRGB(50, 64, 42) },
+	Ash = { props = { "ashcloud" }, glow = Color3.fromRGB(255, 170, 110) },
+	Quill = { props = { "quill" } },
+	Nyx = { props = { "shards", "cape" } },
+	-- Tower 2, Ember Forge
+	Flint = { props = { "lantern" } },
+	Tamsin = { props = { "embers" } },
+	Cole = { props = { "chains" } },
+	Brand = { props = { "pauldrons" } },
+	Pyra = { props = { "embers", "cape" } },
+	Anvil = { props = { "pauldrons", "chains" } },
+	Slag = { props = { "ashcloud", "pauldrons" } },
+	Vesta = { props = { "runering", "embers" } },
+	Hollis = { props = { "cape", "ashcloud" } },
+	Ignar = { props = { "shards", "pauldrons", "cape" } },
 }
 
+-- Body parts and Studio-built clothing pieces, with the palette slot they are painted in.
+-- Head and hands are skin: left alone so the face and skin tone stay the avatar's own.
 local BODY_PARTS = {
 	Torso = "cloth",
 	UpperTorso = "cloth",
@@ -65,9 +58,10 @@ local BODY_PARTS = {
 	RightUpperLeg = "legs",
 	LeftLowerLeg = "legs",
 	RightLowerLeg = "legs",
-	Head = "skin",
-	LeftHand = "skin",
-	RightHand = "skin",
+	LeftFoot = "legs",
+	RightFoot = "legs",
+	Sash = "trim",
+	Belt = "belt",
 }
 
 -- Small deterministic per-NPC shift so no two NPCs of a rank are exactly the same shade
@@ -197,7 +191,7 @@ end
 function PROPS.lantern(ctx)
 	local arm = ctx.rightArm or ctx.torso
 	local at = CFrame.new(0, -arm.Size.Y / 2 - 0.3, -0.7)
-	addPart(ctx.folder, arm, "LanternCase", Vector3.new(0.7, 0.9, 0.7), at, Color3.fromRGB(30, 28, 38), Enum.Material.Metal)
+	addPart(ctx.folder, arm, "LanternCase", Vector3.new(0.7, 0.9, 0.7), at, Color3.fromRGB(36, 32, 28), Enum.Material.Metal)
 	local flame =
 		addPart(ctx.folder, arm, "LanternFlame", Vector3.new(0.45, 0.6, 0.45), at, ctx.glow, Enum.Material.Neon, Enum.PartType.Ball)
 	addLight(flame, ctx.glow, 14, 1.5)
@@ -306,7 +300,7 @@ function PROPS.pauldrons(ctx)
 	local t = ctx.torso
 	for _, side in { -1, 1 } do
 		local at = CFrame.new(side * (t.Size.X / 2 + 0.5), t.Size.Y / 2 + 0.05, 0)
-		addPart(ctx.folder, t, "Pauldron", Vector3.new(1.4, 0.5, 1.4), at, Color3.fromRGB(34, 32, 44), Enum.Material.Metal)
+		addPart(ctx.folder, t, "Pauldron", Vector3.new(1.4, 0.5, 1.4), at, Color3.fromRGB(44, 40, 36), Enum.Material.Metal)
 		addPart(
 			ctx.folder,
 			t,
@@ -405,7 +399,7 @@ function PROPS.shards(ctx)
 			"VoidShard",
 			Vector3.new(0.4, 0.9, 0.4),
 			CFrame.new(math.cos(a) * 3.2, -0.5 + (i % 2) * 1.2, math.sin(a) * 3.2) * CFrame.Angles(math.rad(25 * i), math.rad(40 * i), 0),
-			Color3.fromRGB(30, 20, 50),
+			darker(ctx.glow, 0.35),
 			Enum.Material.Neon
 		)
 		shard.Transparency = 0.2
@@ -414,37 +408,47 @@ function PROPS.shards(ctx)
 	addLight(t, ctx.glow, 18, 1.2)
 end
 
-local function rankAndName(trainerName: string): (string, string)
+-- The palette for one trainer: tower theme by floor index, rank from the second word of the name
+-- ("Tower Veteran Moss", "Forge Master Slag"), falling back to the tower's first rank.
+function DungeonNPCStyler.palette(trainerName: string, floorIndex: number)
+	local theme, _, boss = TowerThemes.forFloor(floorIndex)
 	local words = string.split(trainerName, " ")
-	local rank = words[2] or "Trainee"
-	if not RANKS[rank] then
-		rank = "Trainee"
+	local shortName = words[#words]
+	local rankName = words[2]
+	local rank = theme.npc.ranks[rankName]
+	if not rank then
+		for _, name in { "Trainee", "Adept", "Veteran", "Master", "Warden" } do
+			if theme.npc.ranks[name] then
+				rankName, rank = name, theme.npc.ranks[name]
+				break
+			end
+		end
 	end
-	return rank, words[#words]
-end
-
--- Restyle one trainer model. `trainerName` is e.g. "Tower Veteran Moss" (from GameData.Dungeon.floors)
-function DungeonNPCStyler.apply(model: Model, trainerName: string)
-	if model:GetAttribute("DungeonStyled") then
-		return
-	end
-	local rankName, shortName = rankAndName(trainerName)
 	local look = LOOKS[shortName] or { props = {} }
-	local palette = RANKS[rankName]
-	local cloth = jitter(look.cloth or palette.cloth, shortName)
-	local colors = {
+	local cloth = jitter(look.cloth or rank.cloth, shortName)
+	return {
+		shortName = shortName,
+		rankName = rankName,
+		look = look,
 		cloth = cloth,
 		legs = darker(cloth, 0.75),
-		skin = jitter(palette.skin, shortName .. "skin"),
+		trim = boss and theme.boss.npcTrim or theme.npc.trim,
+		belt = theme.npc.belt,
+		bone = theme.npc.bone,
+		glow = look.glow or rank.glow,
 	}
-	local glow = look.glow or palette.glow
+end
 
-	-- body paint: shirt/pants textures would hide the palette, and they only change at runtime
+-- Clothes only (body parts, sash, belt, BodyColors torso/limbs). Used at runtime by apply() and in Edit by
+-- ServerStorage.TowerBuilder so the place file matches what players see. Head, hands and accessories are
+-- left as they are.
+function DungeonNPCStyler.paint(model: Model, trainerName: string, floorIndex: number)
+	local colors = DungeonNPCStyler.palette(trainerName, floorIndex)
 	for _, d in model:GetChildren() do
 		if d:IsA("Shirt") or d:IsA("Pants") or d:IsA("ShirtGraphic") then
+			-- shirt/pants textures would hide the palette
 			d:Destroy()
 		elseif d:IsA("BodyColors") then
-			d.HeadColor3 = colors.skin
 			d.TorsoColor3 = colors.cloth
 			d.LeftArmColor3 = colors.cloth
 			d.RightArmColor3 = colors.cloth
@@ -456,11 +460,20 @@ function DungeonNPCStyler.apply(model: Model, trainerName: string)
 		local kind = BODY_PARTS[part.Name]
 		if kind and part:IsA("BasePart") then
 			part.Color = colors[kind]
-			if kind ~= "skin" then
-				part.Material = Enum.Material.Fabric
-			end
+			part.Material = Enum.Material.Fabric
 		end
 	end
+	return colors
+end
+
+-- Restyle one trainer model. `trainerName` is e.g. "Tower Veteran Moss" and `floorIndex` its index in
+-- GameData.Dungeon.floors (picks the tower theme and the boss trim).
+function DungeonNPCStyler.apply(model: Model, trainerName: string, floorIndex: number?)
+	if model:GetAttribute("DungeonStyled") then
+		return
+	end
+	local colors = DungeonNPCStyler.paint(model, trainerName, floorIndex or 1)
+	local look, glow = colors.look, colors.glow
 
 	local head = findPart(model, { "Head" })
 	local torso = findPart(model, { "Torso", "UpperTorso" })
@@ -474,41 +487,23 @@ function DungeonNPCStyler.apply(model: Model, trainerName: string)
 	folder.Name = "DungeonStyle"
 	folder.Parent = model
 
-	-- face: fade the painted face and add glowing eyes
-	for _, d in head:GetChildren() do
-		if d:IsA("Decal") then
-			d.Transparency = 0.85
-		end
-	end
-	for _, side in { -1, 1 } do
-		addPart(
-			folder,
-			head,
-			"Eye",
-			Vector3.new(head.Size.X * 0.16, head.Size.Y * 0.1, 0.05),
-			CFrame.new(side * head.Size.X * 0.2, head.Size.Y * 0.08, -head.Size.Z / 2 - 0.02),
-			glow,
-			Enum.Material.Neon
-		)
-	end
-
 	local ctx = {
 		folder = folder,
 		head = head,
 		torso = torso,
 		leftArm = findPart(model, { "Left Arm", "LeftUpperArm" }),
 		rightArm = findPart(model, { "Right Arm", "RightUpperArm" }),
-		cloth = cloth,
-		bone = palette.bone,
+		cloth = colors.cloth,
+		bone = colors.bone,
 		glow = glow,
-		long = rankName == "Warden",
+		long = colors.rankName == "Warden",
 	}
 	for _, prop in look.props do
 		local build = PROPS[prop]
 		if build then
 			local ok, err = pcall(build, ctx)
 			if not ok then
-				warn("DungeonNPCStyler:", shortName, prop, "failed:", err)
+				warn("DungeonNPCStyler:", colors.shortName, prop, "failed:", err)
 			end
 		end
 	end
@@ -528,7 +523,7 @@ function DungeonNPCStyler.apply(model: Model, trainerName: string)
 	label.TextScaled = true
 	label.TextColor3 = glow
 	label.TextStrokeTransparency = 0.4
-	label.TextStrokeColor3 = Color3.fromRGB(10, 6, 16)
+	label.TextStrokeColor3 = Color3.fromRGB(12, 10, 8)
 	label.Text = trainerName
 	label.Parent = plate
 	plate.Parent = head

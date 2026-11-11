@@ -1,6 +1,6 @@
 # Phase 2 closure report - 2026-11-10 (Claude)
 
-Status: Phase 2 **VERIFIED**. Phase 3 is **IMPLEMENTATION COMPLETE** (Edit checks passed; `/showcase` typed in Play is NOT TESTED); Phases 4-6 remain unstarted.
+Status: Phase 2 **VERIFIED**. Phases 3 and 4 are **IMPLEMENTATION COMPLETE** (see each section for the checks NOT TESTED); Phases 5-6 remain unstarted.
 
 ## What changed
 - `src/ServerStorage/RouteWalker.luau`: the cover and roof rays no longer skip a hit because it is *named* `GateCanopy` or `GateRidge`. `RouteWalker.isGateCanopy` accepts only the slab `NPCAnimator.buildQuestWorld` builds (parent `Map.WorldPolish.RoutePassages`, size 130 x 14 x 28, y 82, upright, on a lane centreline, 5 studs past a real `Map.Gates` part, underside 60+ studs over the road). The ray then carries on beneath it, so anything under an arch is judged like anything in the open. `GateRidge` gets no exemption (the real ridges stand outside the +-55 corridor). `solidRay` keeps caller-supplied skips across retries. The validator's 12-stud verge/buffer settings were not touched.
@@ -31,6 +31,32 @@ What changed: `src/ServerStorage/ModelSyncLookup.luau` reads Route Decor Sets fr
 - **PASSED:** Rojo 7.7.1 was restarted from `C:\Claude\Roblox-Game` and Studio reconnected on `127.0.0.1:34872`. A reversible marker probe identified the managed `ModelSync`; the un-managed duplicate and stale builder were moved into `ServerStorage.Backups.Phase3_1305`.
 - **LIMITATION CHARACTERIZED:** the Play-time `ModelSync.audit()` reports 13 findings while the Edit-mode audit reports 0. In a Play server the audit also sees gym leaders that are renamed at runtime and StoryMilestones NPCs that spawn in, and neither has a source in the Edit place. The static lookup deliberately remains an Edit-place table, so this runtime-only drift is not added as a false source mapping. **The Edit-mode audit is the one that counts.**
 - **NOT TESTED:** `/showcase` typed in chat. Only the registered, enabled command's arrival CFrame was verified at `(-3045, 56, 0)`; Studio chat injection did not reliably complete command dispatch, so owner-arrives and non-owner-gets-nothing still need a real typed command in Play (or a two-client test).
+
+## Phase 4 dungeon - 2026-11-10 (IMPLEMENTATION COMPLETE)
+
+What changed:
+- New `src/ReplicatedStorage/Shared/TowerThemes.luau`: Tower 1 Bone Crypt, Tower 2 Ember Forge, darker gold-trimmed boss variant for each x.10 floor.
+- New `src/ServerStorage/TowerBuilder.luau` (Studio tool): builds Room12-21, fixes trainers, paints, and reports any purple.
+- `GameData.Dungeon.floors`: adds 2.1-2.10 (levels 13-24) and a 3.1 rest room. Rewards are 70-110 coins and 90-160 XP, with the boss at 400/350, continuing Tower 1's curve.
+- `DungeonNPCStyler`: palettes now come from the theme, and faces, skin and hair are kept (no glowing eye plates, no hoods).
+- `DungeonService` and `DungeonClient`: lift glow, notifications, banners and tint now come from the theme.
+- `ModelSyncLookup`: dungeon trainers for rooms 1-20.
+- Vault note `Systems/DarkTower.md`.
+
+In the place file (unsaved until you save):
+- Rooms 12-21 were added and Room11 was converted to floor 2.1 (four-piece ceiling plus a trainer, StartPad kept).
+- Battlements and beacon moved to the new top, and the tower bounds were raised.
+- All rooms and the hub DungeonPortal were repainted.
+- On every trainer, the broken `ClassicHead`, `Hood` and `Collar` were removed, the real head was shown, and hair was added.
+
+Where to look: in Studio, the DungeonTower at (0, y, -3255), with floors every 24 studs. In game, use the hub portal. The DUNGEON TRAINERS row in `/showcase` also shows them.
+
+Undo: `git revert` the Phase 4 commit for the code. Studio changes can be undone with Ctrl+Z before saving; after saving, use your own place backup.
+
+Uncertain: the Tower 2 coin and XP values (they continue the existing curve; please review), and whether the Ember Forge walls read as black enough under the night lighting.
+
+- **PASSED:** the Edit checks and the Play run listed in `handoff.md` (enter, boss win, lift to 2.1, banner, runtime styling).
+- **NOT TESTED:** the leave portal, a defeat, the 3.1 rest-room arrival, and a re-run of the prop colour fix.
 
 ## Undo
 `git revert` the Phase 2 closure commit. No place changes to undo. Whole-place fallback: `C:\Claude\CQ_NewestSource_TEST.Phase2-closure_20261110-1254.rbxl`.

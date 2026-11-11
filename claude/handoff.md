@@ -21,7 +21,7 @@ Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after 
 ## Phase status
 - [x] Phase 1 audit: `claude/audit.md`, tool `src/ServerStorage/RouteWalker.luau`. Branch `overhaul/p1-audit`.
 - [x] Phase 2 regions: all 16 routes themed, checked and screenshot-reviewed (`claude/region-rollout.md`), branch `overhaul/p2-regions`. Closed 2026-11-10 (canopy exclusion narrowed, gyms and Meadow end verified). Left for Phase 3: vault notes for RegionStyle/RegionRollout/RouteWalker.
-- [~] Phase 3 showcase: **IMPLEMENTATION COMPLETE** (2026-11-10). Branch `overhaul/p3-showcase`, stacked on `overhaul/p2-regions`. Compact, route-labelled, reference-only Route Decor Sets.
+- [x] Phase 3 showcase: approved and merged as PR #19 (2026-11-10). Branch `overhaul/p3-showcase`, stacked on `overhaul/p2-regions`. Compact, route-labelled, reference-only Route Decor Sets.
   - PASSED (Edit, fresh build, no injected loader): `ShowcaseBuilder.build()` gives format 2, 99 route-decor entries across 15 routes, 15 row titles, 0 missing sources. Section counts: TRAINERS 9, GYM LEADERS 16, ROUTE TRAINERS 48, DUNGEON TRAINERS 10, NPCS 17, BALLS 20, CREATURES 50, DECORATIONS 10, MAP PROPS 43.
   - PASSED: `ModelSync.audit()` 0 findings; `ModelSync.apply("Mirage Desert: Cactus")` refused ("reference-only gallery model").
   - PASSED: screenshot of the route rows (titles at the west end, sets read left to right).
@@ -29,8 +29,13 @@ Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after 
   - NOT TESTED: `/showcase` typed in chat in Play (owner arrives at (-3045, 56, 0); non-owner gets nothing). Automated chat injection was unreliable and was dropped to save time. By code review, `Showcase.server.luau` returns before doing anything when `origin.UserId ~= 1170990981`. To test: Play, type `/showcase`, then `/showcase off`.
   - The rebuilt `Workspace.ShowcaseArea` lives in the place file: save the place in Studio to keep it.
   - Runtime vs Edit audit: they disagree by design, see below.
-- [ ] Phase 4 dungeon
-- [ ] Phase 5 Trade Center / Coliseum
+- [x] Phase 4 dungeon: approved by the owner 2026-11-10 (the NOT TESTED items below are still open). Branch `overhaul/p4-dungeon`, stacked on `overhaul/p3-showcase`. See `vault/Systems/DarkTower.md`.
+  - PASSED (Edit): Room1-21 exist; Room11 StartPad intact; all 20 trainers have a visible face and hair; `TowerBuilder.purpleReport()` returns 0; a second `build()` run changes nothing; showcase rebuilt (20 dungeon trainers, 99 route decor); `ModelSync.audit()` 0 findings; Selene 0/69.
+  - PASSED (Play, NoSave): hub portal (E) entered floor 1.10; boss battle won; the lift carried the player to Room11 with the banner "EMBER FORGE · FLOOR 2.1"; tint reset after; runtime styling 20/20, faces and hair kept.
+  - NOT TESTED: the leave portal and a defeat (testing was stopped there by request); the 3.1 rest-room arrival; the Tower 2 team balance in real play.
+  - Fixed after the Play run, not re-run: the lantern-case and pauldron props were a near-black violet, now warm grey.
+  - Save the place in Studio to keep Rooms 12-21, the repainted tower and portal, and the fixed trainers.
+- [ ] Phase 5 Trade Center / Coliseum: next. Branch `overhaul/p5-arenas` from `overhaul/p4-dungeon`; spec in `claude/phase4-6-prompt.md`.
 - [ ] Phase 6 UI
 - [ ] Final checks, changes-report.md
 
