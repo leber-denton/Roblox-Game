@@ -6,6 +6,7 @@
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local MarketplaceService = game:GetService("MarketplaceService")
+local UIStyle = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("UIStyle"))
 
 local player = Players.LocalPlayer
 local GameData = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("GameData"))
@@ -56,6 +57,7 @@ if player.Character then
 end
 
 local gui = new("ScreenGui", { Name = "ColiseumUI", ResetOnSpawn = false, IgnoreGuiInset = false, ZIndexBehavior = Enum.ZIndexBehavior.Sibling, DisplayOrder = 30 }, player:WaitForChild("PlayerGui"))
+UIStyle.mount(gui)
 
 -- BP pill (only inside the Coliseum)
 local pill = new("TextLabel", {

@@ -21,6 +21,7 @@ local Remotes = ReplicatedStorage:WaitForChild("Remotes")
 local BattleEvent = Remotes:WaitForChild("BattleEvent")
 local BattleAction = Remotes:WaitForChild("BattleAction")
 local Shared = ReplicatedStorage:WaitForChild("Shared")
+local UIStyle = require(Shared:WaitForChild("UIStyle"))
 local GameData = require(Shared:WaitForChild("GameData"))
 local BattleData = require(Shared:WaitForChild("BattleData"))
 local BattleFX = require(script.Parent:WaitForChild("BattleFX"))
@@ -69,6 +70,7 @@ local gui = new("ScreenGui", {
 	Name = "BattleUI", ResetOnSpawn = false, Enabled = false, DisplayOrder = 5,
 	ZIndexBehavior = Enum.ZIndexBehavior.Sibling,
 }, player:WaitForChild("PlayerGui"))
+UIStyle.mount(gui)
 
 local panel = new("Frame", {
 	AnchorPoint = Vector2.new(0.5, 1), Position = UDim2.new(0.5, 0, 1, -12),

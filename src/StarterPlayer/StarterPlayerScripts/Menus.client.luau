@@ -15,6 +15,7 @@ local MarketplaceService = game:GetService("MarketplaceService")
 
 local player = Players.LocalPlayer
 local Shared = ReplicatedStorage:WaitForChild("Shared")
+local UIStyle = require(Shared:WaitForChild("UIStyle"))
 local GameData = require(Shared:WaitForChild("GameData"))
 local BattleData = require(Shared:WaitForChild("BattleData"))
 local CreatureBuilder = require(Shared:WaitForChild("CreatureBuilder"))
@@ -75,6 +76,7 @@ local function decode(raw)
 end
 
 local gui = new("ScreenGui", { Name = "Menus", ResetOnSpawn = false, DisplayOrder = 8, ZIndexBehavior = Enum.ZIndexBehavior.Sibling }, player:WaitForChild("PlayerGui"))
+UIStyle.mount(gui)
 
 -- Windows -------------------------------------------------------------------------
 local windows = {}

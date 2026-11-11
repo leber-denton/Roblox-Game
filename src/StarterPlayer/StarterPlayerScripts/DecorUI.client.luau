@@ -16,6 +16,7 @@ local MarketplaceService = game:GetService("MarketplaceService")
 
 local player = Players.LocalPlayer
 local Shared = ReplicatedStorage:WaitForChild("Shared")
+local UIStyle = require(Shared:WaitForChild("UIStyle"))
 local DecorData = require(Shared:WaitForChild("DecorData"))
 local GameData = require(Shared:WaitForChild("GameData"))
 local Remotes = ReplicatedStorage:WaitForChild("Remotes")
@@ -122,6 +123,7 @@ end
 -- window
 ----------------------------------------------------------------------------------------------
 local gui = new("ScreenGui", { Name = "DecorUI", ResetOnSpawn = false, DisplayOrder = 9, ZIndexBehavior = Enum.ZIndexBehavior.Sibling, IgnoreGuiInset = false }, player:WaitForChild("PlayerGui"))
+UIStyle.mount(gui)
 
 local win = new("Frame", { Name = "Window", AnchorPoint = Vector2.new(0.5, 0.5), Position = UDim2.fromScale(0.5, 0.53), Size = UDim2.fromScale(0.94, 0.8), BackgroundColor3 = PANEL, Visible = false, ZIndex = 5 }, gui)
 round(win, 18)

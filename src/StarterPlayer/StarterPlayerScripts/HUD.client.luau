@@ -5,6 +5,7 @@
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")
+local UIStyle = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("UIStyle"))
 
 local player = Players.LocalPlayer
 local Notify = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild("Notify")
@@ -14,6 +15,7 @@ gui.Name = "HUD"
 gui.ResetOnSpawn = false
 gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 gui.Parent = player:WaitForChild("PlayerGui")
+UIStyle.mount(gui)
 
 local function pill(name: string, size: UDim2, position: UDim2, anchor: Vector2): TextLabel
 	local label = Instance.new("TextLabel")
