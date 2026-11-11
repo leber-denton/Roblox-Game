@@ -1,6 +1,6 @@
 # Phase 2 closure report - 2026-11-10 (Claude)
 
-Status: Phase 2 **VERIFIED**. The overhaul as a whole is **INCOMPLETE**: Phases 3-6 have not started.
+Status: Phase 2 **VERIFIED**. Phase 3 is **IMPLEMENTATION COMPLETE** (Edit checks passed; `/showcase` typed in Play is NOT TESTED); Phases 4-6 remain unstarted.
 
 ## What changed
 - `src/ServerStorage/RouteWalker.luau`: the cover and roof rays no longer skip a hit because it is *named* `GateCanopy` or `GateRidge`. `RouteWalker.isGateCanopy` accepts only the slab `NPCAnimator.buildQuestWorld` builds (parent `Map.WorldPolish.RoutePassages`, size 130 x 14 x 28, y 82, upright, on a lane centreline, 5 studs past a real `Map.Gates` part, underside 60+ studs over the road). The ray then carries on beneath it, so anything under an arch is judged like anything in the open. `GateRidge` gets no exemption (the real ridges stand outside the +-55 corridor). `solidRay` keeps caller-supplied skips across retries. The validator's 12-stud verge/buffer settings were not touched.
@@ -17,7 +17,20 @@ Status: Phase 2 **VERIFIED**. The overhaul as a whole is **INCOMPLETE**: Phases 
 - **PASSED** Meadow ending visual review in Play: from the road at z 640 (capture `Phase2_MeadowEnd_Play_z640`) the road runs straight to the gym between dressed hills, with the gate arch and ridge closing the view; from the bypass at (40, 738) (`Phase2_MeadowEnd_Play_bypass`) the path carries on round the gym toward Brook Town's Heal Stop and the cave, cliffs on both sides, no void. Note: a flat, lighter green ground patch (a lane blend part) shows left of the bypass road.
 - **PASSED** runtime log after these tests: no errors or warnings apart from the known `StudioAccessToApisNotAllowed` DataStore lines and AnimationRig noise.
 - **PASSED** Selene: 0 errors, 69 warnings, the same as before the change.
-- **NOT TESTED**: saving (it cannot work in this place), device emulation, and everything in Phases 3-6.
+- **NOT TESTED**: saving (it cannot work in this place), device emulation, and Phases 4-6.
+
+## Phase 3 showcase - 2026-11-10 (IMPLEMENTATION COMPLETE)
+
+What changed: `src/ServerStorage/ModelSyncLookup.luau` reads Route Decor Sets from `RegionStyle` (compiling its current source in Edit, so Rojo edits show without restarting Studio); `src/ServerStorage/ShowcaseBuilder.luau` lays them out as one packed, titled row per route; vault notes `Code/ShowcaseBuilder.md`, `Systems/RegionStyle.md`, `Systems/RegionRollout.md`, `Systems/RouteWalker.md`. Where to look: `/showcase`, then walk to the ROUTE DECOR SETS floor (around (-2968, 50, 2479)). Undo: `git revert` the Phase 3 commit on `overhaul/p3-showcase`, then rebuild the showcase.
+
+- **PASSED (final, 2026-11-10):** a fresh Edit build with no injected loader gives format 2, 99 route-decor entries across 15 routes, 15 row titles and 0 missing sources; `ModelSync.audit()` 0 findings; `ModelSync.apply("Mirage Desert: Cactus")` refused; Selene 0 errors / 69 warnings; route rows screenshot-reviewed.
+
+- **PASSED:** `ModelSyncLookup` derives Route Decor Sets directly from fresh `RegionStyle` data. The compact showcase builds 99 read-only route-decor references in 15 labelled route rows, with zero missing sources.
+- **PASSED:** a fresh Edit-mode `ModelSync.audit()` reports zero problems; a second build reproduced the same 99 entries with format 2.
+- **PASSED (to be rechecked with the final lookup):** `ModelSync.apply()` was refused for a route-set entry because entries are reference-only.
+- **PASSED:** Rojo 7.7.1 was restarted from `C:\Claude\Roblox-Game` and Studio reconnected on `127.0.0.1:34872`. A reversible marker probe identified the managed `ModelSync`; the un-managed duplicate and stale builder were moved into `ServerStorage.Backups.Phase3_1305`.
+- **LIMITATION CHARACTERIZED:** the Play-time `ModelSync.audit()` reports 13 findings while the Edit-mode audit reports 0. In a Play server the audit also sees gym leaders that are renamed at runtime and StoryMilestones NPCs that spawn in, and neither has a source in the Edit place. The static lookup deliberately remains an Edit-place table, so this runtime-only drift is not added as a false source mapping. **The Edit-mode audit is the one that counts.**
+- **NOT TESTED:** `/showcase` typed in chat. Only the registered, enabled command's arrival CFrame was verified at `(-3045, 56, 0)`; Studio chat injection did not reliably complete command dispatch, so owner-arrives and non-owner-gets-nothing still need a real typed command in Play (or a two-client test).
 
 ## Undo
 `git revert` the Phase 2 closure commit. No place changes to undo. Whole-place fallback: `C:\Claude\CQ_NewestSource_TEST.Phase2-closure_20261110-1254.rbxl`.
@@ -49,4 +62,4 @@ Undo: revert only this documentation checkpoint; no unmanaged place undo is requ
 
 ## Remaining phases
 
-Showcase, dungeon, Trade Center/Coliseum, UI presentation, idempotency, Selene baseline/final comparison, emulator coverage, vault synchronization, final file-map update, and draft PRs: **NOT TESTED / not implemented in this continuation**. Do not proceed past the required Phase 2 gates. Missing development/UI skills were not run.
+Dungeon, Trade Center/Coliseum, UI presentation, idempotency, final Selene comparison, emulator coverage, final vault/file-map synchronization, and draft PRs: **NOT TESTED / not implemented in this continuation**.

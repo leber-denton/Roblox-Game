@@ -4,6 +4,8 @@
 	Safe to re-run: it only destroys and rebuilds Workspace.ShowcaseArea. Source models are never touched.
 	Showcase models are CLONES (not Packages), so editing one does not update the others.
 	What goes in each section comes from ServerStorage.ModelSyncLookup (plus Workspace.ModelGallery trainers).
+	ROUTE DECOR SETS gets one row per route (Lookup.ROUTE_ORDER / ROUTE_SETS), each with the route's name at
+	its west end, so a route's whole decoration set reads left to right.
 	Models are made inert (anchored, scripts off, tags removed); the original anchoring, script state and
 	tags are saved as Showcase* attributes so ModelSync.apply can restore them on the real copies.
 	Run in Studio's command bar:  require(game.ServerStorage.ShowcaseBuilder).build()
@@ -23,6 +25,9 @@ local COLUMNS = 8
 local GAP_X = 20 -- clear studs between neighbouring models on X
 local GAP_Z = 25 -- clear studs between rows on Z
 local SECTION_GAP = 60 -- clear studs between category sections
+local PACK_GAP = 12 -- clear studs between models in a packed (grouped) row
+local PACK_WRAP = 420 -- a packed row wraps once it is this wide
+local PACK_TITLE = 30 -- a packed row's title sits this far west of its first model
 
 local SAFE_SERVICES = {
 	Workspace = true,
@@ -93,7 +98,8 @@ local function galleryTrainers(list)
 	end
 end
 
--- Returns { {name=, items={ {name=, src=} }} } and the names whose source could not be found.
+-- Returns { {name=, items={ {name=, src=} }, groups = optional { {title=, items=} }} } and the names whose
+-- source could not be found.
 local function categories()
 	local byCat, missing = {}, {}
 	for _, cat in ipairs(Lookup.CATEGORY_ORDER) do
@@ -110,7 +116,27 @@ local function categories()
 	galleryTrainers(byCat.TRAINERS)
 	local result = {}
 	for _, cat in ipairs(Lookup.CATEGORY_ORDER) do
-		table.insert(result, { name = cat, items = byCat[cat] })
+		local section = { name = cat, items = byCat[cat] }
+		if cat == "ROUTE DECOR SETS" and Lookup.ROUTE_ORDER then
+			-- one group (row) per route, in walking order
+			local byName = {}
+			for _, it in ipairs(byCat[cat]) do
+				byName[it.name] = it
+			end
+			section.groups = {}
+			for _, route in ipairs(Lookup.ROUTE_ORDER) do
+				local group = { title = route, items = {} }
+				for _, n in ipairs(Lookup.ROUTE_SETS[route] or {}) do
+					if byName[n] then
+						table.insert(group.items, byName[n])
+					end
+				end
+				if #group.items > 0 then
+					table.insert(section.groups, group)
+				end
+			end
+		end
+		table.insert(result, section)
 	end
 	table.sort(missing)
 	return result, missing
@@ -127,14 +153,15 @@ end
 
 -- Floating name tag. adornee is the specific model/part it belongs to; the tag is a BillboardGui parented
 -- to that instance and offset in world space above it, so it can only ever appear over its own model.
+-- big: true = section header, "row" = a group's row title, false/nil = a model's name tag.
 local function label(parent, text, adornee, offsetY, big)
 	local gui = Instance.new("BillboardGui")
 	gui.Name = "NameTag"
 	gui.Adornee = adornee
-	gui.Size = big and UDim2.fromOffset(520, 90) or UDim2.fromOffset(200, 36)
+	gui.Size = big == "row" and UDim2.fromOffset(320, 54) or big and UDim2.fromOffset(520, 90) or UDim2.fromOffset(200, 36)
 	gui.StudsOffsetWorldSpace = Vector3.new(0, offsetY, 0)
 	gui.AlwaysOnTop = false
-	gui.MaxDistance = big and 400 or 120
+	gui.MaxDistance = big == "row" and 260 or big and 400 or 120
 	gui.Parent = parent
 	local t = Instance.new("TextLabel")
 	t.Size, t.BackgroundTransparency = UDim2.fromScale(1, 1), 1
@@ -204,28 +231,74 @@ function ShowcaseBuilder.build()
 			maxX, maxZ = math.max(maxX, e.X), math.max(maxZ, e.Z)
 		end
 		local cellX, cellZ = maxX + GAP_X, maxZ + GAP_Z
-		local rows = math.max(1, math.ceil(#items / COLUMNS))
+		-- where each model goes (x from ORIGIN.X, z from the section's first row)
+		local placed, titles = {}, {}
+		local x0, x1, z0, depth
+		if cat.groups then
+			-- one packed row per group: models sit side by side by their own width, so a route's small
+			-- props are not lost in cells sized for its one big landmark
+			local zCursor, widest = 0, 0
+			for _, group in ipairs(cat.groups) do
+				table.sort(group.items, function(a, b)
+					return a.name < b.name
+				end)
+				local xCursor, rowDepth, rowStart = 0, 8, #placed + 1
+				for _, it in ipairs(group.items) do
+					local e = extents(it.src)
+					if xCursor > 0 and xCursor + e.X > PACK_WRAP then -- a very long set wraps onto a second row
+						for i = rowStart, #placed do
+							placed[i].z = zCursor + rowDepth / 2
+						end
+						zCursor += rowDepth + PACK_GAP
+						xCursor, rowDepth, rowStart = 0, 8, #placed + 1
+					end
+					table.insert(placed, { it = it, x = xCursor + e.X / 2, z = 0 })
+					xCursor += e.X + PACK_GAP
+					rowDepth = math.max(rowDepth, e.Z)
+					widest = math.max(widest, xCursor)
+				end
+				for i = rowStart, #placed do
+					placed[i].z = zCursor + rowDepth / 2
+				end
+				table.insert(titles, { text = group.title, x = -PACK_TITLE, z = zCursor + rowDepth / 2 })
+				zCursor += rowDepth + GAP_Z
+			end
+			x0, x1, z0, depth = -PACK_TITLE - 30, widest, -10, zCursor
+		else
+			local rows = math.max(1, math.ceil(#items / COLUMNS))
+			for i, it in ipairs(items) do
+				table.insert(placed, { it = it, x = ((i - 1) % COLUMNS) * cellX, z = math.floor((i - 1) / COLUMNS) * cellZ })
+			end
+			local width = cellX * math.min(COLUMNS, math.max(1, #items))
+			x0, x1, z0, depth = -cellX / 2 - 10, width - cellX / 2 + 10, -cellZ / 2 - 10, (rows - 0.5) * cellZ + 10
+		end
 		local folder = Instance.new("Folder")
 		folder.Name = cat.name
 		folder.Parent = root
 
 		local firstRowZ = cursorZ + 40 -- header sits 40 studs ahead of the first row
-		local width = cellX * math.min(COLUMNS, #items)
-		local floorCenter = ShowcaseBuilder.ORIGIN + Vector3.new(width / 2 - cellX / 2, -1, firstRowZ + (rows - 1) * cellZ / 2)
-		mkPart(folder, "Floor", Vector3.new(width + 20, 2, rows * cellZ + 20), CFrame.new(floorCenter))
-
-		local header = mkPart(
+		local midX = (x0 + x1) / 2
+		mkPart(
 			folder,
-			"Header",
-			Vector3.new(4, 4, 4),
-			CFrame.new(ShowcaseBuilder.ORIGIN + Vector3.new(width / 2 - cellX / 2, 30, cursorZ))
+			"Floor",
+			Vector3.new(x1 - x0, 2, depth - z0),
+			CFrame.new(ShowcaseBuilder.ORIGIN + Vector3.new(midX, -1, firstRowZ + (z0 + depth) / 2))
 		)
+
+		local header = mkPart(folder, "Header", Vector3.new(4, 4, 4), CFrame.new(ShowcaseBuilder.ORIGIN + Vector3.new(midX, 30, cursorZ)))
 		header.Transparency, header.CanCollide = 1, false
 		label(header, cat.name .. " (" .. #items .. ")", header, 0, true)
 
-		for i, it in ipairs(items) do
-			local col, row = (i - 1) % COLUMNS, math.floor((i - 1) / COLUMNS)
-			local pos = ShowcaseBuilder.ORIGIN + Vector3.new(col * cellX, 0, firstRowZ + row * cellZ)
+		for _, t in ipairs(titles) do
+			local anchor =
+				mkPart(folder, "RowTitle", Vector3.new(2, 2, 2), CFrame.new(ShowcaseBuilder.ORIGIN + Vector3.new(t.x, 8, firstRowZ + t.z)))
+			anchor.Transparency, anchor.CanCollide, anchor.CanQuery = 1, false, false
+			label(anchor, t.text, anchor, 0, "row")
+		end
+
+		for _, slot in ipairs(placed) do
+			local it = slot.it
+			local pos = ShowcaseBuilder.ORIGIN + Vector3.new(slot.x, 0, firstRowZ + slot.z)
 			local ok, clone = pcall(function()
 				return it.src:Clone()
 			end)
@@ -251,7 +324,7 @@ function ShowcaseBuilder.build()
 			end
 		end
 		counts[cat.name] = #items
-		cursorZ = firstRowZ + rows * cellZ + SECTION_GAP
+		cursorZ = firstRowZ + depth + SECTION_GAP
 	end
 
 	-- arrival pad in front of the first section

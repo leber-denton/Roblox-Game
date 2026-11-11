@@ -13,7 +13,7 @@ Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after 
 
 ## Environment facts
 - Studio has the cloud test place "LilDiesel468's Place: 11102026_1" (placeId 94034385545160) open; Rojo (`rojo serve`, 7.7.1) syncs into it. The live game (113252540027729) is never touched.
-- `CQ_NewestSource_TEST.rbxl` does not exist on disk, and the owner declined Studio control for "Save to File As". **Backups are in-place**: before each phase a folder `ServerStorage.Backups.Phase<N>_<HHMM>` gets clones of what that phase changes, plus TerrainRegion copies. These only persist if the owner saves the place (File > Save to Roblox). Nothing in this run saves or publishes the place.
+- Local backups: see the Phase 2 closure section above (`C:\Claude\CQ_NewestSource_TEST*.rbxl`, made with File > Download a Copy). Before each phase a folder `ServerStorage.Backups.Phase<N>_<HHMM>` also gets clones of what that phase changes, plus TerrainRegion copies; these persist only if the place is saved. The owner keeps his own backups, so the script does not make one.
 - Branches are stacked (each phase from the previous one) because Rojo syncs whatever is checked out into Studio; a branch from bare `main` would roll back earlier phases' scripts in Studio. Base: `fix/meadow-corridor-decor-exempt` (rebased on main, pushed), then `overhaul/p1-audit`, `overhaul/p2-regions`, ...
 - MCP `execute_luau` in Edit can't `require` repo modules: use `loadstring(module.Source)()`. On the server in Play, `loadstring` is off; `require` works there. Rojo changes reach Play only after stopping and starting Play.
 - StreamingEnabled: Play screenshots far from the character show unstreamed (missing) parts. Use Edit-mode `screen_capture` with a camera position, or move the character first.
@@ -21,11 +21,22 @@ Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after 
 ## Phase status
 - [x] Phase 1 audit: `claude/audit.md`, tool `src/ServerStorage/RouteWalker.luau`. Branch `overhaul/p1-audit`.
 - [x] Phase 2 regions: all 16 routes themed, checked and screenshot-reviewed (`claude/region-rollout.md`), branch `overhaul/p2-regions`. Closed 2026-11-10 (canopy exclusion narrowed, gyms and Meadow end verified). Left for Phase 3: vault notes for RegionStyle/RegionRollout/RouteWalker.
-- [ ] Phase 3 showcase
+- [~] Phase 3 showcase: **IMPLEMENTATION COMPLETE** (2026-11-10). Branch `overhaul/p3-showcase`, stacked on `overhaul/p2-regions`. Compact, route-labelled, reference-only Route Decor Sets.
+  - PASSED (Edit, fresh build, no injected loader): `ShowcaseBuilder.build()` gives format 2, 99 route-decor entries across 15 routes, 15 row titles, 0 missing sources. Section counts: TRAINERS 9, GYM LEADERS 16, ROUTE TRAINERS 48, DUNGEON TRAINERS 10, NPCS 17, BALLS 20, CREATURES 50, DECORATIONS 10, MAP PROPS 43.
+  - PASSED: `ModelSync.audit()` 0 findings; `ModelSync.apply("Mirage Desert: Cactus")` refused ("reference-only gallery model").
+  - PASSED: screenshot of the route rows (titles at the west end, sets read left to right).
+  - PASSED: `selene src tests` 0 errors, 69 warnings (baseline).
+  - NOT TESTED: `/showcase` typed in chat in Play (owner arrives at (-3045, 56, 0); non-owner gets nothing). Automated chat injection was unreliable and was dropped to save time. By code review, `Showcase.server.luau` returns before doing anything when `origin.UserId ~= 1170990981`. To test: Play, type `/showcase`, then `/showcase off`.
+  - The rebuilt `Workspace.ShowcaseArea` lives in the place file: save the place in Studio to keep it.
+  - Runtime vs Edit audit: they disagree by design, see below.
 - [ ] Phase 4 dungeon
 - [ ] Phase 5 Trade Center / Coliseum
 - [ ] Phase 6 UI
 - [ ] Final checks, changes-report.md
+
+## Phase 3 audit note: Play vs Edit
+
+`ModelSync.audit()` in a Play server reports 13 findings; in Edit mode it reports 0. The difference is not a bug in the lookup. At runtime gym leaders are renamed and StoryMilestones NPCs are spawned in, so the Play server contains NPCs that have no source in the Edit place, and the static lookup (an Edit-place table) deliberately does not map them. **The Edit-mode audit is the one that counts.** Ignore the Play-time findings unless they name something outside those two groups.
 
 ## Decisions so far
 - The main cause of the bad look is `NPCAnimator.buildQuestWorld()` (GateBaffles, decor trim, divider spine), which runs at server start. Phase 2 changes it as well as the place.

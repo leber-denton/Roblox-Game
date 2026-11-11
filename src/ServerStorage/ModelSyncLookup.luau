@@ -12,6 +12,7 @@
 	  softTemplate  the template may be missing (NPCBackup only has some NPCs); that is not an error
 	  source     what ShowcaseBuilder clones into the showcase (defaults to map[1], then template)
 	  reference  true = design reference only, apply/restore refuse to touch anything
+	  route      (ROUTE DECOR SETS only) the route whose RegionStyle theme uses this template
 
 	Creatures and balls have no copies placed in the map: they are spawned from their template at
 	runtime, so their entry is just a template path. Updating the template updates every future spawn.
@@ -33,6 +34,7 @@ Lookup.CATEGORY_ORDER = {
 	"CREATURES",
 	"DECORATIONS",
 	"MAP PROPS",
+	"ROUTE DECOR SETS",
 }
 
 local entries = {}
@@ -269,6 +271,84 @@ for _, n in ipairs({
 	"Windmill",
 }) do
 	entries[n] = { category = "MAP PROPS", map = {}, byName = "Workspace.Map.Decor", propsFolderOnly = true }
+end
+
+-- Route decoration sets (Overhaul Phase 2). Every route's dressing (Workspace.Map.Decor.<Lane>Dressing) is
+-- cloned by RegionDecorator from the templates its RegionStyle theme lists, so the sets are read from
+-- RegionStyle here instead of being typed twice: one entry per route per template, named
+-- "<Route name>: <Template>". They are reference-only. To change a prop everywhere, edit its own entry
+-- (DECORATIONS / MAP PROPS) or the template in Map.Decor, then re-run RegionRollout for the route; a name
+-- match across the dressing would flatten the variants (Cactus, Coral, Grave, ...).
+Lookup.ROUTE_SETS = {} -- route name -> sorted list of showcase names
+Lookup.ROUTE_ORDER = {} -- route names in walking order (Region 1 then Region 2)
+local function regionStyle()
+	local shared = game:GetService("ReplicatedStorage"):FindFirstChild("Shared")
+	local mod = shared and shared:FindFirstChild("RegionStyle")
+	if not mod then
+		return nil
+	end
+	local function valid(value)
+		return type(value) == "table" and type(value.lanes) == "table"
+	end
+	-- In Edit, require() keeps returning the table from the first require of the session, even after Rojo
+	-- syncs a new RegionStyle, so the sets would be built from stale themes. RegionStyle is plain data with
+	-- no requires of its own, so compile its current Source instead. In Play loadstring is off and the
+	-- module cannot have changed since the server started, so require() is right there.
+	if not game:GetService("RunService"):IsRunning() then
+		local ok, fresh = pcall(function()
+			return loadstring(mod.Source)()
+		end)
+		if ok and valid(fresh) then
+			return fresh
+		end
+	end
+	local ok, style = pcall(require, mod)
+	return (ok and valid(style)) and style or nil
+end
+local style = regionStyle()
+if style then
+	local themes, laneOf = {}, {}
+	for lane, theme in pairs(style.lanes) do
+		table.insert(themes, theme)
+		laneOf[theme] = lane
+	end
+	table.sort(themes, function(a, b)
+		if a.region ~= b.region then
+			return a.region < b.region
+		end
+		return a.order < b.order
+	end)
+	for _, theme in ipairs(themes) do
+		table.insert(Lookup.ROUTE_ORDER, theme.name)
+		local seen, names = {}, {}
+		for _, rule in ipairs(theme.decor or {}) do
+			local path = rule[2]
+			if rule[1] == "fence" and path == "" then
+				-- fence runs are built in place, not cloned: show the first one in the route's dressing
+				path = "Map.Decor." .. laneOf[theme] .. "Dressing.FenceRun"
+			end
+			if type(path) == "string" and path ~= "" and not seen[path] then
+				seen[path] = true
+				local parent, leaf = path:match("([^%.]+)%.([^%.]+)$")
+				local name = theme.name .. ": " .. (leaf or path)
+				if entries[name] then -- two folders with a prop of the same name in one set
+					name = theme.name .. ": " .. parent .. " " .. leaf
+				end
+				entries[name] = {
+					category = "ROUTE DECOR SETS",
+					map = {},
+					source = "Workspace." .. path,
+					reference = true,
+					route = theme.name,
+				}
+				table.insert(names, name)
+			end
+		end
+		table.sort(names)
+		Lookup.ROUTE_SETS[theme.name] = names
+	end
+else
+	warn("ModelSyncLookup: ReplicatedStorage.Shared.RegionStyle could not be loaded; route decor sets left out")
 end
 
 -- Template folders the audit compares against the entries above, so a new creature/ball/decor/companion
