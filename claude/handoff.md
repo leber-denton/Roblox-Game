@@ -35,7 +35,12 @@ Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after 
   - NOT TESTED: the leave portal and a defeat (testing was stopped there by request); the 3.1 rest-room arrival; the Tower 2 team balance in real play.
   - Fixed after the Play run, not re-run: the lantern-case and pauldron props were a near-black violet, now warm grey.
   - Save the place in Studio to keep Rooms 12-21, the repainted tower and portal, and the fixed trainers.
-- [ ] Phase 5 Trade Center / Coliseum: next. Branch `overhaul/p5-arenas` from `overhaul/p4-dungeon`; spec in `claude/phase4-6-prompt.md`.
+- [ ] Phase 5 Trade Center / Coliseum: awaiting owner approval after the 2026-11-10 checkpoint; branch `overhaul/p5-arenas`, stacked on `overhaul/p4-dungeon`. Visual-only: no trade, Coliseum, economy, or battle logic changed.
+  - PASSED (Edit): exactly one `Workspace.Map.Coliseum` and one `RomanShell`; the stale duplicate Roman-shell copies are no longer in the live map. The Roman arena has a three-storey arcade, tiered stands, gallery, braziers, entrance tunnel, cypresses, and an enclosed red-and-cream velarium. The Trade Center has a continuous lagoon shoreline and beach dressing clear of the arrival route, fountain, palms, and stalls. One screenshot was captured and reviewed at a time for Coliseum exterior, Coliseum interior, and Trade Center.
+  - PASSED (Play, fresh start): `StadiumShell=0`, `MarketHall=0`, `RomanShell=1`; both `Map.Coliseum` and `Map.TradePlaza` retain `Arrive` and `ExitPortal`; both area models load on the client. This confirms the old runtime wrappers no longer cover the Rojo-synced designs.
+  - PASSED: `ModelSync.audit()` 0 findings in Edit (its source was evaluated with an injected `ModelSyncLookup`, because bare `loadstring(ModelSync.Source)()` has no `script.Parent` in the Studio command executor); `selene src tests` 0 errors, 66 warnings (three fewer than the previous 69-warning baseline, because the removed runtime wrapper helpers carried warnings).
+  - NOT TESTED: triggering the hub portals and exit prompts end-to-end, a multiplayer trade, or a Coliseum match. The automated character navigator cannot route across the intentionally disconnected arena islands, so it could not substitute for a portal test. Existing Studio console warnings were unrelated Dungeon NPC-guard resets, disabled DataStore API access, and a legacy asset-type mismatch.
+  - Save the Studio place to preserve any live-place cleanup of stale Coliseum copies/backups before switching branches.
 - [ ] Phase 6 UI
 - [ ] Final checks, changes-report.md
 
