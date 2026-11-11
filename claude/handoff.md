@@ -11,6 +11,7 @@
 - Remaining: construction price, isolated real save/rejoin, two-player security/trade/PvP, complete climb/exploit and controller/mobile staircase testing. Hub terrain in Play screenshots can be partially unstreamed away from the character; Edit captures and retained boundary are the structural reference.
 - Prior Phase 4–6 gaps remain open except the two arena portal round trips now passed here. Do not infer Phase 6 approval or multiplayer trade/PvP coverage.
 - Detailed files, source contracts, tests and limitations: `claude/ridge-base-validation.md`, `vault/Systems/BaseProgression.md`. Do not push, open a PR, publish live, or migrate production saves without owner approval.
+- 2026-11-11: owner approved pushing this branch and Phase 6 `e679a1793` as one PR (still no live publish or production save migration). `CoastalEscarpmentBuilder.build()` now also refuses while `Map.Mountains.Coast` exists: the coast ridge is part-built now (see `vault/Systems/MountainLookouts.md`), so never run this builder's `build()` or `restore()` over it.
 
 Resume notes for the world/dungeon/UI overhaul started 2026-11-10. Update after each phase.
 

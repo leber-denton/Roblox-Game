@@ -6,6 +6,9 @@ function Builder.build()
 	assert(game:GetService("RunService"):IsStudio() and game.PlaceId == 94034385545160, "Cloud test place only")
 	assert(game.ServerStorage.Backups:FindFirstChild("RidgeBase_PreBuild"), "Back up terrain first")
 	if workspace.Map:FindFirstChild("CoastalEscarpment") then return false end
+	-- Replaced by part-built Map.Mountains.Coast (MountainPartBuilder); never sculpt terrain over it.
+	local mountains = workspace.Map:FindFirstChild("Mountains")
+	if mountains and mountains:FindFirstChild("Coast") then return false end
 	local terrain = workspace.Terrain
 	-- Overlapping, irregular buttresses blend the old Z=-480 cut face into a broad coastline.
 	-- All fills stay inside the copied terrain region and south of the hub-facing mass.
